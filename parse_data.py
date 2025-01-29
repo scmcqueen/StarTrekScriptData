@@ -2,8 +2,6 @@ import pandas as pd
 from datetime import datetime
 import re
 
-
-# f = open("103.txt", "r")
 def open_file(filename):
     f = open(filename, "r")
     text = f.read()
