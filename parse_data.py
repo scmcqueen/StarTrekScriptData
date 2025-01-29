@@ -47,6 +47,14 @@ def clean_name(name: str) -> str:
             name = name.replace(txt, '')
     return re.sub("[\(\[].*?[\)\]]", "", name.strip())
 
+def get_view(loc:str):
+    output = None
+    views = ['INT.','EXT.']
+    for v in views:
+        if v in loc:
+            output=v
+    return(output)
+
 def clean_location(loc:str):
     views = ['INT.','EXT.']
     output = loc
@@ -89,6 +97,8 @@ def get_date(lines):
 def create_df(filepath: str) -> pd.DataFrame:
     lines = open_file(filepath)
     test_df = get_quotes(lines)
+    test_df['location']=test_df['scene'].apply(clean_location)
+    test_df['view']=test_df['scene'].apply(get_view)
     test_df['character'] = test_df['character'].apply(clean_name)
     test_df['episode'] = get_title(lines)
     return test_df
