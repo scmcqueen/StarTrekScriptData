@@ -5,8 +5,13 @@ from os import listdir
 from os.path import isfile, join
 
 def open_file(filename):
-    f = open(filename, "r")
-    text = f.read()
+    try:
+        f = open(filename, "r")
+        text = f.read()
+    except:
+        f = open(filename, "r",encoding='latin-1')
+        text = f.read()
+        # encoding='latin-1'
     lines = text.split('\n')
     return lines
 
@@ -124,9 +129,9 @@ if __name__ == "__main__":
 
     for name in file_dict.keys():
         print(name)
-        df = create_df(name)
+        df = create_df(file_dict[name]+name)
         df['series']=folders[file_dict[name]]
-        df.to_csv(file_dict[name]+'_data/'+name.replace('.txt', '.csv'))
+        df.to_csv(file_dict[name].replace('/','_data/')+name.replace('.txt', '.csv'))
         main_df = pd.concat([main_df, df], axis=0)
 
     main_df.to_csv('complete_data.csv')
