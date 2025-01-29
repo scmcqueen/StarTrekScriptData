@@ -1,479 +1,479 @@
-,character,quote,scene,location,view,episode,date,series
-0,RIKER ,"   First officer's log, stardate 41986.0.   The captain has left the ship for   a conference and we are awaiting   his return. It is unusual for us   to be motionless, and a unique   experience for everyone concerned.",2    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-1,DATA,   This is quite intriguing. It is   transmitting a carrier signal on   a frequency which has not been used   for centuries.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-2,RIKER,   Is there a message?,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-3,DATA,"   None. Just the carrier, possibly   intended for encoded computer or   telemetry information.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-4,WORF,   I have never seen a space vehicle   like it.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-5,DATA,"   Strictly speaking, it is not a   ""space vehicle."" It appears to   be a satellite, similar in its   rudimentary design to those which   orbited Earth in the late   twentieth and early twenty-first   centuries.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-6,RIKER,   Three hundred years ago.       Then there probably aren't any   life signs?,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-7,DATA,   None.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-8,DATA,       The power is solar... quite   primitive. There is however   minimum life support.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-9,GEORDI,"   I wonder how it got out here.   If it was in orbit around Earth,   even at maximum impulse -- and   there's no way it could travel   any faster, it would have taken   a dozen centuries to get here.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-10,WORF,"   At its present speed and heading,   the vehicle will eventually enter   the Kazis Binary system and will   certainly be destroyed.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-11,WORF,"       Sir, I could attach a tractor beam   and adjust its heading.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-12,RIKER,"   I think not, Mister Worf. It's just   a piece of space debris. If we   weren't sitting here waiting for   the captain, we wouldn't have even   noticed it. Leave it be. Let   nature take its course. How long   until Captain Picard returns?",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-13,WORF,   The last communication indicated   it would be several hours.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-14,DATA,"   Commander, request permission to   investigate this vehicle.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-15,RIKER,"   Why, Data? It's just a derelict.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-16,DATA,"   It is a piece of history. The   opportunity to examine such an   ancient vehicle does not come   around very often, and as you   pointed out, we do have the time.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-17,RIKER,"   All right, Data. But be ready   to beam back before the captain   returns.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-18,DATA,"   Thank you, sir.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-19,RIKER,   Lieutenant Worf -- go with him.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-20,WORF,"   Aye, sir.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-21,DATA,"   Minimal oxygen atmosphere.       An ancient solar generator,   still operating.",7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-22,WORF,   Computer -- status report.,7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-23,WORF,       Computer...,7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-24,DATA,"   In the late twentieth century,   computers were not voice activated,   Worf.",7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-25,DATA,"       Notice the readouts -- dials,   needle machines, gauges.   Remarkable what they used three   centuries ago. The on-board   computers have ceased functioning.   I may be able to download this old   style disk drive back to the   Enterprise.",7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-26,WORF,   It must be sealed -- probably   with age. I will blast it open.,7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-27,DATA,   Not necessary.,7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-28,RIKER,"   Data, this is Riker. What   have you found?",10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-29,DATA,   Very little so far.,10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-30,GEORDI,   I have picked up the captain's   shuttle.,10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-31,RIKER,   E.T.A.?,10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-32,GEORDI,"   Twelve minutes, sir.",10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-33,RIKER,   Alert Main Shuttle Bay.,10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-34,GEORDI,"   Aye, sir.",10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-35,DATA,   The seal was broken and the   environment has been corrupted.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-36,WORF,   Here's another.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-37,DATA,   This one is empty.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-38,DATA,       It has been forced open and the   occupant removed.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-39,WORF,   Commander. Look at this.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-40,WORF,   Has she been frozen for an   extended journey?,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-41,DATA,"   If that were the purpose, there   would be evidence of a more   sophisticated monitoring system.   This container is designed solely   for refrigeration.",12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-42,WORF,   What is the destination?,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-43,DATA,   I do not believe they were going   anywhere. This vehicle should   still be in Earth orbit.,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-44,WORF,   There is no way it could break   orbit and travel this distance   on its own power. Not in three   hundred years -- not in three   thousand. Some intelligent lifeform   must have brought it to   this section of the galaxy.,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-45,DATA,    (indicating the crypts     with the shriveled     forms)   These crypts were opened.    (indicating the empty     crypts)   The occupants in those were taken.,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-46,WORF,"   Why take some of them, destroy   others, and leave her apparently   untouched?",12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-47,DATA,   Perhaps they learned all they   could from the others. We may   never know.,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-48,GEORDI,   The captain's shuttle is   approaching Main Shuttle Bay.,14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-49,PICARD,"   Enterprise, this is the captain.   Number One, I want to get underway   as soon as the shuttle is secure.",14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-50,RIKER,"   Aye, sir. We will make all   preparations.       Commander Data, return to the   Enterprise -- immediately.",14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-51,DATA,   We have run into an unusual   situation here. There are people   on-board. Frozen.,14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-52,RIKER,   Frozen. How many?,14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-53,DATA,   Three. What should I do? The   vehicle has suffered severe   damage. Most of the systems   have failed.,15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED),DERELICT - THE SECOND ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-54,RIKER,   Are you recommending they be   transferred to the Enterprise?,15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED),DERELICT - THE SECOND ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-55,DATA,"   I do not think we should leave   them here. With your permission,   sir, we will be returning with   three containers.",15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED),DERELICT - THE SECOND ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-56,RIKER,"   Whatever you do, do it quickly.",15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED),DERELICT - THE SECOND ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-57,PICARD,"   Number One, I want a meeting on   the Observation Deck. Mister La   Forge, set course zero-five-eight,   mark nine-seven-three.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-58,GEORDI,"   Aye -- laying in the course now.       Captain, those coordinates will   take us to the Neutral Zone.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-59,PICARD,"   That's correct Mister La Forge, warp   factor eight.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-60,GEORDI,   Warp eight.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-61,PICARD,"   Engage. Mister La Forge, you have   the bridge.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-62,PICARD,   Two Federation outposts in Sector   three-zero have been destroyed.   There has been no communication   with any Federation starbases in   Sector three-one since stardate   41903.2.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-63,WORF,   Romulans.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-64,PICARD,   That is the assumption.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-65,RIKER,   There's been no direct contact   with the Romulans since the Tomed   Incident.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-66,PICARD,"   The question is: Why here? Why   now? What's their objective, if   indeed they have one? For half   a century there's barely a whisper   about them and now for no apparent   reason they seem to be back with   a roar. Why?",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-67,RIKER,   Almost everything we know about   them is based on rumor and   conjecture.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-68,PICARD,   The strategic decision is to send   one ship.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-69,RIKER,   The Enterprise.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-70,PICARD,   Yes.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-71,WORF,   There is a risk. We could get   out there and find ourselves   greatly over-matched.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-72,PICARD,   True enough -- it is a gamble.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-73,RIKER,   This first encounter... coming   so suddenly after all this time.   There's a very good chance it's   a setup.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-74,DATA,   Perhaps the Romulans are probing.   They want to see how we react.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-75,WORF,"   Captain, we should expect   hostilities.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-76,PICARD,"   Prepare as always. If force is   needed we will use it, but that   will mean we have failed. Our   goal here is to establish some   kind of relations with the   Romulans -- failing that -- to   convince them of our resolve and   to do this without resorting to   force. Right now, the general   feeling is that they are seeking   a confrontation. They may want   to test themselves in battle   against a Federation starship to   gauge how much we have advanced.   Personally, I think it is   possible they have different   motives altogether based on needs   which we have not identified.   If that's the case... I must know   it.       Counselor -- I will need a complete   profile on them.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-77,TROI,"   There is limited information, but   I will prepare something.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-78,PICARD,"   Data. Extrapolate for me the   logical progression of their   technical advancement;   specifically, but not restricted   to -- weapons.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-79,DATA,"   Aye, sir.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-80,PICARD,"       I want this thought through   completely. Anticipate, as much   as you can, all the possible   permutations.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-81,PICARD,"       Computer, how long before we   arrive at the Neutral Zone?",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-82,COMPUTER,"   Nineteen hours, twenty-eight   minutes.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-83,PICARD,"   We will reassemble in six hours.   Let's be smart. No surprises.   I would much rather outthink them,   than outfight them. Questions?",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-84,GEORDI,"       Captain.       Doctor Crusher said she would like   to talk with you, when you   finished your meeting.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-85,PICARD,"   Thank you.       Doctor Crusher, this is the   captain.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-86,BEVERLY,"   Oh, good. Captain, could you   possibly join me in Sickbay?",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-87,BEVERLY,       I would not ask you if it wasn't   important.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-88,PICARD,"   I will be right there.       Take the Conn, Number One. I   won't be long.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-89,PICARD,"   What is it, Doctor?",21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-90,BEVERLY,   It's the people from the capsule.,21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-91,PICARD,   Capsule? People? What people?,21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-92,BEVERLY,   The people Data beamed over.,21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-93,PICARD,   I wasn't aware he had.,21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-94,BEVERLY,"   Well, he did and they were frozen.   I thawed them.",21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-95,PICARD,   You what?,21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-96,BEVERLY,   I didn't know what else to do.   The crypts in which they had been   frozen were literally falling   apart. It was either that...   or...,21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-97,PICARD,   What's their condition?,21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-98,BEVERLY,"   Right now they are all sleeping.   Each of them needed minor medical   attention... minor ""now"", but   ""then"" their conditions were   obviously terminal. One had a   heart problem, another had an   advanced case of emphysema and   extensive liver damage. But the   most surprising thing, is that   each of them had been frozen after   they died.",21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-99,PICARD,   After they died?,21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-100,BEVERLY,"   Exactly. Cryonics. It was a   kind of fad in the late twentieth   century. People feared dying.   It terrified them. At the moment   of death, they would be frozen,   so that later... some time in the   future, when presumably medical   science had a cure for whatever   killed them, they would be thawed   back to life, healed and sent on   about their business.",21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-101,PICARD,"   Well, for this group, apparently   it worked.",21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-102,PICARD,"       Lieutenant Commander Data, please   report to Sickbay -- immediately.",21   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-103,DATA,   Permission to leave the bridge.,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-104,RIKER,   Granted.,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-105,PICARD,"   I am never critical of any member   of my staff being curious, but...   the timing is just so...",23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-106,DATA,"   I could not leave them there,   Captain. The condition of the   vehicle was deteriorating.",23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-107,PICARD,"   But, Data -- they were already   dead. I mean... what more could   have happened to them?",23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-108,DATA,"   I see your point, Captain, but   at the time...",23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-109,PICARD,   You're right -- under the   circumstances I would have done   exactly the same.,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-110,BEVERLY,   When they arrived... what was I   supposed to do? Not help them?,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-111,BEVERLY,       My question is: What do we do   with them now?,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-112,PICARD,   What are the options?,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-113,DATA,   We cannot go back and return them   to their ship.,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-114,BEVERLY,   We can't refreeze them.,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-115,PICARD,"   They are alive now, so we have   to treat them as living human   beings.",23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-116,BEVERLY,"   Alive and well, just waiting to   be awakened.",23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-117,BEVERLY,       I have them sedated but they   should be up and about as soon   as possible.,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-118,PICARD,   Well...,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-119,PICARD,"       Then, there really is no choice.",23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-120,BEVERLY,   None that I can see.,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-121,PICARD,"   Before you wake them, I want   Security here.       Mister Worf, report to Sickbay.",23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-122,PICARD,   ... Welcome to the twenty-fourth   century.,23   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-123,DATA,   I was able to retrieve some   information from the ancient disk   I removed from the module's   computer. Based on that...,27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-124,DATA,"   Her name is Clare Raymond, age   thirty-five; occupation,   homemaker... must be some kind   of construction work.",27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-125,BEVERLY,"   She died of an embolism. It   probably happened very suddenly,   otherwise her physical condition   was excellent.",27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-126,DATA,"   His name is Ralph Offenhouse, age   sixty-three; occupation,   financier.",27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-127,BEVERLY,"   Advanced cardiomyopathy,   inoperable at the time, but easily   correctable now. He must have   known for some time his condition   was terminal.",27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-128,DATA,"   Much of his file could not be   retrieved. His name is L. Q.   ""Sonny"" Clemonds. Apparently his   occupation had something to do   with music.",27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-129,BEVERLY,   There was marked deterioration   of every system in his body.   Probably due to massive chemical   abuse. Unbelievable.,27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-130,PICARD,   That sounds like someone who hated   life -- yet he had himself frozen   so presumably he could go through   it all again.,27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-131,BEVERLY,   Fear. Too afraid to live... too   scared to die.,27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-132,PICARD,"   Doctor, this seems to be a   situation more suited to your   talents. I will leave it in your   hands.",27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-133,PICARD,       I'll be on the bridge.,27   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-134,BEVERLY,"   I know you have a lot of   questions, but I would like you   to wait. You are feeling a   certain amount of disorientation.   In a little while it should pass;   then we can fully discuss what   has happened. Nurse Wright will   furnish you with anything you   need.",31   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-135,RALPH,   Not so fast. Is this part of the   service or is it extra?,31   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-136,BEVERLY,   I think it would be best if...,31   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-137,RALPH,   I demand to know the cost of   anything you do before the   procedure is approved.,31   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-138,BEVERLY,"   I have no idea what you're talking   about.    (then, mostly for the     others)   Just take it slowly. Everything   is fine. Worf, would you show   them to the guest quarters.",31   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-139,WORF,   This way.,31   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-140,PICARD,"       Number One, kindly take charge   of our guests until we have time   to decide what we are going to do   with them.",32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-141,RIKER,"   Aye, sir.",32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-142,PICARD,   ... and keep them out of my way.,32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-143,DATA,    (requesting to join     Riker)   Sir?,32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-144,RIKER,   I know this is all very confusing   to you so I'll attempt to   explain. First -- you are on the   starship -- USS Enterprise.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-145,RALPH,   American?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-146,RIKER,   No -- we are a vessel of the United   Federation of Planets. Earth is   a member.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-147,RALPH,   What year is this?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-148,DATA,   By your calendar... two thousand   three hundred sixty-four.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-149,RALPH,       What?       My heart? Is it...,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-150,BEVERLY,"   It's perfectly fine. In fact,   you are all now in excellent   health.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-151,RALPH,   I made it... It worked. I never   believed this was...,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-152,SONNY,       What's that?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-153,RIKER,   An android.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-154,SONNY,   You mean a robot?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-155,DATA,   Actually there is a distinct   difference between a robot and   an android.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-156,CLARE,   And him? The one I saw before   with the... head.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-157,BEVERLY,   She means Worf.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-158,RIKER,"   Oh, he's a Klingon, and that   requires a little more   explanation.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-159,SONNY,   Guys... listen. I paid some idiot   a lot of money to freeze me when   I died. I need to hear the   words... Am I alive?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-160,RIKER,"   Oh, yes... absolutely.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-161,SONNY,   And the liver that was about to   explode in my face.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-162,BEVERLY,   Perfectly sound.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-163,SONNY,   Great...,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-164,CLARE,    (who has remained     confused through it     all)   Excuse me. Would someone tell   me what's going on?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-165,BEVERLY,   Well... About three hundred and   seventy years ago you died of a   massive embolism.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-166,CLARE,   I don't remember anything about   it.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-167,BEVERLY,   You and the others were frozen.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-168,SONNY,   Cryonics -- you know... freeze you   now... heal you later.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-169,CLARE,   I've heard about it; I just never   paid it much mind. How did we   get here?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-170,DATA,   Why were you in a module?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-171,SONNY,   The whacko who sold me this scam   said that by putting us in orbit   there would be no chance of brown   out.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-172,RALPH,   Several cryonics companies had   fallen into disrepute because of   power failures which adversely   affected their refrigeration   system. Their stocks were   severely depressed.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-173,SONNY,"   The whole deal was a long shot...   but I figured... what the hell,   might as well give them the dough   instead of leaving it to my   ex-wives.       But you know, son, I figured it   was just so much hooey.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-174,DATA,"   Hooey? Accessing.       Ah, as in malarkey... jive...   bull... hogwash... an   intentional fabrication.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-175,SONNY,"   There you go, now you got it.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-176,RIKER,"       If you didn't contract for this,   who did?",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-177,CLARE,"   It must have been Donald -- my   husband. If it was new and   foolish, he'd have popped for it.   Well, I'll say this. It's the   first thing he ever bought into   that worked.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-178,RALPH,"   I, for one, never had a doubt.   My stock in this company must have   split a dozen times by now.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-179,DATA,"   Actually the process of cryonics   was never more than a fad, and   did not continue much beyond the   mid-twenty-first century.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-180,RALPH,   I need to make a phone call as   soon as possible.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-181,RIKER,   A phone call?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-182,RALPH,   I have provided for myself. I   have a substantial portfolio.   It's critical I check on it. Let   the bank know that I am alive and   well.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-183,RIKER,   That's ah... going to be a little   difficult right at the moment.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-184,RALPH,   Do you at least have a copy of The   Wall Street Journal?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-185,RIKER,"   I think we should take the   doctor's advice and go slowly.   Get adjusted to your new... ah...   whatever, and then we'll talk to   the captain.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-186,TROI,"   As you know, there is very little   available on the Romulans",33A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-187,PICARD,   Anything will help.,33A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-188,TROI,"   They seem to be creatures of   extremes. One moment violent   beyond description, the next --   tender. They're related to the   Vulcans but as each developed,   their differences grew wider.   They are intensely curious. Their   belief in their own superiority   is beyond arrogance. For some   reason they have exhibited a   fascination with humans and that   fascination, more than anything   else, has kept the peace. One   other thing, they will not   initiate. They will wait for   you to commit yourself.",33A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-189,PICARD,"       Counterpunches...       Thank you, Counselor. This is   quite helpful.",33A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-190,SONNY,   I don't know about you all... but   me -- I'm going to find the bar.   After all of this -- I need me a   drink.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-191,RIKER,   There is nothing of that nature   on board the Enterprise.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-192,SONNY,"   No bars?! Don't tell me that,   son. Well, where's the   restaurant? I'm so hungry.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-193,RIKER,   We have food stations.    (he indicates the     computer)   Simply tell the computer what you   want and it will be provided.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-194,SONNY,   Where do you eat it?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-195,RIKER,   Why... here... or anywhere. We're   not that structured.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-196,SONNY,   Now what?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-197,DATA,   Talk.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-198,SONNY,"   I'd like me a thick Kansas City   steak - country fried potatoes   -- a mess of greens -- and... Oh,   hell... forget all of that. Let   me have a martini - -straight up...   two olives.       ... for the vitamins.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-199,DATA,   Is there something wrong?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-200,SONNY,   Wrong? Only that your computer   here fixed just about the best   martini I have ever had.       I just might get to like this   place. Let's see if the Braves   are on. How do you turn on this   here teevee?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-201,RIKER,   Teevee?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-202,SONNY,"   Yeah, boob-tube... you know. I'd   like to find out how the Braves   are doin' after all this time.   Probably still finding ways to   lose.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-203,DATA,"       Oh -- I think he means television,   sir.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-204,SONNY,   Or maybe catch up on the soaps.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-205,DATA,       That particular form of entertainment   did not last much beyond the year   Two Thousand Forty.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-206,SONNY,"   So, what do you guys do? I mean,   you don't drink -- no teevee -- kind   of boring, isn't it?",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-207,PICARD,   Number One.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-208,RIKER,   Riker here.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-209,PICARD,   Would you and Mister Data report   to the bridge?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-210,RIKER,   On the way.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-211,RALPH,   With whom were you speaking?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-212,RIKER,   The captain.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-213,RALPH,   Ah... good. Tell him I would like   to see him as soon as it's   convenient.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-214,CLARE,   What is going to happen to us?   Do we stay here with you? Do we   go back to Earth?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-215,RIKER,   That will be up to the captain.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-216,RALPH,"   Well, get him in here. I have   to phone Geneva right away about   my accounts. The interest alone   could be enough to buy even this   ship.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-217,SONNY,   The Yankee's right. Let's get   the big boy in here.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-218,RIKER,"       I'll pass on your request. Now,   if you'll excuse us.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-219,SONNY,"   Duty calls -- hey, I understand...       ... come back later -- you and me   can find us a couple of   low-mileage pit woffies, and help   them build a memory.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-220,DATA,   What is to be done with them?,34   INT. CORRIDOR,CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-221,RIKER,   I don't know.,34   INT. CORRIDOR,CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-222,DATA,"   Commander. What is a   ""low-mileage-pit-woffie""?",34   INT. CORRIDOR,CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-223,RIKER,"   This time you have me, Data. I   haven't a clue.",34   INT. CORRIDOR,CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-224,DATA,   These are not like any other   humans I have ever encountered.   I find them fascinating.,34   INT. CORRIDOR,CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-225,RIKER,"   From what I have already seen   of our ""guests"", there is very   little to redeem them. In fact,   it makes me wonder, how our   species ever survived the   twenty-first century.",34   INT. CORRIDOR,CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-226,PICARD,   Report.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-227,WORF,   We are six hours from the Neutral   Zone. I have been unable to   establish communications with any   Federation colony or station in   this vicinity.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-228,PICARD,   How many outposts are there in   this sector?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-229,WORF,   Nine.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-230,RIKER,   I think we should go on the   presumption that they've all   been destroyed.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-231,GEORDI,   By the Romulans?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-232,RIKER,   It fits their historical pattern.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-233,DATA,"   Since there has been no contact   with the Romulans for fifty-three   years, seven months, eighteen   days, we must consider that the   information we do have, is out   of date.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-234,RIKER,"   The positive side of that is their   information about us is also out   of date. Captain, I believe that   lack of information is what this   is all about.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-235,PICARD,"   Continue, Number One.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-236,RIKER,"   In my opinion, the Romulans want   a confrontation... specifically   against us.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-237,PICARD,   The Enterprise?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-238,RIKER,"   Not by name; but yes, against us.   They know the Federation will send   their best -- this will be a   perfect chance for them to learn   firsthand, how much we have   advanced in both technology, and   technique.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-239,PICARD,   And your recommendation.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-240,RIKER,   I don't know if I have a specific   recommendation. Perhaps we should   consider taking the initiative.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-241,WORF,   I agree with Commander Riker.   We may only have one opportunity;   we should seize it.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-242,PICARD,   Data.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-243,DATA,"   That strategy is built on a single   premise. The hostile intent of   the Romulans. If the premise is   sound, so is the proposal.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-244,GEORDI,"   If their intention isn't hostile,   what is it?",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-245,RALPH,   Captain Picard?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-246,PICARD,"   This is the captain, to whom am   I speaking?",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-247,RALPH,"   Ralph Offenhouse. Captain, I need   to talk to you.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-248,PICARD,"   What's going on here, Number One?   Did you give him permission to   contact me?",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-249,RIKER,"   No, sir. He must have seen me   use the com panel.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-250,PICARD,"   Listen, Mister Offenhouse. We   are in a very important conference   right now and...",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-251,RALPH,   I am sick and tired of being put   off by you and your staff. This   is the worst run ship I have ever   been on. You could take some   lessons from the Q-E Two. Now   that's an efficient operation.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-252,PICARD,   Data -- identify -- what's the   Q-E-Two?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-253,DATA,   It was a passenger liner which   mostly traveled Earth's Atlantic   Ocean during the late twentieth   and early twenty-first centuries.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-254,PICARD,   He's comparing the Enterprise to   a cruise ship.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-255,RALPH,   I demand you see me.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-256,RALPH,"   ... I think I have been very, very   patient, especially under the   circumstances and considering what   I paid for this procedure, but   frankly enough is enough. I   demand a phone, or a radio   whatever you have. I must contact   my...",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-257,RALPH,    (continuing; off balance     for a beat)   ...lawyers.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-258,PICARD,   I am Captain Picard.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-259,RALPH,   Excellent.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-260,RALPH,"       Now, we'll be able to get some   things straight.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-261,PICARD,   Indeed we will. Those com panels   are for official ship business.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-262,RALPH,"   If they are so important, why   don't they need an ""executive   key""?",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-263,PICARD,"   Aboard a starship, that is not   necessary. We are all capable   of exercising self-control. You   will refrain from using them.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-264,RALPH,   Now just a minute.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-265,PICARD,   We are involved in a   very serious and potentially   dangerous situation.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-266,RALPH,   I'm sure that whatever it is seems   very important to you. My   situation is far more critical.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-267,PICARD,"   I do not think you are fully aware   of your situation, or the time   which has passed.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-268,RALPH,"   Believe me, I'm fully cognizant   of where I am, and when. It is   simply that I have more to protect   than a man in your position could   possibly imagine. No offense,   but a military career has never   been considered upwardly mobile.   I must contact my lawyer.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-269,PICARD,   Your lawyer has been dead for   centuries.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-270,RALPH,"   Yes, of course I know that, but   he was a full partner with a very   important firm. Rest assured the   firm is still operating.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-271,PICARD,"   That's what this is all about...   A lot has changed in three hundred   years. People are no longer   obsessed with the accumulation of   ""things"". We have eliminated hunger,   want, the need for possessions.   We have grown out of our infancy.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-272,RALPH,"   You've got it wrong. It's never   been about ""possessions"" - it's   about power.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-273,PICARD,   Power to do what?,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-274,RALPH,"   To control your life, your   destiny.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-275,PICARD,   That kind of control is an   illusion.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-276,RALPH,   Really -- I'm here aren't I? I   should be dead and I'm not.   That's what money did for me.   That's the kind of power I'm   talking about.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-277,PICARD,       What is it?,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-278,CLARE,   I don't know. It just started   and I can't stop. I keep   thinking about my boys.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-279,PICARD,"   Counselor Troi, report to the   guest lounge.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-280,RIKER,"   Captain, we are approaching   Science Station Delta Zero-Five.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-281,PICARD,   Slow to impulse... I'm on my way.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-282,SONNY,"   Say, Captain -- I need to see that   pretty Doctor of yours.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-283,PICARD,   I will inform her.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-284,RALPH,   Captain. I didn't mean to come   on so strong. I've built my life   on knowing what's going on. For   the first time -- I'm completely   out of touch -- it makes me crazy.   Can you understand?,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-285,PICARD,   It's the first thing you've said   that I do understand. I'll see   what I can do. But please... stay   off the com panel.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-286,PICARD,"   Counselor, get those people under   control. We cannot afford this   continuing distraction.",37   INT. CORRIDOR,CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-287,TROI,"   Yes, sir.",37   INT. CORRIDOR,CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-288,TROI,   Hello -- my name is Deanna.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-289,CLARE,   They sent you here to settle me   down.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-290,TROI,   I'm the ship's counselor and I   thought you might want to talk.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-291,CLARE,   The local shrink.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-292,TROI,"   I'm sorry, I do not know that   term.",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-293,CLARE,   It doesn't matter.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-294,TROI,   You are feeling profoundly sad.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-295,CLARE,"   Can't stop crying. I miss my   sons, and then I think... I'm   here, but they are gone. Donald   -- he's my husband. I love that   man but, good intentions aside,   he'd mess up a free lunch. Why   in the world he ever decided to   do this...",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-296,TROI,   He must have thought you would   have wanted it.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-297,CLARE,"   I can tell you exactly what   happened. He couldn't think about   going on alone. I died, but he   couldn't face it. So he figured   if he had me frozen, then in his   mind I wasn't really gone. Crazy,   huh? But you have to know Donald.",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-298,CLARE,"       I'm in a world of strangers. I   wish I knew what happened to my   children. Did they get married,   did they have kids...",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-299,TROI,   Let's see if we can find out.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-300,TROI,       Computer - this is Counselor Troi.   Request personal history on...   What are their names?,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-301,CLARE,"   Tommy -- he's eight, and Eddie's   five.",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-302,COMPUTER,   Full names -- Date and place of   birth.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-303,CLARE,   They were born in Secaucus -   that's in Jersey.       Can this really work? Can this   tell me what happened to them?,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-304,TROI,   There has to be a record   somewhere. There is a good chance   we can find it.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-305,CLARE,"   Whether we do or not, thank you   for... trying.       Date of birth. Tommy was born   February seventeenth...",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-306,SONNY,   I just got to have a little   something to jump start the   morning -- and a little something   else to shut down the night.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-307,BEVERLY,   You have no medical need.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-308,SONNY,"   It's not a question of ""need,""   darlin'. It's a matter of   survival.",39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-309,BEVERLY,   Sorry.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-310,SONNY,   Not to worry -- ol' Watosh will   scuffle along the best way he can.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-311,SONNY,       How do I get a hold of the ol'   boy with the marinie face?,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-312,BEVERLY,   I beg your pardon?,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-313,SONNY,   What's his name... that android   fella.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-314,BEVERLY,   Lieutenant Commander Data?,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-315,SONNY,   That's the one.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-316,BEVERLY,   I'll let him know you want to see   him.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-317,SONNY,   Much obliged. You sure are the   prettiest little doctor I ever   saw.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-318,BEVERLY,   Much obliged.,39   INT. SICKBAY,SICKBAY,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-319,CLARE,   Amazing. It's all right there.,40   INT. CLARE'S QUARTERS (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-320,TROI,"   Yes, ten generations of your   progeny.",40   INT. CLARE'S QUARTERS (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-321,CLARE,   Everyone I ever knew is dead.   Would you mind... I'd like to be   alone.,40   INT. CLARE'S QUARTERS (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-322,TROI,"   No, not at all.",40   INT. CLARE'S QUARTERS (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-323,DATA,   You asked to see me.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-324,SONNY,   I'm about to go out of my mind   for something to do. Sittin'   alone drinkin' don't get it. What   say you and me put together a   little party.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-325,DATA,   A celebration?,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-326,SONNY,"   Naw... nothin' that fancy -- just   some folks, some suds, and some   sounds. Hell it ain't nothin'   but somethin' to do. Whatdeya   think?",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-327,DATA,   I will ask the captain.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-328,SONNY,   Great -- you do that...,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-329,DATA,   Query. You do not seem to be   having as much difficulty   adjusting to your current   circumstances as are the others.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-330,SONNY,"   You mean being here -- on this tub   -- four hundred years from where   I started? Heck -- it's the same   dance, just a different tune.   You think anyone 'round here's   got a guitar I could borrow?",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-331,DATA,"   No, but the computer can replicate   such an instrument.",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-332,SONNY,   I was kind of hopin' to get one   while I still remember the chords.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-333,RIKER,   Commander Data -- we are   approaching the Neutral Zone.   Report to the bridge.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-334,DATA,   I must leave.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-335,SONNY,"   What's this ""Neutral Zone?""",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-336,DATA,   A buffer between the Romulan   Empire and the Federation.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-337,SONNY,   Why does that make me nervous?,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-338,DATA,   I do not know.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-339,SONNY,"   We won't be inviting these   Romulans to our party, will we?",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-340,DATA,"   No, it would not be appropriate.",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-341,PICARD,"   Captain's log, supplemental. We   have arrived at the edge of the   Neutral Zone. We will now have   an opportunity to learn firsthand   what happened to our distant   outposts.",41   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-342,DATA,   There is nothing left of Outpost   Delta Zero-Five.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-343,GEORDI,   It must have been one hell of an   explosion.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-344,DATA,   Sensors indicate no evidence of   a conventional attack.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-345,DATA,       There is nothing left.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-346,PICARD,   Can you determine what happened?,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-347,WORF,"   The outpost was not just   destroyed, it is as though some   great force just scooped it   off the face of the planet.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-348,PICARD,   Could it have been a natural   phenomenon?,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-349,DATA,   Insufficient information.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-350,PICARD,"   Geordi, set a course for the next   closest station.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-351,GEORDI,"   Aye, sir.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-352,SONNY,"   I just can't believe this. When   that android fella said you could   duplicate this baby, I didn't   dream you'd do such a bang-up   job... You like country?",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-353,WESLEY,   Excuse me?,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-354,SONNY,"   Picking and strummin', son. What   about rock?",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-355,WESLEY,   What about rock?,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-356,SONNY,"   What's the matter, kid? You look   like you're staring at a ghost.",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-357,WESLEY,"   Well, sir, you were dead for over   three-hundred years...",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-358,SONNY,   How 'bout rhythm and blues? That   comes back every decade or so.,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-359,WESLEY,"   What was it like?... I mean, can   you remember...",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-360,SONNY,"   What? Bein' dead? Not really,   but then again there wasn't a   whole lot happening.",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-361,WESLEY,   Why did you do it? Was there   something left undone... something   you have to finish?,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-362,SONNY,   Nope. Just curiosity... Another   adventure... Simply wanted to see   what was going on.,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-363,GEORDI,   We are approaching Tarod Nine.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-364,DATA,"   The condition is identical,   Captain.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-365,WORF,   Everyone and everything is gone.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-366,RIKER,"   Captain, I strongly recommend that   we go to Red Alert. If the   Romulans have improved their   cloaking device, and we'd be fools   to think they haven't, we should   assume a more defensive posture.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-367,WORF,"   I agree, Captain. I recommend   we go immediately to battle   stations.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-368,PICARD,"   I appreciate your concern and   advice, but this is not the time   for rash actions. We are still   investigating.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-369,PICARD,       There are three other stations   in this sector which we need to   visit. Let's proceed in a calm   and orderly manner.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-370,RIKER,"   If not ""battle stations,"" may I   at least bring the ship to Yellow   Alert?",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-371,PICARD,"   Yes, Number One. That would be   prudent.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-372,RIKER,   Thank you.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-373,SONNY,"   So, what is it that you want?",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-374,RALPH,   I've spent my career being able   to tell when the other guy's mouth   is dry. There is something going   on. Something serious. The   tension level on this ship has   jumped up.,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-375,SONNY,"   Even if you're right, what can   we do about it? And besides,   these old boys don't need us to   tell them where the bear sits.",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-376,SONNY,       Lookie here what that young   fella made for me.,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-377,CLARE,   How did he do that?,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-378,SONNY,"   He called it a pattern replication.   It plays real good, too.",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-379,RALPH,"   I'm trying to tell you that there   is a situation developing on this   vessel which affects us, and all   you can talk about is that stupid   guitar!",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-380,SONNY,"   These folks don't need us swimming   in their soup, so why don't you   just relax and let them do their   jobs?",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-381,RALPH,"   That may be all right for you,   but I am not willing to allow my   fate to be decided by others.   I at least want to know what is   going on.",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-382,SONNY,   How are you planning to do that?,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-383,RALPH,   He needs help. I think he's   dying.,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-384,SONNY,   What the hell are you doing?,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-385,RALPH,   I'm going to find out what's going   on.,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-386,RALPH,   Ah... let's see.       Ah... I want to go to a... the...   ah...    (he shrugs; then to     himself:)   Where would the captain be?,47A  INT. CORRIDOR (FORMERLY SCENE 48),CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-387,COMPUTER,   Captain Picard is located on the   Main Bridge.,47A  INT. CORRIDOR (FORMERLY SCENE 48),CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-388,RALPH,"   Then, take me to the Main Bridge.",47A  INT. CORRIDOR (FORMERLY SCENE 48),CORRIDOR,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-389,WORF,"   Captain, my sensors indicate a   disturbance. It is large and   moving, but I cannot get a   positive lock nor can I get it   on the viewscreen.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-390,RIKER,   Shields up.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-391,WORF,"   Aye, sir.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-392,RIKER,"   Captain, I recommend we transfer   all power to phasers, and arm the   photon torpedos.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-393,PICARD,"   Wait. If that is a Romulan ship,   it will read our intent. We will   be forcing them to take a similar   posture. We are not out here to   engage in battles; we are explorers.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-394,RIKER,"   Captain, there is sufficient   evidence. Outposts have been   destroyed... Countless lives have   been lost.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-395,WORF,   I have a positive lock... It's   disengaging its cloaking device.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-396,RIKER,   They are vulnerable for an instant   as they become visible.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-397,WORF,"   Captain, this may be our only   chance.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-398,WORF,       I've lost them.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-399,PICARD,       Are your sensors picking up   anything? You should be   detecting a disturbance.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-400,DATA,   Negative.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-401,GEORDI,   We wanted to know if they have   improved their cloaking device   -- I guess we have our answer.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-402,PICARD,       They were trying to determine   our intent... They wanted to see   if we would fire.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-403,RALPH,   Who the hell are they?,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-404,RIKER,   Get that man off the bridge...   now.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-405,RALPH,   I'm not going anywhere.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-406,WORF,"   Captain, they're back.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-407,PICARD,   On screen.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-408,RIKER,   Amazing. I never thought I would   ever see a Romulan ship -- not this   close.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-409,GEORDI,   The last encounter was decades   ago and cost thousands of lives.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-410,RALPH,       I can believe that.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-411,PICARD,"   Stay calm, everyone.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-412,WORF,"   Captain, these are Romulans -- they   are without honor. They killed   my parents in an attack on   Khitomer at a time when they were   supposed to be our allies. They   believe humans and Klingons are   a waste of skin, so inferior as   to be unworthy of any   consideration.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-413,PICARD,"   Lieutenant, keep your emotions   under control. Open hailing   frequencies.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-414,WORF,   Hailing frequencies open.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-415,PICARD,"   Romulan vessel, this is Captain   Jean-Luc Picard of the USS   Enterprise.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-416,DATA,   Sensors indicate all of their   systems are armed.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-417,PICARD,   But they have not fired.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-418,PICARD,       Let's try them again.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-419,WORF,   Hailing frequencies are still   open.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-420,PICARD,"   Romulan vessel, this is Captain   Jean-Luc Picard of the USS   Enterprise.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-421,TEBOK,   I am Commander Tebok.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-422,PICARD,   You have crossed the Neutral Zone.   This is Federation territory.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-423,THEI,   It was necessary.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-424,PICARD,   It could be viewed as an act of   aggression.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-425,THEI,"   If our intent was aggression,   you would not now be here.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-426,TEBOK,"   If we go to war, let us be sure   it is for the right reason. We   are here because our outposts,   which border the Neutral Zone,   were also attacked.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-427,THEI,   Destroyed in the exact same manner   as your own.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-428,WORF,       What right did they have to enter   Federation space?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-429,TEBOK,"   Silence your dog, Captain.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-430,PICARD,   Lieutenant Worf's question is   valid.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-431,THEI,   Even to ask such a question   implies that we need permission;   we do not.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-432,PICARD,   Do you think we attacked your   outposts?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-433,TEBOK,"       Once we realized the level of   destruction, we knew it could not   have been you.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-434,PICARD,   Who is responsible?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-435,RALPH,   They haven't a clue.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-436,RALPH,"       They're hoping you know, but   they're too arrogant to ask.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-437,RIKER,"   You're out of line, Mister.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-438,PICARD,"   Yes, but correct in his   assessment.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-439,TEBOK,   We do not know who is   responsible... Why entire   outposts on both sides were   carried off.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-440,PICARD,   I would like to offer a proposal.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-441,THEI,       An alliance? Between the   Romulans and the Federation?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-442,PICARD,   Nothing so grandiose -- just this.   Cooperation... whoever or whatever   did this is more powerful than   either of us.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-443,THEI,   Agreed.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-444,THEI,"   On this one issue, and only if   it is convenient and something   we consider appropriate at the   time.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-445,TEBOK,"   Captain Picard, because your   actions are those of a thoughtful   man who is neither rash nor easily   provoked, I tell you this. More   urgent matters have caused our   absence, and witness the results.   Outposts destroyed, evidence of   the Federation everywhere. We   have been negligent, but no more.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-446,PICARD,   We have made some progress in our   relations... let's not ruin that   with unnecessary posturing.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-447,TEBOK,   Your presence is not wanted. Do   you understand my meaning? We   are back!,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-448,PICARD,   I think our lives just became a   lot more complicated.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-449,PICARD,   Get him off my bridge.,56A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-450,TROI,   I have found something.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-451,TROI,       I have been able to locate a   family living outside of   Indianapolis. The man's name is   Thomas Raymond.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-452,CLARE,   That's my son's name. My son's   name is Tommy.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-453,TROI,   Computer -- let us see Thomas   Raymond.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-454,CLARE,"   Oh, my God... It's Donald...   that's my husband.",56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-455,TROI,"   Actually, it's your great, great,   great, great, great grandson.",56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-456,CLARE,   He's the spitting image.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-457,TROI,"   I have his address. When you get   back to Earth, you could go and   see him.",56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-458,CLARE,   But... I will still be out of   time. A relic.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-459,TROI,"   Perhaps. But it's a place to   start. He is after all, family.",56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-460,CLARE,   There's no denying that.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-461,PICARD,"   Here is what I propose. You can't   remain on the Enterprise. We have   arranged to rendezvous with the   USS Charleston, bound for Earth.   You will be delivered there.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-462,RALPH,   And then what will happen to us?   There's no trace of my money -- my   office is gone -- what will I do?   How will I live?,57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-463,PICARD,       This is the twenty-fourth century.   Those material needs no longer   exist.,57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-464,RALPH,   Then what's the challenge?,57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-465,PICARD,"   To improve yourself... enrich   yourself. Enjoy it, Mister Offenhouse.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-466,SONNY,"   Well, one good thing -- since   everybody's forgotten everything   I ever did... it'll all be brand   spankin' new. Hell, I'll be a   bigger hit than I ever was.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-467,PICARD,"   Perhaps so, anything is possible.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-468,SONNY,"       What say, son -- you'd make a hell   of a sideman.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-469,DATA,   That offer does present a certain   fascination.,57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-470,GEORDI,"   I have plotted a course to   intercept the Charleston, sir,   but they have informed me that   they will be making an extended   stop at Arloff Nine.",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-471,PICARD,"   Your point, Lieutenant?",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-472,GEORDI,"   At warp eight, we could have   our guests at Starbase Thirty-Nine   Sierra in five days. It   would cut months off their   journey.",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-473,PICARD,   They will benefit from the   extended time. It will allow   them to acclimate before arriving   at Earth.,59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-474,RIKER,   It's a pity we can't take them   ourselves. Having them on board   has been like a visit from the   past.,59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-475,PICARD,"   That would take us in the wrong   direction. Our mission is to go   forward and it has just begun.   Set velocity at warp six, Mister   La Forge.",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-476,GEORDI,"   Aye, sir... warp six.",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
-477,PICARD,   There is still much to do... and   still so much to learn.       Mister La Forge... Engage.,59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Neutral Zone""",1988-03-17,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,RIKER ,"   First officer's log, stardate 41986.0.   The captain has left the ship for   a conference and we are awaiting   his return. It is unusual for us   to be motionless, and a unique   experience for everyone concerned.",2    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+1,DATA,   This is quite intriguing. It is   transmitting a carrier signal on   a frequency which has not been used   for centuries.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+2,RIKER,   Is there a message?,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+3,DATA,"   None. Just the carrier, possibly   intended for encoded computer or   telemetry information.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+4,WORF,   I have never seen a space vehicle   like it.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+5,DATA,"   Strictly speaking, it is not a   ""space vehicle."" It appears to   be a satellite, similar in its   rudimentary design to those which   orbited Earth in the late   twentieth and early twenty-first   centuries.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+6,RIKER,   Three hundred years ago.       Then there probably aren't any   life signs?,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+7,DATA,   None.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+8,DATA,       The power is solar... quite   primitive. There is however   minimum life support.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+9,GEORDI,"   I wonder how it got out here.   If it was in orbit around Earth,   even at maximum impulse -- and   there's no way it could travel   any faster, it would have taken   a dozen centuries to get here.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+10,WORF,"   At its present speed and heading,   the vehicle will eventually enter   the Kazis Binary system and will   certainly be destroyed.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+11,WORF,"       Sir, I could attach a tractor beam   and adjust its heading.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+12,RIKER,"   I think not, Mister Worf. It's just   a piece of space debris. If we   weren't sitting here waiting for   the captain, we wouldn't have even   noticed it. Leave it be. Let   nature take its course. How long   until Captain Picard returns?",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+13,WORF,   The last communication indicated   it would be several hours.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+14,DATA,"   Commander, request permission to   investigate this vehicle.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+15,RIKER,"   Why, Data? It's just a derelict.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+16,DATA,"   It is a piece of history. The   opportunity to examine such an   ancient vehicle does not come   around very often, and as you   pointed out, we do have the time.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+17,RIKER,"   All right, Data. But be ready   to beam back before the captain   returns.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+18,DATA,"   Thank you, sir.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+19,RIKER,   Lieutenant Worf -- go with him.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+20,WORF,"   Aye, sir.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+21,DATA,"   Minimal oxygen atmosphere.       An ancient solar generator,   still operating.",7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+22,WORF,   Computer -- status report.,7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+23,WORF,       Computer...,7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+24,DATA,"   In the late twentieth century,   computers were not voice activated,   Worf.",7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+25,DATA,"       Notice the readouts -- dials,   needle machines, gauges.   Remarkable what they used three   centuries ago. The on-board   computers have ceased functioning.   I may be able to download this old   style disk drive back to the   Enterprise.",7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+26,WORF,   It must be sealed -- probably   with age. I will blast it open.,7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+27,DATA,   Not necessary.,7    INT. DERELICT - SMALL CONTROL AREA (OPTICAL),DERELICT - SMALL CONTROL AREA,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+28,RIKER,"   Data, this is Riker. What   have you found?",10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+29,DATA,   Very little so far.,10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+30,GEORDI,   I have picked up the captain's   shuttle.,10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+31,RIKER,   E.T.A.?,10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+32,GEORDI,"   Twelve minutes, sir.",10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+33,RIKER,   Alert Main Shuttle Bay.,10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+34,GEORDI,"   Aye, sir.",10   INT. ENTERPRISE - MAIN BRIDGE (INTERCUT AS NEEDED),ENTERPRISE - MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+35,DATA,   The seal was broken and the   environment has been corrupted.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+36,WORF,   Here's another.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+37,DATA,   This one is empty.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+38,DATA,       It has been forced open and the   occupant removed.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+39,WORF,   Commander. Look at this.,11   INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+40,WORF,   Has she been frozen for an   extended journey?,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+41,DATA,"   If that were the purpose, there   would be evidence of a more   sophisticated monitoring system.   This container is designed solely   for refrigeration.",12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+42,WORF,   What is the destination?,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+43,DATA,   I do not believe they were going   anywhere. This vehicle should   still be in Earth orbit.,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+44,WORF,   There is no way it could break   orbit and travel this distance   on its own power. Not in three   hundred years -- not in three   thousand. Some intelligent lifeform   must have brought it to   this section of the galaxy.,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+45,DATA,    (indicating the crypts     with the shriveled     forms)   These crypts were opened.    (indicating the empty     crypts)   The occupants in those were taken.,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+46,WORF,"   Why take some of them, destroy   others, and leave her apparently   untouched?",12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+47,DATA,   Perhaps they learned all they   could from the others. We may   never know.,12B  INT. DERELICT - THE SECOND ROOM,DERELICT,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+48,GEORDI,   The captain's shuttle is   approaching Main Shuttle Bay.,14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+49,PICARD,"   Enterprise, this is the captain.   Number One, I want to get underway   as soon as the shuttle is secure.",14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+50,RIKER,"   Aye, sir. We will make all   preparations.       Commander Data, return to the   Enterprise -- immediately.",14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+51,DATA,   We have run into an unusual   situation here. There are people   on-board. Frozen.,14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+52,RIKER,   Frozen. How many?,14   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+53,DATA,   Three. What should I do? The   vehicle has suffered severe   damage. Most of the systems   have failed.,15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED),DERELICT - THE SECOND ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+54,RIKER,   Are you recommending they be   transferred to the Enterprise?,15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED),DERELICT - THE SECOND ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+55,DATA,"   I do not think we should leave   them here. With your permission,   sir, we will be returning with   three containers.",15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED),DERELICT - THE SECOND ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+56,RIKER,"   Whatever you do, do it quickly.",15   INT. DERELICT - THE SECOND ROOM (INTERCUT AS NEEDED),DERELICT - THE SECOND ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+57,PICARD,"   Number One, I want a meeting on   the Observation Deck. Mister La   Forge, set course zero-five-eight,   mark nine-seven-three.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+58,GEORDI,"   Aye -- laying in the course now.       Captain, those coordinates will   take us to the Neutral Zone.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+59,PICARD,"   That's correct Mister La Forge, warp   factor eight.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+60,GEORDI,   Warp eight.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+61,PICARD,"   Engage. Mister La Forge, you have   the bridge.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+62,PICARD,   Two Federation outposts in Sector   three-zero have been destroyed.   There has been no communication   with any Federation starbases in   Sector three-one since stardate   41903.2.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+63,WORF,   Romulans.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+64,PICARD,   That is the assumption.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+65,RIKER,   There's been no direct contact   with the Romulans since the Tomed   Incident.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+66,PICARD,"   The question is: Why here? Why   now? What's their objective, if   indeed they have one? For half   a century there's barely a whisper   about them and now for no apparent   reason they seem to be back with   a roar. Why?",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+67,RIKER,   Almost everything we know about   them is based on rumor and   conjecture.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+68,PICARD,   The strategic decision is to send   one ship.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+69,RIKER,   The Enterprise.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+70,PICARD,   Yes.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+71,WORF,   There is a risk. We could get   out there and find ourselves   greatly over-matched.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+72,PICARD,   True enough -- it is a gamble.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+73,RIKER,   This first encounter... coming   so suddenly after all this time.   There's a very good chance it's   a setup.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+74,DATA,   Perhaps the Romulans are probing.   They want to see how we react.,19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+75,WORF,"   Captain, we should expect   hostilities.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+76,PICARD,"   Prepare as always. If force is   needed we will use it, but that   will mean we have failed. Our   goal here is to establish some   kind of relations with the   Romulans -- failing that -- to   convince them of our resolve and   to do this without resorting to   force. Right now, the general   feeling is that they are seeking   a confrontation. They may want   to test themselves in battle   against a Federation starship to   gauge how much we have advanced.   Personally, I think it is   possible they have different   motives altogether based on needs   which we have not identified.   If that's the case... I must know   it.       Counselor -- I will need a complete   profile on them.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+77,TROI,"   There is limited information, but   I will prepare something.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+78,PICARD,"   Data. Extrapolate for me the   logical progression of their   technical advancement;   specifically, but not restricted   to -- weapons.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+79,DATA,"   Aye, sir.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+80,PICARD,"       I want this thought through   completely. Anticipate, as much   as you can, all the possible   permutations.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+81,PICARD,"       Computer, how long before we   arrive at the Neutral Zone?",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+82,COMPUTER,"   Nineteen hours, twenty-eight   minutes.",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+83,PICARD,"   We will reassemble in six hours.   Let's be smart. No surprises.   I would much rather outthink them,   than outfight them. Questions?",19   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+84,GEORDI,"       Captain.       Doctor Crusher said she would like   to talk with you, when you   finished your meeting.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+85,PICARD,"   Thank you.       Doctor Crusher, this is the   captain.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+86,BEVERLY,"   Oh, good. Captain, could you   possibly join me in Sickbay?",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+87,BEVERLY,       I would not ask you if it wasn't   important.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+88,PICARD,"   I will be right there.       Take the Conn, Number One. I   won't be long.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+89,PICARD,"   What is it, Doctor?",21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+90,BEVERLY,   It's the people from the capsule.,21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+91,PICARD,   Capsule? People? What people?,21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+92,BEVERLY,   The people Data beamed over.,21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+93,PICARD,   I wasn't aware he had.,21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+94,BEVERLY,"   Well, he did and they were frozen.   I thawed them.",21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+95,PICARD,   You what?,21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+96,BEVERLY,   I didn't know what else to do.   The crypts in which they had been   frozen were literally falling   apart. It was either that...   or...,21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+97,PICARD,   What's their condition?,21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+98,BEVERLY,"   Right now they are all sleeping.   Each of them needed minor medical   attention... minor ""now"", but   ""then"" their conditions were   obviously terminal. One had a   heart problem, another had an   advanced case of emphysema and   extensive liver damage. But the   most surprising thing, is that   each of them had been frozen after   they died.",21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+99,PICARD,   After they died?,21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+100,BEVERLY,"   Exactly. Cryonics. It was a   kind of fad in the late twentieth   century. People feared dying.   It terrified them. At the moment   of death, they would be frozen,   so that later... some time in the   future, when presumably medical   science had a cure for whatever   killed them, they would be thawed   back to life, healed and sent on   about their business.",21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+101,PICARD,"   Well, for this group, apparently   it worked.",21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+102,PICARD,"       Lieutenant Commander Data, please   report to Sickbay -- immediately.",21   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+103,DATA,   Permission to leave the bridge.,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+104,RIKER,   Granted.,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+105,PICARD,"   I am never critical of any member   of my staff being curious, but...   the timing is just so...",23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+106,DATA,"   I could not leave them there,   Captain. The condition of the   vehicle was deteriorating.",23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+107,PICARD,"   But, Data -- they were already   dead. I mean... what more could   have happened to them?",23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+108,DATA,"   I see your point, Captain, but   at the time...",23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+109,PICARD,   You're right -- under the   circumstances I would have done   exactly the same.,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+110,BEVERLY,   When they arrived... what was I   supposed to do? Not help them?,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+111,BEVERLY,       My question is: What do we do   with them now?,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+112,PICARD,   What are the options?,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+113,DATA,   We cannot go back and return them   to their ship.,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+114,BEVERLY,   We can't refreeze them.,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+115,PICARD,"   They are alive now, so we have   to treat them as living human   beings.",23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+116,BEVERLY,"   Alive and well, just waiting to   be awakened.",23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+117,BEVERLY,       I have them sedated but they   should be up and about as soon   as possible.,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+118,PICARD,   Well...,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+119,PICARD,"       Then, there really is no choice.",23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+120,BEVERLY,   None that I can see.,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+121,PICARD,"   Before you wake them, I want   Security here.       Mister Worf, report to Sickbay.",23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+122,PICARD,   ... Welcome to the twenty-fourth   century.,23   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+123,DATA,   I was able to retrieve some   information from the ancient disk   I removed from the module's   computer. Based on that...,27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+124,DATA,"   Her name is Clare Raymond, age   thirty-five; occupation,   homemaker... must be some kind   of construction work.",27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+125,BEVERLY,"   She died of an embolism. It   probably happened very suddenly,   otherwise her physical condition   was excellent.",27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+126,DATA,"   His name is Ralph Offenhouse, age   sixty-three; occupation,   financier.",27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+127,BEVERLY,"   Advanced cardiomyopathy,   inoperable at the time, but easily   correctable now. He must have   known for some time his condition   was terminal.",27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+128,DATA,"   Much of his file could not be   retrieved. His name is L. Q.   ""Sonny"" Clemonds. Apparently his   occupation had something to do   with music.",27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+129,BEVERLY,   There was marked deterioration   of every system in his body.   Probably due to massive chemical   abuse. Unbelievable.,27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+130,PICARD,   That sounds like someone who hated   life -- yet he had himself frozen   so presumably he could go through   it all again.,27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+131,BEVERLY,   Fear. Too afraid to live... too   scared to die.,27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+132,PICARD,"   Doctor, this seems to be a   situation more suited to your   talents. I will leave it in your   hands.",27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+133,PICARD,       I'll be on the bridge.,27   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+134,BEVERLY,"   I know you have a lot of   questions, but I would like you   to wait. You are feeling a   certain amount of disorientation.   In a little while it should pass;   then we can fully discuss what   has happened. Nurse Wright will   furnish you with anything you   need.",31   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+135,RALPH,   Not so fast. Is this part of the   service or is it extra?,31   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+136,BEVERLY,   I think it would be best if...,31   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+137,RALPH,   I demand to know the cost of   anything you do before the   procedure is approved.,31   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+138,BEVERLY,"   I have no idea what you're talking   about.    (then, mostly for the     others)   Just take it slowly. Everything   is fine. Worf, would you show   them to the guest quarters.",31   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+139,WORF,   This way.,31   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+140,PICARD,"       Number One, kindly take charge   of our guests until we have time   to decide what we are going to do   with them.",32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+141,RIKER,"   Aye, sir.",32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+142,PICARD,   ... and keep them out of my way.,32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+143,DATA,    (requesting to join     Riker)   Sir?,32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+144,RIKER,   I know this is all very confusing   to you so I'll attempt to   explain. First -- you are on the   starship -- USS Enterprise.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+145,RALPH,   American?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+146,RIKER,   No -- we are a vessel of the United   Federation of Planets. Earth is   a member.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+147,RALPH,   What year is this?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+148,DATA,   By your calendar... two thousand   three hundred sixty-four.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+149,RALPH,       What?       My heart? Is it...,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+150,BEVERLY,"   It's perfectly fine. In fact,   you are all now in excellent   health.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+151,RALPH,   I made it... It worked. I never   believed this was...,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+152,SONNY,       What's that?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+153,RIKER,   An android.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+154,SONNY,   You mean a robot?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+155,DATA,   Actually there is a distinct   difference between a robot and   an android.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+156,CLARE,   And him? The one I saw before   with the... head.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+157,BEVERLY,   She means Worf.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+158,RIKER,"   Oh, he's a Klingon, and that   requires a little more   explanation.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+159,SONNY,   Guys... listen. I paid some idiot   a lot of money to freeze me when   I died. I need to hear the   words... Am I alive?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+160,RIKER,"   Oh, yes... absolutely.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+161,SONNY,   And the liver that was about to   explode in my face.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+162,BEVERLY,   Perfectly sound.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+163,SONNY,   Great...,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+164,CLARE,    (who has remained     confused through it     all)   Excuse me. Would someone tell   me what's going on?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+165,BEVERLY,   Well... About three hundred and   seventy years ago you died of a   massive embolism.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+166,CLARE,   I don't remember anything about   it.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+167,BEVERLY,   You and the others were frozen.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+168,SONNY,   Cryonics -- you know... freeze you   now... heal you later.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+169,CLARE,   I've heard about it; I just never   paid it much mind. How did we   get here?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+170,DATA,   Why were you in a module?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+171,SONNY,   The whacko who sold me this scam   said that by putting us in orbit   there would be no chance of brown   out.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+172,RALPH,   Several cryonics companies had   fallen into disrepute because of   power failures which adversely   affected their refrigeration   system. Their stocks were   severely depressed.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+173,SONNY,"   The whole deal was a long shot...   but I figured... what the hell,   might as well give them the dough   instead of leaving it to my   ex-wives.       But you know, son, I figured it   was just so much hooey.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+174,DATA,"   Hooey? Accessing.       Ah, as in malarkey... jive...   bull... hogwash... an   intentional fabrication.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+175,SONNY,"   There you go, now you got it.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+176,RIKER,"       If you didn't contract for this,   who did?",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+177,CLARE,"   It must have been Donald -- my   husband. If it was new and   foolish, he'd have popped for it.   Well, I'll say this. It's the   first thing he ever bought into   that worked.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+178,RALPH,"   I, for one, never had a doubt.   My stock in this company must have   split a dozen times by now.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+179,DATA,"   Actually the process of cryonics   was never more than a fad, and   did not continue much beyond the   mid-twenty-first century.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+180,RALPH,   I need to make a phone call as   soon as possible.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+181,RIKER,   A phone call?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+182,RALPH,   I have provided for myself. I   have a substantial portfolio.   It's critical I check on it. Let   the bank know that I am alive and   well.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+183,RIKER,   That's ah... going to be a little   difficult right at the moment.,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+184,RALPH,   Do you at least have a copy of The   Wall Street Journal?,33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+185,RIKER,"   I think we should take the   doctor's advice and go slowly.   Get adjusted to your new... ah...   whatever, and then we'll talk to   the captain.",33   INT. GUEST LOUNGE (OPTICAL),GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+186,TROI,"   As you know, there is very little   available on the Romulans",33A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+187,PICARD,   Anything will help.,33A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+188,TROI,"   They seem to be creatures of   extremes. One moment violent   beyond description, the next --   tender. They're related to the   Vulcans but as each developed,   their differences grew wider.   They are intensely curious. Their   belief in their own superiority   is beyond arrogance. For some   reason they have exhibited a   fascination with humans and that   fascination, more than anything   else, has kept the peace. One   other thing, they will not   initiate. They will wait for   you to commit yourself.",33A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+189,PICARD,"       Counterpunches...       Thank you, Counselor. This is   quite helpful.",33A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+190,SONNY,   I don't know about you all... but   me -- I'm going to find the bar.   After all of this -- I need me a   drink.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+191,RIKER,   There is nothing of that nature   on board the Enterprise.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+192,SONNY,"   No bars?! Don't tell me that,   son. Well, where's the   restaurant? I'm so hungry.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+193,RIKER,   We have food stations.    (he indicates the     computer)   Simply tell the computer what you   want and it will be provided.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+194,SONNY,   Where do you eat it?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+195,RIKER,   Why... here... or anywhere. We're   not that structured.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+196,SONNY,   Now what?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+197,DATA,   Talk.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+198,SONNY,"   I'd like me a thick Kansas City   steak - country fried potatoes   -- a mess of greens -- and... Oh,   hell... forget all of that. Let   me have a martini - -straight up...   two olives.       ... for the vitamins.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+199,DATA,   Is there something wrong?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+200,SONNY,   Wrong? Only that your computer   here fixed just about the best   martini I have ever had.       I just might get to like this   place. Let's see if the Braves   are on. How do you turn on this   here teevee?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+201,RIKER,   Teevee?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+202,SONNY,"   Yeah, boob-tube... you know. I'd   like to find out how the Braves   are doin' after all this time.   Probably still finding ways to   lose.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+203,DATA,"       Oh -- I think he means television,   sir.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+204,SONNY,   Or maybe catch up on the soaps.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+205,DATA,       That particular form of entertainment   did not last much beyond the year   Two Thousand Forty.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+206,SONNY,"   So, what do you guys do? I mean,   you don't drink -- no teevee -- kind   of boring, isn't it?",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+207,PICARD,   Number One.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+208,RIKER,   Riker here.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+209,PICARD,   Would you and Mister Data report   to the bridge?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+210,RIKER,   On the way.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+211,RALPH,   With whom were you speaking?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+212,RIKER,   The captain.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+213,RALPH,   Ah... good. Tell him I would like   to see him as soon as it's   convenient.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+214,CLARE,   What is going to happen to us?   Do we stay here with you? Do we   go back to Earth?,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+215,RIKER,   That will be up to the captain.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+216,RALPH,"   Well, get him in here. I have   to phone Geneva right away about   my accounts. The interest alone   could be enough to buy even this   ship.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+217,SONNY,   The Yankee's right. Let's get   the big boy in here.,33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+218,RIKER,"       I'll pass on your request. Now,   if you'll excuse us.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+219,SONNY,"   Duty calls -- hey, I understand...       ... come back later -- you and me   can find us a couple of   low-mileage pit woffies, and help   them build a memory.",33B  INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+220,DATA,   What is to be done with them?,34   INT. CORRIDOR,CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+221,RIKER,   I don't know.,34   INT. CORRIDOR,CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+222,DATA,"   Commander. What is a   ""low-mileage-pit-woffie""?",34   INT. CORRIDOR,CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+223,RIKER,"   This time you have me, Data. I   haven't a clue.",34   INT. CORRIDOR,CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+224,DATA,   These are not like any other   humans I have ever encountered.   I find them fascinating.,34   INT. CORRIDOR,CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+225,RIKER,"   From what I have already seen   of our ""guests"", there is very   little to redeem them. In fact,   it makes me wonder, how our   species ever survived the   twenty-first century.",34   INT. CORRIDOR,CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+226,PICARD,   Report.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+227,WORF,   We are six hours from the Neutral   Zone. I have been unable to   establish communications with any   Federation colony or station in   this vicinity.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+228,PICARD,   How many outposts are there in   this sector?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+229,WORF,   Nine.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+230,RIKER,   I think we should go on the   presumption that they've all   been destroyed.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+231,GEORDI,   By the Romulans?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+232,RIKER,   It fits their historical pattern.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+233,DATA,"   Since there has been no contact   with the Romulans for fifty-three   years, seven months, eighteen   days, we must consider that the   information we do have, is out   of date.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+234,RIKER,"   The positive side of that is their   information about us is also out   of date. Captain, I believe that   lack of information is what this   is all about.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+235,PICARD,"   Continue, Number One.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+236,RIKER,"   In my opinion, the Romulans want   a confrontation... specifically   against us.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+237,PICARD,   The Enterprise?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+238,RIKER,"   Not by name; but yes, against us.   They know the Federation will send   their best -- this will be a   perfect chance for them to learn   firsthand, how much we have   advanced in both technology, and   technique.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+239,PICARD,   And your recommendation.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+240,RIKER,   I don't know if I have a specific   recommendation. Perhaps we should   consider taking the initiative.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+241,WORF,   I agree with Commander Riker.   We may only have one opportunity;   we should seize it.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+242,PICARD,   Data.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+243,DATA,"   That strategy is built on a single   premise. The hostile intent of   the Romulans. If the premise is   sound, so is the proposal.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+244,GEORDI,"   If their intention isn't hostile,   what is it?",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+245,RALPH,   Captain Picard?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+246,PICARD,"   This is the captain, to whom am   I speaking?",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+247,RALPH,"   Ralph Offenhouse. Captain, I need   to talk to you.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+248,PICARD,"   What's going on here, Number One?   Did you give him permission to   contact me?",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+249,RIKER,"   No, sir. He must have seen me   use the com panel.",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+250,PICARD,"   Listen, Mister Offenhouse. We   are in a very important conference   right now and...",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+251,RALPH,   I am sick and tired of being put   off by you and your staff. This   is the worst run ship I have ever   been on. You could take some   lessons from the Q-E Two. Now   that's an efficient operation.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+252,PICARD,   Data -- identify -- what's the   Q-E-Two?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+253,DATA,   It was a passenger liner which   mostly traveled Earth's Atlantic   Ocean during the late twentieth   and early twenty-first centuries.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+254,PICARD,   He's comparing the Enterprise to   a cruise ship.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+255,RALPH,   I demand you see me.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+256,RALPH,"   ... I think I have been very, very   patient, especially under the   circumstances and considering what   I paid for this procedure, but   frankly enough is enough. I   demand a phone, or a radio   whatever you have. I must contact   my...",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+257,RALPH,    (continuing; off balance     for a beat)   ...lawyers.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+258,PICARD,   I am Captain Picard.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+259,RALPH,   Excellent.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+260,RALPH,"       Now, we'll be able to get some   things straight.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+261,PICARD,   Indeed we will. Those com panels   are for official ship business.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+262,RALPH,"   If they are so important, why   don't they need an ""executive   key""?",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+263,PICARD,"   Aboard a starship, that is not   necessary. We are all capable   of exercising self-control. You   will refrain from using them.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+264,RALPH,   Now just a minute.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+265,PICARD,   We are involved in a   very serious and potentially   dangerous situation.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+266,RALPH,   I'm sure that whatever it is seems   very important to you. My   situation is far more critical.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+267,PICARD,"   I do not think you are fully aware   of your situation, or the time   which has passed.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+268,RALPH,"   Believe me, I'm fully cognizant   of where I am, and when. It is   simply that I have more to protect   than a man in your position could   possibly imagine. No offense,   but a military career has never   been considered upwardly mobile.   I must contact my lawyer.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+269,PICARD,   Your lawyer has been dead for   centuries.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+270,RALPH,"   Yes, of course I know that, but   he was a full partner with a very   important firm. Rest assured the   firm is still operating.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+271,PICARD,"   That's what this is all about...   A lot has changed in three hundred   years. People are no longer   obsessed with the accumulation of   ""things"". We have eliminated hunger,   want, the need for possessions.   We have grown out of our infancy.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+272,RALPH,"   You've got it wrong. It's never   been about ""possessions"" - it's   about power.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+273,PICARD,   Power to do what?,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+274,RALPH,"   To control your life, your   destiny.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+275,PICARD,   That kind of control is an   illusion.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+276,RALPH,   Really -- I'm here aren't I? I   should be dead and I'm not.   That's what money did for me.   That's the kind of power I'm   talking about.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+277,PICARD,       What is it?,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+278,CLARE,   I don't know. It just started   and I can't stop. I keep   thinking about my boys.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+279,PICARD,"   Counselor Troi, report to the   guest lounge.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+280,RIKER,"   Captain, we are approaching   Science Station Delta Zero-Five.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+281,PICARD,   Slow to impulse... I'm on my way.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+282,SONNY,"   Say, Captain -- I need to see that   pretty Doctor of yours.",36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+283,PICARD,   I will inform her.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+284,RALPH,   Captain. I didn't mean to come   on so strong. I've built my life   on knowing what's going on. For   the first time -- I'm completely   out of touch -- it makes me crazy.   Can you understand?,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+285,PICARD,   It's the first thing you've said   that I do understand. I'll see   what I can do. But please... stay   off the com panel.,36   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+286,PICARD,"   Counselor, get those people under   control. We cannot afford this   continuing distraction.",37   INT. CORRIDOR,CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+287,TROI,"   Yes, sir.",37   INT. CORRIDOR,CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+288,TROI,   Hello -- my name is Deanna.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+289,CLARE,   They sent you here to settle me   down.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+290,TROI,   I'm the ship's counselor and I   thought you might want to talk.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+291,CLARE,   The local shrink.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+292,TROI,"   I'm sorry, I do not know that   term.",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+293,CLARE,   It doesn't matter.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+294,TROI,   You are feeling profoundly sad.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+295,CLARE,"   Can't stop crying. I miss my   sons, and then I think... I'm   here, but they are gone. Donald   -- he's my husband. I love that   man but, good intentions aside,   he'd mess up a free lunch. Why   in the world he ever decided to   do this...",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+296,TROI,   He must have thought you would   have wanted it.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+297,CLARE,"   I can tell you exactly what   happened. He couldn't think about   going on alone. I died, but he   couldn't face it. So he figured   if he had me frozen, then in his   mind I wasn't really gone. Crazy,   huh? But you have to know Donald.",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+298,CLARE,"       I'm in a world of strangers. I   wish I knew what happened to my   children. Did they get married,   did they have kids...",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+299,TROI,   Let's see if we can find out.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+300,TROI,       Computer - this is Counselor Troi.   Request personal history on...   What are their names?,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+301,CLARE,"   Tommy -- he's eight, and Eddie's   five.",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+302,COMPUTER,   Full names -- Date and place of   birth.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+303,CLARE,   They were born in Secaucus -   that's in Jersey.       Can this really work? Can this   tell me what happened to them?,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+304,TROI,   There has to be a record   somewhere. There is a good chance   we can find it.,38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+305,CLARE,"   Whether we do or not, thank you   for... trying.       Date of birth. Tommy was born   February seventeenth...",38   INT. CLARE'S QUARTERS,CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+306,SONNY,   I just got to have a little   something to jump start the   morning -- and a little something   else to shut down the night.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+307,BEVERLY,   You have no medical need.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+308,SONNY,"   It's not a question of ""need,""   darlin'. It's a matter of   survival.",39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+309,BEVERLY,   Sorry.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+310,SONNY,   Not to worry -- ol' Watosh will   scuffle along the best way he can.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+311,SONNY,       How do I get a hold of the ol'   boy with the marinie face?,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+312,BEVERLY,   I beg your pardon?,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+313,SONNY,   What's his name... that android   fella.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+314,BEVERLY,   Lieutenant Commander Data?,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+315,SONNY,   That's the one.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+316,BEVERLY,   I'll let him know you want to see   him.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+317,SONNY,   Much obliged. You sure are the   prettiest little doctor I ever   saw.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+318,BEVERLY,   Much obliged.,39   INT. SICKBAY,SICKBAY,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+319,CLARE,   Amazing. It's all right there.,40   INT. CLARE'S QUARTERS (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+320,TROI,"   Yes, ten generations of your   progeny.",40   INT. CLARE'S QUARTERS (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+321,CLARE,   Everyone I ever knew is dead.   Would you mind... I'd like to be   alone.,40   INT. CLARE'S QUARTERS (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+322,TROI,"   No, not at all.",40   INT. CLARE'S QUARTERS (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+323,DATA,   You asked to see me.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+324,SONNY,   I'm about to go out of my mind   for something to do. Sittin'   alone drinkin' don't get it. What   say you and me put together a   little party.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+325,DATA,   A celebration?,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+326,SONNY,"   Naw... nothin' that fancy -- just   some folks, some suds, and some   sounds. Hell it ain't nothin'   but somethin' to do. Whatdeya   think?",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+327,DATA,   I will ask the captain.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+328,SONNY,   Great -- you do that...,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+329,DATA,   Query. You do not seem to be   having as much difficulty   adjusting to your current   circumstances as are the others.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+330,SONNY,"   You mean being here -- on this tub   -- four hundred years from where   I started? Heck -- it's the same   dance, just a different tune.   You think anyone 'round here's   got a guitar I could borrow?",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+331,DATA,"   No, but the computer can replicate   such an instrument.",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+332,SONNY,   I was kind of hopin' to get one   while I still remember the chords.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+333,RIKER,   Commander Data -- we are   approaching the Neutral Zone.   Report to the bridge.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+334,DATA,   I must leave.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+335,SONNY,"   What's this ""Neutral Zone?""",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+336,DATA,   A buffer between the Romulan   Empire and the Federation.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+337,SONNY,   Why does that make me nervous?,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+338,DATA,   I do not know.,40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+339,SONNY,"   We won't be inviting these   Romulans to our party, will we?",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+340,DATA,"   No, it would not be appropriate.",40A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+341,PICARD,"   Captain's log, supplemental. We   have arrived at the edge of the   Neutral Zone. We will now have   an opportunity to learn firsthand   what happened to our distant   outposts.",41   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+342,DATA,   There is nothing left of Outpost   Delta Zero-Five.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+343,GEORDI,   It must have been one hell of an   explosion.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+344,DATA,   Sensors indicate no evidence of   a conventional attack.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+345,DATA,       There is nothing left.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+346,PICARD,   Can you determine what happened?,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+347,WORF,"   The outpost was not just   destroyed, it is as though some   great force just scooped it   off the face of the planet.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+348,PICARD,   Could it have been a natural   phenomenon?,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+349,DATA,   Insufficient information.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+350,PICARD,"   Geordi, set a course for the next   closest station.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+351,GEORDI,"   Aye, sir.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+352,SONNY,"   I just can't believe this. When   that android fella said you could   duplicate this baby, I didn't   dream you'd do such a bang-up   job... You like country?",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+353,WESLEY,   Excuse me?,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+354,SONNY,"   Picking and strummin', son. What   about rock?",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+355,WESLEY,   What about rock?,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+356,SONNY,"   What's the matter, kid? You look   like you're staring at a ghost.",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+357,WESLEY,"   Well, sir, you were dead for over   three-hundred years...",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+358,SONNY,   How 'bout rhythm and blues? That   comes back every decade or so.,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+359,WESLEY,"   What was it like?... I mean, can   you remember...",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+360,SONNY,"   What? Bein' dead? Not really,   but then again there wasn't a   whole lot happening.",43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+361,WESLEY,   Why did you do it? Was there   something left undone... something   you have to finish?,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+362,SONNY,   Nope. Just curiosity... Another   adventure... Simply wanted to see   what was going on.,43A  INT. SONNY'S QUARTERS,SONNY'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+363,GEORDI,   We are approaching Tarod Nine.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+364,DATA,"   The condition is identical,   Captain.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+365,WORF,   Everyone and everything is gone.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+366,RIKER,"   Captain, I strongly recommend that   we go to Red Alert. If the   Romulans have improved their   cloaking device, and we'd be fools   to think they haven't, we should   assume a more defensive posture.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+367,WORF,"   I agree, Captain. I recommend   we go immediately to battle   stations.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+368,PICARD,"   I appreciate your concern and   advice, but this is not the time   for rash actions. We are still   investigating.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+369,PICARD,       There are three other stations   in this sector which we need to   visit. Let's proceed in a calm   and orderly manner.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+370,RIKER,"   If not ""battle stations,"" may I   at least bring the ship to Yellow   Alert?",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+371,PICARD,"   Yes, Number One. That would be   prudent.",44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+372,RIKER,   Thank you.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+373,SONNY,"   So, what is it that you want?",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+374,RALPH,   I've spent my career being able   to tell when the other guy's mouth   is dry. There is something going   on. Something serious. The   tension level on this ship has   jumped up.,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+375,SONNY,"   Even if you're right, what can   we do about it? And besides,   these old boys don't need us to   tell them where the bear sits.",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+376,SONNY,       Lookie here what that young   fella made for me.,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+377,CLARE,   How did he do that?,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+378,SONNY,"   He called it a pattern replication.   It plays real good, too.",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+379,RALPH,"   I'm trying to tell you that there   is a situation developing on this   vessel which affects us, and all   you can talk about is that stupid   guitar!",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+380,SONNY,"   These folks don't need us swimming   in their soup, so why don't you   just relax and let them do their   jobs?",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+381,RALPH,"   That may be all right for you,   but I am not willing to allow my   fate to be decided by others.   I at least want to know what is   going on.",46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+382,SONNY,   How are you planning to do that?,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+383,RALPH,   He needs help. I think he's   dying.,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+384,SONNY,   What the hell are you doing?,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+385,RALPH,   I'm going to find out what's going   on.,46   INT. GUEST LOUNGE,GUEST LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+386,RALPH,   Ah... let's see.       Ah... I want to go to a... the...   ah...    (he shrugs; then to     himself:)   Where would the captain be?,47A  INT. CORRIDOR (FORMERLY SCENE 48),CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+387,COMPUTER,   Captain Picard is located on the   Main Bridge.,47A  INT. CORRIDOR (FORMERLY SCENE 48),CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+388,RALPH,"   Then, take me to the Main Bridge.",47A  INT. CORRIDOR (FORMERLY SCENE 48),CORRIDOR,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+389,WORF,"   Captain, my sensors indicate a   disturbance. It is large and   moving, but I cannot get a   positive lock nor can I get it   on the viewscreen.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+390,RIKER,   Shields up.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+391,WORF,"   Aye, sir.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+392,RIKER,"   Captain, I recommend we transfer   all power to phasers, and arm the   photon torpedos.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+393,PICARD,"   Wait. If that is a Romulan ship,   it will read our intent. We will   be forcing them to take a similar   posture. We are not out here to   engage in battles; we are explorers.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+394,RIKER,"   Captain, there is sufficient   evidence. Outposts have been   destroyed... Countless lives have   been lost.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+395,WORF,   I have a positive lock... It's   disengaging its cloaking device.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+396,RIKER,   They are vulnerable for an instant   as they become visible.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+397,WORF,"   Captain, this may be our only   chance.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+398,WORF,       I've lost them.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+399,PICARD,       Are your sensors picking up   anything? You should be   detecting a disturbance.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+400,DATA,   Negative.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+401,GEORDI,   We wanted to know if they have   improved their cloaking device   -- I guess we have our answer.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+402,PICARD,       They were trying to determine   our intent... They wanted to see   if we would fire.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+403,RALPH,   Who the hell are they?,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+404,RIKER,   Get that man off the bridge...   now.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+405,RALPH,   I'm not going anywhere.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+406,WORF,"   Captain, they're back.",48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+407,PICARD,   On screen.,48A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+408,RIKER,   Amazing. I never thought I would   ever see a Romulan ship -- not this   close.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+409,GEORDI,   The last encounter was decades   ago and cost thousands of lives.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+410,RALPH,       I can believe that.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+411,PICARD,"   Stay calm, everyone.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+412,WORF,"   Captain, these are Romulans -- they   are without honor. They killed   my parents in an attack on   Khitomer at a time when they were   supposed to be our allies. They   believe humans and Klingons are   a waste of skin, so inferior as   to be unworthy of any   consideration.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+413,PICARD,"   Lieutenant, keep your emotions   under control. Open hailing   frequencies.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+414,WORF,   Hailing frequencies open.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+415,PICARD,"   Romulan vessel, this is Captain   Jean-Luc Picard of the USS   Enterprise.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+416,DATA,   Sensors indicate all of their   systems are armed.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+417,PICARD,   But they have not fired.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+418,PICARD,       Let's try them again.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+419,WORF,   Hailing frequencies are still   open.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+420,PICARD,"   Romulan vessel, this is Captain   Jean-Luc Picard of the USS   Enterprise.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+421,TEBOK,   I am Commander Tebok.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+422,PICARD,   You have crossed the Neutral Zone.   This is Federation territory.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+423,THEI,   It was necessary.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+424,PICARD,   It could be viewed as an act of   aggression.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+425,THEI,"   If our intent was aggression,   you would not now be here.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+426,TEBOK,"   If we go to war, let us be sure   it is for the right reason. We   are here because our outposts,   which border the Neutral Zone,   were also attacked.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+427,THEI,   Destroyed in the exact same manner   as your own.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+428,WORF,       What right did they have to enter   Federation space?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+429,TEBOK,"   Silence your dog, Captain.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+430,PICARD,   Lieutenant Worf's question is   valid.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+431,THEI,   Even to ask such a question   implies that we need permission;   we do not.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+432,PICARD,   Do you think we attacked your   outposts?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+433,TEBOK,"       Once we realized the level of   destruction, we knew it could not   have been you.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+434,PICARD,   Who is responsible?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+435,RALPH,   They haven't a clue.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+436,RALPH,"       They're hoping you know, but   they're too arrogant to ask.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+437,RIKER,"   You're out of line, Mister.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+438,PICARD,"   Yes, but correct in his   assessment.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+439,TEBOK,   We do not know who is   responsible... Why entire   outposts on both sides were   carried off.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+440,PICARD,   I would like to offer a proposal.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+441,THEI,       An alliance? Between the   Romulans and the Federation?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+442,PICARD,   Nothing so grandiose -- just this.   Cooperation... whoever or whatever   did this is more powerful than   either of us.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+443,THEI,   Agreed.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+444,THEI,"   On this one issue, and only if   it is convenient and something   we consider appropriate at the   time.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+445,TEBOK,"   Captain Picard, because your   actions are those of a thoughtful   man who is neither rash nor easily   provoked, I tell you this. More   urgent matters have caused our   absence, and witness the results.   Outposts destroyed, evidence of   the Federation everywhere. We   have been negligent, but no more.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+446,PICARD,   We have made some progress in our   relations... let's not ruin that   with unnecessary posturing.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+447,TEBOK,   Your presence is not wanted. Do   you understand my meaning? We   are back!,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+448,PICARD,   I think our lives just became a   lot more complicated.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+449,PICARD,   Get him off my bridge.,56A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+450,TROI,   I have found something.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+451,TROI,       I have been able to locate a   family living outside of   Indianapolis. The man's name is   Thomas Raymond.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+452,CLARE,   That's my son's name. My son's   name is Tommy.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+453,TROI,   Computer -- let us see Thomas   Raymond.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+454,CLARE,"   Oh, my God... It's Donald...   that's my husband.",56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+455,TROI,"   Actually, it's your great, great,   great, great, great grandson.",56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+456,CLARE,   He's the spitting image.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+457,TROI,"   I have his address. When you get   back to Earth, you could go and   see him.",56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+458,CLARE,   But... I will still be out of   time. A relic.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+459,TROI,"   Perhaps. But it's a place to   start. He is after all, family.",56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+460,CLARE,   There's no denying that.,56B  INT. CLARE'S QUARTERS (FORMERLY SC. 58) (OPTICAL),CLARE'S QUARTERS,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+461,PICARD,"   Here is what I propose. You can't   remain on the Enterprise. We have   arranged to rendezvous with the   USS Charleston, bound for Earth.   You will be delivered there.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+462,RALPH,   And then what will happen to us?   There's no trace of my money -- my   office is gone -- what will I do?   How will I live?,57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+463,PICARD,       This is the twenty-fourth century.   Those material needs no longer   exist.,57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+464,RALPH,   Then what's the challenge?,57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+465,PICARD,"   To improve yourself... enrich   yourself. Enjoy it, Mister Offenhouse.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+466,SONNY,"   Well, one good thing -- since   everybody's forgotten everything   I ever did... it'll all be brand   spankin' new. Hell, I'll be a   bigger hit than I ever was.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+467,PICARD,"   Perhaps so, anything is possible.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+468,SONNY,"       What say, son -- you'd make a hell   of a sideman.",57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+469,DATA,   That offer does present a certain   fascination.,57   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+470,GEORDI,"   I have plotted a course to   intercept the Charleston, sir,   but they have informed me that   they will be making an extended   stop at Arloff Nine.",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+471,PICARD,"   Your point, Lieutenant?",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+472,GEORDI,"   At warp eight, we could have   our guests at Starbase Thirty-Nine   Sierra in five days. It   would cut months off their   journey.",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+473,PICARD,   They will benefit from the   extended time. It will allow   them to acclimate before arriving   at Earth.,59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+474,RIKER,   It's a pity we can't take them   ourselves. Having them on board   has been like a visit from the   past.,59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+475,PICARD,"   That would take us in the wrong   direction. Our mission is to go   forward and it has just begun.   Set velocity at warp six, Mister   La Forge.",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+476,GEORDI,"   Aye, sir... warp six.",59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt
+477,PICARD,   There is still much to do... and   still so much to learn.       Mister La Forge... Engage.,59   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Neutral Zone,1988-03-17,The Next Generation,126.txt

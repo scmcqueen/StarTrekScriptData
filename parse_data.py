@@ -42,7 +42,7 @@ def get_quotes(lines):
             try:
                 scene = lines[max([x for x in scenes_index if x < i])]
             except:
-                scene='VOICE OVER'
+                scene='INT. VOICE OVER'
 
             data.append([name, quote,scene])
 
@@ -83,10 +83,10 @@ def clean_location(loc:str):
 def get_title(lines):
     series_ind = 0
     for i in range(len(lines)):
-        if "STAR TREK: THE NEXT GENERATION" in lines[i]:
+        if "STAR TREK: THE NEXT GENERATION" in lines[i] or 'STAR TREK: DEEP SPACE NINE' in lines[i]:
             series_ind = i
             break
-    return str(lines[series_ind+2]).strip()
+    return str(lines[series_ind+2]).strip().replace('"','')
 
 
 def get_date(lines):
@@ -129,12 +129,13 @@ if __name__ == "__main__":
     
     #
     main_df = pd.DataFrame(
-        [], columns=['character', 'quote', 'scene','location','view','episode','date','series'])
+        [], columns=['character', 'quote', 'scene','location','view','episode','date','series','file'])
 
     for name in file_dict.keys():
         print(name)
         df = create_df(file_dict[name]+name)
         df['series']=folders[file_dict[name]]
+        df['file']=name
         df.to_csv(file_dict[name].replace('/','_data/')+name.replace('.txt', '.csv'))
         main_df = pd.concat([main_df, df], axis=0)
 

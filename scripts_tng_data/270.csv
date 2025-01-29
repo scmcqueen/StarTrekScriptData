@@ -1,404 +1,404 @@
-,character,quote,scene,location,view,episode,date,series
-0,DATA,       We are losing containment in the   starboard nacelle tube --,1    INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-1,PICARD,   Try to get more power to the field   coils.,1    INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-2,DATA,"       Yes, sir.",1    INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-3,PICARD,"   Geordi, report.",1    INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-4,GEORDI,   I can't shut down the plasma   injectors -- someone's locked out   the controls.,2    INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-5,DATA,       The plasma venting system has   engaged.,3    INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-6,WORF,   Two more decks --,5    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-7,RIKER,       Riker to Bridge -- we've almost   reached the nacelle tube.,5    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-8,PICARD,   Acknowledged.       Release the exterior hull plate.   We may have to jettison the core.,6    INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-9,RIKER,       What happened?,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-10,NARA,"       He locked out the controls...   before we knew what was happening,   he stepped up onto the walkway.",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-11,RIKER,   See if you can shut down the   plasma flow.,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-12,NARA,"   I'm afraid if we try to get any   closer, he'll jump through the   forecefield.",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-13,RIKER,   Dan...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-14,RIKER,   It's me... Wil Riker.,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-15,RIKER,"       I was here yesterday, remember?",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-16,KWAN,   I didn't... want to do it...   but... I saw them... and... they   laughed at me... they laughed...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-17,RIKER,"   Whatever happened, we can talk   about it. I want to help.",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-18,KWAN,   Stay away!,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-19,RIKER,"   I want you to be able to see me,   that's all... so we can talk.",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-20,KWAN,   I... know... what I have to do...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-21,RIKER,"   Dan, wait --",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-22,WORF,   I have unlocked the controls --,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-23,COMPUTER,   Shut down procedure initiated.,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-24,NARA,   There's still plasma in the   injector -- it'll take time to   vent off...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-25,RIKER,   Tell me what happened. Maybe I   can help.,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-26,KWAN,   I know what I have to do...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-27,RIKER,   A few more seconds and we could've   saved his life...,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-28,WORF,   Commander... you did everything   you could. It was not your fault.,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-29,RIKER,   I had the strangest feeling   that... he didn't even recognize   me -- and I was with him just the   other day when I supervised the   tube refit.,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-30,PICARD,   How did he seem then?,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-31,RIKER,   Fine. In fact I complimented him   for getting the refit done faster   than expected. He was pleased   that I noticed.,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-32,TROI,   I met with him during crew   evaluations about six weeks ago.   He was very positive; he was   looking forward to being posted to   the nacelle tube.,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-33,RIKER,"   He was a fine officer, with a good   career ahead of him. I just don't   understand why he would want to...",12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-34,PICARD,"   In my years as a Starship Captain,   I've had to notify many families   that they'd lost a loved one. But   never to suicide. I'd like to be   able to offer Lieutenant Kwan's   family some explanation for what   happened -- to help them make   sense of it.",12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-35,WORF,"   He may have left a message of some   kind, explaining why he did it.",12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-36,PICARD,       I want the two of you to try and   piece together a picture of his   last few days.,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-37,TROI,"   If he made any personal logs, it   might be helpful to go through   them.",12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-38,PICARD,   You're authorized to do so.,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-39,GEORDI,   La Forge to Captain.,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-40,PICARD,   Go ahead.,12   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-41,GEORDI,   I've completed a damage   assessment. We should be able to   get underway within the hour.,13   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-42,PICARD,"   Geordi, the medical situation on   Barson Two has worsened --   Starfleet has given us permission   to exceed warp speed limitations   so we can get back on schedule.",14   INT. READY ROOM,READY ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-43,GEORDI,   We'll be able to give you warp   eight if you need it.,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-44,PICARD,   Acknowledged.,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-45,DATA,"   Geordi, would you agree that the   instinct for self-preservation is   shared by most life forms?",15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-46,GEORDI,   I'd say it's probably the most   basic instinct.,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-47,DATA,"   That being the case, I am having   difficulty understanding why   someone would deliberately   terminate their own existence.",15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-48,GEORDI,"   I don't know, Data. All I can   think is that maybe Lieutenant   Kwan felt like there was   something... wrong in his life,   something he felt powerless to   fix.",15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-49,DATA,   I believe I understand. I have   been in a similar situation.,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-50,GEORDI,   Really?,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-51,DATA,   The first months following my   activation were a difficult period   for me... there were many   problems associated with my   becoming sentient.,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-52,GEORDI,   Because your neural net was still   forming.,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-53,DATA,"   As I acquired new skills, neural   pathways would form and take the   place of other, less complex   pathways. It was very...   disorienting.",15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-54,GEORDI,   Sure sounds like it.,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-55,DATA,"   As my systems grew in complexity,   it became increasingly difficult   to integrate new pathways into my   existing neural net. The   probability of cascade failure   grew with each added pathway. I   came to the conclusion that it   would be easier and safer to shut   myself down and start again.",15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-56,GEORDI,"   But if you did that, you wouldn't   have remembered any of the things   that had happened to you.",15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-57,DATA,"   In a way, it would have been   like... committing suicide.",15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-58,GEORDI,   So what did you do?,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-59,DATA,"   I decided against the procedure.   I chose instead to treat the   problems I was having with my   systems as... challenges to be   overcome, instead of obstacles to   be avoided.",15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-60,GEORDI,   That's a great way of looking at   it. It's too bad Lieutenant Kwan   wasn't able to look at his   problems the same way.,15   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-61,TROI,   I've gone over Kwan's personnel   records -- he had an exceptionally   stable psychological profile.,16   INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-62,WORF,"   When we were in the control room,   it seemed as if he were trying   to... explain something he'd   done... something terrible.",16   INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-63,TROI,   He'd been on the Enterprise over   two years. No one has ever   reported an altercation with him.,16   INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-64,WORF,       These were his quarters.,16   INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-65,WORF,   This is a Napean design...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-66,TROI,   His mother is Napean; his father's   human.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-67,TROI,       Everything looks so... normal.   For some reason I was half   expecting to find the place a   mess.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-68,WORF,   Yes... it is strange to think that   someone could be considering   ending his life and yet not give   any outward sign of it.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-69,WORF,"       Right before he jumped, he seemed   almost... calm.",17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-70,TROI,   He must have been in a lot of pain   to do what he did. It could be   that the prospect of ending that   pain felt like a great relief.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-71,TROI,"   This is Ensign... Calloway, isn't   it?",17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-72,WORF,   She is a medical technician in   Sickbay.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-73,TROI,   It's always hard to lose someone   you care about... but to lose them   like this...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-74,WORF,   We should start going over his   logs...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-75,TROI,   This is his last entry; he made it   before going on duty this morning.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-76,KWAN,"   Personal log, Stardate 47622.1.   We finally finished the nacelle   tube refit last night. After   pulling two double shifts in a   row, I'm really looking forward to   spending some time with Maddy.",17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-77,TROI,   Ensign Calloway...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-78,TROI,       That doesn't sound like a man   planning on ending his life.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-79,WORF,   No... it does not...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-80,CALLOWAY,   I can't believe he's really   gone... I keep thinking he's   going to show up and tell me   there's been some terrible   misunderstanding...,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-81,TROI,"   I thought you might like to know   that in his personal logs, Dan   talked about you a great deal. He   loved you very much.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-82,CALLOWAY,   If that's true... then how could   he... leave me like this?,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-83,TROI,   That's what I'm trying to find   out. I know it's hard to talk   about right now... but it would be   very helpful if you could tell me   a few things about him.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-84,TROI,       When was the last time you saw   him?,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-85,CALLOWAY,   Two nights ago... we were planning   our next shore leave together.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-86,TROI,   Did he mention anything that   happened recently... anything that   might have upset him?,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-87,CALLOWAY,"   No, not really... he did say   something about work, about   Lieutenant Nara, but it wasn't   anything serious.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-88,TROI,   Nara... she's his superior officer   in the nacelle tube.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-89,CALLOWAY,"   Yes. Dan sensed that she... well,   that she felt threatened by him --   that she thought he was after her   position.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-90,TROI,"   Was he prone to mood swings, or   depression?",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-91,CALLOWAY,   No... but he was very sensitive to   other people's moods.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-92,TROI,   What do you mean?,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-93,CALLOWAY,"   Sometimes he would just... look at   me, and know what I was feeling --   I always loved that about him.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-94,TROI,   Napeans are partially empathic --   he may have inherited some of his   mother's abilities.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-95,CALLOWAY,"       He used to tease me that when I   met her, I wouldn't be able to get   away with anything.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-96,CALLOWAY,"       Dan and I knew each other for over   two years, but we didn't really   get together until a few months   ago. We took it slow...",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-97,CALLOWAY,       We thought we had all the time in   the world...,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-98,CALLOWAY,"       Something must've happened to him,   Counselor. Something terrible   Because it's not like Dan to take   his own life. Please... find out   what it was.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-99,NARA,   I'm sorry --,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-100,TROI,   I didn't see you there...,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-101,TROI,"       You're Lieutenant Nara, aren't   you?",21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-102,NARA,"   Can I do something for you,   Counselor?",21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-103,TROI,   I'm investigating Lieutenant   Kwan's death. I just wanted to   take a look around.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-104,NARA,   It's such a shame. He was a good   man.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-105,TROI,   Did you notice any change in his   behavior recently?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-106,NARA,"   No... I've been going over the   last few days in my mind, trying   to see if I missed any... warning   signs. It's as if something in   him just... snapped.",21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-107,TROI,   How was his job performance?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-108,NARA,   Excellent. He knew this ship   better than most people --   probably because he helped build   it back at Utopia Planitia.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-109,TROI,   Did he get along with his coworkers?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-110,NARA,   He was... ambitious. He came in   here with all sorts of new ideas   about how to do things -- some of   them very good ideas.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-111,TROI,   But not all?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-112,NARA,"       No. But once he settled in, we   got along fine.",21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-113,NARA,       Excuse me for a minute. Feel free   to look around.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-114,TROI,   Where was Lieutenant Kwan's   station?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-115,NARA,   Right down there.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-116,NARA,   Are you all right?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-117,TROI,       I... don't know...,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-118,TROI,"   I don't know how to describe it...   I was suddenly overwhelmed by a   flood of emotions -- fear, rage,   panic.",23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-119,RIKER,   Whose emotions? I thought you   said you were alone.,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-120,TROI,"   I was. The sensations didn't seem   to be coming from any one person --   they were just there, in the room.",23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-121,WORF,   I scanned the area -- I picked up   no anomalous readings.,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-122,RIKER,       How could you be getting an   empathic impression from an empty   room?,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-123,TROI,   I don't know...,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-124,BEVERLY,   Could the fact that Kwan was   partially empathic have something   to do with it?,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-125,RIKER,   What do you mean?,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-126,BEVERLY,   I'm not sure... but the feelings   Troi described certainly seem   consistent with suicide.,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-127,RIKER,       Could his death have left some   sort of... empathic echo?,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-128,TROI,   I suppose it's a possibility...   but I don't see how.,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-129,TROI,"       If I went back to the nacelle   tube, I might be able to get a   better sense of what I   experienced.",23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-130,BEVERLY,   I'm not sure that's a good idea --   you're showing elevated levels of   psilosynine.,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-131,WORF,   Psilosynine?,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-132,BEVERLY,   A neuro-transmitter involved in   telepathy.       The experience overwhelmed you the   first time. I don't think you   should go back until the levels   return to normal.,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-133,RIKER,   How long?,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-134,BEVERLY,"   Three, maybe four hours.",23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-135,RIKER,   Next time I want someone with you.,23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-136,WORF,"   I will accompany you, Counselor.",23   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-137,PICARD ,"   Captain's Log, Stardate 47623.2.   We've arrived at Starbase Three-twenty-eight   on schedule. After   taking aboard medical supplies, we   will depart for Barson Two.",24   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Eye of the Beholder""",AHHH,The Next Generation
-138,KWAN,"   -- I ran into Maddy yesterday. We   stood in the corridor and talked   for almost an hour... The more I   get to know her, the more I   realize what a remarkable woman   she is...",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-139,TROI,   Come in.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-140,TROI,"       Hello, Worf.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-141,WORF,   Counselor...,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-142,WORF,   Have you found anything in   Lieutenant Kwan's logs?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-143,TROI,   Everything I've seen indicates he   was well-adjusted and optimistic.       Were you able to talk with Ensign   Trake?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-144,WORF,   Yes... I interviewed all of Kwan's   co-workers.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-145,TROI,"   From what I've read, Trake was his   best friend.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-146,WORF,   He observed nothing that indicated   Kwan was contemplating ending his   life. Nor did any of the others.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-147,TROI,   It just doesn't make any sense...,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-148,TROI,   Can I get you anything?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-149,WORF,"   No, thank you.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-150,TROI,   Yridian tea...,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-151,TROI,       I've been thinking about what   happened to me in the nacelle   tube... whether it was an empathic   echo left by Kwan's death...,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-152,WORF,"   In the past, have your empathic   experiences always involved the   physical presence of another   person?",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-153,TROI,"   All the ones I'm sure of, yes.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-154,WORF,"   What do you mean, sure of?",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-155,TROI,"   Well... when I was a young girl,   my Grandfather used to tell me   stories by the fire... I would   close my eyes and listen to his   mind for hours on end...",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-156,WORF,   He told you these stories   telepathically... ?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-157,TROI,   My grandfather rarely spoke out   loud... He said that was for off-worlders   who didn't know any   better.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-158,TROI,"   The only time I can remember his   stories is when I go home... and   sit by the fireplace. Sometimes   when I'm there, alone... it's   almost as if I can hear his voice   in my head.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-159,WORF,   Yes... I have sought visions in   fire.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-160,TROI,"   I can't explain it, but it felt   very real to me. Just like what   happened in the nacelle tube.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-161,WORF,"   There are things we do not   understand, yet they exist   nonetheless.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-162,TROI,   I keep thinking about Ensign   Calloway... she needs to know   what happened to Kwan -- it's the   only way she'll ever be able to   put his death behind her.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-163,WORF,   This must be a very difficult time   for her.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-164,TROI,"   Do you know what she regrets most?   That she and Kwan didn't take full   advantage of the time they had   together... they knew each other   for a long time, but they didn't   get together until recently.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-165,WORF,   She wishes they had acted on their   feelings sooner... ?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-166,WORF,       Perhaps I should let you rest.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-167,TROI,   It's all right --,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-168,WORF,"   If you will excuse me, Counselor.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-169,RIKER,       Worf...,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-170,WORF,   Commander...,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-171,RIKER,"   Two Til'amin froths, please.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-172,WORF,   Lieutenant Corell seems to be   enjoying your company.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-173,RIKER,       I'd like to think so.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-174,WORF,   Are you... involved with her?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-175,RIKER,   I'm not sure yet.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-176,RIKER,       Why do you ask? Are you   interested in her?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-177,WORF,   No...,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-178,WORF,"       But if I were, I would of course   discuss the situation with you   before proceeding further.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-179,RIKER,"   I appreciate the thought, but you   really wouldn't have to do that.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-180,WORF,   I would never want to come between   you and anyone you were involved   with... or had ever been involved   with.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-181,RIKER,   Is there... someone in particular   you're talking about?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-182,WORF,   No. Is there... someone in   particular you would prefer I not   become involved with?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-183,RIKER,   Worf... you sound like a man   asking a friend if he can start   dating his sister.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-184,WORF,"   No, I am merely... never mind.   Excuse me, sir.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-185,TROI,   Could you open this door for me?,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-186,WORF,"   Yes, but only for a short time.   After ninety seconds the plasma   venting system will engage to   prevent degradation of the   forcefield.",28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-187,TROI,   I just want to take a quick   look...,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-188,WORF,   May I ask what you are looking   for?,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-189,TROI,   I'm... not sure...,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-190,COMPUTER,   Warning -- plasma venting system   will engage in ninety seconds.,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-191,WOMAN,   No... please... don't...,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-192,COMPUTER,   Plasma venting system will engage   in... eighty seconds.,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-193,TROI,   Worf... ?,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-194,TROI,"   Worf, where are you?",34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-195,WORF,   Counselor... are you all right --,34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-196,TROI,   Get me out of here...,34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-197,PICARD,   Do you remember anything else?,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-198,TROI,   I saw a tool crate on the floor...   it was labeled Utopia Planitia.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-199,DATA,   The shipyard where the Enterprise   was built.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-200,PICARD,   Clearly this was much more than an   empathic echo. It seems that you   were actually seeing something   that happened in the control room   eight years ago.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-201,TROI,   Everyone was looking directly at   me. It's almost as if... I were   seeing through someone else's   eyes.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-202,DATA,   Lieutenant Kwan was partially   empathic...,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-203,BEVERLY,   Maybe you were seeing through his   eyes?,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-204,TROI,   It's a possibility... but I don't   understand how it could have   happened.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-205,PICARD,"   Let's put that question aside for   a moment and assume that by some   unexplained phenomenon, you   witnessed an event that may have   involved Lieutenant Kwan.       The faces you saw -- did you   recognize them?",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-206,TROI,"   I don't think I've ever seen the   woman before, or the man who was   with her. But there was someone   else there. A man... he was   staring at me in the most peculiar   way. I think he had... reddish   hair. He seemed familiar to me...   but it's all so hazy, like trying   to remember a dream.",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-207,PICARD,"   The woman seemed terrified of   something... then you saw her   again, laughing -- presumably at   Lieutenant Kwan.",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-208,BEVERLY,   What could it all mean?,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-209,TROI,   I don't know. But something   terrible happened in that room.   I felt it.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-210,PICARD,   Counselor... I want you to look   over the personnel files from   Utopia Planitia and see if you can   identify the faces you saw.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-211,TROI,   If only there were some way I   could go back to the control room   and not be overwhelmed by the   experience -- it might help me   remember some detail that could be   relevant.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-212,BEVERLY,   I could give you an inhibitor that   would slow your brain's production   of psilosynine. That would   probably suppress your empathic   abilities enough to make the   experience manageable.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-213,TROI,   I'd like to try.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-214,PICARD,"   Very well, Counselor.",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-215,BEVERLY,   It'll take about sixteen hours to   synthesize the inhibitor.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-216,WORF,   I apologize for being late. The   viral medicines we are   transporting to Barson Two require   special security measures to   insure they are properly   contained.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-217,WORF,       Have you found anything?,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-218,TROI,   No... there were literally   thousands of people involved in   building the Enterprise.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-219,WORF,   Perhaps if you found a way to   narrow the search parameters.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-220,TROI,   I think I have. The man who   seemed familiar to me may have   been on board the Enterprise   during the last seven years. I've   asked the computer to limit its   search to personnel who've served   at Utopia Planitia and on the   ship.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-221,TROI,   Ensign Salvatore... he transferred   off the Enterprise last year.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-222,TROI,       Lieutenant Ziff... she's in   quantum mechanics.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-223,TROI,   That's him.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-224,WORF,       Lieutenant Walter Pierce...,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-225,TROI,   I remember now... he came aboard   about six months ago. I think   he's in Engineering.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-226,WORF,   You were Lieutenant Kwan's   supervisor at Utopia Planitia.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-227,PIERCE,   That's right. I was sorry to hear   what happened...,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-228,TROI,   Did you spend time in the nacelle   control room while it was under   construction?,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-229,PIERCE,"   I worked all over the ship. In   fact, I remember running a power   conduit right behind that wall   there.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-230,TROI,   Were you ever in the nacelle room   at the same time as Lieutenant   Kwan?,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-231,PIERCE,   It was a long time ago... people   were working all over the place.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-232,WORF,   So you do not remember?,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-233,PIERCE,"   I'm sorry, I don't.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-234,TROI,   Do you recall if anything...   unusual happened there?,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-235,PIERCE,   How do you mean?,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-236,TROI,"   An altercation, perhaps. Possibly   involving Lieutenant Kwan.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-237,PIERCE,"   No... nothing like that. The way   I remember it, things went pretty   smoothly.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-238,PIERCE,       What's this all about? If you   don't mind my asking.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-239,TROI,"   Not at all. You see, when I went   into the nacelle room, I had an...   empathic experience.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-240,WORF,   We believe she may have been   seeing some event that occurred   there eight years ago.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-241,TROI,   And -- I saw you there.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-242,TROI,       Do you have any idea why that   might be?,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-243,PIERCE,   I'm afraid I don't.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-244,TROI,   Lieutenant... you're probably   aware that I can sense whether   someone's telling the truth.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-245,PIERCE,   I've heard that.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-246,TROI,"   I'm sure, then, that if you were   to... remember anything that might   be relevant to our investigation,   you'd contact me.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-247,PIERCE,   Of course.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-248,TROI,"   Thank you, Lieutenant.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-249,PIERCE,   Counselor...,42   INT. ENGINEERING,ENGINEERING,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-250,TROI,   The strange thing is I couldn't   read him at all.,42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-251,WORF,   But you implied that you could...,42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-252,WORF,   We have played poker together many   times. I have never known you to   bluff.,42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-253,TROI,"   Well... it wouldn't be much of a   bluff if you knew, would it?",42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-254,TROI,       The fact that I couldn't read him   suggests that he has at least some   telepathic ability...,42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-255,WORF,   But Pierce is human.,42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-256,TROI,   That's what I don't understand...,42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-257,TROI,"       Even though I couldn't read his   emotions, it did seem to me that   he was... holding something back.",42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-258,WORF,   Yes. I thought so as well.,42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-259,TROI,   Maybe we should try to access the   Engineering Logs from Utopia   Planitia. We might find out more   about him.,42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-260,WORF,"   There might be something in them   about Lieutenant Kwan, as well.",42A  INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-261,TROI,   It looks like it'll take about   half an hour for the transmission   to be completed.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-262,WORF,   Perhaps we should continue in the   morning... ?,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-263,TROI,   It is late.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-264,WORF,"   Yes, you must be tired.",44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-265,TROI,   A little...,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-266,WORF,   Well. I will say good night.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-267,TROI,   Good night.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-268,WORF,   We should get an early start   tomorrow.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-269,TROI,   Yes. We should.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-270,TROI,   See you in the morning...,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-271,WORF,   Yes...,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-272,WORF,   Deanna...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-273,TROI,   Hello...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-274,WORF,   Breakfast is ready...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-275,TROI,   Mmm... that sounds good...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-276,TROI,       But it can wait...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-277,TROI,       Why didn't we do this a long time   ago... ?,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-278,BEVERLY,   Crusher to Counselor Troi.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-279,TROI,"   Yes, Doctor.",45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-280,BEVERLY,   I've synthesized the inhibitor;   you can come to Sickbay whenever   you're ready.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-281,TROI,   Acknowledged.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-282,BEVERLY,   Crusher to Lieutenant Worf.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-283,WORF,"   Worf, here.",45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-284,BEVERLY,   The medical supplies are ready to   be taken to the cargo bay for   transport.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-285,WORF,   I will be there shortly.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-286,BEVERLY,   There... you should start feeling   the effect immediately.,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-287,TROI,   How completely will it suppress my   empathic abilities?,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-288,BEVERLY,   It's hard to say for sure... I can   raise the dosage if you find it's   not enough.,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-289,WORF,   -- the cargo bay will be off-limits   to all but medical   personnel.,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-290,CALLOWAY,"   Thanks for your help, sir.",46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-291,TROI,   Good morning.,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-292,WORF,   Counselor...,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-293,TROI,   Data and Geordi are already in the   nacelle room. Are you ready?,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-294,CALLOWAY,"   Excuse me, sir. About the   quarantine field in the cargo   bay...",46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-295,WORF,   Yes.,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-296,CALLOWAY,   It looks like we're going to need   a second field generator.,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-297,WORF,       I am needed here. I will join you   as soon as I can.,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-298,TROI,   All right...,46   INT. SICKBAY,SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-299,GEORDI,"   Counselor, you okay?",47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-300,TROI,   I'm fine. The inhibitor seems to   be working.       Have you found anything?,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-301,GEORDI,   Nothing unusual.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-302,TROI,   I don't remember seeing this   console during my empathic   experience. Has it been here   since the ship was built?,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-303,GEORDI,"   No, we installed it about two   years ago.",47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-304,TROI,   I remember seeing some sort of   power conduit...,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-305,TROI,       Right there.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-306,GEORDI,   The main ODN line runs right   behind that panel... it lifts out   so you can get to it.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-307,NARA,   Kwan was working on that conduit   the day before he died.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-308,TROI,   Can you open it?,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-309,GEORDI,   Sure... it'll just take a minute.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-310,TROI,"   Lieutenant... the work Lieutenant   Kwan was doing, was it unusual in   any way?",47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-311,NARA,   He was refitting a field coil.   But it was probably the first time   that particular panel's been   opened since the ship was built.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-312,GEORDI,   Let's set it down right here...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-313,GEORDI,       Counselor?,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-314,GEORDI,   Are you all right?,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-315,TROI,   Something happened... when you   took off the panel...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-316,TROI,       There must be something there...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-317,DATA,   I am picking up readings that   indicate there is organic material   imbedded in the wall...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-318,GEORDI,   Organic material?,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-319,GEORDI,       You're right... let me reconfigure   the emitter beam. We might be   able to see what it is...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-320,GEORDI,       There...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-321,BEVERLY,   This dosage should prevent any   further empathic flashes.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-322,CALLOWAY,   The bone fragments are definitely   human... I sequenced a DNA sample;   I'll see if I can match it to   Starfleet records.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-323,BEVERLY,       I'd say these fragments had been   in the wall about seven or eight   years.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-324,BEVERLY,       You said something happened when   the panel was opened...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-325,TROI,   Yes...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-326,BEVERLY,"   I wonder if the fragments   themselves could've somehow   triggered your experience. I'll   run a resonance scan, see if   anything turns up.",59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-327,CALLOWAY,"   Sir, I think we've found a   match...",59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-328,WORF,   Apparently the remains are those   of an Ensign Marla Finn --,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-329,CALLOWAY,   I'm trying to find a picture of   her in the records...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-330,TROI,   That's her. That's the woman I   saw.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-331,BEVERLY,   She was reported missing from   Utopia Planitia on Stardate   40987.2. Eight years ago...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-332,BEVERLY,       How could her body have ended up   embedded inside a bulkhead... ?,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-333,CALLOWAY,   Maybe there was some kind of...   accident.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-334,WORF,   Or she was killed. And the   murderer hid her remains.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-335,TROI,   Something's not right... pull up   Lieutenant Kwan's service record.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-336,TROI,       I thought so... he didn't arrive   at the shipyard until six months   after Finn's death.       I couldn't have been seeing   through his eyes...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-337,BEVERLY,   Then whose... ?,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-338,TROI,   It had to have been someone who   was at least partially telepathic.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-339,WORF,   Pierce... ?,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-340,BEVERLY,   But you saw him there.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-341,TROI,"   Yes, but not as clearly as I saw   everything else... his face   looked...",59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-342,TROI,       Like that.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-343,BEVERLY,   A reflection...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-344,TROI,       I was seeing through his eyes.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-345,TROI,       And Finn was trying to get away   from him; she was afraid of him...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-346,WORF,   I think it is time we had   another... conversation with   Lieutenant Pierce.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-347,WORF,       Ensign Calloway...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-348,WORF,       Thank you for your help.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-349,WORF,   Deck ten.,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-350,TROI,   Worf... I want to ask you   something...,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-351,TROI,       Do you regret what happened last   night?,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-352,WORF,   No... of course not.,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-353,TROI,   Are you sure? Because I don't   want anything to jeopardize our   friendship.,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-354,WORF,   Deanna... I do not regret being   with you.,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-355,WORF,       Is something wrong?,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-356,TROI,   I just... don't feel myself.   Maybe it's the inhibitor -- I'm so   used to sensing what people are   feeling... now I can't.,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-357,WORF,   Perhaps I should talk to   Lieutenant Pierce alone.,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-358,TROI,   That might be a good idea...,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-359,WORF,   I will meet you in your quarters.,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-360,TROI,   I'll be waiting for you...,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-361,TROI,       Deck eight.,61   INT. TURBOLIFT,TURBOLIFT,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-362,TROI,   Come in.,62   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-363,TROI,   Security to Counselor Troi's   quarters.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-364,COM,   Acknowledged.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-365,PIERCE,   I don't understand... Lieutenant   Worf said you wanted to talk to me   about something.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-366,TROI,   Where is he?,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-367,PIERCE,   He said he had to go somewhere.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-368,TROI,       Troi to Worf.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-369,TROI,   Computer...,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-370,TROI,   Where is Lieutenant Worf?,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-371,COMPUTER,   Lieutenant Worf is in Ensign   Calloway's quarters.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-372,TROI,   Take Lieutenant Pierce to his   quarters and hold him there.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-373,TROI,"   Security override, authorization   Troi Delta-two-nine.",64   INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-374,TROI,   Worf...,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-375,TROI,       Stop it --,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-376,TROI,       Stop it --,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-377,CALLOWAY,       He's dead... you killed him...,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-378,TROI,   No... no...,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-379,PIERCE,   You know what you have to do...,66   INT. CORRIDOR,CORRIDOR,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-380,TROI,       I know... what I have to do...,69   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-381,COMPUTER,   Plasma venting system will engage   in... seventy seconds.,69   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-382,WORF,   What were you doing?,69   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-383,TROI,   You're alive... you're all   right...,69   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-384,WORF,"   -- I opened the maintenance door   at Counselor Troi's request, then   turned and saw that she had moved   too close to the force-field.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-385,TROI,   It all seemed so real to me. It's   hard to imagine that everything I   experienced happened in just those   few seconds...,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-386,DATA,"   It appears that you were correct,   Counselor. Lieutenant Pierce was   partially telepathic -- his   maternal grandmother was from   Betazed.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-387,PICARD,   What else have you found?,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-388,DATA,"   According to Starfleet records,   Pierce and the other two persons   Counselor Troi identified were   killed in an accidental plasma   discharge eight years ago. Their   bodies were never found.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-389,TROI,   I don't believe it was an   accident. I think that Pierce   found out that the other two were   having an affair. He lost   control... and killed them both.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-390,TROI,"   Afterwards, he probably activated   the plasma stream, then threw   himself into it.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-391,WORF,   The plasma discharge would have   obliterated any evidence that it   was murder.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-392,GEORDI,   I scanned behind the panel   Counselor Troi asked me to look   at. I didn't find any bone   fragments... but I did find traces   of cellular residue. It's showing   some kind of... empathic   signature.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-393,TROI,"   It may be that when Lieutenant   Pierce was struck by the plasma   stream, the subspace energy   present there imprinted his   empathic pattern into the residue.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-394,GEORDI,   Kind of like a... psychic   photograph.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-395,TROI,   That's what triggered my   hallucination... My mind must   have taken elements from my own   life and created a situation that   in many ways paralleled what   happened to Pierce.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-396,TROI,"       If you hadn't been there, I would   have jumped... just like he did...",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-397,WORF,   Counselor...,73A  INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-398,TROI,   Yes?,73A  INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-399,WORF,"   When I pulled you away from the   plasma stream, you seemed...   surprised that I was alive.",73A  INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-400,TROI,"   Well... actually, in my   hallucination... you were killed.",73A  INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-401,WORF,   May I ask by whom?,73A  INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
-402,TROI,"   You know what they say, Worf...       Hell hath no fury like a woman   scorned...",73A  INT. BRIDGE,BRIDGE,INT.,"""Eye of the Beholder""",AHHH,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,DATA,       We are losing containment in the   starboard nacelle tube --,1    INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+1,PICARD,   Try to get more power to the field   coils.,1    INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+2,DATA,"       Yes, sir.",1    INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+3,PICARD,"   Geordi, report.",1    INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+4,GEORDI,   I can't shut down the plasma   injectors -- someone's locked out   the controls.,2    INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+5,DATA,       The plasma venting system has   engaged.,3    INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+6,WORF,   Two more decks --,5    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+7,RIKER,       Riker to Bridge -- we've almost   reached the nacelle tube.,5    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+8,PICARD,   Acknowledged.       Release the exterior hull plate.   We may have to jettison the core.,6    INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+9,RIKER,       What happened?,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+10,NARA,"       He locked out the controls...   before we knew what was happening,   he stepped up onto the walkway.",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+11,RIKER,   See if you can shut down the   plasma flow.,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+12,NARA,"   I'm afraid if we try to get any   closer, he'll jump through the   forecefield.",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+13,RIKER,   Dan...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+14,RIKER,   It's me... Wil Riker.,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+15,RIKER,"       I was here yesterday, remember?",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+16,KWAN,   I didn't... want to do it...   but... I saw them... and... they   laughed at me... they laughed...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+17,RIKER,"   Whatever happened, we can talk   about it. I want to help.",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+18,KWAN,   Stay away!,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+19,RIKER,"   I want you to be able to see me,   that's all... so we can talk.",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+20,KWAN,   I... know... what I have to do...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+21,RIKER,"   Dan, wait --",7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+22,WORF,   I have unlocked the controls --,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+23,COMPUTER,   Shut down procedure initiated.,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+24,NARA,   There's still plasma in the   injector -- it'll take time to   vent off...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+25,RIKER,   Tell me what happened. Maybe I   can help.,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+26,KWAN,   I know what I have to do...,7    INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+27,RIKER,   A few more seconds and we could've   saved his life...,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+28,WORF,   Commander... you did everything   you could. It was not your fault.,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+29,RIKER,   I had the strangest feeling   that... he didn't even recognize   me -- and I was with him just the   other day when I supervised the   tube refit.,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+30,PICARD,   How did he seem then?,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+31,RIKER,   Fine. In fact I complimented him   for getting the refit done faster   than expected. He was pleased   that I noticed.,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+32,TROI,   I met with him during crew   evaluations about six weeks ago.   He was very positive; he was   looking forward to being posted to   the nacelle tube.,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+33,RIKER,"   He was a fine officer, with a good   career ahead of him. I just don't   understand why he would want to...",12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+34,PICARD,"   In my years as a Starship Captain,   I've had to notify many families   that they'd lost a loved one. But   never to suicide. I'd like to be   able to offer Lieutenant Kwan's   family some explanation for what   happened -- to help them make   sense of it.",12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+35,WORF,"   He may have left a message of some   kind, explaining why he did it.",12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+36,PICARD,       I want the two of you to try and   piece together a picture of his   last few days.,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+37,TROI,"   If he made any personal logs, it   might be helpful to go through   them.",12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+38,PICARD,   You're authorized to do so.,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+39,GEORDI,   La Forge to Captain.,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+40,PICARD,   Go ahead.,12   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+41,GEORDI,   I've completed a damage   assessment. We should be able to   get underway within the hour.,13   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+42,PICARD,"   Geordi, the medical situation on   Barson Two has worsened --   Starfleet has given us permission   to exceed warp speed limitations   so we can get back on schedule.",14   INT. READY ROOM,READY ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+43,GEORDI,   We'll be able to give you warp   eight if you need it.,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+44,PICARD,   Acknowledged.,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+45,DATA,"   Geordi, would you agree that the   instinct for self-preservation is   shared by most life forms?",15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+46,GEORDI,   I'd say it's probably the most   basic instinct.,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+47,DATA,"   That being the case, I am having   difficulty understanding why   someone would deliberately   terminate their own existence.",15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+48,GEORDI,"   I don't know, Data. All I can   think is that maybe Lieutenant   Kwan felt like there was   something... wrong in his life,   something he felt powerless to   fix.",15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+49,DATA,   I believe I understand. I have   been in a similar situation.,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+50,GEORDI,   Really?,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+51,DATA,   The first months following my   activation were a difficult period   for me... there were many   problems associated with my   becoming sentient.,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+52,GEORDI,   Because your neural net was still   forming.,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+53,DATA,"   As I acquired new skills, neural   pathways would form and take the   place of other, less complex   pathways. It was very...   disorienting.",15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+54,GEORDI,   Sure sounds like it.,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+55,DATA,"   As my systems grew in complexity,   it became increasingly difficult   to integrate new pathways into my   existing neural net. The   probability of cascade failure   grew with each added pathway. I   came to the conclusion that it   would be easier and safer to shut   myself down and start again.",15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+56,GEORDI,"   But if you did that, you wouldn't   have remembered any of the things   that had happened to you.",15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+57,DATA,"   In a way, it would have been   like... committing suicide.",15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+58,GEORDI,   So what did you do?,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+59,DATA,"   I decided against the procedure.   I chose instead to treat the   problems I was having with my   systems as... challenges to be   overcome, instead of obstacles to   be avoided.",15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+60,GEORDI,   That's a great way of looking at   it. It's too bad Lieutenant Kwan   wasn't able to look at his   problems the same way.,15   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+61,TROI,   I've gone over Kwan's personnel   records -- he had an exceptionally   stable psychological profile.,16   INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+62,WORF,"   When we were in the control room,   it seemed as if he were trying   to... explain something he'd   done... something terrible.",16   INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+63,TROI,   He'd been on the Enterprise over   two years. No one has ever   reported an altercation with him.,16   INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+64,WORF,       These were his quarters.,16   INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+65,WORF,   This is a Napean design...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+66,TROI,   His mother is Napean; his father's   human.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+67,TROI,       Everything looks so... normal.   For some reason I was half   expecting to find the place a   mess.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+68,WORF,   Yes... it is strange to think that   someone could be considering   ending his life and yet not give   any outward sign of it.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+69,WORF,"       Right before he jumped, he seemed   almost... calm.",17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+70,TROI,   He must have been in a lot of pain   to do what he did. It could be   that the prospect of ending that   pain felt like a great relief.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+71,TROI,"   This is Ensign... Calloway, isn't   it?",17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+72,WORF,   She is a medical technician in   Sickbay.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+73,TROI,   It's always hard to lose someone   you care about... but to lose them   like this...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+74,WORF,   We should start going over his   logs...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+75,TROI,   This is his last entry; he made it   before going on duty this morning.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+76,KWAN,"   Personal log, Stardate 47622.1.   We finally finished the nacelle   tube refit last night. After   pulling two double shifts in a   row, I'm really looking forward to   spending some time with Maddy.",17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+77,TROI,   Ensign Calloway...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+78,TROI,       That doesn't sound like a man   planning on ending his life.,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+79,WORF,   No... it does not...,17   INT. KWAN'S QUARTERS (OPTICAL),KWAN'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+80,CALLOWAY,   I can't believe he's really   gone... I keep thinking he's   going to show up and tell me   there's been some terrible   misunderstanding...,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+81,TROI,"   I thought you might like to know   that in his personal logs, Dan   talked about you a great deal. He   loved you very much.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+82,CALLOWAY,   If that's true... then how could   he... leave me like this?,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+83,TROI,   That's what I'm trying to find   out. I know it's hard to talk   about right now... but it would be   very helpful if you could tell me   a few things about him.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+84,TROI,       When was the last time you saw   him?,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+85,CALLOWAY,   Two nights ago... we were planning   our next shore leave together.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+86,TROI,   Did he mention anything that   happened recently... anything that   might have upset him?,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+87,CALLOWAY,"   No, not really... he did say   something about work, about   Lieutenant Nara, but it wasn't   anything serious.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+88,TROI,   Nara... she's his superior officer   in the nacelle tube.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+89,CALLOWAY,"   Yes. Dan sensed that she... well,   that she felt threatened by him --   that she thought he was after her   position.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+90,TROI,"   Was he prone to mood swings, or   depression?",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+91,CALLOWAY,   No... but he was very sensitive to   other people's moods.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+92,TROI,   What do you mean?,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+93,CALLOWAY,"   Sometimes he would just... look at   me, and know what I was feeling --   I always loved that about him.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+94,TROI,   Napeans are partially empathic --   he may have inherited some of his   mother's abilities.,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+95,CALLOWAY,"       He used to tease me that when I   met her, I wouldn't be able to get   away with anything.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+96,CALLOWAY,"       Dan and I knew each other for over   two years, but we didn't really   get together until a few months   ago. We took it slow...",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+97,CALLOWAY,       We thought we had all the time in   the world...,19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+98,CALLOWAY,"       Something must've happened to him,   Counselor. Something terrible   Because it's not like Dan to take   his own life. Please... find out   what it was.",19   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+99,NARA,   I'm sorry --,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+100,TROI,   I didn't see you there...,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+101,TROI,"       You're Lieutenant Nara, aren't   you?",21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+102,NARA,"   Can I do something for you,   Counselor?",21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+103,TROI,   I'm investigating Lieutenant   Kwan's death. I just wanted to   take a look around.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+104,NARA,   It's such a shame. He was a good   man.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+105,TROI,   Did you notice any change in his   behavior recently?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+106,NARA,"   No... I've been going over the   last few days in my mind, trying   to see if I missed any... warning   signs. It's as if something in   him just... snapped.",21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+107,TROI,   How was his job performance?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+108,NARA,   Excellent. He knew this ship   better than most people --   probably because he helped build   it back at Utopia Planitia.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+109,TROI,   Did he get along with his coworkers?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+110,NARA,   He was... ambitious. He came in   here with all sorts of new ideas   about how to do things -- some of   them very good ideas.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+111,TROI,   But not all?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+112,NARA,"       No. But once he settled in, we   got along fine.",21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+113,NARA,       Excuse me for a minute. Feel free   to look around.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+114,TROI,   Where was Lieutenant Kwan's   station?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+115,NARA,   Right down there.,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+116,NARA,   Are you all right?,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+117,TROI,       I... don't know...,21   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+118,TROI,"   I don't know how to describe it...   I was suddenly overwhelmed by a   flood of emotions -- fear, rage,   panic.",23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+119,RIKER,   Whose emotions? I thought you   said you were alone.,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+120,TROI,"   I was. The sensations didn't seem   to be coming from any one person --   they were just there, in the room.",23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+121,WORF,   I scanned the area -- I picked up   no anomalous readings.,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+122,RIKER,       How could you be getting an   empathic impression from an empty   room?,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+123,TROI,   I don't know...,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+124,BEVERLY,   Could the fact that Kwan was   partially empathic have something   to do with it?,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+125,RIKER,   What do you mean?,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+126,BEVERLY,   I'm not sure... but the feelings   Troi described certainly seem   consistent with suicide.,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+127,RIKER,       Could his death have left some   sort of... empathic echo?,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+128,TROI,   I suppose it's a possibility...   but I don't see how.,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+129,TROI,"       If I went back to the nacelle   tube, I might be able to get a   better sense of what I   experienced.",23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+130,BEVERLY,   I'm not sure that's a good idea --   you're showing elevated levels of   psilosynine.,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+131,WORF,   Psilosynine?,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+132,BEVERLY,   A neuro-transmitter involved in   telepathy.       The experience overwhelmed you the   first time. I don't think you   should go back until the levels   return to normal.,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+133,RIKER,   How long?,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+134,BEVERLY,"   Three, maybe four hours.",23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+135,RIKER,   Next time I want someone with you.,23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+136,WORF,"   I will accompany you, Counselor.",23   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+137,PICARD ,"   Captain's Log, Stardate 47623.2.   We've arrived at Starbase Three-twenty-eight   on schedule. After   taking aboard medical supplies, we   will depart for Barson Two.",24   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+138,KWAN,"   -- I ran into Maddy yesterday. We   stood in the corridor and talked   for almost an hour... The more I   get to know her, the more I   realize what a remarkable woman   she is...",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+139,TROI,   Come in.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+140,TROI,"       Hello, Worf.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+141,WORF,   Counselor...,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+142,WORF,   Have you found anything in   Lieutenant Kwan's logs?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+143,TROI,   Everything I've seen indicates he   was well-adjusted and optimistic.       Were you able to talk with Ensign   Trake?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+144,WORF,   Yes... I interviewed all of Kwan's   co-workers.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+145,TROI,"   From what I've read, Trake was his   best friend.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+146,WORF,   He observed nothing that indicated   Kwan was contemplating ending his   life. Nor did any of the others.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+147,TROI,   It just doesn't make any sense...,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+148,TROI,   Can I get you anything?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+149,WORF,"   No, thank you.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+150,TROI,   Yridian tea...,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+151,TROI,       I've been thinking about what   happened to me in the nacelle   tube... whether it was an empathic   echo left by Kwan's death...,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+152,WORF,"   In the past, have your empathic   experiences always involved the   physical presence of another   person?",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+153,TROI,"   All the ones I'm sure of, yes.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+154,WORF,"   What do you mean, sure of?",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+155,TROI,"   Well... when I was a young girl,   my Grandfather used to tell me   stories by the fire... I would   close my eyes and listen to his   mind for hours on end...",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+156,WORF,   He told you these stories   telepathically... ?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+157,TROI,   My grandfather rarely spoke out   loud... He said that was for off-worlders   who didn't know any   better.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+158,TROI,"   The only time I can remember his   stories is when I go home... and   sit by the fireplace. Sometimes   when I'm there, alone... it's   almost as if I can hear his voice   in my head.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+159,WORF,   Yes... I have sought visions in   fire.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+160,TROI,"   I can't explain it, but it felt   very real to me. Just like what   happened in the nacelle tube.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+161,WORF,"   There are things we do not   understand, yet they exist   nonetheless.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+162,TROI,   I keep thinking about Ensign   Calloway... she needs to know   what happened to Kwan -- it's the   only way she'll ever be able to   put his death behind her.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+163,WORF,   This must be a very difficult time   for her.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+164,TROI,"   Do you know what she regrets most?   That she and Kwan didn't take full   advantage of the time they had   together... they knew each other   for a long time, but they didn't   get together until recently.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+165,WORF,   She wishes they had acted on their   feelings sooner... ?,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+166,WORF,       Perhaps I should let you rest.,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+167,TROI,   It's all right --,25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+168,WORF,"   If you will excuse me, Counselor.",25   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+169,RIKER,       Worf...,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+170,WORF,   Commander...,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+171,RIKER,"   Two Til'amin froths, please.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+172,WORF,   Lieutenant Corell seems to be   enjoying your company.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+173,RIKER,       I'd like to think so.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+174,WORF,   Are you... involved with her?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+175,RIKER,   I'm not sure yet.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+176,RIKER,       Why do you ask? Are you   interested in her?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+177,WORF,   No...,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+178,WORF,"       But if I were, I would of course   discuss the situation with you   before proceeding further.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+179,RIKER,"   I appreciate the thought, but you   really wouldn't have to do that.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+180,WORF,   I would never want to come between   you and anyone you were involved   with... or had ever been involved   with.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+181,RIKER,   Is there... someone in particular   you're talking about?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+182,WORF,   No. Is there... someone in   particular you would prefer I not   become involved with?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+183,RIKER,   Worf... you sound like a man   asking a friend if he can start   dating his sister.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+184,WORF,"   No, I am merely... never mind.   Excuse me, sir.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+185,TROI,   Could you open this door for me?,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+186,WORF,"   Yes, but only for a short time.   After ninety seconds the plasma   venting system will engage to   prevent degradation of the   forcefield.",28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+187,TROI,   I just want to take a quick   look...,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+188,WORF,   May I ask what you are looking   for?,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+189,TROI,   I'm... not sure...,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+190,COMPUTER,   Warning -- plasma venting system   will engage in ninety seconds.,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+191,WOMAN,   No... please... don't...,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+192,COMPUTER,   Plasma venting system will engage   in... eighty seconds.,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+193,TROI,   Worf... ?,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+194,TROI,"   Worf, where are you?",34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+195,WORF,   Counselor... are you all right --,34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+196,TROI,   Get me out of here...,34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+197,PICARD,   Do you remember anything else?,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+198,TROI,   I saw a tool crate on the floor...   it was labeled Utopia Planitia.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+199,DATA,   The shipyard where the Enterprise   was built.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+200,PICARD,   Clearly this was much more than an   empathic echo. It seems that you   were actually seeing something   that happened in the control room   eight years ago.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+201,TROI,   Everyone was looking directly at   me. It's almost as if... I were   seeing through someone else's   eyes.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+202,DATA,   Lieutenant Kwan was partially   empathic...,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+203,BEVERLY,   Maybe you were seeing through his   eyes?,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+204,TROI,   It's a possibility... but I don't   understand how it could have   happened.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+205,PICARD,"   Let's put that question aside for   a moment and assume that by some   unexplained phenomenon, you   witnessed an event that may have   involved Lieutenant Kwan.       The faces you saw -- did you   recognize them?",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+206,TROI,"   I don't think I've ever seen the   woman before, or the man who was   with her. But there was someone   else there. A man... he was   staring at me in the most peculiar   way. I think he had... reddish   hair. He seemed familiar to me...   but it's all so hazy, like trying   to remember a dream.",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+207,PICARD,"   The woman seemed terrified of   something... then you saw her   again, laughing -- presumably at   Lieutenant Kwan.",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+208,BEVERLY,   What could it all mean?,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+209,TROI,   I don't know. But something   terrible happened in that room.   I felt it.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+210,PICARD,   Counselor... I want you to look   over the personnel files from   Utopia Planitia and see if you can   identify the faces you saw.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+211,TROI,   If only there were some way I   could go back to the control room   and not be overwhelmed by the   experience -- it might help me   remember some detail that could be   relevant.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+212,BEVERLY,   I could give you an inhibitor that   would slow your brain's production   of psilosynine. That would   probably suppress your empathic   abilities enough to make the   experience manageable.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+213,TROI,   I'd like to try.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+214,PICARD,"   Very well, Counselor.",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+215,BEVERLY,   It'll take about sixteen hours to   synthesize the inhibitor.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+216,WORF,   I apologize for being late. The   viral medicines we are   transporting to Barson Two require   special security measures to   insure they are properly   contained.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+217,WORF,       Have you found anything?,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+218,TROI,   No... there were literally   thousands of people involved in   building the Enterprise.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+219,WORF,   Perhaps if you found a way to   narrow the search parameters.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+220,TROI,   I think I have. The man who   seemed familiar to me may have   been on board the Enterprise   during the last seven years. I've   asked the computer to limit its   search to personnel who've served   at Utopia Planitia and on the   ship.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+221,TROI,   Ensign Salvatore... he transferred   off the Enterprise last year.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+222,TROI,       Lieutenant Ziff... she's in   quantum mechanics.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+223,TROI,   That's him.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+224,WORF,       Lieutenant Walter Pierce...,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+225,TROI,   I remember now... he came aboard   about six months ago. I think   he's in Engineering.,39   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+226,WORF,   You were Lieutenant Kwan's   supervisor at Utopia Planitia.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+227,PIERCE,   That's right. I was sorry to hear   what happened...,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+228,TROI,   Did you spend time in the nacelle   control room while it was under   construction?,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+229,PIERCE,"   I worked all over the ship. In   fact, I remember running a power   conduit right behind that wall   there.",42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+230,TROI,   Were you ever in the nacelle room   at the same time as Lieutenant   Kwan?,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+231,PIERCE,   It was a long time ago... people   were working all over the place.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+232,WORF,   So you do not remember?,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+233,PIERCE,"   I'm sorry, I don't.",42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+234,TROI,   Do you recall if anything...   unusual happened there?,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+235,PIERCE,   How do you mean?,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+236,TROI,"   An altercation, perhaps. Possibly   involving Lieutenant Kwan.",42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+237,PIERCE,"   No... nothing like that. The way   I remember it, things went pretty   smoothly.",42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+238,PIERCE,       What's this all about? If you   don't mind my asking.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+239,TROI,"   Not at all. You see, when I went   into the nacelle room, I had an...   empathic experience.",42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+240,WORF,   We believe she may have been   seeing some event that occurred   there eight years ago.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+241,TROI,   And -- I saw you there.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+242,TROI,       Do you have any idea why that   might be?,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+243,PIERCE,   I'm afraid I don't.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+244,TROI,   Lieutenant... you're probably   aware that I can sense whether   someone's telling the truth.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+245,PIERCE,   I've heard that.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+246,TROI,"   I'm sure, then, that if you were   to... remember anything that might   be relevant to our investigation,   you'd contact me.",42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+247,PIERCE,   Of course.,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+248,TROI,"   Thank you, Lieutenant.",42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+249,PIERCE,   Counselor...,42   INT. ENGINEERING,ENGINEERING,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+250,TROI,   The strange thing is I couldn't   read him at all.,42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+251,WORF,   But you implied that you could...,42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+252,WORF,   We have played poker together many   times. I have never known you to   bluff.,42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+253,TROI,"   Well... it wouldn't be much of a   bluff if you knew, would it?",42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+254,TROI,       The fact that I couldn't read him   suggests that he has at least some   telepathic ability...,42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+255,WORF,   But Pierce is human.,42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+256,TROI,   That's what I don't understand...,42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+257,TROI,"       Even though I couldn't read his   emotions, it did seem to me that   he was... holding something back.",42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+258,WORF,   Yes. I thought so as well.,42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+259,TROI,   Maybe we should try to access the   Engineering Logs from Utopia   Planitia. We might find out more   about him.,42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+260,WORF,"   There might be something in them   about Lieutenant Kwan, as well.",42A  INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+261,TROI,   It looks like it'll take about   half an hour for the transmission   to be completed.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+262,WORF,   Perhaps we should continue in the   morning... ?,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+263,TROI,   It is late.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+264,WORF,"   Yes, you must be tired.",44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+265,TROI,   A little...,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+266,WORF,   Well. I will say good night.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+267,TROI,   Good night.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+268,WORF,   We should get an early start   tomorrow.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+269,TROI,   Yes. We should.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+270,TROI,   See you in the morning...,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+271,WORF,   Yes...,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+272,WORF,   Deanna...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+273,TROI,   Hello...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+274,WORF,   Breakfast is ready...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+275,TROI,   Mmm... that sounds good...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+276,TROI,       But it can wait...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+277,TROI,       Why didn't we do this a long time   ago... ?,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+278,BEVERLY,   Crusher to Counselor Troi.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+279,TROI,"   Yes, Doctor.",45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+280,BEVERLY,   I've synthesized the inhibitor;   you can come to Sickbay whenever   you're ready.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+281,TROI,   Acknowledged.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+282,BEVERLY,   Crusher to Lieutenant Worf.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+283,WORF,"   Worf, here.",45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+284,BEVERLY,   The medical supplies are ready to   be taken to the cargo bay for   transport.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+285,WORF,   I will be there shortly.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+286,BEVERLY,   There... you should start feeling   the effect immediately.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+287,TROI,   How completely will it suppress my   empathic abilities?,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+288,BEVERLY,   It's hard to say for sure... I can   raise the dosage if you find it's   not enough.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+289,WORF,   -- the cargo bay will be off-limits   to all but medical   personnel.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+290,CALLOWAY,"   Thanks for your help, sir.",46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+291,TROI,   Good morning.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+292,WORF,   Counselor...,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+293,TROI,   Data and Geordi are already in the   nacelle room. Are you ready?,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+294,CALLOWAY,"   Excuse me, sir. About the   quarantine field in the cargo   bay...",46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+295,WORF,   Yes.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+296,CALLOWAY,   It looks like we're going to need   a second field generator.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+297,WORF,       I am needed here. I will join you   as soon as I can.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+298,TROI,   All right...,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+299,GEORDI,"   Counselor, you okay?",47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+300,TROI,   I'm fine. The inhibitor seems to   be working.       Have you found anything?,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+301,GEORDI,   Nothing unusual.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+302,TROI,   I don't remember seeing this   console during my empathic   experience. Has it been here   since the ship was built?,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+303,GEORDI,"   No, we installed it about two   years ago.",47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+304,TROI,   I remember seeing some sort of   power conduit...,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+305,TROI,       Right there.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+306,GEORDI,   The main ODN line runs right   behind that panel... it lifts out   so you can get to it.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+307,NARA,   Kwan was working on that conduit   the day before he died.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+308,TROI,   Can you open it?,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+309,GEORDI,   Sure... it'll just take a minute.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+310,TROI,"   Lieutenant... the work Lieutenant   Kwan was doing, was it unusual in   any way?",47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+311,NARA,   He was refitting a field coil.   But it was probably the first time   that particular panel's been   opened since the ship was built.,47   INT. NACELLE CONTROL,NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+312,GEORDI,   Let's set it down right here...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+313,GEORDI,       Counselor?,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+314,GEORDI,   Are you all right?,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+315,TROI,   Something happened... when you   took off the panel...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+316,TROI,       There must be something there...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+317,DATA,   I am picking up readings that   indicate there is organic material   imbedded in the wall...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+318,GEORDI,   Organic material?,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+319,GEORDI,       You're right... let me reconfigure   the emitter beam. We might be   able to see what it is...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+320,GEORDI,       There...,52   INT. INJECTOR ROOM (OPTICAL),INJECTOR ROOM,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+321,BEVERLY,   This dosage should prevent any   further empathic flashes.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+322,CALLOWAY,   The bone fragments are definitely   human... I sequenced a DNA sample;   I'll see if I can match it to   Starfleet records.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+323,BEVERLY,       I'd say these fragments had been   in the wall about seven or eight   years.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+324,BEVERLY,       You said something happened when   the panel was opened...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+325,TROI,   Yes...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+326,BEVERLY,"   I wonder if the fragments   themselves could've somehow   triggered your experience. I'll   run a resonance scan, see if   anything turns up.",59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+327,CALLOWAY,"   Sir, I think we've found a   match...",59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+328,WORF,   Apparently the remains are those   of an Ensign Marla Finn --,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+329,CALLOWAY,   I'm trying to find a picture of   her in the records...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+330,TROI,   That's her. That's the woman I   saw.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+331,BEVERLY,   She was reported missing from   Utopia Planitia on Stardate   40987.2. Eight years ago...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+332,BEVERLY,       How could her body have ended up   embedded inside a bulkhead... ?,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+333,CALLOWAY,   Maybe there was some kind of...   accident.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+334,WORF,   Or she was killed. And the   murderer hid her remains.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+335,TROI,   Something's not right... pull up   Lieutenant Kwan's service record.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+336,TROI,       I thought so... he didn't arrive   at the shipyard until six months   after Finn's death.       I couldn't have been seeing   through his eyes...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+337,BEVERLY,   Then whose... ?,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+338,TROI,   It had to have been someone who   was at least partially telepathic.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+339,WORF,   Pierce... ?,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+340,BEVERLY,   But you saw him there.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+341,TROI,"   Yes, but not as clearly as I saw   everything else... his face   looked...",59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+342,TROI,       Like that.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+343,BEVERLY,   A reflection...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+344,TROI,       I was seeing through his eyes.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+345,TROI,       And Finn was trying to get away   from him; she was afraid of him...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+346,WORF,   I think it is time we had   another... conversation with   Lieutenant Pierce.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+347,WORF,       Ensign Calloway...,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+348,WORF,       Thank you for your help.,59   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+349,WORF,   Deck ten.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+350,TROI,   Worf... I want to ask you   something...,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+351,TROI,       Do you regret what happened last   night?,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+352,WORF,   No... of course not.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+353,TROI,   Are you sure? Because I don't   want anything to jeopardize our   friendship.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+354,WORF,   Deanna... I do not regret being   with you.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+355,WORF,       Is something wrong?,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+356,TROI,   I just... don't feel myself.   Maybe it's the inhibitor -- I'm so   used to sensing what people are   feeling... now I can't.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+357,WORF,   Perhaps I should talk to   Lieutenant Pierce alone.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+358,TROI,   That might be a good idea...,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+359,WORF,   I will meet you in your quarters.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+360,TROI,   I'll be waiting for you...,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+361,TROI,       Deck eight.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+362,TROI,   Come in.,62   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+363,TROI,   Security to Counselor Troi's   quarters.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+364,COM,   Acknowledged.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+365,PIERCE,   I don't understand... Lieutenant   Worf said you wanted to talk to me   about something.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+366,TROI,   Where is he?,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+367,PIERCE,   He said he had to go somewhere.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+368,TROI,       Troi to Worf.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+369,TROI,   Computer...,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+370,TROI,   Where is Lieutenant Worf?,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+371,COMPUTER,   Lieutenant Worf is in Ensign   Calloway's quarters.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+372,TROI,   Take Lieutenant Pierce to his   quarters and hold him there.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+373,TROI,"   Security override, authorization   Troi Delta-two-nine.",64   INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+374,TROI,   Worf...,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+375,TROI,       Stop it --,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+376,TROI,       Stop it --,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+377,CALLOWAY,       He's dead... you killed him...,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+378,TROI,   No... no...,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+379,PIERCE,   You know what you have to do...,66   INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+380,TROI,       I know... what I have to do...,69   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+381,COMPUTER,   Plasma venting system will engage   in... seventy seconds.,69   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+382,WORF,   What were you doing?,69   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+383,TROI,   You're alive... you're all   right...,69   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+384,WORF,"   -- I opened the maintenance door   at Counselor Troi's request, then   turned and saw that she had moved   too close to the force-field.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+385,TROI,   It all seemed so real to me. It's   hard to imagine that everything I   experienced happened in just those   few seconds...,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+386,DATA,"   It appears that you were correct,   Counselor. Lieutenant Pierce was   partially telepathic -- his   maternal grandmother was from   Betazed.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+387,PICARD,   What else have you found?,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+388,DATA,"   According to Starfleet records,   Pierce and the other two persons   Counselor Troi identified were   killed in an accidental plasma   discharge eight years ago. Their   bodies were never found.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+389,TROI,   I don't believe it was an   accident. I think that Pierce   found out that the other two were   having an affair. He lost   control... and killed them both.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+390,TROI,"   Afterwards, he probably activated   the plasma stream, then threw   himself into it.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+391,WORF,   The plasma discharge would have   obliterated any evidence that it   was murder.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+392,GEORDI,   I scanned behind the panel   Counselor Troi asked me to look   at. I didn't find any bone   fragments... but I did find traces   of cellular residue. It's showing   some kind of... empathic   signature.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+393,TROI,"   It may be that when Lieutenant   Pierce was struck by the plasma   stream, the subspace energy   present there imprinted his   empathic pattern into the residue.",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+394,GEORDI,   Kind of like a... psychic   photograph.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+395,TROI,   That's what triggered my   hallucination... My mind must   have taken elements from my own   life and created a situation that   in many ways paralleled what   happened to Pierce.,73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+396,TROI,"       If you hadn't been there, I would   have jumped... just like he did...",73   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+397,WORF,   Counselor...,73A  INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+398,TROI,   Yes?,73A  INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+399,WORF,"   When I pulled you away from the   plasma stream, you seemed...   surprised that I was alive.",73A  INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+400,TROI,"   Well... actually, in my   hallucination... you were killed.",73A  INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+401,WORF,   May I ask by whom?,73A  INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt
+402,TROI,"   You know what they say, Worf...       Hell hath no fury like a woman   scorned...",73A  INT. BRIDGE,BRIDGE,INT.,Eye of the Beholder,AHHH,The Next Generation,270.txt

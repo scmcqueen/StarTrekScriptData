@@ -1,458 +1,458 @@
-,character,quote,scene,location,view,episode,date,series
-0,RIKER,       Open hailing frequencies.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-1,WORF,   Hailing frequencies opened.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-2,RIKER,"   Repulse, this is the Enterprise.   We are getting underway.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-3,REPULSE,"   Acknowledged, Enterprise.   Transfer complete -- good luck on   your mission.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-4,RIKER,   And to you.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-5,REPULSE,   Give my regards to your captain.   Repulse out.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-6,WESLEY,   The Shuttle Bay is secure.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-7,RIKER,   Thank you Mister Crusher. Make   all preparations to get underway.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-8,GEORDI,   We will construct this large   enclosure on Cargo Deck Five.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-9,PICARD,   Come.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-10,RIKER,   The transfer is complete. Doctor   Pulaski is being shown to her   quarters. We are ready to get   underway.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-11,PICARD,   Very good. Take a look at the   containment module our new chief   engineer has designed.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-12,RIKER,"   ""Chief engineer,"" that has a nice   ring to it.",4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-13,GEORDI,"   It does to me.       Each will have total atmospheric   control... temperature, radiation,   light, humidity, plus electrical   spectrums.",4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-14,RIKER,   And these are put into the large   containment area?,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-15,GEORDI,"   Yes, these modules will keep the   specimens alive -- the large   containment area will keep us   alive. Now, I have to go and   replicate this five hundred and   twelve times. This will mean   it will be necessary to divert   power from the warp engines to   the replicator.",4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-16,PICARD,   How long will we be on impulse   power?,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-17,GEORDI,"   For a few hours, but it can't be   helped.",4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-18,RIKER,   When we leave 'aucdet Nine - I'm   going to want all the power you   can slam into those warp engines.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-19,GEORDI,   You'll have it.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-20,PICARD,   I will relieve you at zero three   zero zero.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-21,RIKER,"   Take us out of orbit, Mister   Crusher -- set course for 'aucdet   Nine.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-22,WESLEY,"   Aye, sir. Course for 'aucdet Nine   has been input.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-23,RIKER,   Maximum impulse velocity.,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-24,WESLEY,"   Aye, sir.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-25,RIKER,   Engage.,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-26,DATA,   Engineering -- this is Science One.   I just observed what appeared to   be a random energy transference.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-27,GEORDI,   Where?,10   INT. CHIEF ENGINEER'S OFFICE,CHIEF ENGINEER'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-28,DATA,   Aft. Outboard of the port   nacelle.,10   INT. CHIEF ENGINEER'S OFFICE,CHIEF ENGINEER'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-29,GEORDI,   Hold on -- I'll check.,10   INT. CHIEF ENGINEER'S OFFICE,CHIEF ENGINEER'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-30,GEORDI,"   No -- I show nothing here, Data.",10A  INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""The Child""",1988-09-20,The Next Generation
-31,RIKER,"   Problem, Commander?",11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-32,DATA,   Possibly. An unexplained power   fluctuation.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-33,RIKER,   Let me know if it reoccurs.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-34,PICARD ,"   Captain's log, Stardate 42073.1.   There has been an outbreak of a   yet unclassified Plasma Plague   in the densely populated Rachelis   system. We are on an emergency   run to a Federation Research   station on 'aucdet Nine, where   specimens of Plasma Plague are   kept. We will then transport that   deadly cargo to Science Station   Tango Sierra, where hopefully an   antidote can be manufactured.   Every hour we delay, thousands   die.",19   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Child""",1988-09-20,The Next Generation
-35,GEORDI,   How's it going?,20A  INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-36,CREWMEMBER,"   Finished, just waiting to insert   the modules.",20A  INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-37,PICARD,   Number One.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-38,RIKER,   Lieutenant La Forge says we will   be able to engage the warp drive   within the hour.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-39,PICARD,"   Mister Data, when we receive a   complete list of all the specimens   we will be carrying, I want you   and Doctor Pulaski to go through   it... by the way. Where is our   new doctor? Has she reported in?",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-40,RIKER,   Not yet.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-41,PICARD,"   Sickbay, this is the captain.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-42,SICKBAY,"   Sickbay, aye.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-43,PICARD,   Is Doctor Pulaski there?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-44,SICKBAY,"       Ah... no, Sir. The doctor is in   Ten-Forward.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-45,PICARD,"   What?!    (surprised, then     annoyed)   A few hours on board and she's   already found Ten-Forward.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-46,RIKER,   I'll go and get her.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-47,PICARD,"   No, Number One. I'll go.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-48,WORF,   Not the best way to meet your new   captain.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-49,WESLEY,"   Hello, Captain.",22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-50,PICARD,       Ensign Crusher.,22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-51,PICARD,   I'm sorry this mission will delay   your reunion with your mother.,22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-52,WESLEY,   It's all right. I can use the   time to finish some projects.,22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-53,PICARD,       We shouldn't be more than a week   or so.,22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-54,WESLEY,   It is going to be hard to leave   the Enterprise...,22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-55,PICARD,   Mixed feelings for all of us.,22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-56,PICARD,"       It's always difficult leaving any   ship, as it was for your mother   when she left to become head of   Starfleet Medical. But going   from one assignment to another   is part of the life which you are   choosing.",22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-57,WESLEY,"   Yes, but this isn't ""any"" ship.",22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-58,PICARD,   Truly.,22   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-59,PICARD,       Guinan.,23   INT. TEN-FORWARD,TE,INT.,"""The Child""",1988-09-20,The Next Generation
-60,GUINAN,   Captain.,23   INT. TEN-FORWARD,TE,INT.,"""The Child""",1988-09-20,The Next Generation
-61,PICARD,   Where's Doctor Pulaski?,23   INT. TEN-FORWARD,TE,INT.,"""The Child""",1988-09-20,The Next Generation
-62,PICARD,   Doctor Katherine Pulaski?,23   INT. TEN-FORWARD,TE,INT.,"""The Child""",1988-09-20,The Next Generation
-63,PULASKI,   Ah... you must be Captain   Picard...,23   INT. TEN-FORWARD,TE,INT.,"""The Child""",1988-09-20,The Next Generation
-64,PICARD,"   Doctor -- protocol on your last   assignment might have been lax,   but here on the Enterprise...",23   INT. TEN-FORWARD,TE,INT.,"""The Child""",1988-09-20,The Next Generation
-65,PULASKI,"    (she abruptly cuts him     off)   Sit down, Captain. You better   listen to this.",23   INT. TEN-FORWARD,TE,INT.,"""The Child""",1988-09-20,The Next Generation
-66,PICARD,"    (he touches his     communicator)   Lieutenant La Forge, status   report.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-67,GEORDI,"   The containment area is completed,   the last of the modules are being   inserted.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-68,PICARD,   Take us to warp six as soon as   possible.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-69,GEORDI,   Acknowledged.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-70,PICARD,   This is Doctor Katherine Pulaski.   We will handle the formal   introduction later.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-71,PICARD,       Counselor Deanna Troi is   pregnant.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-72,RIKER,   A baby!,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-73,RIKER,       This is a surprise.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-74,TROI,   More so for me.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-75,PULASKI,"   This pregnancy is unlike anything   I have ever encountered. Since   she came to me a few hours ago,   I have made two complete   examinations of Counselor Troi.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-76,PULASKI,"       This is from the first   examination. The fetus is about   halfway through the first   trimester -- about six weeks old.   Understand, we...     ",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-77,PULASKI ,    (indicating herself and     Troi)   ... believe conception occurred   about eleven hours ago.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-78,RIKER,   What?,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-79,PULASKI,   It gets better.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-80,PULASKI,"       The second exam, an hour later   was consistent, except for the   fact that the fetus ""appeared""   to be several weeks older.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-81,PULASKI,"       At this growth rate, Counselor   Troi will have her baby within   the next thirty-six hours. The   normal gestation for a Betazoid   is ten months.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-82,RIKER,"   I do not mean to be indelicate,   but...       ... who's the father?",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-83,TROI,"   Last night, while I slept...   something... which I can only   describe it as a presence, entered   my body.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-84,PICARD,"   A life-form of unknown origin   and intent is breeding right now   inside Counselor Troi. Our   purpose here is to determine what   is to be done about this very   ""unusual"" situation. Discussion.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-85,RIKER,"   Let me get this straight -- Deanna   was impregnated by... by what?       Doctor, what do your tests show?   Is it a humanoid? An alien?",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-86,PULASKI,   It's a male human... or in this   case half-human -- half-Betazoid.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-87,RIKER,   Exactly the same as Deanna!,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-88,PULASKI,   In every way. There is no   indication from any of my tests   of any other genetic patterns   except hers.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-89,RIKER,"   I don't think this is a random   occurrence. There is a purpose   here -- a reason. What, I don't   know.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-90,WORF,"   Captain, obviously the pregnancy   must be terminated.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-91,RIKER,   Why?,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-92,WORF,   For the safety of the ship and   crew.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-93,RIKER,"   Worf, you can't assume its intent   is belligerent.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-94,WORF,   That is my safest assumption.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-95,DATA,"   Captain, this is a life-form.   Not to allow it to develop   naturally would deny us the   opportunity to study it.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-96,WORF,"   If the fetus is aborted,   laboratory analysis is still   possible.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-97,RIKER,   Is there any health risk to   Counselor Troi if the fetus is   aborted?,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-98,PULASKI,"   Medically, no.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-99,PICARD,"   Doctor, is that your   recommendation?",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-100,TROI,"   Captain, do whatever you feel is   necessary to protect the ship and   the crew... but know this. I am   going to have this baby.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-101,PICARD,   I believe that ends the   discussion.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""The Child""",1988-09-20,The Next Generation
-102,PICARD ,"   Captain's log, supplemental. We   have finally arrived at 'aucdet   Nine. We will pick up the   specimens of Plasma Plague and   transport them to Rachelis.",30   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Child""",1988-09-20,The Next Generation
-103,PICARD ,       It is only because so many lives   are at stake that I am willing   to put this ship and crew at such   great risk.,30A  EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Child""",1988-09-20,The Next Generation
-104,PICARD,   How are you feeling?,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-105,TROI,"   I should be feeling uncomfortable   with all the changes in my   body... but, I'm not. I feel   fine -- better than fine.   Wonderful.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-106,RIKER,   Standard orbit.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-107,WESLEY,"   Standard orbit, aye.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-108,PICARD,   Open hailing frequencies.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-109,WORF,   Hailing frequencies open.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-110,PICARD,"   'Aucdet Nine, this is Captain   Jean-Luc Picard of the USS   Enterprise.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-111,HESTER,   Ah... yes... Enterprise you're   here at last. Good.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-112,PICARD,"   Excuse me, to whom am I speaking?",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-113,HESTER,   Oh... I'm Lieutenant Commander   Hester Dealt. The medical trustee   of the Federation Medical   Collection Station.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-114,PICARD,   Are the specimens ready for   transfer?,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-115,HESTER,"   Yes, but with your permission I   would like to inspect the   containment area before we   proceed. It is not that I doubt   the ability of your crew; we just   cannot afford a mistake.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-116,PICARD,"   I appreciate your caution -- in   the same vein, I need a complete,   detailed manifest of everything   which you intend to bring on board   my ship.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-117,HESTER,   I will allow access to the   computer banks.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-118,PICARD,"       Download the inventory and go   through it with Doctor Pulaski.       Number One, arrange to have Hester   Dealt transported up.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-119,TROI,"   Captain, I'm suddenly feeling a   little tired. I'll be in my   quarters if you need me.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-120,TROI,   It won't be long now. Soon   you'll arrive and so many   questions will be answered.,32   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-121,HESTER,   This is very good. Exactly what's   needed.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-122,GEORDI,   I just followed your instructions.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-123,HESTER,   Good. Exactly what I wanted.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-124,HESTER,"       Five hundred and twelve   compartments. Individually   controlled. Very good.   Independent of one another.   Perfect. Ah, they can be   monitored from here. And,   isolation is assured. Very, very   good.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-125,GEORDI,   I wanted to be sure they wouldn't   get out.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-126,HESTER,"   Good, Lieutenant. Very good   indeed.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-127,RIKER,"   How's it coming, Mister La Forge?",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-128,HESTER,   It will be just a little while   longer. I want to go over it   again in more detail.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-129,GEORDI,"   It will be another couple of   hours, Commander.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-130,HESTER,"   You do understand, it's critical   that we have zero growth.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-131,GEORDI,"       Oh, yes. I understand. So, you   go over it as many times as you   want.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-132,PICARD ,"   It's been fourteen hours since   we arrived at 'aucdet Nine.   Hester Dealt is making final   selections of the specimens we   will carry. Meanwhile, we   continue to receive desperate   pleas from the Rachelis System.",34A  EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,"""The Child""",1988-09-20,The Next Generation
-133,DATA,"   Captain, the final manifest has   been received.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-134,PICARD,   At last. Review it with Doctor   Pulaski. I want both of you to   be completely familiar with it.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-135,DATA,   Aye sir.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-136,TROI,   Data -- help me get to Sickbay.,36   INT. CORRIDOR,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-137,TROI,   It's time.,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-138,PULASKI,"   Oh, you bet it is. Let's get you   into Sickbay.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-139,DATA,   Worf -- assemble your security team   in Sickbay.,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-140,PULASKI,   Is that necessary?,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-141,DATA,   Yes -- captain's orders.,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-142,PULASKI,       Strange to need armed guards in   the delivery room.,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-143,TROI,"   Yes, and strange to think my child   is the cause.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-144,PULASKI,"   Before you referred to it as ""the   child,"" now it's become your   child.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-145,TROI,"   Yes, whatever his beginnings,   that's what he's become.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-146,PULASKI,   How frequent are your   contractions?,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-147,TROI,   Very close together.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-148,PULASKI,   In all my other deliveries -- with   a couple of exceptions -- the   father was present.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-149,TROI,   Difficult under the circumstances.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-150,PULASKI,   It's unfortunate you have to go   through this alone. It helps to   have someone with you.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-151,DATA,   Perhaps I could serve in that   capacity. I can quickly review   the procedures I will be required   to execute.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-152,PULASKI,"   Troi is going to need the comfort   of a ""human"" touch... Not the cold   hand of technology.",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-153,TROI,   Doctor. I think Commander Data   will do nicely.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-154,PULASKI,   Your choice.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-155,TROI,"   There is nothing specific you have   to do, Data, you just have to be   with me.",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-156,PULASKI,   There is nothing to be nervous   about.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-157,DATA,"   This is very interesting to me.   Although I understand in technical   terms how life is formed, there   is still a part of the process   which eludes my understanding.   I began my existence as an adult.   I have no memory -- no cognizance   of conception, birth, childhood,   so to be allowed to witness this   event is...",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-158,TROI,   It's happening.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-159,DATA,       Doctor!,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-160,PULASKI,   This is an impatient baby. He's   eager to make his appearance.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-161,PULASKI,       I'll give you something for the   pain. It won't in any way   diminish the experience.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-162,TROI,   I have felt no pain.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-163,PULASKI,   None?,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-164,TROI,   No... none at all.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,"""The Child""",1988-09-20,The Next Generation
-165,PULASKI,"   Have your security team stand over   there. I understand the need to   have you here, but keep out from   under foot.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-166,PULASKI,   Are easy births the norm for   Betazoids?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-167,TROI,   Not according to my mother.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-168,PULASKI,"    (as she hands it to     Troi)   It's a boy. A normal, healthy,   six pound, three ounce baby boy.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-169,PULASKI,    (continuing; without     any edge)   You can come the rest of the way   in now.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-170,PULASKI,"   No threat here, Lieutenant, you   and your men can relax... it's   just a baby.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-171,DATA,   It was remarkable. Thank you for   allowing me to participate.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-172,PULASKI,   Do you have a name?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-173,TROI,"   Ian Andrew, after my father.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-174,PULASKI,    (she touches her     communicator)   Captain.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-175,PICARD,   Picard here.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-176,PULASKI,   Counselor Troi is the mother of   a very healthy baby boy. Mother   and child are both doing well.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-177,PICARD,"   Counselor, my best wishes to you   and your son.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-178,TROI,"   Thank you, sir.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-179,TROI,       Have you been here all along?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-180,RIKER,"   Yes.       He's beautiful, Deanna... just   like his mother.       I don't think you are going to   be needed here, Lieutenant.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-181,PULASKI,   How do you feel?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-182,TROI,"   Fine. Absolutely wonderful and   thank you, Doctor... for   everything.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-183,PULASKI,"    (as she does a scan of     Troi and the baby, her     face registers     surprise)   Amazing.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-184,PICARD,"   Welcome to the bridge, Doctor.   How's Counselor Troi? Did she   have a good night?",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-185,PULASKI,"   I have delivered dozens of babies.   But none like this. There was   no pain, no trauma. It was   effortless for both of them.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-186,PICARD,   I'm not sure of your point.,46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-187,PULASKI,"   She had the baby yesterday. If   I were to examine her now, I would   not be able to tell that she just   had a baby, or ever had a baby.   It's as though the incident never   happened.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-188,PICARD,       How long before we are ready to   begin the transfer?,46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-189,DATA,"   Two hours, nineteen minutes.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-190,PICARD,"       You have the Conn, Number One.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-191,RIKER,"   Aye, sir.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-192,PICARD,"   Doctor, you would accompany me,   please. I think it's time I paid   my respects.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-193,TROI,   Come in.,47   INT. CORRIDOR - ENTRANCE TO TROI'S QUARTERS,CORRIDOR,INT.,"""The Child""",1988-09-20,The Next Generation
-194,PICARD,   I wanted to come by and see how   you were and have a look at   your...,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-195,PICARD,       ... baby! My goodness.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-196,PICARD,       How old is he?,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-197,PULASKI,   In actuality a day.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-198,PICARD,"   Yes, but...",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-199,PULASKI,"   ... In appearance, almost four   earth years old.",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-200,TROI,"   Ian, say hello to Captain Picard.",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-201,PICARD,   You mean he can talk?,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-202,IAN,   Hello.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-203,PICARD,"   Hello, Ian.",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-204,IAN,   Don't worry. Everything is fine.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-205,PICARD ,"   Captain's log, supplemental. We   are faced with two major problems:   Troi's child and the deadly cargo   we are about to load, which is   so desperately needed in the   Rachelis system. In the hours   since his birth, Troi's baby has   continued to age and now appears,   physically and mentally, to be   a child of eight. And still there   is no indication as to who he is,   or why he is here.",49   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Child""",1988-09-20,The Next Generation
-206,RIKER,"   Sickbay, this is the bridge. We   are ready to begin loading.",50   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-207,PULASKI,   We need a little more time. It's   taking longer than we anticipated.,50   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-208,PULASKI,"   Data,    (she says ""Data"" with     a short A)   look at this.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-209,DATA,       Data.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-210,PULASKI,   What?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-211,DATA,   My name. It is pronounced Data.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-212,PULASKI,       Oh?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-213,DATA,   You called me Data.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-214,PULASKI,   What's the difference?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-215,DATA,   One is my name and the other is   not.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-216,PULASKI,   Is this possible?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-217,PULASKI,"       In all of your neural nets,   algorithms, and heuristics, is   there some combination which makes   up a circuit for bruised feelings?",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-218,PULASKI,"       Apparently so, because I think   I just offended your tender   sensibilities.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-219,PULASKI,       Possible?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-220,PULASKI,    (continuing; indicating     the CRT)   I am unfamiliar with these   symbols.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-221,DATA,   It indicates a genetically   engineered biological life-form.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-222,PULASKI,   About twenty percent of the   specimens fall into that category.       Some eager beaver at play.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-223,DATA,"   Query... ""eager beaver?""",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-224,PULASKI,"   In this case, 'eager beaver'   refers to some overachieving   genetic engineer, who probably   for lack of something better to   do forced this strain of virus   to mutate, just to see how bad,   bad can get.    (touches her     communicator)   Captain Picard.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-225,PICARD,   Picard here.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-226,PULASKI,   Just so you fully appreciate the   risks we are about to take...,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-227,PICARD,   Enlighten me.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-228,PULASKI,"   If the most innocuous specimen   on the manifest list gets loose,   it will destroy all life on the   Enterprise in a matter of hours.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-229,PICARD,"   I understand, Doctor. Do you have   a recommendation?",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-230,PULASKI,"   Considering how desperately this   is needed, no I don't. Just want   you to know what we're carrying.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-231,PICARD,"   Thank you, Doctor. Commander   Data, if you have completed your   review, you are needed in   Transporter Room Three.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-232,DATA,"   Yes, sir.       Excuse me, Doctor.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-233,PULASKI,"   That's okay...    (with long A, then short     A)   Data, Data... whatever.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-234,TROI,   Ian!,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-235,MISS GLADSTONE,   He's a very tactile child. He   wants to touch and feel   everything.,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-236,TROI,"   Come on, sweetheart, time to go.",52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-237,MISS GLADSTONE,   Unbelievable -- I think he's   actually grown since you dropped   him off.,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-238,IAN,"   I like it here, Mommy.",52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-239,TROI,"   I thought you would. Thank Miss   Gladstone for having you, and   let's go get you something to eat.",52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-240,IAN,       Thank you.,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-241,IAN,       Bye...,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-242,TROI,       Thank you.,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,"""The Child""",1988-09-20,The Next Generation
-243,TRANSPORTER CHIEF,   The transporter is not making a   positive lock.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-244,DATA,   The built-in inhibitor is   restricting onloading of   life-forms known to be hazardous   to the occupants of this ship.   Have you attempted override?,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-245,TRANSPORTER CHIEF,   I don't have the authority.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-246,DATA,"   Computer, recognize -- Lieutenant   Commander N-F-N, N-M-I, Data.",53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-247,COMPUTER,   Authorization accepted.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-248,DATA,   Initiate override protocol.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-249,COMPUTER,   Override protocol is not   recommended in this situation.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-250,DATA,   Acknowledged. On my authority   -- begin override.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-251,COMPUTER,   Sequence complete.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-252,TRANSPORTER CHIEF,   Cargo Deck Five. We will commence   transport on your command.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,"""The Child""",1988-09-20,The Next Generation
-253,GEORDI,   Transporter Three -- we are ready   to receive.,54   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-254,GEORDI,"       Data, the first batch is in place.   Ready for the next.",56   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-255,RIKER,   Inform me when loading is complete   and the cargo secure.,56   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-256,GEORDI,"   Aye, sir.",56   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-257,PULASKI,   I wanted to stop by and see how   Ian was doing.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-258,TROI,   We're doing fine. I was just   going to give Ian his supper.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-259,IAN,"       Do you want your supper now, too?",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-260,PICARD,"   No, Ian, but thank you for the   invitation.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-261,IAN,   You're welcome.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-262,IAN,       Have you ever played with puppies?,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-263,TROI,   They had a litter today in the   nursery.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-264,PICARD,"   No, I have never played with   puppies.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-265,IAN,   You'd like it. You should go   to the nursery while the puppies   are still there.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-266,PICARD.,   Perhaps later.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-267,IAN,       Ouch...,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-268,IAN,       Ow... Mommy... ow...,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-269,PULASKI,   Let me look at that.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-270,PULASKI,       It's not serious.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-271,IAN,   My face is wet.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-272,TROI,"   Is it better now, sweetheart?",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-273,PULASKI,   He allowed himself to be burned.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-274,PICARD,"   Yes, for the experience.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-275,PULASKI,   Who is he? Why is he here? What   does he want?,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-276,PICARD,"   Ian, could you tell us why you   are here?",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-277,IAN,   Because Mommy said it was time   to eat.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-278,PICARD,"   No, I mean... why you are here   on this ship?",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-279,IAN,   I live here.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-280,TROI,"   Ian, the captain wants to know   if you are ready to tell us why   you came here.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-281,IAN,   No. Not yet.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-282,TROI,"   The answer is within him. When   his cognitive powers develop   sufficiently, he will be able to   articulate it.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-283,PICARD,   I hope he will tell us soon.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-284,RIKER,   Captain to the bridge.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-285,PICARD,"   I'm on my way, Number One.       Keep me apprised of his progress,   Counselor.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-286,IAN,    (too late for Picard     to respond)   Bye...,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-287,RIKER,   The cargo has been loaded and is   secure.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-288,PICARD,"   Take us out of orbit, Number One   -- then set a course for Rachelis   -- warp nine.",61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-289,GUINAN,   Can I get you something?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-290,WESLEY,   No. I just wanted to stand here.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-291,GUINAN,   I don't blame you -- it's   beautiful.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-292,WESLEY,   Yes.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-293,GUINAN,   How about some nice Mareuvian Tea?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-294,WESLEY,   No. Nothing thank you.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-295,GUINAN,   You're going to be leaving soon.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-296,WESLEY,   Yes.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-297,GUINAN,   What do you see when you look out   there?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-298,WESLEY,"   Over there is the Lorenze cluster,   and there Arneb and there Epsilon   Indi.",64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-299,GUINAN,"   No, I don't mean that. I mean   when you look there don't you see   your future?",64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-300,WESLEY,   It will still be there.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-301,GUINAN,   How about a cup of nectar direct   from Prometheus?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-302,WESLEY,   No -- nothing. That's the third   time you've asked me.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-303,GUINAN,   It's what I'm expected to do.   Don't you always do what's   expected?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-304,WESLEY,   I try to.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-305,GUINAN,   Even if it's not what you really   want?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-306,WESLEY,   Sometimes. Sometimes you have   to consider others more than   yourself.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-307,GUINAN,   That's true. But sometimes the   game is to know when to consider   yourself more than others and to   give yourself permission to be...   selfish.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,"""The Child""",1988-09-20,The Next Generation
-308,HESTER,       Something's wrong.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-309,GEORDI,   What is it?,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-310,HESTER,   Growth.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-311,GEORDI,   Where?,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-312,HESTER,   L-seven-three.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-313,GEORDI,"    (touches his     communicator)   Bridge, this is Cargo Deck Five.",67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-314,PICARD,"   Yes, Lieutenant La Forge.",67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-315,GEORDI,   There is a malfunction in the   containment area.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-316,PICARD,   How serious?,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-317,HESTER,   Very.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-318,PICARD ,"   Captain's log, supplemental. For   reasons as yet unknown, one of   the specimens of Plasma Plague   is growing.",68   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Child""",1988-09-20,The Next Generation
-319,GEORDI,"    (touches his     communicator)   Captain, the power to the   containment grid must have somehow   been affected when we increased   to warp velocity.",69   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-320,PICARD,   I don't see how that would be   possible.,69   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-321,GEORDI,"   I don't either, but if we could   return to impulse, we would know   for sure.",69   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-322,PICARD,   Impulse velocity.,69   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-323,PICARD,"   Report, Mister La Forge.",72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-324,GEORDI,   There's no change. It wasn't the   warp drive.,73   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-325,RIKER,   Permission to leave the bridge.,74   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-326,PICARD,   Granted.,74   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-327,RIKER,"   Commander Data, you're with me.",74   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-328,PICARD,   Doctor Pulaski.,74   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-329,PULASKI,"   Yes, Captain.",75   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-330,PICARD,   We are having some difficulties   on Cargo Deck Five -- your presence   is requested.,75   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-331,PULASKI,   I'm on my way.,75   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,"""The Child""",1988-09-20,The Next Generation
-332,WESLEY,   You never talk about yourself.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-333,GUINAN,   Sure I do... all the time.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-334,WESLEY,   People say you are very old...,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-335,GUINAN,   Oh?,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-336,WESLEY,   ... and that you knew Captain   Picard when he was on the   Stargazer.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-337,GUINAN,   No. I never met the captain until   I came onboard.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-338,WESLEY,   Everyone is very curious about   you.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-339,GUINAN,   I'll bet they are.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-340,WESLEY,   About where you come from.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-341,GUINAN,   Where do they say?,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-342,WESLEY,   I heard that you're from Nova Kron   and that...,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-343,PICARD,"   Mister Crusher, report to the   bridge.",75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-344,WESLEY,   I've got to go.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-345,WESLEY,       Thank you.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-346,GUINAN,   There's nothing like a dish of   Delovian souffle.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-347,WESLEY,"   I didn't mean the souffle, I meant   for... well... the rest. Thanks.",75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-348,GUINAN,   That's why I'm here.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,"""The Child""",1988-09-20,The Next Generation
-349,PICARD,"   Take the Conn, Mister Crusher.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-350,PICARD,       On this course -- increase velocity   to warp nine.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-351,WESLEY,"   Aye, sir. Warp nine.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-352,RIKER,   Why that module and not the   others?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-353,DATA,"   Computer, run diagnostic on module   L-seven-three.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-354,COMPUTER,   All circuits functional.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-355,GEORDI,       Temperature -- as set -- minus   ninety-seven degrees. Humidity   -- twelve percent. Lumins -- zero.   Electromagnetic containment   integrity... Everything right down   the line... exactly as it should   be.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-356,DATA,   Perhaps it is a sensor malfunction.   Computer -- query. Is growth   actually occurring?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-357,COMPUTER,   Confirmed.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-358,RIKER,   One of the specimens is growing.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-359,PULASKI,"       Destroy it, now.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-360,HESTER,   I can't.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-361,RIKER,"   Data, prepare to jettison that   module.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-362,HESTER,   We can't do that either. It will   go into a spore and remain until   it comes in contact with a planet   or another ship. The results   would be disastrous.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-363,RIKER,"   Commander, your attitude tells   me that however bad I think this   is... it's worse.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-364,HESTER,    (he indicates the     containment area)   This is not going to hold it.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-365,RIKER,   Go on.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-366,HESTER,"   The rate of growth is increasing.   Within thirty minutes it will push   out of the module. Within two   hours, it will breach the   containment area.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-367,GEORDI,   It can't break through this.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-368,HESTER,   Yes it can.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-369,RIKER,    (touches his     communicator)   Captain. We may not be able to   get control of this situation.   I recommend making arrangements   to transfer all non-essential   personnel to the saucer section.   If we lose containment we should   be prepared to separate.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-370,PICARD,   Make it so.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-371,PULASKI,   Why this one specimen and none   of the others? Something is   stimulating it. Do you have its   etiology? How it was developed?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-372,PULASKI,   It's a mutated strain developed   by Doctor Susan Nuress during an   outbreak of Plasma Plague seventy   years ago in the Oby System.    (she pauses as she     continues to read)   It was number nine in a series   of tests. This particular one   bombarded by low levels of Eichner   radiation.    (then she turns to     Hester)   Could exposure to Eichner   radiation stimulate growth?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-373,HESTER,"   Yes, it could, but...",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-374,HESTER,"       Uh, oh...",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-375,PULASKI,   Don't tell me.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-376,HESTER,   I'm detecting low levels of   Eichner radiation.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-377,RIKER,   Why didn't you catch it before?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-378,HESTER,   Because it wasn't here before..,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-379,PULASKI,"   Well, it is now. What emits that   type radiation?",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-380,DATA,   A subspace phase inverter.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-381,GEORDI,   We don't have one.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-382,DATA,   Certain cyanoacrylates.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-383,PULASKI,"   Also, not on this ship... What   else? Because it's here and we   better find it.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-384,IAN,   I can feel that some of the people   are very... worried.,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-385,TROI,"   Yes. I feel it as well, but don't   you worry.",80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-386,IAN,   It's me Mommy -- I'm the reason.,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-387,TROI,   What?,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-388,IAN,   It's me.,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-389,TROI,   You?,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-390,IAN,"   Yes. I have to leave you now,   or it will be very bad for   everyone.",80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-391,TROI,   What are you saying?,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-392,IAN,   I have to leave now.,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-393,TROI,"   Leave?    (senses what he is about     to do)   You are going to die. No. No,   you can't.",80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-394,TROI,"    (continuing; she touches     her communicator)   Sickbay, this is Counselor Troi,   I need the doctor in my   quarters... right now.    (then she lifts Ian to     her)   No... Ian... No.",80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-395,TROI,   It's Ian. Please... please hurry.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-396,TROI,"       Save him, you must save him.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-397,PULASKI,   What happened? Did he eat   anything? Did he fall?,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-398,TROI,   No.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-399,DATA,   The child is the source of the   unusual radiation.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-400,TROI,   He said he's the reason the ship   is in danger.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-401,DATA,   That analysis is correct.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-402,PULASKI,   I'm losing life signs.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-403,TROI,"   Oh, please. Please save him.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-404,PULASKI,   I'm sorry.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-405,GEORDI,       Captain. The containment field   has stabilized.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-406,PICARD,"   Thank you, Lieutenant.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-407,TROI,   Then Ian was right. He was the   cause.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-408,PICARD,   Apparently so.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-409,TROI,"   He is a life-force entity... as   we passed each other in space he   was curious and wanted to know   about us, and he thought the best   way to learn was to go through   the process. To be born, to live   as one of us and in that way to   understand us.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-410,TROI,"       Captain, he never meant any harm.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-411,RIKER,   There was a moment when you   smiled.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-412,TROI,       He said thank you.       I told him we will miss him -- and   I will.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""The Child""",1988-09-20,The Next Generation
-413,PICARD,"   Standard station approach, Mister   Crusher.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-414,WESLEY,"   Standard approach, aye.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-415,PICARD,"   Transporter Room Three, this is   the captain. We have arrived.   Let's make this transfer with all   deliberate speed, and get on about   our business.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-416,DATA,"   Yes, sir.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-417,RIKER,   I will be glad to be relieved of   this cargo.,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-418,PICARD,"   You have the bridge, Number One.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-419,RIKER,   Yes sir.,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-420,WESLEY,   Captain.,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-421,PICARD,   Yes Ensign?,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-422,WESLEY,   Could I see you when you have a   moment?,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-423,PICARD,   In my Ready Room when your duties   permit.,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-424,WESLEY,"   Thank you, sir.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-425,GEORDI,   Good luck.,87   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-426,GEORDI,"    (touches his     communicator)   Data, you can lock on to the first   group and begin transporting on   my mark.",87   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,"""The Child""",1988-09-20,The Next Generation
-427,PICARD,   Come.,88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-428,PICARD,"   Yes, Ensign.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-429,WESLEY,       Captain... I have thought about   this a lot. I want to remain on   the Enterprise.,88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-430,PICARD,   Oh. Have you discussed this with   your mother?,88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-431,WESLEY,"   No, before I do that, I wanted   your permission to stay.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-432,PICARD,"   Wes, it's a little more   complicated than that.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-433,WESLEY,"   Captain, for right now... this   is where I want to be. This is   where I feel I belong.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-434,RIKER,   Captain -- transfer complete. We   are ready to leave orbit.,88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-435,PICARD,"   Make it so, Number One.       Return to your position.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,"""The Child""",1988-09-20,The Next Generation
-436,RIKER,   All stations secure.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-437,PICARD,"   Take us out of orbit, Mister   Crusher and lay in a course for   the Morgana Quadrant.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-438,WESLEY,"   Yes, sir.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-439,PICARD,    (loud enough for     everyone to hear)   Mister Crusher has requested to   remain on the Enterprise.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-440,RIKER,   I'm not surprised. How did you   respond?,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-441,PICARD,"   I haven't as yet, Number One.   I don't think it's my decision   alone. His remaining will cause   difficulties for us all.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-442,RIKER,"   Yes, indeed. With his mother not   around, who will see to his   studies?",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-443,PICARD,   Exactly. That duty would fall   to Commander Data.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-444,RIKER,"   And, who'll tuck him in at night?",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-445,WESLEY,"   Come on, Commander.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-446,WORF,   I will accept that responsibility.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-447,TROI,"   Well, we know he'll get his sleep.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-448,PICARD,"   Then, Number One, that leaves you   the task of guiding young Mister   Crusher through his most hazardous   journey -- from youth to man. Are   you willing to serve?",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-449,RIKER,   Difficult question...,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-450,RIKER,"       ... Yes, I think I can do that.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-451,PICARD,"   All right then. Mister Crusher,   communicate with your mother at   Starfleet Medical headquarters.   Give her my regards and tell her   you have my permission to remain   on board the Enterprise.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-452,PICARD,"       But, that I will abide by her   wishes.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-453,WESLEY,"   Yes, sir... thank you sir... I   just know she'll agree.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-454,PICARD,   Now -- if you have course and speed   laid in.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-455,WESLEY,"       Yes sir, they are.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
-456,PICARD,"   Then, Mister Crusher -- engage.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Child""",1988-09-20,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,RIKER,       Open hailing frequencies.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+1,WORF,   Hailing frequencies opened.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+2,RIKER,"   Repulse, this is the Enterprise.   We are getting underway.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+3,REPULSE,"   Acknowledged, Enterprise.   Transfer complete -- good luck on   your mission.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+4,RIKER,   And to you.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+5,REPULSE,   Give my regards to your captain.   Repulse out.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+6,WESLEY,   The Shuttle Bay is secure.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+7,RIKER,   Thank you Mister Crusher. Make   all preparations to get underway.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+8,GEORDI,   We will construct this large   enclosure on Cargo Deck Five.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+9,PICARD,   Come.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+10,RIKER,   The transfer is complete. Doctor   Pulaski is being shown to her   quarters. We are ready to get   underway.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+11,PICARD,   Very good. Take a look at the   containment module our new chief   engineer has designed.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+12,RIKER,"   ""Chief engineer,"" that has a nice   ring to it.",4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+13,GEORDI,"   It does to me.       Each will have total atmospheric   control... temperature, radiation,   light, humidity, plus electrical   spectrums.",4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+14,RIKER,   And these are put into the large   containment area?,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+15,GEORDI,"   Yes, these modules will keep the   specimens alive -- the large   containment area will keep us   alive. Now, I have to go and   replicate this five hundred and   twelve times. This will mean   it will be necessary to divert   power from the warp engines to   the replicator.",4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+16,PICARD,   How long will we be on impulse   power?,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+17,GEORDI,"   For a few hours, but it can't be   helped.",4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+18,RIKER,   When we leave 'aucdet Nine - I'm   going to want all the power you   can slam into those warp engines.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+19,GEORDI,   You'll have it.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+20,PICARD,   I will relieve you at zero three   zero zero.,4    INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+21,RIKER,"   Take us out of orbit, Mister   Crusher -- set course for 'aucdet   Nine.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+22,WESLEY,"   Aye, sir. Course for 'aucdet Nine   has been input.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+23,RIKER,   Maximum impulse velocity.,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+24,WESLEY,"   Aye, sir.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+25,RIKER,   Engage.,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+26,DATA,   Engineering -- this is Science One.   I just observed what appeared to   be a random energy transference.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+27,GEORDI,   Where?,10   INT. CHIEF ENGINEER'S OFFICE,CHIEF ENGINEER'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+28,DATA,   Aft. Outboard of the port   nacelle.,10   INT. CHIEF ENGINEER'S OFFICE,CHIEF ENGINEER'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+29,GEORDI,   Hold on -- I'll check.,10   INT. CHIEF ENGINEER'S OFFICE,CHIEF ENGINEER'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+30,GEORDI,"   No -- I show nothing here, Data.",10A  INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,The Child,1988-09-20,The Next Generation,127.txt
+31,RIKER,"   Problem, Commander?",11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+32,DATA,   Possibly. An unexplained power   fluctuation.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+33,RIKER,   Let me know if it reoccurs.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+34,PICARD ,"   Captain's log, Stardate 42073.1.   There has been an outbreak of a   yet unclassified Plasma Plague   in the densely populated Rachelis   system. We are on an emergency   run to a Federation Research   station on 'aucdet Nine, where   specimens of Plasma Plague are   kept. We will then transport that   deadly cargo to Science Station   Tango Sierra, where hopefully an   antidote can be manufactured.   Every hour we delay, thousands   die.",19   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+35,GEORDI,   How's it going?,20A  INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+36,CREWMEMBER,"   Finished, just waiting to insert   the modules.",20A  INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+37,PICARD,   Number One.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+38,RIKER,   Lieutenant La Forge says we will   be able to engage the warp drive   within the hour.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+39,PICARD,"   Mister Data, when we receive a   complete list of all the specimens   we will be carrying, I want you   and Doctor Pulaski to go through   it... by the way. Where is our   new doctor? Has she reported in?",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+40,RIKER,   Not yet.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+41,PICARD,"   Sickbay, this is the captain.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+42,SICKBAY,"   Sickbay, aye.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+43,PICARD,   Is Doctor Pulaski there?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+44,SICKBAY,"       Ah... no, Sir. The doctor is in   Ten-Forward.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+45,PICARD,"   What?!    (surprised, then     annoyed)   A few hours on board and she's   already found Ten-Forward.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+46,RIKER,   I'll go and get her.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+47,PICARD,"   No, Number One. I'll go.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+48,WORF,   Not the best way to meet your new   captain.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+49,WESLEY,"   Hello, Captain.",22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+50,PICARD,       Ensign Crusher.,22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+51,PICARD,   I'm sorry this mission will delay   your reunion with your mother.,22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+52,WESLEY,   It's all right. I can use the   time to finish some projects.,22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+53,PICARD,       We shouldn't be more than a week   or so.,22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+54,WESLEY,   It is going to be hard to leave   the Enterprise...,22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+55,PICARD,   Mixed feelings for all of us.,22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+56,PICARD,"       It's always difficult leaving any   ship, as it was for your mother   when she left to become head of   Starfleet Medical. But going   from one assignment to another   is part of the life which you are   choosing.",22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+57,WESLEY,"   Yes, but this isn't ""any"" ship.",22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+58,PICARD,   Truly.,22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+59,PICARD,       Guinan.,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+60,GUINAN,   Captain.,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+61,PICARD,   Where's Doctor Pulaski?,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+62,PICARD,   Doctor Katherine Pulaski?,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+63,PULASKI,   Ah... you must be Captain   Picard...,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+64,PICARD,"   Doctor -- protocol on your last   assignment might have been lax,   but here on the Enterprise...",23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+65,PULASKI,"    (she abruptly cuts him     off)   Sit down, Captain. You better   listen to this.",23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+66,PICARD,"    (he touches his     communicator)   Lieutenant La Forge, status   report.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+67,GEORDI,"   The containment area is completed,   the last of the modules are being   inserted.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+68,PICARD,   Take us to warp six as soon as   possible.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+69,GEORDI,   Acknowledged.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+70,PICARD,   This is Doctor Katherine Pulaski.   We will handle the formal   introduction later.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+71,PICARD,       Counselor Deanna Troi is   pregnant.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+72,RIKER,   A baby!,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+73,RIKER,       This is a surprise.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+74,TROI,   More so for me.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+75,PULASKI,"   This pregnancy is unlike anything   I have ever encountered. Since   she came to me a few hours ago,   I have made two complete   examinations of Counselor Troi.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+76,PULASKI,"       This is from the first   examination. The fetus is about   halfway through the first   trimester -- about six weeks old.   Understand, we...     ",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+77,PULASKI ,    (indicating herself and     Troi)   ... believe conception occurred   about eleven hours ago.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+78,RIKER,   What?,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+79,PULASKI,   It gets better.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+80,PULASKI,"       The second exam, an hour later   was consistent, except for the   fact that the fetus ""appeared""   to be several weeks older.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+81,PULASKI,"       At this growth rate, Counselor   Troi will have her baby within   the next thirty-six hours. The   normal gestation for a Betazoid   is ten months.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+82,RIKER,"   I do not mean to be indelicate,   but...       ... who's the father?",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+83,TROI,"   Last night, while I slept...   something... which I can only   describe it as a presence, entered   my body.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+84,PICARD,"   A life-form of unknown origin   and intent is breeding right now   inside Counselor Troi. Our   purpose here is to determine what   is to be done about this very   ""unusual"" situation. Discussion.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+85,RIKER,"   Let me get this straight -- Deanna   was impregnated by... by what?       Doctor, what do your tests show?   Is it a humanoid? An alien?",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+86,PULASKI,   It's a male human... or in this   case half-human -- half-Betazoid.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+87,RIKER,   Exactly the same as Deanna!,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+88,PULASKI,   In every way. There is no   indication from any of my tests   of any other genetic patterns   except hers.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+89,RIKER,"   I don't think this is a random   occurrence. There is a purpose   here -- a reason. What, I don't   know.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+90,WORF,"   Captain, obviously the pregnancy   must be terminated.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+91,RIKER,   Why?,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+92,WORF,   For the safety of the ship and   crew.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+93,RIKER,"   Worf, you can't assume its intent   is belligerent.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+94,WORF,   That is my safest assumption.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+95,DATA,"   Captain, this is a life-form.   Not to allow it to develop   naturally would deny us the   opportunity to study it.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+96,WORF,"   If the fetus is aborted,   laboratory analysis is still   possible.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+97,RIKER,   Is there any health risk to   Counselor Troi if the fetus is   aborted?,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+98,PULASKI,"   Medically, no.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+99,PICARD,"   Doctor, is that your   recommendation?",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+100,TROI,"   Captain, do whatever you feel is   necessary to protect the ship and   the crew... but know this. I am   going to have this baby.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+101,PICARD,   I believe that ends the   discussion.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+102,PICARD ,"   Captain's log, supplemental. We   have finally arrived at 'aucdet   Nine. We will pick up the   specimens of Plasma Plague and   transport them to Rachelis.",30   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+103,PICARD ,       It is only because so many lives   are at stake that I am willing   to put this ship and crew at such   great risk.,30A  EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+104,PICARD,   How are you feeling?,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+105,TROI,"   I should be feeling uncomfortable   with all the changes in my   body... but, I'm not. I feel   fine -- better than fine.   Wonderful.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+106,RIKER,   Standard orbit.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+107,WESLEY,"   Standard orbit, aye.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+108,PICARD,   Open hailing frequencies.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+109,WORF,   Hailing frequencies open.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+110,PICARD,"   'Aucdet Nine, this is Captain   Jean-Luc Picard of the USS   Enterprise.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+111,HESTER,   Ah... yes... Enterprise you're   here at last. Good.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+112,PICARD,"   Excuse me, to whom am I speaking?",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+113,HESTER,   Oh... I'm Lieutenant Commander   Hester Dealt. The medical trustee   of the Federation Medical   Collection Station.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+114,PICARD,   Are the specimens ready for   transfer?,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+115,HESTER,"   Yes, but with your permission I   would like to inspect the   containment area before we   proceed. It is not that I doubt   the ability of your crew; we just   cannot afford a mistake.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+116,PICARD,"   I appreciate your caution -- in   the same vein, I need a complete,   detailed manifest of everything   which you intend to bring on board   my ship.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+117,HESTER,   I will allow access to the   computer banks.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+118,PICARD,"       Download the inventory and go   through it with Doctor Pulaski.       Number One, arrange to have Hester   Dealt transported up.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+119,TROI,"   Captain, I'm suddenly feeling a   little tired. I'll be in my   quarters if you need me.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+120,TROI,   It won't be long now. Soon   you'll arrive and so many   questions will be answered.,32   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+121,HESTER,   This is very good. Exactly what's   needed.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+122,GEORDI,   I just followed your instructions.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+123,HESTER,   Good. Exactly what I wanted.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+124,HESTER,"       Five hundred and twelve   compartments. Individually   controlled. Very good.   Independent of one another.   Perfect. Ah, they can be   monitored from here. And,   isolation is assured. Very, very   good.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+125,GEORDI,   I wanted to be sure they wouldn't   get out.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+126,HESTER,"   Good, Lieutenant. Very good   indeed.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+127,RIKER,"   How's it coming, Mister La Forge?",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+128,HESTER,   It will be just a little while   longer. I want to go over it   again in more detail.,34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+129,GEORDI,"   It will be another couple of   hours, Commander.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+130,HESTER,"   You do understand, it's critical   that we have zero growth.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+131,GEORDI,"       Oh, yes. I understand. So, you   go over it as many times as you   want.",34   INT. CARGO HOLD FIVE,CARGO HOLD FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+132,PICARD ,"   It's been fourteen hours since   we arrived at 'aucdet Nine.   Hester Dealt is making final   selections of the specimens we   will carry. Meanwhile, we   continue to receive desperate   pleas from the Rachelis System.",34A  EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+133,DATA,"   Captain, the final manifest has   been received.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+134,PICARD,   At last. Review it with Doctor   Pulaski. I want both of you to   be completely familiar with it.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+135,DATA,   Aye sir.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+136,TROI,   Data -- help me get to Sickbay.,36   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+137,TROI,   It's time.,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+138,PULASKI,"   Oh, you bet it is. Let's get you   into Sickbay.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+139,DATA,   Worf -- assemble your security team   in Sickbay.,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+140,PULASKI,   Is that necessary?,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+141,DATA,   Yes -- captain's orders.,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+142,PULASKI,       Strange to need armed guards in   the delivery room.,37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+143,TROI,"   Yes, and strange to think my child   is the cause.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+144,PULASKI,"   Before you referred to it as ""the   child,"" now it's become your   child.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+145,TROI,"   Yes, whatever his beginnings,   that's what he's become.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+146,PULASKI,   How frequent are your   contractions?,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+147,TROI,   Very close together.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+148,PULASKI,   In all my other deliveries -- with   a couple of exceptions -- the   father was present.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+149,TROI,   Difficult under the circumstances.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+150,PULASKI,   It's unfortunate you have to go   through this alone. It helps to   have someone with you.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+151,DATA,   Perhaps I could serve in that   capacity. I can quickly review   the procedures I will be required   to execute.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+152,PULASKI,"   Troi is going to need the comfort   of a ""human"" touch... Not the cold   hand of technology.",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+153,TROI,   Doctor. I think Commander Data   will do nicely.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+154,PULASKI,   Your choice.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+155,TROI,"   There is nothing specific you have   to do, Data, you just have to be   with me.",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+156,PULASKI,   There is nothing to be nervous   about.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+157,DATA,"   This is very interesting to me.   Although I understand in technical   terms how life is formed, there   is still a part of the process   which eludes my understanding.   I began my existence as an adult.   I have no memory -- no cognizance   of conception, birth, childhood,   so to be allowed to witness this   event is...",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+158,TROI,   It's happening.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+159,DATA,       Doctor!,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+160,PULASKI,   This is an impatient baby. He's   eager to make his appearance.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+161,PULASKI,       I'll give you something for the   pain. It won't in any way   diminish the experience.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+162,TROI,   I have felt no pain.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+163,PULASKI,   None?,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+164,TROI,   No... none at all.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
+165,PULASKI,"   Have your security team stand over   there. I understand the need to   have you here, but keep out from   under foot.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+166,PULASKI,   Are easy births the norm for   Betazoids?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+167,TROI,   Not according to my mother.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+168,PULASKI,"    (as she hands it to     Troi)   It's a boy. A normal, healthy,   six pound, three ounce baby boy.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+169,PULASKI,    (continuing; without     any edge)   You can come the rest of the way   in now.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+170,PULASKI,"   No threat here, Lieutenant, you   and your men can relax... it's   just a baby.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+171,DATA,   It was remarkable. Thank you for   allowing me to participate.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+172,PULASKI,   Do you have a name?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+173,TROI,"   Ian Andrew, after my father.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+174,PULASKI,    (she touches her     communicator)   Captain.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+175,PICARD,   Picard here.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+176,PULASKI,   Counselor Troi is the mother of   a very healthy baby boy. Mother   and child are both doing well.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+177,PICARD,"   Counselor, my best wishes to you   and your son.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+178,TROI,"   Thank you, sir.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+179,TROI,       Have you been here all along?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+180,RIKER,"   Yes.       He's beautiful, Deanna... just   like his mother.       I don't think you are going to   be needed here, Lieutenant.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+181,PULASKI,   How do you feel?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+182,TROI,"   Fine. Absolutely wonderful and   thank you, Doctor... for   everything.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+183,PULASKI,"    (as she does a scan of     Troi and the baby, her     face registers     surprise)   Amazing.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+184,PICARD,"   Welcome to the bridge, Doctor.   How's Counselor Troi? Did she   have a good night?",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+185,PULASKI,"   I have delivered dozens of babies.   But none like this. There was   no pain, no trauma. It was   effortless for both of them.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+186,PICARD,   I'm not sure of your point.,46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+187,PULASKI,"   She had the baby yesterday. If   I were to examine her now, I would   not be able to tell that she just   had a baby, or ever had a baby.   It's as though the incident never   happened.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+188,PICARD,       How long before we are ready to   begin the transfer?,46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+189,DATA,"   Two hours, nineteen minutes.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+190,PICARD,"       You have the Conn, Number One.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+191,RIKER,"   Aye, sir.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+192,PICARD,"   Doctor, you would accompany me,   please. I think it's time I paid   my respects.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+193,TROI,   Come in.,47   INT. CORRIDOR - ENTRANCE TO TROI'S QUARTERS,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+194,PICARD,   I wanted to come by and see how   you were and have a look at   your...,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+195,PICARD,       ... baby! My goodness.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+196,PICARD,       How old is he?,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+197,PULASKI,   In actuality a day.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+198,PICARD,"   Yes, but...",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+199,PULASKI,"   ... In appearance, almost four   earth years old.",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+200,TROI,"   Ian, say hello to Captain Picard.",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+201,PICARD,   You mean he can talk?,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+202,IAN,   Hello.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+203,PICARD,"   Hello, Ian.",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+204,IAN,   Don't worry. Everything is fine.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+205,PICARD ,"   Captain's log, supplemental. We   are faced with two major problems:   Troi's child and the deadly cargo   we are about to load, which is   so desperately needed in the   Rachelis system. In the hours   since his birth, Troi's baby has   continued to age and now appears,   physically and mentally, to be   a child of eight. And still there   is no indication as to who he is,   or why he is here.",49   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+206,RIKER,"   Sickbay, this is the bridge. We   are ready to begin loading.",50   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+207,PULASKI,   We need a little more time. It's   taking longer than we anticipated.,50   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+208,PULASKI,"   Data,    (she says ""Data"" with     a short A)   look at this.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+209,DATA,       Data.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+210,PULASKI,   What?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+211,DATA,   My name. It is pronounced Data.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+212,PULASKI,       Oh?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+213,DATA,   You called me Data.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+214,PULASKI,   What's the difference?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+215,DATA,   One is my name and the other is   not.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+216,PULASKI,   Is this possible?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+217,PULASKI,"       In all of your neural nets,   algorithms, and heuristics, is   there some combination which makes   up a circuit for bruised feelings?",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+218,PULASKI,"       Apparently so, because I think   I just offended your tender   sensibilities.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+219,PULASKI,       Possible?,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+220,PULASKI,    (continuing; indicating     the CRT)   I am unfamiliar with these   symbols.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+221,DATA,   It indicates a genetically   engineered biological life-form.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+222,PULASKI,   About twenty percent of the   specimens fall into that category.       Some eager beaver at play.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+223,DATA,"   Query... ""eager beaver?""",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+224,PULASKI,"   In this case, 'eager beaver'   refers to some overachieving   genetic engineer, who probably   for lack of something better to   do forced this strain of virus   to mutate, just to see how bad,   bad can get.    (touches her     communicator)   Captain Picard.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+225,PICARD,   Picard here.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+226,PULASKI,   Just so you fully appreciate the   risks we are about to take...,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+227,PICARD,   Enlighten me.,51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+228,PULASKI,"   If the most innocuous specimen   on the manifest list gets loose,   it will destroy all life on the   Enterprise in a matter of hours.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+229,PICARD,"   I understand, Doctor. Do you have   a recommendation?",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+230,PULASKI,"   Considering how desperately this   is needed, no I don't. Just want   you to know what we're carrying.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+231,PICARD,"   Thank you, Doctor. Commander   Data, if you have completed your   review, you are needed in   Transporter Room Three.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+232,DATA,"   Yes, sir.       Excuse me, Doctor.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+233,PULASKI,"   That's okay...    (with long A, then short     A)   Data, Data... whatever.",51   INT. DOCTOR PULASKI'S OFFICE (OPTICAL),DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+234,TROI,   Ian!,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+235,MISS GLADSTONE,   He's a very tactile child. He   wants to touch and feel   everything.,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+236,TROI,"   Come on, sweetheart, time to go.",52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+237,MISS GLADSTONE,   Unbelievable -- I think he's   actually grown since you dropped   him off.,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+238,IAN,"   I like it here, Mommy.",52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+239,TROI,"   I thought you would. Thank Miss   Gladstone for having you, and   let's go get you something to eat.",52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+240,IAN,       Thank you.,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+241,IAN,       Bye...,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+242,TROI,       Thank you.,52   INT. CHILDREN'S PLAY AREA (OPTICAL),CHILDREN'S PLAY AREA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+243,TRANSPORTER CHIEF,   The transporter is not making a   positive lock.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+244,DATA,   The built-in inhibitor is   restricting onloading of   life-forms known to be hazardous   to the occupants of this ship.   Have you attempted override?,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+245,TRANSPORTER CHIEF,   I don't have the authority.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+246,DATA,"   Computer, recognize -- Lieutenant   Commander N-F-N, N-M-I, Data.",53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+247,COMPUTER,   Authorization accepted.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+248,DATA,   Initiate override protocol.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+249,COMPUTER,   Override protocol is not   recommended in this situation.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+250,DATA,   Acknowledged. On my authority   -- begin override.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+251,COMPUTER,   Sequence complete.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+252,TRANSPORTER CHIEF,   Cargo Deck Five. We will commence   transport on your command.,53   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+253,GEORDI,   Transporter Three -- we are ready   to receive.,54   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+254,GEORDI,"       Data, the first batch is in place.   Ready for the next.",56   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+255,RIKER,   Inform me when loading is complete   and the cargo secure.,56   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+256,GEORDI,"   Aye, sir.",56   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+257,PULASKI,   I wanted to stop by and see how   Ian was doing.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+258,TROI,   We're doing fine. I was just   going to give Ian his supper.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+259,IAN,"       Do you want your supper now, too?",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+260,PICARD,"   No, Ian, but thank you for the   invitation.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+261,IAN,   You're welcome.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+262,IAN,       Have you ever played with puppies?,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+263,TROI,   They had a litter today in the   nursery.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+264,PICARD,"   No, I have never played with   puppies.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+265,IAN,   You'd like it. You should go   to the nursery while the puppies   are still there.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+266,PICARD.,   Perhaps later.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+267,IAN,       Ouch...,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+268,IAN,       Ow... Mommy... ow...,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+269,PULASKI,   Let me look at that.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+270,PULASKI,       It's not serious.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+271,IAN,   My face is wet.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+272,TROI,"   Is it better now, sweetheart?",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+273,PULASKI,   He allowed himself to be burned.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+274,PICARD,"   Yes, for the experience.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+275,PULASKI,   Who is he? Why is he here? What   does he want?,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+276,PICARD,"   Ian, could you tell us why you   are here?",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+277,IAN,   Because Mommy said it was time   to eat.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+278,PICARD,"   No, I mean... why you are here   on this ship?",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+279,IAN,   I live here.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+280,TROI,"   Ian, the captain wants to know   if you are ready to tell us why   you came here.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+281,IAN,   No. Not yet.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+282,TROI,"   The answer is within him. When   his cognitive powers develop   sufficiently, he will be able to   articulate it.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+283,PICARD,   I hope he will tell us soon.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+284,RIKER,   Captain to the bridge.,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+285,PICARD,"   I'm on my way, Number One.       Keep me apprised of his progress,   Counselor.",58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+286,IAN,    (too late for Picard     to respond)   Bye...,58   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+287,RIKER,   The cargo has been loaded and is   secure.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+288,PICARD,"   Take us out of orbit, Number One   -- then set a course for Rachelis   -- warp nine.",61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+289,GUINAN,   Can I get you something?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+290,WESLEY,   No. I just wanted to stand here.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+291,GUINAN,   I don't blame you -- it's   beautiful.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+292,WESLEY,   Yes.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+293,GUINAN,   How about some nice Mareuvian Tea?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+294,WESLEY,   No. Nothing thank you.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+295,GUINAN,   You're going to be leaving soon.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+296,WESLEY,   Yes.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+297,GUINAN,   What do you see when you look out   there?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+298,WESLEY,"   Over there is the Lorenze cluster,   and there Arneb and there Epsilon   Indi.",64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+299,GUINAN,"   No, I don't mean that. I mean   when you look there don't you see   your future?",64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+300,WESLEY,   It will still be there.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+301,GUINAN,   How about a cup of nectar direct   from Prometheus?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+302,WESLEY,   No -- nothing. That's the third   time you've asked me.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+303,GUINAN,   It's what I'm expected to do.   Don't you always do what's   expected?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+304,WESLEY,   I try to.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+305,GUINAN,   Even if it's not what you really   want?,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+306,WESLEY,   Sometimes. Sometimes you have   to consider others more than   yourself.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+307,GUINAN,   That's true. But sometimes the   game is to know when to consider   yourself more than others and to   give yourself permission to be...   selfish.,64   EXT. TEN-FORWARD (OPTICAL),TEN-FORWARD,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+308,HESTER,       Something's wrong.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+309,GEORDI,   What is it?,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+310,HESTER,   Growth.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+311,GEORDI,   Where?,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+312,HESTER,   L-seven-three.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+313,GEORDI,"    (touches his     communicator)   Bridge, this is Cargo Deck Five.",67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+314,PICARD,"   Yes, Lieutenant La Forge.",67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+315,GEORDI,   There is a malfunction in the   containment area.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+316,PICARD,   How serious?,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+317,HESTER,   Very.,67   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+318,PICARD ,"   Captain's log, supplemental. For   reasons as yet unknown, one of   the specimens of Plasma Plague   is growing.",68   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Child,1988-09-20,The Next Generation,127.txt
+319,GEORDI,"    (touches his     communicator)   Captain, the power to the   containment grid must have somehow   been affected when we increased   to warp velocity.",69   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+320,PICARD,   I don't see how that would be   possible.,69   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+321,GEORDI,"   I don't either, but if we could   return to impulse, we would know   for sure.",69   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+322,PICARD,   Impulse velocity.,69   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+323,PICARD,"   Report, Mister La Forge.",72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+324,GEORDI,   There's no change. It wasn't the   warp drive.,73   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+325,RIKER,   Permission to leave the bridge.,74   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+326,PICARD,   Granted.,74   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+327,RIKER,"   Commander Data, you're with me.",74   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+328,PICARD,   Doctor Pulaski.,74   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+329,PULASKI,"   Yes, Captain.",75   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+330,PICARD,   We are having some difficulties   on Cargo Deck Five -- your presence   is requested.,75   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+331,PULASKI,   I'm on my way.,75   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+332,WESLEY,   You never talk about yourself.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+333,GUINAN,   Sure I do... all the time.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+334,WESLEY,   People say you are very old...,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+335,GUINAN,   Oh?,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+336,WESLEY,   ... and that you knew Captain   Picard when he was on the   Stargazer.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+337,GUINAN,   No. I never met the captain until   I came onboard.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+338,WESLEY,   Everyone is very curious about   you.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+339,GUINAN,   I'll bet they are.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+340,WESLEY,   About where you come from.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+341,GUINAN,   Where do they say?,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+342,WESLEY,   I heard that you're from Nova Kron   and that...,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+343,PICARD,"   Mister Crusher, report to the   bridge.",75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+344,WESLEY,   I've got to go.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+345,WESLEY,       Thank you.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+346,GUINAN,   There's nothing like a dish of   Delovian souffle.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+347,WESLEY,"   I didn't mean the souffle, I meant   for... well... the rest. Thanks.",75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+348,GUINAN,   That's why I'm here.,75A  INT. TEN-FORWARD (FORMERLY SCENE 71),TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+349,PICARD,"   Take the Conn, Mister Crusher.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+350,PICARD,       On this course -- increase velocity   to warp nine.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+351,WESLEY,"   Aye, sir. Warp nine.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+352,RIKER,   Why that module and not the   others?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+353,DATA,"   Computer, run diagnostic on module   L-seven-three.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+354,COMPUTER,   All circuits functional.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+355,GEORDI,       Temperature -- as set -- minus   ninety-seven degrees. Humidity   -- twelve percent. Lumins -- zero.   Electromagnetic containment   integrity... Everything right down   the line... exactly as it should   be.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+356,DATA,   Perhaps it is a sensor malfunction.   Computer -- query. Is growth   actually occurring?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+357,COMPUTER,   Confirmed.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+358,RIKER,   One of the specimens is growing.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+359,PULASKI,"       Destroy it, now.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+360,HESTER,   I can't.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+361,RIKER,"   Data, prepare to jettison that   module.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+362,HESTER,   We can't do that either. It will   go into a spore and remain until   it comes in contact with a planet   or another ship. The results   would be disastrous.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+363,RIKER,"   Commander, your attitude tells   me that however bad I think this   is... it's worse.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+364,HESTER,    (he indicates the     containment area)   This is not going to hold it.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+365,RIKER,   Go on.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+366,HESTER,"   The rate of growth is increasing.   Within thirty minutes it will push   out of the module. Within two   hours, it will breach the   containment area.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+367,GEORDI,   It can't break through this.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+368,HESTER,   Yes it can.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+369,RIKER,    (touches his     communicator)   Captain. We may not be able to   get control of this situation.   I recommend making arrangements   to transfer all non-essential   personnel to the saucer section.   If we lose containment we should   be prepared to separate.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+370,PICARD,   Make it so.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+371,PULASKI,   Why this one specimen and none   of the others? Something is   stimulating it. Do you have its   etiology? How it was developed?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+372,PULASKI,   It's a mutated strain developed   by Doctor Susan Nuress during an   outbreak of Plasma Plague seventy   years ago in the Oby System.    (she pauses as she     continues to read)   It was number nine in a series   of tests. This particular one   bombarded by low levels of Eichner   radiation.    (then she turns to     Hester)   Could exposure to Eichner   radiation stimulate growth?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+373,HESTER,"   Yes, it could, but...",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+374,HESTER,"       Uh, oh...",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+375,PULASKI,   Don't tell me.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+376,HESTER,   I'm detecting low levels of   Eichner radiation.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+377,RIKER,   Why didn't you catch it before?,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+378,HESTER,   Because it wasn't here before..,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+379,PULASKI,"   Well, it is now. What emits that   type radiation?",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+380,DATA,   A subspace phase inverter.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+381,GEORDI,   We don't have one.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+382,DATA,   Certain cyanoacrylates.,78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+383,PULASKI,"   Also, not on this ship... What   else? Because it's here and we   better find it.",78   INT. CARGO DECK FIVE,CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+384,IAN,   I can feel that some of the people   are very... worried.,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+385,TROI,"   Yes. I feel it as well, but don't   you worry.",80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+386,IAN,   It's me Mommy -- I'm the reason.,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+387,TROI,   What?,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+388,IAN,   It's me.,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+389,TROI,   You?,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+390,IAN,"   Yes. I have to leave you now,   or it will be very bad for   everyone.",80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+391,TROI,   What are you saying?,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+392,IAN,   I have to leave now.,80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+393,TROI,"   Leave?    (senses what he is about     to do)   You are going to die. No. No,   you can't.",80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+394,TROI,"    (continuing; she touches     her communicator)   Sickbay, this is Counselor Troi,   I need the doctor in my   quarters... right now.    (then she lifts Ian to     her)   No... Ian... No.",80   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+395,TROI,   It's Ian. Please... please hurry.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+396,TROI,"       Save him, you must save him.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+397,PULASKI,   What happened? Did he eat   anything? Did he fall?,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+398,TROI,   No.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+399,DATA,   The child is the source of the   unusual radiation.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+400,TROI,   He said he's the reason the ship   is in danger.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+401,DATA,   That analysis is correct.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+402,PULASKI,   I'm losing life signs.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+403,TROI,"   Oh, please. Please save him.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+404,PULASKI,   I'm sorry.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+405,GEORDI,       Captain. The containment field   has stabilized.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+406,PICARD,"   Thank you, Lieutenant.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+407,TROI,   Then Ian was right. He was the   cause.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+408,PICARD,   Apparently so.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+409,TROI,"   He is a life-force entity... as   we passed each other in space he   was curious and wanted to know   about us, and he thought the best   way to learn was to go through   the process. To be born, to live   as one of us and in that way to   understand us.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+410,TROI,"       Captain, he never meant any harm.",81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+411,RIKER,   There was a moment when you   smiled.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+412,TROI,       He said thank you.       I told him we will miss him -- and   I will.,81   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
+413,PICARD,"   Standard station approach, Mister   Crusher.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+414,WESLEY,"   Standard approach, aye.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+415,PICARD,"   Transporter Room Three, this is   the captain. We have arrived.   Let's make this transfer with all   deliberate speed, and get on about   our business.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+416,DATA,"   Yes, sir.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+417,RIKER,   I will be glad to be relieved of   this cargo.,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+418,PICARD,"   You have the bridge, Number One.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+419,RIKER,   Yes sir.,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+420,WESLEY,   Captain.,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+421,PICARD,   Yes Ensign?,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+422,WESLEY,   Could I see you when you have a   moment?,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+423,PICARD,   In my Ready Room when your duties   permit.,86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+424,WESLEY,"   Thank you, sir.",86   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+425,GEORDI,   Good luck.,87   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+426,GEORDI,"    (touches his     communicator)   Data, you can lock on to the first   group and begin transporting on   my mark.",87   INT. CARGO DECK FIVE (OPTICAL),CARGO DECK FIVE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+427,PICARD,   Come.,88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+428,PICARD,"   Yes, Ensign.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+429,WESLEY,       Captain... I have thought about   this a lot. I want to remain on   the Enterprise.,88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+430,PICARD,   Oh. Have you discussed this with   your mother?,88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+431,WESLEY,"   No, before I do that, I wanted   your permission to stay.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+432,PICARD,"   Wes, it's a little more   complicated than that.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+433,WESLEY,"   Captain, for right now... this   is where I want to be. This is   where I feel I belong.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+434,RIKER,   Captain -- transfer complete. We   are ready to leave orbit.,88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+435,PICARD,"   Make it so, Number One.       Return to your position.",88   INT. PICARD'S READY ROOM,PICARD'S READY ROOM,INT.,The Child,1988-09-20,The Next Generation,127.txt
+436,RIKER,   All stations secure.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+437,PICARD,"   Take us out of orbit, Mister   Crusher and lay in a course for   the Morgana Quadrant.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+438,WESLEY,"   Yes, sir.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+439,PICARD,    (loud enough for     everyone to hear)   Mister Crusher has requested to   remain on the Enterprise.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+440,RIKER,   I'm not surprised. How did you   respond?,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+441,PICARD,"   I haven't as yet, Number One.   I don't think it's my decision   alone. His remaining will cause   difficulties for us all.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+442,RIKER,"   Yes, indeed. With his mother not   around, who will see to his   studies?",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+443,PICARD,   Exactly. That duty would fall   to Commander Data.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+444,RIKER,"   And, who'll tuck him in at night?",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+445,WESLEY,"   Come on, Commander.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+446,WORF,   I will accept that responsibility.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+447,TROI,"   Well, we know he'll get his sleep.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+448,PICARD,"   Then, Number One, that leaves you   the task of guiding young Mister   Crusher through his most hazardous   journey -- from youth to man. Are   you willing to serve?",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+449,RIKER,   Difficult question...,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+450,RIKER,"       ... Yes, I think I can do that.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+451,PICARD,"   All right then. Mister Crusher,   communicate with your mother at   Starfleet Medical headquarters.   Give her my regards and tell her   you have my permission to remain   on board the Enterprise.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+452,PICARD,"       But, that I will abide by her   wishes.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+453,WESLEY,"   Yes, sir... thank you sir... I   just know she'll agree.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+454,PICARD,   Now -- if you have course and speed   laid in.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+455,WESLEY,"       Yes sir, they are.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+456,PICARD,"   Then, Mister Crusher -- engage.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt

@@ -1,392 +1,392 @@
-,character,quote,scene,location,view,episode,date,series
-0,DATA ,"   Second Officer's Personal Log:   Stardate 44390.1 Record entry   for transmission to Commander   Bruce Maddox, Cybernetics   Division, Daystrom Institute.   Dear Commander Maddox,...",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Data's Day""",1990-10-10,The Next Generation
-1,DATA ,"       In reference to your most recent   letter, I agree that your study   lacks sufficient primary source   information on my programming.   Therefore in response to your   request, this correspondence will   include a complete record of my   activities during a normal day,   focusing on my perceptions of   friendship.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-2,DATA,"   Good morning, Commander. You are   fifteen minutes early.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-3,RIKER,"   Well, it's a special day. I   thought the... father of the bride   would enjoy being relieved a   little early on the wedding day.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-4,DATA,"   Thank you, sir.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-5,RIKER,   Nervous?,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-6,DATA,"   I cannot become nervous. However,   I do sense a certain...   anticipation regarding my role   in the wedding.       All systems normal, sir. Sickbay   reported that Lieutenant Juarez   went into labor at zero four   hundred hours. We remain on   station awaiting the arrival of   the starship Zhukov and guest   quarters have been prepared for   Ambassador T'Pel.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-7,RIKER,   Very well. I have the Bridge.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-8,DATA,"   Aye, sir.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-9,RIKER,       Begin day watch.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-10,DATA ,"       Initially Commander Maddox, I   found it difficult to maintain   friendships since human emotions   are often puzzling to me.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-11,DATA ,"    (continuing over above     action)   Eventually, I developed a program   enabling me to predict human   emotional responses to specific   actions.",2A   INT. CORRIDOR,CORRIDOR,INT.,"""Data's Day""",1990-10-10,The Next Generation
-12,KEIKO,   Come in.,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-13,DATA,   It is time for the wedding   rehearsal.,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-14,KEIKO,"       I know...       I've decided not to go through   with it, Data.",2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-15,DATA,   You do not wish to rehearse?,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-16,KEIKO,"   No, I'm... calling off the   wedding.",2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-17,DATA,   May I ask why?,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-18,KEIKO,   It's just the right thing to do.,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-19,DATA,   Have your feelings for Chief   O'Brien changed?,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-20,KEIKO,"       I'm supposed to be getting   married, Data. I should be   happy... but I'm not. I just feel   this weight pressing down on me.",2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-21,DATA,   Will cancelling the wedding make   you happy?,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-22,KEIKO,"   Yes.       He'll probably be just as relieved   as I am.       Data, you introduced us, you mean   a lot to both of us... I'd really   appreciate it if... you would tell   Miles for me.",2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-23,DATA,   If you wish.,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-24,DATA ,"   I have often heard my friend Chief   O'Brien say that above all else,   he wants to make Keiko happy.   Since cancelling the wedding will   make her happy, I must conclude   the Chief will be pleased at her   decision.",4    INT. CORRIDOR,CORRIDOR,INT.,"""Data's Day""",1990-10-10,The Next Generation
-25,DATA,   I have good news.,5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-26,O'BRIEN,   Oh?,5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-27,DATA,   Yes. Keiko has made a decision   designed to increase her   happiness.       She has cancelled the wedding.,5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-28,O'BRIEN,"       She what?    (beat, then getting     angry)   Cancelled the wedding? Today?   Without even a word... of all the   childish, selfish... !",5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-29,GEORDI,"   Next time, maybe I should break   the... good news.",5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-30,DATA ,"   Commander Maddox, it would appear   that my program designed to   predict emotional responses   needs... adjustment.",5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-31,DATA ,   Personal Log: Supplemental. This   is the one thousand five hundred   fiftieth day since the Enterprise   was commissioned.,6    EXT. SPACE - THE ENTERPRISE & ZHUKOV (OPTICAL),SPACE - THE ENTERPRISE & ZHUKOV,EXT.,"""Data's Day""",1990-10-10,The Next Generation
-32,DATA ,"       Besides the arrival of Ambassador   T'Pel, other events occurring   today include four birthdays,   two personnel transfers, a   celebration of the Hindu Festival   of Lights, two chess tournaments,   one secondary school play, and   four promotions.",7    INT. CORRIDOR,CORRIDOR,INT.,"""Data's Day""",1990-10-10,The Next Generation
-33,DATA ,   Overall... an ordinary day.,8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-34,TECHNICIAN,"   The Zhukov is ready for transport,   sir.",8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-35,DATA,   Energize.,8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-36,DATA,"   Welcome aboard the Enterprise,   Ambassador.",8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-37,T'PEL,   I would meet with your Captain.,8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-38,DATA ,"   Unlike my human friends, I am not   affected by feelings or emotional   considerations. In that sense,   I am closer to being Vulcan than   human, but I am not attracted to   Vulcan philosophy. Their devotion   to logic does have a certain   appeal in its simple purity...",9    INT. TURBOLIFT,TURBOLIFT,INT.,"""Data's Day""",1990-10-10,The Next Generation
-39,DATA ,"       ... but I find theirs to be a   somewhat... stark philosophy,   lacking beauty... and joy.",9A   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-40,PICARD,   Ambassador T'Pel...,10   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-41,T'PEL,       I come to serve.,10   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-42,PICARD,"   Your service honors us.       My first officer, Commander   William Riker.",10   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-43,T'PEL,"    (to Riker. Polite, yet     curt)   Leave us, please.",10   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-44,RIKER,       Charming woman.,11   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-45,DATA ,   The tone of Commander Riker's   voice makes me suspect that he   is not serious about finding   Ambassador T'Pel charming. My   experience suggests that in fact   he may mean the exact opposite   of what he says. This is a form   of expression I have not yet been   able to master.,11   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-46,VAL,    (looking at Geordi's     hair)   You don't need a haircut. You   were just in here last week.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-47,GEORDI,"       Hey, I wouldn't be back here so   soon if you'd done it right the   first time...",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-48,DATA ,       When I have difficulty   understanding human behavior I   often turn to Commander Geordi   La Forge. I consider him to be...   my best friend.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-49,VAL,"   I know you want to be beautiful...   I'm just a barber, not a miracle   worker.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-50,GEORDI,"   Just try to keep my ears on   straight today, all right?",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-51,DATA ,   Friendly insults and jibes...   another form of human speech   that I am attempting to master.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-52,GEORDI,       Hi... here for a trim?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-53,DATA,   My hair does not require   trimming... you peabrain.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-54,GEORDI,   What?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-55,DATA,   My hair...,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-56,GEORDI,   'Peabrain'?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-57,DATA,   I am experimenting with friendly   insults and jibes. It was not   meant as a serious disparagement.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-58,GEORDI,       Well... I wouldn't try it out on   the Captain.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-59,DATA,"   Geordi, I am still confused about   Chief O'Brien's reaction this   morning.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-60,GEORDI,"   He was just surprised, Data. He   didn't mean to blow up like that.   He knows Keiko probably doesn't   want to call off the marriage.       She's just getting cold feet.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-61,DATA,   Cold feet... jitters... a nervous   reaction to an impending event   of great importance.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-62,GEORDI,"   Right. Don't worry,   everything'll be fine. She'll   change her mind again.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-63,DATA,       She will?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-64,GEORDI,   Absolutely.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-65,DATA,   Then you believe the wedding will   still proceed?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-66,GEORDI,"   Trust me, they'll get married...   so you better find a gift.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,"""Data's Day""",1990-10-10,The Next Generation
-67,DATA ,"       I find Lieutenant Worf to be what   is called a kindred spirit. We   were both orphans and were both   rescued by Starfleet officers.   In many ways, we are both still   outsiders in Human society. I   do not fully understand why, but   I find it... comforting to think   that I am not alone in that   regard.",13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-68,DATA,       Are you here to find a wedding   gift?,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-69,WORF,   Yes.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-70,DATA,   I would appreciate your help in   selecting an appropriate item.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-71,WORF,       Of course. I have attended human   weddings before.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-72,DATA,   This is a traditional gift?,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-73,WORF,   My adoptive parents often give   these... things at family   weddings. A human custom.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-74,DATA,   It was my understanding that the   item selected should reflect the   personality of whoever is giving   the gift.       This does not remind me of you.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-75,DATA,   Have you ever been an actual   participant in a human wedding?,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-76,WORF,       No.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-77,DATA,   You would not consider it to be   an honor?,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-78,WORF,"   An honor, perhaps. But human   bonding rituals involve a great   deal of talking, dancing, and   crying.",13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-79,DATA,       Dancing...,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,"""Data's Day""",1990-10-10,The Next Generation
-80,BEVERLY,   Continue to monitor the   contractions. I'd say she still   has a couple hours to go.,19   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-81,BEVERLY,       You're going to be just fine.,19   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-82,DATA ,       I am rarely in need of Doctor   Beverly Crusher's professional   services as my biomechanical   maintenance program  is   self-sufficient. But I often   observe as she practices medicine   on others and have learned a   great deal about the human   condition from her.,19   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-83,DATA,"   Doctor, may I ask a favor of you?",19   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-84,BEVERLY,   Of course.,19   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-85,DATA,   Will you teach me how to dance?,19   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-86,BEVERLY,   What?,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-87,DATA,   I would like to learn how to   dance.,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-88,BEVERLY,   Why me?,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-89,DATA,"   It is in your service record.   'Awarded first prize in tap and   jazz competition, Saint Louis   Academy---",20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-90,BEVERLY,"       Okay, okay.",20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-91,DATA,       Have I said something to upset   you?,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-92,BEVERLY,   It's just... that was a long time   ago.       I'd rather not be known as... as   the dancing doctor. Again.,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-93,DATA,   Then your answer is no?,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-94,BEVERLY,       All right. But let's keep this   between us.,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-95,DATA,"   Of course, Doctor.",20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-96,PICARD,"   Commander Data, please report to   the Bridge.",20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-97,DATA,       Acknowledged.,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-98,PICARD,   Mister Data... I need a tactical   projection of possible future   Romulan deployments along the   Neutral Zone. Access all   Federation records on the subject   and then report to my Ready Room.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-99,DATA,"   That is a very general request,   Captain. Is there a more specific   area you wish me to study?",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-100,PICARD,   No.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-101,PICARD,       Set course one-three-zero mark   two-four-six. Warp seven.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-102,RIKER,"   That course will take us very   close to the Neutral Zone,   Captain.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-103,PICARD,   I'm aware of that. Proceed.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-104,RIKER,   Lay in the course.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-105,DATA ,"   It is fortunate that I am able   to perform my duties without   emotional distractions. If that   were not the case, a sudden course   correction toward the Neutral Zone   would make me very... nervous.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-106,DATA ,"   Personal Log: Supplemental.   Commander Maddox, there are still   many dynamics of social   interaction which I do not   understand.",22   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Data's Day""",1990-10-10,The Next Generation
-107,DATA ,    (continuing over above     action)   The belief among humans that a   captain must remain distant from   his crew is puzzling. Captain   Picard and I have worked together   closely for over three years...,22A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-108,PICARD,   Come.,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-109,DATA ,    (continuing over above     action)   ... and yet I cannot truthfully   refer to him as my friend. I find   that thought to be...   disappointing.,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-110,PICARD,"   Based on your analysis, what is   the current Romulan strategy   behind the deployment of their   ships in this sector?",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-111,DATA,   Their ships are deployed to   support a policy of confrontation   designed to test Federation   defenses along the Neutral Zone.,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-112,PICARD,   Do you predict any change in the   near future?,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-113,DATA,   I project a ninety percent   probability that they will   continue to pursue this policy.,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-114,PICARD,   Are there any indications of a   more conciliatory attitude on   their part?,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-115,DATA,"       No, sir.",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-116,T'PEL,"   Caution is clearly called for,   Captain. However, the mission   must proceed as planned.",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-117,PICARD,"   Starfleet Command agrees with you,   Ambassador. But I would feel   better if you would consent to   an escort or...",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-118,PICARD,"       Thank you, Mister Data.",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-119,DATA,   Feline supplement seventy-four.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-120,DATA,"   Computer, run fluidic sensor   diagnostic.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-121,COMPUTER,   Diagnostic complete. All systems   functioning within normal   parameters.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-122,DATA,   Come in.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-123,O'BRIEN,"   Am I intruding, Commander?",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-124,DATA,   No.       Would you care to sit down?,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-125,DATA ,"       When one of my friends is   distraught, I know that I should   attempt to make him more   comfortable.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-126,DATA,"   May I offer you some refreshment,   chief?",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-127,O'BRIEN,"   No, thank you, sir. First of   all... I'd like to apologize for   this morning in Ten Forward...",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-128,DATA,   There is no need to apologize.   I was not offended.       Perhaps you would like a pillow   or a more comfortable chair to   sit upon.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-129,O'BRIEN,"   Uh... no sir. Thank you, sir.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-130,DATA,   Would you care to listen to music?   Brahms? Aurelia? Mexler?,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-131,O'BRIEN,"   No, sir... really... I'm fine.   I came here to... to ask for your   help.       It's about Keiko... I'd like you   to talk to her... convince her   to go through with the wedding.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-132,DATA,   Would Counselor Troi not be a more   appropriate choice to speak with   Keiko?,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-133,O'BRIEN,   She already has... it didn't   help.       You've known her longer than I   have... I just thought she might   listen to you.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-134,O'BRIEN,       She won't even talk to me...,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-135,DATA,   I do not know what to say to her.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-136,O'BRIEN,   Just talk with her... try to make   her see reason. She's going off   half-cocked and not thinking this   through. You've worked with her   for a long time... she respects   your opinion.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-137,DATA,   Perhaps she has not fully analyzed   her decision.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-138,O'BRIEN,"       Thank you, sir. I won't forget   this.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-139,DATA ,"       Commander Maddox, I noted that   Keiko was quite calm and rational   when she informed me of her   decision this morning.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-140,DATA ,"       Therefore, I can predict that   she will respond to an objective   analysis of the situation based   on the available facts.",28A  INT. CORRIDOR,CORRIDOR,INT.,"""Data's Day""",1990-10-10,The Next Generation
-141,DATA ,    (continuing over above     action)   It is fortunate that she has not   let emotional considerations cloud   her judgement. It should make   my task much simpler.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-142,KEIKO,   Hi.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-143,DATA,   Am I disturbing you?,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-144,KEIKO,   No...,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-145,DATA,   There is a high likelihood that   your decision to cancel the   wedding was an error.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-146,KEIKO,       What?,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-147,DATA,   I believe you made an incorrect   analysis of the facts at hand.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-148,KEIKO,   What do you mean?,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-149,DATA,   You do not seem happy.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-150,KEIKO,"   Well, no...",29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-151,DATA,   Your decision was based on the   assumption that cancelling the   wedding would bring you happiness.   That has proved to be incorrect.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-152,KEIKO,   Data... it's not that simple.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-153,DATA,"   Since your action did not produce   the desired results, the most   advisable solution is to   re-examine the decision-making   process and look for errors.",29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-154,KEIKO,   I knew what I was doing. It's   my decision.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-155,DATA,"   That fact is not in dispute.   However, you may have acted with   undue haste... and in doing so,   you have unintentionally hurt   Chief O'Brien's feelings.",29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-156,KEIKO,       I did what I had to! Why are you   doing this? I thought you were   my friend.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-157,DATA,   I am your friend.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-158,KEIKO,   Then leave me alone.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-159,DATA,   If I have offended---,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-160,KEIKO,   Just... leave me alone.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-161,DATA ,   It is clear that I need guidance   to resolve this situation.   Counselor Troi's advice should   be useful.,29   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-162,DATA ,"    (continuing over above     action)   In many ways, she is the friend   that I understand the least. Her   life and her duties are predicated   on her understanding and   perception of emotions. Since   I have none, no doubt she finds   me as much of a mystery as I find   her.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-163,DATA,   Chief O'Brien talks to me... Keiko   talks to you... why do they not   talk to each other?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-164,TROI,"       That's a good question, Data.   I wish I had a good answer for   you. Perhaps when they're ready,   they will.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-165,DATA,"   Many aspects of this situation   are puzzling. I have been   studying relevant texts on the   subject of marriage, but I have   not found a suitable guide.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-166,TROI,   A suitable guide for what?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-167,DATA,"   In an effort to be helpful, I   am trying to calculate the   variables involved in a successful   marriage.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-168,TROI,   Good luck.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-169,DATA,"   There are many different   opinions. On Galvin Five, a   marriage is considered successful   only if children are produced   within a year of the wedding.   Andorian marriages require groups   of four people unless two---",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-170,TROI,   Data... would you like my advice   on how to help them?       Don't. This is something they   need to work out for themselves   now.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-171,DATA,   But I am their friend. Should   I not stand with them in a time   of difficulty?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-172,TROI,   There are many ways of helping   a friend... sometimes the best   way is to leave them alone.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-173,DATA,   Do you believe marriage to be the   right decision for them?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-174,TROI,"   I don't know. They are very much   in love, but sometimes that isn't   enough. Marriage is an agreement   to share who you are with someone   else... to spend your lives   together... to grow old together.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-175,DATA,       'To grow old together?' Is that   an integral component of   marriage?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-176,TROI,       Why do you ask?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-177,DATA,"   Although I am an android, I have   not excluded the possibility that   I too may someday marry.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-178,TROI,   There's nothing wrong with that.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-179,DATA,"   I believe I have much to offer   a potential mate, however we   cannot grow old together,   Counselor, because I will not grow   old.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-180,TROI,"       You do have a lot to offer,   Data...",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-181,T'PEL,"   Commander Data, this is Ambassador   T'Pel. Please report to my   quarters.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-182,DATA,       Acknowledged.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-183,T'PEL,   Enter.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-184,T'PEL,   You have a priority three   clearance aboard the Enterprise?,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-185,DATA,"   That is correct, Ambassador.",33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-186,T'PEL,   I require information on this   ship's defense and navigational   systems. Access code kappa alpha   four-six-zero-one-seven-zero-four.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-187,DATA,       That code is valid.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-188,T'PEL,   What is the field strength of the   ship's deflector shields at   maximum output?,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-189,DATA,   May I ask what is the purpose for   this request?,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-190,T'PEL,   I require the information.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-191,DATA,"   I have the same safeguards as the   ship's computer. Therefore, I   must report any inquiry regarding   restricted information to the   Captain along with a report   stating the nature and purpose   of the inquiry.",33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-192,DATA,   Your reaction suggests that you   do not wish the Captain to be   informed of your inquiry.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-193,T'PEL,       No. I was not interested in the   information. I was curious as   to your security safeguards.   They appear to be adequate.       Cancel request. You may leave.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,"""Data's Day""",1990-10-10,The Next Generation
-194,DATA ,"   Commander Maddox, I have often   wished for the sense that humans   call intuition or instinct.   Since Vulcans do not lie, I must   accept the Ambassador's   explanation... but I still wish   I could have a... gut feeling   to back up this conclusion.",34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Data's Day""",1990-10-10,The Next Generation
-195,COMPUTER,   Program Crusher Four in progress.,35A  INT. CORRIDOR,CORRIDOR,INT.,"""Data's Day""",1990-10-10,The Next Generation
-196,BEVERLY,   Hi.       Whatta ya think? It's a recreation   of the studio where I took my   first dance lesson.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-197,DATA,"   It appears to be quite suitable,   Doctor.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-198,BEVERLY,"   All right, then. Let's start with   something real simple.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-199,BEVERLY,"   Go ahead, try it.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-200,BEVERLY,       Good! Now try this...,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-201,BEVERLY,"   Wait a minute...       Try it again, but watch my   arms...",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-202,BEVERLY,       And... you say you're never done   this... ?!,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-203,DATA,   That is correct. Perhaps it would   be beneficial to show me the final   lesson.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-204,BEVERLY,   Okay...,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-205,BEVERLY,   That was the easiest lesson I've   ever given.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-206,DATA,   Then I have succeeded in learning   how to dance?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-207,BEVERLY,   You seem to have... picked up the   basics.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-208,DATA,"   Thank you, Doctor. I am now ready   to dance at the wedding.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-209,BEVERLY,       Wedding?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-210,DATA,   Keiko's wedding.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-211,BEVERLY,   But you never... you didn't say   it was for the wedding.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-212,DATA,   Is that important?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-213,BEVERLY,   Well... yes. They don't do a   lot of tap dancing at weddings...,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-214,DATA,   Why not?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-215,BEVERLY,"   Because... well... actually I'm   not exactly sure, Data. But we'd   better try a style of dancing   they will do at the wedding...   Computer, run ""Blue Moon"".",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-216,BEVERLY,"   Compared to what we were just   doing, it's very simple. Just   follow me. One, two, three,   four---",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-217,BEVERLY,"   No, no... you're trying to---Ow!   Move more slowly... that's it...   no, now you're--Ow! Stop music.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-218,DATA,   I am sorry.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-219,BEVERLY,   I don't get it... you picked up   tap dancing so quickly...,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-220,DATA,   I cannot reproduce your   performance if I cannot see your   feet.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-221,BEVERLY,       You need something to copy. You   can't just... dance?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-222,DATA,"   No, Doctor.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-223,BEVERLY,"   All right... this time, watch my   feet. Computer, start music.       Don't try to imitate me. You   have to lead.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-224,DATA,   Lead where?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-225,BEVERLY,   Indicate to your partner where   you're going to step.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-226,DATA,   How is this accomplished... ?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-227,BEVERLY,"   Watch me, I'll lead...       Notice I don't repeat the same   pattern over and over... I   improvise... Good... Now you   lead...    (they switch positions     again)   Look up... into my eyes...   Good... You're holding me too   tight, Data...",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-228,DATA,   This is a very complex set of   variables to coordinate.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-229,BEVERLY,"   You're doing fine... now smile,   like you're enjoying yourself...",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-230,NURSE,   Doctor Crusher please report to   Sickbay.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-231,BEVERLY,"    (wincing, hits     communicator)   Is it Lieutenant Juarez?",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-232,NURSE,"   Yes, Doctor. Her contractions   are now one minute apart.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-233,BEVERLY,   I'm on my way.       Why don't you try it with an...   artificial partner for a little   while? Don't be afraid to   experiment.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-234,DATA,"   I will. Thank you, Doctor.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-235,DATA,"   Computer, create dance partner,   female.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-236,DATA,   Begin music.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,"""Data's Day""",1990-10-10,The Next Generation
-237,RIKER,"   ... he still won't talk... so they   put the Count's head on the   chopping block... 'one more   chance' says the Queen. 'No' says   the Count. The headsman swings   his axe and just as the blade   falls, the Count says 'Wait, wait,   I'll talk!' but it was too late.   And the moral to the story is   don't hatchet your counts before   they chicken.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-238,DATA ,       Commander Riker's easy-going   manner and sense of humor is   fascinating. It is one reason   why he is so popular among the   crew. I believe it may also be   partly responsible for his success   in matters of love. There may   be a possible correlation between   humor and sex... the need for more   research is indicated.,40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-239,DATA,"   Commander, we have reached the   designated coordinates.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-240,RIKER,   All stop.       Captain Picard to the Bridge.,40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-241,PICARD,   Hold position. Long range scan.,40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-242,DATA,"   I have detected a ship in the   Neutral Zone, Captain.   Configuration... Romulan Warbird.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-243,PICARD,   Yellow Alert.,40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-244,PICARD,"   Mister Worf, hail the Warbird.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-245,WORF,"       Aye, sir.       They are responding... text only   Captain.       We are to proceed to the agreed   coordinates.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-246,PICARD,"   Set course zero three seven mark   zero zero five, warp four. Take   us into the Neutral Zone, Ensign.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-247,WORF,"       Captain, the Warbird is holding   position. In three minutes we   will be within phaser range.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-248,PICARD,   Red Alert.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-249,PICARD,"   My crew knows their duty,   Ambassador. They will take no   provocative action... without my   order.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-250,T'PEL,   Hold position at these   coordinates.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-251,RIKER,    (glances at his     terminal)   Slow to half impulse.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-252,T'PEL,       Open a channel.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-253,WORF,       Open.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-254,T'PEL,   This is Ambassador T'Pel. I have   arrived.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-255,MENDAK,   I am Admiral Mendak.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-256,T'PEL,   There is no established protocol   for a meeting of this nature.   The logical course is for me to   transport aboard your ship and   begin the negotiations.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-257,MENDAK,"       Yes...       Captain, I note your defensive   systems have been activated.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-258,PICARD,"   As are yours, Admiral.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-259,MENDAK,       It was not meant as an   accusation...     ,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-260,MENDAK ,"       Indeed, I salute your show of   strength. Ambassador, we are   honored by your presence. You   may transport aboard at your   convenience.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-261,T'PEL,   The honor is mine.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-262,T'PEL,   Instruct your Transporter Room   to stand-by. I will beam to their   ship without further delay.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-263,PICARD,"       Ambassador, I must once again urge   you to reconsider. The Enterprise   can accommodate a Romulan   delegation without sacrificing   security or---",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-264,T'PEL,"       Captain Picard, I find your   arguments illogical. Please carry   out my instructions.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-265,PICARD,       Bridge to Transporter Room Three.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-266,O'BRIEN,   O'Brien here.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-267,PICARD,   Prepare to beam Ambassador T'Pel   to the Romulan ship.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-268,O'BRIEN,"   Aye, sir.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-269,PICARD,       Maintain a lock on her signal   once she's aboard their vessel.   At the first sign of trouble I   want to be able to bring her   back.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-270,WORF,   Understood.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-271,WORF,   Transporter activated...,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-272,WORF,   Captain---!,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-273,O'BRIEN,   Transporter emergency! I'm   losing her signal!,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-274,WORF,   Boosting power to autosequencers.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-275,DATA,   Engaging computer override.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-276,RIKER,       O'Brien what's happening down   there?,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-277,O'BRIEN,   I'm losing the pattern... trying   to re-establish...,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-278,O'BRIEN,"       I'm sorry, sir... I wasn't able   to retrieve the signal... the   Ambassador's dead.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-279,O'BRIEN,"   The signal lock wasn't broken,   sir. I had just entered the   transfer sequence when the   Ambassador's pattern began to   break up. I tried to go to   emergency manual control, but the   pattern deteriorated too rapidly   and...    ",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-280,DATA ,"       Personal Log: Supplemental. The   risks aboard a starship are   accepted by all who serve, but   I have never failed to observe   a deep emotional response to the   loss of a comrade. It is at times   like this that I greatly miss the   ability to share human feelings.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-281,DATA,"       Captain, there is no prior record   of this type of accident occurring   on a starship. Back-up systems   and safeguards are designed to   prevent just such an occurrence.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-282,GEORDI,"   I can't find any system flaws in   the unit, sir. All the   Engineering status reports were   normal. None of the backups were   activated and the autosequencers   all functioned normally.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-283,PICARD,   Any prior malfunctions with this   Transporter unit?,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-284,O'BRIEN,"   No, sir. In fact, we replaced   the transition coils only a week   ago.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-285,RIKER,   Could there have been some kind   of interference from the Romulans?,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-286,O'BRIEN,   Nothing that I could see... their   shields were down... there was   no power interruption... no   subspace bias.,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-287,PICARD,       I want that unit pulled and its   systems checked again. I also   want a level one diagnostic   performed on all Transporters.,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-288,GEORDI,"   Aye, Captain.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-289,BEVERLY,"   Her molecular structure   dissipated instantly once the   pattern was lost. There were a   few organic compounds left on the   pad, but there's not enough   material for an autopsy.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-290,PICARD,   To die in a Transporter   accident... Hardly a fitting end   for one of the Federation's most   honored diplomats.,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-291,WORF,   Bridge to Captain. Admiral Mendak   wishes to speak with you.,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-292,MENDAK,"   We're still waiting, Captain.   Is there a problem?",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-293,PICARD,   There's been... an accident.   Ambassador T'Pel... was killed   in a Transporter malfunction.,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-294,MENDAK,   What kind of malfunction?,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-295,PICARD,   We're investigating that right   now. I'm sure that---,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-296,MENDAK,   I should have known the Federation   wasn't serious about this   conference.,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-297,PICARD,"   Admiral, I can assure you that   the Federation places the highest   priority on this mission and its   goal.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-298,MENDAK,"   Well played, Captain... well   played. Starfleet opposes   normalization of relations with   the Romulan Empire and so you are   ordered to create... an accident.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-299,PICARD,   You're mistaken. I am ready and   willing to discuss the   establishment of full diplomatic   relations under the same terms   as Ambassador T'Pel.,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-300,MENDAK,"       A generous offer, since you know   that we were only willing to   negotiate with T'Pel.       I salute you again, Captain. It   was a maneuver worthy of a   Romulan. I suggest we both leave   the Neutral Zone before there   is... another accident.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-301,PICARD,"   Set course for Federation   territory, warp two.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-302,PICARD,"       Engage.       Mister Data, take charge of the   investigation. Study computer   logs, sensor information...   everything. I refuse to believe   this was a simple malfunction.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-303,DATA,"   Yes, sir.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,"""Data's Day""",1990-10-10,The Next Generation
-304,DATA ,   Captain Picard was the person who   first interested me in the works   of Sir Arthur Conan-Doyle.,50   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Data's Day""",1990-10-10,The Next Generation
-305,DATA ,       I have subsequently become a great   admirer of the fictional detective   Sherlock Holmes and his ability   to solve mysteries by careful   examination of the available   evidence.,51   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Data's Day""",1990-10-10,The Next Generation
-306,DATA ,       I have found Holmes' methodology   of deductive reasoning to be quite   useful in performing my duties.   One of his adages is that once   you have eliminated the   impossible...,52   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-307,DATA ,"       ... whatever remains, however   improbable, must be the truth.",53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-308,BEVERLY,"   I'm afraid I can't give you   another lesson right now, Data.",53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-309,DATA,   That is not my purpose. I wish   to examine the remains of   Ambassador T'Pel found on the   Transporter pad.,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-310,BEVERLY,   I'm working on my report right now.,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-311,DATA,   Have you compared the genetic   code with the Ambassador's last   recorded Transporter ID trace?,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-312,BEVERLY,   No... that's not part of the   standard procedure. Why?,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-313,DATA,       I could be pursuing an untamed   ornithoid without cause.,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-314,BEVERLY,   A wild goose chase?,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-315,BEVERLY,"   Okay... let's see what happens...   Computer, access Transporter ID   trace of Ambassador T'Pel.",53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-316,BEVERLY,   All right... there's the genetic   record of the Ambassador when she   beamed aboard the Enterprise.,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-317,BEVERLY,"   Now, the breakdown of the   organic material found on the   Transporter pad should be   identical.    (beat as she reads     screen)   Mitochondrial structure fits all   general parameters... no change   in the nucleotide bases...",53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-318,BEVERLY,       There's a slight discrepancy in   the base pair sequence.,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-319,BEVERLY,"       Chemically, these are identical...   however, the organic sample from   the Transporter is showing   numerous single-bit errors... like   replicated material.",53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-320,DATA,   Can you postulate an explanation   for the discrepancy?,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-321,BEVERLY,   I'd say the DNA was either mutated   by the Transporter during the   rematerialization process...,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-322,DATA,       A supposition not supported by   the Transporter records.,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-323,BEVERLY,   Or these aren't the remains of   the Ambassador.,53   INT. SICKBAY,SICKBAY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-324,DATA,"       The only abnormality found during   my investigation was a temporary   increase in the matter to energy   signal ratio. This fluctuation   was well within operating   parameters and would normally not   invite further consideration.   However, due to the circumstances,   I decided to investigate the   possibility that a second   Transporter signal had caused the   fluctuation. Although this was   highly improbable, it was the only   remaining theory.",54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-325,RIKER,   A second transporter signal?   From where?,54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-326,DATA,   From the Devoras.,54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-327,GEORDI,   Romulan transporters operate on   similar subspace frequencies to   our own. With minor adjustments   they could be made to simulate   our own transporter carrier wave.,54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-328,PICARD,   So they beamed the Ambassador off   our own pad.,54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-329,DATA,   While simultaneously a small   amount of genetically similar   material was left in the   Ambassador's place.,54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-330,RIKER,   To make us believe she died as   a result of the 'malfunction.',54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-331,DATA,"   Yes, sir.",54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-332,PICARD,"       Mister Worf, where is the Devoras?",54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-333,WORF,   The ship is still in the Neutral   Zone...       ... on course zero seven nine mark   one two five... speed warp two.,54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-334,RIKER,   Heading for home.,54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-335,DATA ,"       The safest and most logical   decision in this situation is to   contact Starfleet and await   further instructions. However,   based on past experience, I   project only a seventeen percent   chance Captain Picard will choose   that alternative.",54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-336,PICARD,   Red Alert. All hands stand to   battlestations.,54   INT. READY ROOM,READY ROOM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-337,PICARD,   Lay in an intercept course to the   Romulan ship.,55   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-338,RIKER,"   Shields up, load all torpedo bays,   stand-by phasers.",55   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-339,DATA,"   Course laid in, Captain.",55   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-340,PICARD,   Warp factor eight. Engage.,55   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-341,PICARD,   Open a channel to the Devoras.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-342,WORF,"   Aye, sir.       No response.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-343,DATA,   The Devoras is dropping out of   warp... their weapon systems are   powering up.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-344,PICARD,   Go to impulse power.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-345,DATA,"   Aye, sir.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-346,WORF,"   Message coming in, sir.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-347,PICARD,   On screen.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-348,MENDAK,"   Captain Picard, you agreed to   leave the Neutral Zone without---",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-349,PICARD,"       Admiral Mendak, you are holding   our Ambassador captive.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-350,MENDAK,   I can assure you... there is no   one being held captive aboard this   ship.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-351,PICARD,   We know about the Transporter   'malfunction' and that you are   holding Ambassador T'Pel.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-352,WORF,"   Captain, Romulan Warbird   decloaking to starboard!",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-353,MENDAK,   I suggest you leave... now.,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-354,PICARD,   It is my responsibility to protect   the lives of Federation citizens.   I will not permit this abduction   to succeed..,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-355,MENDAK,"   Captain, you're not going to start   an incident which might---",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-356,PICARD,       I am prepared to take whatever   action is necessary to obtain the   Ambassador's return.,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-357,DATA ,"       In poker, there is a moment when   a player must decide if an   opponent is being deceptive or   actually holds a winning hand.   This decision is based not only   on the odds, but also on an   appraisal of the man. Is he   bluffing or does he have the   cards?",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-358,MENDAK,   Fortunately... I'm not ready to   start a war today...,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-359,RIKER,   T'Pel?,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-360,T'PEL,"   Sub-Commander Selok, actually.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-361,PICARD,   A spy.,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-362,MENDAK,"   A patriot, Captain... she has   performed her service to the   Empire with distinction.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-363,T'PEL/SELOK,"       Thank you for your... help,   Captain.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-364,MENDAK,   You can see now that we are not   holding one of your citizens...   and we thank you for returning   our sister to us.       But my patience has limits... the   game is over. I expect you to   leave peacefully. Now.,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-365,WORF,"   Sir, long-range scanners show   three more Romulan ships moving   into this sector.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-366,RIKER,"       Some days you get the bear, some   days the bear gets you.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-367,PICARD,"   Reverse course... take us back   to Federation territory, warp six.   Engage.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-368,DATA ,   Captain Picard once drew an   analogy between life and a chess   game... he said that the loss of   a single piece does not concede   the game itself.,62   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-369,DATA ,   The Captain has also said that   out of the ashes of defeat rise   the victorious dreams of men.   I find that to be a worthy   philosophy and I have incorporated   it into my programming.,62   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-370,DATA,"   Keiko, I need your help.       I have offended you and need to   find a way to rectify my mistake.   I am not sure what to do.",63   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-371,KEIKO,   You didn't offend me.,63   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-372,DATA,   I should not have interfered.   It would be best if I apologized.,63   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-373,KEIKO,   It would be best if you got   dressed.       For the wedding?,63   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-374,DATA,   But...,63   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-375,KEIKO,"   Oh, come here... I have a   beautiful carnation for the   father of the bride... don't be   nervous now...",63   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-376,DATA,"    (to Keiko, as she     leaves)   I am not nervous.       I am just... confused.",63   INT. ARBORETUM,ARBORETUM,INT.,"""Data's Day""",1990-10-10,The Next Generation
-377,PICARD,"   Since the time of the first wooden   sailing ships, all captains have   enjoyed the happy privilege of   joining two people in the bonds   of matrimony. And so now it is   my honor to unite you Keiko   Ishikawa, and you Miles Edward   O'Brien together in marriage here   in the sight of your friends and   family.",65   INT. TEN FORWARD - ON DATA,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-378,DATA ,"       There are still many human   emotions I do not fully   comprehend... anger, hatred,   revenge...",65   INT. TEN FORWARD - ON DATA,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-379,DATA ,       But I am not mystified by the   desire to be loved...,65   INT. TEN FORWARD - ON DATA,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-380,DATA ,       ... the need for friendship...   these are things I do understand.,65   INT. TEN FORWARD - ON DATA,TEN FORWARD,INT.,"""Data's Day""",1990-10-10,The Next Generation
-381,DATA,       I was looking for Doctor Crusher.   I wished to thank her for my...,72   INT. NURSERY,NURSERY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-382,PICARD,       She just left.,72   INT. NURSERY,NURSERY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-383,DATA,   The Juarez child?,72   INT. NURSERY,NURSERY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-384,PICARD,       A boy.       At the same time we were facing   destruction... this small miracle   was taking place.,72   INT. NURSERY,NURSERY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-385,PICARD,       Welcome aboard.,72   INT. NURSERY,NURSERY,INT.,"""Data's Day""",1990-10-10,The Next Generation
-386,WORF,"       All systems normal, sir. We are   on course for Adelphous Four.   Engineering is realigning the main   deflector dish, Sickbay reports   Lieutenant Umbato broke two ribs   during a Holodeck exercise, and   sensors continue to gather long   range information on the Murasaki   Quasar.",74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-387,DATA,   Very well. I have the Bridge.,74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-388,WORF,"   Aye, sir.",74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-389,DATA,       Begin night watch.,74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
-390,DATA ,"   If being human is not simply a   matter of being born flesh and   blood... if it is instead a way   of thinking, acting... and   feeling... then I am hopeful that   one day I will discover my own   humanity. Until then Commander   Maddox, I will continue...   learning, changing, growing...   and trying to become more than   what I am.",74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Data's Day""",1990-10-10,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,DATA ,"   Second Officer's Personal Log:   Stardate 44390.1 Record entry   for transmission to Commander   Bruce Maddox, Cybernetics   Division, Daystrom Institute.   Dear Commander Maddox,...",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Data's Day,1990-10-10,The Next Generation,185.txt
+1,DATA ,"       In reference to your most recent   letter, I agree that your study   lacks sufficient primary source   information on my programming.   Therefore in response to your   request, this correspondence will   include a complete record of my   activities during a normal day,   focusing on my perceptions of   friendship.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+2,DATA,"   Good morning, Commander. You are   fifteen minutes early.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+3,RIKER,"   Well, it's a special day. I   thought the... father of the bride   would enjoy being relieved a   little early on the wedding day.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+4,DATA,"   Thank you, sir.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+5,RIKER,   Nervous?,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+6,DATA,"   I cannot become nervous. However,   I do sense a certain...   anticipation regarding my role   in the wedding.       All systems normal, sir. Sickbay   reported that Lieutenant Juarez   went into labor at zero four   hundred hours. We remain on   station awaiting the arrival of   the starship Zhukov and guest   quarters have been prepared for   Ambassador T'Pel.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+7,RIKER,   Very well. I have the Bridge.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+8,DATA,"   Aye, sir.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+9,RIKER,       Begin day watch.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+10,DATA ,"       Initially Commander Maddox, I   found it difficult to maintain   friendships since human emotions   are often puzzling to me.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+11,DATA ,"    (continuing over above     action)   Eventually, I developed a program   enabling me to predict human   emotional responses to specific   actions.",2A   INT. CORRIDOR,CORRIDOR,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+12,KEIKO,   Come in.,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+13,DATA,   It is time for the wedding   rehearsal.,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+14,KEIKO,"       I know...       I've decided not to go through   with it, Data.",2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+15,DATA,   You do not wish to rehearse?,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+16,KEIKO,"   No, I'm... calling off the   wedding.",2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+17,DATA,   May I ask why?,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+18,KEIKO,   It's just the right thing to do.,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+19,DATA,   Have your feelings for Chief   O'Brien changed?,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+20,KEIKO,"       I'm supposed to be getting   married, Data. I should be   happy... but I'm not. I just feel   this weight pressing down on me.",2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+21,DATA,   Will cancelling the wedding make   you happy?,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+22,KEIKO,"   Yes.       He'll probably be just as relieved   as I am.       Data, you introduced us, you mean   a lot to both of us... I'd really   appreciate it if... you would tell   Miles for me.",2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+23,DATA,   If you wish.,2B   INT. KEIKO'S QUARTERS - CONTINUOUS,KEIKO'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+24,DATA ,"   I have often heard my friend Chief   O'Brien say that above all else,   he wants to make Keiko happy.   Since cancelling the wedding will   make her happy, I must conclude   the Chief will be pleased at her   decision.",4    INT. CORRIDOR,CORRIDOR,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+25,DATA,   I have good news.,5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+26,O'BRIEN,   Oh?,5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+27,DATA,   Yes. Keiko has made a decision   designed to increase her   happiness.       She has cancelled the wedding.,5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+28,O'BRIEN,"       She what?    (beat, then getting     angry)   Cancelled the wedding? Today?   Without even a word... of all the   childish, selfish... !",5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+29,GEORDI,"   Next time, maybe I should break   the... good news.",5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+30,DATA ,"   Commander Maddox, it would appear   that my program designed to   predict emotional responses   needs... adjustment.",5    INT. TEN FORWARD - CONTINUOUS,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+31,DATA ,   Personal Log: Supplemental. This   is the one thousand five hundred   fiftieth day since the Enterprise   was commissioned.,6    EXT. SPACE - THE ENTERPRISE & ZHUKOV (OPTICAL),SPACE - THE ENTERPRISE & ZHUKOV,EXT.,Data's Day,1990-10-10,The Next Generation,185.txt
+32,DATA ,"       Besides the arrival of Ambassador   T'Pel, other events occurring   today include four birthdays,   two personnel transfers, a   celebration of the Hindu Festival   of Lights, two chess tournaments,   one secondary school play, and   four promotions.",7    INT. CORRIDOR,CORRIDOR,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+33,DATA ,   Overall... an ordinary day.,8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+34,TECHNICIAN,"   The Zhukov is ready for transport,   sir.",8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+35,DATA,   Energize.,8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+36,DATA,"   Welcome aboard the Enterprise,   Ambassador.",8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+37,T'PEL,   I would meet with your Captain.,8    INT. TRANSPORTER ROOM - CONTINUOUS (OPTICAL),TRANSPORTER ROOM - CONTINUOUS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+38,DATA ,"   Unlike my human friends, I am not   affected by feelings or emotional   considerations. In that sense,   I am closer to being Vulcan than   human, but I am not attracted to   Vulcan philosophy. Their devotion   to logic does have a certain   appeal in its simple purity...",9    INT. TURBOLIFT,TURBOLIFT,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+39,DATA ,"       ... but I find theirs to be a   somewhat... stark philosophy,   lacking beauty... and joy.",9A   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+40,PICARD,   Ambassador T'Pel...,10   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+41,T'PEL,       I come to serve.,10   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+42,PICARD,"   Your service honors us.       My first officer, Commander   William Riker.",10   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+43,T'PEL,"    (to Riker. Polite, yet     curt)   Leave us, please.",10   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+44,RIKER,       Charming woman.,11   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+45,DATA ,   The tone of Commander Riker's   voice makes me suspect that he   is not serious about finding   Ambassador T'Pel charming. My   experience suggests that in fact   he may mean the exact opposite   of what he says. This is a form   of expression I have not yet been   able to master.,11   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+46,VAL,    (looking at Geordi's     hair)   You don't need a haircut. You   were just in here last week.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+47,GEORDI,"       Hey, I wouldn't be back here so   soon if you'd done it right the   first time...",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+48,DATA ,       When I have difficulty   understanding human behavior I   often turn to Commander Geordi   La Forge. I consider him to be...   my best friend.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+49,VAL,"   I know you want to be beautiful...   I'm just a barber, not a miracle   worker.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+50,GEORDI,"   Just try to keep my ears on   straight today, all right?",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+51,DATA ,   Friendly insults and jibes...   another form of human speech   that I am attempting to master.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+52,GEORDI,       Hi... here for a trim?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+53,DATA,   My hair does not require   trimming... you peabrain.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+54,GEORDI,   What?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+55,DATA,   My hair...,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+56,GEORDI,   'Peabrain'?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+57,DATA,   I am experimenting with friendly   insults and jibes. It was not   meant as a serious disparagement.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+58,GEORDI,       Well... I wouldn't try it out on   the Captain.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+59,DATA,"   Geordi, I am still confused about   Chief O'Brien's reaction this   morning.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+60,GEORDI,"   He was just surprised, Data. He   didn't mean to blow up like that.   He knows Keiko probably doesn't   want to call off the marriage.       She's just getting cold feet.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+61,DATA,   Cold feet... jitters... a nervous   reaction to an impending event   of great importance.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+62,GEORDI,"   Right. Don't worry,   everything'll be fine. She'll   change her mind again.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+63,DATA,       She will?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+64,GEORDI,   Absolutely.,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+65,DATA,   Then you believe the wedding will   still proceed?,12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+66,GEORDI,"   Trust me, they'll get married...   so you better find a gift.",12   INT. BARBERSHOP (OPTICAL),BARBERSHOP,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+67,DATA ,"       I find Lieutenant Worf to be what   is called a kindred spirit. We   were both orphans and were both   rescued by Starfleet officers.   In many ways, we are both still   outsiders in Human society. I   do not fully understand why, but   I find it... comforting to think   that I am not alone in that   regard.",13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+68,DATA,       Are you here to find a wedding   gift?,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+69,WORF,   Yes.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+70,DATA,   I would appreciate your help in   selecting an appropriate item.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+71,WORF,       Of course. I have attended human   weddings before.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+72,DATA,   This is a traditional gift?,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+73,WORF,   My adoptive parents often give   these... things at family   weddings. A human custom.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+74,DATA,   It was my understanding that the   item selected should reflect the   personality of whoever is giving   the gift.       This does not remind me of you.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+75,DATA,   Have you ever been an actual   participant in a human wedding?,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+76,WORF,       No.,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+77,DATA,   You would not consider it to be   an honor?,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+78,WORF,"   An honor, perhaps. But human   bonding rituals involve a great   deal of talking, dancing, and   crying.",13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+79,DATA,       Dancing...,13   INT. REPLICATING CENTER (OPTICAL),REPLICATING CENTER,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+80,BEVERLY,   Continue to monitor the   contractions. I'd say she still   has a couple hours to go.,19   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+81,BEVERLY,       You're going to be just fine.,19   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+82,DATA ,       I am rarely in need of Doctor   Beverly Crusher's professional   services as my biomechanical   maintenance program  is   self-sufficient. But I often   observe as she practices medicine   on others and have learned a   great deal about the human   condition from her.,19   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+83,DATA,"   Doctor, may I ask a favor of you?",19   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+84,BEVERLY,   Of course.,19   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+85,DATA,   Will you teach me how to dance?,19   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+86,BEVERLY,   What?,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+87,DATA,   I would like to learn how to   dance.,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+88,BEVERLY,   Why me?,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+89,DATA,"   It is in your service record.   'Awarded first prize in tap and   jazz competition, Saint Louis   Academy---",20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+90,BEVERLY,"       Okay, okay.",20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+91,DATA,       Have I said something to upset   you?,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+92,BEVERLY,   It's just... that was a long time   ago.       I'd rather not be known as... as   the dancing doctor. Again.,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+93,DATA,   Then your answer is no?,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+94,BEVERLY,       All right. But let's keep this   between us.,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+95,DATA,"   Of course, Doctor.",20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+96,PICARD,"   Commander Data, please report to   the Bridge.",20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+97,DATA,       Acknowledged.,20   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+98,PICARD,   Mister Data... I need a tactical   projection of possible future   Romulan deployments along the   Neutral Zone. Access all   Federation records on the subject   and then report to my Ready Room.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+99,DATA,"   That is a very general request,   Captain. Is there a more specific   area you wish me to study?",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+100,PICARD,   No.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+101,PICARD,       Set course one-three-zero mark   two-four-six. Warp seven.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+102,RIKER,"   That course will take us very   close to the Neutral Zone,   Captain.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+103,PICARD,   I'm aware of that. Proceed.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+104,RIKER,   Lay in the course.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+105,DATA ,"   It is fortunate that I am able   to perform my duties without   emotional distractions. If that   were not the case, a sudden course   correction toward the Neutral Zone   would make me very... nervous.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+106,DATA ,"   Personal Log: Supplemental.   Commander Maddox, there are still   many dynamics of social   interaction which I do not   understand.",22   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Data's Day,1990-10-10,The Next Generation,185.txt
+107,DATA ,    (continuing over above     action)   The belief among humans that a   captain must remain distant from   his crew is puzzling. Captain   Picard and I have worked together   closely for over three years...,22A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+108,PICARD,   Come.,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+109,DATA ,    (continuing over above     action)   ... and yet I cannot truthfully   refer to him as my friend. I find   that thought to be...   disappointing.,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+110,PICARD,"   Based on your analysis, what is   the current Romulan strategy   behind the deployment of their   ships in this sector?",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+111,DATA,   Their ships are deployed to   support a policy of confrontation   designed to test Federation   defenses along the Neutral Zone.,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+112,PICARD,   Do you predict any change in the   near future?,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+113,DATA,   I project a ninety percent   probability that they will   continue to pursue this policy.,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+114,PICARD,   Are there any indications of a   more conciliatory attitude on   their part?,23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+115,DATA,"       No, sir.",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+116,T'PEL,"   Caution is clearly called for,   Captain. However, the mission   must proceed as planned.",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+117,PICARD,"   Starfleet Command agrees with you,   Ambassador. But I would feel   better if you would consent to   an escort or...",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+118,PICARD,"       Thank you, Mister Data.",23   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+119,DATA,   Feline supplement seventy-four.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+120,DATA,"   Computer, run fluidic sensor   diagnostic.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+121,COMPUTER,   Diagnostic complete. All systems   functioning within normal   parameters.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+122,DATA,   Come in.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+123,O'BRIEN,"   Am I intruding, Commander?",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+124,DATA,   No.       Would you care to sit down?,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+125,DATA ,"       When one of my friends is   distraught, I know that I should   attempt to make him more   comfortable.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+126,DATA,"   May I offer you some refreshment,   chief?",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+127,O'BRIEN,"   No, thank you, sir. First of   all... I'd like to apologize for   this morning in Ten Forward...",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+128,DATA,   There is no need to apologize.   I was not offended.       Perhaps you would like a pillow   or a more comfortable chair to   sit upon.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+129,O'BRIEN,"   Uh... no sir. Thank you, sir.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+130,DATA,   Would you care to listen to music?   Brahms? Aurelia? Mexler?,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+131,O'BRIEN,"   No, sir... really... I'm fine.   I came here to... to ask for your   help.       It's about Keiko... I'd like you   to talk to her... convince her   to go through with the wedding.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+132,DATA,   Would Counselor Troi not be a more   appropriate choice to speak with   Keiko?,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+133,O'BRIEN,   She already has... it didn't   help.       You've known her longer than I   have... I just thought she might   listen to you.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+134,O'BRIEN,       She won't even talk to me...,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+135,DATA,   I do not know what to say to her.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+136,O'BRIEN,   Just talk with her... try to make   her see reason. She's going off   half-cocked and not thinking this   through. You've worked with her   for a long time... she respects   your opinion.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+137,DATA,   Perhaps she has not fully analyzed   her decision.,25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+138,O'BRIEN,"       Thank you, sir. I won't forget   this.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+139,DATA ,"       Commander Maddox, I noted that   Keiko was quite calm and rational   when she informed me of her   decision this morning.",25   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+140,DATA ,"       Therefore, I can predict that   she will respond to an objective   analysis of the situation based   on the available facts.",28A  INT. CORRIDOR,CORRIDOR,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+141,DATA ,    (continuing over above     action)   It is fortunate that she has not   let emotional considerations cloud   her judgement. It should make   my task much simpler.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+142,KEIKO,   Hi.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+143,DATA,   Am I disturbing you?,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+144,KEIKO,   No...,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+145,DATA,   There is a high likelihood that   your decision to cancel the   wedding was an error.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+146,KEIKO,       What?,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+147,DATA,   I believe you made an incorrect   analysis of the facts at hand.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+148,KEIKO,   What do you mean?,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+149,DATA,   You do not seem happy.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+150,KEIKO,"   Well, no...",29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+151,DATA,   Your decision was based on the   assumption that cancelling the   wedding would bring you happiness.   That has proved to be incorrect.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+152,KEIKO,   Data... it's not that simple.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+153,DATA,"   Since your action did not produce   the desired results, the most   advisable solution is to   re-examine the decision-making   process and look for errors.",29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+154,KEIKO,   I knew what I was doing. It's   my decision.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+155,DATA,"   That fact is not in dispute.   However, you may have acted with   undue haste... and in doing so,   you have unintentionally hurt   Chief O'Brien's feelings.",29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+156,KEIKO,       I did what I had to! Why are you   doing this? I thought you were   my friend.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+157,DATA,   I am your friend.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+158,KEIKO,   Then leave me alone.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+159,DATA,   If I have offended---,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+160,KEIKO,   Just... leave me alone.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+161,DATA ,   It is clear that I need guidance   to resolve this situation.   Counselor Troi's advice should   be useful.,29   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+162,DATA ,"    (continuing over above     action)   In many ways, she is the friend   that I understand the least. Her   life and her duties are predicated   on her understanding and   perception of emotions. Since   I have none, no doubt she finds   me as much of a mystery as I find   her.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+163,DATA,   Chief O'Brien talks to me... Keiko   talks to you... why do they not   talk to each other?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+164,TROI,"       That's a good question, Data.   I wish I had a good answer for   you. Perhaps when they're ready,   they will.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+165,DATA,"   Many aspects of this situation   are puzzling. I have been   studying relevant texts on the   subject of marriage, but I have   not found a suitable guide.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+166,TROI,   A suitable guide for what?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+167,DATA,"   In an effort to be helpful, I   am trying to calculate the   variables involved in a successful   marriage.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+168,TROI,   Good luck.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+169,DATA,"   There are many different   opinions. On Galvin Five, a   marriage is considered successful   only if children are produced   within a year of the wedding.   Andorian marriages require groups   of four people unless two---",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+170,TROI,   Data... would you like my advice   on how to help them?       Don't. This is something they   need to work out for themselves   now.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+171,DATA,   But I am their friend. Should   I not stand with them in a time   of difficulty?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+172,TROI,   There are many ways of helping   a friend... sometimes the best   way is to leave them alone.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+173,DATA,   Do you believe marriage to be the   right decision for them?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+174,TROI,"   I don't know. They are very much   in love, but sometimes that isn't   enough. Marriage is an agreement   to share who you are with someone   else... to spend your lives   together... to grow old together.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+175,DATA,       'To grow old together?' Is that   an integral component of   marriage?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+176,TROI,       Why do you ask?,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+177,DATA,"   Although I am an android, I have   not excluded the possibility that   I too may someday marry.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+178,TROI,   There's nothing wrong with that.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+179,DATA,"   I believe I have much to offer   a potential mate, however we   cannot grow old together,   Counselor, because I will not grow   old.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+180,TROI,"       You do have a lot to offer,   Data...",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+181,T'PEL,"   Commander Data, this is Ambassador   T'Pel. Please report to my   quarters.",31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+182,DATA,       Acknowledged.,31A  INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+183,T'PEL,   Enter.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+184,T'PEL,   You have a priority three   clearance aboard the Enterprise?,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+185,DATA,"   That is correct, Ambassador.",33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+186,T'PEL,   I require information on this   ship's defense and navigational   systems. Access code kappa alpha   four-six-zero-one-seven-zero-four.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+187,DATA,       That code is valid.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+188,T'PEL,   What is the field strength of the   ship's deflector shields at   maximum output?,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+189,DATA,   May I ask what is the purpose for   this request?,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+190,T'PEL,   I require the information.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+191,DATA,"   I have the same safeguards as the   ship's computer. Therefore, I   must report any inquiry regarding   restricted information to the   Captain along with a report   stating the nature and purpose   of the inquiry.",33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+192,DATA,   Your reaction suggests that you   do not wish the Captain to be   informed of your inquiry.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+193,T'PEL,       No. I was not interested in the   information. I was curious as   to your security safeguards.   They appear to be adequate.       Cancel request. You may leave.,33   INT. T'PEL'S QUARTERS,T'PEL'S QUARTERS,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+194,DATA ,"   Commander Maddox, I have often   wished for the sense that humans   call intuition or instinct.   Since Vulcans do not lie, I must   accept the Ambassador's   explanation... but I still wish   I could have a... gut feeling   to back up this conclusion.",34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+195,COMPUTER,   Program Crusher Four in progress.,35A  INT. CORRIDOR,CORRIDOR,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+196,BEVERLY,   Hi.       Whatta ya think? It's a recreation   of the studio where I took my   first dance lesson.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+197,DATA,"   It appears to be quite suitable,   Doctor.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+198,BEVERLY,"   All right, then. Let's start with   something real simple.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+199,BEVERLY,"   Go ahead, try it.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+200,BEVERLY,       Good! Now try this...,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+201,BEVERLY,"   Wait a minute...       Try it again, but watch my   arms...",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+202,BEVERLY,       And... you say you're never done   this... ?!,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+203,DATA,   That is correct. Perhaps it would   be beneficial to show me the final   lesson.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+204,BEVERLY,   Okay...,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+205,BEVERLY,   That was the easiest lesson I've   ever given.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+206,DATA,   Then I have succeeded in learning   how to dance?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+207,BEVERLY,   You seem to have... picked up the   basics.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+208,DATA,"   Thank you, Doctor. I am now ready   to dance at the wedding.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+209,BEVERLY,       Wedding?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+210,DATA,   Keiko's wedding.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+211,BEVERLY,   But you never... you didn't say   it was for the wedding.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+212,DATA,   Is that important?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+213,BEVERLY,   Well... yes. They don't do a   lot of tap dancing at weddings...,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+214,DATA,   Why not?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+215,BEVERLY,"   Because... well... actually I'm   not exactly sure, Data. But we'd   better try a style of dancing   they will do at the wedding...   Computer, run ""Blue Moon"".",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+216,BEVERLY,"   Compared to what we were just   doing, it's very simple. Just   follow me. One, two, three,   four---",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+217,BEVERLY,"   No, no... you're trying to---Ow!   Move more slowly... that's it...   no, now you're--Ow! Stop music.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+218,DATA,   I am sorry.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+219,BEVERLY,   I don't get it... you picked up   tap dancing so quickly...,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+220,DATA,   I cannot reproduce your   performance if I cannot see your   feet.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+221,BEVERLY,       You need something to copy. You   can't just... dance?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+222,DATA,"   No, Doctor.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+223,BEVERLY,"   All right... this time, watch my   feet. Computer, start music.       Don't try to imitate me. You   have to lead.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+224,DATA,   Lead where?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+225,BEVERLY,   Indicate to your partner where   you're going to step.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+226,DATA,   How is this accomplished... ?,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+227,BEVERLY,"   Watch me, I'll lead...       Notice I don't repeat the same   pattern over and over... I   improvise... Good... Now you   lead...    (they switch positions     again)   Look up... into my eyes...   Good... You're holding me too   tight, Data...",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+228,DATA,   This is a very complex set of   variables to coordinate.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+229,BEVERLY,"   You're doing fine... now smile,   like you're enjoying yourself...",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+230,NURSE,   Doctor Crusher please report to   Sickbay.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+231,BEVERLY,"    (wincing, hits     communicator)   Is it Lieutenant Juarez?",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+232,NURSE,"   Yes, Doctor. Her contractions   are now one minute apart.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+233,BEVERLY,   I'm on my way.       Why don't you try it with an...   artificial partner for a little   while? Don't be afraid to   experiment.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+234,DATA,"   I will. Thank you, Doctor.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+235,DATA,"   Computer, create dance partner,   female.",36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+236,DATA,   Begin music.,36   INT. HOLODECK/DANCE STUDIO,HOLODECK/DANCE STUDIO,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+237,RIKER,"   ... he still won't talk... so they   put the Count's head on the   chopping block... 'one more   chance' says the Queen. 'No' says   the Count. The headsman swings   his axe and just as the blade   falls, the Count says 'Wait, wait,   I'll talk!' but it was too late.   And the moral to the story is   don't hatchet your counts before   they chicken.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+238,DATA ,       Commander Riker's easy-going   manner and sense of humor is   fascinating. It is one reason   why he is so popular among the   crew. I believe it may also be   partly responsible for his success   in matters of love. There may   be a possible correlation between   humor and sex... the need for more   research is indicated.,40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+239,DATA,"   Commander, we have reached the   designated coordinates.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+240,RIKER,   All stop.       Captain Picard to the Bridge.,40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+241,PICARD,   Hold position. Long range scan.,40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+242,DATA,"   I have detected a ship in the   Neutral Zone, Captain.   Configuration... Romulan Warbird.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+243,PICARD,   Yellow Alert.,40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+244,PICARD,"   Mister Worf, hail the Warbird.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+245,WORF,"       Aye, sir.       They are responding... text only   Captain.       We are to proceed to the agreed   coordinates.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+246,PICARD,"   Set course zero three seven mark   zero zero five, warp four. Take   us into the Neutral Zone, Ensign.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+247,WORF,"       Captain, the Warbird is holding   position. In three minutes we   will be within phaser range.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+248,PICARD,   Red Alert.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+249,PICARD,"   My crew knows their duty,   Ambassador. They will take no   provocative action... without my   order.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+250,T'PEL,   Hold position at these   coordinates.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+251,RIKER,    (glances at his     terminal)   Slow to half impulse.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+252,T'PEL,       Open a channel.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+253,WORF,       Open.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+254,T'PEL,   This is Ambassador T'Pel. I have   arrived.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+255,MENDAK,   I am Admiral Mendak.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+256,T'PEL,   There is no established protocol   for a meeting of this nature.   The logical course is for me to   transport aboard your ship and   begin the negotiations.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+257,MENDAK,"       Yes...       Captain, I note your defensive   systems have been activated.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+258,PICARD,"   As are yours, Admiral.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+259,MENDAK,       It was not meant as an   accusation...     ,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+260,MENDAK ,"       Indeed, I salute your show of   strength. Ambassador, we are   honored by your presence. You   may transport aboard at your   convenience.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+261,T'PEL,   The honor is mine.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+262,T'PEL,   Instruct your Transporter Room   to stand-by. I will beam to their   ship without further delay.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+263,PICARD,"       Ambassador, I must once again urge   you to reconsider. The Enterprise   can accommodate a Romulan   delegation without sacrificing   security or---",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+264,T'PEL,"       Captain Picard, I find your   arguments illogical. Please carry   out my instructions.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+265,PICARD,       Bridge to Transporter Room Three.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+266,O'BRIEN,   O'Brien here.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+267,PICARD,   Prepare to beam Ambassador T'Pel   to the Romulan ship.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+268,O'BRIEN,"   Aye, sir.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+269,PICARD,       Maintain a lock on her signal   once she's aboard their vessel.   At the first sign of trouble I   want to be able to bring her   back.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+270,WORF,   Understood.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+271,WORF,   Transporter activated...,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+272,WORF,   Captain---!,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+273,O'BRIEN,   Transporter emergency! I'm   losing her signal!,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+274,WORF,   Boosting power to autosequencers.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+275,DATA,   Engaging computer override.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+276,RIKER,       O'Brien what's happening down   there?,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+277,O'BRIEN,   I'm losing the pattern... trying   to re-establish...,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+278,O'BRIEN,"       I'm sorry, sir... I wasn't able   to retrieve the signal... the   Ambassador's dead.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+279,O'BRIEN,"   The signal lock wasn't broken,   sir. I had just entered the   transfer sequence when the   Ambassador's pattern began to   break up. I tried to go to   emergency manual control, but the   pattern deteriorated too rapidly   and...    ",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+280,DATA ,"       Personal Log: Supplemental. The   risks aboard a starship are   accepted by all who serve, but   I have never failed to observe   a deep emotional response to the   loss of a comrade. It is at times   like this that I greatly miss the   ability to share human feelings.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+281,DATA,"       Captain, there is no prior record   of this type of accident occurring   on a starship. Back-up systems   and safeguards are designed to   prevent just such an occurrence.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+282,GEORDI,"   I can't find any system flaws in   the unit, sir. All the   Engineering status reports were   normal. None of the backups were   activated and the autosequencers   all functioned normally.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+283,PICARD,   Any prior malfunctions with this   Transporter unit?,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+284,O'BRIEN,"   No, sir. In fact, we replaced   the transition coils only a week   ago.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+285,RIKER,   Could there have been some kind   of interference from the Romulans?,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+286,O'BRIEN,   Nothing that I could see... their   shields were down... there was   no power interruption... no   subspace bias.,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+287,PICARD,       I want that unit pulled and its   systems checked again. I also   want a level one diagnostic   performed on all Transporters.,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+288,GEORDI,"   Aye, Captain.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+289,BEVERLY,"   Her molecular structure   dissipated instantly once the   pattern was lost. There were a   few organic compounds left on the   pad, but there's not enough   material for an autopsy.",47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+290,PICARD,   To die in a Transporter   accident... Hardly a fitting end   for one of the Federation's most   honored diplomats.,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+291,WORF,   Bridge to Captain. Admiral Mendak   wishes to speak with you.,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+292,MENDAK,"   We're still waiting, Captain.   Is there a problem?",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+293,PICARD,   There's been... an accident.   Ambassador T'Pel... was killed   in a Transporter malfunction.,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+294,MENDAK,   What kind of malfunction?,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+295,PICARD,   We're investigating that right   now. I'm sure that---,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+296,MENDAK,   I should have known the Federation   wasn't serious about this   conference.,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+297,PICARD,"   Admiral, I can assure you that   the Federation places the highest   priority on this mission and its   goal.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+298,MENDAK,"   Well played, Captain... well   played. Starfleet opposes   normalization of relations with   the Romulan Empire and so you are   ordered to create... an accident.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+299,PICARD,   You're mistaken. I am ready and   willing to discuss the   establishment of full diplomatic   relations under the same terms   as Ambassador T'Pel.,49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+300,MENDAK,"       A generous offer, since you know   that we were only willing to   negotiate with T'Pel.       I salute you again, Captain. It   was a maneuver worthy of a   Romulan. I suggest we both leave   the Neutral Zone before there   is... another accident.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+301,PICARD,"   Set course for Federation   territory, warp two.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+302,PICARD,"       Engage.       Mister Data, take charge of the   investigation. Study computer   logs, sensor information...   everything. I refuse to believe   this was a simple malfunction.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+303,DATA,"   Yes, sir.",49A  INT. MAIN BRIDGE - INTERCUT WITH VIEWSCREEN (OPTICALL),MAIN BRIDGE - INTERCUT WITH VIEWSCREEN,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+304,DATA ,   Captain Picard was the person who   first interested me in the works   of Sir Arthur Conan-Doyle.,50   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+305,DATA ,       I have subsequently become a great   admirer of the fictional detective   Sherlock Holmes and his ability   to solve mysteries by careful   examination of the available   evidence.,51   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+306,DATA ,       I have found Holmes' methodology   of deductive reasoning to be quite   useful in performing my duties.   One of his adages is that once   you have eliminated the   impossible...,52   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+307,DATA ,"       ... whatever remains, however   improbable, must be the truth.",53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+308,BEVERLY,"   I'm afraid I can't give you   another lesson right now, Data.",53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+309,DATA,   That is not my purpose. I wish   to examine the remains of   Ambassador T'Pel found on the   Transporter pad.,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+310,BEVERLY,   I'm working on my report right now.,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+311,DATA,   Have you compared the genetic   code with the Ambassador's last   recorded Transporter ID trace?,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+312,BEVERLY,   No... that's not part of the   standard procedure. Why?,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+313,DATA,       I could be pursuing an untamed   ornithoid without cause.,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+314,BEVERLY,   A wild goose chase?,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+315,BEVERLY,"   Okay... let's see what happens...   Computer, access Transporter ID   trace of Ambassador T'Pel.",53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+316,BEVERLY,   All right... there's the genetic   record of the Ambassador when she   beamed aboard the Enterprise.,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+317,BEVERLY,"   Now, the breakdown of the   organic material found on the   Transporter pad should be   identical.    (beat as she reads     screen)   Mitochondrial structure fits all   general parameters... no change   in the nucleotide bases...",53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+318,BEVERLY,       There's a slight discrepancy in   the base pair sequence.,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+319,BEVERLY,"       Chemically, these are identical...   however, the organic sample from   the Transporter is showing   numerous single-bit errors... like   replicated material.",53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+320,DATA,   Can you postulate an explanation   for the discrepancy?,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+321,BEVERLY,   I'd say the DNA was either mutated   by the Transporter during the   rematerialization process...,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+322,DATA,       A supposition not supported by   the Transporter records.,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+323,BEVERLY,   Or these aren't the remains of   the Ambassador.,53   INT. SICKBAY,SICKBAY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+324,DATA,"       The only abnormality found during   my investigation was a temporary   increase in the matter to energy   signal ratio. This fluctuation   was well within operating   parameters and would normally not   invite further consideration.   However, due to the circumstances,   I decided to investigate the   possibility that a second   Transporter signal had caused the   fluctuation. Although this was   highly improbable, it was the only   remaining theory.",54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+325,RIKER,   A second transporter signal?   From where?,54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+326,DATA,   From the Devoras.,54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+327,GEORDI,   Romulan transporters operate on   similar subspace frequencies to   our own. With minor adjustments   they could be made to simulate   our own transporter carrier wave.,54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+328,PICARD,   So they beamed the Ambassador off   our own pad.,54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+329,DATA,   While simultaneously a small   amount of genetically similar   material was left in the   Ambassador's place.,54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+330,RIKER,   To make us believe she died as   a result of the 'malfunction.',54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+331,DATA,"   Yes, sir.",54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+332,PICARD,"       Mister Worf, where is the Devoras?",54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+333,WORF,   The ship is still in the Neutral   Zone...       ... on course zero seven nine mark   one two five... speed warp two.,54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+334,RIKER,   Heading for home.,54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+335,DATA ,"       The safest and most logical   decision in this situation is to   contact Starfleet and await   further instructions. However,   based on past experience, I   project only a seventeen percent   chance Captain Picard will choose   that alternative.",54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+336,PICARD,   Red Alert. All hands stand to   battlestations.,54   INT. READY ROOM,READY ROOM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+337,PICARD,   Lay in an intercept course to the   Romulan ship.,55   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+338,RIKER,"   Shields up, load all torpedo bays,   stand-by phasers.",55   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+339,DATA,"   Course laid in, Captain.",55   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+340,PICARD,   Warp factor eight. Engage.,55   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+341,PICARD,   Open a channel to the Devoras.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+342,WORF,"   Aye, sir.       No response.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+343,DATA,   The Devoras is dropping out of   warp... their weapon systems are   powering up.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+344,PICARD,   Go to impulse power.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+345,DATA,"   Aye, sir.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+346,WORF,"   Message coming in, sir.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+347,PICARD,   On screen.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+348,MENDAK,"   Captain Picard, you agreed to   leave the Neutral Zone without---",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+349,PICARD,"       Admiral Mendak, you are holding   our Ambassador captive.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+350,MENDAK,   I can assure you... there is no   one being held captive aboard this   ship.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+351,PICARD,   We know about the Transporter   'malfunction' and that you are   holding Ambassador T'Pel.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+352,WORF,"   Captain, Romulan Warbird   decloaking to starboard!",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+353,MENDAK,   I suggest you leave... now.,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+354,PICARD,   It is my responsibility to protect   the lives of Federation citizens.   I will not permit this abduction   to succeed..,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+355,MENDAK,"   Captain, you're not going to start   an incident which might---",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+356,PICARD,       I am prepared to take whatever   action is necessary to obtain the   Ambassador's return.,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+357,DATA ,"       In poker, there is a moment when   a player must decide if an   opponent is being deceptive or   actually holds a winning hand.   This decision is based not only   on the odds, but also on an   appraisal of the man. Is he   bluffing or does he have the   cards?",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+358,MENDAK,   Fortunately... I'm not ready to   start a war today...,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+359,RIKER,   T'Pel?,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+360,T'PEL,"   Sub-Commander Selok, actually.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+361,PICARD,   A spy.,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+362,MENDAK,"   A patriot, Captain... she has   performed her service to the   Empire with distinction.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+363,T'PEL/SELOK,"       Thank you for your... help,   Captain.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+364,MENDAK,   You can see now that we are not   holding one of your citizens...   and we thank you for returning   our sister to us.       But my patience has limits... the   game is over. I expect you to   leave peacefully. Now.,60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+365,WORF,"   Sir, long-range scanners show   three more Romulan ships moving   into this sector.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+366,RIKER,"       Some days you get the bear, some   days the bear gets you.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+367,PICARD,"   Reverse course... take us back   to Federation territory, warp six.   Engage.",60   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+368,DATA ,   Captain Picard once drew an   analogy between life and a chess   game... he said that the loss of   a single piece does not concede   the game itself.,62   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+369,DATA ,   The Captain has also said that   out of the ashes of defeat rise   the victorious dreams of men.   I find that to be a worthy   philosophy and I have incorporated   it into my programming.,62   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+370,DATA,"   Keiko, I need your help.       I have offended you and need to   find a way to rectify my mistake.   I am not sure what to do.",63   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+371,KEIKO,   You didn't offend me.,63   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+372,DATA,   I should not have interfered.   It would be best if I apologized.,63   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+373,KEIKO,   It would be best if you got   dressed.       For the wedding?,63   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+374,DATA,   But...,63   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+375,KEIKO,"   Oh, come here... I have a   beautiful carnation for the   father of the bride... don't be   nervous now...",63   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+376,DATA,"    (to Keiko, as she     leaves)   I am not nervous.       I am just... confused.",63   INT. ARBORETUM,ARBORETUM,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+377,PICARD,"   Since the time of the first wooden   sailing ships, all captains have   enjoyed the happy privilege of   joining two people in the bonds   of matrimony. And so now it is   my honor to unite you Keiko   Ishikawa, and you Miles Edward   O'Brien together in marriage here   in the sight of your friends and   family.",65   INT. TEN FORWARD - ON DATA,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+378,DATA ,"       There are still many human   emotions I do not fully   comprehend... anger, hatred,   revenge...",65   INT. TEN FORWARD - ON DATA,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+379,DATA ,       But I am not mystified by the   desire to be loved...,65   INT. TEN FORWARD - ON DATA,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+380,DATA ,       ... the need for friendship...   these are things I do understand.,65   INT. TEN FORWARD - ON DATA,TEN FORWARD,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+381,DATA,       I was looking for Doctor Crusher.   I wished to thank her for my...,72   INT. NURSERY,NURSERY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+382,PICARD,       She just left.,72   INT. NURSERY,NURSERY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+383,DATA,   The Juarez child?,72   INT. NURSERY,NURSERY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+384,PICARD,       A boy.       At the same time we were facing   destruction... this small miracle   was taking place.,72   INT. NURSERY,NURSERY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+385,PICARD,       Welcome aboard.,72   INT. NURSERY,NURSERY,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+386,WORF,"       All systems normal, sir. We are   on course for Adelphous Four.   Engineering is realigning the main   deflector dish, Sickbay reports   Lieutenant Umbato broke two ribs   during a Holodeck exercise, and   sensors continue to gather long   range information on the Murasaki   Quasar.",74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+387,DATA,   Very well. I have the Bridge.,74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+388,WORF,"   Aye, sir.",74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+389,DATA,       Begin night watch.,74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt
+390,DATA ,"   If being human is not simply a   matter of being born flesh and   blood... if it is instead a way   of thinking, acting... and   feeling... then I am hopeful that   one day I will discover my own   humanity. Until then Commander   Maddox, I will continue...   learning, changing, growing...   and trying to become more than   what I am.",74   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Data's Day,1990-10-10,The Next Generation,185.txt

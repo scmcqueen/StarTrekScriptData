@@ -1,393 +1,393 @@
-,character,quote,scene,location,view,episode,date,series
-0,PICARD ,"   Captain's log, Stardate 44085.7.   We have moved into Sector   Two-One-Nine-Four-Seven in   response to a distress call from   a Talarian observation craft.   The alien vessel appears adrift,   and our initial probe has detected   a life-threatening radiation leak   within its propulsion system.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Suddenly Human""",1990-07-09,The Next Generation
-1,WORF,"   Sir, I get no further response   from the vessel.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-2,PICARD,   Maintain an open channel.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-3,RIKER,"   Doctor Crusher and her assistants   are waiting in Transporter Room   Three, Captain.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-4,DATA,"   Sir, I must remind you that during   the Galen border conflicts a   common tactic of the Talarians   was to abandon their observation   craft, rig them to   self-destruct...",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-5,PICARD,"       ... and issue a general distress   call, yes, I know...",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-6,DATA,   This particular guerilla maneuver   resulted in two hundred and   nineteen fatalities over a three-   year period.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-7,RIKER,"   Data, is there any way to detect   their self-destruct device?",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-8,DATA,"   Negative, Commander. The   Talarians employ a subspace   proximity detonator. It would   not be detectable to our scans...",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-9,RIKER,       ... or the Away Team's tricorders.   Right.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-10,WORF,"   Captain, the Talarian warship   Q'Maire is responding to the   distress call.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-11,PICARD,   Position?,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-12,WORF,   Halfway through the Woden sector.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-13,WESLEY,"   It'll take them hours to get here,   sir, even at maximum warp.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-14,PICARD,   Counselor?,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-15,TROI,   There is life on board... but it's   fading.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-16,PICARD,"   Number One, assemble the rest of   your away team and prepare for   immediate rescue operations.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-17,RIKER,"   Yes, sir.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-18,WORF,"       Ancilary power is failing,   Commander.",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-19,BEVERLY,   They're nothing more than   children!,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-20,RIKER,   I am Commander Riker of the   Federation Starship Enterprise.   We will evacuate you and give you   medical care. You will not be   harmed.,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-21,BEVERLY,"       Enterprise, prepping five Talarian   males for transport directly to   Sickbay... Trauma Team, stand   by to receive injured... we have   radiation burns, possible   respiratory distress...",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-22,TRANSPORTER OFFICER,"   Transport locked in and ready,   Doctor.",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-23,BEVERLY,   Stand by for my order.,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-24,RIKER,"   Captain, it looks like this was   a basic training ship. Five   boys... in their teens... all   in uniform...",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-25,PICARD,"   Proceed with the evacuation,   Number One.",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-26,WORF,"   No other life signs on board, sir.",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-27,BEVERLY ,   Commander! Quickly!,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-28,RIKER,   What is it?,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-29,BEVERLY ,   Look... this boy... he's human!,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-30,PICARD ,"   Captain's log, supplemental: We   have completed emergency   evacuation of four Talarians   -- and one human. How this young   man found himself in the custody   of these aliens remains a mystery.",5    INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-31,BEVERLY,"   It's Jono, right? Is that what   I heard them call you?",5    INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-32,BEVERLY,   I'm Doctor Crusher. I'm examining   you for radiation injuries. It   won't hurt.       I have a son not much older than   you. Maybe you'd like to meet   him.,5    INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-33,BEVERLY,"       Well, Jono... you seem to have   escaped radiation damage. Pretty   lucky.    (reacting to something     on the tricorder)   How did this happen -- ?",5    INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-34,BEVERLY,   What is it?,5    INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-35,TROI,   He's -- terrified.,5    INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-36,BEVERLY,"   They all just started up,   Captain.",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-37,PICARD,"   May I have your attention, please?",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-38,PICARD,   Please -- may I have your   attention?,6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-39,PICARD,   Stop that immediately!,6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-40,PICARD,"   Well. That's better. Now, what's   your name, young man?",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-41,TROI,"   He won't talk, Captain. We   haven't been able to get through   to him.",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-42,JONO,   Captain -- ?,6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-43,JONO,"   Captain... I am Jono. Take me   home, to my Captain. Take me home   to Endar!",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-44,BEVERLY,   He managed to escape radiation   trauma... but his scans showed   something else...,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-45,PICARD,   What?,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-46,BEVERLY,   Two previously fractured ribs...   a broken arm... a low-grade   concussion. There may be   neurological impairment... I'll   have to examine him further. Jean   Luc -- the Talarians have always   been ruthless to their enemies...   I think there's a real possibility   they may have brutalized the   child.,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-47,PICARD,   Isn't it possible he was injured   prior to his captivity?,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-48,BEVERLY,   Not likely. He's been with them   a long time... long enough to   assimilate their cultural   traits... and calcium trace   patterns indicate the injuries   occurred during the past seven   years.,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-49,PICARD,       But if they have... abused the   boy... why would he devoutly wish   to return to them?,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-50,BEVERLY,"   That's not uncommon. It was   identified centuries ago as the   ""Stockholm syndrome.""",7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-51,PICARD,   Now what?,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-52,TROI,   I suggested he take off his   gloves... Suddenly he went out   of control.,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-53,BEVERLY,"       Security, we need some assistance   in Sickbay...",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-54,WORF,"   Acknowledged, Doctor.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-55,PICARD,   Jono -- !,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-56,JONO,   She won't leave me alone! She   keeps trying to dissect me!,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-57,PICARD,   She was trying to help you!,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-58,JONO,   I don't want her help! All I want   is to be with my brothers! Send   us back to Captain Endar!,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-59,PICARD,   Jono -- I want you to stop this   immediately!,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-60,JONO,"   Yes, Captain.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-61,PICARD,"   That's better. Now, if we're to   accomplish anything --",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-62,DATA,       Data to Picard.,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-63,PICARD,   Go ahead.,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-64,DATA,"   We have received a subspace   communique from Starfleet Command,   regarding the young human, sir.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-65,PICARD,"   Very well. Doctor, Counselor...    ",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-66,BEVERLY,"   Mister Worf, escort this young   man to quarters... he's to be   confined there until further   notice.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-67,WORF,"   Yes, Doctor.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-68,JONO,"   Why are you here, Klingon -- with   them? Did they capture you, too?",10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-69,WORF,   They are not my captors. They   are my comrades.,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-70,JONO,   Why do you take orders from a   female?,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-71,WORF,       Doctor Crusher? She is my   superior officer.,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-72,JONO,"       Among my people, a female could   never outrank a man.",10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-73,WORF,"   You are human, and among humans,   females can achieve anything   males can.",10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-74,JONO,   I am not human any more than you   are. I am Talarian.,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-75,WORF,   You are confused...,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-76,WORF,   Stop that!,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-77,JONO,   I will make the B'Nar -- the   mourning -- until I am back with   my brothers!,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-78,DATA,"   By matching DNA gene types,   Starfleet was able to identify   the young man as Jeremiah Rossa...",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-79,RIKER,       Rossa...,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-80,PICARD,"   ... as in Admiral Rossa, Data?",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-81,DATA,"   She is his grandmother, Captain.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-82,DATA,"   He was born fourteen years ago   on the Federation Colony, Galen   Four. His parents, Connor and   Moira Rossa, were killed in a   border skirmish three years, nine   months later when the colony was   overrun by Talarian forces.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-83,PICARD,   I remember. There were no   survivors.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-84,DATA,   The child was listed as missing   and presumed dead.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-85,RIKER,   I knew another one of the Rossas   who was killed in action at the   Krasner outpost...,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-86,PICARD,"       Tragedy, it seems, follows the   Rossa Family... the Admiral has   lost both her sons...",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-87,BEVERLY,   She'll have something to celebrate   now...,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-88,TROI,   Captain... if Jeremiah were   returned to his family in his   present condition... it would be   a wrenching experience for   everyone. Especially for him.   He needs to re-discover his   identity. He has to make some   connection with his roots.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-89,PICARD,"   I agree. Please take whatever   means you need to accomplish that,   Counselor.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-90,TROI,"   I don't think I can do anything,   Captain.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-91,PICARD,   Why not?,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-92,BEVERLY,   Troi's right. It's very clear   that the boy does not respond well   to women.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-93,DATA,   The Talarians are a rigidly   patriarchical society.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-94,TROI,"   Jeremiah needs to build a   relationship with a man... a   father figure... with whom he can   explore his origins... and I think   it should be you, Captain.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-95,PICARD,"       Oh, no, Counselor! I don't think   so. He needs someone who is --   trained in these things.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-96,TROI,"   But you are the only person on   board to whom he has shown any   connection. If Jeremiah is to   find his -- humanity -- then you   are the only one who can help him.   It's up to you, Captain.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-97,PICARD,   Jono... why do you make that   noise?,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-98,JONO,   It is the custom of my people when   they are in distress.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-99,PICARD,   Is it not also the custom of your   people to listen to the wishes   of their Captain?,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-100,JONO,   Yes.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-101,PICARD,"   Then, as Captain of the Starship   Enterprise, I ask you not to make   that sound.",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-102,JONO,"       Yes, sir.",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-103,PICARD,"   Good. Well. Now that we have   that cleared up...       Let's... get acquainted, shall   we?",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-104,PICARD,"       What do you think of your   quarters? I know it's a bit --   sterile. But if there's anything   you'd like... pictures, perhaps,   or games...",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-105,JONO,   This is a cage. I am still your   captive.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-106,PICARD,   Not at all. I thought you would   be comfortable here --,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-107,JONO,   Are you going to return me to my   Captain?,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-108,PICARD,       We will rendezvous with the   warship Q'maire at   Oh-seven-forty. We are   preparing to transfer the   Talarians to Captain Endar.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-109,JONO,   Including me?,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-110,PICARD,   We will... discuss... your   situation with Captain Endar.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-111,JONO,   I don't like this place.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-112,PICARD,"   Well, we can find other quarters.   ",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-113,JONO,   I have always lived with my   Captain.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-114,PICARD,"   Ah. Yes, well... that won't work,   here.",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-115,PICARD,   I'm sure you'll see... there's   nothing here that would appeal   to a young person.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-116,PICARD,"   Put that down, please.",17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-117,JONO,   It's Klingon.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-118,PICARD,   Yes. Put it back where you got   it.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-119,PICARD,"   Well. Here we are, eh, Jono?",17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-120,PICARD,   I notice you haven't taken off   your gloves...,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-121,JONO,   Not here.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-122,PICARD,   Why not?,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-123,JONO,   So that I don't have to touch an   alien.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-124,PICARD,"   Jono... your Captain, Endar? Has   he ever hurt you?       Inflicted pain?",17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-125,JONO,       Pain is not a consideration.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-126,PICARD,   Then he has.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-127,JONO,   I did not say that. Can't you   understand? Pain is not what   matters. Passing the tests is   everything.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-128,PICARD,   Is that what they are? Tests of   pain?,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-129,JONO,       You don't understand anything.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-130,PICARD,   It's true I don't fully understand   Talarians. But... you are not   Talarian.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-131,JONO,   I will not listen to this! I will   not listen to your lies! Take   me back to my cell! I'd rather   be in prison than have you try   to poison my mind!,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-132,PICARD,   Come.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-133,TROI,"   You wanted to see me, Captain?",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-134,PICARD,"   Ah, yes, Counselor. Please --   sit down.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-135,PICARD,"   You may not be aware of this, but   I have never been particularly   comfortable around children.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-136,TROI,   Really?,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-137,PICARD,"   For some reason, they just don't   seem to respond to me.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-138,TROI,   I see...,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-139,PICARD,"   Frankly, I think my time is best   served carrying out the duties   and responsibilities of a   Starfleet Captain.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-140,TROI,   Seldom have I heard an explanation   so well rehearsed.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-141,PICARD,"   All right, Counselor... I just   don't think I'm the right person   for this job.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-142,TROI,"   Strange, isn't it? You'll travel   light years, dodge asteroid   storms, brave hostile aliens...   but when asked to assume a   parental role, you cringe. Why   do you suppose that is?",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-143,PICARD,   I'm not cringing... I am simply   acknowledging my limitations.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-144,TROI,"       When you were a child, did you   have many friends? Other children   you played with?",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-145,PICARD,"   No, but I don't think that has   anything to do with anything...       Perhaps it's because... no, this   is foolish. What does it matter?",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-146,TROI,   What were you going to say?,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-147,PICARD,   Just that... ever since I was a   child... I knew exactly what I   wanted -- to be a member of   Starfleet. Nothing else mattered   to me. Virtually my entire youth   was spent pursuing that goal.   In fact...       I think... that I may have skipped   my childhood.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-148,TROI,"   You know, Captain, almost no one   is born being a good parent.     ",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-149,TROI ,"   Most people simply have to muddle   through it, doing the best job   they can.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-150,PICARD,   And... that's what I'm going to   have to do?,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-151,TROI,   Yes. And you might be surprised   at how good you could be.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-152,PICARD,"   Computer, turn off that noise!",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-153,PICARD,"   Computer, what was that?",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-154,COMPUTER,"   The ""Alba Ra""... a contemporary   Talarian musical form.",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-155,PICARD,   Jono? Where are you?,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-156,JONO,   Here.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-157,JONO,   You turned off my music.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-158,PICARD,"   Yes, I certainly did, and I expect   it to stay turned off. Jono,   would you come down from there?",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-159,PICARD,       I see you've made yourself at   home.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-160,JONO,       I cannot rest on your beds. They   hurt my back.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-161,PICARD,"   Right... Jono, I want to show you   something.",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-162,PICARD,   Those are Connor and Moira Rossa   -- your parents. That baby is   you... Jeremiah Rossa.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-163,JONO,       My name is Jono.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-164,PICARD,"   You were born Jeremiah, on Galen   Four. Your colony was   destroyed, later, during a border   skirmish.",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-165,PICARD,   You knew how to laugh once.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-166,PICARD,"   Do you remember any of that? Your   parents, your home?",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-167,JONO,   No. I know that Endar rescued   me. He told me so.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-168,PICARD,"   Jono, your parents were killed   by Talarians...",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-169,JONO,       It was war. Death is part of war.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-170,RIKER,   Captain?,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-171,PICARD,"   What is it, Number One?",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-172,RIKER,   We have visual contact with the   warship Q'Maire.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-173,JONO,   Endar...,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-174,PICARD,       You stay put.       I'm on my way.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-175,MOIRA,   Jeremiah... Jeremiah!,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-176,PICARD,"   Status, Mister Data.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-177,DATA,"   Q'maire at station, holding steady   at bearing zero-one-three, mark   zero-one-five. Distance   five-zero-six kilometers.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-178,PICARD,   Are its weapons systems active?,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-179,DATA,   Negative.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-180,WORF,   Captain Endar requests an open   channel.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-181,PICARD,   On screen.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-182,ENDAR,   I am Captain Endar of the warship   Q'Maire. To whom am I speaking?,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-183,PICARD,   Captain Jean-Luc Picard of the   Federation Starship Enterprise.   We have rescued four crew members   from your observation craft. They   have received medical attention   and are ready for transport.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-184,ENDAR,   Your actions are duly noted. We   will forward coordinates for   immediate transport.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-185,RIKER,"       You're welcome, I'm sure.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-186,PICARD,"   One moment, Captain. We have also   discovered a human among your   crew.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-187,ENDAR,       Jono!,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-188,PICARD,"   Actually, his name is Jeremiah   -- Jeremiah Rossa.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-189,ENDAR,   What is his condition? Is he   injured?,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-190,PICARD,   He was not wounded in the   mishap...,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-191,ENDAR,   A blessing...,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-192,PICARD,   But as a representative of the   Federation I demand an   explanation. Why has this child   been held in your custody all   these years?,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-193,ENDAR,"   No explanation is warranted,   Captain. He is my son!",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-194,PICARD ,"   Captain's log, supplemental:   Endar's claim that Jeremiah Rossa   is his son is clearly   unacceptable.",23   EXT. SPACE - ENTERPRISE AND Q'MAIRE (OPTICAL),SPACE - ENTERPRISE AND Q'MAIRE,EXT.,"""Suddenly Human""",1990-07-09,The Next Generation
-195,PICARD ,"   However, to avoid escalating   tensions, I have extended an   invitation to the Talarian leader   to come aboard the Enterprise so   that we may address the issue   face-to-face.",24   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-196,ENDAR,   Yes... I was in charge of the   force that repelled the   trespassers on Galen Four.       I must say your Federation troops   fought tenaciously.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-197,PICARD,   Among them Connor and Moira Rossa.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-198,ENDAR,"   I suppose. After the battle, I   found this squalling child,   huddled by the body of a young   woman. His mother, presumably.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-199,PICARD,"   And so, you -- kidnapped him.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-200,ENDAR,"   A harsh term, Captain. I rescued   the child. There was almost no   one left alive on Galen Four...   was I to leave him screaming by   his mother's body?",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-201,PICARD,   You should have notified   Federation authorities. To   conceal him was a clear violation   of our agreement.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-202,ENDAR,   I took him in accordance with   my peoples' traditions.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-203,PICARD,   What... tradition... is it that   empowered you to capture a   helpless child?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-204,ENDAR,   I lost my son at the hands of   humans during the conflict over   Castal One. Talarian custom   allows me to claim the son of a   slain enemy.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-205,PICARD,"       I understand your tradition,   Endar. May I ask... does it   extend also to brutalizing the   surrogate son?",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-206,ENDAR,   What are you talking about?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-207,PICARD,   Our medical officer found evidence   of injuries so severe that they   might even be considered   torture...,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-208,ENDAR,   No! I have never harmed Jono!,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-209,PICARD,   Then explain the fractured ribs!   The concussion... the broken   arm...,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-210,ENDAR,   Youth.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-211,ENDAR,"   Have you ever been a father,   Picard? Have you ever had a son   desperately try to win your   approval? Your respect?",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-212,ENDAR,"   Jono broke his ribs riding a   T'stayan -- six hooves, a very   powerful animal. The arm? In   a contest with other youths. He   endured the pain -- and won the   competition.       He will be a great warrior one   day.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-213,PICARD,   Doesn't he deserve to become more   than that?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-214,PICARD,"   His heritage is human, Endar.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-215,ENDAR,   A heritage long since forgotten.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-216,PICARD,"       Captain Endar, while on board,   you are welcome to supervise the   return of your crew. But I cannot   allow Jeremiah Rossa to be   returned to your custody. His   true family is waiting for him   on Earth.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-217,ENDAR,   Then under no circumstances will   I allow your ship to leave our   territory.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-218,PICARD,   I have already reported our   position and the nature of this   violation to Starfleet.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-219,ENDAR,   And I have already called our   reserved forces into the sector.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-220,PICARD,       Are you saying you would be   willing to go to war over the boy?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-221,ENDAR,   Would you not for your only son?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-222,PICARD,   We have been at peace for years.   Let us not rush headlong toward   war.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-223,ENDAR,"   Then help me to avoid it!       If you will allow me to see Jono,   it will be clear to you -- I have   been a good father. He has grown   up happy in my keeping.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-224,TROI,   Those were your parents. Do you   remember them?,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-225,JONO,   That was long ago. Endar is my   father.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-226,TROI,   And who is your mother?,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-227,JONO,   We don't have mothers. Females   are only for mating. And work.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-228,TROI,   And the men? What is their   purpose?,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-229,JONO,   Passing the tests. Becoming   strong.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-230,TROI,"   The tests... endurance, pain,   determination... all so that you   can excel at making war?",26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-231,JONO,"       Females understand nothing.       Life is not easy on our planet.   If we do not test ourselves   constantly, we become weak -- and   the weak die quickly!",26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-232,TROI,   And the females? Surely they are   weak.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-233,JONO,   Of course. But we protect them.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-234,TROI,   I see.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-235,TROI,   And when you look at this   picture... of you and the human   female who was your mother...   how do you feel about her?,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-236,PICARD,   Then you think it would be unwise   to let Endar see Jono.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-237,BEVERLY,   I think it's dangerous. Abusers   can have subtle but powerful   influence over their victims.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-238,PICARD,"       I'm not convinced he was abused,   Doctor. I've talked to the man,   and if I am any judge of   character... I'd say he deeply   cares about the boy's welfare.",31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-239,BEVERLY,"   Captain, we learned long ago   always to err on the side of   protecting the child. I think   Endar should be kept away from   Jono.",31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-240,TROI,"   I'm not sure I agree, Captain.",31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-241,TROI,"   I sense... awakening memories in   the boy... this is a very fragile   time for Jono, and if we send away   the man he calls ""father"" without   even letting them see each other   -- how will we ever gain his   trust?",31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-242,PICARD,   Yes... There is also something   else we should keep in mind. We   are deep in Talarian territory.   A semblance of diplomacy is called   for.       I shall allow the visit.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-243,BEVERLY,   All I ask... is that the visit   be supervised. Don't let them   be alone together.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-244,PICARD,   Agreed.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-245,JONO,   Endar!,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-246,ENDAR,   Jono... my son...,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-247,ENDAR,   Have they treated you well?,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-248,JONO,"   Yes, Captain. Except...",32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-249,ENDAR,   Except?,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-250,JONO,   I was forbidden to make the   B'Nar.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-251,ENDAR,"   It's all right. I know that you   mourned in your heart.       Well, Jono... what do you think   of these humans?",32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-252,JONO,   They... they look like me.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-253,ENDAR,"   They want to keep you, you know.",32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-254,JONO,   I know.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-255,ENDAR,   You are of the age of decision.   What is your choice?,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-256,ENDAR,   Well? Do you want to stay?,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-257,JONO,"   No, of course not.",32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-258,ENDAR,   Then you shall not.       I am going back to the Q'Maire.   I will leave the humans with a   choice. If they do not make the   one we know is right... it may   lead to war.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-259,ENDAR,   You may die.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-260,JONO,   I am ready to die.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-261,WORF,"   Captain, sensors indicate two   warships approaching from opposite   directions along the border.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-262,PICARD,   Their offensive potential?,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-263,DATA,"   Talarian warships are limited to   neutral particle weapons,   high-energy X-ray lasers and   merculite rockets. No match for   the Enterprise, Captain.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-264,PICARD,   The last thing I want is to be   forced into destroying one of   their ships.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-265,RIKER,   They won't back off. They've   been willing to fight to the   death in past encounters.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-266,PICARD,       The lines are being drawn... all   this for a chosen son.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-267,WORF,"   Is it worth it, Captain? To go   to war -- over a child?",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-268,BEVERLY,"   You might not ask that,   Lieutenant, if he were your   child.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-269,PICARD,   There must be a way to avoid   this...,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-270,TROI,   If we can just reach Jono... help   him to make some connection with   his origins... then he may choose   to come with us.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-271,RIKER,   Do you really think Endar would   go along with that?,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-272,DATA,"   If Endar respects Talarian custom,   he may have to.       According to their tradition, a   male child of fourteen has reached   the age of decision. They undergo   a ceremony of initiation and after   that have the freedom to make   their own choices.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-273,PICARD,       Endar's entire claim on Jono is   based on Talarian custom... he'd   have a hard time backing away from   it now...,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-274,WORF,   Captain -- there's a subspace   communication from Starfleet   Command.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-275,PICARD,   On screen.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-276,WORF,"   Sir, the message is for Jeremiah   Rossa.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-277,PICARD,   Have the boy brought to my Ready   Room.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-278,CONNAUGHT,"   Jeremiah... my name is Connaught   Rossa. I am your father's mother.   I wish we could talk in person,   but that will have to wait. When   I heard the miracle that you were   alive, I wanted to reach out to   you as soon as possible.       I find myself wondering what you   look like... and all I can do is   imagine your father at your age.     ",36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-279,CONNAUGHT ,"   You come from a family that would   make you proud. Many of them have   given their lives to bring peace   to the galaxy. You are the last   of the Rossas. I am so very   thankful that you have been given   back to us, to carry on the line.       Your grandfather and I will greet   you with all the love in our   hearts. Have a safe journey home,   Jeremiah.",36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-280,JONO,   She wears a Starfleet uniform.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-281,PICARD,   Yes.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-282,JONO,   What is her rank?,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-283,PICARD,   She is an Admiral.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-284,JONO,   She outranks you.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-285,PICARD,   Yes.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-286,JONO,"   If I were home now, I would go   to the brae, and run along the   river... run as fast as I could!",36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-287,PICARD,   Jono...,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-288,JONO,"   I can't do any of the things that   calm me here! You won't let me   have my music, you won't let me   make the B'Nar! I feel if I have   to hold still much longer I will   die!",36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-289,PICARD,   Jono -- let me show you what I   do when I get those feelings.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-290,PICARD,       I serve from here... like this...       And you must hit it back before   it bounces twice. Let's try it.,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-291,PICARD,   Not bad.,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-292,JONO,   I win at all the games.,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-293,PICARD,"   I can believe it. Well, shall   we give this a try?",37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-294,PICARD,   Jono? You all right?,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-295,JONO,   Fine.,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-296,CONNOR,   Take him and get to cover!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-297,MOIRA,   I can't leave you!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-298,PICARD,   Jono -- what is it?!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-299,CONNOR,   Take Jeremiah... get to the   forest! I'll hold them off!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-300,MOIRA,"   No, come with us!",37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-301,CONNOR,   Go!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-302,JONO,       Mama...,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-303,MOIRA,   Jeremiah... Jeremiah... This way!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-304,JONO,   She was... all red. I cried...   but she didn't answer me...,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-305,JONO,"   ... she used to sing to me... I   don't remember the melody, just   the sound of her voice...",41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-306,JONO,"   Before I remembered these things,   I was strong. Now...    ",41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-307,JONO,   I have endured much pain. But   this... I do not like.,41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-308,PICARD,"   It is part of being human, Jono.   But as deeply as you can feel hurt   -- you can also feel joy.",41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-309,JONO,   I do not think so. I think I will   always feel like this.,41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-310,PICARD,   Jono -- are you tired?,41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-311,JONO,"   Yes. But I do not want to rest.   I think --    (looks up, almost     surprised)   -- I think I am hungry.",41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-312,RIKER,"   Well, how was racquetball?",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-313,PICARD,   He gave me quite a game for his   first time out.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-314,JONO,"   I look forward to the next time,   Captain.",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-315,PICARD,"   I'm sure you do. sit down, Jono.   What would you like?",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-316,JONO,   What's that?,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-317,WESLEY,   That's called a banana split and   it's maybe the best thing there   is in the universe.       Here -- give it a try.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-318,DATA,   It is called a spoon.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-319,WESLEY,   Go ahead.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-320,JONO,   Forgive me --,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-321,DATA,   I fail to see why this is amusing.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-322,RIKER,"       Check your data banks on humor...   subheading ""Slapstick""...",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-323,DATA,"       Comedy stressing farce and   horseplay... ah, this no doubt   is a variation on... ""Pie in the   Face""...",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-324,RIKER,   Now do you see why it's funny?,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-325,DATA,"   No, I do not. But I will take   your word. It is very amusing.",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-326,WESLEY,"   Let's start over. A fresh banana   split for me, one for my friend   here.",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-327,PICARD,   Look at him. He's like a   different person.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-328,RIKER,   Who would ever have thought he   could laugh out loud like that?,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-329,PICARD,   And half an hour ago he was crying   in my arms like a baby.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-330,BEVERLY,   Two bleeders... single-plane   penetration...       I need the autosuture over here!,49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-331,BEVERLY,       It looks like the blade hit the   sternum and was deflected... it   could have been a lot worse.,49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-332,PICARD,   Then it wasn't a dream...,49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-333,BEVERLY,   I'm afraid not...,49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-334,BEVERLY,   No vital organs were pierced...   no major arteries...,49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-335,PICARD,   Where is the boy now?,49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-336,BEVERLY,   Worf has him in security. Hold   still...,49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-337,PICARD,"   I want to see him. Here, now.",49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-338,BEVERLY,       He'll wait until I'm finished.,49   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-339,WORF,"   Talarian warships converging,   Commander, range five hundred   kilometers.",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-340,RIKER,   On screen.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-341,RIKER,"   Any communication, Lieutenant   Worf?",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-342,WORF,"   No, sir. We have an open channel.",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-343,WESLEY,"   Commander, the warships' closing   velocities are decreasing...   staggered approach vectors   bearing zero, one hundred twenty,   and two hundred forty degrees.",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-344,RIKER,       Riker to La Forge.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-345,GEORDI,"   La Forge here, sir.",55A  INT. ENGINEERING - CONTINUOUS - INTERCUTTING,ENGINEERING,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-346,RIKER,"   Geordi, the Talarians are moving   into attack posture. Classic   triangular envelopment.",55A  INT. ENGINEERING - CONTINUOUS - INTERCUTTING,ENGINEERING,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-347,GEORDI,"   I've tapped the impulse engines   for additional power to shields,   Commander. We're ready.",55A  INT. ENGINEERING - CONTINUOUS - INTERCUTTING,ENGINEERING,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-348,WORF,"   Commander, Captain of the Q'Maire   requests communication.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-349,RIKER,"   Well, here we go. On screen.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-350,ENDAR,   Captain Picard... have you made   your decision?,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-351,RIKER,"   This is Commander Riker. What   are your intentions, Captain   Endar?",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-352,ENDAR,       Where is Captain Picard?,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-353,RIKER,       He has been injured. I am in   command now.,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-354,ENDAR,   Very well. Please prepare my   son for immediate transport.,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-355,RIKER,"   I'm afraid that's not possible.   Last night, Jono attacked Captain   Picard and tried to murder him.   We are holding him in custody.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-356,ENDAR,"   If you had returned him with the   others, this would never have   happened! I hold you responsible   for this incident.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-357,RIKER,"   He'll have to come back with us   now, Endar. It will be up to   Starfleet to decide the   consequences.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-358,ENDAR,"   I do not accept that decision.   I repeat, you will prepare my son   for transport. If he is not on   board in five minutes, you will   suffer the consequences.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-359,RIKER,   Red alert.,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-360,WORF,   Talarian vessels routing power   to forward rockets...,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-361,RIKER,"       Ready all weapons, Mister Worf...",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-362,PICARD,   Jono... why did you do it?,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-363,JONO,   That doesn't matter.,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-364,PICARD,   I think it does. It matters to   me.,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-365,JONO,   What matters is that I have   attacked a Captain. I am ready   to be put to death.,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-366,PICARD,   You think you are to be killed?,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-367,JONO,   To attack a superior is the worst   offense. I will die at your   hands.,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-368,PICARD,"   Jono, you aren't going to die at   my hands or anyone else's.",56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-369,JONO,   But... I committed a terrible   crime...,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-370,PICARD,   What I want to know is why? You   seemed so happy just a few hours   ago...,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-371,JONO,   I was.,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-372,JONO,   But then... I thought about my   father. I felt like I was   betraying him.,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-373,JONO,       I'd be throwing away all that   he's given me... all that I   learned from him... my home...   running along the river... playing   in the games... sharing victory   with my brothers...       ... all the things that are part   of my life.,56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-374,JONO,"   As I grew closer to... you... I   knew it meant leaving more and   more of that life behind.   Forgive me, Captain -- I could   not allow myself to do that.",56   INT. SICKBAY,SICKBAY,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-375,WORF,"   Q'Maire is requesting   communication on a secure   channel, Commander.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-376,RIKER,   On screen.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-377,ENDAR,"   Commander Riker, you have failed   to transport my son aboard the   Q'Maire.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-378,RIKER,   Our position has not changed.   We are returning him to Starfleet.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-379,ENDAR,   I regret your stubbornness. Much   will be lost.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-380,PICARD ,"   One moment, Captain...",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-381,PICARD,"   Captain Endar, last night Jono   attacked me with a dagger.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-382,ENDAR,   Which he could not have done had   he been returned to me with the   others!,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-383,PICARD,       There was a crime committed on   board this ship... but it was not   Jono's -- it was mine.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-384,PICARD,"       When we found Jono, it seemed   so clear what had to be done.   We knew if he could only be   persuaded to make the decision   to stay... you would most likely   let him. So with the best of   intentions, we tried to convince   him... and, in so doing,   thoroughly failed to listen...   to his feelings, his needs.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-385,PICARD,"       That was the crime, and it has   taken a huge toll on a strong   and noble young man. It must be   rectified.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-386,PICARD,"       Jono will return home -- to the   only home he has ever known. To   the father that he loves. To you,   Endar.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-387,ENDAR,"   Thank you, Captain...",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-388,PICARD,   Please transmit coordinates for   his immediate transport.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-389,PICARD,"   Goodbye, Jono.",60   INT. TRANSPORTER ROOM - LATER (OPTICAL),TRANSPORTER ROOM - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-390,JONO,"   Goodbye, Captain.",60   INT. TRANSPORTER ROOM - LATER (OPTICAL),TRANSPORTER ROOM - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
-391,JONO,       Thank you.,60   INT. TRANSPORTER ROOM - LATER (OPTICAL),TRANSPORTER ROOM - LATER,INT.,"""Suddenly Human""",1990-07-09,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,PICARD ,"   Captain's log, Stardate 44085.7.   We have moved into Sector   Two-One-Nine-Four-Seven in   response to a distress call from   a Talarian observation craft.   The alien vessel appears adrift,   and our initial probe has detected   a life-threatening radiation leak   within its propulsion system.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+1,WORF,"   Sir, I get no further response   from the vessel.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+2,PICARD,   Maintain an open channel.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+3,RIKER,"   Doctor Crusher and her assistants   are waiting in Transporter Room   Three, Captain.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+4,DATA,"   Sir, I must remind you that during   the Galen border conflicts a   common tactic of the Talarians   was to abandon their observation   craft, rig them to   self-destruct...",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+5,PICARD,"       ... and issue a general distress   call, yes, I know...",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+6,DATA,   This particular guerilla maneuver   resulted in two hundred and   nineteen fatalities over a three-   year period.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+7,RIKER,"   Data, is there any way to detect   their self-destruct device?",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+8,DATA,"   Negative, Commander. The   Talarians employ a subspace   proximity detonator. It would   not be detectable to our scans...",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+9,RIKER,       ... or the Away Team's tricorders.   Right.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+10,WORF,"   Captain, the Talarian warship   Q'Maire is responding to the   distress call.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+11,PICARD,   Position?,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+12,WORF,   Halfway through the Woden sector.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+13,WESLEY,"   It'll take them hours to get here,   sir, even at maximum warp.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+14,PICARD,   Counselor?,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+15,TROI,   There is life on board... but it's   fading.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+16,PICARD,"   Number One, assemble the rest of   your away team and prepare for   immediate rescue operations.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+17,RIKER,"   Yes, sir.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+18,WORF,"       Ancilary power is failing,   Commander.",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+19,BEVERLY,   They're nothing more than   children!,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+20,RIKER,   I am Commander Riker of the   Federation Starship Enterprise.   We will evacuate you and give you   medical care. You will not be   harmed.,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+21,BEVERLY,"       Enterprise, prepping five Talarian   males for transport directly to   Sickbay... Trauma Team, stand   by to receive injured... we have   radiation burns, possible   respiratory distress...",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+22,TRANSPORTER OFFICER,"   Transport locked in and ready,   Doctor.",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+23,BEVERLY,   Stand by for my order.,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+24,RIKER,"   Captain, it looks like this was   a basic training ship. Five   boys... in their teens... all   in uniform...",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+25,PICARD,"   Proceed with the evacuation,   Number One.",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+26,WORF,"   No other life signs on board, sir.",3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+27,BEVERLY ,   Commander! Quickly!,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+28,RIKER,   What is it?,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+29,BEVERLY ,   Look... this boy... he's human!,3    INT. TALARIAN OBSERVATION CRAFT (OPTICAL),TALARIAN OBSERVATION CRAFT,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+30,PICARD ,"   Captain's log, supplemental: We   have completed emergency   evacuation of four Talarians   -- and one human. How this young   man found himself in the custody   of these aliens remains a mystery.",5    INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+31,BEVERLY,"   It's Jono, right? Is that what   I heard them call you?",5    INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+32,BEVERLY,   I'm Doctor Crusher. I'm examining   you for radiation injuries. It   won't hurt.       I have a son not much older than   you. Maybe you'd like to meet   him.,5    INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+33,BEVERLY,"       Well, Jono... you seem to have   escaped radiation damage. Pretty   lucky.    (reacting to something     on the tricorder)   How did this happen -- ?",5    INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+34,BEVERLY,   What is it?,5    INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+35,TROI,   He's -- terrified.,5    INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+36,BEVERLY,"   They all just started up,   Captain.",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+37,PICARD,"   May I have your attention, please?",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+38,PICARD,   Please -- may I have your   attention?,6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+39,PICARD,   Stop that immediately!,6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+40,PICARD,"   Well. That's better. Now, what's   your name, young man?",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+41,TROI,"   He won't talk, Captain. We   haven't been able to get through   to him.",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+42,JONO,   Captain -- ?,6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+43,JONO,"   Captain... I am Jono. Take me   home, to my Captain. Take me home   to Endar!",6A   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+44,BEVERLY,   He managed to escape radiation   trauma... but his scans showed   something else...,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+45,PICARD,   What?,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+46,BEVERLY,   Two previously fractured ribs...   a broken arm... a low-grade   concussion. There may be   neurological impairment... I'll   have to examine him further. Jean   Luc -- the Talarians have always   been ruthless to their enemies...   I think there's a real possibility   they may have brutalized the   child.,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+47,PICARD,   Isn't it possible he was injured   prior to his captivity?,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+48,BEVERLY,   Not likely. He's been with them   a long time... long enough to   assimilate their cultural   traits... and calcium trace   patterns indicate the injuries   occurred during the past seven   years.,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+49,PICARD,       But if they have... abused the   boy... why would he devoutly wish   to return to them?,7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+50,BEVERLY,"   That's not uncommon. It was   identified centuries ago as the   ""Stockholm syndrome.""",7    INT. BEVERLY'S OFFICE - MINUTES LATER,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+51,PICARD,   Now what?,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+52,TROI,   I suggested he take off his   gloves... Suddenly he went out   of control.,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+53,BEVERLY,"       Security, we need some assistance   in Sickbay...",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+54,WORF,"   Acknowledged, Doctor.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+55,PICARD,   Jono -- !,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+56,JONO,   She won't leave me alone! She   keeps trying to dissect me!,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+57,PICARD,   She was trying to help you!,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+58,JONO,   I don't want her help! All I want   is to be with my brothers! Send   us back to Captain Endar!,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+59,PICARD,   Jono -- I want you to stop this   immediately!,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+60,JONO,"   Yes, Captain.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+61,PICARD,"   That's better. Now, if we're to   accomplish anything --",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+62,DATA,       Data to Picard.,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+63,PICARD,   Go ahead.,8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+64,DATA,"   We have received a subspace   communique from Starfleet Command,   regarding the young human, sir.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+65,PICARD,"   Very well. Doctor, Counselor...    ",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+66,BEVERLY,"   Mister Worf, escort this young   man to quarters... he's to be   confined there until further   notice.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+67,WORF,"   Yes, Doctor.",8    INT. SICKBAY - JONO - THEIR POV,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+68,JONO,"   Why are you here, Klingon -- with   them? Did they capture you, too?",10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+69,WORF,   They are not my captors. They   are my comrades.,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+70,JONO,   Why do you take orders from a   female?,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+71,WORF,       Doctor Crusher? She is my   superior officer.,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+72,JONO,"       Among my people, a female could   never outrank a man.",10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+73,WORF,"   You are human, and among humans,   females can achieve anything   males can.",10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+74,JONO,   I am not human any more than you   are. I am Talarian.,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+75,WORF,   You are confused...,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+76,WORF,   Stop that!,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+77,JONO,   I will make the B'Nar -- the   mourning -- until I am back with   my brothers!,10A  INT. N.D. QUARTERS,N.D. QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+78,DATA,"   By matching DNA gene types,   Starfleet was able to identify   the young man as Jeremiah Rossa...",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+79,RIKER,       Rossa...,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+80,PICARD,"   ... as in Admiral Rossa, Data?",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+81,DATA,"   She is his grandmother, Captain.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+82,DATA,"   He was born fourteen years ago   on the Federation Colony, Galen   Four. His parents, Connor and   Moira Rossa, were killed in a   border skirmish three years, nine   months later when the colony was   overrun by Talarian forces.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+83,PICARD,   I remember. There were no   survivors.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+84,DATA,   The child was listed as missing   and presumed dead.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+85,RIKER,   I knew another one of the Rossas   who was killed in action at the   Krasner outpost...,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+86,PICARD,"       Tragedy, it seems, follows the   Rossa Family... the Admiral has   lost both her sons...",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+87,BEVERLY,   She'll have something to celebrate   now...,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+88,TROI,   Captain... if Jeremiah were   returned to his family in his   present condition... it would be   a wrenching experience for   everyone. Especially for him.   He needs to re-discover his   identity. He has to make some   connection with his roots.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+89,PICARD,"   I agree. Please take whatever   means you need to accomplish that,   Counselor.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+90,TROI,"   I don't think I can do anything,   Captain.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+91,PICARD,   Why not?,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+92,BEVERLY,   Troi's right. It's very clear   that the boy does not respond well   to women.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+93,DATA,   The Talarians are a rigidly   patriarchical society.,13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+94,TROI,"   Jeremiah needs to build a   relationship with a man... a   father figure... with whom he can   explore his origins... and I think   it should be you, Captain.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+95,PICARD,"       Oh, no, Counselor! I don't think   so. He needs someone who is --   trained in these things.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+96,TROI,"   But you are the only person on   board to whom he has shown any   connection. If Jeremiah is to   find his -- humanity -- then you   are the only one who can help him.   It's up to you, Captain.",13A  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+97,PICARD,   Jono... why do you make that   noise?,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+98,JONO,   It is the custom of my people when   they are in distress.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+99,PICARD,   Is it not also the custom of your   people to listen to the wishes   of their Captain?,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+100,JONO,   Yes.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+101,PICARD,"   Then, as Captain of the Starship   Enterprise, I ask you not to make   that sound.",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+102,JONO,"       Yes, sir.",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+103,PICARD,"   Good. Well. Now that we have   that cleared up...       Let's... get acquainted, shall   we?",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+104,PICARD,"       What do you think of your   quarters? I know it's a bit --   sterile. But if there's anything   you'd like... pictures, perhaps,   or games...",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+105,JONO,   This is a cage. I am still your   captive.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+106,PICARD,   Not at all. I thought you would   be comfortable here --,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+107,JONO,   Are you going to return me to my   Captain?,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+108,PICARD,       We will rendezvous with the   warship Q'maire at   Oh-seven-forty. We are   preparing to transfer the   Talarians to Captain Endar.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+109,JONO,   Including me?,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+110,PICARD,   We will... discuss... your   situation with Captain Endar.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+111,JONO,   I don't like this place.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+112,PICARD,"   Well, we can find other quarters.   ",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+113,JONO,   I have always lived with my   Captain.,14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+114,PICARD,"   Ah. Yes, well... that won't work,   here.",14   INT. N.D. LIVING QUARTERS - A LITTLE LATER,N.D. LIVING QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+115,PICARD,   I'm sure you'll see... there's   nothing here that would appeal   to a young person.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+116,PICARD,"   Put that down, please.",17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+117,JONO,   It's Klingon.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+118,PICARD,   Yes. Put it back where you got   it.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+119,PICARD,"   Well. Here we are, eh, Jono?",17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+120,PICARD,   I notice you haven't taken off   your gloves...,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+121,JONO,   Not here.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+122,PICARD,   Why not?,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+123,JONO,   So that I don't have to touch an   alien.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+124,PICARD,"   Jono... your Captain, Endar? Has   he ever hurt you?       Inflicted pain?",17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+125,JONO,       Pain is not a consideration.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+126,PICARD,   Then he has.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+127,JONO,   I did not say that. Can't you   understand? Pain is not what   matters. Passing the tests is   everything.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+128,PICARD,   Is that what they are? Tests of   pain?,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+129,JONO,       You don't understand anything.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+130,PICARD,   It's true I don't fully understand   Talarians. But... you are not   Talarian.,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+131,JONO,   I will not listen to this! I will   not listen to your lies! Take   me back to my cell! I'd rather   be in prison than have you try   to poison my mind!,17   INT. PICARD'S QUARTERS - MINUTES LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+132,PICARD,   Come.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+133,TROI,"   You wanted to see me, Captain?",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+134,PICARD,"   Ah, yes, Counselor. Please --   sit down.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+135,PICARD,"   You may not be aware of this, but   I have never been particularly   comfortable around children.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+136,TROI,   Really?,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+137,PICARD,"   For some reason, they just don't   seem to respond to me.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+138,TROI,   I see...,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+139,PICARD,"   Frankly, I think my time is best   served carrying out the duties   and responsibilities of a   Starfleet Captain.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+140,TROI,   Seldom have I heard an explanation   so well rehearsed.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+141,PICARD,"   All right, Counselor... I just   don't think I'm the right person   for this job.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+142,TROI,"   Strange, isn't it? You'll travel   light years, dodge asteroid   storms, brave hostile aliens...   but when asked to assume a   parental role, you cringe. Why   do you suppose that is?",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+143,PICARD,   I'm not cringing... I am simply   acknowledging my limitations.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+144,TROI,"       When you were a child, did you   have many friends? Other children   you played with?",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+145,PICARD,"   No, but I don't think that has   anything to do with anything...       Perhaps it's because... no, this   is foolish. What does it matter?",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+146,TROI,   What were you going to say?,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+147,PICARD,   Just that... ever since I was a   child... I knew exactly what I   wanted -- to be a member of   Starfleet. Nothing else mattered   to me. Virtually my entire youth   was spent pursuing that goal.   In fact...       I think... that I may have skipped   my childhood.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+148,TROI,"   You know, Captain, almost no one   is born being a good parent.     ",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+149,TROI ,"   Most people simply have to muddle   through it, doing the best job   they can.",18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+150,PICARD,   And... that's what I'm going to   have to do?,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+151,TROI,   Yes. And you might be surprised   at how good you could be.,18   INT. CAPTAIN'S READY ROOM - LATER,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+152,PICARD,"   Computer, turn off that noise!",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+153,PICARD,"   Computer, what was that?",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+154,COMPUTER,"   The ""Alba Ra""... a contemporary   Talarian musical form.",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+155,PICARD,   Jono? Where are you?,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+156,JONO,   Here.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+157,JONO,   You turned off my music.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+158,PICARD,"   Yes, I certainly did, and I expect   it to stay turned off. Jono,   would you come down from there?",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+159,PICARD,       I see you've made yourself at   home.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+160,JONO,       I cannot rest on your beds. They   hurt my back.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+161,PICARD,"   Right... Jono, I want to show you   something.",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+162,PICARD,   Those are Connor and Moira Rossa   -- your parents. That baby is   you... Jeremiah Rossa.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+163,JONO,       My name is Jono.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+164,PICARD,"   You were born Jeremiah, on Galen   Four. Your colony was   destroyed, later, during a border   skirmish.",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+165,PICARD,   You knew how to laugh once.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+166,PICARD,"   Do you remember any of that? Your   parents, your home?",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+167,JONO,   No. I know that Endar rescued   me. He told me so.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+168,PICARD,"   Jono, your parents were killed   by Talarians...",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+169,JONO,       It was war. Death is part of war.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+170,RIKER,   Captain?,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+171,PICARD,"   What is it, Number One?",20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+172,RIKER,   We have visual contact with the   warship Q'Maire.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+173,JONO,   Endar...,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+174,PICARD,       You stay put.       I'm on my way.,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+175,MOIRA,   Jeremiah... Jeremiah!,20   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+176,PICARD,"   Status, Mister Data.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+177,DATA,"   Q'maire at station, holding steady   at bearing zero-one-three, mark   zero-one-five. Distance   five-zero-six kilometers.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+178,PICARD,   Are its weapons systems active?,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+179,DATA,   Negative.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+180,WORF,   Captain Endar requests an open   channel.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+181,PICARD,   On screen.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+182,ENDAR,   I am Captain Endar of the warship   Q'Maire. To whom am I speaking?,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+183,PICARD,   Captain Jean-Luc Picard of the   Federation Starship Enterprise.   We have rescued four crew members   from your observation craft. They   have received medical attention   and are ready for transport.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+184,ENDAR,   Your actions are duly noted. We   will forward coordinates for   immediate transport.,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+185,RIKER,"       You're welcome, I'm sure.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+186,PICARD,"   One moment, Captain. We have also   discovered a human among your   crew.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+187,ENDAR,       Jono!,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+188,PICARD,"   Actually, his name is Jeremiah   -- Jeremiah Rossa.",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+189,ENDAR,   What is his condition? Is he   injured?,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+190,PICARD,   He was not wounded in the   mishap...,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+191,ENDAR,   A blessing...,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+192,PICARD,   But as a representative of the   Federation I demand an   explanation. Why has this child   been held in your custody all   these years?,22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+193,ENDAR,"   No explanation is warranted,   Captain. He is my son!",22   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+194,PICARD ,"   Captain's log, supplemental:   Endar's claim that Jeremiah Rossa   is his son is clearly   unacceptable.",23   EXT. SPACE - ENTERPRISE AND Q'MAIRE (OPTICAL),SPACE - ENTERPRISE AND Q'MAIRE,EXT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+195,PICARD ,"   However, to avoid escalating   tensions, I have extended an   invitation to the Talarian leader   to come aboard the Enterprise so   that we may address the issue   face-to-face.",24   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+196,ENDAR,   Yes... I was in charge of the   force that repelled the   trespassers on Galen Four.       I must say your Federation troops   fought tenaciously.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+197,PICARD,   Among them Connor and Moira Rossa.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+198,ENDAR,"   I suppose. After the battle, I   found this squalling child,   huddled by the body of a young   woman. His mother, presumably.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+199,PICARD,"   And so, you -- kidnapped him.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+200,ENDAR,"   A harsh term, Captain. I rescued   the child. There was almost no   one left alive on Galen Four...   was I to leave him screaming by   his mother's body?",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+201,PICARD,   You should have notified   Federation authorities. To   conceal him was a clear violation   of our agreement.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+202,ENDAR,   I took him in accordance with   my peoples' traditions.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+203,PICARD,   What... tradition... is it that   empowered you to capture a   helpless child?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+204,ENDAR,   I lost my son at the hands of   humans during the conflict over   Castal One. Talarian custom   allows me to claim the son of a   slain enemy.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+205,PICARD,"       I understand your tradition,   Endar. May I ask... does it   extend also to brutalizing the   surrogate son?",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+206,ENDAR,   What are you talking about?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+207,PICARD,   Our medical officer found evidence   of injuries so severe that they   might even be considered   torture...,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+208,ENDAR,   No! I have never harmed Jono!,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+209,PICARD,   Then explain the fractured ribs!   The concussion... the broken   arm...,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+210,ENDAR,   Youth.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+211,ENDAR,"   Have you ever been a father,   Picard? Have you ever had a son   desperately try to win your   approval? Your respect?",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+212,ENDAR,"   Jono broke his ribs riding a   T'stayan -- six hooves, a very   powerful animal. The arm? In   a contest with other youths. He   endured the pain -- and won the   competition.       He will be a great warrior one   day.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+213,PICARD,   Doesn't he deserve to become more   than that?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+214,PICARD,"   His heritage is human, Endar.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+215,ENDAR,   A heritage long since forgotten.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+216,PICARD,"       Captain Endar, while on board,   you are welcome to supervise the   return of your crew. But I cannot   allow Jeremiah Rossa to be   returned to your custody. His   true family is waiting for him   on Earth.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+217,ENDAR,   Then under no circumstances will   I allow your ship to leave our   territory.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+218,PICARD,   I have already reported our   position and the nature of this   violation to Starfleet.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+219,ENDAR,   And I have already called our   reserved forces into the sector.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+220,PICARD,       Are you saying you would be   willing to go to war over the boy?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+221,ENDAR,   Would you not for your only son?,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+222,PICARD,   We have been at peace for years.   Let us not rush headlong toward   war.,25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+223,ENDAR,"   Then help me to avoid it!       If you will allow me to see Jono,   it will be clear to you -- I have   been a good father. He has grown   up happy in my keeping.",25   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+224,TROI,   Those were your parents. Do you   remember them?,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+225,JONO,   That was long ago. Endar is my   father.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+226,TROI,   And who is your mother?,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+227,JONO,   We don't have mothers. Females   are only for mating. And work.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+228,TROI,   And the men? What is their   purpose?,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+229,JONO,   Passing the tests. Becoming   strong.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+230,TROI,"   The tests... endurance, pain,   determination... all so that you   can excel at making war?",26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+231,JONO,"       Females understand nothing.       Life is not easy on our planet.   If we do not test ourselves   constantly, we become weak -- and   the weak die quickly!",26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+232,TROI,   And the females? Surely they are   weak.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+233,JONO,   Of course. But we protect them.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+234,TROI,   I see.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+235,TROI,   And when you look at this   picture... of you and the human   female who was your mother...   how do you feel about her?,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+236,PICARD,   Then you think it would be unwise   to let Endar see Jono.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+237,BEVERLY,   I think it's dangerous. Abusers   can have subtle but powerful   influence over their victims.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+238,PICARD,"       I'm not convinced he was abused,   Doctor. I've talked to the man,   and if I am any judge of   character... I'd say he deeply   cares about the boy's welfare.",31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+239,BEVERLY,"   Captain, we learned long ago   always to err on the side of   protecting the child. I think   Endar should be kept away from   Jono.",31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+240,TROI,"   I'm not sure I agree, Captain.",31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+241,TROI,"   I sense... awakening memories in   the boy... this is a very fragile   time for Jono, and if we send away   the man he calls ""father"" without   even letting them see each other   -- how will we ever gain his   trust?",31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+242,PICARD,   Yes... There is also something   else we should keep in mind. We   are deep in Talarian territory.   A semblance of diplomacy is called   for.       I shall allow the visit.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+243,BEVERLY,   All I ask... is that the visit   be supervised. Don't let them   be alone together.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+244,PICARD,   Agreed.,31   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+245,JONO,   Endar!,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+246,ENDAR,   Jono... my son...,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+247,ENDAR,   Have they treated you well?,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+248,JONO,"   Yes, Captain. Except...",32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+249,ENDAR,   Except?,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+250,JONO,   I was forbidden to make the   B'Nar.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+251,ENDAR,"   It's all right. I know that you   mourned in your heart.       Well, Jono... what do you think   of these humans?",32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+252,JONO,   They... they look like me.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+253,ENDAR,"   They want to keep you, you know.",32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+254,JONO,   I know.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+255,ENDAR,   You are of the age of decision.   What is your choice?,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+256,ENDAR,   Well? Do you want to stay?,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+257,JONO,"   No, of course not.",32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+258,ENDAR,   Then you shall not.       I am going back to the Q'Maire.   I will leave the humans with a   choice. If they do not make the   one we know is right... it may   lead to war.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+259,ENDAR,   You may die.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+260,JONO,   I am ready to die.,32   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+261,WORF,"   Captain, sensors indicate two   warships approaching from opposite   directions along the border.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+262,PICARD,   Their offensive potential?,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+263,DATA,"   Talarian warships are limited to   neutral particle weapons,   high-energy X-ray lasers and   merculite rockets. No match for   the Enterprise, Captain.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+264,PICARD,   The last thing I want is to be   forced into destroying one of   their ships.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+265,RIKER,   They won't back off. They've   been willing to fight to the   death in past encounters.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+266,PICARD,       The lines are being drawn... all   this for a chosen son.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+267,WORF,"   Is it worth it, Captain? To go   to war -- over a child?",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+268,BEVERLY,"   You might not ask that,   Lieutenant, if he were your   child.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+269,PICARD,   There must be a way to avoid   this...,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+270,TROI,   If we can just reach Jono... help   him to make some connection with   his origins... then he may choose   to come with us.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+271,RIKER,   Do you really think Endar would   go along with that?,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+272,DATA,"   If Endar respects Talarian custom,   he may have to.       According to their tradition, a   male child of fourteen has reached   the age of decision. They undergo   a ceremony of initiation and after   that have the freedom to make   their own choices.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+273,PICARD,       Endar's entire claim on Jono is   based on Talarian custom... he'd   have a hard time backing away from   it now...,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+274,WORF,   Captain -- there's a subspace   communication from Starfleet   Command.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+275,PICARD,   On screen.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+276,WORF,"   Sir, the message is for Jeremiah   Rossa.",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+277,PICARD,   Have the boy brought to my Ready   Room.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+278,CONNAUGHT,"   Jeremiah... my name is Connaught   Rossa. I am your father's mother.   I wish we could talk in person,   but that will have to wait. When   I heard the miracle that you were   alive, I wanted to reach out to   you as soon as possible.       I find myself wondering what you   look like... and all I can do is   imagine your father at your age.     ",36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+279,CONNAUGHT ,"   You come from a family that would   make you proud. Many of them have   given their lives to bring peace   to the galaxy. You are the last   of the Rossas. I am so very   thankful that you have been given   back to us, to carry on the line.       Your grandfather and I will greet   you with all the love in our   hearts. Have a safe journey home,   Jeremiah.",36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+280,JONO,   She wears a Starfleet uniform.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+281,PICARD,   Yes.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+282,JONO,   What is her rank?,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+283,PICARD,   She is an Admiral.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+284,JONO,   She outranks you.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+285,PICARD,   Yes.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+286,JONO,"   If I were home now, I would go   to the brae, and run along the   river... run as fast as I could!",36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+287,PICARD,   Jono...,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+288,JONO,"   I can't do any of the things that   calm me here! You won't let me   have my music, you won't let me   make the B'Nar! I feel if I have   to hold still much longer I will   die!",36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+289,PICARD,   Jono -- let me show you what I   do when I get those feelings.,36   INT. READY ROOM - MINUTES LATER (OPTICAL),READY ROOM - MINUTES LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+290,PICARD,       I serve from here... like this...       And you must hit it back before   it bounces twice. Let's try it.,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+291,PICARD,   Not bad.,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+292,JONO,   I win at all the games.,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+293,PICARD,"   I can believe it. Well, shall   we give this a try?",37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+294,PICARD,   Jono? You all right?,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+295,JONO,   Fine.,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+296,CONNOR,   Take him and get to cover!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+297,MOIRA,   I can't leave you!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+298,PICARD,   Jono -- what is it?!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+299,CONNOR,   Take Jeremiah... get to the   forest! I'll hold them off!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+300,MOIRA,"   No, come with us!",37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+301,CONNOR,   Go!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+302,JONO,       Mama...,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+303,MOIRA,   Jeremiah... Jeremiah... This way!,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+304,JONO,   She was... all red. I cried...   but she didn't answer me...,37   INT. RACQUETBALL COURT - LATER (OPTICAL),RACQUETBALL COURT - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+305,JONO,"   ... she used to sing to me... I   don't remember the melody, just   the sound of her voice...",41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+306,JONO,"   Before I remembered these things,   I was strong. Now...    ",41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+307,JONO,   I have endured much pain. But   this... I do not like.,41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+308,PICARD,"   It is part of being human, Jono.   But as deeply as you can feel hurt   -- you can also feel joy.",41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+309,JONO,   I do not think so. I think I will   always feel like this.,41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+310,PICARD,   Jono -- are you tired?,41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+311,JONO,"   Yes. But I do not want to rest.   I think --    (looks up, almost     surprised)   -- I think I am hungry.",41   INT. PICARD'S QUARTERS - LATER,PICARD'S QUARTERS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+312,RIKER,"   Well, how was racquetball?",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+313,PICARD,   He gave me quite a game for his   first time out.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+314,JONO,"   I look forward to the next time,   Captain.",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+315,PICARD,"   I'm sure you do. sit down, Jono.   What would you like?",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+316,JONO,   What's that?,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+317,WESLEY,   That's called a banana split and   it's maybe the best thing there   is in the universe.       Here -- give it a try.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+318,DATA,   It is called a spoon.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+319,WESLEY,   Go ahead.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+320,JONO,   Forgive me --,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+321,DATA,   I fail to see why this is amusing.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+322,RIKER,"       Check your data banks on humor...   subheading ""Slapstick""...",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+323,DATA,"       Comedy stressing farce and   horseplay... ah, this no doubt   is a variation on... ""Pie in the   Face""...",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+324,RIKER,   Now do you see why it's funny?,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+325,DATA,"   No, I do not. But I will take   your word. It is very amusing.",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+326,WESLEY,"   Let's start over. A fresh banana   split for me, one for my friend   here.",42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+327,PICARD,   Look at him. He's like a   different person.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+328,RIKER,   Who would ever have thought he   could laugh out loud like that?,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+329,PICARD,   And half an hour ago he was crying   in my arms like a baby.,42   INT. TEN FORWARD - MINUTES LATER,TEN FORWARD,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+330,BEVERLY,   Two bleeders... single-plane   penetration...       I need the autosuture over here!,49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+331,BEVERLY,       It looks like the blade hit the   sternum and was deflected... it   could have been a lot worse.,49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+332,PICARD,   Then it wasn't a dream...,49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+333,BEVERLY,   I'm afraid not...,49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+334,BEVERLY,   No vital organs were pierced...   no major arteries...,49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+335,PICARD,   Where is the boy now?,49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+336,BEVERLY,   Worf has him in security. Hold   still...,49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+337,PICARD,"   I want to see him. Here, now.",49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+338,BEVERLY,       He'll wait until I'm finished.,49   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+339,WORF,"   Talarian warships converging,   Commander, range five hundred   kilometers.",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+340,RIKER,   On screen.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+341,RIKER,"   Any communication, Lieutenant   Worf?",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+342,WORF,"   No, sir. We have an open channel.",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+343,WESLEY,"   Commander, the warships' closing   velocities are decreasing...   staggered approach vectors   bearing zero, one hundred twenty,   and two hundred forty degrees.",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+344,RIKER,       Riker to La Forge.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+345,GEORDI,"   La Forge here, sir.",55A  INT. ENGINEERING - CONTINUOUS - INTERCUTTING,ENGINEERING,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+346,RIKER,"   Geordi, the Talarians are moving   into attack posture. Classic   triangular envelopment.",55A  INT. ENGINEERING - CONTINUOUS - INTERCUTTING,ENGINEERING,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+347,GEORDI,"   I've tapped the impulse engines   for additional power to shields,   Commander. We're ready.",55A  INT. ENGINEERING - CONTINUOUS - INTERCUTTING,ENGINEERING,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+348,WORF,"   Commander, Captain of the Q'Maire   requests communication.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+349,RIKER,"   Well, here we go. On screen.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+350,ENDAR,   Captain Picard... have you made   your decision?,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+351,RIKER,"   This is Commander Riker. What   are your intentions, Captain   Endar?",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+352,ENDAR,       Where is Captain Picard?,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+353,RIKER,       He has been injured. I am in   command now.,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+354,ENDAR,   Very well. Please prepare my   son for immediate transport.,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+355,RIKER,"   I'm afraid that's not possible.   Last night, Jono attacked Captain   Picard and tried to murder him.   We are holding him in custody.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+356,ENDAR,"   If you had returned him with the   others, this would never have   happened! I hold you responsible   for this incident.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+357,RIKER,"   He'll have to come back with us   now, Endar. It will be up to   Starfleet to decide the   consequences.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+358,ENDAR,"   I do not accept that decision.   I repeat, you will prepare my son   for transport. If he is not on   board in five minutes, you will   suffer the consequences.",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+359,RIKER,   Red alert.,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+360,WORF,   Talarian vessels routing power   to forward rockets...,55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+361,RIKER,"       Ready all weapons, Mister Worf...",55B  INT. MAIN BRIDGE - CONTINUOUS (OPTICAL),MAIN BRIDGE - CONTINUOUS,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+362,PICARD,   Jono... why did you do it?,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+363,JONO,   That doesn't matter.,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+364,PICARD,   I think it does. It matters to   me.,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+365,JONO,   What matters is that I have   attacked a Captain. I am ready   to be put to death.,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+366,PICARD,   You think you are to be killed?,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+367,JONO,   To attack a superior is the worst   offense. I will die at your   hands.,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+368,PICARD,"   Jono, you aren't going to die at   my hands or anyone else's.",56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+369,JONO,   But... I committed a terrible   crime...,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+370,PICARD,   What I want to know is why? You   seemed so happy just a few hours   ago...,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+371,JONO,   I was.,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+372,JONO,   But then... I thought about my   father. I felt like I was   betraying him.,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+373,JONO,       I'd be throwing away all that   he's given me... all that I   learned from him... my home...   running along the river... playing   in the games... sharing victory   with my brothers...       ... all the things that are part   of my life.,56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+374,JONO,"   As I grew closer to... you... I   knew it meant leaving more and   more of that life behind.   Forgive me, Captain -- I could   not allow myself to do that.",56   INT. SICKBAY,SICKBAY,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+375,WORF,"   Q'Maire is requesting   communication on a secure   channel, Commander.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+376,RIKER,   On screen.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+377,ENDAR,"   Commander Riker, you have failed   to transport my son aboard the   Q'Maire.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+378,RIKER,   Our position has not changed.   We are returning him to Starfleet.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+379,ENDAR,   I regret your stubbornness. Much   will be lost.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+380,PICARD ,"   One moment, Captain...",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+381,PICARD,"   Captain Endar, last night Jono   attacked me with a dagger.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+382,ENDAR,   Which he could not have done had   he been returned to me with the   others!,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+383,PICARD,       There was a crime committed on   board this ship... but it was not   Jono's -- it was mine.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+384,PICARD,"       When we found Jono, it seemed   so clear what had to be done.   We knew if he could only be   persuaded to make the decision   to stay... you would most likely   let him. So with the best of   intentions, we tried to convince   him... and, in so doing,   thoroughly failed to listen...   to his feelings, his needs.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+385,PICARD,"       That was the crime, and it has   taken a huge toll on a strong   and noble young man. It must be   rectified.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+386,PICARD,"       Jono will return home -- to the   only home he has ever known. To   the father that he loves. To you,   Endar.",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+387,ENDAR,"   Thank you, Captain...",57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+388,PICARD,   Please transmit coordinates for   his immediate transport.,57   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+389,PICARD,"   Goodbye, Jono.",60   INT. TRANSPORTER ROOM - LATER (OPTICAL),TRANSPORTER ROOM - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+390,JONO,"   Goodbye, Captain.",60   INT. TRANSPORTER ROOM - LATER (OPTICAL),TRANSPORTER ROOM - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt
+391,JONO,       Thank you.,60   INT. TRANSPORTER ROOM - LATER (OPTICAL),TRANSPORTER ROOM - LATER,INT.,Suddenly Human,1990-07-09,The Next Generation,176.txt

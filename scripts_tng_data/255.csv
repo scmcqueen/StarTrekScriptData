@@ -1,450 +1,450 @@
-,character,quote,scene,location,view,episode,date,series
-0,RIKER,       Geordi... Have you found it yet?,1    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Interface""",1993-07-14,The Next Generation
-1,GEORDI,   Not yet...,1    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Interface""",1993-07-14,The Next Generation
-2,GEORDI,"       Starting to get fumes... Ammonia,   fluorine, potassium cyanide...",1    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Interface""",1993-07-14,The Next Generation
-3,GEORDI,       I can feel the heat from here.,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-4,GEORDI,       There it is!,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-5,RIKER,   How far?,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-6,GEORDI,   About ten meters. Along the ODN   line. It's hot -- over two   thousand degrees.       I'm going in.,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-7,RIKER,"   Geordi, wait.",3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-8,GEORDI,   We're okay... I've activated the   emergency supression system.,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-9,GEORDI,       It's under control.,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-10,BEVERLY,       All his vital functions are   completely normal.,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-11,DATA,   The interface unit is operating   within expected parameters.,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-12,RIKER,   Why did he start coughing when he   went through the gasses?,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-13,BEVERLY,       Psychosomatic response.,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-14,GEORDI,   I feel like I'm actually here...   I mean there -- in the Jefferies   tube. I saw the smoke and I   couldn't help coughing.,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-15,DATA,   No one else has reported so   complete a sensory experience.,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-16,BEVERLY,   The interface is perfect for   Geordi because his VISOR inputs   allow the probe to transmit   information directly into his   cerebral cortex.,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-17,RIKER,   It looks like this is going to   work. Let's get the probe out of   the Jefferies tube and into the   launch bay before we reach Marijne   Seven.,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-18,GEORDI,   Will do...,4    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-19,GEORDI,   Something's wrong. I'm having   trouble controlling my left leg.,5    INT. JEFFERIES TUBE - CONTINUOUS,JEFFERIES TUBE,INT.,"""Interface""",1993-07-14,The Next Generation
-20,RIKER,       What is it?,6    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-21,BEVERLY,"   The probe is designed to respond   to the movements Geordi intends to   make -- when his brain sends a   message to move his leg, the   interface moves the probe instead.",6    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-22,DATA,   Apparently the gain on the tactile   sensors is too low; I will   increase the input.,6    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-23,GEORDI,   There it goes.,6    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-24,GEORDI,   I'm on my way down.,7    INT. JEFFERIES TUBE - CONTINUOUS,JEFFERIES TUBE,INT.,"""Interface""",1993-07-14,The Next Generation
-25,RIKER,   Why the body-suit?,7A   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-26,DATA,   It provides tactile sensations so   that Geordi will feel as if he is   in the same environment as the   probe.,7A   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-27,BEVERLY,   What's wrong?,8    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-28,GEORDI,   Nothing...,8    INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-29,GEORDI,       I just saw my reflection in a   panel.       I forgot what a handsome guy I am.,9    INT. ENGINEERING - CONTINUOUS (OPTICAL),ENGINEERING - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-30,PICARD ,"   Captain's Log, Stardate 47215.5.   We are responding to a distress   call from the science vessel   Raman, which is apparently trapped   inside the turbulent atmosphere of   an unusual gas giant planet. We   will use an experimental interface   probe in our attempt to rescue it.",10   EXT. ENTERPRISE (OPTICAL),ENTERPRISE,EXT.,"""Interface""",1993-07-14,The Next Generation
-31,DATA,"   I have reviewed the vessel's   mission plans. The Raman was to   descend to the lower atmosphere,   eleven thousand kilometers below   its current position...",11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-32,DATA,"       The crew was to sample the   atmosphere at that level, and then   return to a safer orbit.",11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-33,GEORDI,"   Something must have happened down   there. Maybe the shields failed,   or they had an inversion reaction   in the nacelles.",11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-34,PICARD,   Any life signs?,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-35,GEORDI,   Our bio-sensors are useless --   there's too much interference in   the atmosphere.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-36,RIKER,   The crew might still be alive.   But we'll never be able to tell   from up here.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-37,PICARD,   Will the probe be able to transmit   through the interference?,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-38,DATA,   The probe sends information via a   focused particle beam that should   be able to cut through the   interference.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-39,GEORDI,   But we may have to operate the   interface at near tolerance   levels.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-40,PICARD,   Will your nervous system be able   to handle that much sensory input?,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-41,GEORDI,       We've tested the interface at up   to seventy percent of tolerance.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-42,RIKER,   There shouldn't be a problem going   higher -- the safety override will   kick in at ninety-eight percent   tolerance and disengage the   interface.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-43,WORF,"   Captain, I am receiving a   transmission from Starfleet   Command -- Admiral Holt.",11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-44,PICARD,   In my Ready Room.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-45,PICARD,       The seven people on that ship are   our first priority. Is the probe   ready for launch?,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-46,DATA,"   Yes, Sir.",11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-47,PICARD,"   Send it directly to the aft   section of the Raman, through the   secondary air lock. That'll put   it one bulkhead away from the   Bridge.",11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-48,GEORDI,   I'll interface with the probe as   soon as it's in place and take it   in the rest of the way.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-49,PICARD,   Make it so.,11   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-50,PICARD,   Onscreen.,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-51,PICARD,"       Hello, Marcus.",14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-52,ADMIRAL HOLT,   Jean-Luc.,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-53,PICARD,   How's life on DS-Three?,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-54,ADMIRAL HOLT,   We're hosting this year's palio.   The Ferengi have already been   accused of trying to bribe the   Breen pilot into throwing the   race...,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-55,PICARD,   Nothing unusual about that.,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-56,ADMIRAL HOLT,       Nothing at all...,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-57,ADMIRAL HOLT,"       I wish I could say I was just   calling to catch up on things.       Nine days ago, the Hera left here   on a routine courier mission. We   were in contact with them for five   of those days. Then the ship   disappeared without a trace.",14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-58,PICARD,   The Hera?,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-59,ADMIRAL HOLT,   I'm afraid so.,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-60,ADMIRAL HOLT,"   The Excelsior and the Noble have   spent the last seventy-two hours   retracing its course. Nothing.   I'm going to keep them at it for   seventy-two more.       But to be honest, I don't think   another week would make any   difference.",14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-61,PICARD,   I'll tell Commander La Forge...,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-62,PICARD,"   Mister Data, I need a word with   Commander La Forge.",15   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-63,DATA,"   Yes, Sir.       I will be on the Bridge.",15   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-64,PICARD,   I've just spoken to Starfleet.       The Hera is missing.,15   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-65,GEORDI,   Missing... ?,15   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-66,GEORDI,   What about my mother... ?,15   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-67,PICARD,   Captain La Forge has disappeared   along with the rest of her crew...,15   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-68,SILVA LA FORGE,   -- I saw your father last week and   your sister about ten days before   that. I decided I missed my   favorite son...,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-69,GEORDI,"       Your only son, Mom...",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-70,SILVA LA FORGE,"       You're going to have to see the   Hera again. We've got a lot of   new faces on board. Including a   chief engineer who juices up the   nacelles every chance she gets.   I think she's the best technician   in the fleet.       Okay, second best.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-71,GEORDI,   Come in...,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-72,RIKER,   I didn't mean to interrupt.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-73,GEORDI,   Don't worry about it.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-74,SILVA LA FORGE,   Maybe you should meet her. We're   going to be in the same sector   next week. Take a shuttle over   and I'll introduce you.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-75,GEORDI,       Mom's always trying to find me a   wife.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-76,SILVA LA FORGE,"   But if you're too busy, I'll see   you at your father's birthday   party. Remember, if you talk to   him -- it's a surprise.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-77,GEORDI,       This came in about three weeks   ago.       I never got back to her...,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-78,RIKER,"       Geordi, the probe has entered the   planet's atmosphere. I'm ready to   move it inside the ship.       If you want to take a couple of   days off, I'll run the interface.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-79,GEORDI,   The interface is calibrated   specifically for my VISOR inputs.   You'd need at least ten hours to   convert it. Those crewmen down   there can't wait...,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-80,RIKER,"   The interface doesn't have to be   fully compatible. I could use it   right now. I wouldn't have the   control you'd have, but it would   still work.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-81,GEORDI,"   Forget it. I'm the best one for   the job, and there's no reason not   to go ahead as planned.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-82,RIKER,       The Hera is reason enough.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-83,GEORDI,"   The Hera is missing. That's all.   Until I hear something more, my   mother might just as well have   taken the crew on an unscheduled   holiday.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-84,GEORDI,       Let's go.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-85,RIKER,"   Sir, the probe is through the   airlock and in position aboard the   Raman.",17   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-86,PICARD,   Picard to Commander Data. Report.,17   INT. BRIDGE,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-87,DATA,       We are ready to bring the   interface on line.,18   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-88,PICARD,   Proceed.,18   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-89,DATA,   Activating the remote sensors...,18   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-90,DATA,       Initiating interface... now.,18   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-91,BEVERLY,"       Vital signs normal... How do you   feel, Geordi?",18   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-92,GEORDI,   Fine...,18   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-93,DATA,   Do you have visual contact?,18   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-94,GEORDI,   Not yet...,18   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-95,GEORDI,"   Increase the input signal, Data.   I'm not seeing anything...",20   INT. SCIENCE SHIP CORRIDOR - GEORDI'S POV (OPTICAL),SCIENCE SHIP CORRIDOR - GEORDI'S POV,INT.,"""Interface""",1993-07-14,The Next Generation
-96,DATA,   Acknowledged.,20   INT. SCIENCE SHIP CORRIDOR - GEORDI'S POV (OPTICAL),SCIENCE SHIP CORRIDOR - GEORDI'S POV,INT.,"""Interface""",1993-07-14,The Next Generation
-97,GEORDI,   I can see. But no colors.,21   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-98,DATA,   Increasing signal strength of   seventy-five percent of tolerance.,21   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-99,GEORDI,   That's better.,22   INT. SCIENCE SHIP CORRIDOR - GEORDI'S POV (OPTICAL),SCIENCE SHIP CORRIDOR - GEORDI'S POV,INT.,"""Interface""",1993-07-14,The Next Generation
-100,BEVERLY,   Your pulse has gone up...,22   INT. SCIENCE SHIP CORRIDOR - GEORDI'S POV (OPTICAL),SCIENCE SHIP CORRIDOR - GEORDI'S POV,INT.,"""Interface""",1993-07-14,The Next Generation
-101,BEVERLY,   It might take your nervous system   a little while to get used to this   input level.,24   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-102,GEORDI,"   I'm excited, that's all. This is   like being on a roller coaster.",24   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-103,GEORDI,       Or a first date... Everything's   okay.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-104,BEVERLY,"       I'll be the judge of that, Geordi.   If your heart rate goes too high,   we'll disconnect you.",25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-105,GEORDI,   Understood. But don't pull the   plug yet...,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-106,GEORDI,       It's a mess in here. There must   be a hull breach somewhere. I'm   picking up atmospheric gasses   inside the corridor -- methane and   ammonia primarily.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-107,GEORDI,       I'm heading toward the Bridge.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-108,GEORDI,       It's getting worse the closer I   get. The break in the hull might   be on the Bridge itself.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-109,GEORDI,       I found somebody!,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-110,DATA,   What is your position?,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-111,GEORDI,   About twelve meters up the main   corridor! A section of the   bulkhead collapsed on top of him.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-112,GEORDI,       I can't move it. I need more   power to the tractor beams.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,"""Interface""",1993-07-14,The Next Generation
-113,BEVERLY,   Go to eighty percent of tolerance --   no higher.,26   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-114,GEORDI,   He looks pretty bad.,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-115,GEORDI,       He's dead.,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-116,GEORDI,"       Data, the door halfway down the   left corridor... what's it lead   to?",27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-117,DATA,   A magnetic storage bay.,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-118,GEORDI,"       If there was a breach on the   Bridge, that would be the safest   place to go.",27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-119,GEORDI,"       Data, I need a phaser burst. Wide   focus, level four intensity.",27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-120,GEORDI,   I've found them!,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-121,GEORDI,       They're dead... all of them.,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-122,GEORDI,       There's a fire in here...,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-123,BEVERLY,   Data! Disconnect him!,28   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-124,BEVERLY,       What happened?,28   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-125,GEORDI,       I don't know... My hands...,28   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-126,BEVERLY,       They're burned...,28   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-127,PICARD,   How did this happen?,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-128,BEVERLY,   There was some kind of energy   discharge in the interface suit.,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-129,PICARD,   Shouldn't the safety over-rides   have prevented that?,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-130,BEVERLY,   Yes... but I have a theory why   they didn't.,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-131,BEVERLY,   The tolerance levels on the   interface were set extremely high.   I think Geordi's neural response   to the input was so strong that it   created a feedback loop.,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-132,GEORDI,   The sensors that were transmitting   the sensation of heat to my hands   must've overloaded.,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-133,BEVERLY,"   I know it seems hard to believe,   but the probe was sending huge   amounts of sensory data directly   into Geordi's brain. The   tolerance levels on the interface   were set extremely high.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-134,PICARD,"   The Raman's crew is dead. I'd   like to retrieve their vessel, but   not if it means risking Geordi's   safety.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-135,GEORDI,"   If we turn down the sensory input   from the probe, I should be fine.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-136,GEORDI,       Seven people lost their lives down   there... we should at least   retrieve the data they were   collecting. Otherwise their   deaths won't have any meaning.,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-137,PICARD,   Doctor?,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-138,BEVERLY,"   If we operate the interface at   lower input levels, I'd say the   risk is acceptable.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-139,PICARD,   Alright.       Picard to Riker.,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-140,RIKER,"   Riker, here.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-141,PICARD,"   The Raman's crew is dead. I'd   like to retrieve their vessel, but   not if it means risking Geordi's   safety.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-142,GEORDI,"   If we turn down the sensory input   from the probe, I should be fine.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-143,GEORDI,       Seven people lost their lives down   there... we should at least   retrieve the data they were   collecting.,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-144,PICARD,   Doctor?,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-145,BEVERLY,"   If we operate the interface at   lower input levels, I'd say the   risk is acceptable.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-146,PICARD,   Alright.       Picard to Riker.,30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-147,RIKER,"   Riker, here.",30   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-148,PICARD,   I've decided to proceed with the   probe.,31   INT. BRIDGE - AFT SCIENCE STATION,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-149,RIKER,       We'll have to take it into the   Raman's auxiliary control room --   the Bridge is too badly damaged.,31   INT. BRIDGE - AFT SCIENCE STATION,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-150,PICARD,   How long before you can get it   into position?,31   INT. BRIDGE - AFT SCIENCE STATION,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-151,RIKER,   A few hours -- we're going to have   to cut through a bulkhead.,31   INT. BRIDGE - AFT SCIENCE STATION,BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-152,PICARD,   Acknowledged.,32   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-153,BEVERLY,       Looks like you'll have some time   to recuperate.,32   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-154,GEORDI,   There's something I need to do   anyway.,32   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-155,GEORDI,"   How are you, Dad?",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-156,DOCTOR LA FORGE,"   As well as expected, given the   circumstances. Are you okay?",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-157,GEORDI,   Yeah...,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-158,DOCTOR LA FORGE,   I talked to your sister this   morning. She said she'd get in   touch with you in a few days.   Right now she's pretty upset.       The service for the Hera will   probably be on Vulcan -- most of   the crew was from there. But your   sister and I want to have a   private ceremony --,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-159,GEORDI,   -- Dad. Don't you think   everybody's jumping the gun here?     ,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-160,GEORDI ,"   Last I heard, two starships were   still out there looking. They've   found no debris, no residual warp   distortion --",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-161,DOCTOR LA FORGE,   -- And no ship.,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-162,GEORDI,   Not yet. That doesn't mean they   won't.,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-163,DOCTOR LA FORGE,"   Starfleet is considering the Hera   lost. The search isn't much more   than a formality at this point.       Geordi, your mother's gone...",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-164,GEORDI,"   You can think that if you want.   But until I see some hard   evidence, I'm not going to give up   hope.",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-165,DOCTOR LA FORGE,"   All right, Geordi. Call me if you   need anything...",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-166,DATA,   Come in.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-167,GEORDI,"   Hey, Data. Still working?",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-168,DATA,   No. I have completed the   adjustments on the interface. I   am now waiting for Commander Riker   to finish moving the probe.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-169,DATA,       Do you wish to be comforted?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-170,GEORDI,   No... I was just passing by.   Wondered what you were up to.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-171,DATA,       I am using the time to catch up on   my study of poetry.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-172,GEORDI,"   Data, there's nothing on the   screen.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-173,DATA,"   That is not entirely correct.   While it is true the display is   currently blank, this emptiness   has a poetic meaning. So it   cannot be considered ""nothing"" as   such.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-174,GEORDI,   Says who?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-175,DATA,"   The ancient Doosodarians. Much of   their poetry contained such   ""lacunae"" or empty spaces. Often   these pauses measured several days   in length, during which poet and   audience were encouraged to fully   acknowledge the emptiness of the   experience.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-176,GEORDI,   I remember some lectures at   Starfleet academy that seemed like   that.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-177,DATA,   Are you certain you do not wish to   talk about your mother?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-178,GEORDI,   Why do you ask that?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-179,DATA,"   You are no doubt feeling emotional   distress as a result of her   disappearance. Though you claimed   to be ""just passing by,"" that is   most likely an excuse to start a   conversation about this   uncomfortable subject. Am I   correct?",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-180,GEORDI,"   Well, no. Sometimes ""just passing   by"" means ""just passing by.""",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-181,DATA,   Then I apologize for my premature   assumption.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-182,DATA,       This particular poem has a lacuna   of forty-seven minutes. You may   experience the emptiness with me   if you wish.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-183,GEORDI,       Thanks...,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-184,GEORDI,"   Data, maybe you gave up too fast.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-185,DATA,   I do not understand.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-186,GEORDI,"   When I said ""just passing by""   means ""just passing by"" -- I   didn't really mean it.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-187,DATA,   My initial assumption was correct.   You do wish to speak of your   mother.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-188,GEORDI,   Am I crazy to think she's still   alive?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-189,DATA,"   Your sanity is not in question.   However, your evaluation of the   available information is...   biased.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-190,GEORDI,   She's the captain of a starship!   She's gotten herself into and out   of impossible situations before.   Why should this be any different?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-191,DATA,   Disappearances fitting the profile   of the Hera have rarely ended with   the safe recovery of ship and   crew.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-192,GEORDI,       That makes me feel better.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-193,GEORDI,"       I'm sorry, Data. I didn't mean to   snap at you.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-194,DATA,   I am not offended. You are upset   and your reactions are not   surprising.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-195,GEORDI,   I guess I am a little... on edge.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-196,GEORDI,       It's just that... If she really is   dead...       I don't know what I'm going to   do...,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Interface""",1993-07-14,The Next Generation
-197,BEVERLY,       We're receiving the probe's   telemetry.,36   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-198,DATA,   The input levels are currently at   fifty-three percent of tolerance.,36   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-199,GEORDI,"   That's too low, Data. I won't be   able to do anything down there.",36   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-200,BEVERLY,   I want to start with as wide a   margin of safety as possible. We   can adjust upward as needed.       Ready?,36   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-201,GEORDI,   Go ahead.,36   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-202,DATA,   Initiating interface...,36   INT. LAB,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-203,GEORDI,   I can't see anything.,37   INT. AUXILIARY CONTROL - GEORDI'S POV (OPTICAL),AUXILIARY CONTROL - GEORDI'S POV,INT.,"""Interface""",1993-07-14,The Next Generation
-204,DATA,   I am increasing input now...,37   INT. AUXILIARY CONTROL - GEORDI'S POV (OPTICAL),AUXILIARY CONTROL - GEORDI'S POV,INT.,"""Interface""",1993-07-14,The Next Generation
-205,GEORDI,   That's better... but I need   more...,38   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-206,DATA,   Is this level sufficient?,39   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-207,DATA,       Geordi?,39   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-208,DATA,"       Geordi, can you hear me?",39   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-209,GEORDI,       Mom...,41   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-210,GEORDI,"   Mom, is it you?",42   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-211,SILVA LA FORGE,       Is it you... ?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-212,GEORDI,"   I forgot! All you're seeing is a   probe. Yes, it's me. I'm on the   Enterprise. I'm interfaced with   this probe.",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-213,BEVERLY,   Geordi. Who are you talking to?       What are you seeing?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-214,GEORDI,   But is it really you?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-215,SILVA LA FORGE,"   Yes, Geordi. It's me.",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-216,GEORDI,   How can it be... ? How is it   possible --,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-217,SILVA LA FORGE,   There's no time to explain. We   have to go down...,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-218,GEORDI,   Down where?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-219,SILVA LA FORGE,   The surface.,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-220,BEVERLY,   Geordi. Report.,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-221,GEORDI,"       Hang on, Doctor...",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-222,GEORDI,   Why? Why do we have to go to the   surface?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-223,SILVA LA FORGE,   We're dying.,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-224,GEORDI,"   ""We?"" Your ship? The Hera is   down there?",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-225,BEVERLY,"   Geordi, we're disconnecting you   right now...",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-226,GEORDI,       No. Wait...,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-227,SILVA LA FORGE,   We need your help. I need your   help... Geordi...,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-228,DATA,       The cut-off has been automatically   activated.,44   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-229,BEVERLY,   He's in neural shock --,44   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-230,BEVERLY,       The sensory overload didn't cause   any permanent damage -- but I   wouldn't want to expose his   nervous system to that much   stimulus again.,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-231,PICARD,   Is there any indication of what   caused the hallucination?,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-232,BEVERLY,   His brain functions are normal --,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-233,GEORDI,"   I told you, I wasn't   hallucinating.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-234,DATA,"   Geordi, I have analyzed the   probe's sensor logs -- there are   no readings that would indicate   the presence of a living human on   board the Raman.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-235,GEORDI,   She wasn't actually there. Her   ship is on the surface.,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-236,PICARD,   Then you believe you saw some kind   of... transmission?,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-237,GEORDI,       Somehow she managed to contact me.,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-238,DATA,   We have no indication of a   transmission of any kind.,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-239,GEORDI,   Maybe I'm the only one who could   detect it -- because I was   interfaced with the probe.,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-240,DATA,"   The probe does allow Geordi to   sense quantum fluctuations,   subspace anomalies, and other   phenomena not perceptible to other   kinds of sensors.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-241,PICARD,"   Granted. But why would he   perceive his mother visually, as   if she were standing in the room?",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-242,BEVERLY,"   I'm not sure... I do know that our   brains aren't designed to process   the kind of sensory information   Geordi was getting. When the   brain receives something it can't   understand, it interprets the   input as best it can -- sometimes   as a sound or smell, sometimes   visually.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-243,GEORDI,       You see?,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-244,BEVERLY,"   Geordi, that doesn't mean you're   mother was really communicating   with you. I'm just trying to   explain why you might've thought   she was.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-245,GEORDI,"   I'm telling you, my mother's ship   is trapped down there -- they need   our help.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-246,PICARD,       The Hera's last reported location   was over three hundred light years   away. How could it have ended up   here?,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-247,DATA,"   If the Hera is on the surface, its   hull could not possibly withstand   the pressure of the atmosphere.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-248,GEORDI,   Just let me go back so we can be   sure.,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-249,BEVERLY,       I don't recommend he use the   interface again -- the sensory   overload nearly killed him.,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-250,GEORDI,   I'll be all right.,45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-251,PICARD,"   I'm sorry, Geordi. But I won't   risk your life.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-252,PICARD,"   Mister Data, find another way to   salvage the Raman. I want to hear   an alternate plan in two hours.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-253,DATA,"   Yes, Captain.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-254,PICARD,"       In the meantime, I'd like you to   talk with Counselor Troi. She's   expecting you.",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-255,GEORDI,"   Aye, Sir...",45   INT. SICKBAY,SICKBAY,INT.,"""Interface""",1993-07-14,The Next Generation
-256,TROI,"   What's your mother like, Geordi?",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-257,GEORDI,"   Counselor, if you think I'm going   to start talking about my   childhood, you're way off.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-258,TROI,   That's not what I asked.,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-259,GEORDI,"   No, I guess not.       She was --       She is... brilliant, funny...   really perceptive. She knows   people. Knows what they're all   about even before they open their   mouths. She's always been like   that. A good judge of character.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-260,TROI,   When did you see her last?,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-261,GEORDI,"   Seven months ago, when she first   took command of the Hera. I went   to a party she had for her crew...",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-262,GEORDI,       The Enterprise and the Hera were   in the same sector three weeks   ago. She wanted to see me. We   were both pretty busy though...       I guess I could have made the   time. But I didn't think... I   mean I just didn't think...,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-263,TROI,       You didn't think it would be your   last chance to see her...,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-264,GEORDI,   You don't know that! None of us   does!,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-265,TROI,   I'm going to suggest something.   Call it a theory. Alright?,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-266,GEORDI,       Alright...,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-267,TROI,"   You're very worried about the   disappearance of your mother...   and guilty over not seeing her   when you had the chance. So   you're unwilling even to consider   that she might be dead. This need   to believe she's alive is so   strong, it manifested itself as a   physical image.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-268,GEORDI,"   But she told me she's trapped on   the planet! She's in danger! If   this was some kind of wish   fulfillment, don't you think I'd   fantasize her being safe and   sound?",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-269,TROI,"   No. Because that would end the   fantasy -- you'd know it wasn't   true. The more involved and   complicated and unending your   story is, the longer you can   believe your mother is still   alive.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-270,GEORDI,"   That's your theory, Counselor.   I've got a different one.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,"""Interface""",1993-07-14,The Next Generation
-271,DATA,"   I have been exploring the   possibility of using a tractor   beam to pull the Raman from the   atmosphere. However, there is so   much interference that it prevents   a positive lock.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-272,RIKER,   If we could set up some sort of   relay system...,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-273,DATA,"   That is my conclusion as well,   Commander. Two shuttlecraft,   staggered between the Enterprise   and the Raman, with their shields   adjusted to refocus the tractor   beam.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-274,PICARD,   Can we get those shuttles close   enough without putting them in   danger?       Mister La Forge.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-275,GEORDI,"       I suppose so.       Yes. As long as you keep them   above the troposphere, they'll be   alright.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-276,PICARD,   In that case --,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-277,GEORDI,       What about the Hera?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-278,GEORDI,       We'll be leaving my mother and her   crew stranded on the planet. We   have to save them.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-279,PICARD,   Commander --,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-280,GEORDI,       -- I've been thinking about   this...,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-281,GEORDI,       A few weeks ago I got a message   from my mother. She said she had   a new chief engineer who was   always experimenting with the warp   drive.     ,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-282,GEORDI ,"   Well, I've seen the Hera -- it   uses trionic initiators in the   warp coil. They have a history of   strange side effects -- especially   if you start playing around with   them.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-283,DATA,   There have been reports of warp   bubbles and other subspace   deformations.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-284,GEORDI,"       So what if that's what happened?   Not a warp bubble, but a subspace   funnel.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-285,DATA,   Connecting two points through   subspace.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-286,GEORDI,"       The Hera could have accidentally   created a distortion that emptied   out right here, on Marijne Seven.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-287,PICARD,   Why here?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-288,GEORDI,   The Hera passed near this planet   just ten days ago. There's a lot   of subspace distortion in the   atmosphere -- the ship might've   picked up some residual traces   that directed the funnel back   here.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-289,RIKER,"       And the Hera is still in one   piece, down on the surface?",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-290,GEORDI,   Maybe it's surrounded by some kind   of subspace field that's keeping   it together. But who knows for   how long?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-291,PICARD,   Do you have any evidence to   support this... hypothesis?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-292,GEORDI,   I did get some strange subspace   readings when I was interfaced   with the probe.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-293,RIKER,"   Geordi, that could be anything.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-294,GEORDI,   I talked to her. She asked me to   take the Raman closer to the   planet.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-295,PICARD,   Is any of this possible?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-296,DATA,   Yes.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-297,GEORDI,   There.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-298,DATA,"   However, I believe it is...       unlikely.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-299,PICARD,   How unlikely?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-300,DATA,"   Nearly impossible, Sir.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-301,PICARD,   Proceed with the shuttle plan.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-302,GEORDI,   Captain --,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-303,PICARD,   -- Mister La Forge. Stay here for   a moment.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-304,PICARD,"       Geordi, I'm not unsympathetic   about what you're going through.   But I want you to consider my   position as well.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-305,GEORDI,"   Yes, Sir.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-306,PICARD,   Your mother's disappearance...   It's... a tragic thing...       But I can't risk your safety on   the basis of a dubious hypothesis.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-307,GEORDI,   If there's even one chance in a   million I'm right and she's   alive...,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-308,PICARD,"   I'm sorry, Geordi. I've made my   decision.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-309,GEORDI,"   I understand, Sir.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,"""Interface""",1993-07-14,The Next Generation
-310,DATA,   I suspected you would decide to   operate the interface alone.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-311,GEORDI,       You did?,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-312,DATA,   I am familiar enough with your   behavior patterns to predict   certain... decisions.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-313,GEORDI,   I guess you know me pretty well...,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-314,DATA,   You are disobeying the Captain.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-315,GEORDI,   I can't just sit back and do   nothing when my mother might be   down on that planet.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-316,DATA,   I can not allow you to endanger   your well being.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-317,GEORDI,   If we leave here without knowing   for sure...,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-318,GEORDI,"       I'll have to live with it for the   rest of my life... wondering... if   I left her to die... I couldn't   take that, Data... I couldn't...",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-319,GEORDI,   That's why I have to do this.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-320,DATA,   I could have you confined to   quarters for the duration of the   mission.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-321,GEORDI,"   If you want to do that to me,   Data, then go ahead. Because   nothing less is going to stop me   from trying to save my mother.",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-322,GEORDI,   What are you doing?,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-323,DATA,   I will monitor the interface and   attempt to keep you safe.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-324,DATA,   I can not have you confined to   quarters for something you have   not yet done.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-325,GEORDI,"   Data, we could both end up in a   lot of trouble for this.",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-326,DATA,   There is a high degree of   probability that you are right.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-327,GEORDI,"   Thanks, Data.",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-328,DATA,"   However, I have a request.",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-329,GEORDI,       What's that?,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-330,DATA,   I would ask you to consider the   possibility that what you see is   not real.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-331,GEORDI,       I will. I promise.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-332,DATA,   I am establishing the interface...,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-333,GEORDI,   Mom... ?,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-334,SILVA LA FORGE ,"   Hello, Geordi...",51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-335,GEORDI,   How did you get here?,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-336,SILVA LA FORGE,"   I'm not really with you, Geordi.   I'm on my ship, on the surface.   We were pulled into a warp funnel.",51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-337,GEORDI,   That's just what I thought!,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-338,GEORDI,   How are we communicating?,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-339,SILVA LA FORGE,   We found a way to send a subspace   signal that could cut through the   atmospheric interference.,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-340,DATA,"   Geordi, are you seeing the image   of your mother... ?",51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-341,GEORDI,"   Yes, and she just confirmed   everything I've been saying.",53   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-342,DATA,   I am reading some unusual subspace   energy in your vicinity -- similar   to what the probe sensors recorded   the first time you encountered   your mother.,53   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-343,GEORDI,   That's how she's communicating   with me. It's the only kind of   signal they could send that would   get through the interference.,53   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-344,SILVA LA FORGE,   We need your help.,54   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-345,GEORDI,   I've been thinking about this --   I'm going to take the Raman into   a low stationary orbit and   initiate an inverse warp cascade.,54   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-346,SILVA LA FORGE,   Why?,54   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-347,GEORDI,   The subspace distortion from the   cascade should reverse the warp   funnel -- your ship will end up   right where it started.,54   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-348,DATA,"   Geordi, the atmosphere becomes   increasingly turbulent the farther   down you go -- you may not be able   to bring the Raman close enough to   the Hera before being destroyed.",55   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-349,GEORDI,"   I have to try, Data.",55   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-350,SILVA LA FORGE,   We're running out of time.,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-351,GEORDI,       Shields back on line... we're   starting our descent...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-352,GEORDI,       Thank god...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-353,SILVA LA FORGE,   Thank... god...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-354,GEORDI,   That you're alive -- that I was   right about all this.       I can't wait to call Dad. He and   Ariana had given up...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-355,SILVA LA FORGE,   We're going home...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-356,GEORDI,"   Eventually, yeah.",56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-357,GEORDI,       Data -- everything's fading in and   out.,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-358,GEORDI,       I'm losing the interface.,58   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-359,DATA,   The probe is descending out of   range.,58   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-360,GEORDI,   You're going to have to turn up   the input gain to maintain my   connection.,58   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-361,DATA,       It is already at seventy-five   percent of tolerance.,58   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-362,GEORDI,   You can take it all the way up to   a hundred if you increase it   slowly enough -- give my nervous   system time to adapt.,58   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-363,DATA,   That is theoretically true. But   even at this input level you have   already experienced dangerous   neural feedback.,58   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-364,GEORDI,"   Data, there are over three hundred   people on board the Hera. We're   the only chance they've got.",58   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-365,DATA,   I will increase the gain   incrementally as you descend.,58   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-366,GEORDI,   It's working.,59   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-367,DATA,"   When we are ready to disconnect   the interface, we must allow   sufficient time to lower the input   levels -- otherwise your nervous   system would go into shock from   the sudden drop in input.",60   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-368,GEORDI,   Once I initiate the warp cascade   we can start dropping the gain.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-369,GEORDI,       We'll be in sensor range of your   ship within a few minutes.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-370,GEORDI,       I'm sorry I didn't get over to see   you a few weeks ago.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-371,SILVA LA FORGE,   You were... too busy with work.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-372,GEORDI,   I'm sorry; it won't happen again.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-373,WORF,"       Captain, the Raman is descending   toward the planet.",61A  INT. BRIDGE (FORMERLY SCENE 65),BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-374,RIKER,   Geordi...,61A  INT. BRIDGE (FORMERLY SCENE 65),BRIDGE,INT.,"""Interface""",1993-07-14,The Next Generation
-375,DATA,"   Geordi, we are now at ninety   percent of tolerance.",62   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-376,DATA,       My calculations show that you will   reach one hundred percent of   tolerance before you are in range   of the Hera.,62   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-377,GEORDI,   Then we're going to have to go   beyond tolerance.,62   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-378,DATA,   That is not advisable. You must   cease your descent.,62   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-379,SILVA LA FORGE,"   Geordi, don't stop... please.",63   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-380,GEORDI,"   Data, I'm taking this ship down.   If you don't boost the gain past   tolerance levels, I'll lose the   interface when we go out of range   and my nervous system will go into   shock.",63   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-381,DATA,   You are putting me in a very   difficult position. Please cease   your descent.,64   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-382,GEORDI,   I won't do it... so you'd better   increase the tolerance...,64   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-383,DATA,   Disengaging safety systems...   going to full tolerance levels...   now.,64   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-384,GEORDI,"   Thanks, Data.",64   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-385,GEORDI,       We're getting close...,66   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-386,SILVA LA FORGE,   Thank god...,66   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-387,PICARD,   La Forge.,66   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-388,GEORDI,"   Yes, Captain?",66   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-389,PICARD,   Stop your descent and prepare to   disengage the interface.,67   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-390,GEORDI,"   I'm sorry, sir. But I can't do   that.",67   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-391,PICARD,"   Damn it, Geordi -- you're going to   kill yourself...",67   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-392,GEORDI,"   If I come back now, my mother and   her entire crew will die.    (reads monitor; to     Silva)   I'm scanning for your ship...       I'm not getting anything.",68   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-393,SILVA LA FORGE,   We're still too far away...,68   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-394,GEORDI,   Not really. I should be picking   something up by now.,68   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-395,GEORDI,       I'm not finding anything... No   warp funnel... No ship... There's   nothing there.,68   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-396,BEVERLY,       His neural synapses are   overloading.       He can't survive this...,70   INT. LAB - CONTINUOUS (OPTICAL),LAB - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-397,PICARD,   Geordi -- what's happening to you?,70   INT. LAB - CONTINUOUS (OPTICAL),LAB - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-398,PICARD,   Geordi!,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-399,GEORDI,       Reverse tractors -- Reverse --,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-400,DATA,   Reversing tractor beams...,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-401,GEORDI,   What are you?,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-402,SILVA LA FORGE,   You are killing us... We must go   down.,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-403,PICARD,   Geordi... Report.,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-404,GEORDI,   You're trapped... ?,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-405,PICARD,   Is there any way we can disconnect   him?,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-406,BEVERLY,"   If we cut him off abruptly, he'll   go into neural shock.",72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-407,PICARD,   How can we lower the input   gradually and still get him out   before it's too late?,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-408,DATA,   Perhaps we can deceive his neural   receptors.,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-409,PICARD,   Deceive them?,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-410,DATA,   By feeding them the sensory   information recorded from his   earlier experiences with the   probe.,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-411,BEVERLY,       We could disconnect the interface   and still maintain the input   levels.,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-412,DATA,   We could then lower them in a   controlled manner.,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-413,PICARD,   Like a decompression tank.       Let's try it.,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-414,GEORDI,   Captain. I have to take the ship   into the lower atmosphere...,72   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-415,PICARD,   Explain.,73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-416,GEORDI,"   As I understand it... when the   Raman got close to the planet,   they accidentally picked up some   lifeforms that live in the lower   atmosphere. Subspace beings of   some kind -- intelligent. When   the ship went back into a higher   orbit, the beings were trapped.",73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-417,PICARD,   How do you know all this?,73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-418,GEORDI,   One of them is able to communicate   with me. It must have read my   thoughts through the probe   interface and took the form of my   Mother -- to try to talk me into   taking the ship closer to the   surface.,73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-419,PICARD,   Were these beings responsible for   the death of the Raman's crew?,73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-420,GEORDI,"   Yes, but I don't think it was on   purpose. They probably tried to   communicate with them the same way   they're communicating with me --   by directly accessing their   thoughts. That must've been fatal   to the crew... I guess the   interface protected me.",73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,"""Interface""",1993-07-14,The Next Generation
-421,GEORDI,       I have to take them back -- they   can't survive so far up in the   atmosphere.,74   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-422,GEORDI,       I'll turn the ship around and come   back as soon as we're --,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-423,PICARD,   La Forge! What happened?,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-424,GEORDI,   The atmosphere is getting more   turbulent. It's overloading the   systems.,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-425,GEORDI,       I'm having trouble keeping the   shields up.,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-426,SILVA LA FORGE,   Geordi...,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-427,SILVA LA FORGE,       We're safe now...,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-428,SILVA LA FORGE,       Good bye...,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-429,GEORDI,       I'm losing power...,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-430,GEORDI,       Total shield failure in eight   seconds...,76   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-431,PICARD,   Are you ready to switch inputs?,76   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-432,BEVERLY,   Almost.,76   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-433,GEORDI,   Shields are failing...,77   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,"""Interface""",1993-07-14,The Next Generation
-434,BEVERLY,   Switching inputs!,78   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-435,PICARD,   Is it working?,78   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-436,BEVERLY,   His vital signs are stabilizing.   He's going to make it.,78   INT. LAB - CONTINUOUS,LAB,INT.,"""Interface""",1993-07-14,The Next Generation
-437,PICARD ,"   Captain's Log, supplemental. We   have succeeded in disengaging   Mister La Forge from the interface   and are en route to Starbase four-nine-five.",79   EXT. ENTERPRISE (OPTICAL),ENTERPRISE,EXT.,"""Interface""",1993-07-14,The Next Generation
-438,PICARD,"   You disobeyed my direct order, and   you put yourself in grave danger.       I'm not happy.",80   INT. READY ROOM,READY ROOM,INT.,"""Interface""",1993-07-14,The Next Generation
-439,GEORDI,"   It's my fault, sir. Data was just --",80   INT. READY ROOM,READY ROOM,INT.,"""Interface""",1993-07-14,The Next Generation
-440,PICARD,"       I'll deal with Data at another   time. Meanwhile, I'll have to   write this incident into your   permanent record.",80   INT. READY ROOM,READY ROOM,INT.,"""Interface""",1993-07-14,The Next Generation
-441,GEORDI,"   Yes, sir.",80   INT. READY ROOM,READY ROOM,INT.,"""Interface""",1993-07-14,The Next Generation
-442,PICARD,   Geordi...,80   INT. READY ROOM,READY ROOM,INT.,"""Interface""",1993-07-14,The Next Generation
-443,PICARD,       I'm very sorry you didn't find   your mother.,80   INT. READY ROOM,READY ROOM,INT.,"""Interface""",1993-07-14,The Next Generation
-444,GEORDI,"   Thank you, sir.       When I was down there... it was so   real. It's funny, but in a way...   I feel like I got a chance to say   goodbye...",80   INT. READY ROOM,READY ROOM,INT.,"""Interface""",1993-07-14,The Next Generation
-445,GEORDI,   You're trapped?,81   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Interface""",1993-07-14,The Next Generation
-446,GEORDI,       Caught on the ship...,81   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Interface""",1993-07-14,The Next Generation
-447,GEORDI,       You killed the Raman's crew?,81   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Interface""",1993-07-14,The Next Generation
-448,GEORDI,       What do you want?,81   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Interface""",1993-07-14,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,RIKER,       Geordi... Have you found it yet?,1    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+1,GEORDI,   Not yet...,1    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+2,GEORDI,"       Starting to get fumes... Ammonia,   fluorine, potassium cyanide...",1    INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+3,GEORDI,       I can feel the heat from here.,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+4,GEORDI,       There it is!,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+5,RIKER,   How far?,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+6,GEORDI,   About ten meters. Along the ODN   line. It's hot -- over two   thousand degrees.       I'm going in.,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+7,RIKER,"   Geordi, wait.",3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+8,GEORDI,   We're okay... I've activated the   emergency supression system.,3    INT. JEFFERIES TUBE - CONTINUOUS (OPTICAL),JEFFERIES TUBE - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+9,GEORDI,       It's under control.,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+10,BEVERLY,       All his vital functions are   completely normal.,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+11,DATA,   The interface unit is operating   within expected parameters.,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+12,RIKER,   Why did he start coughing when he   went through the gasses?,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+13,BEVERLY,       Psychosomatic response.,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+14,GEORDI,   I feel like I'm actually here...   I mean there -- in the Jefferies   tube. I saw the smoke and I   couldn't help coughing.,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+15,DATA,   No one else has reported so   complete a sensory experience.,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+16,BEVERLY,   The interface is perfect for   Geordi because his VISOR inputs   allow the probe to transmit   information directly into his   cerebral cortex.,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+17,RIKER,   It looks like this is going to   work. Let's get the probe out of   the Jefferies tube and into the   launch bay before we reach Marijne   Seven.,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+18,GEORDI,   Will do...,4    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+19,GEORDI,   Something's wrong. I'm having   trouble controlling my left leg.,5    INT. JEFFERIES TUBE - CONTINUOUS,JEFFERIES TUBE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+20,RIKER,       What is it?,6    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+21,BEVERLY,"   The probe is designed to respond   to the movements Geordi intends to   make -- when his brain sends a   message to move his leg, the   interface moves the probe instead.",6    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+22,DATA,   Apparently the gain on the tactile   sensors is too low; I will   increase the input.,6    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+23,GEORDI,   There it goes.,6    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+24,GEORDI,   I'm on my way down.,7    INT. JEFFERIES TUBE - CONTINUOUS,JEFFERIES TUBE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+25,RIKER,   Why the body-suit?,7A   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+26,DATA,   It provides tactile sensations so   that Geordi will feel as if he is   in the same environment as the   probe.,7A   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+27,BEVERLY,   What's wrong?,8    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+28,GEORDI,   Nothing...,8    INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+29,GEORDI,       I just saw my reflection in a   panel.       I forgot what a handsome guy I am.,9    INT. ENGINEERING - CONTINUOUS (OPTICAL),ENGINEERING - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+30,PICARD ,"   Captain's Log, Stardate 47215.5.   We are responding to a distress   call from the science vessel   Raman, which is apparently trapped   inside the turbulent atmosphere of   an unusual gas giant planet. We   will use an experimental interface   probe in our attempt to rescue it.",10   EXT. ENTERPRISE (OPTICAL),ENTERPRISE,EXT.,Interface,1993-07-14,The Next Generation,255.txt
+31,DATA,"   I have reviewed the vessel's   mission plans. The Raman was to   descend to the lower atmosphere,   eleven thousand kilometers below   its current position...",11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+32,DATA,"       The crew was to sample the   atmosphere at that level, and then   return to a safer orbit.",11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+33,GEORDI,"   Something must have happened down   there. Maybe the shields failed,   or they had an inversion reaction   in the nacelles.",11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+34,PICARD,   Any life signs?,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+35,GEORDI,   Our bio-sensors are useless --   there's too much interference in   the atmosphere.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+36,RIKER,   The crew might still be alive.   But we'll never be able to tell   from up here.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+37,PICARD,   Will the probe be able to transmit   through the interference?,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+38,DATA,   The probe sends information via a   focused particle beam that should   be able to cut through the   interference.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+39,GEORDI,   But we may have to operate the   interface at near tolerance   levels.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+40,PICARD,   Will your nervous system be able   to handle that much sensory input?,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+41,GEORDI,       We've tested the interface at up   to seventy percent of tolerance.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+42,RIKER,   There shouldn't be a problem going   higher -- the safety override will   kick in at ninety-eight percent   tolerance and disengage the   interface.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+43,WORF,"   Captain, I am receiving a   transmission from Starfleet   Command -- Admiral Holt.",11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+44,PICARD,   In my Ready Room.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+45,PICARD,       The seven people on that ship are   our first priority. Is the probe   ready for launch?,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+46,DATA,"   Yes, Sir.",11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+47,PICARD,"   Send it directly to the aft   section of the Raman, through the   secondary air lock. That'll put   it one bulkhead away from the   Bridge.",11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+48,GEORDI,   I'll interface with the probe as   soon as it's in place and take it   in the rest of the way.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+49,PICARD,   Make it so.,11   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+50,PICARD,   Onscreen.,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+51,PICARD,"       Hello, Marcus.",14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+52,ADMIRAL HOLT,   Jean-Luc.,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+53,PICARD,   How's life on DS-Three?,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+54,ADMIRAL HOLT,   We're hosting this year's palio.   The Ferengi have already been   accused of trying to bribe the   Breen pilot into throwing the   race...,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+55,PICARD,   Nothing unusual about that.,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+56,ADMIRAL HOLT,       Nothing at all...,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+57,ADMIRAL HOLT,"       I wish I could say I was just   calling to catch up on things.       Nine days ago, the Hera left here   on a routine courier mission. We   were in contact with them for five   of those days. Then the ship   disappeared without a trace.",14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+58,PICARD,   The Hera?,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+59,ADMIRAL HOLT,   I'm afraid so.,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+60,ADMIRAL HOLT,"   The Excelsior and the Noble have   spent the last seventy-two hours   retracing its course. Nothing.   I'm going to keep them at it for   seventy-two more.       But to be honest, I don't think   another week would make any   difference.",14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+61,PICARD,   I'll tell Commander La Forge...,14   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+62,PICARD,"   Mister Data, I need a word with   Commander La Forge.",15   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+63,DATA,"   Yes, Sir.       I will be on the Bridge.",15   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+64,PICARD,   I've just spoken to Starfleet.       The Hera is missing.,15   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+65,GEORDI,   Missing... ?,15   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+66,GEORDI,   What about my mother... ?,15   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+67,PICARD,   Captain La Forge has disappeared   along with the rest of her crew...,15   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+68,SILVA LA FORGE,   -- I saw your father last week and   your sister about ten days before   that. I decided I missed my   favorite son...,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+69,GEORDI,"       Your only son, Mom...",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+70,SILVA LA FORGE,"       You're going to have to see the   Hera again. We've got a lot of   new faces on board. Including a   chief engineer who juices up the   nacelles every chance she gets.   I think she's the best technician   in the fleet.       Okay, second best.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+71,GEORDI,   Come in...,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+72,RIKER,   I didn't mean to interrupt.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+73,GEORDI,   Don't worry about it.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+74,SILVA LA FORGE,   Maybe you should meet her. We're   going to be in the same sector   next week. Take a shuttle over   and I'll introduce you.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+75,GEORDI,       Mom's always trying to find me a   wife.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+76,SILVA LA FORGE,"   But if you're too busy, I'll see   you at your father's birthday   party. Remember, if you talk to   him -- it's a surprise.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+77,GEORDI,       This came in about three weeks   ago.       I never got back to her...,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+78,RIKER,"       Geordi, the probe has entered the   planet's atmosphere. I'm ready to   move it inside the ship.       If you want to take a couple of   days off, I'll run the interface.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+79,GEORDI,   The interface is calibrated   specifically for my VISOR inputs.   You'd need at least ten hours to   convert it. Those crewmen down   there can't wait...,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+80,RIKER,"   The interface doesn't have to be   fully compatible. I could use it   right now. I wouldn't have the   control you'd have, but it would   still work.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+81,GEORDI,"   Forget it. I'm the best one for   the job, and there's no reason not   to go ahead as planned.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+82,RIKER,       The Hera is reason enough.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+83,GEORDI,"   The Hera is missing. That's all.   Until I hear something more, my   mother might just as well have   taken the crew on an unscheduled   holiday.",16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+84,GEORDI,       Let's go.,16   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+85,RIKER,"   Sir, the probe is through the   airlock and in position aboard the   Raman.",17   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+86,PICARD,   Picard to Commander Data. Report.,17   INT. BRIDGE,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+87,DATA,       We are ready to bring the   interface on line.,18   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+88,PICARD,   Proceed.,18   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+89,DATA,   Activating the remote sensors...,18   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+90,DATA,       Initiating interface... now.,18   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+91,BEVERLY,"       Vital signs normal... How do you   feel, Geordi?",18   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+92,GEORDI,   Fine...,18   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+93,DATA,   Do you have visual contact?,18   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+94,GEORDI,   Not yet...,18   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+95,GEORDI,"   Increase the input signal, Data.   I'm not seeing anything...",20   INT. SCIENCE SHIP CORRIDOR - GEORDI'S POV (OPTICAL),SCIENCE SHIP CORRIDOR - GEORDI'S POV,INT.,Interface,1993-07-14,The Next Generation,255.txt
+96,DATA,   Acknowledged.,20   INT. SCIENCE SHIP CORRIDOR - GEORDI'S POV (OPTICAL),SCIENCE SHIP CORRIDOR - GEORDI'S POV,INT.,Interface,1993-07-14,The Next Generation,255.txt
+97,GEORDI,   I can see. But no colors.,21   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+98,DATA,   Increasing signal strength of   seventy-five percent of tolerance.,21   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+99,GEORDI,   That's better.,22   INT. SCIENCE SHIP CORRIDOR - GEORDI'S POV (OPTICAL),SCIENCE SHIP CORRIDOR - GEORDI'S POV,INT.,Interface,1993-07-14,The Next Generation,255.txt
+100,BEVERLY,   Your pulse has gone up...,22   INT. SCIENCE SHIP CORRIDOR - GEORDI'S POV (OPTICAL),SCIENCE SHIP CORRIDOR - GEORDI'S POV,INT.,Interface,1993-07-14,The Next Generation,255.txt
+101,BEVERLY,   It might take your nervous system   a little while to get used to this   input level.,24   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+102,GEORDI,"   I'm excited, that's all. This is   like being on a roller coaster.",24   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+103,GEORDI,       Or a first date... Everything's   okay.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+104,BEVERLY,"       I'll be the judge of that, Geordi.   If your heart rate goes too high,   we'll disconnect you.",25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+105,GEORDI,   Understood. But don't pull the   plug yet...,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+106,GEORDI,       It's a mess in here. There must   be a hull breach somewhere. I'm   picking up atmospheric gasses   inside the corridor -- methane and   ammonia primarily.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+107,GEORDI,       I'm heading toward the Bridge.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+108,GEORDI,       It's getting worse the closer I   get. The break in the hull might   be on the Bridge itself.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+109,GEORDI,       I found somebody!,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+110,DATA,   What is your position?,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+111,GEORDI,   About twelve meters up the main   corridor! A section of the   bulkhead collapsed on top of him.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+112,GEORDI,       I can't move it. I need more   power to the tractor beams.,25   INT. SCIENCE SHIP CORRIDOR,SCIENCE SHIP CORRIDOR,INT.,Interface,1993-07-14,The Next Generation,255.txt
+113,BEVERLY,   Go to eighty percent of tolerance --   no higher.,26   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+114,GEORDI,   He looks pretty bad.,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+115,GEORDI,       He's dead.,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+116,GEORDI,"       Data, the door halfway down the   left corridor... what's it lead   to?",27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+117,DATA,   A magnetic storage bay.,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+118,GEORDI,"       If there was a breach on the   Bridge, that would be the safest   place to go.",27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+119,GEORDI,"       Data, I need a phaser burst. Wide   focus, level four intensity.",27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+120,GEORDI,   I've found them!,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+121,GEORDI,       They're dead... all of them.,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+122,GEORDI,       There's a fire in here...,27   INT. SCIENCE SHIP CORRIDOR - CONTINUOUS (OPTICAL),SCIENCE SHIP CORRIDOR - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+123,BEVERLY,   Data! Disconnect him!,28   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+124,BEVERLY,       What happened?,28   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+125,GEORDI,       I don't know... My hands...,28   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+126,BEVERLY,       They're burned...,28   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+127,PICARD,   How did this happen?,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+128,BEVERLY,   There was some kind of energy   discharge in the interface suit.,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+129,PICARD,   Shouldn't the safety over-rides   have prevented that?,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+130,BEVERLY,   Yes... but I have a theory why   they didn't.,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+131,BEVERLY,   The tolerance levels on the   interface were set extremely high.   I think Geordi's neural response   to the input was so strong that it   created a feedback loop.,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+132,GEORDI,   The sensors that were transmitting   the sensation of heat to my hands   must've overloaded.,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+133,BEVERLY,"   I know it seems hard to believe,   but the probe was sending huge   amounts of sensory data directly   into Geordi's brain. The   tolerance levels on the interface   were set extremely high.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+134,PICARD,"   The Raman's crew is dead. I'd   like to retrieve their vessel, but   not if it means risking Geordi's   safety.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+135,GEORDI,"   If we turn down the sensory input   from the probe, I should be fine.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+136,GEORDI,       Seven people lost their lives down   there... we should at least   retrieve the data they were   collecting. Otherwise their   deaths won't have any meaning.,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+137,PICARD,   Doctor?,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+138,BEVERLY,"   If we operate the interface at   lower input levels, I'd say the   risk is acceptable.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+139,PICARD,   Alright.       Picard to Riker.,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+140,RIKER,"   Riker, here.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+141,PICARD,"   The Raman's crew is dead. I'd   like to retrieve their vessel, but   not if it means risking Geordi's   safety.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+142,GEORDI,"   If we turn down the sensory input   from the probe, I should be fine.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+143,GEORDI,       Seven people lost their lives down   there... we should at least   retrieve the data they were   collecting.,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+144,PICARD,   Doctor?,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+145,BEVERLY,"   If we operate the interface at   lower input levels, I'd say the   risk is acceptable.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+146,PICARD,   Alright.       Picard to Riker.,30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+147,RIKER,"   Riker, here.",30   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+148,PICARD,   I've decided to proceed with the   probe.,31   INT. BRIDGE - AFT SCIENCE STATION,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+149,RIKER,       We'll have to take it into the   Raman's auxiliary control room --   the Bridge is too badly damaged.,31   INT. BRIDGE - AFT SCIENCE STATION,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+150,PICARD,   How long before you can get it   into position?,31   INT. BRIDGE - AFT SCIENCE STATION,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+151,RIKER,   A few hours -- we're going to have   to cut through a bulkhead.,31   INT. BRIDGE - AFT SCIENCE STATION,BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+152,PICARD,   Acknowledged.,32   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+153,BEVERLY,       Looks like you'll have some time   to recuperate.,32   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+154,GEORDI,   There's something I need to do   anyway.,32   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+155,GEORDI,"   How are you, Dad?",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+156,DOCTOR LA FORGE,"   As well as expected, given the   circumstances. Are you okay?",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+157,GEORDI,   Yeah...,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+158,DOCTOR LA FORGE,   I talked to your sister this   morning. She said she'd get in   touch with you in a few days.   Right now she's pretty upset.       The service for the Hera will   probably be on Vulcan -- most of   the crew was from there. But your   sister and I want to have a   private ceremony --,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+159,GEORDI,   -- Dad. Don't you think   everybody's jumping the gun here?     ,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+160,GEORDI ,"   Last I heard, two starships were   still out there looking. They've   found no debris, no residual warp   distortion --",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+161,DOCTOR LA FORGE,   -- And no ship.,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+162,GEORDI,   Not yet. That doesn't mean they   won't.,33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+163,DOCTOR LA FORGE,"   Starfleet is considering the Hera   lost. The search isn't much more   than a formality at this point.       Geordi, your mother's gone...",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+164,GEORDI,"   You can think that if you want.   But until I see some hard   evidence, I'm not going to give up   hope.",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+165,DOCTOR LA FORGE,"   All right, Geordi. Call me if you   need anything...",33   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+166,DATA,   Come in.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+167,GEORDI,"   Hey, Data. Still working?",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+168,DATA,   No. I have completed the   adjustments on the interface. I   am now waiting for Commander Riker   to finish moving the probe.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+169,DATA,       Do you wish to be comforted?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+170,GEORDI,   No... I was just passing by.   Wondered what you were up to.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+171,DATA,       I am using the time to catch up on   my study of poetry.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+172,GEORDI,"   Data, there's nothing on the   screen.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+173,DATA,"   That is not entirely correct.   While it is true the display is   currently blank, this emptiness   has a poetic meaning. So it   cannot be considered ""nothing"" as   such.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+174,GEORDI,   Says who?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+175,DATA,"   The ancient Doosodarians. Much of   their poetry contained such   ""lacunae"" or empty spaces. Often   these pauses measured several days   in length, during which poet and   audience were encouraged to fully   acknowledge the emptiness of the   experience.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+176,GEORDI,   I remember some lectures at   Starfleet academy that seemed like   that.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+177,DATA,   Are you certain you do not wish to   talk about your mother?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+178,GEORDI,   Why do you ask that?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+179,DATA,"   You are no doubt feeling emotional   distress as a result of her   disappearance. Though you claimed   to be ""just passing by,"" that is   most likely an excuse to start a   conversation about this   uncomfortable subject. Am I   correct?",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+180,GEORDI,"   Well, no. Sometimes ""just passing   by"" means ""just passing by.""",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+181,DATA,   Then I apologize for my premature   assumption.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+182,DATA,       This particular poem has a lacuna   of forty-seven minutes. You may   experience the emptiness with me   if you wish.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+183,GEORDI,       Thanks...,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+184,GEORDI,"   Data, maybe you gave up too fast.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+185,DATA,   I do not understand.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+186,GEORDI,"   When I said ""just passing by""   means ""just passing by"" -- I   didn't really mean it.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+187,DATA,   My initial assumption was correct.   You do wish to speak of your   mother.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+188,GEORDI,   Am I crazy to think she's still   alive?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+189,DATA,"   Your sanity is not in question.   However, your evaluation of the   available information is...   biased.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+190,GEORDI,   She's the captain of a starship!   She's gotten herself into and out   of impossible situations before.   Why should this be any different?,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+191,DATA,   Disappearances fitting the profile   of the Hera have rarely ended with   the safe recovery of ship and   crew.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+192,GEORDI,       That makes me feel better.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+193,GEORDI,"       I'm sorry, Data. I didn't mean to   snap at you.",34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+194,DATA,   I am not offended. You are upset   and your reactions are not   surprising.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+195,GEORDI,   I guess I am a little... on edge.,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+196,GEORDI,       It's just that... If she really is   dead...       I don't know what I'm going to   do...,34   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+197,BEVERLY,       We're receiving the probe's   telemetry.,36   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+198,DATA,   The input levels are currently at   fifty-three percent of tolerance.,36   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+199,GEORDI,"   That's too low, Data. I won't be   able to do anything down there.",36   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+200,BEVERLY,   I want to start with as wide a   margin of safety as possible. We   can adjust upward as needed.       Ready?,36   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+201,GEORDI,   Go ahead.,36   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+202,DATA,   Initiating interface...,36   INT. LAB,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+203,GEORDI,   I can't see anything.,37   INT. AUXILIARY CONTROL - GEORDI'S POV (OPTICAL),AUXILIARY CONTROL - GEORDI'S POV,INT.,Interface,1993-07-14,The Next Generation,255.txt
+204,DATA,   I am increasing input now...,37   INT. AUXILIARY CONTROL - GEORDI'S POV (OPTICAL),AUXILIARY CONTROL - GEORDI'S POV,INT.,Interface,1993-07-14,The Next Generation,255.txt
+205,GEORDI,   That's better... but I need   more...,38   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+206,DATA,   Is this level sufficient?,39   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+207,DATA,       Geordi?,39   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+208,DATA,"       Geordi, can you hear me?",39   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+209,GEORDI,       Mom...,41   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+210,GEORDI,"   Mom, is it you?",42   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+211,SILVA LA FORGE,       Is it you... ?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+212,GEORDI,"   I forgot! All you're seeing is a   probe. Yes, it's me. I'm on the   Enterprise. I'm interfaced with   this probe.",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+213,BEVERLY,   Geordi. Who are you talking to?       What are you seeing?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+214,GEORDI,   But is it really you?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+215,SILVA LA FORGE,"   Yes, Geordi. It's me.",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+216,GEORDI,   How can it be... ? How is it   possible --,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+217,SILVA LA FORGE,   There's no time to explain. We   have to go down...,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+218,GEORDI,   Down where?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+219,SILVA LA FORGE,   The surface.,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+220,BEVERLY,   Geordi. Report.,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+221,GEORDI,"       Hang on, Doctor...",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+222,GEORDI,   Why? Why do we have to go to the   surface?,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+223,SILVA LA FORGE,   We're dying.,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+224,GEORDI,"   ""We?"" Your ship? The Hera is   down there?",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+225,BEVERLY,"   Geordi, we're disconnecting you   right now...",43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+226,GEORDI,       No. Wait...,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+227,SILVA LA FORGE,   We need your help. I need your   help... Geordi...,43   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+228,DATA,       The cut-off has been automatically   activated.,44   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+229,BEVERLY,   He's in neural shock --,44   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+230,BEVERLY,       The sensory overload didn't cause   any permanent damage -- but I   wouldn't want to expose his   nervous system to that much   stimulus again.,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+231,PICARD,   Is there any indication of what   caused the hallucination?,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+232,BEVERLY,   His brain functions are normal --,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+233,GEORDI,"   I told you, I wasn't   hallucinating.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+234,DATA,"   Geordi, I have analyzed the   probe's sensor logs -- there are   no readings that would indicate   the presence of a living human on   board the Raman.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+235,GEORDI,   She wasn't actually there. Her   ship is on the surface.,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+236,PICARD,   Then you believe you saw some kind   of... transmission?,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+237,GEORDI,       Somehow she managed to contact me.,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+238,DATA,   We have no indication of a   transmission of any kind.,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+239,GEORDI,   Maybe I'm the only one who could   detect it -- because I was   interfaced with the probe.,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+240,DATA,"   The probe does allow Geordi to   sense quantum fluctuations,   subspace anomalies, and other   phenomena not perceptible to other   kinds of sensors.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+241,PICARD,"   Granted. But why would he   perceive his mother visually, as   if she were standing in the room?",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+242,BEVERLY,"   I'm not sure... I do know that our   brains aren't designed to process   the kind of sensory information   Geordi was getting. When the   brain receives something it can't   understand, it interprets the   input as best it can -- sometimes   as a sound or smell, sometimes   visually.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+243,GEORDI,       You see?,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+244,BEVERLY,"   Geordi, that doesn't mean you're   mother was really communicating   with you. I'm just trying to   explain why you might've thought   she was.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+245,GEORDI,"   I'm telling you, my mother's ship   is trapped down there -- they need   our help.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+246,PICARD,       The Hera's last reported location   was over three hundred light years   away. How could it have ended up   here?,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+247,DATA,"   If the Hera is on the surface, its   hull could not possibly withstand   the pressure of the atmosphere.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+248,GEORDI,   Just let me go back so we can be   sure.,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+249,BEVERLY,       I don't recommend he use the   interface again -- the sensory   overload nearly killed him.,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+250,GEORDI,   I'll be all right.,45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+251,PICARD,"   I'm sorry, Geordi. But I won't   risk your life.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+252,PICARD,"   Mister Data, find another way to   salvage the Raman. I want to hear   an alternate plan in two hours.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+253,DATA,"   Yes, Captain.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+254,PICARD,"       In the meantime, I'd like you to   talk with Counselor Troi. She's   expecting you.",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+255,GEORDI,"   Aye, Sir...",45   INT. SICKBAY,SICKBAY,INT.,Interface,1993-07-14,The Next Generation,255.txt
+256,TROI,"   What's your mother like, Geordi?",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+257,GEORDI,"   Counselor, if you think I'm going   to start talking about my   childhood, you're way off.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+258,TROI,   That's not what I asked.,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+259,GEORDI,"   No, I guess not.       She was --       She is... brilliant, funny...   really perceptive. She knows   people. Knows what they're all   about even before they open their   mouths. She's always been like   that. A good judge of character.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+260,TROI,   When did you see her last?,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+261,GEORDI,"   Seven months ago, when she first   took command of the Hera. I went   to a party she had for her crew...",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+262,GEORDI,       The Enterprise and the Hera were   in the same sector three weeks   ago. She wanted to see me. We   were both pretty busy though...       I guess I could have made the   time. But I didn't think... I   mean I just didn't think...,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+263,TROI,       You didn't think it would be your   last chance to see her...,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+264,GEORDI,   You don't know that! None of us   does!,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+265,TROI,   I'm going to suggest something.   Call it a theory. Alright?,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+266,GEORDI,       Alright...,46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+267,TROI,"   You're very worried about the   disappearance of your mother...   and guilty over not seeing her   when you had the chance. So   you're unwilling even to consider   that she might be dead. This need   to believe she's alive is so   strong, it manifested itself as a   physical image.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+268,GEORDI,"   But she told me she's trapped on   the planet! She's in danger! If   this was some kind of wish   fulfillment, don't you think I'd   fantasize her being safe and   sound?",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+269,TROI,"   No. Because that would end the   fantasy -- you'd know it wasn't   true. The more involved and   complicated and unending your   story is, the longer you can   believe your mother is still   alive.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+270,GEORDI,"   That's your theory, Counselor.   I've got a different one.",46   INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+271,DATA,"   I have been exploring the   possibility of using a tractor   beam to pull the Raman from the   atmosphere. However, there is so   much interference that it prevents   a positive lock.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+272,RIKER,   If we could set up some sort of   relay system...,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+273,DATA,"   That is my conclusion as well,   Commander. Two shuttlecraft,   staggered between the Enterprise   and the Raman, with their shields   adjusted to refocus the tractor   beam.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+274,PICARD,   Can we get those shuttles close   enough without putting them in   danger?       Mister La Forge.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+275,GEORDI,"       I suppose so.       Yes. As long as you keep them   above the troposphere, they'll be   alright.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+276,PICARD,   In that case --,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+277,GEORDI,       What about the Hera?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+278,GEORDI,       We'll be leaving my mother and her   crew stranded on the planet. We   have to save them.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+279,PICARD,   Commander --,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+280,GEORDI,       -- I've been thinking about   this...,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+281,GEORDI,       A few weeks ago I got a message   from my mother. She said she had   a new chief engineer who was   always experimenting with the warp   drive.     ,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+282,GEORDI ,"   Well, I've seen the Hera -- it   uses trionic initiators in the   warp coil. They have a history of   strange side effects -- especially   if you start playing around with   them.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+283,DATA,   There have been reports of warp   bubbles and other subspace   deformations.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+284,GEORDI,"       So what if that's what happened?   Not a warp bubble, but a subspace   funnel.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+285,DATA,   Connecting two points through   subspace.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+286,GEORDI,"       The Hera could have accidentally   created a distortion that emptied   out right here, on Marijne Seven.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+287,PICARD,   Why here?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+288,GEORDI,   The Hera passed near this planet   just ten days ago. There's a lot   of subspace distortion in the   atmosphere -- the ship might've   picked up some residual traces   that directed the funnel back   here.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+289,RIKER,"       And the Hera is still in one   piece, down on the surface?",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+290,GEORDI,   Maybe it's surrounded by some kind   of subspace field that's keeping   it together. But who knows for   how long?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+291,PICARD,   Do you have any evidence to   support this... hypothesis?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+292,GEORDI,   I did get some strange subspace   readings when I was interfaced   with the probe.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+293,RIKER,"   Geordi, that could be anything.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+294,GEORDI,   I talked to her. She asked me to   take the Raman closer to the   planet.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+295,PICARD,   Is any of this possible?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+296,DATA,   Yes.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+297,GEORDI,   There.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+298,DATA,"   However, I believe it is...       unlikely.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+299,PICARD,   How unlikely?,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+300,DATA,"   Nearly impossible, Sir.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+301,PICARD,   Proceed with the shuttle plan.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+302,GEORDI,   Captain --,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+303,PICARD,   -- Mister La Forge. Stay here for   a moment.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+304,PICARD,"       Geordi, I'm not unsympathetic   about what you're going through.   But I want you to consider my   position as well.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+305,GEORDI,"   Yes, Sir.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+306,PICARD,   Your mother's disappearance...   It's... a tragic thing...       But I can't risk your safety on   the basis of a dubious hypothesis.,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+307,GEORDI,   If there's even one chance in a   million I'm right and she's   alive...,47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+308,PICARD,"   I'm sorry, Geordi. I've made my   decision.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+309,GEORDI,"   I understand, Sir.",47   INT. OBS LOUNGE,OBS LOUNGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+310,DATA,   I suspected you would decide to   operate the interface alone.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+311,GEORDI,       You did?,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+312,DATA,   I am familiar enough with your   behavior patterns to predict   certain... decisions.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+313,GEORDI,   I guess you know me pretty well...,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+314,DATA,   You are disobeying the Captain.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+315,GEORDI,   I can't just sit back and do   nothing when my mother might be   down on that planet.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+316,DATA,   I can not allow you to endanger   your well being.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+317,GEORDI,   If we leave here without knowing   for sure...,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+318,GEORDI,"       I'll have to live with it for the   rest of my life... wondering... if   I left her to die... I couldn't   take that, Data... I couldn't...",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+319,GEORDI,   That's why I have to do this.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+320,DATA,   I could have you confined to   quarters for the duration of the   mission.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+321,GEORDI,"   If you want to do that to me,   Data, then go ahead. Because   nothing less is going to stop me   from trying to save my mother.",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+322,GEORDI,   What are you doing?,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+323,DATA,   I will monitor the interface and   attempt to keep you safe.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+324,DATA,   I can not have you confined to   quarters for something you have   not yet done.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+325,GEORDI,"   Data, we could both end up in a   lot of trouble for this.",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+326,DATA,   There is a high degree of   probability that you are right.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+327,GEORDI,"   Thanks, Data.",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+328,DATA,"   However, I have a request.",48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+329,GEORDI,       What's that?,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+330,DATA,   I would ask you to consider the   possibility that what you see is   not real.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+331,GEORDI,       I will. I promise.,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+332,DATA,   I am establishing the interface...,48   INT. LAB - ON THE INTERFACE CONSOLE,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+333,GEORDI,   Mom... ?,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+334,SILVA LA FORGE ,"   Hello, Geordi...",51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+335,GEORDI,   How did you get here?,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+336,SILVA LA FORGE,"   I'm not really with you, Geordi.   I'm on my ship, on the surface.   We were pulled into a warp funnel.",51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+337,GEORDI,   That's just what I thought!,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+338,GEORDI,   How are we communicating?,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+339,SILVA LA FORGE,   We found a way to send a subspace   signal that could cut through the   atmospheric interference.,51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+340,DATA,"   Geordi, are you seeing the image   of your mother... ?",51   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+341,GEORDI,"   Yes, and she just confirmed   everything I've been saying.",53   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+342,DATA,   I am reading some unusual subspace   energy in your vicinity -- similar   to what the probe sensors recorded   the first time you encountered   your mother.,53   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+343,GEORDI,   That's how she's communicating   with me. It's the only kind of   signal they could send that would   get through the interference.,53   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+344,SILVA LA FORGE,   We need your help.,54   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+345,GEORDI,   I've been thinking about this --   I'm going to take the Raman into   a low stationary orbit and   initiate an inverse warp cascade.,54   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+346,SILVA LA FORGE,   Why?,54   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+347,GEORDI,   The subspace distortion from the   cascade should reverse the warp   funnel -- your ship will end up   right where it started.,54   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+348,DATA,"   Geordi, the atmosphere becomes   increasingly turbulent the farther   down you go -- you may not be able   to bring the Raman close enough to   the Hera before being destroyed.",55   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+349,GEORDI,"   I have to try, Data.",55   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+350,SILVA LA FORGE,   We're running out of time.,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+351,GEORDI,       Shields back on line... we're   starting our descent...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+352,GEORDI,       Thank god...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+353,SILVA LA FORGE,   Thank... god...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+354,GEORDI,   That you're alive -- that I was   right about all this.       I can't wait to call Dad. He and   Ariana had given up...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+355,SILVA LA FORGE,   We're going home...,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+356,GEORDI,"   Eventually, yeah.",56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+357,GEORDI,       Data -- everything's fading in and   out.,56   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+358,GEORDI,       I'm losing the interface.,58   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+359,DATA,   The probe is descending out of   range.,58   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+360,GEORDI,   You're going to have to turn up   the input gain to maintain my   connection.,58   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+361,DATA,       It is already at seventy-five   percent of tolerance.,58   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+362,GEORDI,   You can take it all the way up to   a hundred if you increase it   slowly enough -- give my nervous   system time to adapt.,58   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+363,DATA,   That is theoretically true. But   even at this input level you have   already experienced dangerous   neural feedback.,58   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+364,GEORDI,"   Data, there are over three hundred   people on board the Hera. We're   the only chance they've got.",58   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+365,DATA,   I will increase the gain   incrementally as you descend.,58   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+366,GEORDI,   It's working.,59   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+367,DATA,"   When we are ready to disconnect   the interface, we must allow   sufficient time to lower the input   levels -- otherwise your nervous   system would go into shock from   the sudden drop in input.",60   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+368,GEORDI,   Once I initiate the warp cascade   we can start dropping the gain.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+369,GEORDI,       We'll be in sensor range of your   ship within a few minutes.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+370,GEORDI,       I'm sorry I didn't get over to see   you a few weeks ago.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+371,SILVA LA FORGE,   You were... too busy with work.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+372,GEORDI,   I'm sorry; it won't happen again.,61   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+373,WORF,"       Captain, the Raman is descending   toward the planet.",61A  INT. BRIDGE (FORMERLY SCENE 65),BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+374,RIKER,   Geordi...,61A  INT. BRIDGE (FORMERLY SCENE 65),BRIDGE,INT.,Interface,1993-07-14,The Next Generation,255.txt
+375,DATA,"   Geordi, we are now at ninety   percent of tolerance.",62   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+376,DATA,       My calculations show that you will   reach one hundred percent of   tolerance before you are in range   of the Hera.,62   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+377,GEORDI,   Then we're going to have to go   beyond tolerance.,62   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+378,DATA,   That is not advisable. You must   cease your descent.,62   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+379,SILVA LA FORGE,"   Geordi, don't stop... please.",63   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+380,GEORDI,"   Data, I'm taking this ship down.   If you don't boost the gain past   tolerance levels, I'll lose the   interface when we go out of range   and my nervous system will go into   shock.",63   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+381,DATA,   You are putting me in a very   difficult position. Please cease   your descent.,64   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+382,GEORDI,   I won't do it... so you'd better   increase the tolerance...,64   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+383,DATA,   Disengaging safety systems...   going to full tolerance levels...   now.,64   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+384,GEORDI,"   Thanks, Data.",64   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+385,GEORDI,       We're getting close...,66   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+386,SILVA LA FORGE,   Thank god...,66   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+387,PICARD,   La Forge.,66   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+388,GEORDI,"   Yes, Captain?",66   INT. AUXILIARY CONTROL,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+389,PICARD,   Stop your descent and prepare to   disengage the interface.,67   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+390,GEORDI,"   I'm sorry, sir. But I can't do   that.",67   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+391,PICARD,"   Damn it, Geordi -- you're going to   kill yourself...",67   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+392,GEORDI,"   If I come back now, my mother and   her entire crew will die.    (reads monitor; to     Silva)   I'm scanning for your ship...       I'm not getting anything.",68   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+393,SILVA LA FORGE,   We're still too far away...,68   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+394,GEORDI,   Not really. I should be picking   something up by now.,68   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+395,GEORDI,       I'm not finding anything... No   warp funnel... No ship... There's   nothing there.,68   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+396,BEVERLY,       His neural synapses are   overloading.       He can't survive this...,70   INT. LAB - CONTINUOUS (OPTICAL),LAB - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+397,PICARD,   Geordi -- what's happening to you?,70   INT. LAB - CONTINUOUS (OPTICAL),LAB - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+398,PICARD,   Geordi!,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+399,GEORDI,       Reverse tractors -- Reverse --,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+400,DATA,   Reversing tractor beams...,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+401,GEORDI,   What are you?,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+402,SILVA LA FORGE,   You are killing us... We must go   down.,71   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+403,PICARD,   Geordi... Report.,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+404,GEORDI,   You're trapped... ?,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+405,PICARD,   Is there any way we can disconnect   him?,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+406,BEVERLY,"   If we cut him off abruptly, he'll   go into neural shock.",72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+407,PICARD,   How can we lower the input   gradually and still get him out   before it's too late?,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+408,DATA,   Perhaps we can deceive his neural   receptors.,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+409,PICARD,   Deceive them?,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+410,DATA,   By feeding them the sensory   information recorded from his   earlier experiences with the   probe.,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+411,BEVERLY,       We could disconnect the interface   and still maintain the input   levels.,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+412,DATA,   We could then lower them in a   controlled manner.,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+413,PICARD,   Like a decompression tank.       Let's try it.,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+414,GEORDI,   Captain. I have to take the ship   into the lower atmosphere...,72   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+415,PICARD,   Explain.,73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+416,GEORDI,"   As I understand it... when the   Raman got close to the planet,   they accidentally picked up some   lifeforms that live in the lower   atmosphere. Subspace beings of   some kind -- intelligent. When   the ship went back into a higher   orbit, the beings were trapped.",73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+417,PICARD,   How do you know all this?,73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+418,GEORDI,   One of them is able to communicate   with me. It must have read my   thoughts through the probe   interface and took the form of my   Mother -- to try to talk me into   taking the ship closer to the   surface.,73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+419,PICARD,   Were these beings responsible for   the death of the Raman's crew?,73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+420,GEORDI,"   Yes, but I don't think it was on   purpose. They probably tried to   communicate with them the same way   they're communicating with me --   by directly accessing their   thoughts. That must've been fatal   to the crew... I guess the   interface protected me.",73   INT. AUXILIARY CONTROL - CONTINUOUS,AUXILIARY CONTROL,INT.,Interface,1993-07-14,The Next Generation,255.txt
+421,GEORDI,       I have to take them back -- they   can't survive so far up in the   atmosphere.,74   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+422,GEORDI,       I'll turn the ship around and come   back as soon as we're --,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+423,PICARD,   La Forge! What happened?,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+424,GEORDI,   The atmosphere is getting more   turbulent. It's overloading the   systems.,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+425,GEORDI,       I'm having trouble keeping the   shields up.,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+426,SILVA LA FORGE,   Geordi...,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+427,SILVA LA FORGE,       We're safe now...,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+428,SILVA LA FORGE,       Good bye...,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+429,GEORDI,       I'm losing power...,75   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+430,GEORDI,       Total shield failure in eight   seconds...,76   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+431,PICARD,   Are you ready to switch inputs?,76   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+432,BEVERLY,   Almost.,76   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+433,GEORDI,   Shields are failing...,77   INT. AUXILIARY CONTROL - CONTINUOUS (OPTICAL),AUXILIARY CONTROL - CONTINUOUS,INT.,Interface,1993-07-14,The Next Generation,255.txt
+434,BEVERLY,   Switching inputs!,78   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+435,PICARD,   Is it working?,78   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+436,BEVERLY,   His vital signs are stabilizing.   He's going to make it.,78   INT. LAB - CONTINUOUS,LAB,INT.,Interface,1993-07-14,The Next Generation,255.txt
+437,PICARD ,"   Captain's Log, supplemental. We   have succeeded in disengaging   Mister La Forge from the interface   and are en route to Starbase four-nine-five.",79   EXT. ENTERPRISE (OPTICAL),ENTERPRISE,EXT.,Interface,1993-07-14,The Next Generation,255.txt
+438,PICARD,"   You disobeyed my direct order, and   you put yourself in grave danger.       I'm not happy.",80   INT. READY ROOM,READY ROOM,INT.,Interface,1993-07-14,The Next Generation,255.txt
+439,GEORDI,"   It's my fault, sir. Data was just --",80   INT. READY ROOM,READY ROOM,INT.,Interface,1993-07-14,The Next Generation,255.txt
+440,PICARD,"       I'll deal with Data at another   time. Meanwhile, I'll have to   write this incident into your   permanent record.",80   INT. READY ROOM,READY ROOM,INT.,Interface,1993-07-14,The Next Generation,255.txt
+441,GEORDI,"   Yes, sir.",80   INT. READY ROOM,READY ROOM,INT.,Interface,1993-07-14,The Next Generation,255.txt
+442,PICARD,   Geordi...,80   INT. READY ROOM,READY ROOM,INT.,Interface,1993-07-14,The Next Generation,255.txt
+443,PICARD,       I'm very sorry you didn't find   your mother.,80   INT. READY ROOM,READY ROOM,INT.,Interface,1993-07-14,The Next Generation,255.txt
+444,GEORDI,"   Thank you, sir.       When I was down there... it was so   real. It's funny, but in a way...   I feel like I got a chance to say   goodbye...",80   INT. READY ROOM,READY ROOM,INT.,Interface,1993-07-14,The Next Generation,255.txt
+445,GEORDI,   You're trapped?,81   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Interface,1993-07-14,The Next Generation,255.txt
+446,GEORDI,       Caught on the ship...,81   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Interface,1993-07-14,The Next Generation,255.txt
+447,GEORDI,       You killed the Raman's crew?,81   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Interface,1993-07-14,The Next Generation,255.txt
+448,GEORDI,       What do you want?,81   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Interface,1993-07-14,The Next Generation,255.txt

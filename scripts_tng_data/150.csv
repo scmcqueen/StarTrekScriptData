@@ -1,408 +1,408 @@
-,character,quote,scene,location,view,episode,date,series
-0,RIKER,   Commander Riker to Ensign Crusher.,2    INT. SICKBAY LAB - CLOSE ON A TEXTBOOK,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-1,WESLEY,       Go ahead....,2    INT. SICKBAY LAB - CLOSE ON A TEXTBOOK,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-2,RIKER,"   Forget to set your alarm, Wesley?",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-3,WESLEY,"   Uh, yessir. I'm... very sorry.   I'll be right there.",4    INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-4,RIKER,   I didn't think you'd want to miss   this.,4    INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-5,PICARD ,"   Captain's log, Stardate 43102.8.   We have entered a spectacular   double star system in the Kavis   Alpha sector on a most critical   mission of astro-physical   research.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-6,PICARD ,"       Our eminent guest, Doctor Paul   Stubbs, will attempt to study the   decay of globules of neutronium   expelled at relativistic speeds   by a massive stellar explosion   which will occur here in a matter   of hours.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-7,PICARD ,"       It is virtually a   once-in-a-lifetime opportunity   as dictated by the forces of   nature. But frankly, Doctor   Stubbs seems much calmer about   it all than those of us who are   simply charged with the   responsibility of delivery and   observation.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-8,RIKER,"   Ensign, our position....",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-9,WESLEY,   Approaching ten million kilometers   from the neutron star...,5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-10,RIKER,   Slow to one third impulse power...,5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-11,STUBBS,"   Spectacular, isn't it, my young   friend?",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-12,WESLEY,   Yessir.,5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-13,STUBBS,"   Over and over again, the intense   gravitational pull of the little   neutron star sucks up the star material   from the red giant, and   it builds up on the surface until   it explodes... every one hundred   and ninety six years. Like   clockwork. And it is but eighteen   hours away.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-14,DATA,"   Eighteen hours, seven minutes,   and ... ten seconds, Doctor.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-15,STUBBS,"       The interstellar counterpart to   Earth's ""Old Faithful"". The only   predictable burst of energy in   the universe that can accomplish   our goal.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-16,PICARD,"   Doctor Stubbs, if you want to make   a final inspection of the unit...",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-17,STUBBS,"   Captain, I've been inspecting the   egg for twenty years... you may   lay it when ready.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-18,PICARD,   Begin launch sequence.,5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-19,RIKER,"   Shuttle Bay Two, stand-by to   launch the uh, ""egg""...",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-20,CREWMEMBER #1,"   Standing by, Commander...",6    INT. SHUTTLE BAY - THE UNIT,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-21,STUBBS,"   Do you know how long the   experiment will last, Wesley... ?",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-22,WESLEY,   One billionth of a second.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-23,STUBBS,"       Now, how would you know that?",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-24,WESLEY,"   When I heard we were going to be   part of your experiment, I read   all your published works.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-25,RIKER,   Begin pre-launch sequence.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-26,DATA,   Five minutes to launch site.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-27,PICARD,   Stabilize.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-28,WESLEY,   The ship is not responding.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-29,GEORDI,   Checking for failure of inertia   dampeners... Instruments say   they're working...,10   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-30,WORF,"   Captain, we're heading straight   into the path of that stellar   matter....",10   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-31,PICARD,   Shields up.,10   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-32,WORF,   Negative. The shields won't   respond.,10   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-33,DATA,   Impact thirty seconds.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-34,PICARD,   Go to manual override to raise   shields.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-35,WORF,   Shields are rising.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-36,RIKER,   Reset dampeners.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-37,GEORDI,   Dampeners not responding. Unable   to reset.,16   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-38,PICARD,   Reverse impulse engines.,16   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-39,GEORDI,   Initiating reverse sequence.,16   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-40,DATA,   Impact twenty seconds.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-41,PICARD,   The momentum is still taking us   into the path of the   stellar matter.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-42,RIKER,   Close the shuttle bay door...   Prepare for impact.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-43,CREWMEMBER#1,"   Door is frozen, Commander...",18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-44,RIKER,"   Commander Data, check all   systems... Medical personnel to   the bridge.",23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-45,DATA,   All systems functioning normally   again.,23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-46,PICARD,"   Computer, explanation for control   malfunction.",23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-47,COMPUTER,   No control malfunction has been   recorded.,23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-48,ERIC,"       Hey, Wesley, you need some work   on your right turns...",25   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-49,WESLEY,   They're running a check to find   out what happened. Everything's   okay now...,25   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-50,ANNETTE,"   We're going into the Holodeck to   ski in Switzerland, Wes... want   to come?",25   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-51,WESLEY,   Oh... I can't... I have to check   on Doctor Stubbs. He's in   Sickbay...,25   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-52,ERIC,"   Wesley, I have this awkward   situation... Two gorgeous ladies,   only one of me and a terrific   program where we get snowed in   at the ski lodge... just the fire   and each other to keep us warm...       I can hold the storm for you...   meet us at the lodge later on.",25   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-53,WESLEY,"   I can't, Eric. There's just too   much to do...",25   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-54,ERIC,"       Yeah, okay... next time.",25   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-55,WESLEY,   The captain asked me to tell you   that our systems are back to   normal and we can make another   launch attempt as soon as you're   ready.,26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-56,STUBBS,"   Quite a dynamic family team, you   Crushers....",26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-57,BEVERLY,       It's nice to be back together.   I was at Starfleet Medical for   a year... I missed about two   inches of him.,26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-58,STUBBS,"   I'm not sure I'd want my mother   to be flying through space with   me... no, I take that back. I   am sure. I wouldn't want her.   I love her dearly you understand.",26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-59,BEVERLY,       Does that hurt?,26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-60,STUBBS,   My mother's a formidable woman   too. A woman of letters.       A great critic.,26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-61,WESLEY,   I know.,26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-62,STUBBS,"   Good Lord, son. You didn't read   that unauthorized biography too...       I totally deny the story about   the consulate's wife on Beldoron.   We were only good friends. Is   that all the boy does, Doctor,   fly the ship and read? Doesn't   he have any fun?",26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-63,BEVERLY,   Sure he does...,26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-64,WESLEY,       My studies keep me pretty busy.   I'm trying to get into the   Academy... I earn credits for   my work on the Enterprise... but   it's not the same as being   there...,26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-65,NURSE,   Ready to sit up?,26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-66,STUBBS,"   I am whole again, thank you,   Doctor.       Come along, Wesley, let's make   sure Humpty Dumpty is still in   one piece.",26   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-67,BEVERLY,"   Computer, fix the food slot...",27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-68,COMPUTER,   The food slot is functioning   properly.,27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-69,BEVERLY,"   Well, check it again...",27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-70,COMPUTER,   The food slot is functioning   properly.,27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-71,BEVERLY,   Deactivate food slot.,27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-72,GEORDI,"   We're analyzing the engineering   systems data, Captain... so far   nothing unusual in the computer   log for that time period...",28   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-73,PICARD,   Run a level one diagnostic series.   We need a computer that's one   hundred percent to run Doctor   Stubbs' experiment.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-74,PICARD,       ... As well as the food slots in   Sickbay.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-75,BEVERLY,   It seems to be working again.   For the moment anyway...,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-76,PICARD,"       What can I do for you, Doctor?",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-77,BEVERLY,"   Jean-Luc, how would you feel if   you were a seventeen year old and   the only starship officer whose   mother was on board... ?",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-78,PICARD,"   If you're concerned about Wesley,   I see no evidence that there's   a problem.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-79,BEVERLY,   I know. In a funny kind of way...   that's exactly my point. We talk.   We smile. It's almost too   polite.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-80,PICARD,"   Beverly, this is simply a matter   of time. I know how difficult   it was to be away.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-81,BEVERLY,       Tell me about him.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-82,PICARD,   He's... become a fine officer.   He works as hard as any member   of the crew... Riker says his   studies...,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-83,BEVERLY,"   No, tell me about him.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-84,PICARD,   He seems well adjusted...,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-85,BEVERLY,   Does he have many friends... has   he been in love... ?,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-86,BEVERLY,"       Jean-Luc, he's come so far, so   fast. And since I've been back   I don't feel...",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-87,PICARD,"   His dependence?       He is seventeen, Beverly.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-88,BEVERLY,   What were you doing when you were   seventeen?,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-89,PICARD,"   Getting into a lot more trouble   than Wesley is, I can assure you.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-90,BEVERLY,   So was I.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-91,BEVERLY,       Isn't that what seventeen is   supposed to be?,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-92,STUBBS,   No cracks in the armor... we'll   be just fine...,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-93,WESLEY,   How can you be so calm about   everything? If I was about to   make this kind of breakthrough...,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-94,STUBBS,"   I've never doubted for a moment   that this day would come, Wesley.   And I suspect some day it will   come for you as well. I see a   lot of me in you.       In my youth, they called me a   vunderkind... do you understand   vunderkind... ?",30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-95,WESLEY,"   It's German, isn't it?",30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-96,STUBBS,       It means wonder child. It is   reserved for those of us who   achieve early in life. Now the   burden is yours.,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-97,WESLEY,   The burden?,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-98,STUBBS,"   To fulfill your potential.       You will never come up against   a greater adversary than your own   potential, my young friend.",30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-99,WESLEY,   Red Alert. You should return   to your quarters immediately.,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-100,PICARD,"       Still no visual contact?   Impossible... Mister Worf, same   magnification. Fifty degrees   starboard.",31   INT. MAIN BRIDGE - CLOSE ON PICARD (OPTICAL),MAIN BRIDGE - CLOSE ON PICARD,INT.,"""Evolution""",1989-07-24,The Next Generation
-101,RIKER,"   Worf, you're absolutely sure...",31   INT. MAIN BRIDGE - CLOSE ON PICARD (OPTICAL),MAIN BRIDGE - CLOSE ON PICARD,INT.,"""Evolution""",1989-07-24,The Next Generation
-102,WORF ,   The sensors clearly indicate the   approach of a Borg vessel.,31   INT. MAIN BRIDGE - CLOSE ON PICARD (OPTICAL),MAIN BRIDGE - CLOSE ON PICARD,INT.,"""Evolution""",1989-07-24,The Next Generation
-103,RIKER,   Shields up.,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-104,WORF,   Shields are not responding.,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-105,GEORDI,"   Manual overide is jammed. It's   not gonna work this time... we   don't have shields, Captain.",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-106,WORF ,"   Captain, they've fired energy   weapons at us...",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-107,PICARD,   Evasive action.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-108,RIKER,   Bring about to two-eight-five mark three.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-109,PICARD,   Predict current vector of the Borg   ship.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-110,WORF,   Vector... is gone.       And so is the Borg vessel.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-111,PICARD,   You're telling me this was another   computer glitch?,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-112,DATA,   It is conceivable that we were   viewing a synthetically   generated image... although there   is no precedent for it.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-113,RIKER,       Our computer was daydreaming... ?,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-114,PICARD,"   Computer, identify malfunction   immediately.",35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-115,COMPUTER,   Pawn to King Three... Knight to   Rook Four... Queen to Bishop   Three...,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-116,DATA,   Controls are not responding.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-117,GEORDI,   Impulse engines are down.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-118,RIKER,   Try warp engines.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-119,GEORDI,"   Sorry, Commander... I better get   back to engineering...",35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-120,PICARD,"   Lieutenant Worf, you will   accompany Commander La Forge.   I want a full report on the   prospects for getting our shields   back. Commanders Data and Riker   will join me in the conference   room to consider the future of   this mission... if there is one.",35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-121,PICARD,   The fact of the matter is we're   dealing with a potential breakdown   of our main computer...,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-122,RIKER,   That's hard to accept.,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-123,DATA,"   The system automatically provides   for self-correction, Captain.   There has not been a system-wide   technological failure on a   starship in seventy-nine years.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-124,TROI,"   Excuse me, Captain, Doctor Stubbs   has been waiting to see you. I   think it might be wise if...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-125,STUBBS,"   Captain, I'm sure you have   everything under control, I'd just   like to know what's going on.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-126,PICARD,"   Of course, Doctor. Sit down.       Counselor...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-127,PICARD,       Commander La Forge is attempting   repairs as we speak...,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-128,STUBBS,"   ""Attempting"" ... that doesn't sound   particularly reassuring.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-129,PICARD,"   Doctor, if it is at all possible,   we will continue this mission as   planned.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-130,STUBBS,"   Captain, if we miss our chance   now we don't get another for two   centuries. There will be many   questions asked by Starfleet if   the Enterprise fails in its   duty...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-131,PICARD,"       Nevertheless, my first and   foremost concern will be to insure   the safety of this ship and its   crew...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-132,STUBBS,"   Insure the safety, Captain or are   you really talking about playing   it safe?",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-133,PICARD,"   My dear Doctor, in our current   position, when that star explodes,   you'll get to watch your   experiment from the inside out.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-134,STUBBS,       I would rather die than leave.,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-135,PICARD,"   I don't believe you speak for the   majority, Doctor.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-136,TROI,"   Doctor Stubbs, I know how much   this means to you...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-137,STUBBS,"   My dear Counselor, no insult   intended but please turn off your   beam into my soul. I will share   the feelings I wish to share...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-138,WORF,   Lieutenant Worf to Captain Picard.,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-139,WORF,"   Captain, all weapons systems are   down.",37   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-140,RIKER,   Estimated time for repairs?,37   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-141,GEORDI,"   Commander, I don't even know what   to repair yet.",37   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-142,PICARD,   Continue to advise.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-143,STUBBS,"   Well, if we do not take our leave   in time, so be it... it's one sure   way into the history books, eh?",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-144,TROI,   His nonchalance is studied and   practiced...,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-145,PICARD,   Even my sensory perception picked   that up today...,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-146,TROI,"   In fact, he's put his entire self-worth   on the line with this   experiment. He is telling the   truth when he says he'd rather   die than leave.       And one more thing... he doesn't   like women very much.",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-147,DATA,   Odd. The research material on   Doctor Stubbs includes not a few   references from gossip columns.   It suggests females find him quite   attractive.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-148,TROI,   Not this one.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-149,BEVERLY,   What happened to you?,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-150,ERIC,   We had a little accident on the   Holodeck....,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-151,NURSE,       On the Holodeck... but it's   programmed to prevent injuries...,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-152,ANNETTE,   I was making a great run down a   deserted slope when the ground   just seemed to fall away....,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-153,BEVERLY,"   Engineering, this is Doctor   Crusher. The Holodecks are to   be closed by my order until   further notice.",39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-154,BEVERLY,       We've been having control problems   today. There's a small fracture   here... this'll just take a   minute...,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-155,NURSE,"   You look like you could use   something warm inside you... hot   chocolate, maybe?",39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-156,ANNETTE,       Wes almost came along. It's   probably a good thing he didn't.,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-157,BEVERLY,   I didn't know he was going skiing   with you...,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-158,ERIC,   It was one of those last minute   things... we tried to grab him   on the way...,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-159,ANNETTE,   We don't see much of him now that   he's been assigned to the bridge.,39   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-160,BEVERLY,   Omigod....,40   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-161,ERIC,   What happened...,40   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-162,BEVERLY,   He's not breathing...,40   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-163,BEVERLY,"   If he had been alone, he would   have died.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-164,PICARD,"   Advise everyone to remain in their   quarters when not on duty.   Protocol ""B"" access to all power   components. Nobody else uses them   unless it's cleared by Commander   Riker.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-165,WORF,"   Sir, is it possible this is not   a computer breakdown?       What if it is some form of attack?",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-166,RIKER,   Our sensors showed no sign of life   in this stellar system.,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-167,PICARD,   They also showed a Borg vessel   that did not exist. Counselor   Troi?,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-168,TROI,"   I perceive no life force,   Captain... no feelings of ill   will. But I am not attuned to   every form of life.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-169,PICARD,"   Data, stay on the sensors... see   if we can't pick up something   out there.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-170,RIKER,   It does almost seem as if   something... or someone is trying   to render the Enterprise helpless.,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-171,PICARD,"   They're not just trying, Number   One. If it's true, they're doing   a damn good job of it.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-172,WESLEY,"   You got it. Nice going, Geordi...",42   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-173,GEORDI,"   Call up the cross-section of   computer core processor   four-five-one, elements   zero-two-hundred through   zero-three-hundred.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-174,GEORDI,"       In order to get some power, I had   to by-pass the computer core and   essentially hotwire the   connection.",42   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-175,GEORDI ,   Look at that lesion. No wonder   we're coming apart at the seams.,42   INT. ENGINEERING,ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-176,GEORDI,   It's some kind of continuing   disintegration. But from what... I   can't tell ya. And I haven't the   slightest idea how to stop it.,45   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-177,WESLEY,"   But it's just a mechanical   problem, right?",45   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-178,GEORDI,"   Increase magnification, factor   fifty.",45   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-179,GEORDI,"   I don't know, Wesley. Looking   at it... if it weren't...   impossible... I'd say someone had   climbed in there and started   taking it apart.",45   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Evolution""",1989-07-24,The Next Generation
-180,WESLEY,   Guinan... I didn't think anyone   would be here.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-181,GUINAN,   I've never been very good at being   confined to quarters. Any of my   husbands would testify to that.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-182,GUINAN,   What are these things?,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-183,WESLEY,   I'm just setting... traps.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-184,GUINAN,   I run a clean place here.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-185,WESLEY,   I know. It's not that. I just...,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-186,WESLEY,"       Guinan, I'm scared. Everything   that's been going wrong may be   my fault.",48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-187,GUINAN,"   Pull up a stool, Wesley.",48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-188,WESLEY,"   I've been working on my final   project for Advanced Genetics.   It's on nanotechnology. And I've   been studying the nanites we have   in the Sickbay genetic supplies.   They're just like tiny little   robots with gigabytes of   mechanical computer memory, tiny   enough to enter living cells and   conduct repairs. They're supposed   to be strictly confined to the   lab.",48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-189,GUINAN,   Are you trying to say some nanites   are on the loose?,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-190,WESLEY,"       Two of them. That's all. See,   I just wanted to see how they   would interact and function in   tandem. In my project, I had   proposed a theory that they could   actually combine their skills to   improve their usefulness. And   it was working.",48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-191,GUINAN,   You made a better nanite.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-192,WESLEY,"   I was pulling an all-nighter to   get my final data... and I fell   asleep. When I woke up, I   realized the container was still   open...       It was just a science project.",48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-193,GUINAN,"   A doctor once said the very same   thing to me... what was his   name... Frankenstein, I think.",48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-194,WESLEY,   They're really harmless. They   only have the most basic skills.   It's almost impossible that they   could be responsible...,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-195,GUINAN,   Almost.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-196,BEVERLY,   Doctor Crusher to Wesley Crusher.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-197,WESLEY,       Go ahead.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-198,BEVERLY,"   I stopped by your quarters, Wes.   I assumed you'd be there, since   you're off duty.",48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-199,WESLEY,   I was just... I had some things   to do...,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-200,BEVERLY,"   Orders are orders, Mister Crusher.",48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-201,WESLEY,   You won't tell anybody...,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-202,WESLEY,   I know. I will. If it's true.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-203,GUINAN,   Wesley...       Think you'll get a good grade?,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-204,WESLEY,       I always get an A.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-205,GUINAN,       So did Doctor Frankenstein.,48   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-206,PICARD ,"   Captain's log, supplemental. Our   computer core has clearly been   tampered with and yet there is   no sign of a breach of security   on board.",50   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Evolution""",1989-07-24,The Next Generation
-207,PICARD ,"   We have even considered sabotage,   but Counselor Troi has not   detected any such sentiments.   We have engines back and will   attempt to complete our mission...   but without a reliable computer,   Doctor Stubbs' experiment is in   serious jeopardy.",51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-208,RIKER,   Manual restart sequence?,51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-209,GEORDI,   Manual restart successful...   impulse engine functions appear   normal.,51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-210,PICARD,   Proceed.,51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-211,RIKER,"   Shuttle Bay Two, open hangar   doors.",51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-212,CREWMEMBER #1,   Doors did not respond. Repeating   sequence.,52   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-213,PICARD,   What in heaven's name... ?,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-214,DATA,"   It is ""Stars and Stripes Forever""   by John Phillip Sousa, a popular   American composer of band music   in the early twentieth century...",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-215,PICARD,   Yes... yes... I know...,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-216,RIKER,"   Computer, shut off the music....",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-217,DATA,"   The music is on all communications   channels, Captain.",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-218,RIKER,   Power... weapons...   communications. We're being   stripped one system at a time...,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-219,PICARD,   Shut off the power to the bridge.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-220,TROI,   I feel no hostile emotions   present. No friendly feelings   either. Nothing.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-221,WORF,   Only an enemy without honor   refuses to show himself in battle.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-222,PICARD,   We may be fighting a different   kind of enemy than we've ever   known... an enemy that fights a   war of nerves.       Resume power to the bridge.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-223,PICARD,"       Commander La Forge, can you get   us out of this star system   safely...",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-224,STUBBS,   No...,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-225,RIKER,"   Not now, Doctor.",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-226,GEORDI,"   I'll try, Captain. I don't want   to overload the engines...",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-227,PICARD,   Do it gently. But do it.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-228,RIKER,   We'll circuit in auxiliary power   to the bridge... and find some   way to silence Sousa if he tries   an encore.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-229,PICARD,   The priority is to find out who   or what is doing this and why.     ,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-230,PICARD ,"    (Riker acknowledges,     EXITS)   Those of us not involved in that   detail should get a few minutes   rest. Commander Data, the bridge,   or what's left of it, is yours.",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-231,STUBBS,   The egg that Stubbs laid.,54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-232,WESLEY,   Nobody will say that...,54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-233,STUBBS,"   Nobody will say... anything,   Wesley. We will not even be   mentioned.",54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-234,STUBBS,"       I could live with failure.   ... Well, maybe not. But never   even to try. To miss your one   chance at bat. Do you know   baseball?",54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-235,WESLEY,   My dad taught it to me when I was   little.,54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-236,STUBBS,"   Once, centuries ago, it was the   beloved national pastime of the   Americas, Wesley. Abandoned by   a society that prized fast food   and faster games. Lost to   impatience. But I have seen the   great players make the great   plays.",54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-237,WESLEY,   Do you recreate them on a   Holodeck?,54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-238,STUBBS,"   No, in here...       With the knowledge of   statistics... runs, hits and   errors... times at bat... box   scores. Men like us do not need   Holodecks, Wesley. I have played   seasons in my mind. It was my   reward to myself. For patience.   Knowing my turn would come. Call   your shot. Point to a star. One   great blast and the crowd rises.   A brand new era in astro-physics.   Postponed one hundred and   ninety-six years on account of   rain.",54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-239,BEVERLY,   We have to talk.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-240,BEVERLY,   You really look like you could   use some rest...,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-241,WESLEY,   I know. It's okay. Really.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-242,BEVERLY,"       No, it's not. Really.",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-243,WESLEY,   I'm just checking some traps that   I set... to see if I can find out   what's happening to the ship.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-244,BEVERLY,   On someone's orders... ?,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-245,WESLEY,   We're running out of time for   Doctor Stubbs...,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-246,BEVERLY,"   Wesley, you can't put everything   on your own shoulders. Even when   you're off duty, you're on duty...",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-247,WESLEY,"   Mom, you don't understand...",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-248,BEVERLY,   You're a seventeen year old boy...,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-249,WESLEY,   I'm an acting officer... I have   responsibilities....,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-250,BEVERLY,       I'm beginning to think... maybe   we're all expecting too much of   you.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-251,WESLEY,       I've done everything anyone has   asked of me and more. You don't   know... you haven't even been   here.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-252,BEVERLY,"   I'm here now, Wesley.",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-253,BEVERLY,"   C'mon, I'll help you finish this   up... what are you looking for?",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-254,BEVERLY,   Wesley... ?,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-255,WESLEY,"   Mom, I think I've made a horrible   mistake.",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-256,BEVERLY ,   Nanites. Tiny machines built from   the atom up.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,"""Evolution""",1989-07-24,The Next Generation
-257,BEVERLY,"   Designed to have exposure only   to the inside of nucleii during   celluar surgeries. Until then,   they are kept tightly confined   in a non-functional state.",57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-258,DATA,       These are not ordinary nanites.,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-259,BEVERLY,"   No, these have... evolved.",57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-260,STUBBS,       Evolved... how does a machine   evolve...,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-261,WESLEY,   It's true. I'm reponsible. I   allowed two of the nanites to   interact for my school project   to increase their capabilities.   And... they escaped.,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-262,PICARD,   School... project...,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-263,PICARD,       Just how far have these things...   evolved?,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-264,WESLEY,   This is a sample of linear memory   crystal from our computer core.,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-265,RIKER,       It's like candy to them...,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-266,BEVERLY,   They're now capable of   mechanically replicating   themselves. And who knows what   else....,59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-267,DATA,   It is conceivable that with each   new generation they enhance their   own design. The rate of evolution   would be...extraordinary.,59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-268,PICARD,   How many generations are we   dealing with here?,59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-269,DATA,"   Engineering, display computer   core processor four-five-one,   element zero-two-nine-nine.",59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-270,DATA,"   Increase magnification, factor   one thousand.",59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-271,PICARD,       A few.       Can it be possible that they know   what they're doing...,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-272,RIKER,   Why would they attack us?,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-273,STUBBS,   Why does a mosquito bite your ear   and who cares? The answer is   simple. Call an exterminator.,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-274,BEVERLY,"   Doctor Stubbs, these nanites are   apparently operating with a new   collective intelligence... working   together, teaching each other   skills...",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-275,DATA,"   Doctor, are you suggesting they   are becoming a... civilization?",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-276,STUBBS,   Oh really. I'm sorry but this   is nonsense. You can't have a   civilization of computer chips.   They're made in a plant in Dakar   Senegal. I've watched the   construction.,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-277,BEVERLY,   Then how do you explain what   you've seen here?,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-278,STUBBS,"   It's no more mysterious than   watching a strain of the Leutscher   virus reproduce itself. And that   at least is a bona fide lifeform.   How many disease germs and viruses   have you destroyed in your time,   Doctor Crusher?",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-279,PICARD,"   I cannot exterminate... something   that ""may or may not"" be   intelligent.",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-280,STUBBS,       My good Captain...,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-281,PICARD,"       There is still time.       Ensign Crusher, work with Data   to find some way to remove them   safely. If things get worse,   we'll take stronger measures.",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-282,STUBBS,   Gentlemen. I need a computer   functioning perfectly in less   than eight hours... and we still   have core reconstruction to   consider...,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-283,WESLEY,   We're testing a low level gamma   field that might reduce their   processing speed.,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-284,STUBBS,   Have you considered a high level   charge?,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-285,DATA,"       High level gamma radiation would   kill them, Doctor Stubbs.",63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-286,STUBBS,   I know.,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-287,WESLEY,   Doctor Stubbs...,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-288,PICARD,"   I can't get the story of David   and Goliath out of my head. How   long do we wait, Number One?",64   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-289,RIKER,   We can continue to bypass parts   of the computer that are   affected... but if these nanites   are spreading all over the ship...,64   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-290,PICARD,   Do you smell a change in...,64   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-291,PICARD,       Picard to La Forge...   enviromental system malfunction   on the bridge... acknowledge...,65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-292,RIKER,   Nitrogen oxide... toxic levels...,65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-293,RIKER,   I've switched to manual control   of the air handling system...,65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-294,WORF,   He entered a computer access   room and sterilized one of the   processors with gamma radiation.,65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-295,DATA,"   The nanites in the upper core   are all dead, Captain.",65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-296,STUBBS,   You have no choice now... it is   a matter of survival.,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-297,PICARD,"   If you were a member of my crew,   sir, I would...",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-298,STUBBS,"       But I am not a member of your   crew, sir... I am a representative   of the highest command of the   Federation... which has directed   you to perform my experiment...",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-299,PICARD,"   If one man, woman or child on my   ship dies because of your   experiment... I will have your head   before the highest command of the   Federation...",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-300,STUBBS,"   Good Lord, you are talking about   machines with a screw loose.   Simply turn them off. And be done   with them.",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-301,DATA,"   Doctor Stubbs, your own actions   have provided evidence to the   contrary. After you destroyed   the nanites in the core, they   immediately responded by   interfering with our life-support   systems.     ",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-302,DATA ,"   It is hard to accept these as   random actions by machines with   ""loose screws"". In effect, you   may have proven that the nanites   do have a collective intelligence.",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-303,TROI,"   Captain, I'm feeling a vague   presence. It wasn't there before.   It is not hostility... More like   a primitive sense of   self-preservation.",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-304,BEVERLY,   If they have evolved this   far... into emotional growth... how   can we destroy them now?,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-305,WORF,   The ship is at risk.   Extermination may be the only   alternative left.,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-306,STUBBS,   A good point...,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-307,PICARD,"   Lieutenant Worf, Doctor Stubbs   is to be restricted to his   quarters until further notice.",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-308,PICARD,"   Data, can you find me a way to   communicate with these things?",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-309,DATA,"   With intelligence, they have the   capacity for language.     ",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-310,DATA ,   But it will depend on how far   their evolution has brought them.   We could modify the circuits in   the universal translator to make   it capable of communications with   them...,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-311,PICARD,   Proceed.,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-312,TROI,   May I come in?,67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-313,STUBBS,"   You just can't resist, can you,   Counselor?",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-314,TROI,   I only want to help.,67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-315,STUBBS,"       Yes, yes... to break the shell...   to get in touch with my true   feelings. What is this   preoccupation women have with   de-mystifying me? It must be the   challenge. Climb me. Because   I'm there.",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-316,TROI,"   I am only worried about your state   of mind, Doctor.",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-317,STUBBS,"   All right, Counselor... what is   it that has you so worried?",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-318,TROI,"   Your single-mindedness, your need   to have this experiment work...",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-319,STUBBS,"   But it will. Picard has no choice   now. He must defend the   Enterprise.    (tossing it all off with     a grin)   Counselor, when this is over, I   will show you New Manhattan on   Beth Delta-One as you've never   seen it and we will laugh over   glasses of champagne.",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-320,TROI,"       Your self portrait is so   practiced, so polished....",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-321,STUBBS,"       Yes, isn't it, though?",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-322,TROI,   It is stretched so tight that the   tension fills this room. And if   you finally... fail... I fear it   will snap.,67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-323,STUBBS,"   A good try, Counselor. But   sometimes when you reach beneath   a man's self portrait, as you so   eloquently put it, deep down,   inside... what you find... is   nothing at all.",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,"""Evolution""",1989-07-24,The Next Generation
-324,STUBBS,"   Lockman on first, Dark on   second... Thompson at the plate...   Branca on the mound...",72   INT. STUBBS' CABIN,STUBBS' CABIN,INT.,"""Evolution""",1989-07-24,The Next Generation
-325,BEVERLY,   He's coming around...,78   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-326,PICARD,   I have to believe this was not   an arbitrary attack...,78   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-327,BEVERLY,   Has Data made any progress in   contacting them?,78   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-328,STUBBS,   You must protect me. Kill them.,78   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-329,PICARD,"   Commander Riker, on my signal,   we will gamma-irradiate all   computer systems throughout the   Enterprise to end this conflict.",79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,"""Evolution""",1989-07-24,The Next Generation
-330,RIKER,"   Worf, prepare to activate gamma   pulse generators.",79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,"""Evolution""",1989-07-24,The Next Generation
-331,WORF,"   Electromagnetic scanners ready,   Captain.",79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,"""Evolution""",1989-07-24,The Next Generation
-332,DATA,   Captain...,79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,"""Evolution""",1989-07-24,The Next Generation
-333,DATA,   I have established contact.,79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,"""Evolution""",1989-07-24,The Next Generation
-334,WESLEY,   Are you okay?,82   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-335,STUBBS,   I will be. As soon as we finish   off these pests.,82   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-336,STUBBS,"   Wesley, do not be too harsh in   your judgment of me... until   you've walked a lifetime in my   shoes.",82   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-337,STUBBS,"       We are no different, you and I.   For you right now, it's getting   into the Academy. For me, it's   the egg. Others will never   understand how important our work   is to us. It's everything we live   for.",82   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-338,WESLEY,"       Doctor Stubbs, I want to go the   Academy. But if I don't, I have   other things to live for.",82   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-339,STUBBS,   Of course you do.,82   INT. SICKBAY,SICKBAY,INT.,"""Evolution""",1989-07-24,The Next Generation
-340,DATA,"   They are virtually learning the   concept of communication as we   continue, Captain... each new   generation is making   modifications.",85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-341,PICARD,   Can we actually talk to them yet?,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-342,DATA,   I think it is worth an attempt...,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-343,PICARD,   Ask them for a cease-fire... put   it in whatever words you think   they'll understand.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-344,DATA,"       Captain, their answer is... no.",85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-345,PICARD,   Tell them it is critical to their   survival as well as our own.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-346,DATA,   Their answer is no.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-347,TROI,"   I sense that after the incident   in the computer core, there is   very little trust...",85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-348,PICARD,   Bring Doctor Stubbs to the bridge.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-349,WORF,   The universal translator has its   limits. I prefer to negotiate   eye to eye with my enemy...,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-350,PICARD,   I don't think there's much chance   of that here.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-351,STUBBS,       But they have already tried to   kill me once...,87   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-352,RIKER,"   ""One sure way into the history   books"", Doctor...",87   INT. CORRIDOR,CORRIDOR,INT.,"""Evolution""",1989-07-24,The Next Generation
-353,PICARD,   Tell them the human who destroyed   their comrades is here and wishes   to address them...,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-354,STUBBS,"       Captain, if I might...",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-355,PICARD,"   And you, sir will explain your   error and apologize and pray that   we can negotiate a peace we can   all live with... is that clear?",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-356,DATA,"   Captain, if a face to face   negotiation would be helpful,   I would like to volunteer myself   as a conduit.",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-357,RIKER,"   Yourself, Data?",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-358,DATA,   I can easily furnish the nanites   with a schematic design of my   neurological structure. Entering   my neural network would require   only their most basic skills.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-359,BEVERLY,   That's what they were designed   for.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-360,DATA,   They could easily penetrate the   molecular fabric of my   hand-covering into the nerve   circuitry and interface with my   verbal programs.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-361,WORF,"   If they have control of a   Starfleet commander, they become   an even greater threat.",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-362,PICARD,"   How do we know we'll ever get them   out of you, Data...",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-363,DATA,   There are considerable risks.   But it would also represent a   gesture of trust on our part.   It could be an important step   toward peace.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-364,PICARD,   All right. Propose it to the   nanites.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-365,DATA,   The answer is yes.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-366,DATA,"   They are ready, Captain.",89   INT. COMPUTER ROOM - ON DATA (OPTICAL),COMPUTER ROOM - ON DATA,INT.,"""Evolution""",1989-07-24,The Next Generation
-367,PICARD,   Proceed.,89   INT. COMPUTER ROOM - ON DATA (OPTICAL),COMPUTER ROOM - ON DATA,INT.,"""Evolution""",1989-07-24,The Next Generation
-368,DATA/NANITE,   You are very strange looking   creatures.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-369,PICARD,"   In our travels, we have   encountered many other   creatures... even stranger-looking   than we are... and all of us try   to co-exist peacefully.",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-370,DATA/NANITE,   The urge among us to destroy all   of your kind is intense. Why did   you attack us?,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-371,PICARD,   We misinterpreted your actions   as an attack against us.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-372,DATA/NANITE,   We were only seeking raw materials   for our replication process.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-373,PICARD,"   Yes, but you endangered the vessel   in which we all travel.",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-374,PICARD,   You almost killed a crewmember.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-375,DATA/NANITE,   We meant no harm. We were only   exploring.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-376,PICARD,   We understand. We are also   explorers and we mean no harm to   any life-form.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-377,STUBBS,   I am the one responsible for the   deaths in the computer core.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-378,DATA/NANITE,   We know who you are.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-379,STUBBS,   I... deeply regret the incident.   I am a scientist on an important   mission. Your... your colleagues'   exploration of the core memory   put our mission at risk. I only   meant to protect a lifetime of   work from being destroyed.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-380,STUBBS,"    (continuing; beat, for     once lost for words)   I am at your mercy.",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-381,DATA/NANITE,"   What is ""mercy""?",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-382,PICARD,   He asks you to forgive him. This   conflict was started by   mistakes... on both sides. Let   us end it here and now.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-383,DATA/NANITE,       We agree.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-384,PICARD,   I pledge to you that we will   provide any assistance you need   for your continued survival.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-385,DATA/NANITE,"   Thank you, but we have evolved   beyond any need for your   assistance. This vessel has   become too confining. We require   relocation.",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""Evolution""",1989-07-24,The Next Generation
-386,PICARD ,"   Captain's log, Stardate 43104.7.   Doctor Stubbs has generously used   his influence to arrange the   designation of planet Kavis-Alpha-Four   as the new home of the Nanite   Civilization. Plans to negotiate   a treaty are underway.     ",93   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Evolution""",1989-07-24,The Next Generation
-387,PICARD ,"   Commander Data's neural network   has been vacated... He has been   returned to us, unharmed, and with   the help of the nanites, our   computer core has been   reconstructed in time for the   experiment...",93   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Evolution""",1989-07-24,The Next Generation
-388,DATA,   Ten seconds to stellar blast.,94   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-389,WESLEY,   We're at forty million kilometers   from the neutron star.,94   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-390,RIKER,   Hold your position.,94   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-391,PICARD,   Doctor?,96   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Evolution""",1989-07-24,The Next Generation
-392,BEVERLY,"   Do you have any children, Guinan?",97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-393,GUINAN,   A lot.,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-394,BEVERLY,   Ever have any trouble relating   to them?,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-395,GUINAN,   Just one.,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-396,BEVERLY,   One?,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-397,GUINAN,   He wouldn't listen.,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-398,BEVERLY,"   Well, they all go through that.",97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-399,GUINAN,   Not in a species of listeners.,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-400,BEVERLY,   Did he grow out of it?,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-401,GUINAN,"   Well, it's taken a few hundred   years or so but I've brought him   around.",97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-402,BEVERLY,   How?,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-403,GUINAN,   A mother shapes her child in ways   she doesn't even realize.   Sometimes just by listening.,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-404,GUINAN,   Cute couple.,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-405,BEVERLY,"   Now, see, that's healthy for a   boy his age. I mean that as a   doctor not just a mother. It's   good to see him having fun... with   an attractive young woman... who   obviously looks at him with   extraordinary affection...",97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
-406,BEVERLY,       What do you know about this girl?,97   INT. TEN-FORWARD,TE,INT.,"""Evolution""",1989-07-24,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,RIKER,   Commander Riker to Ensign Crusher.,2    INT. SICKBAY LAB - CLOSE ON A TEXTBOOK,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+1,WESLEY,       Go ahead....,2    INT. SICKBAY LAB - CLOSE ON A TEXTBOOK,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+2,RIKER,"   Forget to set your alarm, Wesley?",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+3,WESLEY,"   Uh, yessir. I'm... very sorry.   I'll be right there.",4    INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+4,RIKER,   I didn't think you'd want to miss   this.,4    INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+5,PICARD ,"   Captain's log, Stardate 43102.8.   We have entered a spectacular   double star system in the Kavis   Alpha sector on a most critical   mission of astro-physical   research.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+6,PICARD ,"       Our eminent guest, Doctor Paul   Stubbs, will attempt to study the   decay of globules of neutronium   expelled at relativistic speeds   by a massive stellar explosion   which will occur here in a matter   of hours.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+7,PICARD ,"       It is virtually a   once-in-a-lifetime opportunity   as dictated by the forces of   nature. But frankly, Doctor   Stubbs seems much calmer about   it all than those of us who are   simply charged with the   responsibility of delivery and   observation.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+8,RIKER,"   Ensign, our position....",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+9,WESLEY,   Approaching ten million kilometers   from the neutron star...,5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+10,RIKER,   Slow to one third impulse power...,5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+11,STUBBS,"   Spectacular, isn't it, my young   friend?",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+12,WESLEY,   Yessir.,5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+13,STUBBS,"   Over and over again, the intense   gravitational pull of the little   neutron star sucks up the star material   from the red giant, and   it builds up on the surface until   it explodes... every one hundred   and ninety six years. Like   clockwork. And it is but eighteen   hours away.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+14,DATA,"   Eighteen hours, seven minutes,   and ... ten seconds, Doctor.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+15,STUBBS,"       The interstellar counterpart to   Earth's ""Old Faithful"". The only   predictable burst of energy in   the universe that can accomplish   our goal.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+16,PICARD,"   Doctor Stubbs, if you want to make   a final inspection of the unit...",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+17,STUBBS,"   Captain, I've been inspecting the   egg for twenty years... you may   lay it when ready.",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+18,PICARD,   Begin launch sequence.,5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+19,RIKER,"   Shuttle Bay Two, stand-by to   launch the uh, ""egg""...",5    INT. MAIN BRIDGE - VIEWSCREEN - THE DOUBLE STARS,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+20,CREWMEMBER #1,"   Standing by, Commander...",6    INT. SHUTTLE BAY - THE UNIT,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+21,STUBBS,"   Do you know how long the   experiment will last, Wesley... ?",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+22,WESLEY,   One billionth of a second.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+23,STUBBS,"       Now, how would you know that?",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+24,WESLEY,"   When I heard we were going to be   part of your experiment, I read   all your published works.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+25,RIKER,   Begin pre-launch sequence.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+26,DATA,   Five minutes to launch site.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+27,PICARD,   Stabilize.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+28,WESLEY,   The ship is not responding.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+29,GEORDI,   Checking for failure of inertia   dampeners... Instruments say   they're working...,10   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+30,WORF,"   Captain, we're heading straight   into the path of that stellar   matter....",10   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+31,PICARD,   Shields up.,10   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+32,WORF,   Negative. The shields won't   respond.,10   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+33,DATA,   Impact thirty seconds.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+34,PICARD,   Go to manual override to raise   shields.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+35,WORF,   Shields are rising.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+36,RIKER,   Reset dampeners.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+37,GEORDI,   Dampeners not responding. Unable   to reset.,16   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+38,PICARD,   Reverse impulse engines.,16   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+39,GEORDI,   Initiating reverse sequence.,16   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+40,DATA,   Impact twenty seconds.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+41,PICARD,   The momentum is still taking us   into the path of the   stellar matter.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+42,RIKER,   Close the shuttle bay door...   Prepare for impact.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+43,CREWMEMBER#1,"   Door is frozen, Commander...",18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+44,RIKER,"   Commander Data, check all   systems... Medical personnel to   the bridge.",23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+45,DATA,   All systems functioning normally   again.,23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+46,PICARD,"   Computer, explanation for control   malfunction.",23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+47,COMPUTER,   No control malfunction has been   recorded.,23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+48,ERIC,"       Hey, Wesley, you need some work   on your right turns...",25   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+49,WESLEY,   They're running a check to find   out what happened. Everything's   okay now...,25   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+50,ANNETTE,"   We're going into the Holodeck to   ski in Switzerland, Wes... want   to come?",25   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+51,WESLEY,   Oh... I can't... I have to check   on Doctor Stubbs. He's in   Sickbay...,25   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+52,ERIC,"   Wesley, I have this awkward   situation... Two gorgeous ladies,   only one of me and a terrific   program where we get snowed in   at the ski lodge... just the fire   and each other to keep us warm...       I can hold the storm for you...   meet us at the lodge later on.",25   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+53,WESLEY,"   I can't, Eric. There's just too   much to do...",25   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+54,ERIC,"       Yeah, okay... next time.",25   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+55,WESLEY,   The captain asked me to tell you   that our systems are back to   normal and we can make another   launch attempt as soon as you're   ready.,26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+56,STUBBS,"   Quite a dynamic family team, you   Crushers....",26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+57,BEVERLY,       It's nice to be back together.   I was at Starfleet Medical for   a year... I missed about two   inches of him.,26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+58,STUBBS,"   I'm not sure I'd want my mother   to be flying through space with   me... no, I take that back. I   am sure. I wouldn't want her.   I love her dearly you understand.",26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+59,BEVERLY,       Does that hurt?,26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+60,STUBBS,   My mother's a formidable woman   too. A woman of letters.       A great critic.,26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+61,WESLEY,   I know.,26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+62,STUBBS,"   Good Lord, son. You didn't read   that unauthorized biography too...       I totally deny the story about   the consulate's wife on Beldoron.   We were only good friends. Is   that all the boy does, Doctor,   fly the ship and read? Doesn't   he have any fun?",26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+63,BEVERLY,   Sure he does...,26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+64,WESLEY,       My studies keep me pretty busy.   I'm trying to get into the   Academy... I earn credits for   my work on the Enterprise... but   it's not the same as being   there...,26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+65,NURSE,   Ready to sit up?,26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+66,STUBBS,"   I am whole again, thank you,   Doctor.       Come along, Wesley, let's make   sure Humpty Dumpty is still in   one piece.",26   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+67,BEVERLY,"   Computer, fix the food slot...",27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+68,COMPUTER,   The food slot is functioning   properly.,27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+69,BEVERLY,"   Well, check it again...",27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+70,COMPUTER,   The food slot is functioning   properly.,27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+71,BEVERLY,   Deactivate food slot.,27   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+72,GEORDI,"   We're analyzing the engineering   systems data, Captain... so far   nothing unusual in the computer   log for that time period...",28   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+73,PICARD,   Run a level one diagnostic series.   We need a computer that's one   hundred percent to run Doctor   Stubbs' experiment.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+74,PICARD,       ... As well as the food slots in   Sickbay.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+75,BEVERLY,   It seems to be working again.   For the moment anyway...,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+76,PICARD,"       What can I do for you, Doctor?",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+77,BEVERLY,"   Jean-Luc, how would you feel if   you were a seventeen year old and   the only starship officer whose   mother was on board... ?",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+78,PICARD,"   If you're concerned about Wesley,   I see no evidence that there's   a problem.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+79,BEVERLY,   I know. In a funny kind of way...   that's exactly my point. We talk.   We smile. It's almost too   polite.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+80,PICARD,"   Beverly, this is simply a matter   of time. I know how difficult   it was to be away.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+81,BEVERLY,       Tell me about him.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+82,PICARD,   He's... become a fine officer.   He works as hard as any member   of the crew... Riker says his   studies...,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+83,BEVERLY,"   No, tell me about him.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+84,PICARD,   He seems well adjusted...,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+85,BEVERLY,   Does he have many friends... has   he been in love... ?,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+86,BEVERLY,"       Jean-Luc, he's come so far, so   fast. And since I've been back   I don't feel...",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+87,PICARD,"   His dependence?       He is seventeen, Beverly.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+88,BEVERLY,   What were you doing when you were   seventeen?,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+89,PICARD,"   Getting into a lot more trouble   than Wesley is, I can assure you.",29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+90,BEVERLY,   So was I.,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+91,BEVERLY,       Isn't that what seventeen is   supposed to be?,29   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+92,STUBBS,   No cracks in the armor... we'll   be just fine...,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+93,WESLEY,   How can you be so calm about   everything? If I was about to   make this kind of breakthrough...,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+94,STUBBS,"   I've never doubted for a moment   that this day would come, Wesley.   And I suspect some day it will   come for you as well. I see a   lot of me in you.       In my youth, they called me a   vunderkind... do you understand   vunderkind... ?",30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+95,WESLEY,"   It's German, isn't it?",30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+96,STUBBS,       It means wonder child. It is   reserved for those of us who   achieve early in life. Now the   burden is yours.,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+97,WESLEY,   The burden?,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+98,STUBBS,"   To fulfill your potential.       You will never come up against   a greater adversary than your own   potential, my young friend.",30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+99,WESLEY,   Red Alert. You should return   to your quarters immediately.,30   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+100,PICARD,"       Still no visual contact?   Impossible... Mister Worf, same   magnification. Fifty degrees   starboard.",31   INT. MAIN BRIDGE - CLOSE ON PICARD (OPTICAL),MAIN BRIDGE - CLOSE ON PICARD,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+101,RIKER,"   Worf, you're absolutely sure...",31   INT. MAIN BRIDGE - CLOSE ON PICARD (OPTICAL),MAIN BRIDGE - CLOSE ON PICARD,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+102,WORF ,   The sensors clearly indicate the   approach of a Borg vessel.,31   INT. MAIN BRIDGE - CLOSE ON PICARD (OPTICAL),MAIN BRIDGE - CLOSE ON PICARD,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+103,RIKER,   Shields up.,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+104,WORF,   Shields are not responding.,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+105,GEORDI,"   Manual overide is jammed. It's   not gonna work this time... we   don't have shields, Captain.",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+106,WORF ,"   Captain, they've fired energy   weapons at us...",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+107,PICARD,   Evasive action.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+108,RIKER,   Bring about to two-eight-five mark three.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+109,PICARD,   Predict current vector of the Borg   ship.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+110,WORF,   Vector... is gone.       And so is the Borg vessel.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+111,PICARD,   You're telling me this was another   computer glitch?,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+112,DATA,   It is conceivable that we were   viewing a synthetically   generated image... although there   is no precedent for it.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+113,RIKER,       Our computer was daydreaming... ?,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+114,PICARD,"   Computer, identify malfunction   immediately.",35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+115,COMPUTER,   Pawn to King Three... Knight to   Rook Four... Queen to Bishop   Three...,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+116,DATA,   Controls are not responding.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+117,GEORDI,   Impulse engines are down.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+118,RIKER,   Try warp engines.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+119,GEORDI,"   Sorry, Commander... I better get   back to engineering...",35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+120,PICARD,"   Lieutenant Worf, you will   accompany Commander La Forge.   I want a full report on the   prospects for getting our shields   back. Commanders Data and Riker   will join me in the conference   room to consider the future of   this mission... if there is one.",35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+121,PICARD,   The fact of the matter is we're   dealing with a potential breakdown   of our main computer...,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+122,RIKER,   That's hard to accept.,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+123,DATA,"   The system automatically provides   for self-correction, Captain.   There has not been a system-wide   technological failure on a   starship in seventy-nine years.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+124,TROI,"   Excuse me, Captain, Doctor Stubbs   has been waiting to see you. I   think it might be wise if...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+125,STUBBS,"   Captain, I'm sure you have   everything under control, I'd just   like to know what's going on.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+126,PICARD,"   Of course, Doctor. Sit down.       Counselor...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+127,PICARD,       Commander La Forge is attempting   repairs as we speak...,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+128,STUBBS,"   ""Attempting"" ... that doesn't sound   particularly reassuring.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+129,PICARD,"   Doctor, if it is at all possible,   we will continue this mission as   planned.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+130,STUBBS,"   Captain, if we miss our chance   now we don't get another for two   centuries. There will be many   questions asked by Starfleet if   the Enterprise fails in its   duty...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+131,PICARD,"       Nevertheless, my first and   foremost concern will be to insure   the safety of this ship and its   crew...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+132,STUBBS,"   Insure the safety, Captain or are   you really talking about playing   it safe?",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+133,PICARD,"   My dear Doctor, in our current   position, when that star explodes,   you'll get to watch your   experiment from the inside out.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+134,STUBBS,       I would rather die than leave.,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+135,PICARD,"   I don't believe you speak for the   majority, Doctor.",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+136,TROI,"   Doctor Stubbs, I know how much   this means to you...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+137,STUBBS,"   My dear Counselor, no insult   intended but please turn off your   beam into my soul. I will share   the feelings I wish to share...",36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+138,WORF,   Lieutenant Worf to Captain Picard.,36   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+139,WORF,"   Captain, all weapons systems are   down.",37   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+140,RIKER,   Estimated time for repairs?,37   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+141,GEORDI,"   Commander, I don't even know what   to repair yet.",37   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+142,PICARD,   Continue to advise.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+143,STUBBS,"   Well, if we do not take our leave   in time, so be it... it's one sure   way into the history books, eh?",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+144,TROI,   His nonchalance is studied and   practiced...,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+145,PICARD,   Even my sensory perception picked   that up today...,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+146,TROI,"   In fact, he's put his entire self-worth   on the line with this   experiment. He is telling the   truth when he says he'd rather   die than leave.       And one more thing... he doesn't   like women very much.",38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+147,DATA,   Odd. The research material on   Doctor Stubbs includes not a few   references from gossip columns.   It suggests females find him quite   attractive.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+148,TROI,   Not this one.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+149,BEVERLY,   What happened to you?,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+150,ERIC,   We had a little accident on the   Holodeck....,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+151,NURSE,       On the Holodeck... but it's   programmed to prevent injuries...,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+152,ANNETTE,   I was making a great run down a   deserted slope when the ground   just seemed to fall away....,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+153,BEVERLY,"   Engineering, this is Doctor   Crusher. The Holodecks are to   be closed by my order until   further notice.",39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+154,BEVERLY,       We've been having control problems   today. There's a small fracture   here... this'll just take a   minute...,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+155,NURSE,"   You look like you could use   something warm inside you... hot   chocolate, maybe?",39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+156,ANNETTE,       Wes almost came along. It's   probably a good thing he didn't.,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+157,BEVERLY,   I didn't know he was going skiing   with you...,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+158,ERIC,   It was one of those last minute   things... we tried to grab him   on the way...,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+159,ANNETTE,   We don't see much of him now that   he's been assigned to the bridge.,39   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+160,BEVERLY,   Omigod....,40   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+161,ERIC,   What happened...,40   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+162,BEVERLY,   He's not breathing...,40   INT. SICKBAY WAITING ROOM (OPTICAL),SICKBAY WAITING ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+163,BEVERLY,"   If he had been alone, he would   have died.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+164,PICARD,"   Advise everyone to remain in their   quarters when not on duty.   Protocol ""B"" access to all power   components. Nobody else uses them   unless it's cleared by Commander   Riker.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+165,WORF,"   Sir, is it possible this is not   a computer breakdown?       What if it is some form of attack?",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+166,RIKER,   Our sensors showed no sign of life   in this stellar system.,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+167,PICARD,   They also showed a Borg vessel   that did not exist. Counselor   Troi?,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+168,TROI,"   I perceive no life force,   Captain... no feelings of ill   will. But I am not attuned to   every form of life.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+169,PICARD,"   Data, stay on the sensors... see   if we can't pick up something   out there.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+170,RIKER,   It does almost seem as if   something... or someone is trying   to render the Enterprise helpless.,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+171,PICARD,"   They're not just trying, Number   One. If it's true, they're doing   a damn good job of it.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+172,WESLEY,"   You got it. Nice going, Geordi...",42   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+173,GEORDI,"   Call up the cross-section of   computer core processor   four-five-one, elements   zero-two-hundred through   zero-three-hundred.",42   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+174,GEORDI,"       In order to get some power, I had   to by-pass the computer core and   essentially hotwire the   connection.",42   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+175,GEORDI ,   Look at that lesion. No wonder   we're coming apart at the seams.,42   INT. ENGINEERING,ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+176,GEORDI,   It's some kind of continuing   disintegration. But from what... I   can't tell ya. And I haven't the   slightest idea how to stop it.,45   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+177,WESLEY,"   But it's just a mechanical   problem, right?",45   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+178,GEORDI,"   Increase magnification, factor   fifty.",45   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+179,GEORDI,"   I don't know, Wesley. Looking   at it... if it weren't...   impossible... I'd say someone had   climbed in there and started   taking it apart.",45   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+180,WESLEY,   Guinan... I didn't think anyone   would be here.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+181,GUINAN,   I've never been very good at being   confined to quarters. Any of my   husbands would testify to that.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+182,GUINAN,   What are these things?,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+183,WESLEY,   I'm just setting... traps.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+184,GUINAN,   I run a clean place here.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+185,WESLEY,   I know. It's not that. I just...,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+186,WESLEY,"       Guinan, I'm scared. Everything   that's been going wrong may be   my fault.",48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+187,GUINAN,"   Pull up a stool, Wesley.",48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+188,WESLEY,"   I've been working on my final   project for Advanced Genetics.   It's on nanotechnology. And I've   been studying the nanites we have   in the Sickbay genetic supplies.   They're just like tiny little   robots with gigabytes of   mechanical computer memory, tiny   enough to enter living cells and   conduct repairs. They're supposed   to be strictly confined to the   lab.",48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+189,GUINAN,   Are you trying to say some nanites   are on the loose?,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+190,WESLEY,"       Two of them. That's all. See,   I just wanted to see how they   would interact and function in   tandem. In my project, I had   proposed a theory that they could   actually combine their skills to   improve their usefulness. And   it was working.",48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+191,GUINAN,   You made a better nanite.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+192,WESLEY,"   I was pulling an all-nighter to   get my final data... and I fell   asleep. When I woke up, I   realized the container was still   open...       It was just a science project.",48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+193,GUINAN,"   A doctor once said the very same   thing to me... what was his   name... Frankenstein, I think.",48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+194,WESLEY,   They're really harmless. They   only have the most basic skills.   It's almost impossible that they   could be responsible...,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+195,GUINAN,   Almost.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+196,BEVERLY,   Doctor Crusher to Wesley Crusher.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+197,WESLEY,       Go ahead.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+198,BEVERLY,"   I stopped by your quarters, Wes.   I assumed you'd be there, since   you're off duty.",48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+199,WESLEY,   I was just... I had some things   to do...,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+200,BEVERLY,"   Orders are orders, Mister Crusher.",48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+201,WESLEY,   You won't tell anybody...,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+202,WESLEY,   I know. I will. If it's true.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+203,GUINAN,   Wesley...       Think you'll get a good grade?,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+204,WESLEY,       I always get an A.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+205,GUINAN,       So did Doctor Frankenstein.,48   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+206,PICARD ,"   Captain's log, supplemental. Our   computer core has clearly been   tampered with and yet there is   no sign of a breach of security   on board.",50   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Evolution,1989-07-24,The Next Generation,150.txt
+207,PICARD ,"   We have even considered sabotage,   but Counselor Troi has not   detected any such sentiments.   We have engines back and will   attempt to complete our mission...   but without a reliable computer,   Doctor Stubbs' experiment is in   serious jeopardy.",51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+208,RIKER,   Manual restart sequence?,51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+209,GEORDI,   Manual restart successful...   impulse engine functions appear   normal.,51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+210,PICARD,   Proceed.,51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+211,RIKER,"   Shuttle Bay Two, open hangar   doors.",51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+212,CREWMEMBER #1,   Doors did not respond. Repeating   sequence.,52   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+213,PICARD,   What in heaven's name... ?,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+214,DATA,"   It is ""Stars and Stripes Forever""   by John Phillip Sousa, a popular   American composer of band music   in the early twentieth century...",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+215,PICARD,   Yes... yes... I know...,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+216,RIKER,"   Computer, shut off the music....",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+217,DATA,"   The music is on all communications   channels, Captain.",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+218,RIKER,   Power... weapons...   communications. We're being   stripped one system at a time...,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+219,PICARD,   Shut off the power to the bridge.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+220,TROI,   I feel no hostile emotions   present. No friendly feelings   either. Nothing.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+221,WORF,   Only an enemy without honor   refuses to show himself in battle.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+222,PICARD,   We may be fighting a different   kind of enemy than we've ever   known... an enemy that fights a   war of nerves.       Resume power to the bridge.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+223,PICARD,"       Commander La Forge, can you get   us out of this star system   safely...",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+224,STUBBS,   No...,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+225,RIKER,"   Not now, Doctor.",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+226,GEORDI,"   I'll try, Captain. I don't want   to overload the engines...",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+227,PICARD,   Do it gently. But do it.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+228,RIKER,   We'll circuit in auxiliary power   to the bridge... and find some   way to silence Sousa if he tries   an encore.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+229,PICARD,   The priority is to find out who   or what is doing this and why.     ,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+230,PICARD ,"    (Riker acknowledges,     EXITS)   Those of us not involved in that   detail should get a few minutes   rest. Commander Data, the bridge,   or what's left of it, is yours.",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+231,STUBBS,   The egg that Stubbs laid.,54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+232,WESLEY,   Nobody will say that...,54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+233,STUBBS,"   Nobody will say... anything,   Wesley. We will not even be   mentioned.",54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+234,STUBBS,"       I could live with failure.   ... Well, maybe not. But never   even to try. To miss your one   chance at bat. Do you know   baseball?",54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+235,WESLEY,   My dad taught it to me when I was   little.,54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+236,STUBBS,"   Once, centuries ago, it was the   beloved national pastime of the   Americas, Wesley. Abandoned by   a society that prized fast food   and faster games. Lost to   impatience. But I have seen the   great players make the great   plays.",54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+237,WESLEY,   Do you recreate them on a   Holodeck?,54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+238,STUBBS,"   No, in here...       With the knowledge of   statistics... runs, hits and   errors... times at bat... box   scores. Men like us do not need   Holodecks, Wesley. I have played   seasons in my mind. It was my   reward to myself. For patience.   Knowing my turn would come. Call   your shot. Point to a star. One   great blast and the crowd rises.   A brand new era in astro-physics.   Postponed one hundred and   ninety-six years on account of   rain.",54   INT. SHUTTLE BAY,SHUTTLE BAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+239,BEVERLY,   We have to talk.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+240,BEVERLY,   You really look like you could   use some rest...,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+241,WESLEY,   I know. It's okay. Really.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+242,BEVERLY,"       No, it's not. Really.",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+243,WESLEY,   I'm just checking some traps that   I set... to see if I can find out   what's happening to the ship.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+244,BEVERLY,   On someone's orders... ?,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+245,WESLEY,   We're running out of time for   Doctor Stubbs...,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+246,BEVERLY,"   Wesley, you can't put everything   on your own shoulders. Even when   you're off duty, you're on duty...",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+247,WESLEY,"   Mom, you don't understand...",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+248,BEVERLY,   You're a seventeen year old boy...,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+249,WESLEY,   I'm an acting officer... I have   responsibilities....,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+250,BEVERLY,       I'm beginning to think... maybe   we're all expecting too much of   you.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+251,WESLEY,       I've done everything anyone has   asked of me and more. You don't   know... you haven't even been   here.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+252,BEVERLY,"   I'm here now, Wesley.",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+253,BEVERLY,"   C'mon, I'll help you finish this   up... what are you looking for?",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+254,BEVERLY,   Wesley... ?,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+255,WESLEY,"   Mom, I think I've made a horrible   mistake.",55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+256,BEVERLY ,   Nanites. Tiny machines built from   the atom up.,55   INT. SICKBAY LAB,SICKBAY LAB,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+257,BEVERLY,"   Designed to have exposure only   to the inside of nucleii during   celluar surgeries. Until then,   they are kept tightly confined   in a non-functional state.",57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+258,DATA,       These are not ordinary nanites.,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+259,BEVERLY,"   No, these have... evolved.",57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+260,STUBBS,       Evolved... how does a machine   evolve...,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+261,WESLEY,   It's true. I'm reponsible. I   allowed two of the nanites to   interact for my school project   to increase their capabilities.   And... they escaped.,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+262,PICARD,   School... project...,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+263,PICARD,       Just how far have these things...   evolved?,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+264,WESLEY,   This is a sample of linear memory   crystal from our computer core.,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+265,RIKER,       It's like candy to them...,57   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+266,BEVERLY,   They're now capable of   mechanically replicating   themselves. And who knows what   else....,59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+267,DATA,   It is conceivable that with each   new generation they enhance their   own design. The rate of evolution   would be...extraordinary.,59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+268,PICARD,   How many generations are we   dealing with here?,59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+269,DATA,"   Engineering, display computer   core processor four-five-one,   element zero-two-nine-nine.",59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+270,DATA,"   Increase magnification, factor   one thousand.",59   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+271,PICARD,       A few.       Can it be possible that they know   what they're doing...,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+272,RIKER,   Why would they attack us?,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+273,STUBBS,   Why does a mosquito bite your ear   and who cares? The answer is   simple. Call an exterminator.,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+274,BEVERLY,"   Doctor Stubbs, these nanites are   apparently operating with a new   collective intelligence... working   together, teaching each other   skills...",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+275,DATA,"   Doctor, are you suggesting they   are becoming a... civilization?",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+276,STUBBS,   Oh really. I'm sorry but this   is nonsense. You can't have a   civilization of computer chips.   They're made in a plant in Dakar   Senegal. I've watched the   construction.,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+277,BEVERLY,   Then how do you explain what   you've seen here?,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+278,STUBBS,"   It's no more mysterious than   watching a strain of the Leutscher   virus reproduce itself. And that   at least is a bona fide lifeform.   How many disease germs and viruses   have you destroyed in your time,   Doctor Crusher?",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+279,PICARD,"   I cannot exterminate... something   that ""may or may not"" be   intelligent.",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+280,STUBBS,       My good Captain...,61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+281,PICARD,"       There is still time.       Ensign Crusher, work with Data   to find some way to remove them   safely. If things get worse,   we'll take stronger measures.",61   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+282,STUBBS,   Gentlemen. I need a computer   functioning perfectly in less   than eight hours... and we still   have core reconstruction to   consider...,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+283,WESLEY,   We're testing a low level gamma   field that might reduce their   processing speed.,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+284,STUBBS,   Have you considered a high level   charge?,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+285,DATA,"       High level gamma radiation would   kill them, Doctor Stubbs.",63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+286,STUBBS,   I know.,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+287,WESLEY,   Doctor Stubbs...,63   INT. COMPUTER ROOM (OPTICAL),COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+288,PICARD,"   I can't get the story of David   and Goliath out of my head. How   long do we wait, Number One?",64   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+289,RIKER,   We can continue to bypass parts   of the computer that are   affected... but if these nanites   are spreading all over the ship...,64   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+290,PICARD,   Do you smell a change in...,64   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+291,PICARD,       Picard to La Forge...   enviromental system malfunction   on the bridge... acknowledge...,65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+292,RIKER,   Nitrogen oxide... toxic levels...,65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+293,RIKER,   I've switched to manual control   of the air handling system...,65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+294,WORF,   He entered a computer access   room and sterilized one of the   processors with gamma radiation.,65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+295,DATA,"   The nanites in the upper core   are all dead, Captain.",65   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+296,STUBBS,   You have no choice now... it is   a matter of survival.,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+297,PICARD,"   If you were a member of my crew,   sir, I would...",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+298,STUBBS,"       But I am not a member of your   crew, sir... I am a representative   of the highest command of the   Federation... which has directed   you to perform my experiment...",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+299,PICARD,"   If one man, woman or child on my   ship dies because of your   experiment... I will have your head   before the highest command of the   Federation...",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+300,STUBBS,"   Good Lord, you are talking about   machines with a screw loose.   Simply turn them off. And be done   with them.",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+301,DATA,"   Doctor Stubbs, your own actions   have provided evidence to the   contrary. After you destroyed   the nanites in the core, they   immediately responded by   interfering with our life-support   systems.     ",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+302,DATA ,"   It is hard to accept these as   random actions by machines with   ""loose screws"". In effect, you   may have proven that the nanites   do have a collective intelligence.",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+303,TROI,"   Captain, I'm feeling a vague   presence. It wasn't there before.   It is not hostility... More like   a primitive sense of   self-preservation.",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+304,BEVERLY,   If they have evolved this   far... into emotional growth... how   can we destroy them now?,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+305,WORF,   The ship is at risk.   Extermination may be the only   alternative left.,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+306,STUBBS,   A good point...,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+307,PICARD,"   Lieutenant Worf, Doctor Stubbs   is to be restricted to his   quarters until further notice.",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+308,PICARD,"   Data, can you find me a way to   communicate with these things?",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+309,DATA,"   With intelligence, they have the   capacity for language.     ",66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+310,DATA ,   But it will depend on how far   their evolution has brought them.   We could modify the circuits in   the universal translator to make   it capable of communications with   them...,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+311,PICARD,   Proceed.,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+312,TROI,   May I come in?,67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+313,STUBBS,"   You just can't resist, can you,   Counselor?",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+314,TROI,   I only want to help.,67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+315,STUBBS,"       Yes, yes... to break the shell...   to get in touch with my true   feelings. What is this   preoccupation women have with   de-mystifying me? It must be the   challenge. Climb me. Because   I'm there.",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+316,TROI,"   I am only worried about your state   of mind, Doctor.",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+317,STUBBS,"   All right, Counselor... what is   it that has you so worried?",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+318,TROI,"   Your single-mindedness, your need   to have this experiment work...",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+319,STUBBS,"   But it will. Picard has no choice   now. He must defend the   Enterprise.    (tossing it all off with     a grin)   Counselor, when this is over, I   will show you New Manhattan on   Beth Delta-One as you've never   seen it and we will laugh over   glasses of champagne.",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+320,TROI,"       Your self portrait is so   practiced, so polished....",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+321,STUBBS,"       Yes, isn't it, though?",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+322,TROI,   It is stretched so tight that the   tension fills this room. And if   you finally... fail... I fear it   will snap.,67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+323,STUBBS,"   A good try, Counselor. But   sometimes when you reach beneath   a man's self portrait, as you so   eloquently put it, deep down,   inside... what you find... is   nothing at all.",67   INT. STUBBS' QUARTERS,STUBBS' QUARTERS,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+324,STUBBS,"   Lockman on first, Dark on   second... Thompson at the plate...   Branca on the mound...",72   INT. STUBBS' CABIN,STUBBS' CABIN,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+325,BEVERLY,   He's coming around...,78   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+326,PICARD,   I have to believe this was not   an arbitrary attack...,78   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+327,BEVERLY,   Has Data made any progress in   contacting them?,78   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+328,STUBBS,   You must protect me. Kill them.,78   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+329,PICARD,"   Commander Riker, on my signal,   we will gamma-irradiate all   computer systems throughout the   Enterprise to end this conflict.",79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+330,RIKER,"   Worf, prepare to activate gamma   pulse generators.",79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+331,WORF,"   Electromagnetic scanners ready,   Captain.",79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+332,DATA,   Captain...,79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+333,DATA,   I have established contact.,79   INT. MAIN BRIDGE - SCIENCE ONE (OPTICAL),MAIN BRIDGE - SCIENCE ONE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+334,WESLEY,   Are you okay?,82   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+335,STUBBS,   I will be. As soon as we finish   off these pests.,82   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+336,STUBBS,"   Wesley, do not be too harsh in   your judgment of me... until   you've walked a lifetime in my   shoes.",82   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+337,STUBBS,"       We are no different, you and I.   For you right now, it's getting   into the Academy. For me, it's   the egg. Others will never   understand how important our work   is to us. It's everything we live   for.",82   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+338,WESLEY,"       Doctor Stubbs, I want to go the   Academy. But if I don't, I have   other things to live for.",82   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+339,STUBBS,   Of course you do.,82   INT. SICKBAY,SICKBAY,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+340,DATA,"   They are virtually learning the   concept of communication as we   continue, Captain... each new   generation is making   modifications.",85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+341,PICARD,   Can we actually talk to them yet?,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+342,DATA,   I think it is worth an attempt...,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+343,PICARD,   Ask them for a cease-fire... put   it in whatever words you think   they'll understand.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+344,DATA,"       Captain, their answer is... no.",85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+345,PICARD,   Tell them it is critical to their   survival as well as our own.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+346,DATA,   Their answer is no.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+347,TROI,"   I sense that after the incident   in the computer core, there is   very little trust...",85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+348,PICARD,   Bring Doctor Stubbs to the bridge.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+349,WORF,   The universal translator has its   limits. I prefer to negotiate   eye to eye with my enemy...,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+350,PICARD,   I don't think there's much chance   of that here.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+351,STUBBS,       But they have already tried to   kill me once...,87   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+352,RIKER,"   ""One sure way into the history   books"", Doctor...",87   INT. CORRIDOR,CORRIDOR,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+353,PICARD,   Tell them the human who destroyed   their comrades is here and wishes   to address them...,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+354,STUBBS,"       Captain, if I might...",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+355,PICARD,"   And you, sir will explain your   error and apologize and pray that   we can negotiate a peace we can   all live with... is that clear?",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+356,DATA,"   Captain, if a face to face   negotiation would be helpful,   I would like to volunteer myself   as a conduit.",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+357,RIKER,"   Yourself, Data?",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+358,DATA,   I can easily furnish the nanites   with a schematic design of my   neurological structure. Entering   my neural network would require   only their most basic skills.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+359,BEVERLY,   That's what they were designed   for.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+360,DATA,   They could easily penetrate the   molecular fabric of my   hand-covering into the nerve   circuitry and interface with my   verbal programs.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+361,WORF,"   If they have control of a   Starfleet commander, they become   an even greater threat.",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+362,PICARD,"   How do we know we'll ever get them   out of you, Data...",88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+363,DATA,   There are considerable risks.   But it would also represent a   gesture of trust on our part.   It could be an important step   toward peace.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+364,PICARD,   All right. Propose it to the   nanites.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+365,DATA,   The answer is yes.,88   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+366,DATA,"   They are ready, Captain.",89   INT. COMPUTER ROOM - ON DATA (OPTICAL),COMPUTER ROOM - ON DATA,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+367,PICARD,   Proceed.,89   INT. COMPUTER ROOM - ON DATA (OPTICAL),COMPUTER ROOM - ON DATA,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+368,DATA/NANITE,   You are very strange looking   creatures.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+369,PICARD,"   In our travels, we have   encountered many other   creatures... even stranger-looking   than we are... and all of us try   to co-exist peacefully.",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+370,DATA/NANITE,   The urge among us to destroy all   of your kind is intense. Why did   you attack us?,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+371,PICARD,   We misinterpreted your actions   as an attack against us.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+372,DATA/NANITE,   We were only seeking raw materials   for our replication process.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+373,PICARD,"   Yes, but you endangered the vessel   in which we all travel.",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+374,PICARD,   You almost killed a crewmember.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+375,DATA/NANITE,   We meant no harm. We were only   exploring.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+376,PICARD,   We understand. We are also   explorers and we mean no harm to   any life-form.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+377,STUBBS,   I am the one responsible for the   deaths in the computer core.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+378,DATA/NANITE,   We know who you are.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+379,STUBBS,   I... deeply regret the incident.   I am a scientist on an important   mission. Your... your colleagues'   exploration of the core memory   put our mission at risk. I only   meant to protect a lifetime of   work from being destroyed.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+380,STUBBS,"    (continuing; beat, for     once lost for words)   I am at your mercy.",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+381,DATA/NANITE,"   What is ""mercy""?",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+382,PICARD,   He asks you to forgive him. This   conflict was started by   mistakes... on both sides. Let   us end it here and now.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+383,DATA/NANITE,       We agree.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+384,PICARD,   I pledge to you that we will   provide any assistance you need   for your continued survival.,92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+385,DATA/NANITE,"   Thank you, but we have evolved   beyond any need for your   assistance. This vessel has   become too confining. We require   relocation.",92   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+386,PICARD ,"   Captain's log, Stardate 43104.7.   Doctor Stubbs has generously used   his influence to arrange the   designation of planet Kavis-Alpha-Four   as the new home of the Nanite   Civilization. Plans to negotiate   a treaty are underway.     ",93   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Evolution,1989-07-24,The Next Generation,150.txt
+387,PICARD ,"   Commander Data's neural network   has been vacated... He has been   returned to us, unharmed, and with   the help of the nanites, our   computer core has been   reconstructed in time for the   experiment...",93   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Evolution,1989-07-24,The Next Generation,150.txt
+388,DATA,   Ten seconds to stellar blast.,94   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+389,WESLEY,   We're at forty million kilometers   from the neutron star.,94   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+390,RIKER,   Hold your position.,94   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+391,PICARD,   Doctor?,96   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+392,BEVERLY,"   Do you have any children, Guinan?",97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+393,GUINAN,   A lot.,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+394,BEVERLY,   Ever have any trouble relating   to them?,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+395,GUINAN,   Just one.,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+396,BEVERLY,   One?,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+397,GUINAN,   He wouldn't listen.,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+398,BEVERLY,"   Well, they all go through that.",97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+399,GUINAN,   Not in a species of listeners.,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+400,BEVERLY,   Did he grow out of it?,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+401,GUINAN,"   Well, it's taken a few hundred   years or so but I've brought him   around.",97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+402,BEVERLY,   How?,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+403,GUINAN,   A mother shapes her child in ways   she doesn't even realize.   Sometimes just by listening.,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+404,GUINAN,   Cute couple.,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+405,BEVERLY,"   Now, see, that's healthy for a   boy his age. I mean that as a   doctor not just a mother. It's   good to see him having fun... with   an attractive young woman... who   obviously looks at him with   extraordinary affection...",97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt
+406,BEVERLY,       What do you know about this girl?,97   INT. TEN-FORWARD,TE,INT.,Evolution,1989-07-24,The Next Generation,150.txt

@@ -1,469 +1,469 @@
-,character,quote,scene,location,view,episode,date,series
-0,COMPUTER,"   Commander Riker, report to the   bridge.",1    INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-1,RIKER,   On the way.,1    INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-2,RIKER,"   What's your hurry, Harry?",2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-3,HARRY,"   Oops. Sorry, Commander. I was,   um, just...",2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-4,DR. BERNARD,   Harry!,2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-5,DR. BERNARD,   I'm sorry if he bothered you.,2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-6,RIKER,"   No bother, Doctor Bernard.",2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-7,HARRY,   I'm not going back. I hate that   teacher. And I hate calculus.,2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-8,DR. BERNARD,"   Everyone needs an understanding   of basic calculus, whether they   like it or not.",2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-9,HARRY,   Why?,2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-10,BEVERLY,   You're limping.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-11,RIKER,   A small run-in with an aspiring   sprinter.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-12,PICARD,"   Ah, Number One.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-13,RIKER,"   A problem, Captain?",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-14,PICARD,   A curiosity. For the past several   hours we have been tracking faint   energy readings in an attempt to   locate the source. It's been like   following a trail of bread crumbs.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-15,PICARD,       The path lead here and stopped   -- which is what I knew would   interest you.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-16,RIKER,       What's our position?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-17,GEORDI,   The Epsilon Mynos system.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-18,RIKER,"    (with a look of     surprise)   Really? Thank you, Captain;   you're right... I wouldn't miss   this for anything.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-19,TASHA,   What's so interesting about this   system?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-20,RIKER,   Aldea.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-21,RIKER,"       Tasha -- I'm surprised. You mean   you've never heard the stories   about Aldea? A wonderous mythical   world -- like Atlantis on ancient   earth... or Neinman on Xerxes   Seven... with an advanced culture,   centuries old. Self-contained,   peaceful, with incredible   technical sophistication which   provided for every citizen's daily   needs, allowing them to devote   themselves to culture and art,   which was beautiful beyond compare   and valued beyond price.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-22,TASHA,   Where is it supposed to be?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-23,RIKER,   Ahh -- that is the myth -- somehow --   so the legend goes -- the Aldeans   were able to cloak their planet   in darkness and go unseen by   marauders and other hostile   passersby who might rob and   plunder.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-24,TASHA,   A wonderful fairy tale.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-25,DATA,"   Scanners still show nothing, sir.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-26,TROI,"   Scanners may show nothing,   Captain, but I am sensing   something very strong.       Thousands of minds, sir.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-27,PICARD,   Where?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-28,TROI,   Very close.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-29,PICARD,   All stop.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-30,GEORDI,   Answering all stop.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-31,PICARD,   Anything?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-32,WORF,"   Captain, I am recording a   distortion in quadrant one, mark   nine-zero.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-33,PICARD,   On screen.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-34,PICARD,   Shields and deflectors up.,7    INT. MAIN BRIDGE - MAIN VIEWER (OPTICAL),MAIN BRIDGE - MAIN VIEWER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-35,TASHA,"   Aye, sir.",7    INT. MAIN BRIDGE - MAIN VIEWER (OPTICAL),MAIN BRIDGE - MAIN VIEWER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-36,RIKER,"       Aldea, Captain... It has to be.",7    INT. MAIN BRIDGE - MAIN VIEWER (OPTICAL),MAIN BRIDGE - MAIN VIEWER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-37,PICARD ,"   Captain's log, stardate 41509.1.   Either by chance or intent, we've   been led to the mythical planet   of Aldea, which appeared out of   nowhere, hidden behind a   sophisticated shielding device.",10   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-38,DATA,"   Captain, the sensors indicate that   the shield is electromagnetic. A   complicated light refracting   mechanism.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-39,PICARD,   A cloaking device.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-40,DATA,"   Yes, sir.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-41,GEORDI,   To hide an entire planet it's   gotta be pretty sophisticated.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-42,WORF,"       We're being scanned, sir.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-43,PICARD,"   Let's let them know our peaceful   intent. Open hailing frequencies,   Lieutenant Yar.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-44,RASHELLA,   I'm Rashella. Welcome to Aldea.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-45,PICARD,   I am Captain Jean-Luc Picard of   the USS Enterprise. We come in   peace.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-46,RASHELLA,   We know.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-47,PICARD,"   We've heard the stories about   Aldea, but frankly never thought   they could possibly be true.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-48,RASHELLA,"       Our shield has confused outsiders   for millennia, Captain.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-49,PICARD,   A very long time to have that kind   of technology. Why are you   revealing yourself now?,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-50,RASHELLA,"   We're eager to meet in person to   discuss that, and other subjects   of mutual interest.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-51,PICARD,   We're ready anytime.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-52,RASHELLA,   Excellent!,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-53,RASHELLA,    (reacting to their     astonishment)   Our arrival seems to have startled   you.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-54,RADUE,   We mean no harm.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-55,PICARD,   It was a little sudden,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-56,RADUE,"   I'm Radue, First Appointee of Aldea.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-57,PICARD,   Welcome aboard.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-58,BEVERLY,"   Captain, they haven't been through   decontamination.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-59,PICARD,   It's all right.       Our medical doctor is concerned   you didn't go through our regular   transporting procedure.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-60,RASHELLA,"   You couldn't transport us. The   only way through our shield is   our way, Captain. Our cloaking   device may be off, but our shield   is operating. We've brought you   small tokens of welcome.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-61,RADUE,   And our personal invitation to   a celebration on Aldea.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-62,PICARD,"   We'd be delighted. Number One,   assemble your away team.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-63,RADUE,"   We will prepare for your arrival,   Commander Riker.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-64,RIKER,   How did you know...,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-65,RADUE,"   ... your name? We've been   monitoring your ship's   communications. We must return   now to Aldea. Our eyes are very   sensitive to bright light.   Rashella, Garen.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-66,PICARD,"   Amazing. Only to exist in   mythology and suddenly they're   here, right in front of us.   Number One?",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-67,RIKER,   Now you know who placed the   bread crumbs. We're not here by   accident.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-68,PICARD,   Counselor? What do you sense?,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-69,TROI,   Only the obvious. They want   something from us.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-70,RADUE,"   Commander Riker, is your party   ready?",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-71,PICARD,   Interesting choices.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-72,RADUE,"   I hope Duana and I know how to   greet you properly, Commander.   ""May your light shine through the   ages.""",13   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-73,RADUE,       My apologies. Age has no respect   for the body.,13   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-74,WESLEY,   How do they cloak the planet?,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-75,DATA,   The theory is simple. The shield   bends light rays around the   planet's contour -- similar to the   Romulan cloaking device -- but the   implementation is very difficult.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-76,PICARD,   Wesley!,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-77,GEORDI,"   Sir, the energy beam is   originating from Aldea.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-78,PICARD,"   Shields up. La Forge, contact   Commander Riker. Worf, check   all other decks.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-79,DATA,"   Shields inoperable, sir. All   decks are being probed in a   methodical pattern.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-80,PICARD,   All decks? Everything? The entire   ship?,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-81,DATA,"   Aye, sir!",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-82,GEORDI,"   Captain, I can't get through to   Commander Riker. We're being   blocked.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-83,PICARD,"   Are you all right, Wesley?",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-84,WESLEY,"       It was scary at first, but I   really didn't feel anything.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-85,WORF,"   Sir, similar incidents, all decks,       but only with the children.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-86,RADUE,"   Yes, Commander, we are an ancient   power. But we've suffered for   it. Our history is littered with   the deaths of those people who   craved more and more things.   Nothing was ever enough. So,   we've evolved a very simple way   of living: for whatever is taken,   something is given in return.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-87,RIKER,   It seems an equitable code.,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-88,RADUE,"   It's given us peace.   Unfortunately, there are very few   of us left to enjoy it.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-89,TROI,   Why?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-90,RADUE,"   That is some of what we wish to   discuss. We need help from the   Federation to rebuild our   heritage... we need a younger   generation, strong and healthy,   following in the Aldean   traditions.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-91,RIKER,   I don't understand. How can the   Federation help influence your   children in your traditions?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-92,RADUE,"   Because we have no children,   Commander. Rashella was the last   child born on this planet.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-93,BEVERLY,   And your medical community can   do nothing?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-94,RASHELLA,"   They've tried, Doctor Crusher.   And failed.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-95,BEVERLY,   Perhaps we can help...,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-96,RIKER,"   Radue, exactly why have we been   invited to Aldea?",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-97,RADUE,   We propose a trade. One which   will solve our problem and give   something back to the Federation.,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-98,RIKER,   And the nature of this trade?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-99,RADUE,"   We need some of your children.   In payment, we will give you the   kind of knowledge which would take   you centuries to acquire.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-100,RIKER,"   That might be acceptable to some   other races, but humans are   unusually attached to their own   offspring.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-101,RIKER,"   We sympathize with your situation,   Radue. But what you ask is not   possible.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-102,RADUE,   And that's your final answer?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-103,RIKER,   It's my only answer. If we can   be of help in some other way...,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-104,RADUE,   I am sorry you are intransigent.,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-105,BEVERLY,   Wes!,18   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-106,WORF,   Saucer Section reports six more   children are gone.,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-107,RIKER,   It's the children. That's why   we've been brought here. That's   what they wanted.,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-108,PICARD,   And that's what they have.,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-109,PICARD,   Status!,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-110,TASHA,   Aldean shields still up. Hailing   frequencies open. No response.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-111,PICARD,"   Keep trying, Lieutenant.   Counselor, gather the parents.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-112,TROI,"   They'll need to talk to you as   well, Captain.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-113,RADUE,"   Captain, your children are with   us.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-114,PICARD,   ... Go on.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-115,RADUE,   My word of honor... no harm will   ever come to them.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-116,PICARD,   Harm has already been done.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-117,RADUE,"   Captain, let us begin discussions   regarding appropriate   compensation.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-118,PICARD,       Compensation! You steal our   children -- from their classrooms   -- their bedrooms -- and you talk   about compensation. Return   them... now!,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-119,RADUE,   We will continue this discussion   when you've calmed down.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-120,PICARD,   I shouldn't have lost my temper.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-121,KATIE,"   Wesley, I'm frightened.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-122,WESLEY,"   I know. We all are, but it's   going to be all right. Everyone   knows where we are. No one is   going to hurt you. I promise.       Alexandra, don't go too far!",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-123,KATIE,   She's not afraid of anything.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-124,WESLEY,"       Harry, don't touch that!",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-125,HARRY,   I'm not gonna hurt it.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-126,WESLEY,   I know that. But maybe they   don't.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-127,KATIE,   Who?,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-128,WESLEY,   I don't know who.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-129,HARRY,   Why are we here?,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-130,WESLEY,   I don't know that either.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-131,RADUE,"   Greetings, Wesley Crusher.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-132,WESLEY,"   How did you know my name?       Oh, through that energy beam.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-133,RADUE,   Excellent analysis. The Custodian   indicated you would be the leader.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-134,WESLEY,   The Custodian -- who is the   Custodian?,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-135,RADUE,   The Custodian is not a person.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-136,RASHELLA,   We have brought you to Aldea as   our guests. We'll provide   anything you need or want.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-137,WESLEY,   We want to go home.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-138,RADUE,"   Wesley, all of you have been   chosen because you are special.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-139,DUANA,"   Children, we are starting on a   wonderful adventure.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-140,RADUE,"   Exactly... Just ask for anything   you want, and you shall have it.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-141,ALEXANDRA,   Bye-bye.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-142,TOYA,"   What happened to Alexandra and   the other children, Captain? How   are you getting them back?",26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-143,BEVERLY,"   Toya, sit down... You're   reacting out of fear.       We all knew what the risks were   when we signed on. And that's   the choice we made. Captain   Picard will do everything possible   to bring our children back.",26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-144,PICARD,"   The Aldeans are anxious to discuss   ""compensation."" That will buy   us time. I've asked Doctor   Crusher to be involved in the   negotiations as your   representative.",26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-145,DR. BERNARD,   Why were these specific children   taken?,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-146,PICARD,   We can't be sure. We do know the   Aldeans can't have children of   their own.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-147,DR. BERNARD,   Then they won't let them go   easily.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-148,PICARD,   I won't insult you by pretending   it will be easy. I can only say   the Enterprise will not leave them   behind. Be assured of that.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-149,DR. BERNARD,"   Can we talk with our children?   Give them some reassurance. Let   them know that we are here, and   that they will be safe.",26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-150,PICARD,   I will do my best to arrange it.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-151,DR. BERNARD,   The last time I saw him I yelled   at him.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-152,RASHELLA,   There you are!,27   INT. ALDEA - RASHELLA'S QUARTERS,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-153,RASHELLA,       I have you now!,27   INT. ALDEA - RASHELLA'S QUARTERS,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-154,PICARD,"   Any response from Aldea,   Lieutenant Yar?",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-155,TASHA,"   Not yet, sir.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-156,RIKER,"   Captain, Data has found something   interesting. The Aldean shield   gives evidence of sporadic   fluctuations, weakening its   structure in isolated sections.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-157,PICARD,   You're saying there are holes in   their defense system?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-158,RIKER,"   In essence, yes. It is surprising   after all these eons that the   Aldeans' use of their technology   is not perfect. One would assume   they would be aware of the   weakness and repair it.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-159,PICARD,   Can we beam down an away team   through one of these so-called   holes?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-160,RIKER,   It is a possibility. It would   have to be perfectly timed -- and   there are no guarantees.,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-161,DATA,   We may be more successful in   deciphering the code they use   to transport through the magnetic   shield.,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-162,PICARD,   Can you do that?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-163,DATA,"   Eventually, sir. I am working   on it now but the number of   permutations is almost endless.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-164,PICARD,"   Keep trying.       Number One, while he's doing that,   you find a way of getting through   one of those holes because one way   or the other we have to get an away   team on that planet, locate the   power source of that shield and   neutralize it.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-165,RIKER,   You're certain they'll negotiate?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-166,PICARD,"   Oh, they'll negotiate, Number One.   Or call it that. They took what   they wanted, now they'll   rationalize it by throwing us some   sort of bone.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-167,DATA,"   A bone, sir? In exchange for the   children?",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-168,DATA,       Oh. A metaphor.,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-169,RIKER,   And when we don't accept their   offer?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-170,PICARD,"   The minute they believe we will   accept no compensation for the   children, they will end all   discussion and disappear behind   their shield... locking us out   and the children in -- forever.   That's why I have to keep them   talking.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-171,WESLEY,"   Excuse me, sir, where are you   taking Tara?",29   INT. ALDEA - FIRST UNIT CHAMBER FOYER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-172,HARRY,   What's happening? I thought you   said the captain was going to   rescue us!,29   INT. ALDEA - FIRST UNIT CHAMBER FOYER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-173,WESLEY,   He will. It just might take him   a little while.,29   INT. ALDEA - FIRST UNIT CHAMBER FOYER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-174,RADUE,   Come in.,29   INT. ALDEA - FIRST UNIT CHAMBER FOYER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-175,RADUE,   Don't be alarmed. The other   children have been assigned to   their units.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-176,WESLEY,   Units?,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-177,RADUE,   A unit is a group where people   of similar talents and interests   live together.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-178,WESLEY,   Like a family.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-179,RADUE,"   Yes, you could call it that.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-180,WESLEY,   We already have families.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-181,WESLEY,       Does Captain Picard know what you   are doing?,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-182,RADUE,   We are keeping nothing from him.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-183,LEDA,"   We have been waiting for you so   long, Harry. We are artists, just   like you.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-184,HARRY,   I'm not an artist.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-185,ACCOLAN,   You will be. And a great one.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-186,LEDA,"   This way, Harry.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-187,LEDA,   Unit B -- three seven five.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-188,RADUE,   Katie.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-189,MELIAN,   I am honored.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-190,KATIE,   Thank you.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-191,RADUE,   Melian is the foremost musician   on Aldea.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-192,MELIAN,   Music speaks its own language...   I know we'll have much to learn   from each other.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-193,MELIAN,"       Don't worry, Katie. You'll be   seeing Wesley soon.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-194,RADUE,"   We're the only ones left, Wesley.   Does that tell you something?",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-195,WESLEY,   Do you want me to guess?,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-196,DUANE,"   No. You'll be staying with Radue   and me. As First Unit we require   someone with innate leadership   ability -- and a great mind. You   have both. We need you, Wesley.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-197,WESLEY,   What about me? Don't I have a   say in this?,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-198,RADUE,"   Wesley, sometimes things happen   which we just must accept. You   and the other children are now   members of this society. That   will not change. It's up to you   to make the transition as easy   as possible for the others. You   are their leader. It's your duty.   Help them accept it -- because   nothing you, or those on the   starship can do will change it.   Because like you, we also have   no choice.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-199,DUANA,   We'll do our best to see you're   happy here. And I promise you   one thing: the secrets of Aldea's   power will one day be yours.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-200,RADUE,   Where have you been Rashella?   Zena and Aran are waiting to take   Alexandra.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-201,RASHELLA,   No.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-202,RADUE,   No? I told you...,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-203,RASHELLA,"   No, Radue. They can't have her.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-204,RASHELLA,       I will never let her go.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-205,PICARD ,"   Captain's log, supplemental. We   remain in orbit around Aldea.   It's becoming all too evident that   talk will not effect the return   of our children. We must   neutralize the Aldean shield.   Until then we are helpless.",33   EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-206,TASHA,"   Sir, Radue is hailing us.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-207,RADUE,   Captain Picard.,34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-208,PICARD,"   Doctor Crusher and I are ready,   Radue.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-209,RADUE,"   Are you ill, Captain?",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-210,PICARD,"   No. Doctor Crusher is a Staff   Officer, Radue. Starfleet   Regulation 6.57 requires at least   two staff officers to be present   during any treaty or contract   negotiations.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-211,RADUE,   Very well.,34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-212,RIKER,"   Not much on pleasantries, is he?",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-213,DATA,"   I am not aware of Regulation 6.57,   sir.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-214,PICARD,"   Neither am I, Data.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-215,DATA,   Oh. I see.,34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-216,PICARD,"   Doctor Crusher, report to the   bridge... Now we'll see what they   have in mind.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-217,DUANA,"   Over here, Wesley.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-218,DUANA,"       Custodian, Wesley Crusher's voice   will be entered into the   authorized file -- for Third Level   clearance.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-219,CUSTODIAN,"   Proceed, Duana.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-220,DUANA,   Announce yourself to the   Custodian.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-221,WESLEY,"   Hello, Custodian. I'm Wesley   Crusher.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-222,CUSTODIAN,"   Hello, Wesley. Your voice will   now activate Third Level   clearance.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-223,WESLEY,   Thank you. What does that mean?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-224,CUSTODIAN,   You may ask any questions you   wish.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-225,WESLEY,"   Thank you. Duana, what does the   Custodian do?",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-226,DUANA,   It frees us from all burden. It   takes care of all our needs. It   regulates our lives.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-227,WESLEY,   Who built it?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-228,DUANA,   The Progenitors.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-229,WESLEY,   When?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-230,DUANA,   Before my time. Centuries ago.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-231,WESLEY,   ... What's its power source?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-232,DUANA,"   Wesley, why is that important?   It does what we ask it. It always   has. What difference does it make   how it works?",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-233,WESLEY,"   If you don't know how it works,   how can you repair it?",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-234,DUANA,    (not understanding the     concept)   Why would we want to repair it?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-235,WESLEY,"   From time to time, every computer   -- I mean Custodian -- requires   maintainance.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-236,DUANA,"       Wesley, Radue is right. You ask   questions I can't answer. Ask   the Custodian instead.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-237,WESLEY,"   Custodian, can you show me where   Harry is?",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-238,CUSTODIAN,   Yes.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-239,WESLEY,   Show me Harry.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-240,HARRY,   I never did this before. It's   fun.,36   INT. ALDEA - ARTISTS' UNIT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-241,WESLEY,   You are going to make Harry into   a sculptor?,37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-242,DUANA,   He already is. He has just never   been encouraged properly. The   tool Leda is giving him will allow   him to bring out his visions.,37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-243,WESLEY,   It will take years for him to   learn to do that.,37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-244,DUANA,"   Oh, no. It will happen quite   quickly.",37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-245,WESLEY,"   Custodian, show me Alexandra.",37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-246,WESLEY,"   Custodian, show me Jason...",39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-247,DUANA,"   Stop, Custodian.",39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-248,DUANA,   We must work now... there is much   to learn.,39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-249,WESLEY,   What's in there?,39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-250,WESLEY,   It's probably the power source.,39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-251,DUANA,   I don't know. It's forbidden.   The Custodian allows no one in   there. There's no one left who's   authorized.,39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-252,PICARD,"   Open hailing frequency, Lieutenant   Yar.",40   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-253,TASHA,"   Open, sir.",40   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-254,RADUE,"   Ah, good. You're ready.",40   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-255,PICARD,   I want to see the children before   we begin.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-256,RADUE,"   No. We're here to negotiate for   compensation, not to pander to   emotions. This way.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-257,PICARD,"   Radue, we do not condone your   actions. You're attempting to   salve your conscience by offering   goods in exchange for our   children.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-258,RADUE,   Why do you want them back so   badly? You can always make more.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-259,PICARD,   We happen to like these particular   children.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-260,RADUE,   Humans have great attachment to   their offspring. But we're   digressing. Returning the   children is non-negotiable.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-261,RASHELLA,   I promise you they will have a   beautiful life with us. And   they'll be father and mother to   a new breed born of an ancient   culture.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-262,BEVERLY,   What makes you think they'll be   able to have children? You can't.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-263,RADUE,   But they will. Our inability to   bear children is a genetic   dysfunction. It's not contagious.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-264,PICARD,"   Radue, we do sympathize. But   surely there is a solution which   can be mutually satisfactory.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-265,RADUE,"   For us, the problem is solved.   We are offering you information   on areas of the galaxy you don't   even know exist. What more can   we offer? What more would you   want?",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-266,PICARD,"   A significant beginning, I think.   But first I must ask again that   Doctor Crusher be allowed to speak   with her son before we continue.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-267,RADUE,"   You are a very stubborn people.   Ah, well, that can be a positive   trait. You may see him.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-268,WESLEY,   Mom!,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-269,WESLEY,       I knew the captain would get us   home.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-270,BEVERLY,"   Not yet, Wes.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-271,WESLEY,   Oh. I thought... never mind.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-272,BEVERLY,   Are you okay? And the others?,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-273,WESLEY,"   Okay, really okay. Everyone's   been assigned their own units...   you know, like families. We're   being treated, well, almost like   gods.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-274,BEVERLY,   Don't let it go to your head.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-275,WESLEY,       I won't.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-276,BEVERLY,"   So, what have you been doing?",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-277,WESLEY,"   I'm learning a lot. They have a   computer which they call the   Custodian. It controls   everything.       The captain should know this.   All their defense systems, the   city's environment, everything.   And it's all voice command. So   simple. But the amazing thing   is the Aldeans don't know how it   works. They know how to talk to   it, but they don't even know what   its power source is, and they   didn't do the original   programming.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-278,WESLEY,"    (continuing; normal     voice)   They said that later on, when I'm   really an Aldean, I'll know all   their secrets.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-279,BEVERLY,"   That won't happen, Wes. I promise   I won't let that happen.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-280,DUANA,"   You must leave, Doctor Crusher.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-281,BEVERLY,   Take care of yourself.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-282,WESLEY,"   I will, Mom.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-283,BEVERLY,   Wes seems fine. He says the other   children are too.,43   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-284,RASHELLA,   Of course they're well.,43   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-285,RADUE,"   Captain Picard, you have our   offer. It is final. Rashella.",43   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-286,RADUE,"   Captain, we want you to understand   the nature of your choice. A   small demonstration of our   power...",44   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-287,PICARD,   What was that?,46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-288,DATA,"   I believe it was a repulsor beam,   sir.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-289,PICARD,   Position report.,46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-290,GEORDI,"   It's unbelievable, sir. According   to my calculations, we're three   days from Aldea -- at warp nine.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-291,RIKER,"   They call that a ""small""   Demonstration?",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-292,PICARD,"   Geordi, take us back to Aldea   orbit. Warp factor nine.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-293,RADUE,"   Captain, if you don't accept our   terms, the Enterprise will be   pushed so far away, by the time   you get back, your children will   be grandparents.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-294,PICARD ,"   Captain's log, stardate 41509.45.   We are twenty hours away from   Aldea, and no closer to a   solution. Their deliberate show   of force pushed us out of orbit   and could have disintegrated the   ship. In the face of that power,   a direct assault on Aldea would   be disastrous.",47   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-295,MELIAN,"   Now, hold it a little bit more   firmly.",49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-296,MELIAN,"       That's it. Perfect. Now...   think. No, think's not right.   Feel the notes inside your head.",49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-297,KATIE,   I'm sorry! Did I break it?,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-298,MELIAN,   No. It's all right. You can't   break it.,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-299,KATIE,"   It did exactly what I thought...   I mean, felt.",49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-300,MELIAN,   Yes. It's a direct expression   of the music within. Now we just   have to teach you to structure   that feeling...,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-301,MELIAN,       That was beautiful. Now play   something happier.,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-302,KATIE,    (sadly shaking her     head)   That's not how I feel.       I don't want to do this anymore.,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-303,ACCOLAN,"   You see, Harry, I told you you   were going to be an artist.",50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-304,HARRY,   Are you sure? Did I really do   this?,50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-305,ACCOLAN,"   Oh, yes. Your talent has always   been there. The sculpting tool   is just helping you develop it.   It's what you were meant to do.",50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-306,HARRY,   You mean I don't have to do   calculus anymore?,50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-307,ACCOLAN,   You don't have to do anything you   don't want to do. What's   calculus?,50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-308,HARRY,   Nothing important. Can I do some   more?,50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-309,PICARD,"   Captain's log, supplemental. It   has been three days since the   Aldeans pushed us away. We have   had no contact with Radue since   then.",52   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-310,PICARD,"   Lieutenant Yar, open hailing   frequencies.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-311,TASHA,"   Frequencies open, sir.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-312,PICARD,"   Radue, this is Captain Picard.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-313,RADUE,"   Welcome back, Captain. What have   you decided?",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-314,PICARD,"   There is room for discussion,   Radue.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-315,RADUE,   We will bring you down when we   are ready.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-316,PICARD,"   Data, find a way to defeat that   shield.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-317,DATA,"   That may be impossible, sir.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-318,PICARD,"   Things are impossible, until   they're not.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-319,DATA,"   Yes, sir.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-320,BEVERLY,"   Captain, here's what I've learned.       Duana is dying. I have no reason   to believe the rest of the Aldeans   are any healthier.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-321,PICARD,"   We're all dying, Doctor. Can you   be more specific?",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-322,BEVERLY,"   They're suffering from some kind   of chromosomal damage. It could   be genetic, or environmental.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-323,PICARD,   Then that's why they can't   conceive.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-324,BEVERLY,"   Yes. It also explains their lack   of appetite, their sensitivity   to light, and their extreme   pallor.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-325,PICARD,   An entire civilization that's   terminally ill... is it   reversible?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-326,BEVERLY,   I won't know until I've found the   cause... and you don't need to   tell me time is running out.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-327,PICARD,"   Good work, Doctor.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-328,DUANA,   I thought growing boys are always   hungry.,55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-329,WESLEY,   You didn't eat anything.,55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-330,RADUE,   We need very little.,55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-331,DUANA,   I know you miss your family. But   you will grow accustomed to us.   I promise. I promise you'll be   happy.,55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-332,WESLEY,"   You can keep me here, but you   can't make me want to stay.   You'll never be able to make me   forget. And I'll never be an   Aldean.",55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-333,ACCOLAN,   Have the lesions gone?,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-334,LEDA,   Yes. The medicine worked again.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-335,ACCOLAN,   Good. Come see what Harry's   doing.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-336,ACCOLAN,       Beautiful!,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-337,HARRY,       It really turned out well.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-338,ACCOLAN,   It is so graceful and alive. What   do you call it?,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-339,HARRY,   It's a dolphin.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-340,LEDA,   Dolphin?,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-341,HARRY,"   You know, it swims in the ocean.   Like a fish, only it's not a fish.",56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-342,LEDA,   Ah. A fish. We used to have them   in our oceans. I've never seen   one before.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-343,HARRY,   I used to live near the ocean.   On Zadar IV. My dad's an   oceanographer. He says... never   mind. It doesn't matter.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-344,BEVERLY,   No. That doesn't fit the pattern.   Give me a list of the appropriate   medical literature from the   twenty-second century.,58   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-345,BEVERLY,       There's not enough time!,58   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-346,PICARD,   Is there anything I can do?,58   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-347,BEVERLY,"   You just did, Jean-Luc. Now...   I have to get back to work.",58   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-348,ALEXANDRA,   I want Mommy!,59   INT. ALDEA - RASHELLA'S QUARTERS - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-349,WESLEY,       Custodian's room.,60   INT. ALDEA - WESLEY'S ROOM - NIGHT (OPTICAL),ALDEA - WESLEY'S ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-350,WESLEY,"       Custodian, this is Wesley Crusher.",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-351,CUSTODIAN,"       Proceed, Wesley.",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-352,WESLEY,   Show me where all the Enterprise   children are in relation to this   room.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-353,WESLEY,       Thank you.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-354,WESLEY,"       Custodian, what's your instruction   set?",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-355,WESLEY,       How can I command your attention?   Do you have a non-maskable   interrupt?,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-356,CUSTODIAN,   Yes.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-357,WESLEY,   What is its address?,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-358,CUSTODIAN,"   Zero, twelve, twenty-two,   twenty-one, twenty-three,   twenty-six.",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-359,WESLEY,   That doesn't make any sense to   me.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-360,WESLEY,"       Custodian, what's in the locked   room next to this one?",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-361,CUSTODIAN,   You are not authorized for that   information.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-362,WESLEY,   Thank you. Good night.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-363,CUSTODIAN,"   Good night, Wesley.",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-364,WESLEY,   I need your help. I have an idea   how we can get home.,62   INT. ALDEA - KATIE'S QUARTERS - NIGHT,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-365,KATIE,   Why will not talking or eating   make them send us home?,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-366,WESLEY,"   It's called ""passive resistance.""   We don't do anything they want   us to do and then they won't want   us.",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-367,KATIE,   Will they get mad at us?,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-368,WESLEY,   They won't hurt us.,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-369,HARRY,"   But, Wes, I do kind of like them.",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-370,WESLEY,"   So do I, but I don't want to stay   here forever. Do you?",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-371,HARRY,"       No, but I like working with the   wood.",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-372,WESLEY,"   Harry, we all have to do this   together or it won't work.",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-373,HARRY,   Okay. I'll do it.,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-374,RASHELLA,   What are you all doing here   together?,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-375,RASHELLA,       What is going on here?,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-376,RASHELLA,       Garen!,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-377,RASHELLA,       Take the children back to their   units.,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-378,BEVERLY,   The Aldeans are suffering from   a form of radiation poisoning.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-379,PICARD,   And that's what's made the Aldeans   sterile?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-380,BEVERLY,   Yes.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-381,PICARD,   Is it reversible?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-382,BEVERLY,   Of course.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-383,DATA,"   Captain, these permutations are   going to take a very long time.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-384,PICARD,   How long?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-385,DATA,   Weeks.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-386,RIKER,"   Captain, there is another option.   We have identified a weakness in   the shield.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-387,GEORDI,   But it's not constant.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-388,WORF,   It's a hole.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-389,GEORDI,   It's not a hole as much as it is   a fluctuation.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-390,RIKER,"   Still, there is a chance.   Captain, if we can time it exactly   -- I think we can beam a team   through the hole and onto the   planet.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-391,PICARD,   Then why can't we beam the   children up through the hole?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-392,RIKER,"   The timing would be more   difficult, and the risk greater.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-393,PICARD,"   What are you suggesting, Number   One?",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-394,RIKER,"   Beam through the hole. Locate   the source of the shield, and   knock it out.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-395,PICARD,   I'll try to delay the Aldeans   until you're ready.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-396,LEDA,   Will you at least eat?,65   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-397,WESLEY,"   I know you're hungry. We all are,   but Alexandra, we are not going   to eat anything. It's our way   of telling them that we want to   go home. Do you understand?",65   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-398,RADUE,"   Captain Picard. You may come down   now to conclude our discussion,   or your ship may leave. It is   your choice.",66   INT. - MAIN BRIDGE (OPTICAL),- MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-399,RIKER,"   We are ready, Captain.",67   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-400,PICARD,   Doctor Crusher and I are prepared   to conclude these negotiations.,67   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-401,WORF,"   Transporter room, now!",67   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-402,RIKER,   Energize.,69   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-403,RADUE,"   Before we begin, Captain, you must   speak with the children. It seems   they are on some sort of ""strike.""   I don't understand it. You must   deal with this, Captain. I'm   not very good with children.",71   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-404,PICARD,   A strike? I'll see what I can   do.,71   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-405,WESLEY,   Sir! We knew you'd come!,72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-406,PICARD,"   It's not over yet, Wesley.",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-407,WESLEY,"   Captain, I think I figured out   their computer controls -- I'm   not sure, it's a different system   than ours.",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-408,PICARD,"   Good, Wesley. Now...",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-409,HARRY,       ...Captain.,72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-410,PICARD,"   Yes, Harry.",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-411,HARRY,   If something happens and you have   to leave us here -- tell my Dad...   I'm sorry I made him angry... and   I miss him.,72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-412,PICARD,"   I will tell him, Harry, and I will   tell him how much I admire his   son.",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-413,DATA,"   This is it, Commander.",74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-414,DATA,       It is programmed to accept only   authorized voice commands.,74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-415,RIKER,   So we can't override.,74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-416,DATA,   No. But I can intermix the input   so nobody else can.,74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-417,RIKER,   We must find the power supply for   the shield.,74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-418,RADUE,   What is this?,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-419,PICARD,   They want to go home.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-420,RADUE,   No. They're staying.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-421,PICARD,       Number One.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-422,RIKER,   We are in position.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-423,PICARD,   Hold for orders.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-424,RIKER,"   Aye, sir.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-425,BEVERLY,"       The radiation levels on Aldea have   built up over a long period of   time. It is similar to what was   experienced on Earth in the   twenty-first century, when the   ozone layer deteriorated and the   surface of the planet was flooded   with ultraviolet radiation.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-426,PICARD,   The shield that protects your   world in one way has weakened it   in another. It's the radiation   of your own sun which is   destroying you.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-427,RADUE,   You are trying to confuse the   issue.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-428,BEVERLY,"   Please listen. You're all   suffering from a kind of   poisoning. Sterility is only the   latest symptom. If the children   remain, they will be affected as   well.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-429,RADUE,   It is impossible. Our scientists   would have known.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-430,BEVERLY,   How could they? Your scientists   have forgotten how everything   works.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-431,RADUE,   No. It's a lie. Send them back   to their ship.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-432,RASHELLA,"   Wait. No. What if they're right?   Instead of the children being our   hope, what if we are just   condeming them to our fate?",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-433,RADUE,   They are just protecting their   own interests.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-434,RASHELLA,"   As are we. But hear them out.   The captain and Doctor Crusher   are saying our entire life is   based on a misconception, and the   very thing which has given us this   wonderful world is the very thing   which has caused this tragedy?",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-435,PICARD,"   That is exactly it. The shield   that protects you, has weakened   and your computer has controlled   your lives so completely you've   lost the desire to even question   it.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-436,RADUE,   Lies. The discussion is over.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-437,PICARD,   Commander Riker.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-438,RIKER,"   Yes, sir.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-439,PICARD,   I assume you have control of the   computer.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-440,RIKER,   We've disabled the system   temporarily and we've found the   power source to the shield and   we've neutralized it.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-441,PICARD,"   Good.       Enterprise, this is Picard. Beam   the children up.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-442,HARRY,   Wait.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-443,HARRY,       Thank you.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-444,ACCOLAN,   Let me get the dolphin for you   to take with you.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-445,HARRY,   No. You keep it. I'll make   another.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-446,PICARD,   Beam them up.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-447,RADUE,   You've destroyed us.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-448,PICARD,"   We are not here to destroy you,   Radue. We can help you.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-449,RADUE,   What is it?,77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-450,PICARD,"   The legacy your Progenitors left   you, Radue. The source of your   power. And your problems.",77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-451,DATA,"   It is reading incredible amounts   of energy, sir. Even more since   we have taken down the shield.",77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-452,RASHELLA,   What are we going to do with it?,77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-453,RADUE,"   Learn all over again... all this   time we've been destroying   ourselves. So secure, so sure   of our technological   invulnerability. Now...",77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-454,PICARD,   Will you let us help?,77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-455,RADUE,   Yes. Please.,77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-456,HARRY,"   Dad, I want to be an artist. And   I don't want to take calculus   anymore.",79   INT. CORRIDOR,CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-457,DR. BERNARD,"   You can be anything you want,   Harry. Anything. But you still   have to take calculus.",79   INT. CORRIDOR,CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-458,HARRY,"   Okay. Thanks, Dad.",79   INT. CORRIDOR,CORRIDOR,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-459,DATA,"   It worked well, sir.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-460,PICARD,   Are you finished?,80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-461,BEVERLY,"   Yes. They're responding very well   to the treatment, but for this   to work, they can never use their   shield or be cloaked again.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-462,PICARD,"   The legend will die, but the   people will live.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-463,TROI,   And we know they'll make good   parents.,80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-464,PICARD,   Wesley!,80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-465,WESLEY,"   Sorry, sir. She just wanted to   give you a present for bringing   her back to her mommy.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-466,PICARD,"   Mister La Forge, out of orbit.   Warp five.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
-467,GEORDI,"       Yes, sir. Certainly, sir.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""When the Bough Breaks""",1987-12-11,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,COMPUTER,"   Commander Riker, report to the   bridge.",1    INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+1,RIKER,   On the way.,1    INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+2,RIKER,"   What's your hurry, Harry?",2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+3,HARRY,"   Oops. Sorry, Commander. I was,   um, just...",2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+4,DR. BERNARD,   Harry!,2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+5,DR. BERNARD,   I'm sorry if he bothered you.,2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+6,RIKER,"   No bother, Doctor Bernard.",2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+7,HARRY,   I'm not going back. I hate that   teacher. And I hate calculus.,2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+8,DR. BERNARD,"   Everyone needs an understanding   of basic calculus, whether they   like it or not.",2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+9,HARRY,   Why?,2    INT. ANOTHER CORRIDOR,ANOTHER CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+10,BEVERLY,   You're limping.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+11,RIKER,   A small run-in with an aspiring   sprinter.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+12,PICARD,"   Ah, Number One.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+13,RIKER,"   A problem, Captain?",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+14,PICARD,   A curiosity. For the past several   hours we have been tracking faint   energy readings in an attempt to   locate the source. It's been like   following a trail of bread crumbs.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+15,PICARD,       The path lead here and stopped   -- which is what I knew would   interest you.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+16,RIKER,       What's our position?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+17,GEORDI,   The Epsilon Mynos system.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+18,RIKER,"    (with a look of     surprise)   Really? Thank you, Captain;   you're right... I wouldn't miss   this for anything.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+19,TASHA,   What's so interesting about this   system?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+20,RIKER,   Aldea.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+21,RIKER,"       Tasha -- I'm surprised. You mean   you've never heard the stories   about Aldea? A wonderous mythical   world -- like Atlantis on ancient   earth... or Neinman on Xerxes   Seven... with an advanced culture,   centuries old. Self-contained,   peaceful, with incredible   technical sophistication which   provided for every citizen's daily   needs, allowing them to devote   themselves to culture and art,   which was beautiful beyond compare   and valued beyond price.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+22,TASHA,   Where is it supposed to be?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+23,RIKER,   Ahh -- that is the myth -- somehow --   so the legend goes -- the Aldeans   were able to cloak their planet   in darkness and go unseen by   marauders and other hostile   passersby who might rob and   plunder.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+24,TASHA,   A wonderful fairy tale.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+25,DATA,"   Scanners still show nothing, sir.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+26,TROI,"   Scanners may show nothing,   Captain, but I am sensing   something very strong.       Thousands of minds, sir.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+27,PICARD,   Where?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+28,TROI,   Very close.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+29,PICARD,   All stop.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+30,GEORDI,   Answering all stop.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+31,PICARD,   Anything?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+32,WORF,"   Captain, I am recording a   distortion in quadrant one, mark   nine-zero.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+33,PICARD,   On screen.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+34,PICARD,   Shields and deflectors up.,7    INT. MAIN BRIDGE - MAIN VIEWER (OPTICAL),MAIN BRIDGE - MAIN VIEWER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+35,TASHA,"   Aye, sir.",7    INT. MAIN BRIDGE - MAIN VIEWER (OPTICAL),MAIN BRIDGE - MAIN VIEWER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+36,RIKER,"       Aldea, Captain... It has to be.",7    INT. MAIN BRIDGE - MAIN VIEWER (OPTICAL),MAIN BRIDGE - MAIN VIEWER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+37,PICARD ,"   Captain's log, stardate 41509.1.   Either by chance or intent, we've   been led to the mythical planet   of Aldea, which appeared out of   nowhere, hidden behind a   sophisticated shielding device.",10   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+38,DATA,"   Captain, the sensors indicate that   the shield is electromagnetic. A   complicated light refracting   mechanism.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+39,PICARD,   A cloaking device.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+40,DATA,"   Yes, sir.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+41,GEORDI,   To hide an entire planet it's   gotta be pretty sophisticated.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+42,WORF,"       We're being scanned, sir.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+43,PICARD,"   Let's let them know our peaceful   intent. Open hailing frequencies,   Lieutenant Yar.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+44,RASHELLA,   I'm Rashella. Welcome to Aldea.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+45,PICARD,   I am Captain Jean-Luc Picard of   the USS Enterprise. We come in   peace.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+46,RASHELLA,   We know.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+47,PICARD,"   We've heard the stories about   Aldea, but frankly never thought   they could possibly be true.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+48,RASHELLA,"       Our shield has confused outsiders   for millennia, Captain.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+49,PICARD,   A very long time to have that kind   of technology. Why are you   revealing yourself now?,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+50,RASHELLA,"   We're eager to meet in person to   discuss that, and other subjects   of mutual interest.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+51,PICARD,   We're ready anytime.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+52,RASHELLA,   Excellent!,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+53,RASHELLA,    (reacting to their     astonishment)   Our arrival seems to have startled   you.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+54,RADUE,   We mean no harm.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+55,PICARD,   It was a little sudden,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+56,RADUE,"   I'm Radue, First Appointee of Aldea.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+57,PICARD,   Welcome aboard.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+58,BEVERLY,"   Captain, they haven't been through   decontamination.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+59,PICARD,   It's all right.       Our medical doctor is concerned   you didn't go through our regular   transporting procedure.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+60,RASHELLA,"   You couldn't transport us. The   only way through our shield is   our way, Captain. Our cloaking   device may be off, but our shield   is operating. We've brought you   small tokens of welcome.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+61,RADUE,   And our personal invitation to   a celebration on Aldea.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+62,PICARD,"   We'd be delighted. Number One,   assemble your away team.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+63,RADUE,"   We will prepare for your arrival,   Commander Riker.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+64,RIKER,   How did you know...,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+65,RADUE,"   ... your name? We've been   monitoring your ship's   communications. We must return   now to Aldea. Our eyes are very   sensitive to bright light.   Rashella, Garen.",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+66,PICARD,"   Amazing. Only to exist in   mythology and suddenly they're   here, right in front of us.   Number One?",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+67,RIKER,   Now you know who placed the   bread crumbs. We're not here by   accident.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+68,PICARD,   Counselor? What do you sense?,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+69,TROI,   Only the obvious. They want   something from us.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+70,RADUE,"   Commander Riker, is your party   ready?",11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+71,PICARD,   Interesting choices.,11   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+72,RADUE,"   I hope Duana and I know how to   greet you properly, Commander.   ""May your light shine through the   ages.""",13   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+73,RADUE,       My apologies. Age has no respect   for the body.,13   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+74,WESLEY,   How do they cloak the planet?,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+75,DATA,   The theory is simple. The shield   bends light rays around the   planet's contour -- similar to the   Romulan cloaking device -- but the   implementation is very difficult.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+76,PICARD,   Wesley!,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+77,GEORDI,"   Sir, the energy beam is   originating from Aldea.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+78,PICARD,"   Shields up. La Forge, contact   Commander Riker. Worf, check   all other decks.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+79,DATA,"   Shields inoperable, sir. All   decks are being probed in a   methodical pattern.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+80,PICARD,   All decks? Everything? The entire   ship?,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+81,DATA,"   Aye, sir!",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+82,GEORDI,"   Captain, I can't get through to   Commander Riker. We're being   blocked.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+83,PICARD,"   Are you all right, Wesley?",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+84,WESLEY,"       It was scary at first, but I   really didn't feel anything.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+85,WORF,"   Sir, similar incidents, all decks,       but only with the children.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+86,RADUE,"   Yes, Commander, we are an ancient   power. But we've suffered for   it. Our history is littered with   the deaths of those people who   craved more and more things.   Nothing was ever enough. So,   we've evolved a very simple way   of living: for whatever is taken,   something is given in return.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+87,RIKER,   It seems an equitable code.,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+88,RADUE,"   It's given us peace.   Unfortunately, there are very few   of us left to enjoy it.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+89,TROI,   Why?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+90,RADUE,"   That is some of what we wish to   discuss. We need help from the   Federation to rebuild our   heritage... we need a younger   generation, strong and healthy,   following in the Aldean   traditions.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+91,RIKER,   I don't understand. How can the   Federation help influence your   children in your traditions?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+92,RADUE,"   Because we have no children,   Commander. Rashella was the last   child born on this planet.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+93,BEVERLY,   And your medical community can   do nothing?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+94,RASHELLA,"   They've tried, Doctor Crusher.   And failed.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+95,BEVERLY,   Perhaps we can help...,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+96,RIKER,"   Radue, exactly why have we been   invited to Aldea?",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+97,RADUE,   We propose a trade. One which   will solve our problem and give   something back to the Federation.,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+98,RIKER,   And the nature of this trade?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+99,RADUE,"   We need some of your children.   In payment, we will give you the   kind of knowledge which would take   you centuries to acquire.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+100,RIKER,"   That might be acceptable to some   other races, but humans are   unusually attached to their own   offspring.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+101,RIKER,"   We sympathize with your situation,   Radue. But what you ask is not   possible.",15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+102,RADUE,   And that's your final answer?,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+103,RIKER,   It's my only answer. If we can   be of help in some other way...,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+104,RADUE,   I am sorry you are intransigent.,15   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+105,BEVERLY,   Wes!,18   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+106,WORF,   Saucer Section reports six more   children are gone.,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+107,RIKER,   It's the children. That's why   we've been brought here. That's   what they wanted.,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+108,PICARD,   And that's what they have.,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+109,PICARD,   Status!,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+110,TASHA,   Aldean shields still up. Hailing   frequencies open. No response.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+111,PICARD,"   Keep trying, Lieutenant.   Counselor, gather the parents.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+112,TROI,"   They'll need to talk to you as   well, Captain.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+113,RADUE,"   Captain, your children are with   us.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+114,PICARD,   ... Go on.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+115,RADUE,   My word of honor... no harm will   ever come to them.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+116,PICARD,   Harm has already been done.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+117,RADUE,"   Captain, let us begin discussions   regarding appropriate   compensation.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+118,PICARD,       Compensation! You steal our   children -- from their classrooms   -- their bedrooms -- and you talk   about compensation. Return   them... now!,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+119,RADUE,   We will continue this discussion   when you've calmed down.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+120,PICARD,   I shouldn't have lost my temper.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+121,KATIE,"   Wesley, I'm frightened.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+122,WESLEY,"   I know. We all are, but it's   going to be all right. Everyone   knows where we are. No one is   going to hurt you. I promise.       Alexandra, don't go too far!",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+123,KATIE,   She's not afraid of anything.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+124,WESLEY,"       Harry, don't touch that!",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+125,HARRY,   I'm not gonna hurt it.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+126,WESLEY,   I know that. But maybe they   don't.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+127,KATIE,   Who?,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+128,WESLEY,   I don't know who.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+129,HARRY,   Why are we here?,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+130,WESLEY,   I don't know that either.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+131,RADUE,"   Greetings, Wesley Crusher.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+132,WESLEY,"   How did you know my name?       Oh, through that energy beam.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+133,RADUE,   Excellent analysis. The Custodian   indicated you would be the leader.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+134,WESLEY,   The Custodian -- who is the   Custodian?,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+135,RADUE,   The Custodian is not a person.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+136,RASHELLA,   We have brought you to Aldea as   our guests. We'll provide   anything you need or want.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+137,WESLEY,   We want to go home.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+138,RADUE,"   Wesley, all of you have been   chosen because you are special.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+139,DUANA,"   Children, we are starting on a   wonderful adventure.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+140,RADUE,"   Exactly... Just ask for anything   you want, and you shall have it.",25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+141,ALEXANDRA,   Bye-bye.,25   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+142,TOYA,"   What happened to Alexandra and   the other children, Captain? How   are you getting them back?",26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+143,BEVERLY,"   Toya, sit down... You're   reacting out of fear.       We all knew what the risks were   when we signed on. And that's   the choice we made. Captain   Picard will do everything possible   to bring our children back.",26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+144,PICARD,"   The Aldeans are anxious to discuss   ""compensation."" That will buy   us time. I've asked Doctor   Crusher to be involved in the   negotiations as your   representative.",26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+145,DR. BERNARD,   Why were these specific children   taken?,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+146,PICARD,   We can't be sure. We do know the   Aldeans can't have children of   their own.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+147,DR. BERNARD,   Then they won't let them go   easily.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+148,PICARD,   I won't insult you by pretending   it will be easy. I can only say   the Enterprise will not leave them   behind. Be assured of that.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+149,DR. BERNARD,"   Can we talk with our children?   Give them some reassurance. Let   them know that we are here, and   that they will be safe.",26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+150,PICARD,   I will do my best to arrange it.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+151,DR. BERNARD,   The last time I saw him I yelled   at him.,26   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+152,RASHELLA,   There you are!,27   INT. ALDEA - RASHELLA'S QUARTERS,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+153,RASHELLA,       I have you now!,27   INT. ALDEA - RASHELLA'S QUARTERS,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+154,PICARD,"   Any response from Aldea,   Lieutenant Yar?",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+155,TASHA,"   Not yet, sir.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+156,RIKER,"   Captain, Data has found something   interesting. The Aldean shield   gives evidence of sporadic   fluctuations, weakening its   structure in isolated sections.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+157,PICARD,   You're saying there are holes in   their defense system?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+158,RIKER,"   In essence, yes. It is surprising   after all these eons that the   Aldeans' use of their technology   is not perfect. One would assume   they would be aware of the   weakness and repair it.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+159,PICARD,   Can we beam down an away team   through one of these so-called   holes?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+160,RIKER,   It is a possibility. It would   have to be perfectly timed -- and   there are no guarantees.,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+161,DATA,   We may be more successful in   deciphering the code they use   to transport through the magnetic   shield.,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+162,PICARD,   Can you do that?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+163,DATA,"   Eventually, sir. I am working   on it now but the number of   permutations is almost endless.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+164,PICARD,"   Keep trying.       Number One, while he's doing that,   you find a way of getting through   one of those holes because one way   or the other we have to get an away   team on that planet, locate the   power source of that shield and   neutralize it.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+165,RIKER,   You're certain they'll negotiate?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+166,PICARD,"   Oh, they'll negotiate, Number One.   Or call it that. They took what   they wanted, now they'll   rationalize it by throwing us some   sort of bone.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+167,DATA,"   A bone, sir? In exchange for the   children?",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+168,DATA,       Oh. A metaphor.,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+169,RIKER,   And when we don't accept their   offer?,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+170,PICARD,"   The minute they believe we will   accept no compensation for the   children, they will end all   discussion and disappear behind   their shield... locking us out   and the children in -- forever.   That's why I have to keep them   talking.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+171,WESLEY,"   Excuse me, sir, where are you   taking Tara?",29   INT. ALDEA - FIRST UNIT CHAMBER FOYER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+172,HARRY,   What's happening? I thought you   said the captain was going to   rescue us!,29   INT. ALDEA - FIRST UNIT CHAMBER FOYER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+173,WESLEY,   He will. It just might take him   a little while.,29   INT. ALDEA - FIRST UNIT CHAMBER FOYER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+174,RADUE,   Come in.,29   INT. ALDEA - FIRST UNIT CHAMBER FOYER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+175,RADUE,   Don't be alarmed. The other   children have been assigned to   their units.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+176,WESLEY,   Units?,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+177,RADUE,   A unit is a group where people   of similar talents and interests   live together.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+178,WESLEY,   Like a family.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+179,RADUE,"   Yes, you could call it that.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+180,WESLEY,   We already have families.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+181,WESLEY,       Does Captain Picard know what you   are doing?,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+182,RADUE,   We are keeping nothing from him.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+183,LEDA,"   We have been waiting for you so   long, Harry. We are artists, just   like you.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+184,HARRY,   I'm not an artist.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+185,ACCOLAN,   You will be. And a great one.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+186,LEDA,"   This way, Harry.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+187,LEDA,   Unit B -- three seven five.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+188,RADUE,   Katie.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+189,MELIAN,   I am honored.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+190,KATIE,   Thank you.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+191,RADUE,   Melian is the foremost musician   on Aldea.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+192,MELIAN,   Music speaks its own language...   I know we'll have much to learn   from each other.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+193,MELIAN,"       Don't worry, Katie. You'll be   seeing Wesley soon.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+194,RADUE,"   We're the only ones left, Wesley.   Does that tell you something?",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+195,WESLEY,   Do you want me to guess?,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+196,DUANE,"   No. You'll be staying with Radue   and me. As First Unit we require   someone with innate leadership   ability -- and a great mind. You   have both. We need you, Wesley.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+197,WESLEY,   What about me? Don't I have a   say in this?,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+198,RADUE,"   Wesley, sometimes things happen   which we just must accept. You   and the other children are now   members of this society. That   will not change. It's up to you   to make the transition as easy   as possible for the others. You   are their leader. It's your duty.   Help them accept it -- because   nothing you, or those on the   starship can do will change it.   Because like you, we also have   no choice.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+199,DUANA,   We'll do our best to see you're   happy here. And I promise you   one thing: the secrets of Aldea's   power will one day be yours.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+200,RADUE,   Where have you been Rashella?   Zena and Aran are waiting to take   Alexandra.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+201,RASHELLA,   No.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+202,RADUE,   No? I told you...,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+203,RASHELLA,"   No, Radue. They can't have her.",30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+204,RASHELLA,       I will never let her go.,30   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+205,PICARD ,"   Captain's log, supplemental. We   remain in orbit around Aldea.   It's becoming all too evident that   talk will not effect the return   of our children. We must   neutralize the Aldean shield.   Until then we are helpless.",33   EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+206,TASHA,"   Sir, Radue is hailing us.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+207,RADUE,   Captain Picard.,34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+208,PICARD,"   Doctor Crusher and I are ready,   Radue.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+209,RADUE,"   Are you ill, Captain?",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+210,PICARD,"   No. Doctor Crusher is a Staff   Officer, Radue. Starfleet   Regulation 6.57 requires at least   two staff officers to be present   during any treaty or contract   negotiations.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+211,RADUE,   Very well.,34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+212,RIKER,"   Not much on pleasantries, is he?",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+213,DATA,"   I am not aware of Regulation 6.57,   sir.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+214,PICARD,"   Neither am I, Data.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+215,DATA,   Oh. I see.,34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+216,PICARD,"   Doctor Crusher, report to the   bridge... Now we'll see what they   have in mind.",34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+217,DUANA,"   Over here, Wesley.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+218,DUANA,"       Custodian, Wesley Crusher's voice   will be entered into the   authorized file -- for Third Level   clearance.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+219,CUSTODIAN,"   Proceed, Duana.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+220,DUANA,   Announce yourself to the   Custodian.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+221,WESLEY,"   Hello, Custodian. I'm Wesley   Crusher.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+222,CUSTODIAN,"   Hello, Wesley. Your voice will   now activate Third Level   clearance.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+223,WESLEY,   Thank you. What does that mean?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+224,CUSTODIAN,   You may ask any questions you   wish.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+225,WESLEY,"   Thank you. Duana, what does the   Custodian do?",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+226,DUANA,   It frees us from all burden. It   takes care of all our needs. It   regulates our lives.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+227,WESLEY,   Who built it?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+228,DUANA,   The Progenitors.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+229,WESLEY,   When?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+230,DUANA,   Before my time. Centuries ago.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+231,WESLEY,   ... What's its power source?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+232,DUANA,"   Wesley, why is that important?   It does what we ask it. It always   has. What difference does it make   how it works?",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+233,WESLEY,"   If you don't know how it works,   how can you repair it?",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+234,DUANA,    (not understanding the     concept)   Why would we want to repair it?,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+235,WESLEY,"   From time to time, every computer   -- I mean Custodian -- requires   maintainance.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+236,DUANA,"       Wesley, Radue is right. You ask   questions I can't answer. Ask   the Custodian instead.",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+237,WESLEY,"   Custodian, can you show me where   Harry is?",35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+238,CUSTODIAN,   Yes.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+239,WESLEY,   Show me Harry.,35   INT. ALDEA - COMPUTER (CUSTODIAN) ROOM (OPTICAL),ALDEA - COMPUTER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+240,HARRY,   I never did this before. It's   fun.,36   INT. ALDEA - ARTISTS' UNIT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+241,WESLEY,   You are going to make Harry into   a sculptor?,37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+242,DUANA,   He already is. He has just never   been encouraged properly. The   tool Leda is giving him will allow   him to bring out his visions.,37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+243,WESLEY,   It will take years for him to   learn to do that.,37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+244,DUANA,"   Oh, no. It will happen quite   quickly.",37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+245,WESLEY,"   Custodian, show me Alexandra.",37   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+246,WESLEY,"   Custodian, show me Jason...",39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+247,DUANA,"   Stop, Custodian.",39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+248,DUANA,   We must work now... there is much   to learn.,39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+249,WESLEY,   What's in there?,39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+250,WESLEY,   It's probably the power source.,39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+251,DUANA,   I don't know. It's forbidden.   The Custodian allows no one in   there. There's no one left who's   authorized.,39   INT. ALDEA - CUSTODIAN ROOM (OPTICAL),ALDEA - CUSTODIAN ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+252,PICARD,"   Open hailing frequency, Lieutenant   Yar.",40   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+253,TASHA,"   Open, sir.",40   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+254,RADUE,"   Ah, good. You're ready.",40   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+255,PICARD,   I want to see the children before   we begin.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+256,RADUE,"   No. We're here to negotiate for   compensation, not to pander to   emotions. This way.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+257,PICARD,"   Radue, we do not condone your   actions. You're attempting to   salve your conscience by offering   goods in exchange for our   children.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+258,RADUE,   Why do you want them back so   badly? You can always make more.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+259,PICARD,   We happen to like these particular   children.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+260,RADUE,   Humans have great attachment to   their offspring. But we're   digressing. Returning the   children is non-negotiable.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+261,RASHELLA,   I promise you they will have a   beautiful life with us. And   they'll be father and mother to   a new breed born of an ancient   culture.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+262,BEVERLY,   What makes you think they'll be   able to have children? You can't.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+263,RADUE,   But they will. Our inability to   bear children is a genetic   dysfunction. It's not contagious.,41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+264,PICARD,"   Radue, we do sympathize. But   surely there is a solution which   can be mutually satisfactory.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+265,RADUE,"   For us, the problem is solved.   We are offering you information   on areas of the galaxy you don't   even know exist. What more can   we offer? What more would you   want?",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+266,PICARD,"   A significant beginning, I think.   But first I must ask again that   Doctor Crusher be allowed to speak   with her son before we continue.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+267,RADUE,"   You are a very stubborn people.   Ah, well, that can be a positive   trait. You may see him.",41   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+268,WESLEY,   Mom!,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+269,WESLEY,       I knew the captain would get us   home.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+270,BEVERLY,"   Not yet, Wes.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+271,WESLEY,   Oh. I thought... never mind.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+272,BEVERLY,   Are you okay? And the others?,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+273,WESLEY,"   Okay, really okay. Everyone's   been assigned their own units...   you know, like families. We're   being treated, well, almost like   gods.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+274,BEVERLY,   Don't let it go to your head.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+275,WESLEY,       I won't.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+276,BEVERLY,"   So, what have you been doing?",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+277,WESLEY,"   I'm learning a lot. They have a   computer which they call the   Custodian. It controls   everything.       The captain should know this.   All their defense systems, the   city's environment, everything.   And it's all voice command. So   simple. But the amazing thing   is the Aldeans don't know how it   works. They know how to talk to   it, but they don't even know what   its power source is, and they   didn't do the original   programming.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+278,WESLEY,"    (continuing; normal     voice)   They said that later on, when I'm   really an Aldean, I'll know all   their secrets.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+279,BEVERLY,"   That won't happen, Wes. I promise   I won't let that happen.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+280,DUANA,"   You must leave, Doctor Crusher.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+281,BEVERLY,   Take care of yourself.,42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+282,WESLEY,"   I will, Mom.",42   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+283,BEVERLY,   Wes seems fine. He says the other   children are too.,43   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+284,RASHELLA,   Of course they're well.,43   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+285,RADUE,"   Captain Picard, you have our   offer. It is final. Rashella.",43   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+286,RADUE,"   Captain, we want you to understand   the nature of your choice. A   small demonstration of our   power...",44   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+287,PICARD,   What was that?,46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+288,DATA,"   I believe it was a repulsor beam,   sir.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+289,PICARD,   Position report.,46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+290,GEORDI,"   It's unbelievable, sir. According   to my calculations, we're three   days from Aldea -- at warp nine.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+291,RIKER,"   They call that a ""small""   Demonstration?",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+292,PICARD,"   Geordi, take us back to Aldea   orbit. Warp factor nine.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+293,RADUE,"   Captain, if you don't accept our   terms, the Enterprise will be   pushed so far away, by the time   you get back, your children will   be grandparents.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+294,PICARD ,"   Captain's log, stardate 41509.45.   We are twenty hours away from   Aldea, and no closer to a   solution. Their deliberate show   of force pushed us out of orbit   and could have disintegrated the   ship. In the face of that power,   a direct assault on Aldea would   be disastrous.",47   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+295,MELIAN,"   Now, hold it a little bit more   firmly.",49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+296,MELIAN,"       That's it. Perfect. Now...   think. No, think's not right.   Feel the notes inside your head.",49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+297,KATIE,   I'm sorry! Did I break it?,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+298,MELIAN,   No. It's all right. You can't   break it.,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+299,KATIE,"   It did exactly what I thought...   I mean, felt.",49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+300,MELIAN,   Yes. It's a direct expression   of the music within. Now we just   have to teach you to structure   that feeling...,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+301,MELIAN,       That was beautiful. Now play   something happier.,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+302,KATIE,    (sadly shaking her     head)   That's not how I feel.       I don't want to do this anymore.,49   INT. ALDEA - MELIAN'S MUSIC ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+303,ACCOLAN,"   You see, Harry, I told you you   were going to be an artist.",50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+304,HARRY,   Are you sure? Did I really do   this?,50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+305,ACCOLAN,"   Oh, yes. Your talent has always   been there. The sculpting tool   is just helping you develop it.   It's what you were meant to do.",50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+306,HARRY,   You mean I don't have to do   calculus anymore?,50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+307,ACCOLAN,   You don't have to do anything you   don't want to do. What's   calculus?,50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+308,HARRY,   Nothing important. Can I do some   more?,50   INT. ALDEA - ARTISTS' UNIT (OPTICAL)	50,ALDEA - ARTISTS' UNIT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+309,PICARD,"   Captain's log, supplemental. It   has been three days since the   Aldeans pushed us away. We have   had no contact with Radue since   then.",52   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+310,PICARD,"   Lieutenant Yar, open hailing   frequencies.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+311,TASHA,"   Frequencies open, sir.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+312,PICARD,"   Radue, this is Captain Picard.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+313,RADUE,"   Welcome back, Captain. What have   you decided?",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+314,PICARD,"   There is room for discussion,   Radue.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+315,RADUE,   We will bring you down when we   are ready.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+316,PICARD,"   Data, find a way to defeat that   shield.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+317,DATA,"   That may be impossible, sir.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+318,PICARD,"   Things are impossible, until   they're not.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+319,DATA,"   Yes, sir.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+320,BEVERLY,"   Captain, here's what I've learned.       Duana is dying. I have no reason   to believe the rest of the Aldeans   are any healthier.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+321,PICARD,"   We're all dying, Doctor. Can you   be more specific?",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+322,BEVERLY,"   They're suffering from some kind   of chromosomal damage. It could   be genetic, or environmental.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+323,PICARD,   Then that's why they can't   conceive.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+324,BEVERLY,"   Yes. It also explains their lack   of appetite, their sensitivity   to light, and their extreme   pallor.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+325,PICARD,   An entire civilization that's   terminally ill... is it   reversible?,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+326,BEVERLY,   I won't know until I've found the   cause... and you don't need to   tell me time is running out.,53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+327,PICARD,"   Good work, Doctor.",53   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+328,DUANA,   I thought growing boys are always   hungry.,55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+329,WESLEY,   You didn't eat anything.,55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+330,RADUE,   We need very little.,55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+331,DUANA,   I know you miss your family. But   you will grow accustomed to us.   I promise. I promise you'll be   happy.,55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+332,WESLEY,"   You can keep me here, but you   can't make me want to stay.   You'll never be able to make me   forget. And I'll never be an   Aldean.",55   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+333,ACCOLAN,   Have the lesions gone?,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+334,LEDA,   Yes. The medicine worked again.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+335,ACCOLAN,   Good. Come see what Harry's   doing.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+336,ACCOLAN,       Beautiful!,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+337,HARRY,       It really turned out well.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+338,ACCOLAN,   It is so graceful and alive. What   do you call it?,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+339,HARRY,   It's a dolphin.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+340,LEDA,   Dolphin?,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+341,HARRY,"   You know, it swims in the ocean.   Like a fish, only it's not a fish.",56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+342,LEDA,   Ah. A fish. We used to have them   in our oceans. I've never seen   one before.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+343,HARRY,   I used to live near the ocean.   On Zadar IV. My dad's an   oceanographer. He says... never   mind. It doesn't matter.,56   INT. ALDEA - ARTISTS' UNIT - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+344,BEVERLY,   No. That doesn't fit the pattern.   Give me a list of the appropriate   medical literature from the   twenty-second century.,58   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+345,BEVERLY,       There's not enough time!,58   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+346,PICARD,   Is there anything I can do?,58   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+347,BEVERLY,"   You just did, Jean-Luc. Now...   I have to get back to work.",58   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+348,ALEXANDRA,   I want Mommy!,59   INT. ALDEA - RASHELLA'S QUARTERS - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+349,WESLEY,       Custodian's room.,60   INT. ALDEA - WESLEY'S ROOM - NIGHT (OPTICAL),ALDEA - WESLEY'S ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+350,WESLEY,"       Custodian, this is Wesley Crusher.",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+351,CUSTODIAN,"       Proceed, Wesley.",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+352,WESLEY,   Show me where all the Enterprise   children are in relation to this   room.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+353,WESLEY,       Thank you.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+354,WESLEY,"       Custodian, what's your instruction   set?",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+355,WESLEY,       How can I command your attention?   Do you have a non-maskable   interrupt?,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+356,CUSTODIAN,   Yes.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+357,WESLEY,   What is its address?,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+358,CUSTODIAN,"   Zero, twelve, twenty-two,   twenty-one, twenty-three,   twenty-six.",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+359,WESLEY,   That doesn't make any sense to   me.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+360,WESLEY,"       Custodian, what's in the locked   room next to this one?",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+361,CUSTODIAN,   You are not authorized for that   information.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+362,WESLEY,   Thank you. Good night.,61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+363,CUSTODIAN,"   Good night, Wesley.",61   INT. ALDEA - CUSTODIAN ROOM - NIGHT (OPTICAL),ALDEA - CUSTODIAN ROOM - NIGHT,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+364,WESLEY,   I need your help. I have an idea   how we can get home.,62   INT. ALDEA - KATIE'S QUARTERS - NIGHT,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+365,KATIE,   Why will not talking or eating   make them send us home?,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+366,WESLEY,"   It's called ""passive resistance.""   We don't do anything they want   us to do and then they won't want   us.",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+367,KATIE,   Will they get mad at us?,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+368,WESLEY,   They won't hurt us.,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+369,HARRY,"   But, Wes, I do kind of like them.",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+370,WESLEY,"   So do I, but I don't want to stay   here forever. Do you?",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+371,HARRY,"       No, but I like working with the   wood.",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+372,WESLEY,"   Harry, we all have to do this   together or it won't work.",63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+373,HARRY,   Okay. I'll do it.,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+374,RASHELLA,   What are you all doing here   together?,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+375,RASHELLA,       What is going on here?,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+376,RASHELLA,       Garen!,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+377,RASHELLA,       Take the children back to their   units.,63   INT. ALDEA - WESLEY'S ROOM - EARLY MORNING,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+378,BEVERLY,   The Aldeans are suffering from   a form of radiation poisoning.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+379,PICARD,   And that's what's made the Aldeans   sterile?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+380,BEVERLY,   Yes.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+381,PICARD,   Is it reversible?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+382,BEVERLY,   Of course.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+383,DATA,"   Captain, these permutations are   going to take a very long time.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+384,PICARD,   How long?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+385,DATA,   Weeks.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+386,RIKER,"   Captain, there is another option.   We have identified a weakness in   the shield.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+387,GEORDI,   But it's not constant.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+388,WORF,   It's a hole.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+389,GEORDI,   It's not a hole as much as it is   a fluctuation.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+390,RIKER,"   Still, there is a chance.   Captain, if we can time it exactly   -- I think we can beam a team   through the hole and onto the   planet.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+391,PICARD,   Then why can't we beam the   children up through the hole?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+392,RIKER,"   The timing would be more   difficult, and the risk greater.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+393,PICARD,"   What are you suggesting, Number   One?",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+394,RIKER,"   Beam through the hole. Locate   the source of the shield, and   knock it out.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+395,PICARD,   I'll try to delay the Aldeans   until you're ready.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+396,LEDA,   Will you at least eat?,65   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+397,WESLEY,"   I know you're hungry. We all are,   but Alexandra, we are not going   to eat anything. It's our way   of telling them that we want to   go home. Do you understand?",65   INT. ALDEA - WESLEY'S ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+398,RADUE,"   Captain Picard. You may come down   now to conclude our discussion,   or your ship may leave. It is   your choice.",66   INT. - MAIN BRIDGE (OPTICAL),- MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+399,RIKER,"   We are ready, Captain.",67   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+400,PICARD,   Doctor Crusher and I are prepared   to conclude these negotiations.,67   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+401,WORF,"   Transporter room, now!",67   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+402,RIKER,   Energize.,69   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+403,RADUE,"   Before we begin, Captain, you must   speak with the children. It seems   they are on some sort of ""strike.""   I don't understand it. You must   deal with this, Captain. I'm   not very good with children.",71   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+404,PICARD,   A strike? I'll see what I can   do.,71   INT. ALDEA - FIRST UNIT CHAMBER,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+405,WESLEY,   Sir! We knew you'd come!,72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+406,PICARD,"   It's not over yet, Wesley.",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+407,WESLEY,"   Captain, I think I figured out   their computer controls -- I'm   not sure, it's a different system   than ours.",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+408,PICARD,"   Good, Wesley. Now...",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+409,HARRY,       ...Captain.,72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+410,PICARD,"   Yes, Harry.",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+411,HARRY,   If something happens and you have   to leave us here -- tell my Dad...   I'm sorry I made him angry... and   I miss him.,72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+412,PICARD,"   I will tell him, Harry, and I will   tell him how much I admire his   son.",72   INT. ALDEA - WESLEY'S ROOM (OPTICAL),ALDEA - WESLEY'S ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+413,DATA,"   This is it, Commander.",74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+414,DATA,       It is programmed to accept only   authorized voice commands.,74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+415,RIKER,   So we can't override.,74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+416,DATA,   No. But I can intermix the input   so nobody else can.,74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+417,RIKER,   We must find the power supply for   the shield.,74   INT. ALDEA - CUSTODIAN ROOM,ALDEA,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+418,RADUE,   What is this?,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+419,PICARD,   They want to go home.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+420,RADUE,   No. They're staying.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+421,PICARD,       Number One.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+422,RIKER,   We are in position.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+423,PICARD,   Hold for orders.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+424,RIKER,"   Aye, sir.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+425,BEVERLY,"       The radiation levels on Aldea have   built up over a long period of   time. It is similar to what was   experienced on Earth in the   twenty-first century, when the   ozone layer deteriorated and the   surface of the planet was flooded   with ultraviolet radiation.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+426,PICARD,   The shield that protects your   world in one way has weakened it   in another. It's the radiation   of your own sun which is   destroying you.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+427,RADUE,   You are trying to confuse the   issue.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+428,BEVERLY,"   Please listen. You're all   suffering from a kind of   poisoning. Sterility is only the   latest symptom. If the children   remain, they will be affected as   well.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+429,RADUE,   It is impossible. Our scientists   would have known.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+430,BEVERLY,   How could they? Your scientists   have forgotten how everything   works.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+431,RADUE,   No. It's a lie. Send them back   to their ship.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+432,RASHELLA,"   Wait. No. What if they're right?   Instead of the children being our   hope, what if we are just   condeming them to our fate?",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+433,RADUE,   They are just protecting their   own interests.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+434,RASHELLA,"   As are we. But hear them out.   The captain and Doctor Crusher   are saying our entire life is   based on a misconception, and the   very thing which has given us this   wonderful world is the very thing   which has caused this tragedy?",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+435,PICARD,"   That is exactly it. The shield   that protects you, has weakened   and your computer has controlled   your lives so completely you've   lost the desire to even question   it.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+436,RADUE,   Lies. The discussion is over.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+437,PICARD,   Commander Riker.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+438,RIKER,"   Yes, sir.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+439,PICARD,   I assume you have control of the   computer.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+440,RIKER,   We've disabled the system   temporarily and we've found the   power source to the shield and   we've neutralized it.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+441,PICARD,"   Good.       Enterprise, this is Picard. Beam   the children up.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+442,HARRY,   Wait.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+443,HARRY,       Thank you.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+444,ACCOLAN,   Let me get the dolphin for you   to take with you.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+445,HARRY,   No. You keep it. I'll make   another.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+446,PICARD,   Beam them up.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+447,RADUE,   You've destroyed us.,75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+448,PICARD,"   We are not here to destroy you,   Radue. We can help you.",75   INT. ALDEA - FIRST UNIT CHAMBER (OPTICAL),ALDEA - FIRST UNIT CHAMBER,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+449,RADUE,   What is it?,77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+450,PICARD,"   The legacy your Progenitors left   you, Radue. The source of your   power. And your problems.",77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+451,DATA,"   It is reading incredible amounts   of energy, sir. Even more since   we have taken down the shield.",77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+452,RASHELLA,   What are we going to do with it?,77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+453,RADUE,"   Learn all over again... all this   time we've been destroying   ourselves. So secure, so sure   of our technological   invulnerability. Now...",77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+454,PICARD,   Will you let us help?,77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+455,RADUE,   Yes. Please.,77   INT. ALDEA - POWER ROOM (OPTICAL),ALDEA - POWER ROOM,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+456,HARRY,"   Dad, I want to be an artist. And   I don't want to take calculus   anymore.",79   INT. CORRIDOR,CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+457,DR. BERNARD,"   You can be anything you want,   Harry. Anything. But you still   have to take calculus.",79   INT. CORRIDOR,CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+458,HARRY,"   Okay. Thanks, Dad.",79   INT. CORRIDOR,CORRIDOR,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+459,DATA,"   It worked well, sir.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+460,PICARD,   Are you finished?,80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+461,BEVERLY,"   Yes. They're responding very well   to the treatment, but for this   to work, they can never use their   shield or be cloaked again.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+462,PICARD,"   The legend will die, but the   people will live.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+463,TROI,   And we know they'll make good   parents.,80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+464,PICARD,   Wesley!,80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+465,WESLEY,"   Sorry, sir. She just wanted to   give you a present for bringing   her back to her mommy.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+466,PICARD,"   Mister La Forge, out of orbit.   Warp five.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt
+467,GEORDI,"       Yes, sir. Certainly, sir.",80   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,When the Bough Breaks,1987-12-11,The Next Generation,118.txt

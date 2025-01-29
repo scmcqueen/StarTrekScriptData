@@ -1,406 +1,406 @@
-,character,quote,scene,location,view,episode,date,series
-0,PICARD ,"   Captain's Log, Stardate 46915.2.   The Enterprise is orbiting Nervala   Four, waiting for an opportunity   to retrieve scientific data left   there by Starfleet researchers   when they were forced to evacuate   eight years ago.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Second Chances""",1993-03-17,The Next Generation
-1,RIKER,   Thank you... thank you very much.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-2,RIKER,   Any requests tonight?,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-3,TROI,   Night Bird.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-4,RIKER,   Anyone?,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-5,TROI,       Night Bird!,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-6,RIKER,   Ladies and Gentlemen... Night   Bird.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-7,BEVERLY,   What was that all about?,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-8,TROI,       Wil's been trying to get this   piece right for ten years now.   He's never made it through the   solo.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-9,BEVERLY,   Remember that dance recital I told   you I was doing?,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-10,TROI,       Next week.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-11,BEVERLY,   You're dis-invited.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-12,TROI,   Here it comes.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-13,DATA,   Data to Commander Riker.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-14,RIKER,"       Riker, here.",2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-15,DATA,"   Commander, you are needed on the   Bridge.",2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-16,RIKER,   On my way.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-17,RIKER,   Saved by the bell...,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-18,RIKER,"   You wanted to see me, Data?",3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-19,DATA,"   Yes, sir. It appears that we will   be able to transport to the   surface sooner than we   anticipated.",3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-20,RIKER,   Is the planet's distortion field   de-phasing sooner than you   predicted?,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-21,DATA,"   No, sir. But using the Potemkin's   transport logs from the original   evacuation, Commander La Forge and   I were able to modify the   Transporters.",3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-22,RIKER,       So we can beam through higher   distortion levels.,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-23,DATA,       The Transporters are now   considerably more efficient than   those used on the Potemkin eight   years ago.,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-24,RIKER,   Glad to hear it. I almost didn't   make it off the surface that day.       When can we get started?,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-25,DATA,   Ninety-seven minutes.,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-26,RIKER,   How long will the transport window   last?,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-27,DATA,"   Twenty-six minutes. After that,   the distortion field will re-phase.",3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-28,RIKER,   That doesn't give us much time to   retrieve the database.,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-29,DATA,   The planet's proximity to its sun   will create two additional   transport windows in the next   three days.,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-30,RIKER,   Let's hope that's enough.,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-31,DATA,"   It will have to be. The next   transport window will not occur   for another eight years, when the   planet's orbit brings it close   enough to the sun to de-phase the   distortion field.",3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-32,RIKER,   Notify the Away Team we're going   in ahead of schedule; I'll tell   the Captain.,3    INT. BRIDGE,BRIDGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-33,RIKER,       How long until the transport   window opens?,5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-34,GEORDI,   Fourteen seconds.,5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-35,RIKER,       Let's get in position.,5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-36,GEORDI,"   Whenever you're ready, Commander.",5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-37,RIKER,   Energize.,5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-38,RIKER,   This isn't how I remember it; the   place was a mess when we left.,6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-39,DATA,   Commander...,6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-40,RIKER,   Someone's been here...,6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-41,WORF,   A vessel could have gotten caught   in the distortion field and   crashed. The survivors may have   taken shelter here.,6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-42,DATA,"   Commander, someone is   approaching... a humanoid. Forty   meters due east and closing.",6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-43,RIKER,   Who are you?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-44,LT. RIKER,   Who are you?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-45,RIKER,   Commander William Riker of the   Federation Starship Enterprise.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-46,LT. RIKER,   That's not possible. I'm Wil   Riker.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-47,DATA,   May I ask how you got here?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-48,LT. RIKER,"   Eight years ago, I led a team to   evacuate this station.",7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-49,RIKER,   What ship were you on?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-50,LT. RIKER,   The Potemkin.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-51,DATA,   Why did you not return to the   Potemkin with the others?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-52,LT. RIKER,"   I was the last one out. The   distortion field must have   interfered with the transport;   they lost their signal lock on me.   When I tried to contact the ship,   I couldn't get through the   interference.",7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-53,LT. RIKER,   Check with Starfleet; I'm sure   they recorded me lost that day.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-54,RIKER,   That's not what happened. I was   the last one out... but I made it   back to the Potemkin.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-55,LT. RIKER,   You don't believe me.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-56,RIKER,   It's not that we don't believe   you; it's just hard to see how   both our stories could be true.       Would you be willing to let our   Doctor check you out?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-57,LT. RIKER,   Of course.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-58,RIKER,"   Lieutenant Worf, take him to   Sickbay. Notify the Captain as   soon as you're aboard.",7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-59,WORF,       Worf to Enterprise. Two to beam   up.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-60,RIKER,   Let's get to work.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-61,BEVERLY,   Looks like you fractured your arm   a few years ago.,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-62,LT. RIKER,   I was underneath the station   making repairs when an earthquake   hit -- I got caught in a   rockslide. I had to set it   myself.,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-63,PICARD,   Captain Jean-Luc Picard.,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-64,LT. RIKER,"   Lieutenant Wil Riker, sir.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-65,PICARD,"   If you are Wil Riker, if there are   two of you... then something   extraordinary has occurred. I   hope you understand our need to   verify your claim.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-66,LT. RIKER,"   Yes, sir.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-67,BEVERLY,"   Genetically, he's   indistinguishable from Commander   Riker.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-68,PICARD,   Could some sort of cloning be   involved?,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-69,BEVERLY,"   I don't think so, there's no   genetic drift.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-70,PICARD,   But that isn't conclusive.,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-71,BEVERLY,"   That's why I compared their brain   scans. Brain organization   patterns are as unique as...   fingerprints. Except for some   minor differences, theirs are   identical.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-72,PICARD,   Can't brain patterns be cloned?,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-73,BEVERLY,"   No. They're determined by   experience, mostly in early   childhood.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-74,PICARD,   How could two men have shared the   same childhood experiences? It   doesn't make any sense.,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-75,LT. RIKER,"   Sir, I am Wil Riker. I don't know   who or what made it back to the   Potemkin that day, but it wasn't   me.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-76,PICARD,       Lieutenant -- my Chief Engineer is   checking over the transport logs   from the Potemkin. They may shed   some light on what happened.,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-77,LT. RIKER,"   Yes, sir.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-78,PICARD,"   Don't worry, we'll get to the   bottom of this.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-79,PICARD,   In the meantime you'll be taken to   quarters. Make yourself   comfortable.,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-80,LT. RIKER,"   I will, sir. The replicators on   the station stopped working a long   time ago. It's been a while since   I had a decent meal.",10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-81,LT. RIKER,   Doctor...,10   INT. SICKBAY,SICKBAY,INT.,"""Second Chances""",1993-03-17,The Next Generation
-82,GEORDI,       ... apparently there was a massive   energy surge in the distortion   field around the planet just at   the moment you tried to beam out.   The Transporter Chief tried to   compensate by initiating a second   containment beam.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-83,DATA,   An interesting approach. He must   have been planning to reintegrate   the two patterns in the transport   buffer.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-84,GEORDI,   Turns out he didn't have to.   Commander Riker's pattern   maintained its integrity with just   the one containment beam -- he   made it back to the ship just   fine.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-85,BEVERLY,   What happened to the second beam?,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-86,GEORDI,"   The Transporter Chief shut it   down, but somehow... it was   reflected back to the surface.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-87,PICARD,   And another Wil Riker materialized   there.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-88,RIKER,   How could the second pattern have   maintained its integrity?,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-89,GEORDI,   The containment beam must have had   the exact same phase differential   as the distortion field.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-90,RIKER,   Which one of us is... real?,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-91,GEORDI,   Both. You were both re-materialized   from a complete   pattern.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-92,BEVERLY,"       Up to that moment, you were the   same person.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-93,PICARD,"   But over the last eight years, you   and...",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-94,PICARD,       -- Lieutenant Riker have lived   very different lives. You're   different people now.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-95,PICARD,"   For us, it's a little like meeting   a close friend's twin. You can't   help feeling that you know them...   but of course you don't.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-96,PICARD,"   No matter how strange it may seem   to us... there are now two Wil   Rikers aboard this vessel.   Getting used to the idea may take   a while... especially for you,   Wil.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-97,RIKER,"   I'll be all right, sir.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-98,PICARD,   Lieutenant Riker will be here for   a few days at least. We should do   everything we can to make him feel   comfortable and welcome.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-99,RIKER,   That still leaves us with the   problem of how to retrieve the   database. The station's computer   is only partially operational.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-100,DATA,   Many of its components have been   removed. Apparently Lieutenant   Riker used them to keep the   station's radiation shield   operational.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-101,PICARD,"   Can we repair it, at least enough   to access the database?",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-102,RIKER,"   Without knowing what he did, it'll   be tough.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-103,BEVERLY,   Maybe he could help?,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-104,PICARD,   He was alone down there a long   time. I'm hesitant to send him   back until he's been evaluated.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-105,TROI,   I'll talk to him.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-106,PICARD,"   Thank you, Counselor.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Second Chances""",1993-03-17,The Next Generation
-107,LT. RIKER,   Come in.,12   INT. LIEUTENANT RIKER'S QUARTERS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-108,TROI,"   Hello, Wil.",12   INT. LIEUTENANT RIKER'S QUARTERS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-109,LT. RIKER,   Imzadi...,12   INT. LIEUTENANT RIKER'S QUARTERS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-110,TROI,   Wil...,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-111,LT. RIKER,   I thought I'd never see you   again...,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-112,TROI,   We need to talk.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-113,LT. RIKER,   You're here... on this ship...   because of him.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-114,TROI,   No.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-115,TROI,"   Commander Riker and I are friends,   close friends; nothing more.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-116,TROI,   Wil -- why don't we sit down?,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-117,TROI,   Do you remember the last time we   saw each other?,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-118,LT. RIKER,"   Like yesterday. We spent the day   at the Janaran falls, on Betazed.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-119,TROI,   It was the day before you started   your tour on the Potemkin.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-120,LT. RIKER,"       We were going to meet six weeks   later, on Risa.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-121,TROI,   We never did.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-122,LT. RIKER,       I know.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-123,TROI,   What I mean is... Commander Riker   and I never did.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-124,TROI,   You see... he earned a promotion   very quickly.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-125,LT. RIKER,   I know.       For exceptional valor during the   evacuation of the research station   on Nervala Four.       I looked over his service record.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-126,TROI,   He chose to make his career a   priority. There wasn't time for   much of anything else.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-127,TROI,   We kept in touch... but we didn't   see each other again until we were   both posted to the Enterprise two   years later.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-128,TROI,"   By then, our feelings for each   other had changed. We've served   together for six years now...   things never went back to the way   they used to be.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-129,LT. RIKER,   I had a lot of time on my hands   down there. There were days I   felt so alone I thought I might   lose my mind.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-130,LT. RIKER,"       Do you know what got me through?       Thinking that if I could hang on,   one more day, maybe I'd be   rescued... and I'd see you again.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-131,LT. RIKER,   Well... I guess things don't   always turn out quite the way you   expect them to.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-132,TROI,"   I know this isn't what you were   hoping for, but that doesn't mean   you can't make a future for   yourself.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-133,LT. RIKER,"   For now, I think I'll just take   things one day at a time.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-134,TROI,   Captain Picard wanted me to find   out if you'd be willing to help us   retrieve the station's database.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-135,LT. RIKER,   I reconfigured that computer   system so many times they probably   can't make heads or tails of it.   I'd be happy to help.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-136,TROI,   Do you feel up to it?,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-137,LT. RIKER,   Absolutely.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-138,TROI,   I'll tell the Captain.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-139,TROI,   Well... I have to go.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-140,LT. RIKER,   Deanna... I know it's been a long   time since we were together; I   know your feelings have changed.   But...,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-141,LT. RIKER,   Mine haven't. I can't just give   up and accept that it's over... I   want to be with you again.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-142,TROI,"       Good night, Wil...",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-143,PALMER,       Phase distortion is dropping --   the second transport window will   open in forty-two seconds.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-144,RIKER,   How long will we have?,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-145,PALMER,"   Thirty-six minutes, sir.",16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-146,WORF,   We are losing time. Lieutenant   Riker should be here.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-147,RIKER,"   Computer, where is Lieutenant --",16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-148,RIKER,   Cancel inquiry.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-149,WORF,   You were supposed to report here   at eight hundred hours.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-150,LT. RIKER,"   I'm sorry, I was --",16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-151,RIKER,       I guess it's been a while since   you had to punch a clock.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-152,RIKER,       Let's go.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-153,RIKER,   Energize.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-154,LT. RIKER,   I shut down most of the consoles   to save power. I re-routed just   about everything through here.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-155,RIKER,"   Check out the primary EPS   coupling, see if you can get some   power to the rest of these   consoles.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-156,LT. RIKER,       I shunted the database to the main   core underneath the station.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-157,RIKER,   Can we access it from here?,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-158,LT. RIKER,"   There's been a lot of seismic   activity over the years; if the   servo-links were damaged, we may   not be able to.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-159,LT. RIKER,   I'll try to tap into the command   pathways. See if you can disable   the file server.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-160,RIKER,   I was thinking... we should   probably let Dad know what's   happened.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-161,LT. RIKER,       I'm sure he'll be thrilled to hear   there are two of us now.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-162,RIKER,   I don't know. He and I patched up   a few things.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-163,LT. RIKER,   I've gotten by without talking to   him for a long time. I'm not   about to start now.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-164,LT. RIKER,   What made you contact him?,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-165,RIKER,   I didn't. He came to the   Enterprise to brief me when I was   offered the Aries.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-166,LT. RIKER,   What did he say when you turned   down the chance to command your   own ship?,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-167,RIKER,   He couldn't understand why I did   it.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-168,LT. RIKER,   For once he and I agree on   something.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-169,WORF,   The primary EPS coupling is fused.   It will have to be replaced.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-170,LT. RIKER,       I've accessed the command   pathways.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-171,RIKER,   Let's see if that does the trick.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-172,LT. RIKER,   It's not working. The servo-link   must be damaged. We're going to   have to go under the station and   access the core directly.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-173,DATA,   We have less than three minutes   left.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-174,LT. RIKER,"   Leave me here. If I start now,   I'll be finished by the time the   third window opens.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-175,RIKER,   It's too dangerous. Our scans   show the caverns are unstable.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-176,LT. RIKER,   I've been down there dozens of   times; I know my way around.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-177,RIKER,   We'll come back during the third   window with a new EPS coupling and   try to access the core from   another console up here.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-178,RIKER,       Riker to Enterprise.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-179,GEORDI,"   Enterprise, here.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-180,RIKER,   We're ready to beam up.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-181,LT. RIKER,   You go ahead; I'll be finished by   the time you get back.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-182,RIKER,   Hold it --,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-183,RIKER,"       I gave you an order, Lieutenant.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-184,TROI,"       Computer -- valerian root tea,   hot.",20   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-185,TROI,   Meet me in Transporter Room Three   at nineteen hundred hours. It's   important.,20   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-186,TROI,       It pulses unendingly   All through the night;   Seek out the crystal   That powers our flight.,23   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-187,GEORDI,"   Can I help you with something,   Counselor?",24   INT. ENGINEERING,ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-188,TROI,"   No -- thanks, anyway.",24   INT. ENGINEERING,ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-189,TROI,       What the future holds   No one can know   But forward we look   And Forward you go...,25   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Second Chances""",1993-03-17,The Next Generation
-190,LT. RIKER,       The Janaran falls...,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-191,TROI,       I remember. Where did you get   this?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-192,LT. RIKER,"   I made it... a few years ago, down   on the station.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-193,TROI,       You made this?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-194,LT. RIKER,       You should have seen the first   two. It took me a while to get a   fine enough beam from the phaser.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-195,TROI,   It's lovely. Thank you.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-196,LT. RIKER,   Do you have time to sit and talk   for a while?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-197,LT. RIKER,   I wanted to remember... our last   night together.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-198,TROI,   How does it feel being with people   again?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-199,LT. RIKER,"   Great...       A little strange...       For a long time, I did whatever I   wanted, whenever I wanted; it's   hard to get used to taking orders   again.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-200,TROI,   I can imagine.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-201,LT. RIKER,   I guess I'm going to have to if I   want to get my career going.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-202,TROI,   Is that what you've decided to do?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-203,LT. RIKER,   Don't you remember? How I wanted   to make Captain by the time I was   thirty-five?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-204,LT. RIKER,"   I'm a little behind schedule, I'll   admit.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-205,TROI,   It's good that you don't feel...   set back.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-206,LT. RIKER,"   I do. But I promised myself that   if I ever got out of there, I'd   make up for lost time.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-207,LT. RIKER,   Things are a little more   complicated than I thought they'd   be... but I'm not going to let   anything stop me from getting what   I want.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-208,LT. RIKER,   Thanks.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-209,LT. RIKER,"   I can't tell you how many times I   thought about you... about us.   The first few weeks after the   evacuation, I was sure they'd find   a way to get through the   distortion field and come back for   me.       I even thought we'd meet on Risa   like we planned.       But the days kept going by and   nobody came. Then I realized why.   They thought I'd been killed in   the beam out. As far as anyone   knew, there was no one to come   back for.       I figured they probably held a   memorial service for me.   Somehow... it made me feel   better.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-210,TROI,   I can understand that.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-211,LT. RIKER,"   You were there... all in black.       Very flattering on you, by the   way.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-212,TROI,       I'm sure I looked terrible -- my   eyes all red and swollen from   crying.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-213,LT. RIKER,"   Sometimes I'd look up into the sky   and think that maybe, if I tried   hard enough, I could somehow make   you... feel my presence. I   thought that if I could let you   know I was still alive... maybe   you'd wait for me.       I know it's crazy, but there were   a few times that... that I   could've sworn --",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-214,LT. RIKER,   What am I talking about?,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-215,TROI,"   The other day, when I told you how   Commander Riker and I didn't meet   on Risa... what I didn't say was   how disappointed I was.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-216,LT. RIKER,   You didn't have to. I knew.,26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-217,TROI,"   I started hearing from him less   and less... I knew his career was   taking him away from me, but I   didn't want to believe it was   over. I spent a lot of time   thinking about him, wondering   where he was, what he was doing.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-218,TROI,"   Sometimes I'd look up into the   sky... and imagine that he knew,   that he could sense me thinking   about him.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-219,TROI,"   Who knows? Maybe one night... you   and I were both looking up at the   same star. You were thinking   about me... and in a way, I was   thinking about you.",26   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-220,RIKER,"   You wanted to see me, Sir?",30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-221,PICARD,"   Yes, Number One. Come in.",30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-222,PICARD,   Lieutenant Riker came to see me   about the away mission.,30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-223,PICARD,   He believes the only way to   retrieve the database is by   directly accessing the main core   underneath the station.,30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-224,RIKER,"   Seismic activity has made the   caverns very unstable. In my   opinion, it's too risky.",30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-225,PICARD,   He said he'd been down there quite   recently; he seems confident it   can be done safely.,30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-226,RIKER,   There's a good chance we can   retrieve the database from one of   the consoles inside the station.,30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-227,PICARD,"   But if that doesn't work, it'll be   eight years before we get another   chance.",30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-228,RIKER,"   Lieutenant Riker's plan is more   dangerous, but I'll admit, it has   a better chance of succeeding.",30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-229,PICARD,"   Given the importance of this data,   I think it's worth the risk.",30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-230,RIKER,   I'll look over the schematics and   draw up a mission plan.,30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-231,PICARD,   I'm sure Lieutenant Riker would be   happy to help you with that.,30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-232,RIKER,       I'll talk to him.,30   INT. READY ROOM,READY ROOM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-233,RIKER,   Lieutenant.,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-234,LT. RIKER,   Sir.,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-235,RIKER,   I just spoke with the Captain   about your mission recommendation.   I'd appreciate it if next time you   came to me first.,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-236,LT. RIKER,"   I tried to, yesterday on the   station. You wouldn't hear me   out.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-237,RIKER,"   I heard you, Lieutenant. And I   rejected your plan.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-238,LT. RIKER,   May I ask what the Captain   decided?,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-239,RIKER,"   He's going with your   recommendation, but that's not the   point.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-240,LT. RIKER,   Isn't it?,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-241,RIKER,"   If you think I'm coming down on   you because the Captain overruled   me, think again. I happen to   disagree with his decision, but   he's my commanding officer and I   follow his orders. Just so   there's no confusion, I'm your   commanding officer and I expect   you to do the same. If you can't,   then you don't have a place on my   Away Team.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-242,LT. RIKER,"   Yes, sir.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-243,RIKER,   We're meeting in the Observation   lounge at fourteen hundred hours   to draw up a mission plan.,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Second Chances""",1993-03-17,The Next Generation
-244,TROI,   ... we stayed in Ten Forward   talking for hours.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-245,BEVERLY,   What happened then?,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-246,TROI,       He walked me to my quarters.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-247,BEVERLY,       What happened then?,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-248,TROI,       Beverly --,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-249,BEVERLY,   I'm just asking.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-250,TROI,   It's been over between Wil and me   for a long time.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-251,BEVERLY,"   He's not Wil. He is, but -- you   know what I mean.",32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-252,TROI,   I do. But... it's hard for me to   separate my feelings for them.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-253,BEVERLY,   Deanna... just because things   turned out the way they did   between you and Commander Riker...   that doesn't mean you shouldn't   let things with Lieutenant Riker   take their own course.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-254,TROI,       I should have known you'd   encourage me.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-255,BEVERLY,       Isn't that why you brought it up?,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-256,BEVERLY,       Well... I think I'll call it a   day.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-257,TROI,       Beverly.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-258,BEVERLY,   Bye.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-259,LT. RIKER,   Is that some form of tai-chi-chuan?,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-260,TROI,"   They're Klingon exercises,   actually. Lieutenant Worf has   been teaching a class.",32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-261,LT. RIKER,   The forms are very similar.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-262,LT. RIKER,   Do that last move again.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-263,TROI,   You just did the KoH-man-ara.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-264,LT. RIKER,"   In tai-chi-chuan, it's called the   crane block.",32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-265,TROI,   I had no idea they were so   similar.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-266,LT. RIKER,   Let's try something else.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-267,LT. RIKER,   Very nice. Worf's a good teacher.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""Second Chances""",1993-03-17,The Next Generation
-268,TROI,"   Hello, Wil.",33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-269,RIKER,   Deanna...,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-270,TROI,   I wanted to talk to you about   something.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-271,RIKER,       If you want to be with him... you   don't have to ask my permission.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-272,RIKER,       There's a certain look in your   eyes. I know... you used to have   it for me.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-273,TROI,   We've both had relationships with   other people before; but this is   different.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-274,TROI,   I didn't know how you would feel   about it.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-275,RIKER,   Flattered.       Sort of.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-276,TROI,   It must be very strange for you.   I know it is for me.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-277,RIKER,   Ever since he came aboard... I   keep finding myself thinking   about... the choices you and I   made.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-278,TROI,   Me too.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-279,RIKER,   Just do one thing for me... be   careful.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-280,TROI,   Wil... I know you and he have had   some problems --,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-281,RIKER,   We have. But that's not what I'm   talking about.     ,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-282,RIKER ,       If he'd made it off that planet   instead of me... don't you think   he would have made the same   choices I did?,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-283,RIKER,   I just don't want you to get   hurt... again.,33   INT. TEN FORWARD,TEN FORWARD,INT.,"""Second Chances""",1993-03-17,The Next Generation
-284,WORF,   Two pair.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-285,RIKER,   Three of a kind.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-286,RIKER,   I'd like to thank you both for   your very generous contributions.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-287,RIKER,   Come in.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-288,LT. RIKER,   I thought -- you'd be alone.   Excuse me.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-289,RIKER,   Why don't you join us?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-290,LT. RIKER,   Why not?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-291,DATA,"   The game is five card draw, no   limit.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-292,DATA,   Lieutenant?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-293,LT. RIKER,   Three.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-294,DATA,   Mister Worf?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-295,WORF,   Four.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-296,RIKER,   None for me.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-297,DATA,   The dealer will take two.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-298,DATA,   You control the bet.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-299,LT. RIKER,   Fifty.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-300,WORF,   Fold.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-301,RIKER,       I'm in.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-302,LT. RIKER,   You didn't take any cards -- you   must be holding something. Why   not make it sweeter?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-303,RIKER,   No thanks.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-304,LT. RIKER,   Playing it safe?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-305,RIKER,   You in?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-306,DATA,   I will see your fifty and call.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-307,LT. RIKER,   Staying in will cost you another   hundred.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-308,DATA,   The dealer folds.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-309,RIKER,   I spent too much time practicing   in the mirror to be fooled by that   face. You're bluffing.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-310,LT. RIKER,"   If there's one thing I thought   would be clear by now, it's that   you and I play things a little   differently.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-311,RIKER,   We'll see who comes out on top.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-312,LT. RIKER,   I thought you didn't mind settling   for second. Commander.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-313,RIKER,"   I've never settled for anything in   my life. I've made choices that   some people may not understand,   but I know what I want -- and I   know what I've got. You'd be   lucky to do as well.       Lieutenant.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-314,RIKER,       I'll see your hundred and call.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-315,LT. RIKER,   Three hundred.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-316,RIKER,   Now I know you're bluffing.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-317,LT. RIKER,       Are you in or not?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-318,RIKER,"   Why don't we just get this over   with? I'll match your three, and   raise you whatever you have left.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-319,RIKER,   Well?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-320,LT. RIKER,   Take it. You win.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-321,LT. RIKER,"   You were dealt the better hand,   Commander... all the way around.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-322,TROI,   Come in.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-323,LT. RIKER,   I'm sorry to just drop by like   this... but there's something   important I need to talk to you   about.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-324,LT. RIKER,   Captain Picard made some inquiries --   he helped me find a posting on the   Gandhi.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-325,LT. RIKER,"   Considering how long I've been out   of commission, it's an amazing   opportunity.",35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-326,TROI,   When would you leave?,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-327,LT. RIKER,   About a week.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-328,TROI,   I see.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-329,LT. RIKER,   Deanna...,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-330,LT. RIKER,"   After I've served on the ship for   six months, I'll be eligible to   bring family aboard.",35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-331,LT. RIKER,   If we got married...,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-332,TROI,   You said those exact words to me   once before... when you first went   to serve on the Potemkin.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-333,LT. RIKER,   I remember.       I got held up for a while.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-334,TROI,   But if you hadn't... what would   have happened between us?,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-335,LT. RIKER,   I wouldn't've made the mistake of   letting you go. I know that much.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-336,TROI,   I don't know if I can believe   that.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-337,TROI,   It took me a long time to get over   what happened between Commander   Riker and me. I don't know if I   want to put myself in that   position again.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-338,LT. RIKER,"   I would never hurt you, Deanna.",35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-339,TROI,   It's not just that... I've worked   hard to make a life for myself on   the Enterprise. I'm happy here.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-340,LT. RIKER,"   If the situation were different,   I'd stay here. But I can't... not   while he's aboard.",35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-341,TROI,   I know.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-342,LT. RIKER,   Are you saying it's over?,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-343,TROI,   No.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-344,TROI,   I just don't know if I'm ready to   give up my life here.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-345,TROI,   Maybe we both need time to think.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-346,LT. RIKER,   Good night.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-347,PICARD,"   Captain's Log, supplemental. The   third transport window has opened   and the Away Team is making their   final attempt at retrieving the   database.",37   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Second Chances""",1993-03-17,The Next Generation
-348,LT. RIKER,"   Once we restore the servo-link,   you can shunt the database up to   this console.",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-349,LT. RIKER,"       Ready, Commander?",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-350,RIKER,"       You're with me, Lieutenant.",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-351,LT. RIKER,   I thought Commander Data's   expertise in --,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-352,RIKER,   It doesn't take that much   expertise to repair a servo-link.   You and I can handle it.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-353,DATA,"   I am curious about something,   Lieutenant. If you met a double   of yourself, would you find it   difficult to interact with him?",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-354,WORF,   I think so.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-355,DATA,   Why?,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-356,WORF,   I am not... easy to get along   with.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-357,DATA,   But Commander Riker and Lieutenant   Riker are. Yet they seem to have   trouble getting along with each   another.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-358,DATA,"   I have found that humans value   their uniqueness, their sense that   they are different from every one   else. The existence of a double   would preclude that feeling.   Could that be the source of   friction?",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-359,WORF,   Perhaps it is more a matter of   seeing something in your double...   something you don't like about   yourself.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-360,LT. RIKER,   There's the core over there.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-361,RIKER,   Are you waiting for something?,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-362,LT. RIKER,   Your order. Sir.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-363,LT. RIKER,   How would you like me to get   there?,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-364,RIKER,"   You've been down here ""dozens"" of   times -- I'm sure you know the   best way.",39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-365,LT. RIKER,"   Yes, sir. I do.",39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-366,LT. RIKER,   It's leaking ion radiation.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-367,RIKER,   Why didn't you report this?,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-368,LT. RIKER,   It wasn't there before; it must   have happened recently.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-369,LT. RIKER,"   If we have to repair this conduit,   we won't have time to access the   computer core.",39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-370,RIKER,   Scan it now.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-371,LT. RIKER,       It worked. Radiation levels are   dropping to normal levels.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-372,RIKER,   Next time don't give up so easily.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-373,RIKER,   I'm being pulled in --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-374,LT. RIKER,   Let go.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-375,LT. RIKER,   Let go.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-376,LT. RIKER,   One of us has to make it out of   here --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-377,RIKER,   Take my hand --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-378,LT. RIKER,   No --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-379,RIKER,   Take it!,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-380,RIKER,   Climb --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,"""Second Chances""",1993-03-17,The Next Generation
-381,DATA,   They have restored the servo-link   to the core. We can begin   downloading the database.,48   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-382,WORF,   Initiating data transfer.,48   INT. RESEARCH STATION,RESEARCH STATION,INT.,"""Second Chances""",1993-03-17,The Next Generation
-383,PICARD,"   Captain's Log, Stardate 46920.1.   We have retrieved the database   from Nervala station and are   headed for our rendezvous with the   Gandhi.",49   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Second Chances""",1993-03-17,The Next Generation
-384,LT. RIKER,   Come in.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-385,TROI,   I understand the Gandhi is going   on a terraforming mission to the   Lagana Sector.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-386,LT. RIKER,       It'll take four months just to get   there.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-387,TROI,   I won't be going with you.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-388,LT. RIKER,   I guess I'm not surprised.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-389,TROI,   I'm not ready to give up my life   here.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-390,TROI,   Not yet.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-391,LT. RIKER,   Come in.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-392,RIKER,   I'm sorry --,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-393,LT. RIKER,   It's all right.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-394,RIKER,   I wanted to give you something...,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-395,RIKER,   My quarters are full of things   that used to be yours. I figured   you should at least have this.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-396,LT. RIKER,   Thanks.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-397,RIKER,"   Good luck, Wil.",50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-398,LT. RIKER,   Actually... I was thinking of   going with the name Thomas.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-399,TROI,   Your middle name.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-400,RIKER,       I guess we are different. I never   really cared for it.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-401,LT. RIKER,   I've always kind of liked it.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-402,LT. RIKER,   Well... I better get going.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-403,LT. RIKER,   Take care of her.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
-404,LT. RIKER,   I waited a long time. I can wait   a little longer.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,"""Second Chances""",1993-03-17,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,PICARD ,"   Captain's Log, Stardate 46915.2.   The Enterprise is orbiting Nervala   Four, waiting for an opportunity   to retrieve scientific data left   there by Starfleet researchers   when they were forced to evacuate   eight years ago.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Second Chances,1993-03-17,The Next Generation,250.txt
+1,RIKER,   Thank you... thank you very much.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+2,RIKER,   Any requests tonight?,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+3,TROI,   Night Bird.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+4,RIKER,   Anyone?,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+5,TROI,       Night Bird!,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+6,RIKER,   Ladies and Gentlemen... Night   Bird.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+7,BEVERLY,   What was that all about?,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+8,TROI,       Wil's been trying to get this   piece right for ten years now.   He's never made it through the   solo.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+9,BEVERLY,   Remember that dance recital I told   you I was doing?,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+10,TROI,       Next week.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+11,BEVERLY,   You're dis-invited.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+12,TROI,   Here it comes.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+13,DATA,   Data to Commander Riker.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+14,RIKER,"       Riker, here.",2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+15,DATA,"   Commander, you are needed on the   Bridge.",2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+16,RIKER,   On my way.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+17,RIKER,   Saved by the bell...,2    INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+18,RIKER,"   You wanted to see me, Data?",3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+19,DATA,"   Yes, sir. It appears that we will   be able to transport to the   surface sooner than we   anticipated.",3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+20,RIKER,   Is the planet's distortion field   de-phasing sooner than you   predicted?,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+21,DATA,"   No, sir. But using the Potemkin's   transport logs from the original   evacuation, Commander La Forge and   I were able to modify the   Transporters.",3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+22,RIKER,       So we can beam through higher   distortion levels.,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+23,DATA,       The Transporters are now   considerably more efficient than   those used on the Potemkin eight   years ago.,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+24,RIKER,   Glad to hear it. I almost didn't   make it off the surface that day.       When can we get started?,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+25,DATA,   Ninety-seven minutes.,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+26,RIKER,   How long will the transport window   last?,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+27,DATA,"   Twenty-six minutes. After that,   the distortion field will re-phase.",3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+28,RIKER,   That doesn't give us much time to   retrieve the database.,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+29,DATA,   The planet's proximity to its sun   will create two additional   transport windows in the next   three days.,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+30,RIKER,   Let's hope that's enough.,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+31,DATA,"   It will have to be. The next   transport window will not occur   for another eight years, when the   planet's orbit brings it close   enough to the sun to de-phase the   distortion field.",3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+32,RIKER,   Notify the Away Team we're going   in ahead of schedule; I'll tell   the Captain.,3    INT. BRIDGE,BRIDGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+33,RIKER,       How long until the transport   window opens?,5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+34,GEORDI,   Fourteen seconds.,5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+35,RIKER,       Let's get in position.,5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+36,GEORDI,"   Whenever you're ready, Commander.",5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+37,RIKER,   Energize.,5    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+38,RIKER,   This isn't how I remember it; the   place was a mess when we left.,6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+39,DATA,   Commander...,6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+40,RIKER,   Someone's been here...,6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+41,WORF,   A vessel could have gotten caught   in the distortion field and   crashed. The survivors may have   taken shelter here.,6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+42,DATA,"   Commander, someone is   approaching... a humanoid. Forty   meters due east and closing.",6    INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+43,RIKER,   Who are you?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+44,LT. RIKER,   Who are you?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+45,RIKER,   Commander William Riker of the   Federation Starship Enterprise.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+46,LT. RIKER,   That's not possible. I'm Wil   Riker.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+47,DATA,   May I ask how you got here?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+48,LT. RIKER,"   Eight years ago, I led a team to   evacuate this station.",7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+49,RIKER,   What ship were you on?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+50,LT. RIKER,   The Potemkin.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+51,DATA,   Why did you not return to the   Potemkin with the others?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+52,LT. RIKER,"   I was the last one out. The   distortion field must have   interfered with the transport;   they lost their signal lock on me.   When I tried to contact the ship,   I couldn't get through the   interference.",7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+53,LT. RIKER,   Check with Starfleet; I'm sure   they recorded me lost that day.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+54,RIKER,   That's not what happened. I was   the last one out... but I made it   back to the Potemkin.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+55,LT. RIKER,   You don't believe me.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+56,RIKER,   It's not that we don't believe   you; it's just hard to see how   both our stories could be true.       Would you be willing to let our   Doctor check you out?,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+57,LT. RIKER,   Of course.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+58,RIKER,"   Lieutenant Worf, take him to   Sickbay. Notify the Captain as   soon as you're aboard.",7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+59,WORF,       Worf to Enterprise. Two to beam   up.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+60,RIKER,   Let's get to work.,7    INT. RESEARCH STATION - CONTINUOUS (OPTICAL),RESEARCH STATION - CONTINUOUS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+61,BEVERLY,   Looks like you fractured your arm   a few years ago.,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+62,LT. RIKER,   I was underneath the station   making repairs when an earthquake   hit -- I got caught in a   rockslide. I had to set it   myself.,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+63,PICARD,   Captain Jean-Luc Picard.,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+64,LT. RIKER,"   Lieutenant Wil Riker, sir.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+65,PICARD,"   If you are Wil Riker, if there are   two of you... then something   extraordinary has occurred. I   hope you understand our need to   verify your claim.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+66,LT. RIKER,"   Yes, sir.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+67,BEVERLY,"   Genetically, he's   indistinguishable from Commander   Riker.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+68,PICARD,   Could some sort of cloning be   involved?,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+69,BEVERLY,"   I don't think so, there's no   genetic drift.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+70,PICARD,   But that isn't conclusive.,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+71,BEVERLY,"   That's why I compared their brain   scans. Brain organization   patterns are as unique as...   fingerprints. Except for some   minor differences, theirs are   identical.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+72,PICARD,   Can't brain patterns be cloned?,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+73,BEVERLY,"   No. They're determined by   experience, mostly in early   childhood.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+74,PICARD,   How could two men have shared the   same childhood experiences? It   doesn't make any sense.,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+75,LT. RIKER,"   Sir, I am Wil Riker. I don't know   who or what made it back to the   Potemkin that day, but it wasn't   me.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+76,PICARD,       Lieutenant -- my Chief Engineer is   checking over the transport logs   from the Potemkin. They may shed   some light on what happened.,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+77,LT. RIKER,"   Yes, sir.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+78,PICARD,"   Don't worry, we'll get to the   bottom of this.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+79,PICARD,   In the meantime you'll be taken to   quarters. Make yourself   comfortable.,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+80,LT. RIKER,"   I will, sir. The replicators on   the station stopped working a long   time ago. It's been a while since   I had a decent meal.",10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+81,LT. RIKER,   Doctor...,10   INT. SICKBAY,SICKBAY,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+82,GEORDI,       ... apparently there was a massive   energy surge in the distortion   field around the planet just at   the moment you tried to beam out.   The Transporter Chief tried to   compensate by initiating a second   containment beam.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+83,DATA,   An interesting approach. He must   have been planning to reintegrate   the two patterns in the transport   buffer.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+84,GEORDI,   Turns out he didn't have to.   Commander Riker's pattern   maintained its integrity with just   the one containment beam -- he   made it back to the ship just   fine.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+85,BEVERLY,   What happened to the second beam?,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+86,GEORDI,"   The Transporter Chief shut it   down, but somehow... it was   reflected back to the surface.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+87,PICARD,   And another Wil Riker materialized   there.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+88,RIKER,   How could the second pattern have   maintained its integrity?,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+89,GEORDI,   The containment beam must have had   the exact same phase differential   as the distortion field.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+90,RIKER,   Which one of us is... real?,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+91,GEORDI,   Both. You were both re-materialized   from a complete   pattern.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+92,BEVERLY,"       Up to that moment, you were the   same person.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+93,PICARD,"   But over the last eight years, you   and...",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+94,PICARD,       -- Lieutenant Riker have lived   very different lives. You're   different people now.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+95,PICARD,"   For us, it's a little like meeting   a close friend's twin. You can't   help feeling that you know them...   but of course you don't.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+96,PICARD,"   No matter how strange it may seem   to us... there are now two Wil   Rikers aboard this vessel.   Getting used to the idea may take   a while... especially for you,   Wil.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+97,RIKER,"   I'll be all right, sir.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+98,PICARD,   Lieutenant Riker will be here for   a few days at least. We should do   everything we can to make him feel   comfortable and welcome.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+99,RIKER,   That still leaves us with the   problem of how to retrieve the   database. The station's computer   is only partially operational.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+100,DATA,   Many of its components have been   removed. Apparently Lieutenant   Riker used them to keep the   station's radiation shield   operational.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+101,PICARD,"   Can we repair it, at least enough   to access the database?",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+102,RIKER,"   Without knowing what he did, it'll   be tough.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+103,BEVERLY,   Maybe he could help?,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+104,PICARD,   He was alone down there a long   time. I'm hesitant to send him   back until he's been evaluated.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+105,TROI,   I'll talk to him.,11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+106,PICARD,"   Thank you, Counselor.",11   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+107,LT. RIKER,   Come in.,12   INT. LIEUTENANT RIKER'S QUARTERS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+108,TROI,"   Hello, Wil.",12   INT. LIEUTENANT RIKER'S QUARTERS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+109,LT. RIKER,   Imzadi...,12   INT. LIEUTENANT RIKER'S QUARTERS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+110,TROI,   Wil...,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+111,LT. RIKER,   I thought I'd never see you   again...,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+112,TROI,   We need to talk.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+113,LT. RIKER,   You're here... on this ship...   because of him.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+114,TROI,   No.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+115,TROI,"   Commander Riker and I are friends,   close friends; nothing more.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+116,TROI,   Wil -- why don't we sit down?,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+117,TROI,   Do you remember the last time we   saw each other?,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+118,LT. RIKER,"   Like yesterday. We spent the day   at the Janaran falls, on Betazed.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+119,TROI,   It was the day before you started   your tour on the Potemkin.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+120,LT. RIKER,"       We were going to meet six weeks   later, on Risa.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+121,TROI,   We never did.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+122,LT. RIKER,       I know.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+123,TROI,   What I mean is... Commander Riker   and I never did.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+124,TROI,   You see... he earned a promotion   very quickly.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+125,LT. RIKER,   I know.       For exceptional valor during the   evacuation of the research station   on Nervala Four.       I looked over his service record.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+126,TROI,   He chose to make his career a   priority. There wasn't time for   much of anything else.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+127,TROI,   We kept in touch... but we didn't   see each other again until we were   both posted to the Enterprise two   years later.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+128,TROI,"   By then, our feelings for each   other had changed. We've served   together for six years now...   things never went back to the way   they used to be.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+129,LT. RIKER,   I had a lot of time on my hands   down there. There were days I   felt so alone I thought I might   lose my mind.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+130,LT. RIKER,"       Do you know what got me through?       Thinking that if I could hang on,   one more day, maybe I'd be   rescued... and I'd see you again.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+131,LT. RIKER,   Well... I guess things don't   always turn out quite the way you   expect them to.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+132,TROI,"   I know this isn't what you were   hoping for, but that doesn't mean   you can't make a future for   yourself.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+133,LT. RIKER,"   For now, I think I'll just take   things one day at a time.",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+134,TROI,   Captain Picard wanted me to find   out if you'd be willing to help us   retrieve the station's database.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+135,LT. RIKER,   I reconfigured that computer   system so many times they probably   can't make heads or tails of it.   I'd be happy to help.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+136,TROI,   Do you feel up to it?,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+137,LT. RIKER,   Absolutely.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+138,TROI,   I'll tell the Captain.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+139,TROI,   Well... I have to go.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+140,LT. RIKER,   Deanna... I know it's been a long   time since we were together; I   know your feelings have changed.   But...,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+141,LT. RIKER,   Mine haven't. I can't just give   up and accept that it's over... I   want to be with you again.,14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+142,TROI,"       Good night, Wil...",14   INT. LIEUTENANT RIKER'S QUARTERS - CONTINUOUS,LIEUTENANT RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+143,PALMER,       Phase distortion is dropping --   the second transport window will   open in forty-two seconds.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+144,RIKER,   How long will we have?,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+145,PALMER,"   Thirty-six minutes, sir.",16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+146,WORF,   We are losing time. Lieutenant   Riker should be here.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+147,RIKER,"   Computer, where is Lieutenant --",16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+148,RIKER,   Cancel inquiry.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+149,WORF,   You were supposed to report here   at eight hundred hours.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+150,LT. RIKER,"   I'm sorry, I was --",16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+151,RIKER,       I guess it's been a while since   you had to punch a clock.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+152,RIKER,       Let's go.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+153,RIKER,   Energize.,16   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+154,LT. RIKER,   I shut down most of the consoles   to save power. I re-routed just   about everything through here.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+155,RIKER,"   Check out the primary EPS   coupling, see if you can get some   power to the rest of these   consoles.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+156,LT. RIKER,       I shunted the database to the main   core underneath the station.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+157,RIKER,   Can we access it from here?,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+158,LT. RIKER,"   There's been a lot of seismic   activity over the years; if the   servo-links were damaged, we may   not be able to.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+159,LT. RIKER,   I'll try to tap into the command   pathways. See if you can disable   the file server.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+160,RIKER,   I was thinking... we should   probably let Dad know what's   happened.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+161,LT. RIKER,       I'm sure he'll be thrilled to hear   there are two of us now.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+162,RIKER,   I don't know. He and I patched up   a few things.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+163,LT. RIKER,   I've gotten by without talking to   him for a long time. I'm not   about to start now.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+164,LT. RIKER,   What made you contact him?,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+165,RIKER,   I didn't. He came to the   Enterprise to brief me when I was   offered the Aries.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+166,LT. RIKER,   What did he say when you turned   down the chance to command your   own ship?,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+167,RIKER,   He couldn't understand why I did   it.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+168,LT. RIKER,   For once he and I agree on   something.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+169,WORF,   The primary EPS coupling is fused.   It will have to be replaced.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+170,LT. RIKER,       I've accessed the command   pathways.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+171,RIKER,   Let's see if that does the trick.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+172,LT. RIKER,   It's not working. The servo-link   must be damaged. We're going to   have to go under the station and   access the core directly.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+173,DATA,   We have less than three minutes   left.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+174,LT. RIKER,"   Leave me here. If I start now,   I'll be finished by the time the   third window opens.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+175,RIKER,   It's too dangerous. Our scans   show the caverns are unstable.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+176,LT. RIKER,   I've been down there dozens of   times; I know my way around.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+177,RIKER,   We'll come back during the third   window with a new EPS coupling and   try to access the core from   another console up here.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+178,RIKER,       Riker to Enterprise.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+179,GEORDI,"   Enterprise, here.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+180,RIKER,   We're ready to beam up.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+181,LT. RIKER,   You go ahead; I'll be finished by   the time you get back.,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+182,RIKER,   Hold it --,17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+183,RIKER,"       I gave you an order, Lieutenant.",17   INT. RESEARCH STATION (OPTICAL),RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+184,TROI,"       Computer -- valerian root tea,   hot.",20   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+185,TROI,   Meet me in Transporter Room Three   at nineteen hundred hours. It's   important.,20   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+186,TROI,       It pulses unendingly   All through the night;   Seek out the crystal   That powers our flight.,23   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+187,GEORDI,"   Can I help you with something,   Counselor?",24   INT. ENGINEERING,ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+188,TROI,"   No -- thanks, anyway.",24   INT. ENGINEERING,ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+189,TROI,       What the future holds   No one can know   But forward we look   And Forward you go...,25   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+190,LT. RIKER,       The Janaran falls...,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+191,TROI,       I remember. Where did you get   this?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+192,LT. RIKER,"   I made it... a few years ago, down   on the station.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+193,TROI,       You made this?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+194,LT. RIKER,       You should have seen the first   two. It took me a while to get a   fine enough beam from the phaser.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+195,TROI,   It's lovely. Thank you.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+196,LT. RIKER,   Do you have time to sit and talk   for a while?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+197,LT. RIKER,   I wanted to remember... our last   night together.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+198,TROI,   How does it feel being with people   again?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+199,LT. RIKER,"   Great...       A little strange...       For a long time, I did whatever I   wanted, whenever I wanted; it's   hard to get used to taking orders   again.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+200,TROI,   I can imagine.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+201,LT. RIKER,   I guess I'm going to have to if I   want to get my career going.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+202,TROI,   Is that what you've decided to do?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+203,LT. RIKER,   Don't you remember? How I wanted   to make Captain by the time I was   thirty-five?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+204,LT. RIKER,"   I'm a little behind schedule, I'll   admit.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+205,TROI,   It's good that you don't feel...   set back.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+206,LT. RIKER,"   I do. But I promised myself that   if I ever got out of there, I'd   make up for lost time.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+207,LT. RIKER,   Things are a little more   complicated than I thought they'd   be... but I'm not going to let   anything stop me from getting what   I want.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+208,LT. RIKER,   Thanks.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+209,LT. RIKER,"   I can't tell you how many times I   thought about you... about us.   The first few weeks after the   evacuation, I was sure they'd find   a way to get through the   distortion field and come back for   me.       I even thought we'd meet on Risa   like we planned.       But the days kept going by and   nobody came. Then I realized why.   They thought I'd been killed in   the beam out. As far as anyone   knew, there was no one to come   back for.       I figured they probably held a   memorial service for me.   Somehow... it made me feel   better.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+210,TROI,   I can understand that.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+211,LT. RIKER,"   You were there... all in black.       Very flattering on you, by the   way.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+212,TROI,       I'm sure I looked terrible -- my   eyes all red and swollen from   crying.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+213,LT. RIKER,"   Sometimes I'd look up into the sky   and think that maybe, if I tried   hard enough, I could somehow make   you... feel my presence. I   thought that if I could let you   know I was still alive... maybe   you'd wait for me.       I know it's crazy, but there were   a few times that... that I   could've sworn --",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+214,LT. RIKER,   What am I talking about?,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+215,TROI,"   The other day, when I told you how   Commander Riker and I didn't meet   on Risa... what I didn't say was   how disappointed I was.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+216,LT. RIKER,   You didn't have to. I knew.,26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+217,TROI,"   I started hearing from him less   and less... I knew his career was   taking him away from me, but I   didn't want to believe it was   over. I spent a lot of time   thinking about him, wondering   where he was, what he was doing.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+218,TROI,"   Sometimes I'd look up into the   sky... and imagine that he knew,   that he could sense me thinking   about him.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+219,TROI,"   Who knows? Maybe one night... you   and I were both looking up at the   same star. You were thinking   about me... and in a way, I was   thinking about you.",26   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+220,RIKER,"   You wanted to see me, Sir?",30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+221,PICARD,"   Yes, Number One. Come in.",30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+222,PICARD,   Lieutenant Riker came to see me   about the away mission.,30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+223,PICARD,   He believes the only way to   retrieve the database is by   directly accessing the main core   underneath the station.,30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+224,RIKER,"   Seismic activity has made the   caverns very unstable. In my   opinion, it's too risky.",30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+225,PICARD,   He said he'd been down there quite   recently; he seems confident it   can be done safely.,30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+226,RIKER,   There's a good chance we can   retrieve the database from one of   the consoles inside the station.,30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+227,PICARD,"   But if that doesn't work, it'll be   eight years before we get another   chance.",30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+228,RIKER,"   Lieutenant Riker's plan is more   dangerous, but I'll admit, it has   a better chance of succeeding.",30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+229,PICARD,"   Given the importance of this data,   I think it's worth the risk.",30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+230,RIKER,   I'll look over the schematics and   draw up a mission plan.,30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+231,PICARD,   I'm sure Lieutenant Riker would be   happy to help you with that.,30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+232,RIKER,       I'll talk to him.,30   INT. READY ROOM,READY ROOM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+233,RIKER,   Lieutenant.,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+234,LT. RIKER,   Sir.,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+235,RIKER,   I just spoke with the Captain   about your mission recommendation.   I'd appreciate it if next time you   came to me first.,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+236,LT. RIKER,"   I tried to, yesterday on the   station. You wouldn't hear me   out.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+237,RIKER,"   I heard you, Lieutenant. And I   rejected your plan.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+238,LT. RIKER,   May I ask what the Captain   decided?,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+239,RIKER,"   He's going with your   recommendation, but that's not the   point.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+240,LT. RIKER,   Isn't it?,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+241,RIKER,"   If you think I'm coming down on   you because the Captain overruled   me, think again. I happen to   disagree with his decision, but   he's my commanding officer and I   follow his orders. Just so   there's no confusion, I'm your   commanding officer and I expect   you to do the same. If you can't,   then you don't have a place on my   Away Team.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+242,LT. RIKER,"   Yes, sir.",31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+243,RIKER,   We're meeting in the Observation   lounge at fourteen hundred hours   to draw up a mission plan.,31   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+244,TROI,   ... we stayed in Ten Forward   talking for hours.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+245,BEVERLY,   What happened then?,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+246,TROI,       He walked me to my quarters.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+247,BEVERLY,       What happened then?,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+248,TROI,       Beverly --,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+249,BEVERLY,   I'm just asking.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+250,TROI,   It's been over between Wil and me   for a long time.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+251,BEVERLY,"   He's not Wil. He is, but -- you   know what I mean.",32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+252,TROI,   I do. But... it's hard for me to   separate my feelings for them.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+253,BEVERLY,   Deanna... just because things   turned out the way they did   between you and Commander Riker...   that doesn't mean you shouldn't   let things with Lieutenant Riker   take their own course.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+254,TROI,       I should have known you'd   encourage me.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+255,BEVERLY,       Isn't that why you brought it up?,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+256,BEVERLY,       Well... I think I'll call it a   day.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+257,TROI,       Beverly.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+258,BEVERLY,   Bye.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+259,LT. RIKER,   Is that some form of tai-chi-chuan?,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+260,TROI,"   They're Klingon exercises,   actually. Lieutenant Worf has   been teaching a class.",32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+261,LT. RIKER,   The forms are very similar.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+262,LT. RIKER,   Do that last move again.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+263,TROI,   You just did the KoH-man-ara.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+264,LT. RIKER,"   In tai-chi-chuan, it's called the   crane block.",32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+265,TROI,   I had no idea they were so   similar.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+266,LT. RIKER,   Let's try something else.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+267,LT. RIKER,   Very nice. Worf's a good teacher.,32   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+268,TROI,"   Hello, Wil.",33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+269,RIKER,   Deanna...,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+270,TROI,   I wanted to talk to you about   something.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+271,RIKER,       If you want to be with him... you   don't have to ask my permission.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+272,RIKER,       There's a certain look in your   eyes. I know... you used to have   it for me.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+273,TROI,   We've both had relationships with   other people before; but this is   different.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+274,TROI,   I didn't know how you would feel   about it.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+275,RIKER,   Flattered.       Sort of.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+276,TROI,   It must be very strange for you.   I know it is for me.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+277,RIKER,   Ever since he came aboard... I   keep finding myself thinking   about... the choices you and I   made.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+278,TROI,   Me too.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+279,RIKER,   Just do one thing for me... be   careful.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+280,TROI,   Wil... I know you and he have had   some problems --,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+281,RIKER,   We have. But that's not what I'm   talking about.     ,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+282,RIKER ,       If he'd made it off that planet   instead of me... don't you think   he would have made the same   choices I did?,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+283,RIKER,   I just don't want you to get   hurt... again.,33   INT. TEN FORWARD,TEN FORWARD,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+284,WORF,   Two pair.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+285,RIKER,   Three of a kind.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+286,RIKER,   I'd like to thank you both for   your very generous contributions.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+287,RIKER,   Come in.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+288,LT. RIKER,   I thought -- you'd be alone.   Excuse me.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+289,RIKER,   Why don't you join us?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+290,LT. RIKER,   Why not?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+291,DATA,"   The game is five card draw, no   limit.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+292,DATA,   Lieutenant?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+293,LT. RIKER,   Three.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+294,DATA,   Mister Worf?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+295,WORF,   Four.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+296,RIKER,   None for me.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+297,DATA,   The dealer will take two.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+298,DATA,   You control the bet.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+299,LT. RIKER,   Fifty.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+300,WORF,   Fold.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+301,RIKER,       I'm in.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+302,LT. RIKER,   You didn't take any cards -- you   must be holding something. Why   not make it sweeter?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+303,RIKER,   No thanks.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+304,LT. RIKER,   Playing it safe?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+305,RIKER,   You in?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+306,DATA,   I will see your fifty and call.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+307,LT. RIKER,   Staying in will cost you another   hundred.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+308,DATA,   The dealer folds.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+309,RIKER,   I spent too much time practicing   in the mirror to be fooled by that   face. You're bluffing.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+310,LT. RIKER,"   If there's one thing I thought   would be clear by now, it's that   you and I play things a little   differently.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+311,RIKER,   We'll see who comes out on top.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+312,LT. RIKER,   I thought you didn't mind settling   for second. Commander.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+313,RIKER,"   I've never settled for anything in   my life. I've made choices that   some people may not understand,   but I know what I want -- and I   know what I've got. You'd be   lucky to do as well.       Lieutenant.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+314,RIKER,       I'll see your hundred and call.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+315,LT. RIKER,   Three hundred.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+316,RIKER,   Now I know you're bluffing.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+317,LT. RIKER,       Are you in or not?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+318,RIKER,"   Why don't we just get this over   with? I'll match your three, and   raise you whatever you have left.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+319,RIKER,   Well?,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+320,LT. RIKER,   Take it. You win.,33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+321,LT. RIKER,"   You were dealt the better hand,   Commander... all the way around.",33A  INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+322,TROI,   Come in.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+323,LT. RIKER,   I'm sorry to just drop by like   this... but there's something   important I need to talk to you   about.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+324,LT. RIKER,   Captain Picard made some inquiries --   he helped me find a posting on the   Gandhi.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+325,LT. RIKER,"   Considering how long I've been out   of commission, it's an amazing   opportunity.",35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+326,TROI,   When would you leave?,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+327,LT. RIKER,   About a week.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+328,TROI,   I see.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+329,LT. RIKER,   Deanna...,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+330,LT. RIKER,"   After I've served on the ship for   six months, I'll be eligible to   bring family aboard.",35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+331,LT. RIKER,   If we got married...,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+332,TROI,   You said those exact words to me   once before... when you first went   to serve on the Potemkin.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+333,LT. RIKER,   I remember.       I got held up for a while.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+334,TROI,   But if you hadn't... what would   have happened between us?,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+335,LT. RIKER,   I wouldn't've made the mistake of   letting you go. I know that much.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+336,TROI,   I don't know if I can believe   that.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+337,TROI,   It took me a long time to get over   what happened between Commander   Riker and me. I don't know if I   want to put myself in that   position again.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+338,LT. RIKER,"   I would never hurt you, Deanna.",35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+339,TROI,   It's not just that... I've worked   hard to make a life for myself on   the Enterprise. I'm happy here.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+340,LT. RIKER,"   If the situation were different,   I'd stay here. But I can't... not   while he's aboard.",35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+341,TROI,   I know.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+342,LT. RIKER,   Are you saying it's over?,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+343,TROI,   No.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+344,TROI,   I just don't know if I'm ready to   give up my life here.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+345,TROI,   Maybe we both need time to think.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+346,LT. RIKER,   Good night.,35   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+347,PICARD,"   Captain's Log, supplemental. The   third transport window has opened   and the Away Team is making their   final attempt at retrieving the   database.",37   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Second Chances,1993-03-17,The Next Generation,250.txt
+348,LT. RIKER,"   Once we restore the servo-link,   you can shunt the database up to   this console.",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+349,LT. RIKER,"       Ready, Commander?",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+350,RIKER,"       You're with me, Lieutenant.",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+351,LT. RIKER,   I thought Commander Data's   expertise in --,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+352,RIKER,   It doesn't take that much   expertise to repair a servo-link.   You and I can handle it.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+353,DATA,"   I am curious about something,   Lieutenant. If you met a double   of yourself, would you find it   difficult to interact with him?",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+354,WORF,   I think so.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+355,DATA,   Why?,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+356,WORF,   I am not... easy to get along   with.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+357,DATA,   But Commander Riker and Lieutenant   Riker are. Yet they seem to have   trouble getting along with each   another.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+358,DATA,"   I have found that humans value   their uniqueness, their sense that   they are different from every one   else. The existence of a double   would preclude that feeling.   Could that be the source of   friction?",38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+359,WORF,   Perhaps it is more a matter of   seeing something in your double...   something you don't like about   yourself.,38   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+360,LT. RIKER,   There's the core over there.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+361,RIKER,   Are you waiting for something?,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+362,LT. RIKER,   Your order. Sir.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+363,LT. RIKER,   How would you like me to get   there?,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+364,RIKER,"   You've been down here ""dozens"" of   times -- I'm sure you know the   best way.",39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+365,LT. RIKER,"   Yes, sir. I do.",39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+366,LT. RIKER,   It's leaking ion radiation.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+367,RIKER,   Why didn't you report this?,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+368,LT. RIKER,   It wasn't there before; it must   have happened recently.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+369,LT. RIKER,"   If we have to repair this conduit,   we won't have time to access the   computer core.",39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+370,RIKER,   Scan it now.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+371,LT. RIKER,       It worked. Radiation levels are   dropping to normal levels.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+372,RIKER,   Next time don't give up so easily.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+373,RIKER,   I'm being pulled in --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+374,LT. RIKER,   Let go.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+375,LT. RIKER,   Let go.,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+376,LT. RIKER,   One of us has to make it out of   here --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+377,RIKER,   Take my hand --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+378,LT. RIKER,   No --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+379,RIKER,   Take it!,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+380,RIKER,   Climb --,39   INT. THE CAVERN (OPTICAL),THE CAVERN,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+381,DATA,   They have restored the servo-link   to the core. We can begin   downloading the database.,48   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+382,WORF,   Initiating data transfer.,48   INT. RESEARCH STATION,RESEARCH STATION,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+383,PICARD,"   Captain's Log, Stardate 46920.1.   We have retrieved the database   from Nervala station and are   headed for our rendezvous with the   Gandhi.",49   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Second Chances,1993-03-17,The Next Generation,250.txt
+384,LT. RIKER,   Come in.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+385,TROI,   I understand the Gandhi is going   on a terraforming mission to the   Lagana Sector.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+386,LT. RIKER,       It'll take four months just to get   there.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+387,TROI,   I won't be going with you.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+388,LT. RIKER,   I guess I'm not surprised.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+389,TROI,   I'm not ready to give up my life   here.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+390,TROI,   Not yet.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+391,LT. RIKER,   Come in.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+392,RIKER,   I'm sorry --,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+393,LT. RIKER,   It's all right.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+394,RIKER,   I wanted to give you something...,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+395,RIKER,   My quarters are full of things   that used to be yours. I figured   you should at least have this.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+396,LT. RIKER,   Thanks.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+397,RIKER,"   Good luck, Wil.",50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+398,LT. RIKER,   Actually... I was thinking of   going with the name Thomas.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+399,TROI,   Your middle name.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+400,RIKER,       I guess we are different. I never   really cared for it.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+401,LT. RIKER,   I've always kind of liked it.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+402,LT. RIKER,   Well... I better get going.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+403,LT. RIKER,   Take care of her.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt
+404,LT. RIKER,   I waited a long time. I can wait   a little longer.,50   INT. LT. RIKER'S QUARTERS (OPTICAL),LT. RIKER'S QUARTERS,INT.,Second Chances,1993-03-17,The Next Generation,250.txt

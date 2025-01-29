@@ -1,461 +1,461 @@
-,character,quote,scene,location,view,episode,date,series
-0,PICARD ,"   Captain's log, stardate 45571.2.   We are going into orbit around   an unexplored M-class moon of   Mab-Bu Six. Though the moon was   reported to be uninhabited, we   have picked up a weak distress   call.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-1,DATA,"   The intense electromagnetic   whirlwinds on the moon's surface   make it virtually impossible to   locate the source of the signal,   sir...",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-2,PICARD,"   Any indications of life, Mister   Worf?",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-3,WORF,"   Scanners read negative, sir. But   they may be affected by the   interference.",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-4,RIKER,"   Have you ever heard anything like   that, Data?",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-5,DATA,"       I believe so, Commander... at   Starfleet Academy...",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-6,PICARD,   The Academy?,2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-7,DATA,"   Yes, sir, let me verify it...",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-8,DATA,"       As I thought, sir... it is a   Starfleet subspace distress   signal... standard to Daedalus   class starships...",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-9,RIKER,       There hasn't been a Daedalus class   in service for... what... ?,2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-10,DATA,"   One hundred seventy-two years,   Commander...",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-11,PICARD,"   Any record of missing ships in   this vicinity, Data?",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-12,DATA,   The U.S.S. Essex under the command   of Captain Bryce Shumar   disappeared in this sector over   two centuries ago...,2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-13,PICARD,   Daedalus class...,2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-14,DATA,"       Yes, Captain... I have accessed   the subspace transponder signature   of the Essex... it is identical   to the signal coming from the moon's   surface...",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-15,RIKER,   We've arrived a little late...,2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-16,PICARD ,"   Mute it, Data.",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-17,PICARD,"       With the storm activity down   there, I don't think it's worth   the risk to check on a ghost ship,   Number One... advise Starfleet   we've solved the mystery of   Captain Shumar and the Essex...",2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-18,TROI,   I'm not sure we have...,2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-19,TROI,   Someone's down there... alive...,2    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-20,RIKER ,"   First officer's log, supplemental.   The electromagnetic interference   on the surface was judged too   dangerous for anyone to transport   down. So we have taken a   shuttle to investigate.",4    EXT. MOON - THE SHUTTLE (OPTICAL),MOON - THE SHUTTLE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-21,DATA,   Shields are holding...,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-22,RIKER,"       Wind shear is incredible, Data...   keep an eye on the stabilizers...       If it's anything like this on the   ground, I don't see how anyone   could survive on this moon for   long.",5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-23,TROI,   Maybe they've been living   underground.,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-24,RIKER,       Question is where? I still can't   locate the source of the damn   signal... it's bouncing around   more than we are...,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-25,DATA,"   Sir, forward thrusters have   failed. We are losing power.",5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-26,RIKER,   Enterprise... ?,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-27,PICARD,   Go ahead.,6    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-28,RIKER COMM,   We've lost our thrusters...   attempting to compensate with   secondary boosters...,6    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-29,WORF,   Sir? The shuttle's impulse   generators have shut down...,6    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-30,PICARD,   Commander? Can you hear me?,6    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-31,PICARD,"       Enterprise to shuttle, please   respond.",7    INT. SHUTTLE,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-32,RIKER,   Hold on! We're going down...,7    INT. SHUTTLE,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-33,DATA,   Initiating emergency landing   procedures...,7    INT. SHUTTLE,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-34,RIKER,   Maintain the approach attitude   Data... I'm taking her in...,7    INT. SHUTTLE,SHUTTLE,INT.,"""Power Play""",1991-11-26,The Next Generation
-35,RO,   The shuttle has crashed on the   surface...,9    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-36,PICARD,   Do you have their position?,9    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-37,WORF,       I am picking up the shuttle's   trace signature... but the surface   interference is distorting its   position...,9    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-38,PICARD,       Can you locate them...,9    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-39,RO,   I think I can... I followed their   entry almost all the way in...   we can calculate the coordinates   from their angle of descent...,9    INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-40,RIKER,       Enterprise?,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-41,DATA,"   It is unlikely, sir, that we will   be able to establish communication   with the ship, given the severe   electromagnetic interference...",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-42,RIKER,"       Then we'll stay put right here   until the Enterprise finds us...       Data, run an inventory of what's   still usable inside the shuttle.",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-43,DATA,   Yes sir.,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-44,TROI,   Your arm...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-45,RIKER,"   Yeah, I'm pretty sure it's   broken...",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-46,RIKER,   The surface is composed of   nonporous rock... makes me   think it's even more unlikely   anyone could live here...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-47,DATA,   There are no instruments left of   practical value that have not been   damaged by the impact of our   landing.,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-48,TROI,       What is that?,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-49,RIKER,   Doesn't look like any storm front   I've ever seen...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-50,DATA,    (checking with the     tricorder)   The tricorder is picking up high   levels of E-M bursts across the   spectrum.,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-51,RIKER,"   Are you picking up anything else,   Data... like signs of life... ?",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-52,DATA,"   Other than our own, sir...   negative.",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-53,TROI,   There is someone alive here...   I'm more certain of it now than   ever...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-54,RIKER,"   Well, I hope they can find us...   because we don't have a way to   find them...",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-55,TROI,       They're coming... they're coming   with the storm...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-56,GEORDI,"   We can't get a pattern lock on   the communicators because of the   E-M bursts, Captain. There's   no way to beam them out of   there... not under these   conditions...",12   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-57,PICARD,"   The same conditions won't permit   a shuttle to land safely, Mister   LaForge... any suggestions... ?",13   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-58,O'BRIEN,"       Sir, let me beam down with a   pattern enhancer...",14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-59,GEORDI,"   Chief, there's no guarantee you   won't rematerialize in a million   pieces if your signal gets caught   up in that electromagnetic   whirlwind...",14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-60,O'BRIEN,   I can boost the confinement   beam. One person might be able   to make it...,14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-61,GEORDI,"       Captain, Chief O'Brien wants to   beam down to the surface with a   pattern enhancer...",14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-62,GEORDI,       His chances of getting down there   safely are no better than fifty-   fifty in my judgement...,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-63,WORF,"   Captain, a major storm front is   moving in on the away team's   coordinates...",15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-64,PICARD,       Mister O'Brien... you are aware   of the risks?,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-65,O'BRIEN,   Yessir. I think I can make it.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-66,PICARD COM,   Prepare to transport.,16   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-67,O'BRIEN,"   Aye, sir.",16   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-68,RIKER,   Glad you could join us.,17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-69,O'BRIEN,"   Great spot for a picnic, sir.",17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-70,O'BRIEN,   We need to distribute the enhancer   rods at seven meter legs... that   ought to do it...,17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-71,RIKER,"   Storm front going to affect the   transport, Chief... ?",17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-72,O'BRIEN,"   I'd really like to get us out of   here before it hits, Commander...   see, I'm supposed to be feeding   the baby lunch... Molly gets in   a terribly foul mood if I'm   late...",17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-73,RIKER,   I'm with you...,17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-74,RIKER,"   Lunch time, O'Brien! Let's do   it!",17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-75,BEVERLY,"   Easy, Deanna...",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-76,TROI,   W-where... ?,26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-77,BEVERLY,   You're back on the Enterprise...   Everything's okay now.,26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-78,TROI,   But my skin... It's tingling.,26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-79,BEVERLY,   You are experiencing some   afterimages from the   electromagnetic discharge. The   sensation will pass. Try to   relax...,26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-80,BEVERLY,"       They're all fine, too. Now take   your time, Counselor, okay?   Doctor's orders.",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-81,PICARD,"       Injury report, Doctor?",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-82,BEVERLY,   Mostly minor abrasions. But   Commander Riker took the worst   of it with a broken arm... The   biofilter scans showed their   nervous systems were generating   unusally high levels of synaptic   energy. I don't think it's   anything to worry about...,26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-83,PICARD,"   Good work, Mister O'Brien.",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-84,O'BRIEN,"   Thank you, sir.",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-85,RIKER,"   Ready for duty, Captain.",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-86,PICARD,"   Are you sure, Number One?",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-87,RIKER,"    (nods, flexes his     injured arm)   It's not the first bone I've   broken.",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-88,PICARD,"   And how are you, Counselor?",26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-89,TROI,   Very glad to be here.,26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-90,PICARD,       What happened down there?,26   INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-91,RIKER,   It was just one hell of a storm...   moved in on our position faster   than anything I've ever seen.,26A  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Power Play""",1991-11-26,The Next Generation
-92,PICARD,   Did you find any evidence of   life?,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-93,RIKER,"   No, but if Troi was right, we   weren't far away from it...",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-94,PICARD,       Bridge.       How do you suggest we proceed?,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-95,RIKER,"   We're gonna have to find a way   to modify the scanners to   penetrate those storms. Got any   ideas, Data... ?",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-96,DATA,       It is p-p-possible we might be   able to employ virtual imaging   to interpolate missing data...,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-97,PICARD,"   Is there something wrong, Data?",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-98,DATA,   My apologies. It seems my primary   speech processors are experiencing   a minor fluctuation. I will have   it corrected in a... m-m-moment.,28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-99,TROI,   Captain... may I speak with you   a moment? In private?,28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-100,PICARD,"   Of course, Counselor.       Take the bridge, Number One.",28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-101,RIKER,"   Mister Data, deploy sensor scans   when you're ready. Ensign, move   into a synchronous orbit aligned   with our crash site.",28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-102,RO,   Aye sir.,28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-103,DATA,"   Sir? Given the E-M field   properties of this moon, I would   recommend a search pattern   beginning at the southern   p-p-polar region.",28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-104,RIKER,"       The polar region... But that's   starting from scratch, Data. The   last reading we had on the Essex   would suggest we begin the scans   near our crash site...",28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-105,DATA,"   The Essex signal was never clearly   located, sir.     ",28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-106,DATA ,"   A broader, systematic survey of   the moon from a p-p-polar orbit   might be more practical.",28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-107,RIKER,"       Well, you might be right. Still,   I'd like to give the crash site   a once-over first... We'll   maintain our present orbit for   now.",28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-108,DATA,"   Understood, sir.",28   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-109,TROI,   I've never felt anything quite   like it... It was almost as though   they were calling to me...,29   INT. READY ROOM,READY ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-110,PICARD,"       Are you saying someone was   communicating telepathically,   Counselor?",29   INT. READY ROOM,READY ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-111,TROI,   Perhaps. For an instant. It was   like their voices were carried   on the wind.,29   INT. READY ROOM,READY ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-112,PICARD,   What were they trying to   communicate?,29   INT. READY ROOM,READY ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-113,TROI,   I'm not sure... but they were   calling me to the southern polar   region... I believe that's where   we should look for the Essex...,29   INT. READY ROOM,READY ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-114,ENSIGN RO,   Commander? Did you override my   orbital heading?,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-115,RIKER,   Override them?,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-116,ENSIGN RO,   We've moved into a polar orbit.,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-117,ENSIGN RO,"   I'm locked out, the helm isn't   responding...",30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-118,RIKER,"   Mister Data, do you know anything   about this?",30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-119,RIKER,       Data... ?,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-120,RIKER,       Security to the bridge!,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-121,RIKER,"       Computer, transfer command to   engineering... Full security   alert!",30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-122,COMPUTER,   All command functions transferred   to engineering.,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-123,O'BRIEN,   This way!,32   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-124,TROI,   What happened?,32   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-125,DATA,   He would not move to a polar   orbit.,32   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-126,TROI,       You could not wait? The captain   would have done it for me...,32   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-127,O'BRIEN,       Deck thirty-six. Engineering.,33   INT. TURBOLIFT,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-128,RIKER,"       Computer, reenable bridge   control. Authorization:   Riker-Omega-Three...",34   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-129,PICARD,   Report...,34   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-130,RIKER,   They're in turbolift four.,34   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-131,WORF,"   Engaging turbolift override   controls, now...",34   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-132,DATA,   They have t-t-trapped us... what   will we do?,35   INT. TURBOLIFT,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-133,TROI,   What deck is this?,35   INT. TURBOLIFT,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-134,O'BRIEN,   We are on deck ten.,35   INT. TURBOLIFT,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-135,TROI,   Can you move us again?,35   INT. TURBOLIFT,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-136,O'BRIEN,       I know how to override the bridge   command...,35   INT. TURBOLIFT,TURBOLIFT,INT.,"""Power Play""",1991-11-26,The Next Generation
-137,RIKER,   Activate all security fields on   decks eight through fifteen...,36   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-138,WORF,       Sir? The turbolift is moving   again. They're still inside.,36   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-139,PICARD,   Initiate emergency bulkheads in   turboshaft four...,36   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-140,WORF,"   Aye, sir.       They've been stopped at deck   thirteen.",36   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-141,PICARD,       Mister Worf...,36   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-142,TROI,       Do you know how to deactivate   this?,38   INT. DECK TEN - CORRIDOR (OPTICAL),DECK TEN - CORRIDOR,INT.,"""Power Play""",1991-11-26,The Next Generation
-143,O'BRIEN,       The computer will not allow us   to override an emergency   forcefield command...,38   INT. DECK TEN - CORRIDOR (OPTICAL),DECK TEN - CORRIDOR,INT.,"""Power Play""",1991-11-26,The Next Generation
-144,DATA,   My entity's artificial   substructure may be useful...,38   INT. DECK TEN - CORRIDOR (OPTICAL),DECK TEN - CORRIDOR,INT.,"""Power Play""",1991-11-26,The Next Generation
-145,RIKER,"   They've broken through a security   field, deck ten, section two...",39   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-146,PICARD,       Security to Ten Forward...,39   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-147,KEIKO,       Shh... Mama's right here...,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-148,TROI,   Everyone get down on the floor!,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-149,KEIKO,       Miles... ?,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-150,O'BRIEN,   On the floor!,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-151,WORF,   Everyone down! Now!!,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-152,RIKER,       Multiple phaser shots in Ten   Forward.,43   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-153,PICARD,   Picard to Worf -- report.,43   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-154,PICARD,   Mister Worf... acknowledge.,44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-155,PICARD,"   Can you hear me, Lieutenant Worf?",44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-156,TROI,"   Yes, bridge. He can hear you.",44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-157,RIKER,   Position security teams at both   entrances...,47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,"""Power Play""",1991-11-26,The Next Generation
-158,RO,   Yes sir.,47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,"""Power Play""",1991-11-26,The Next Generation
-159,PICARD,"   Mister La Forge, shut down all   computer access in Ten   Forward...",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,"""Power Play""",1991-11-26,The Next Generation
-160,GEORDI,"       I can't, Captain. They've already   set up a remote security   lock-out... We'd have to shut down   all computer functions in the   saucer section...",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,"""Power Play""",1991-11-26,The Next Generation
-161,RIKER,"       Transporter room three, can you   get a pattern lock on Commander   Data, Counselor Troi and Chief   O'Brien in Ten Forward... ?",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,"""Power Play""",1991-11-26,The Next Generation
-162,TRANSPORTER OFFICER,"   Attempting to lock on, sir...",48   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Power Play""",1991-11-26,The Next Generation
-163,O'BRIEN,   You were correct. They are   attempting to engage their   transporters. But I know how to   shut them down.,49   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-164,TRANSPORTER OFFICER COM,"   Bridge, the entire transporter   array has been taken off-line and   placed in a diagnostic mode...   I can't override... it will take   a couple of hours to complete the   cycle...",50   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-165,PICARD,   How many people are down there?,50   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-166,RO,"       Seventeen...       They just shut down the internal   scanners too, Captain.",50   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-167,PICARD,       Doctor Crusher to the bridge...,50   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-168,BEVERLY,   On my way.,50   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-169,TROI,   What are you doing now?,51   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-170,DATA,   I can reverse the p-polarity of   their forcefields to isolate this   room.,51   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-171,TROI,   Good.,51   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-172,O'BRIEN,       Their communicators. Now they   will learn nothing but what we   tell them.,51   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-173,RO,"   They've done something to the   force fields on deck ten, section   one.",52   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-174,RIKER,   Geordi?,52   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-175,GEORDI,   I don't recognize the   configurations...       But they've completely isolated   Ten Forward.,52   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-176,RIKER,   How about flooding their air vents   with anesthizine gas?,52   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-177,GEORDI,   That won't affect Data. No   rescue plan will work if we don't   knock out all three of them.,52   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-178,RIKER,   A concussive charge would blow   out the security field. Then we   could go in with phasers on wide   beam. Stun everybody. Sort it   out later...,52   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-179,PICARD,"   Doctor, go back to the biofilter   readouts taken during the away   team's transport from the moon's   surface... see if you can come   up with any kind of clue that   might explain this...",52   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-180,PICARD,"       Ten Forward, this is Captain   Picard. I am prepared to discuss   this situation. There is no need   for further violence...",52   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-181,PICARD,       Please identify yourself.,53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-182,TROI,"       They will now attempt to negotiate   for the safety and release of   their people.       Interesting. Under normal   circumstances, I would be   counseling the captain at a time   like this...",53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-183,O'BRIEN,   What would you tell him to do?,53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-184,TROI,   I would help him find a way to   secure our trust.,53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-185,DATA,   W-what are you looking at?,53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-186,DATA,"   I am speaking to you, Klingon.",53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-187,DATA,       Attack me. Or are you afraid?,53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-188,WORF,   I have no fear of death.,53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-189,DATA,   And I have no fear of killing   you...,53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-190,TROI,   Stop it.,53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-191,PICARD,"   Please respond, Ten Forward. Are   there any members of my crew who   require medical assistance?",53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-192,TROI,"   We can discuss your wounded,   Captain. But first, you will move   the ship.",53   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-193,PICARD,   Move it where?,55   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-194,TROI,"   You will will change the ship's   orbit to an inclination of eighty   degrees, south.",55   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-195,RIKER,       The southern polar region --   that's where Data tried to move   the ship.,55   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-196,PICARD,"   And exactly what Troi asked me   to do, but why?       Ten Forward -- if you could be   more specific about our intended   destination, perhaps we could...",55   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-197,TROI,"       You have thirty seconds to change   your heading -- or additional   members of your crew will ""require   medical attention.""",55   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-198,PICARD,       We need to stabilize this   situation and play for time. I   suggest we move the ship as they   have asked. Agreed?,55   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-199,PICARD,"       Set the new heading. But take   us there as slowly as you can...    (nods to Ro to resume     com)   Ten Forward, we are moving the   ship as you requested.",55   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-200,DATA,   He's telling the truth... their   heading has changed...,57   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-201,BEVERLY,"   I've compared the away team's last   transport trace patterns to   earlier records. They're exactly   the same, except in Troi, Data and   O'Brien there's an unusual   synaptic activity -- some kind   of anionic energy. It may be a   life-form superimposing neural   patterns onto our people.",58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-202,RIKER,   Why wasn't I affected?,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-203,BEVERLY,   I don't know. But one difference   between you and the others was   that you were injured.,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-204,RIKER,   My broken arm...,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-205,BEVERLY,       The fracture caused pain receptors   to fire which may have made you   immune... to this energy.,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-206,PICARD,"   If your theory is accurate, what   would happen if we inflicted pain   on the others...",58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-207,BEVERLY,   That might force whatever it is   out of our people.,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-208,RO,       A plasma shock -- it would be   painful but it wouldn't cause any   physical harm.,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-209,GEORDI,       I could hook up a modified laser   scanner to a plasma invertor...,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-210,RIKER,   What about Data?,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-211,GEORDI,   A plasma shock would certainly   overload his neural net. It might   work for him too...,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-212,RIKER,   We'd have to find a way to   penetrate the forcefield around   Ten Forward.,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-213,GEORDI,   I might be able to interrupt the   forcefield for a few seconds...   but I'll be fighting the computer   for control... timing would be   critical...,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-214,RO,"   We'd have to hit all three with   a single discharge... if they're   standing together, it shouldn't   be a problem...",58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-215,PICARD,       How would you gain access?,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-216,GEORDI,   We could use a micro-optic drill   through the ceiling and they'd   never detect it...,58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-217,BEVERLY,"   If this is going to work, we need   some way to contain that anionic   energy after we get it out of our   people.",58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-218,PICARD,"   Yes, Doctor... that will be your   top priority.       Very well. Proceed.",58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-219,PICARD,"       Bridge to Ten Forward. Now that   we are moving the ship as you   requested, I would like to know   the nature of the injuries to   members of my crew.",58   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-220,TROI,   Five of your people have been   injured.,59   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-221,PICARD,   How serious is their condition?,59   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-222,TROI,"       You tell him, Klingon.",59   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-223,WORF,   Captain. One person has   suffered what looks like a level   five phaser hit...,59   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-224,WORF,   And four others have secondary   burns. They require medical   attention...,60   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-225,WORF,       And our captors are not affected   by phaser stun settings...,61   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-226,DATA,"   Silence, Klingon.",61   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-227,PICARD,   Ten Forward -- those people must   be released so they can receive   proper medical treatment.,61   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-228,TROI,   I will release no one.,61   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-229,PICARD,   If you release the wounded...       I will take their place.,62   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-230,DATA,   It may be a... d-deception.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-231,TROI,       The crew values Picard's life   above all others...       Captain Picard. We agree to your   proposal.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-232,PICARD,       Expect a medical team to accompany   me.,64   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-233,TROI,   Acknowledged.,64   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-234,PICARD,       Picard to sickbay. Send an   emergency medical team to meet   me outside Ten Forward.,64   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-235,RIKER,"   Sir, putting you down there just   strengthens their position.",64   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-236,PICARD,"   As long as they're on board, I'm   a hostage no matter where I am.   We all are. I must find out who   we are dealing with...",64   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-237,PICARD,"   If La Forge and Ro can attempt   a rescue in short order, proceed   with it. If they can't... I'll   provide you with another   opportunity. Watch for it.",64   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-238,RIKER,"   Yes, sir...",64   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-239,DATA,   Silence that... ch-child!,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-240,O'BRIEN,   I know you. I know who you   are...,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-241,O'BRIEN,   And I know who this is...,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-242,KEIKO,   She's frightened... why don't you   let us go?,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-243,O'BRIEN,   No. Make it stop.,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-244,PICARD,"   Ten Forward, we are outside the   door.",65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-245,TROI,       Lower the force field.,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-246,TROI,"   Welcome, Captain. Allow me to   introduce myself...",65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-247,TROI,"   I am Captain Bryce Shumar, of the   Federation Starship Essex.",65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-248,PICARD,       The Starship Essex vanished over   two hundred years ago...,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-249,TROI,   Indeed. I know. I was there.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-250,TROI,       This is my First Officer...   Commander Steven Mullen.       And my Security Chief...   Lieutenant Morgan Kelly.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-251,PICARD,   You're telling me that you've   survived this long as...    (searching for the right     word),68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-252,TROI,"   Spirits? Ghosts? But you are   a man who would never believe in   ghosts, Picard. Isn't that true?",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-253,TROI,"   You see, I know you. Troi knows   you. And so I do, as well.",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-254,PICARD,   Then Counselor Troi is still...   alive?,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-255,TROI,"   Yes, of course she is, and I have   no wish to harm her. Or to harm   anyone else.",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-256,PICARD,   I'm pleased to hear that.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-257,TROI,"   We have been forced to take this   action because we need your help,   Captain.",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-258,PICARD,   My help... ?,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-259,TROI,   Our consciousness has been trapped   on this moon for two centuries...   we must escape this torture...,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-260,PICARD,   How did this happen to you?,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-261,TROI,"   I cannot explain how it occurred,   only that it did.       The Essex was caught in an   electromagnetic storm just as your   shuttle was. Moments before we   crashed, the bridge was struck   by lightning. The ship was ripped   apart. Somehow, in that instant,   our consciousness was absorbed   in the magnetic currents on the   surface.",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-262,PICARD,"   Why didn't you tell us this? Why   the deception, the violence?",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-263,TROI,"   As I said, Captain. I knew you   wouldn't believe us. Even now,   I'm sure you do not.",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-264,PICARD,       What was your vessel designation   and complement?,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-265,TROI,       NCC One-seven-three... Daedalus   class starship. Crew of two   hundred twenty-nine.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-266,PICARD,   Under whose command in this   sector?,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-267,TROI,"       Admiral Uttan Narsu, Starbase   Twelve. You will find all of this   in Starfleet records...",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-268,PICARD,   I do not need to see the records.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-269,TROI,   Then you know I am correct.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-270,PICARD,   End this now and I will do   whatever I can to help you...,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-271,TROI,       No. You do not trust me. And   I cannot risk trusting you.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-272,DATA,   It is taking too long. We   sh-should have been there by   now...,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-273,DATA,   He is manipulating you...,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-274,TROI,   Captain Picard has every right   to be curious...,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-275,DATA,   He will try to delay until a   rescue attempt is possible.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-276,TROI,   I know that. But I also know that   he will make every effort to   protect the lives of his crew.,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-277,TROI,"       Since our demands are not   excessive, I hope you will see   it is simpler to accede than to   risk further injuries.",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-278,PICARD,   What do you want?,68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-279,TROI,"   All you need to know for now,   Captain, is that we want to rest.   Simply, finally... to rest.",68   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-280,GEORDI,       ... Section Two - B... A... Section   One...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-281,RO,       Finally. I hope I never see   this part of the Enterprise   again...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-282,GEORDI,"       I hear you. This is what starship   designers call ""easy access""...",69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-283,GEORDI,       This is it. I thought we might   have a problem with conduit two-   twenty-seven -- but it looks like   we can get by it...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-284,RO,   We're through...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-285,GEORDI,   Let's hook up the scanner and see   what we've got...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-286,RO,   Got it...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-287,RO ,   All three of them have to be in   the circle if it's going to   work...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-288,GEORDI,   We're halfway home...       La Forge to Crusher. How's it   going?,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-289,BEVERLY,"   I think I've come up with an   idea for a containment field.   This anionic energy seems to   be vulnerable to the same magnetic   flux density we monitored in the   storms. If I can duplicate   that, we can trap it once it's   out of our people.",72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-290,GEORDI,   You ought to be able to do it   by pumping Ten Forward full of   ionogenic particles.,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-291,BEVERLY,   Exactly what I was thinking...,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-292,RIKER,   How long will it take to get it   all ready?,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-293,GEORDI,"   We still have to calibrate the   plasma invertor, Commander... I'm   guessing forty-five minutes to   an hour...",72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-294,BEVERLY,   I'll have the containment field   ready by then.,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-295,RIKER,   Keep me advised.,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-296,PICARD,"   Impressions, Mister Worf?",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-297,WORF,"   Spiritual possessions of this sort   have been reported throughout   Klingon history. It is called   ""Jat'yIn"" -- the taking of the   living by the dead.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-298,PICARD,"   Yes, Human history is also full   of similar legends.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-299,WORF,"   Then, you believe they may be   telling the truth?",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-300,PICARD,   Not for a moment.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-301,WORF,"   Sir, they seem to know much about   the Essex... if it really is the   spirit of Captain Shumar...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-302,PICARD,"       ... then he should be on much   better behavior, don't you   think... ? A Starfleet Captain?",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-303,WORF,"   After living disembodied for two   centuries, perhaps they have gone   mad...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-304,PICARD,"   Mister Worf, I assure you these   are not Jat'yIn. Our job is to   find out what they are... and    then to determine how to deal    with them...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-305,DATA,   Stop speaking!,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-306,O'BRIEN,   I gave you that...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-307,O'BRIEN,   In a place called McKinley Park.   Green grass... tall trees.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-308,KEIKO,   Please... don't...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-309,O'BRIEN,   I hid the bracelet... in your   pocket. You were... surprised.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-310,KEIKO,   ...please...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-311,O'BRIEN,"   You said, ""You make me so happy,   Miles.""",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-312,KEIKO,   Get away from me.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-313,KEIKO,       Get away.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-314,TROI,       Leave her alone.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-315,PICARD,   Captain Shumar...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-316,PICARD,   We will reach the polar position   you requested in minutes... I will   need to give additional   instructions...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-317,TROI,    (takes a beat to     consider)   Very well. We are taking you to   our crash site...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-318,PICARD,       At the southern pole... ?,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-319,TROI,   That is correct.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-320,PICARD,       Nothing our sensors were able to   detect indicated that the Essex   went down in the polar region...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-321,DATA,"       Well, it d-did.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-322,TROI,"       I told you, Captain... the ship   broke apart in the atmosphere.   The bridge went down here.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-323,TROI,"   When we reach it, you are going   to beam what's left of our   skeletal remains aboard this   ship... and take them back to   Earth for a proper burial.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-324,TROI,   See how simple a request it is... ?,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-325,PICARD,   Let these people go... and I   will order the bridge to follow   your instructions.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-326,TROI,       No. No one will be released.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-327,PICARD,"   If you are who you say you are,   there is no need for any of   this... we will gladly take you   home.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-328,TROI,"       I wish you were truly so   open-minded, Picard...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-329,PICARD,"   If you do not release the   hostages, I will not cooperate.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-330,DATA,"   You will cooperate... you will   c-cooperate... or someone will   die, Captain... who will it   be... ?",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-331,DATA,   How about the Klingon?,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-332,DATA,       Get another one.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-333,O'BRIEN,       You.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-334,KEIKO,   No... please...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-335,DATA,"   Pick one to die, Captain. Or I   will kill them both...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-336,WORF,"   Choose me, Captain.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-337,RO ,   They're all in range. I need   to do it now...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,"""Power Play""",1991-11-26,The Next Generation
-338,GEORDI,   I'm only gonna be able to shut   down the forcefield for about   seven seconds before the computer   compensates...,78   ANGLE - INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-339,RO,"   If they're the right seven   seconds, it'll be enough...",78   ANGLE - INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-340,GEORDI,"   Bridge, stand by to release the   ionogenic field on my signal...",78   ANGLE - INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-341,RIKER,   Standing by...,78A  INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-342,GEORDI,       Ready...,78B  INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-343,RO,   Kill the forcefield!,78B  INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-344,GEORDI,   Forcefield down...,78B  INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-345,RO,   Firing plasma charge...,78B  INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-346,RO,   Damn... !,80A  INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Power Play""",1991-11-26,The Next Generation
-347,DATA,"   Tell them to stop, or I'll kill   everyone in this room! Starting   with you.",80B  INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-348,PICARD,   Picard to bridge. Abort   immediately.,80B  INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-349,RIKER,"   As you say, Captain...       Riker to La Forge, return to the   bridge.",81   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-350,TROI,   Are you prepared to cooperate?,83   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-351,PICARD,       Yes.,83   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-352,RIKER ,"   First officer's log, supplemental.   The Enterprise has moved into a   synchronous orbit near the   southern polar region. We await   further instructions from Ten   Forward.",84   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Power Play""",1991-11-26,The Next Generation
-353,RIKER,   Any sign of the Essex?,85   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-354,GEORDI,"   Negative, Commander. The   electromagnetic disturbances   are even worse here... scanners   can't read a thing...",85   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-355,RIKER,   Bridge to Ten Forward.,85   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-356,RIKER,   Intense storm activity over the   southern pole is making it   virtually impossible for us to   pick up any trace of the Essex...,86   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-357,TROI,   We're giving you the exact   coordinates of our remains   aboard the wreck of the Essex...,86   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-358,GEORDI,   I'm receiving the coordinates   now...,87   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-359,RIKER,"       Geordi, can you tell what's there?",87   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-360,GEORDI,       Just your basic ionic cyclone.   I can't read a thing.,87   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-361,RIKER,   I'm sure as hell not going to just   beam up whatever might be down   there...,87   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-362,GEORDI,   I've got a good excuse for you.   The transporters aren't going to   work any better than the   scanners...,87   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-363,RIKER,   Bridge to Ten Forward... the same   interference that is blocking our   scanners would prevent us from   using the transporters...,87   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-364,O'BRIEN,   They're lying...,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-365,PICARD,"   On the contrary, we've had a   difficult time with transport   since our arrival... that's why   we had to send down the shuttle.   You should all be well aware of   that fact.",88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-366,DATA,   We must be able to use the   transporters...,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-367,PICARD,"   In fact, Chief O'Brien was the   one who successfully executed the   return of the away team... he is   the most qualified on board to   operate the transporter under   these circumstances...",88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-368,TROI,   Can you do it from here?,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-369,O'BRIEN,   No... I would have to use a   transporter pad.,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-370,PICARD,       I would be willing to grant you   safe passage to the transporter   pad in one of the cargo bays...,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-371,DATA,   It is a trick... he is trying to   divide us...,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-372,TROI,       We must not be separated.,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-373,PICARD,   I offer to grant you all safe   passage.,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-374,DATA,   Why are you b-being so helpful   suddenly?,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-375,PICARD,"   Because I assume if you go to the   cargo bay, you will choose not   to take all of the hostages.   Their safety is my primary   concern.",88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-376,TROI,       What are the risks when we leave   this room?,88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-377,DATA,"   Without the p-protection of the   forcefield, we are vulnerable in   a number of ways...",88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-378,O'BRIEN,"   They could use the transporter   against us... Once the   forcefield's down, they could   beam us back to the surface.    (beat, as he gets an     idea)   But there is a way to neutralize   that threat...       Bridge, transfer all transporter   functions to Ten Forward...",88   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-379,RIKER,"   Ten Forward, in order to do that,   you'll have to release your   computer control lock-outs...",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-380,O'BRIEN,       That is not true...,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-381,PICARD,   Let me speak to him.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-382,PICARD,"   Number One, I think we have an   opportunity to end this seige...",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-383,PICARD,"       But it will require cooperation   from all concerned. Our guests   will be moving shortly to cargo   bay four, where the transport will   occur. You are to ensure their   safe passage from Ten Forward to   the cargo bay.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-384,RIKER,"   Understood, Captain.       Mister La Forge, Doctor...",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-385,GEORDI,"   Aye, sir...",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-386,O'BRIEN,   Transporter controls are being   transferred...,90   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-387,O'BRIEN,   Ten Forward to bridge. I said all   transporter controls. Including   those aboard all your   shuttlecraft.,90   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-388,RIKER,"       Almost had them, Ensign... nice   try...       Ten Forward. Our mistake.   Remaining transporter functions   are being transferred to you...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-389,O'BRIEN,"   By creating our own access code,   we will be able to prevent anyone   from using the transporter against   us as we move to the cargo bay...",92   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-390,DATA,   What about their weapons?,92   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-391,TROI,"   We will each take a hostage for   protection... Captain Picard, you   are mine.",92   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-392,KEIKO,   Please... let her stay...,92   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-393,TROI,       Lower the forcefield.,92   INT. TEN FORWARD,TEN FORWARD,INT.,"""Power Play""",1991-11-26,The Next Generation
-394,RIKER,"   Security teams, stand by.",93   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-395,ENSIGN RO,   They're heading through section   five...,93   INT. BRIDGE,BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-396,RIKER,"   Mister La Forge, Doctor --   they'll be at their destination   in less than a minute...",95   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-397,ENSIGN RO,"   They've stopped at deck eighteen,   sir...",95   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-398,RIKER,"       Security, allow them access into   cargo bay four...",95   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-399,O'BRIEN,       I will require some assistance.,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-400,PICARD,"   Captain Shumar, may I ask a   foolish question?",96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-401,TROI,"   You are not one to ask foolish   questions, Picard...",96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-402,PICARD,"   Nevertheless, I must ask how you   intend to achieve your ""rest""...   when all is said and done...",96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-403,TROI,   What do you mean?,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-404,PICARD,   How do you intend to free yourself   of this existence that has   trapped your consciousness?,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-405,TROI,   It will fade as we move further   from this planet...,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-406,PICARD,   Really? What is your scientific   basis for that?,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-407,TROI,       I don't need a scientific basis.   Just be quiet.,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-408,PICARD,   Perhaps you will be required to   perform a noble deed before you   can rest.,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-409,TROI,   What are you talking about?,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-410,PICARD,"   Surely you recall the old story   of ""The Canterville Ghost""...",96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-411,TROI,"   Do not insult me with foolish   ghost stories, Picard...",96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-412,PICARD,   I would ask the same of you.       When are you going to tell me   who you really are?,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-413,O'BRIEN,   I have initialized the   transporter signal...,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-414,TROI,    (still staring at     Picard)   Proceed.,96   INT. CARGO BAY,CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-415,RO,"   They're powering up the   transporter, Commander...",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-416,RIKER,   Mister LaForge...,97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-417,GEORDI,"   I've isolated cargo bay four with   a neutrino field, sir... But it   won't take O'Brien and Data more   than a couple of minutes to override   it once they discover it's   there...",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-418,RIKER,   I hope that'll be enough time   for the captain to play his   hand...,97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-419,RO,   You know what he's going to do?,97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-420,RIKER,"   There's only one reason he   chose cargo bay four...       If it becomes necessary, Ensign,   you will blow the cargo bay hatch   on my orders.",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-421,RO,"   Aye, sir.",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-422,TROI,"   You're quite right, Picard.   We're not ghosts. And it is not   rest, we seek. Only escape.",98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,"""Power Play""",1991-11-26,The Next Generation
-423,PICARD,   Escape?,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,"""Power Play""",1991-11-26,The Next Generation
-424,TROI,   We were brought to this moon over   five centuries ago from a star   system called Ux-Mal... We were   separated from our bodies and left   to drift in the storms. Once   we almost escaped... on board   the Essex... but that ship was   incapable of eluding the moon's   electromagnetic currents...,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,"""Power Play""",1991-11-26,The Next Generation
-425,PICARD,   Did you really think using their   identities would gain our   sympathy... ?,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,"""Power Play""",1991-11-26,The Next Generation
-426,TROI,   It was a better approach than   asking you to allow hundreds of   condemned prisoners on board...,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,"""Power Play""",1991-11-26,The Next Generation
-427,PICARD,"   Then, this moon is a penal   colony...",98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,"""Power Play""",1991-11-26,The Next Generation
-428,TROI,   That is correct. But now   we have your ship... and your   bodies to carry us home...,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,"""Power Play""",1991-11-26,The Next Generation
-429,RO,   I'm reading dozens of them...   hundreds...,102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-430,BEVERLY,   They have the same anionic   signature we saw on the biofilter   scans...,102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-431,RIKER,"       I think we can give the captain   a new bargaining chip. Doctor   Crusher, flood the cargo bay with   your containment field...",102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Power Play""",1991-11-26,The Next Generation
-432,TROI,"   Let them go, or you will all die.",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-433,PICARD,   Your threats are meaningless now.,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-434,O'BRIEN,   We are still in control of these   three bodies. We will not leave   them.,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-435,PICARD,   Are you prepared to sacrifice the   lives of the others? Because they   will all die when the hatch to   the cargo bay is blown...,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-436,DATA,       You will die too...,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-437,KEIKO,   I would die to save the life of   my child.,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-438,WORF,   To die defending his ship is the   hope of every Klingon.,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-439,PICARD,"   And if you each know the officers   you inhabit, you know they are   equally ready to give their lives   for this ship.       Free them now... And I will return   you to the moon's surface.",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-440,TROI,"   I advise you, Picard, not to pass   our way again.",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-441,PICARD,"       Picard to bridge, our guests will   be leaving shortly... I need an   emergency medical team here...",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-442,BEVERLY,"   On our way, Captain.",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-443,PICARD,"   Mister Worf, transport these...   prisoners... back to the moon's   surface...",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-444,WORF,"   Gladly, sir...",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-445,TROI,   It was almost as though my own   consciousness were pushed to the   side... I was watching it all   happen... hearing my own voice...   but I couldn't control any of   it...,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-446,PICARD,   What about the entity that   controlled you... what were your   perceptions of him?,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-447,TROI,"   He was intelligent, actually.   Thoughtful... in a ruthless   sort of way. Cold.",106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-448,DATA,"   I must apologize for my   inadvertant misconduct toward you,   Lieutenant.",106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-449,WORF,   There is no need to apologize.,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-450,DATA,   Your restraint was most remarkable   for a Klingon.,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-451,WORF,       You have no idea.,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-452,BEVERLY,   How do you feel?,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-453,O'BRIEN,   Hungry.,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-454,BEVERLY,   Good sign.,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-455,O'BRIEN,   How do you feel?,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-456,KEIKO,   I'm just glad to have you back.,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-457,O'BRIEN,   If I could've killed that thing   inside me... I would have...,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-458,KEIKO,   I know.,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
-459,KEIKO,       We both know.,106A INT. SICKBAY,SICKBAY,INT.,"""Power Play""",1991-11-26,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,PICARD ,"   Captain's log, stardate 45571.2.   We are going into orbit around   an unexplored M-class moon of   Mab-Bu Six. Though the moon was   reported to be uninhabited, we   have picked up a weak distress   call.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+1,DATA,"   The intense electromagnetic   whirlwinds on the moon's surface   make it virtually impossible to   locate the source of the signal,   sir...",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+2,PICARD,"   Any indications of life, Mister   Worf?",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+3,WORF,"   Scanners read negative, sir. But   they may be affected by the   interference.",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+4,RIKER,"   Have you ever heard anything like   that, Data?",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+5,DATA,"       I believe so, Commander... at   Starfleet Academy...",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+6,PICARD,   The Academy?,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+7,DATA,"   Yes, sir, let me verify it...",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+8,DATA,"       As I thought, sir... it is a   Starfleet subspace distress   signal... standard to Daedalus   class starships...",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+9,RIKER,       There hasn't been a Daedalus class   in service for... what... ?,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+10,DATA,"   One hundred seventy-two years,   Commander...",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+11,PICARD,"   Any record of missing ships in   this vicinity, Data?",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+12,DATA,   The U.S.S. Essex under the command   of Captain Bryce Shumar   disappeared in this sector over   two centuries ago...,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+13,PICARD,   Daedalus class...,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+14,DATA,"       Yes, Captain... I have accessed   the subspace transponder signature   of the Essex... it is identical   to the signal coming from the moon's   surface...",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+15,RIKER,   We've arrived a little late...,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+16,PICARD ,"   Mute it, Data.",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+17,PICARD,"       With the storm activity down   there, I don't think it's worth   the risk to check on a ghost ship,   Number One... advise Starfleet   we've solved the mystery of   Captain Shumar and the Essex...",2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+18,TROI,   I'm not sure we have...,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+19,TROI,   Someone's down there... alive...,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+20,RIKER ,"   First officer's log, supplemental.   The electromagnetic interference   on the surface was judged too   dangerous for anyone to transport   down. So we have taken a   shuttle to investigate.",4    EXT. MOON - THE SHUTTLE (OPTICAL),MOON - THE SHUTTLE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+21,DATA,   Shields are holding...,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+22,RIKER,"       Wind shear is incredible, Data...   keep an eye on the stabilizers...       If it's anything like this on the   ground, I don't see how anyone   could survive on this moon for   long.",5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+23,TROI,   Maybe they've been living   underground.,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+24,RIKER,       Question is where? I still can't   locate the source of the damn   signal... it's bouncing around   more than we are...,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+25,DATA,"   Sir, forward thrusters have   failed. We are losing power.",5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+26,RIKER,   Enterprise... ?,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+27,PICARD,   Go ahead.,6    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+28,RIKER COMM,   We've lost our thrusters...   attempting to compensate with   secondary boosters...,6    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+29,WORF,   Sir? The shuttle's impulse   generators have shut down...,6    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+30,PICARD,   Commander? Can you hear me?,6    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+31,PICARD,"       Enterprise to shuttle, please   respond.",7    INT. SHUTTLE,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+32,RIKER,   Hold on! We're going down...,7    INT. SHUTTLE,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+33,DATA,   Initiating emergency landing   procedures...,7    INT. SHUTTLE,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+34,RIKER,   Maintain the approach attitude   Data... I'm taking her in...,7    INT. SHUTTLE,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+35,RO,   The shuttle has crashed on the   surface...,9    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+36,PICARD,   Do you have their position?,9    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+37,WORF,       I am picking up the shuttle's   trace signature... but the surface   interference is distorting its   position...,9    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+38,PICARD,       Can you locate them...,9    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+39,RO,   I think I can... I followed their   entry almost all the way in...   we can calculate the coordinates   from their angle of descent...,9    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+40,RIKER,       Enterprise?,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+41,DATA,"   It is unlikely, sir, that we will   be able to establish communication   with the ship, given the severe   electromagnetic interference...",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+42,RIKER,"       Then we'll stay put right here   until the Enterprise finds us...       Data, run an inventory of what's   still usable inside the shuttle.",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+43,DATA,   Yes sir.,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+44,TROI,   Your arm...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+45,RIKER,"   Yeah, I'm pretty sure it's   broken...",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+46,RIKER,   The surface is composed of   nonporous rock... makes me   think it's even more unlikely   anyone could live here...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+47,DATA,   There are no instruments left of   practical value that have not been   damaged by the impact of our   landing.,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+48,TROI,       What is that?,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+49,RIKER,   Doesn't look like any storm front   I've ever seen...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+50,DATA,    (checking with the     tricorder)   The tricorder is picking up high   levels of E-M bursts across the   spectrum.,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+51,RIKER,"   Are you picking up anything else,   Data... like signs of life... ?",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+52,DATA,"   Other than our own, sir...   negative.",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+53,TROI,   There is someone alive here...   I'm more certain of it now than   ever...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+54,RIKER,"   Well, I hope they can find us...   because we don't have a way to   find them...",10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+55,TROI,       They're coming... they're coming   with the storm...,10   EXT. MOON SURFACE,MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+56,GEORDI,"   We can't get a pattern lock on   the communicators because of the   E-M bursts, Captain. There's   no way to beam them out of   there... not under these   conditions...",12   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+57,PICARD,"   The same conditions won't permit   a shuttle to land safely, Mister   LaForge... any suggestions... ?",13   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+58,O'BRIEN,"       Sir, let me beam down with a   pattern enhancer...",14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+59,GEORDI,"   Chief, there's no guarantee you   won't rematerialize in a million   pieces if your signal gets caught   up in that electromagnetic   whirlwind...",14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+60,O'BRIEN,   I can boost the confinement   beam. One person might be able   to make it...,14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+61,GEORDI,"       Captain, Chief O'Brien wants to   beam down to the surface with a   pattern enhancer...",14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+62,GEORDI,       His chances of getting down there   safely are no better than fifty-   fifty in my judgement...,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+63,WORF,"   Captain, a major storm front is   moving in on the away team's   coordinates...",15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+64,PICARD,       Mister O'Brien... you are aware   of the risks?,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+65,O'BRIEN,   Yessir. I think I can make it.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+66,PICARD COM,   Prepare to transport.,16   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+67,O'BRIEN,"   Aye, sir.",16   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+68,RIKER,   Glad you could join us.,17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+69,O'BRIEN,"   Great spot for a picnic, sir.",17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+70,O'BRIEN,   We need to distribute the enhancer   rods at seven meter legs... that   ought to do it...,17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+71,RIKER,"   Storm front going to affect the   transport, Chief... ?",17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+72,O'BRIEN,"   I'd really like to get us out of   here before it hits, Commander...   see, I'm supposed to be feeding   the baby lunch... Molly gets in   a terribly foul mood if I'm   late...",17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+73,RIKER,   I'm with you...,17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+74,RIKER,"   Lunch time, O'Brien! Let's do   it!",17   EXT. MOON SURFACE (OPTICAL),MOON SURFACE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+75,BEVERLY,"   Easy, Deanna...",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+76,TROI,   W-where... ?,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+77,BEVERLY,   You're back on the Enterprise...   Everything's okay now.,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+78,TROI,   But my skin... It's tingling.,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+79,BEVERLY,   You are experiencing some   afterimages from the   electromagnetic discharge. The   sensation will pass. Try to   relax...,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+80,BEVERLY,"       They're all fine, too. Now take   your time, Counselor, okay?   Doctor's orders.",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+81,PICARD,"       Injury report, Doctor?",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+82,BEVERLY,   Mostly minor abrasions. But   Commander Riker took the worst   of it with a broken arm... The   biofilter scans showed their   nervous systems were generating   unusally high levels of synaptic   energy. I don't think it's   anything to worry about...,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+83,PICARD,"   Good work, Mister O'Brien.",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+84,O'BRIEN,"   Thank you, sir.",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+85,RIKER,"   Ready for duty, Captain.",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+86,PICARD,"   Are you sure, Number One?",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+87,RIKER,"    (nods, flexes his     injured arm)   It's not the first bone I've   broken.",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+88,PICARD,"   And how are you, Counselor?",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+89,TROI,   Very glad to be here.,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+90,PICARD,       What happened down there?,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+91,RIKER,   It was just one hell of a storm...   moved in on our position faster   than anything I've ever seen.,26A  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+92,PICARD,   Did you find any evidence of   life?,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+93,RIKER,"   No, but if Troi was right, we   weren't far away from it...",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+94,PICARD,       Bridge.       How do you suggest we proceed?,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+95,RIKER,"   We're gonna have to find a way   to modify the scanners to   penetrate those storms. Got any   ideas, Data... ?",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+96,DATA,       It is p-p-possible we might be   able to employ virtual imaging   to interpolate missing data...,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+97,PICARD,"   Is there something wrong, Data?",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+98,DATA,   My apologies. It seems my primary   speech processors are experiencing   a minor fluctuation. I will have   it corrected in a... m-m-moment.,28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+99,TROI,   Captain... may I speak with you   a moment? In private?,28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+100,PICARD,"   Of course, Counselor.       Take the bridge, Number One.",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+101,RIKER,"   Mister Data, deploy sensor scans   when you're ready. Ensign, move   into a synchronous orbit aligned   with our crash site.",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+102,RO,   Aye sir.,28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+103,DATA,"   Sir? Given the E-M field   properties of this moon, I would   recommend a search pattern   beginning at the southern   p-p-polar region.",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+104,RIKER,"       The polar region... But that's   starting from scratch, Data. The   last reading we had on the Essex   would suggest we begin the scans   near our crash site...",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+105,DATA,"   The Essex signal was never clearly   located, sir.     ",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+106,DATA ,"   A broader, systematic survey of   the moon from a p-p-polar orbit   might be more practical.",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+107,RIKER,"       Well, you might be right. Still,   I'd like to give the crash site   a once-over first... We'll   maintain our present orbit for   now.",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+108,DATA,"   Understood, sir.",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+109,TROI,   I've never felt anything quite   like it... It was almost as though   they were calling to me...,29   INT. READY ROOM,READY ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+110,PICARD,"       Are you saying someone was   communicating telepathically,   Counselor?",29   INT. READY ROOM,READY ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+111,TROI,   Perhaps. For an instant. It was   like their voices were carried   on the wind.,29   INT. READY ROOM,READY ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+112,PICARD,   What were they trying to   communicate?,29   INT. READY ROOM,READY ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+113,TROI,   I'm not sure... but they were   calling me to the southern polar   region... I believe that's where   we should look for the Essex...,29   INT. READY ROOM,READY ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+114,ENSIGN RO,   Commander? Did you override my   orbital heading?,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+115,RIKER,   Override them?,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+116,ENSIGN RO,   We've moved into a polar orbit.,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+117,ENSIGN RO,"   I'm locked out, the helm isn't   responding...",30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+118,RIKER,"   Mister Data, do you know anything   about this?",30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+119,RIKER,       Data... ?,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+120,RIKER,       Security to the bridge!,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+121,RIKER,"       Computer, transfer command to   engineering... Full security   alert!",30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+122,COMPUTER,   All command functions transferred   to engineering.,30   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+123,O'BRIEN,   This way!,32   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+124,TROI,   What happened?,32   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+125,DATA,   He would not move to a polar   orbit.,32   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+126,TROI,       You could not wait? The captain   would have done it for me...,32   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+127,O'BRIEN,       Deck thirty-six. Engineering.,33   INT. TURBOLIFT,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+128,RIKER,"       Computer, reenable bridge   control. Authorization:   Riker-Omega-Three...",34   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+129,PICARD,   Report...,34   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+130,RIKER,   They're in turbolift four.,34   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+131,WORF,"   Engaging turbolift override   controls, now...",34   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+132,DATA,   They have t-t-trapped us... what   will we do?,35   INT. TURBOLIFT,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+133,TROI,   What deck is this?,35   INT. TURBOLIFT,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+134,O'BRIEN,   We are on deck ten.,35   INT. TURBOLIFT,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+135,TROI,   Can you move us again?,35   INT. TURBOLIFT,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+136,O'BRIEN,       I know how to override the bridge   command...,35   INT. TURBOLIFT,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+137,RIKER,   Activate all security fields on   decks eight through fifteen...,36   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+138,WORF,       Sir? The turbolift is moving   again. They're still inside.,36   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+139,PICARD,   Initiate emergency bulkheads in   turboshaft four...,36   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+140,WORF,"   Aye, sir.       They've been stopped at deck   thirteen.",36   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+141,PICARD,       Mister Worf...,36   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+142,TROI,       Do you know how to deactivate   this?,38   INT. DECK TEN - CORRIDOR (OPTICAL),DECK TEN - CORRIDOR,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+143,O'BRIEN,       The computer will not allow us   to override an emergency   forcefield command...,38   INT. DECK TEN - CORRIDOR (OPTICAL),DECK TEN - CORRIDOR,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+144,DATA,   My entity's artificial   substructure may be useful...,38   INT. DECK TEN - CORRIDOR (OPTICAL),DECK TEN - CORRIDOR,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+145,RIKER,"   They've broken through a security   field, deck ten, section two...",39   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+146,PICARD,       Security to Ten Forward...,39   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+147,KEIKO,       Shh... Mama's right here...,40   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+148,TROI,   Everyone get down on the floor!,40   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+149,KEIKO,       Miles... ?,40   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+150,O'BRIEN,   On the floor!,40   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+151,WORF,   Everyone down! Now!!,40   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+152,RIKER,       Multiple phaser shots in Ten   Forward.,43   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+153,PICARD,   Picard to Worf -- report.,43   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+154,PICARD,   Mister Worf... acknowledge.,44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+155,PICARD,"   Can you hear me, Lieutenant Worf?",44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+156,TROI,"   Yes, bridge. He can hear you.",44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+157,RIKER,   Position security teams at both   entrances...,47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+158,RO,   Yes sir.,47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+159,PICARD,"   Mister La Forge, shut down all   computer access in Ten   Forward...",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+160,GEORDI,"       I can't, Captain. They've already   set up a remote security   lock-out... We'd have to shut down   all computer functions in the   saucer section...",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+161,RIKER,"       Transporter room three, can you   get a pattern lock on Commander   Data, Counselor Troi and Chief   O'Brien in Ten Forward... ?",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+162,TRANSPORTER OFFICER,"   Attempting to lock on, sir...",48   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+163,O'BRIEN,   You were correct. They are   attempting to engage their   transporters. But I know how to   shut them down.,49   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+164,TRANSPORTER OFFICER COM,"   Bridge, the entire transporter   array has been taken off-line and   placed in a diagnostic mode...   I can't override... it will take   a couple of hours to complete the   cycle...",50   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+165,PICARD,   How many people are down there?,50   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+166,RO,"       Seventeen...       They just shut down the internal   scanners too, Captain.",50   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+167,PICARD,       Doctor Crusher to the bridge...,50   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+168,BEVERLY,   On my way.,50   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+169,TROI,   What are you doing now?,51   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+170,DATA,   I can reverse the p-polarity of   their forcefields to isolate this   room.,51   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+171,TROI,   Good.,51   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+172,O'BRIEN,       Their communicators. Now they   will learn nothing but what we   tell them.,51   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+173,RO,"   They've done something to the   force fields on deck ten, section   one.",52   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+174,RIKER,   Geordi?,52   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+175,GEORDI,   I don't recognize the   configurations...       But they've completely isolated   Ten Forward.,52   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+176,RIKER,   How about flooding their air vents   with anesthizine gas?,52   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+177,GEORDI,   That won't affect Data. No   rescue plan will work if we don't   knock out all three of them.,52   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+178,RIKER,   A concussive charge would blow   out the security field. Then we   could go in with phasers on wide   beam. Stun everybody. Sort it   out later...,52   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+179,PICARD,"   Doctor, go back to the biofilter   readouts taken during the away   team's transport from the moon's   surface... see if you can come   up with any kind of clue that   might explain this...",52   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+180,PICARD,"       Ten Forward, this is Captain   Picard. I am prepared to discuss   this situation. There is no need   for further violence...",52   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+181,PICARD,       Please identify yourself.,53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+182,TROI,"       They will now attempt to negotiate   for the safety and release of   their people.       Interesting. Under normal   circumstances, I would be   counseling the captain at a time   like this...",53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+183,O'BRIEN,   What would you tell him to do?,53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+184,TROI,   I would help him find a way to   secure our trust.,53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+185,DATA,   W-what are you looking at?,53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+186,DATA,"   I am speaking to you, Klingon.",53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+187,DATA,       Attack me. Or are you afraid?,53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+188,WORF,   I have no fear of death.,53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+189,DATA,   And I have no fear of killing   you...,53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+190,TROI,   Stop it.,53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+191,PICARD,"   Please respond, Ten Forward. Are   there any members of my crew who   require medical assistance?",53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+192,TROI,"   We can discuss your wounded,   Captain. But first, you will move   the ship.",53   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+193,PICARD,   Move it where?,55   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+194,TROI,"   You will will change the ship's   orbit to an inclination of eighty   degrees, south.",55   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+195,RIKER,       The southern polar region --   that's where Data tried to move   the ship.,55   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+196,PICARD,"   And exactly what Troi asked me   to do, but why?       Ten Forward -- if you could be   more specific about our intended   destination, perhaps we could...",55   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+197,TROI,"       You have thirty seconds to change   your heading -- or additional   members of your crew will ""require   medical attention.""",55   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+198,PICARD,       We need to stabilize this   situation and play for time. I   suggest we move the ship as they   have asked. Agreed?,55   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+199,PICARD,"       Set the new heading. But take   us there as slowly as you can...    (nods to Ro to resume     com)   Ten Forward, we are moving the   ship as you requested.",55   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+200,DATA,   He's telling the truth... their   heading has changed...,57   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+201,BEVERLY,"   I've compared the away team's last   transport trace patterns to   earlier records. They're exactly   the same, except in Troi, Data and   O'Brien there's an unusual   synaptic activity -- some kind   of anionic energy. It may be a   life-form superimposing neural   patterns onto our people.",58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+202,RIKER,   Why wasn't I affected?,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+203,BEVERLY,   I don't know. But one difference   between you and the others was   that you were injured.,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+204,RIKER,   My broken arm...,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+205,BEVERLY,       The fracture caused pain receptors   to fire which may have made you   immune... to this energy.,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+206,PICARD,"   If your theory is accurate, what   would happen if we inflicted pain   on the others...",58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+207,BEVERLY,   That might force whatever it is   out of our people.,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+208,RO,       A plasma shock -- it would be   painful but it wouldn't cause any   physical harm.,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+209,GEORDI,       I could hook up a modified laser   scanner to a plasma invertor...,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+210,RIKER,   What about Data?,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+211,GEORDI,   A plasma shock would certainly   overload his neural net. It might   work for him too...,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+212,RIKER,   We'd have to find a way to   penetrate the forcefield around   Ten Forward.,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+213,GEORDI,   I might be able to interrupt the   forcefield for a few seconds...   but I'll be fighting the computer   for control... timing would be   critical...,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+214,RO,"   We'd have to hit all three with   a single discharge... if they're   standing together, it shouldn't   be a problem...",58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+215,PICARD,       How would you gain access?,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+216,GEORDI,   We could use a micro-optic drill   through the ceiling and they'd   never detect it...,58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+217,BEVERLY,"   If this is going to work, we need   some way to contain that anionic   energy after we get it out of our   people.",58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+218,PICARD,"   Yes, Doctor... that will be your   top priority.       Very well. Proceed.",58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+219,PICARD,"       Bridge to Ten Forward. Now that   we are moving the ship as you   requested, I would like to know   the nature of the injuries to   members of my crew.",58   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+220,TROI,   Five of your people have been   injured.,59   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+221,PICARD,   How serious is their condition?,59   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+222,TROI,"       You tell him, Klingon.",59   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+223,WORF,   Captain. One person has   suffered what looks like a level   five phaser hit...,59   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+224,WORF,   And four others have secondary   burns. They require medical   attention...,60   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+225,WORF,       And our captors are not affected   by phaser stun settings...,61   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+226,DATA,"   Silence, Klingon.",61   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+227,PICARD,   Ten Forward -- those people must   be released so they can receive   proper medical treatment.,61   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+228,TROI,   I will release no one.,61   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+229,PICARD,   If you release the wounded...       I will take their place.,62   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+230,DATA,   It may be a... d-deception.,63   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+231,TROI,       The crew values Picard's life   above all others...       Captain Picard. We agree to your   proposal.,63   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+232,PICARD,       Expect a medical team to accompany   me.,64   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+233,TROI,   Acknowledged.,64   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+234,PICARD,       Picard to sickbay. Send an   emergency medical team to meet   me outside Ten Forward.,64   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+235,RIKER,"   Sir, putting you down there just   strengthens their position.",64   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+236,PICARD,"   As long as they're on board, I'm   a hostage no matter where I am.   We all are. I must find out who   we are dealing with...",64   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+237,PICARD,"   If La Forge and Ro can attempt   a rescue in short order, proceed   with it. If they can't... I'll   provide you with another   opportunity. Watch for it.",64   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+238,RIKER,"   Yes, sir...",64   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+239,DATA,   Silence that... ch-child!,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+240,O'BRIEN,   I know you. I know who you   are...,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+241,O'BRIEN,   And I know who this is...,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+242,KEIKO,   She's frightened... why don't you   let us go?,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+243,O'BRIEN,   No. Make it stop.,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+244,PICARD,"   Ten Forward, we are outside the   door.",65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+245,TROI,       Lower the force field.,65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+246,TROI,"   Welcome, Captain. Allow me to   introduce myself...",65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+247,TROI,"   I am Captain Bryce Shumar, of the   Federation Starship Essex.",65   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+248,PICARD,       The Starship Essex vanished over   two hundred years ago...,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+249,TROI,   Indeed. I know. I was there.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+250,TROI,       This is my First Officer...   Commander Steven Mullen.       And my Security Chief...   Lieutenant Morgan Kelly.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+251,PICARD,   You're telling me that you've   survived this long as...    (searching for the right     word),68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+252,TROI,"   Spirits? Ghosts? But you are   a man who would never believe in   ghosts, Picard. Isn't that true?",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+253,TROI,"   You see, I know you. Troi knows   you. And so I do, as well.",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+254,PICARD,   Then Counselor Troi is still...   alive?,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+255,TROI,"   Yes, of course she is, and I have   no wish to harm her. Or to harm   anyone else.",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+256,PICARD,   I'm pleased to hear that.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+257,TROI,"   We have been forced to take this   action because we need your help,   Captain.",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+258,PICARD,   My help... ?,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+259,TROI,   Our consciousness has been trapped   on this moon for two centuries...   we must escape this torture...,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+260,PICARD,   How did this happen to you?,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+261,TROI,"   I cannot explain how it occurred,   only that it did.       The Essex was caught in an   electromagnetic storm just as your   shuttle was. Moments before we   crashed, the bridge was struck   by lightning. The ship was ripped   apart. Somehow, in that instant,   our consciousness was absorbed   in the magnetic currents on the   surface.",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+262,PICARD,"   Why didn't you tell us this? Why   the deception, the violence?",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+263,TROI,"   As I said, Captain. I knew you   wouldn't believe us. Even now,   I'm sure you do not.",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+264,PICARD,       What was your vessel designation   and complement?,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+265,TROI,       NCC One-seven-three... Daedalus   class starship. Crew of two   hundred twenty-nine.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+266,PICARD,   Under whose command in this   sector?,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+267,TROI,"       Admiral Uttan Narsu, Starbase   Twelve. You will find all of this   in Starfleet records...",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+268,PICARD,   I do not need to see the records.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+269,TROI,   Then you know I am correct.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+270,PICARD,   End this now and I will do   whatever I can to help you...,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+271,TROI,       No. You do not trust me. And   I cannot risk trusting you.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+272,DATA,   It is taking too long. We   sh-should have been there by   now...,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+273,DATA,   He is manipulating you...,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+274,TROI,   Captain Picard has every right   to be curious...,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+275,DATA,   He will try to delay until a   rescue attempt is possible.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+276,TROI,   I know that. But I also know that   he will make every effort to   protect the lives of his crew.,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+277,TROI,"       Since our demands are not   excessive, I hope you will see   it is simpler to accede than to   risk further injuries.",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+278,PICARD,   What do you want?,68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+279,TROI,"   All you need to know for now,   Captain, is that we want to rest.   Simply, finally... to rest.",68   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+280,GEORDI,       ... Section Two - B... A... Section   One...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+281,RO,       Finally. I hope I never see   this part of the Enterprise   again...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+282,GEORDI,"       I hear you. This is what starship   designers call ""easy access""...",69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+283,GEORDI,       This is it. I thought we might   have a problem with conduit two-   twenty-seven -- but it looks like   we can get by it...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+284,RO,   We're through...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+285,GEORDI,   Let's hook up the scanner and see   what we've got...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+286,RO,   Got it...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+287,RO ,   All three of them have to be in   the circle if it's going to   work...,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+288,GEORDI,   We're halfway home...       La Forge to Crusher. How's it   going?,69   INT. CRAWL SPACE (OPTICAL),CRAWL SPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+289,BEVERLY,"   I think I've come up with an   idea for a containment field.   This anionic energy seems to   be vulnerable to the same magnetic   flux density we monitored in the   storms. If I can duplicate   that, we can trap it once it's   out of our people.",72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+290,GEORDI,   You ought to be able to do it   by pumping Ten Forward full of   ionogenic particles.,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+291,BEVERLY,   Exactly what I was thinking...,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+292,RIKER,   How long will it take to get it   all ready?,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+293,GEORDI,"   We still have to calibrate the   plasma invertor, Commander... I'm   guessing forty-five minutes to   an hour...",72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+294,BEVERLY,   I'll have the containment field   ready by then.,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+295,RIKER,   Keep me advised.,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+296,PICARD,"   Impressions, Mister Worf?",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+297,WORF,"   Spiritual possessions of this sort   have been reported throughout   Klingon history. It is called   ""Jat'yIn"" -- the taking of the   living by the dead.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+298,PICARD,"   Yes, Human history is also full   of similar legends.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+299,WORF,"   Then, you believe they may be   telling the truth?",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+300,PICARD,   Not for a moment.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+301,WORF,"   Sir, they seem to know much about   the Essex... if it really is the   spirit of Captain Shumar...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+302,PICARD,"       ... then he should be on much   better behavior, don't you   think... ? A Starfleet Captain?",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+303,WORF,"   After living disembodied for two   centuries, perhaps they have gone   mad...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+304,PICARD,"   Mister Worf, I assure you these   are not Jat'yIn. Our job is to   find out what they are... and    then to determine how to deal    with them...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+305,DATA,   Stop speaking!,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+306,O'BRIEN,   I gave you that...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+307,O'BRIEN,   In a place called McKinley Park.   Green grass... tall trees.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+308,KEIKO,   Please... don't...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+309,O'BRIEN,   I hid the bracelet... in your   pocket. You were... surprised.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+310,KEIKO,   ...please...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+311,O'BRIEN,"   You said, ""You make me so happy,   Miles.""",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+312,KEIKO,   Get away from me.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+313,KEIKO,       Get away.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+314,TROI,       Leave her alone.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+315,PICARD,   Captain Shumar...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+316,PICARD,   We will reach the polar position   you requested in minutes... I will   need to give additional   instructions...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+317,TROI,    (takes a beat to     consider)   Very well. We are taking you to   our crash site...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+318,PICARD,       At the southern pole... ?,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+319,TROI,   That is correct.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+320,PICARD,       Nothing our sensors were able to   detect indicated that the Essex   went down in the polar region...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+321,DATA,"       Well, it d-did.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+322,TROI,"       I told you, Captain... the ship   broke apart in the atmosphere.   The bridge went down here.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+323,TROI,"   When we reach it, you are going   to beam what's left of our   skeletal remains aboard this   ship... and take them back to   Earth for a proper burial.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+324,TROI,   See how simple a request it is... ?,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+325,PICARD,   Let these people go... and I   will order the bridge to follow   your instructions.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+326,TROI,       No. No one will be released.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+327,PICARD,"   If you are who you say you are,   there is no need for any of   this... we will gladly take you   home.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+328,TROI,"       I wish you were truly so   open-minded, Picard...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+329,PICARD,"   If you do not release the   hostages, I will not cooperate.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+330,DATA,"   You will cooperate... you will   c-cooperate... or someone will   die, Captain... who will it   be... ?",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+331,DATA,   How about the Klingon?,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+332,DATA,       Get another one.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+333,O'BRIEN,       You.,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+334,KEIKO,   No... please...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+335,DATA,"   Pick one to die, Captain. Or I   will kill them both...",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+336,WORF,"   Choose me, Captain.",75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+337,RO ,   They're all in range. I need   to do it now...,75   INT. TEN FORWARD ON PICARD AND WORF,TEN FORWARD ON PICARD AND WORF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+338,GEORDI,   I'm only gonna be able to shut   down the forcefield for about   seven seconds before the computer   compensates...,78   ANGLE - INT. CRAWLSPACE,CRAWLSPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+339,RO,"   If they're the right seven   seconds, it'll be enough...",78   ANGLE - INT. CRAWLSPACE,CRAWLSPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+340,GEORDI,"   Bridge, stand by to release the   ionogenic field on my signal...",78   ANGLE - INT. CRAWLSPACE,CRAWLSPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+341,RIKER,   Standing by...,78A  INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+342,GEORDI,       Ready...,78B  INT. CRAWLSPACE,CRAWLSPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+343,RO,   Kill the forcefield!,78B  INT. CRAWLSPACE,CRAWLSPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+344,GEORDI,   Forcefield down...,78B  INT. CRAWLSPACE,CRAWLSPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+345,RO,   Firing plasma charge...,78B  INT. CRAWLSPACE,CRAWLSPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+346,RO,   Damn... !,80A  INT. CRAWLSPACE,CRAWLSPACE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+347,DATA,"   Tell them to stop, or I'll kill   everyone in this room! Starting   with you.",80B  INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+348,PICARD,   Picard to bridge. Abort   immediately.,80B  INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+349,RIKER,"   As you say, Captain...       Riker to La Forge, return to the   bridge.",81   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+350,TROI,   Are you prepared to cooperate?,83   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+351,PICARD,       Yes.,83   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+352,RIKER ,"   First officer's log, supplemental.   The Enterprise has moved into a   synchronous orbit near the   southern polar region. We await   further instructions from Ten   Forward.",84   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
+353,RIKER,   Any sign of the Essex?,85   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+354,GEORDI,"   Negative, Commander. The   electromagnetic disturbances   are even worse here... scanners   can't read a thing...",85   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+355,RIKER,   Bridge to Ten Forward.,85   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+356,RIKER,   Intense storm activity over the   southern pole is making it   virtually impossible for us to   pick up any trace of the Essex...,86   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+357,TROI,   We're giving you the exact   coordinates of our remains   aboard the wreck of the Essex...,86   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+358,GEORDI,   I'm receiving the coordinates   now...,87   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+359,RIKER,"       Geordi, can you tell what's there?",87   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+360,GEORDI,       Just your basic ionic cyclone.   I can't read a thing.,87   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+361,RIKER,   I'm sure as hell not going to just   beam up whatever might be down   there...,87   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+362,GEORDI,   I've got a good excuse for you.   The transporters aren't going to   work any better than the   scanners...,87   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+363,RIKER,   Bridge to Ten Forward... the same   interference that is blocking our   scanners would prevent us from   using the transporters...,87   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+364,O'BRIEN,   They're lying...,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+365,PICARD,"   On the contrary, we've had a   difficult time with transport   since our arrival... that's why   we had to send down the shuttle.   You should all be well aware of   that fact.",88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+366,DATA,   We must be able to use the   transporters...,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+367,PICARD,"   In fact, Chief O'Brien was the   one who successfully executed the   return of the away team... he is   the most qualified on board to   operate the transporter under   these circumstances...",88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+368,TROI,   Can you do it from here?,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+369,O'BRIEN,   No... I would have to use a   transporter pad.,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+370,PICARD,       I would be willing to grant you   safe passage to the transporter   pad in one of the cargo bays...,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+371,DATA,   It is a trick... he is trying to   divide us...,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+372,TROI,       We must not be separated.,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+373,PICARD,   I offer to grant you all safe   passage.,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+374,DATA,   Why are you b-being so helpful   suddenly?,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+375,PICARD,"   Because I assume if you go to the   cargo bay, you will choose not   to take all of the hostages.   Their safety is my primary   concern.",88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+376,TROI,       What are the risks when we leave   this room?,88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+377,DATA,"   Without the p-protection of the   forcefield, we are vulnerable in   a number of ways...",88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+378,O'BRIEN,"   They could use the transporter   against us... Once the   forcefield's down, they could   beam us back to the surface.    (beat, as he gets an     idea)   But there is a way to neutralize   that threat...       Bridge, transfer all transporter   functions to Ten Forward...",88   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+379,RIKER,"   Ten Forward, in order to do that,   you'll have to release your   computer control lock-outs...",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+380,O'BRIEN,       That is not true...,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+381,PICARD,   Let me speak to him.,89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+382,PICARD,"   Number One, I think we have an   opportunity to end this seige...",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+383,PICARD,"       But it will require cooperation   from all concerned. Our guests   will be moving shortly to cargo   bay four, where the transport will   occur. You are to ensure their   safe passage from Ten Forward to   the cargo bay.",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+384,RIKER,"   Understood, Captain.       Mister La Forge, Doctor...",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+385,GEORDI,"   Aye, sir...",89   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+386,O'BRIEN,   Transporter controls are being   transferred...,90   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+387,O'BRIEN,   Ten Forward to bridge. I said all   transporter controls. Including   those aboard all your   shuttlecraft.,90   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+388,RIKER,"       Almost had them, Ensign... nice   try...       Ten Forward. Our mistake.   Remaining transporter functions   are being transferred to you...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+389,O'BRIEN,"   By creating our own access code,   we will be able to prevent anyone   from using the transporter against   us as we move to the cargo bay...",92   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+390,DATA,   What about their weapons?,92   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+391,TROI,"   We will each take a hostage for   protection... Captain Picard, you   are mine.",92   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+392,KEIKO,   Please... let her stay...,92   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+393,TROI,       Lower the forcefield.,92   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+394,RIKER,"   Security teams, stand by.",93   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+395,ENSIGN RO,   They're heading through section   five...,93   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+396,RIKER,"   Mister La Forge, Doctor --   they'll be at their destination   in less than a minute...",95   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+397,ENSIGN RO,"   They've stopped at deck eighteen,   sir...",95   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+398,RIKER,"       Security, allow them access into   cargo bay four...",95   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+399,O'BRIEN,       I will require some assistance.,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+400,PICARD,"   Captain Shumar, may I ask a   foolish question?",96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+401,TROI,"   You are not one to ask foolish   questions, Picard...",96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+402,PICARD,"   Nevertheless, I must ask how you   intend to achieve your ""rest""...   when all is said and done...",96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+403,TROI,   What do you mean?,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+404,PICARD,   How do you intend to free yourself   of this existence that has   trapped your consciousness?,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+405,TROI,   It will fade as we move further   from this planet...,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+406,PICARD,   Really? What is your scientific   basis for that?,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+407,TROI,       I don't need a scientific basis.   Just be quiet.,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+408,PICARD,   Perhaps you will be required to   perform a noble deed before you   can rest.,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+409,TROI,   What are you talking about?,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+410,PICARD,"   Surely you recall the old story   of ""The Canterville Ghost""...",96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+411,TROI,"   Do not insult me with foolish   ghost stories, Picard...",96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+412,PICARD,   I would ask the same of you.       When are you going to tell me   who you really are?,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+413,O'BRIEN,   I have initialized the   transporter signal...,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+414,TROI,    (still staring at     Picard)   Proceed.,96   INT. CARGO BAY,CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+415,RO,"   They're powering up the   transporter, Commander...",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+416,RIKER,   Mister LaForge...,97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+417,GEORDI,"   I've isolated cargo bay four with   a neutrino field, sir... But it   won't take O'Brien and Data more   than a couple of minutes to override   it once they discover it's   there...",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+418,RIKER,   I hope that'll be enough time   for the captain to play his   hand...,97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+419,RO,   You know what he's going to do?,97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+420,RIKER,"   There's only one reason he   chose cargo bay four...       If it becomes necessary, Ensign,   you will blow the cargo bay hatch   on my orders.",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+421,RO,"   Aye, sir.",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+422,TROI,"   You're quite right, Picard.   We're not ghosts. And it is not   rest, we seek. Only escape.",98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+423,PICARD,   Escape?,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+424,TROI,   We were brought to this moon over   five centuries ago from a star   system called Ux-Mal... We were   separated from our bodies and left   to drift in the storms. Once   we almost escaped... on board   the Essex... but that ship was   incapable of eluding the moon's   electromagnetic currents...,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+425,PICARD,   Did you really think using their   identities would gain our   sympathy... ?,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+426,TROI,   It was a better approach than   asking you to allow hundreds of   condemned prisoners on board...,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+427,PICARD,"   Then, this moon is a penal   colony...",98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+428,TROI,   That is correct. But now   we have your ship... and your   bodies to carry us home...,98   INT. CARGO BAY - WIDE (OPTICAL),CARGO BAY - WIDE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+429,RO,   I'm reading dozens of them...   hundreds...,102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+430,BEVERLY,   They have the same anionic   signature we saw on the biofilter   scans...,102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+431,RIKER,"       I think we can give the captain   a new bargaining chip. Doctor   Crusher, flood the cargo bay with   your containment field...",102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+432,TROI,"   Let them go, or you will all die.",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+433,PICARD,   Your threats are meaningless now.,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+434,O'BRIEN,   We are still in control of these   three bodies. We will not leave   them.,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+435,PICARD,   Are you prepared to sacrifice the   lives of the others? Because they   will all die when the hatch to   the cargo bay is blown...,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+436,DATA,       You will die too...,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+437,KEIKO,   I would die to save the life of   my child.,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+438,WORF,   To die defending his ship is the   hope of every Klingon.,103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+439,PICARD,"   And if you each know the officers   you inhabit, you know they are   equally ready to give their lives   for this ship.       Free them now... And I will return   you to the moon's surface.",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+440,TROI,"   I advise you, Picard, not to pass   our way again.",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+441,PICARD,"       Picard to bridge, our guests will   be leaving shortly... I need an   emergency medical team here...",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+442,BEVERLY,"   On our way, Captain.",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+443,PICARD,"   Mister Worf, transport these...   prisoners... back to the moon's   surface...",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+444,WORF,"   Gladly, sir...",103  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+445,TROI,   It was almost as though my own   consciousness were pushed to the   side... I was watching it all   happen... hearing my own voice...   but I couldn't control any of   it...,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+446,PICARD,   What about the entity that   controlled you... what were your   perceptions of him?,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+447,TROI,"   He was intelligent, actually.   Thoughtful... in a ruthless   sort of way. Cold.",106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+448,DATA,"   I must apologize for my   inadvertant misconduct toward you,   Lieutenant.",106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+449,WORF,   There is no need to apologize.,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+450,DATA,   Your restraint was most remarkable   for a Klingon.,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+451,WORF,       You have no idea.,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+452,BEVERLY,   How do you feel?,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+453,O'BRIEN,   Hungry.,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+454,BEVERLY,   Good sign.,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+455,O'BRIEN,   How do you feel?,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+456,KEIKO,   I'm just glad to have you back.,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+457,O'BRIEN,   If I could've killed that thing   inside me... I would have...,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+458,KEIKO,   I know.,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+459,KEIKO,       We both know.,106A INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt

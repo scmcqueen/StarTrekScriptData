@@ -1,368 +1,368 @@
-,character,quote,scene,location,view,episode,date,series
-0,PICARD ,"   Captain's log, Stardate 43510.7.   The Enterprise has put in at Rutia   Four to deliver medical supplies   following an outbreak of violent   protests.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-1,PICARD ,"   Although non-aligned, the planet   has enjoyed a long trading   relationship with the Federation.",2    EXT. PLAZA - DAY - ESTABLISHING,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-2,BEVERLY,   We've still got a few minutes   before our next meeting...,2    EXT. PLAZA - DAY - ESTABLISHING,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-3,BEVERLY,   Excuse me --,2    EXT. PLAZA - DAY - ESTABLISHING,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-4,WORF,   Doctor...,3    INT. INDOOR/OUTDOOR CAFE,INDOOR/OUTDOOR CAFE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-5,BEVERLY,   Put that thing away. I'm a   doctor.,4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-6,BEVERLY,   Just lie still... don't try to   move...,4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-7,BEVERLY,"   Lieutenant, I need bandages...   Disinfectant... something with   alcohol in it ...",4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-8,WORF,"   Doctor, it is not safe...",4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-9,BEVERLY,"   That's an order, Mister Worf...",4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-10,BEVERLY,"   There's a lot of bleeding, but   it's not as bad as it looks.   Don't be afraid.",4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-11,POLICEMAN,   The Klingon is right. These   Ansata... they're madmen... there   could be another bomb.       Clear this area. Everyone out   of the plaza.,4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-12,DATA,"   Doctor, a return to the Enterprise   would be prudent.",4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-13,DATA,   This planet does have   physicians...,4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-14,BEVERLY,   Who aren't here yet. I am.,4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-15,BEVERLY,   Thank you.,4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-16,WAITER,"   Not at all, Doctor.",4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-17,DATA,"   Captain, there has been an   incident.",4    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-18,DATA,       ... A bomb has been detonated by   the Ansata terrorists.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-19,PICARD,   Your security status?,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-20,DATA,"   Vulnerable, sir.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-21,PICARD,"   Transporter Room Three, lock onto   the away team, prepare to beam   them back...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-22,ENGINEER,"   Yes, Captain.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-23,DATA,"   Sir, I recommended such a course,   but there are several wounded   people and Doctor Crusher...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-24,PICARD,"       Yes, I understand. Picard to   Doctor Crusher...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-25,BEVERLY,   Go ahead.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-26,PICARD,   I've been advised of your   situation by Mister Data.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-27,BEVERLY,   I already know what you're going   to say.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-28,PICARD,"       Doctor, will you at least allow   me to...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-29,BEVERLY,"   The longer we argue, the   longer...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-30,PICARD,   You are endangering yourself and   the away team...,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-31,BEVERLY,"   Captain, right now, I'm trying   to pull a life back into a wounded   body with brandy and sleight of   hand. I'm not going anywhere...   Data and Worf don't have to stay.   Crusher out.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-32,PICARD,"   Transporter Room, do you have lock   on the away team?",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-33,ENGINEER,"   Aye, sir. Shall I transport them?",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-34,RIKER,   I wouldn't want to be in the   Transporter Room to greet her.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-35,PICARD,       Picard to Data. Hold your   position until the Rutian medics   arrive.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-36,DATA,"   Aye, Captain.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-37,WORF,   The tricorder is not reading any   other explosive devices in this   vicinity...,9    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-38,BEVERLY,   You don't understand... I'm a   doc...,9    EXT. PLAZA,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-39,DATA,   A transporter would leave   residual ionization in the air...   but the tricorder readings found   no trace after the incident...,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-40,RIKER,   People don't just appear and   disappear... there has to be some   way to track her...,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-41,DATA,   We have been unable to detect the   signal from her communicator.   It has either been deactivated or   she is being held in a shielded   location.,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-42,PICARD,   Why... her?,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-43,WORF,"   Sir, I believe she was the   intended target of the abduction.",20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-44,RIKER,   Why would they want a Federation   hostage? Their fight doesn't   involve us.,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-45,WORF,   It does now.,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-46,FINN,   Are you hungry? Do you want   something to eat?,21   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-47,FINN,   I doesn't matter to me. You   want to be hungry? Be hungry.,21   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-48,FINN,   What's your name?,21   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-49,FINN,   You're a doctor on a Federation   starship?       I always wondered what it would   be like to travel across the   galaxy.     ,21   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-50,FINN ,       It's not something I've exactly   had time for.,21   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-51,FINN,"   This isn't the best way to meet   new people, is it?",21   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-52,FINN,"   If you want something, just ask   for me -- Kyril Finn.       They know me.",21   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-53,TROI,   We have no reason to believe she's   been hurt in any way...,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-54,PICARD,"   In fact, it's more likely that   they will take good care of her...   if they want to use her as a   bargaining chip.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-55,WESLEY,       A bargaining chip?,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-56,TROI,"   The innocent become the pawns in   a conflict like this, Wesley.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-57,PICARD,"   The Ansata separatists have been   trying for generations to be freed   from the rule of the Eastern   Continent. If they can get the   government to even acknowledge   their demands, then kidnapping   your mother will have served a   purpose.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-58,PICARD,"       That may be what they are after.   It may not. Frankly, I don't   care. All I care about is getting   her back, Wesley... In a few   minutes, we're leaving to meet   with the authorities...",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-59,WESLEY,"       Request permission to be on the   away team, sir.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-60,PICARD,"   No. You have an important job   to do here. If we are to find   your mother, we must have a way   to trace the movements of these   terrorists. I want you on the   team that will investigate this   new technology of theirs.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-61,WESLEY,   I understand.,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-62,PICARD,   Report to Mister Data. Dismissed.,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-63,TROI,   He needs your strength right now.,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-64,PICARD,"       History has shown us that strength   may be useless in the face of   terrorism, Counselor.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,"""The High Ground""",1989-11-03,The Next Generation
-65,PICARD,   What exactly is Ansata policy in   regard to hostages?,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-66,ALEXANA,   I doubt they have one. They don't   usually take hostages.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-67,ALEXANA,"   These aren't people we're dealing   with here. They're animals...       Fanatics, who kill without remorse   or conscience... who think nothing   of murdering innocent people.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-68,PICARD,   They could just as easily have   shot her where she stood...,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-69,ALEXANA,       Don't ask me to explain them.   I can't. The atrocities I've   seen...,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-70,ALEXANA,   And now they have this new device   that makes them even more deadly.   How do I combat an enemy who fails   to register on any scanner until   they're literally standing in   front of you with a phaser pointed   at your head?,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-71,RIKER,   What can you tell us about this   device?,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-72,ALEXANA,"   Not much, really.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-73,ALEXANA ,   They first started using it two   months ago. We've taken several   of these off dead terrorists.   Our people have looked at them...   Nothing they can explain...,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-74,RIKER,   You mind if we take this with   us... give our people a chance   to study it?,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-75,ALEXANA,"   Not at all. And I'll put you in   touch with our research people, if   you wish.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-76,PICARD,   I appreciate your help.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-77,ALEXANA,       Perhaps if we found ourselves in   possession of some of that   advanced Federation weaponry of   yours it would shift the balance   of power back to our favor.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-78,PICARD,   That we cannot do for you.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-79,ALEXANA,"       No, of course not.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-80,PICARD,   I would like to leave Commander   Riker to assist in your search   for Doctor Crusher.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-81,ALEXANA,       If you like...,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-82,RIKER,   You don't sound very optimistic.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-83,ALEXANA,"   I know my enemy, Commander...   They don't leave much room for   optimism.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-84,FINN,   Are you hungry? Do you want   something to eat?,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-85,FINN,"   Relax, I'm just going to...",24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-86,FINN,"   Come on. Eat something. What's   the point of not eating? You're   the only one who suffers. Do I   look like it's bothering me?   Okay, it's bothering me.",24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-87,FINN,   No forks. Sorry.,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-88,FINN,   Did I mention my name is Finn?   And you're... ?,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-89,BEVERLY,   Why have you brought me here?,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-90,FINN,   I need a doctor.,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-91,BEVERLY,   There are doctors on Rutia.,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-92,FINN,   I need someone better... I heard   you were here from the Federation   flagship and I knew you had to   be...,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-93,BEVERLY,   How did you know that?,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-94,FINN,   I heard.       Now you'll help me. Just like   you help them...,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-95,BEVERLY,   What are you talking about?,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-96,FINN,       Your ship carries medical   supplies for them... for the other   side... why does the Federation   ally itself with the Rutians...,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-97,BEVERLY,   We didn't... all we did was to   bring...,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-98,FINN,   Medical supplies...,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-99,BEVERLY,   People were hurt...,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-100,FINN,   I know. I hurt them.,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-101,FINN,   You're finished eating. Get up.,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-102,FINN,   Get up.,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-103,BEVERLY,   I have... a son.,24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-104,FINN,"   You'll be with him again, Doctor.   I see no reason to kill you.",24   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-105,BEVERLY,   I need instruments from my ship   to diagnose something like this...,25   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-106,FINN,"       You think if I allowed you to call   your ship, they would transport   your instruments... ?",25   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-107,BEVERLY,"   When I inform the captain how   serious the situation is, I'm sure   he'll agree. I've told you, Finn,   the Federation is not allied with   Rutians... we came on an errand   of mercy...",25   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-108,FINN,"       And since the Federation does not   wish to take sides, he will send   you the medical supplies we need.",25   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-109,BEVERLY,   Absolutely.,25   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-110,FINN,   I anticipated your needs.,25   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-111,BEVERLY,   These are Federation supplies...   we just delivered them to the   medical dispensary this morning...,25   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-112,FINN,       I heard.,25   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-113,RIKER,   You're telling me all these people   belong to the Ansata?,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-114,ALEXANA,   Not really. We suspect the   organization itself only consists   of some two hundred members. There   are over five thousand names on   this list. Citizens we know to   be sympathetic to their cause.   They pass along weaponry and   information. March in pro-Ansata   demonstrations... participate in   general strikes.. or the   occasional riot.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-115,RIKER,   How did all of this ever get   started?,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-116,ALEXANA,   We denied them independence.   That gave them a noble cause...   seventy years ago.       And now it's just an excuse for   more violence.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-117,RIKER,   You hate them as much as they hate   you.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-118,ALEXANA,   Believe it or not I always   considered myself moderate.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-119,RIKER,   What changed your mind?,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-120,ALEXANA,"    (shrugging, take your     pick)   Being stationed here the last six   months. Watching the body count   grow. The three assassination   attempts on my life.",26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-121,RIKER,   I can see where that could affect   your point of view.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-122,ALEXANA,   But I guess the event that really   opened my eyes took place only   a few days after my arrival. A   terrorist bomb destroyed a   shuttlebus... sixty school   children. There were no   survivors.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-123,ALEXANA,   The Ansata claimed it was a   mistake. That their intended   target was a police transport.   As if that made everything all   right.       That day I vowed to put an end   to terrorism in this city. And   I will.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-124,BEVERLY,       Thank you. You're very helpful...   you could learn to do this when   you grow up...       ... if you grow up.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-125,BEVERLY,   They're dying.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-126,BEVERLY,   I'm seeing a complicated set of   conditions... their DNA is warped   somehow; it's disrupting their   entire cellular chemistry...,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-127,FINN,   You can't do anything?,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-128,BEVERLY,   I can make them more comfortable.   That's all. The damage is too   extensive.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-129,BEVERLY,   If I could detect the condition   earlier...,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-130,FINN,   ... you would be able to reverse   the damage?,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-131,BEVERLY,   Perhaps. I don't know.       What happened to them...,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-132,FINN,   It's the inverter.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-133,FINN,       It has given our cause a new life.   But asks for our lives in return.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-134,BEVERLY,   What does it do?,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-135,FINN,   We transport through a dimensional   shift that the Rutian sensors   can't trace.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-136,BEVERLY,   Dimensional shifting? You can't   do that with humanoid tissue.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-137,FINN,   There are risks... the designers   warned us... but it works.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-138,BEVERLY,   You're showing the same distorted   readings. Not as severe as the   others but --,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-139,FINN,       Doesn't matter.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-140,BEVERLY,   It does if it kills you.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-141,FINN,       Don't you know? A dead martyr's   worth ten posturing leaders.,27   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-142,DATA,   A subspace field coil with an   isolated power source...   curious...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-143,WESLEY,   How could something this small   manage to get them anywhere?,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-144,GEORDI,"   Hey, guys... look at this...",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-145,GEORDI,   The Rutian team picked up a faint   nuclear vibration during the   terrorist movements...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-146,WESLEY,       Nuclear vibration...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-147,DATA,   That could possibly indicate   subspace transition rebound during   transport...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-148,WESLEY,"       Wait a minute... computer, call   up files on... what was it   called...    (excited, to Data and     Geordi)   We spent an hour on it in my   astral physics course last year...   folded space transport...",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-149,GEORDI,       Alternate dimensions...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-150,DATA,   Are you referring to the Elway   Theorem?,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-151,WESLEY,"   Yes... computer, files on the   Elway Theorem... what if they're   moving inter-dimensionally?",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-152,DATA,   But the Elway Theorem proved to   be entirely inaccurate... all   research was abandoned by the mid-   twenty-third century...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-153,WESLEY,"   Data, look at it... the faint   nuclear vibration is consistent...   and Elway used an isolated field   coil just like this one.",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-154,GEORDI,   It would be untraceable by any   standard sensing device.,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-155,DATA,   But it was proven to be fatal.   To use this technology would be   an irrational act.,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-156,PICARD,"   We may well be dealing with   irrational people, Data. Is there   a way to trace this... ?",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-157,GEORDI,"    (checking with his     colleagues)   With an adaptive subspace   echogram, maybe... ?",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-158,DATA,"   If anyone is willing to transport   in this manner, Captain, they   would suffer significant internal   damage which could be detected.",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-159,PICARD,       And it sounds as though they might   require the services of... a   doctor.,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-160,RIKER,   This is no way to live.,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-161,ALEXANA,   For us or them?,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-162,RIKER,   For both of you.,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-163,ALEXANA,"   I know it's not pretty, Riker.   But this is what terrorism has   done to this city.",30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-164,RIKER,   There must be a better way than   this to deal with it.,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-165,ALEXANA,"   I know my methods seem harsh but   believe me, they're gentle   compared to my predecessors.   Suspects would be brought into   police headquarters and...   mysteriously vanish. I put a stop   to that.",30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-166,RIKER,   And what happened to this   predecessor of yours?,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-167,ALEXANA,   He was murdered.,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-168,RIKER,   Are you going to tell me that   boy's a threat?,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-169,ALEXANA,   It's possible.       That shuttlebus I told you   about... the bomb was set by a   teenager.,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-170,ALEXANA,   And in a world where children blow   up children... everyone's a   threat.,30   EXT. PLAZA - DAY,PLAZA,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-171,BEVERLY,"   You should be drawing, not   killing people.",35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-172,FINN,   I can do both.,35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-173,BEVERLY,   How can you have such a casual   attitude toward killing?,35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-174,FINN,"       I take my killing very seriously,   Doctor.",35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-175,FINN,       You are an idealist...,35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-176,BEVERLY,   I live in an ideal culture...   there is no need for your kind   of violence... we've proven that.,35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-177,FINN,"   Your origins on Earth are from   the American continent, are they   not?",35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-178,BEVERLY,   North America.,35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-179,FINN,   I have read your history books.   This is a war for independence.   I am no different than your own   George Washington...,35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-180,BEVERLY,   Washington was a military general.   He was not a terrorist.,35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-181,FINN,"   Doctor, the difference between   a general and terrorist is only   the difference between winners   and losers. You win, you're   called a general. You lose...",35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-182,BEVERLY,"   You are killing innocent people...   Can't you see the immorality of   what you're doing... or have you   killed so often, you've become   blind to it?",35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-183,FINN,"   How much innocent blood has been   spilled for the cause of freedom   in the history of your Federation,   Doctor? How many good and noble   societies have bombed civilians   in war? Wiped out whole cities.   And now that you enjoy the comfort   that has come from their battles,   their killing... you frown on my   immorality... ? Doctor, I am   willing to die for my freedom.   And, in the finest tradition of   your own great civilization, I'm   willing to kill for it too.",35   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-184,ALEXANA,       All right you can go.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-185,ALEXANA,"   If you want, I could become more   persuasive.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-186,RIKER,   No.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-187,ALEXANA,"   You're Katik Shaw, the waiter from   the Lumar Cafe.       You witnessed both the explosion   and the kidnapping.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-188,KATIK,   I saw nothing.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-189,ALEXANA,   We are aware of your ties with   the Ansata... For all we know   you planted the bomb yourself...   Where have they taken her?,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-190,KATIK,   I don't know what you're talking   about.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-191,RIKER,   I've had enough of this.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-192,RIKER,       I want you to take a message back   to your people. Tell them the   Federation is willing to negotiate   for the release of Doctor Crusher.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-193,ALEXANA,   Riker... !,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-194,RIKER,   She's a Starfleet officer. That   makes her my responsibility.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-195,RIKER,"       Your side has demands, we're   willing to listen to them. We   want her back. It's as simple   as that.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-196,RIKER,       I don't think it's necessary to   detain this gentleman any longer.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-197,ALEXANA,       Get out.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-198,ALEXANA,"   I should have him followed, but   we'll try it your way.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-199,RIKER,   Is that what you want?,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-200,ALEXANA,"   What I want is to go home. Back   to my own country. To leave   behind the roundups, the   interrogations, the bodies lying   in the street. To be able to walk   without bodyguards, and not have   to jump at every unexpected noise.   That's what I want Riker.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-201,DATA,"   The dimensional jump creates a   subspace pressure modulation,   Captain. By setting up a   magnetosphere faint echogram that   can monitor each of their   movements, we may be able to   collect enough data to trace their   power source.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-202,PICARD,   Can you estimate the number of   jumps it will take?,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-203,DATA,   Dimensional shifting is such an   unstable procedure that I cannot   say.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-204,DATA,"   Captain, I am finding it difficult   to understand many aspects of   Ansata conduct. Much of their   behavioral norm would be defined   by my program as unnecessary and   unacceptable.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-205,PICARD,"   And by my... ""program"" as well,   Data.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-206,DATA,"   But, if that is so, Captain, why   are their methods often   successful?     ",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-207,DATA ,       I have been reviewing the history   of armed rebellion and it appears   that terrorism is an effective   way to promote political change.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-208,PICARD,"   I have never subscribed to the   theory that political power flows   from the barrel of a gun, Data...",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-209,DATA,"   In most instances, you would be   correct. But there are numerous   examples where it was   successful... the independence   of the Mexican State from Spain,   the Irish Unification of 2024,   the Kenzie Rebellion...",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-210,PICARD,"   Yes, I'm aware of them...",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-211,DATA,"   Then, would it be accurate to say   that terrorism is acceptable when   the options for peaceful   settlement have been foreclosed?",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-212,PICARD,"   Data, we cannot condone violence.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-213,DATA,   Even in response to violence?,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-214,PICARD,"   These are questions that mankind   has been struggling with since   creation. I am afraid your   confusion, Data... is only human.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-215,WAITER,   Everyone is being rounded up.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-216,FINN,   Because of her?,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-217,WAITER,       The Federation wants to negotiate   her release...,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-218,FINN,   ... while they arrange for the   Rutian police to fill up the   detention cells...,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-219,WAITER,       A Starfleet officer is working   with the director. He wants a   meeting with you.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-220,FINN,   I'm sure he does.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-221,FINN,   Your Federation colleagues have   engineered mass arrests to   pressure me into releasing you.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-222,BEVERLY,   I'm sure you've misunderstood...,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-223,FINN,   They are working with the police.   He's seen it with his own eyes.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-224,BEVERLY,   All they want is to get me back   safely.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-225,FINN,   I'm not going to release you.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-226,FINN,   I need you here.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-227,BEVERLY,"   To find a way to reverse the   effects of the dimensional   shift... ? I can do that right   now. Stop using it.       Finn, I have a life, a son who   needs me.",40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-228,FINN,   He is on the ship?,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-229,FINN,   I am sorry he is on the ship.,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-230,BEVERLY,   No...,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-231,FINN,       They have joined forces with the   Rutians against us...,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-232,BEVERLY,   We are not your enemy...,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-233,FINN,   They are more valuable to me than   an enemy.     ,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-234,FINN ,"   For seventy years we've been   shouting, and no one's heard us.   Destroy the Federation flagship...   someone will listen.",40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-235,BEVERLY,   Please...,40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-236,FINN,"   They are the ones who interfered.   They brought medical supplies.   They organized mass arrests. They   are killing your son, not me.",40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-237,BEVERLY,"   Please, don't do this, Finn. I'll   do anything you ask.",40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-238,FINN,"   I had a son, too. He was thirteen   when he died in detention.",40   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-239,WORF,   Intruder alert deck twelve...,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-240,WESLEY,   I've got a subspace reflection.   It's a dimensional shift...,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-241,PICARD,   Red Alert. Sound general   quarters.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-242,GEORDI,   Security to Engineering.,45   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-243,WORF,   Intruders in Engineering...,46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-244,DATA,   Casualties reported on deck   twelve. Sickbay is responding.,46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-245,PICARD,   Seal off all decks... lock on   transporters to intruder signals.,46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-246,ENGINEER,"   Intruder signals unstable,   Captain, I cannot lock on...",46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-247,DATA,"   They are moving inter-dimensionally...   neither the   transporters nor forcefields will   be able to contain them, sir.",46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,"""The High Ground""",1989-11-03,The Next Generation
-248,GEORDI,   Explosive charge on the main warp   chamber...,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-249,PICARD,"   Transporter room three, lock on   the explosive device and energize.",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-250,ENGINEER,"   It's scrambling the sensors,   Captain... I can't pinpoint it.",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-251,PICARD,"   Begin emergency evacuation...   prepare for saucer separation...   Mister La Forge, can you remove   the charge from the engine core...",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-252,GEORDI,   Stand by... I'm trying...,49   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-253,GEORDI,   They've got it locked on   somehow... hold on...,49   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-254,GEORDI,"   Got it. Transporter Room, stand   by to lock on my signal and   transport two kilometers off the   starboard nacelle.",49   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-255,TROI,       His signal... ?,50   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-256,GEORDI,"   Transporter Room, now...",51   INT. ENGINEERING,ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-257,PICARD,   Commander La Forge. Report.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-258,GEORDI,   Transport complete...,54   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-259,GEORDI,   I have a man down.,54   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""The High Ground""",1989-11-03,The Next Generation
-260,WESLEY,   More subspace reflections...,55   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-261,PICARD,   Can you calibrate their   destination?,55   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-262,WESLEY,"   No, sir, the readings are --",55   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-263,TROI,       Transporter Room. Code one   evacuation: Picard.       Transporter Room...,55   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-264,TROI,   Lieutenant Worf is recovering in   Sickbay. The wound was not   severe.,58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-265,RIKER,   Dead and injured?,58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-266,TROI,"   Three dead, four wounded.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-267,GEORDI,"   Another millisecond, and there   would have been a big dust cloud   orbiting Rutia instead of the   Enterprise.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-268,RIKER,   Why. I just asked if they would   talk...,58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-269,ALEXANA,"   You have your answer, Riker.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-270,WESLEY,"   Sir, the next time the Ansata use   the dimensional jump we should   be able to get a fix on their   power source.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-271,PICARD,   Worf went down... I don't know   if he's alive or dead... there   were other casualties...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-272,BEVERLY,   Was... Wes... on the bridge...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-273,PICARD,   Yes...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-274,PICARD,   He took cover... I didn't see any   more than that...       Are you all right?,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-275,BEVERLY,       They needed a doctor.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-276,PICARD,   Side effects of their transport?,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-277,BEVERLY,   Yes...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-278,PICARD,"   We're getting closer to tracing   their movements... actually, it   was Wesley who put us onto this   dimensional jumping of theirs...",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-279,PICARD,"   He's been extraordinary throughout   this. He'll make a fine officer,   Beverly.",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-280,BEVERLY,   He's had good role models...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-281,BEVERLY,   I'm sorry.       If I'd just returned to the   ship...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-282,PICARD,       I could have had you beamed up.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-283,BEVERLY,       You wouldn't dare.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-284,PICARD,       I would and I should have.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-285,BEVERLY,   Without my permission...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-286,PICARD,   If you won't follow orders...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-287,BEVERLY,"   If you give reasonable orders,   I'll obey reasonable orders...",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-288,PICARD,"   Doctor, I will be the judge of   reason when it comes to my   orders...",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-289,BEVERLY,   There aren't any exits to the   surface.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-290,PICARD,   Then the only way out is by   transporter or the dimensional   jump.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-291,BEVERLY,   A mode of travel I'd encourage   you to avoid. It's killing them.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-292,PICARD,   They're mad.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-293,BEVERLY,   I don't know any more. The   difference between a madman and   a committed man willing to die   for a cause... it's begun to blur   over the last couple days...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-294,PICARD,"       Beverly, I don't have to warn you   about the psychological impact   of being a hostage...",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-295,BEVERLY,"   I know. I understand that. But   their leader, Finn, he's not what   you'd expect...",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-296,PICARD,"   No, he's certainly not what I'd   expect. Without cause or reason,   his little band of outlaws has   attacked my ship...",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-297,BEVERLY,"   But he did have reasons... the   medical supplies, the arrests...   Jean-Luc, if we really examine   our role in this...",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-298,PICARD,"   Beverly, you are arguing for a   man who may have murdered your   son.",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-299,FINN,   I didn't kill your son...   Beverly.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-300,FINN,"   We were not able to destroy the   ship. We had to settle for him...       She wouldn't even tell me her   name. How many days? I call her   ""Doctor."" Are you hungry? Do you   want something to eat?",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-301,PICARD,   You've made a grave   miscalculation...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-302,FINN,   Oh?,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-303,PICARD,"   You've assaulted a Federation   starship, killed and wounded   members of her crew, kidnapped   two officers... do you not expect   a response?",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-304,FINN,"   On the contrary, I'm counting on   it.",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-305,PICARD,   You want Federation involvement?,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-306,FINN,"   Captain, there's a lot to admire   in the Federation, but there's   a hint of moral cowardice in your   dealings with non-aligned planets.   You do business with a government   that's crushing us. And then you   say you aren't involved. But of   course you are. You just don't   want to get dirty.",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-307,PICARD,   You accuse us of cowardice while you   plant bombs in shadows...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-308,FINN,"   I've been fighting the only war   I can against an intractable   enemy. Now, I'm fighting a big   war against a much more powerful   adversary. Can't you see how that   helps me?",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-309,BEVERLY,   I'm afraid I don't.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-310,PICARD,   He has added a chair to the   negotiating table.,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-311,FINN,"   You added the chair, Captain.   I am simply forcing you to sit   in it. The Federation will   quickly tire of our little war...   they will want you back... they   will want to get as far away from   Rutia as they can. And I will   not make it easy. Eventually,   the Federation will force the   government to make concessions.   And then a few more. And then a   few more.       Until we can finally reach an   honorable agreement that saves face   for all sides.       Except we win.",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-312,PICARD,   You understand I will not   cooperate in any way...,59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-313,FINN,"   You have already cooperated,   Captain... just by coming here.",59   INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-314,FINN,   I'm not here to hurt you. Just   hear what I have to say.,61   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,"""The High Ground""",1989-11-03,The Next Generation
-315,FINN,   Your people are safe. How long   they stay that way depends on you.   We demand an embargo and trade   sanctions levied against Rutia.   The Federation will blockade the   planet... allow no ships in or   out. This will continue until   the government of Rutia consents   to talks mediated by a Federation   counsel. You have twelve hours   to make your decision.,61   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,"""The High Ground""",1989-11-03,The Next Generation
-316,WESLEY,       Got it.,62   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-317,WESLEY,"   We've pinpointed the Ansata base   some three hundred kilometers from   the city, on the southern tip of   the continent.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-318,DATA,"   Sensors indicate it is located   thirty meters below ground,   implying a cave or cavern-like   dwelling.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-319,RIKER,   Any passages leading to the   surface?,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-320,DATA,"   Our readings show no evidence of   any, Commander.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-321,RIKER,   Then whatever light they have must   be artificially generated.,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-322,ALEXANA,"   If we can shut it down, you could   use the confusion to find your   people.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-323,WORF,"   Request permission to join the   rescue party, sir.       I owe it to the captain.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-324,RIKER,   Permission granted.,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-325,RIKER,   Mister Data... You have the   bridge.,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-326,WESLEY,   Commander Riker?,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-327,WESLEY,    (continuing; summing     it up for all)   Good luck.,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-328,RIKER,"   We'll bring them home, Wes.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-329,FINN,   You're glad to see your captain...,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-330,BEVERLY,   Yes.,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-331,FINN,   I may have to kill him.,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-332,FINN,   I just wanted to warn you.,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-333,BEVERLY,"   Finn, he can help you... he is   very influential...",65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-334,FINN,   He will not help us...,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-335,BEVERLY,   If you could convince him that   your cause is...,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-336,FINN,   You could convince him perhaps.   Not I.,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-337,BEVERLY,   I've talked to him. I'll...   try...,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-338,FINN,"       If our places were reversed, I   would expect to die...",65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-339,BEVERLY,       Your places would never be   reversed. He wouldn't forcibly   abduct you... or play games with   your life. He would treat you with   respect...,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-340,FINN,   I have treated you with   respect...,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-341,BEVERLY,"   You've scared the hell out of me,   Finn.       You've controlled me through   fear... just like you've tried   to control this whole continent.",65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-342,FINN,"   You haven't tasted real fear yet,   Doctor...",65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-343,BEVERLY,   Is that the best you can do? Is   fear the only weapon you have...,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-344,FINN,"       No, but it's a good one.",65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-345,BEVERLY,"   You know what scares me the most,   Finn? It scares me to think that   you might win this fight and gain   real power.",65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-346,FINN,   Doctor... I don't want you to fear   me.,65A  INT. CAVERN,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-347,PICARD,   How dangerous would another ride   through the inverter be to us?,69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-348,BEVERLY,   I'm not sure. But I don't want   you to start thinking...,69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-349,PICARD,   It is our obligation to think of   escape...,69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-350,BEVERLY,   He's prepared to kill you.,69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-351,PICARD,   A fine reason to escape...       Do you think you've gained his   confidence?,69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-352,PICARD,"   Indeed, you have... and a bit   more... this might prove to be   an advantage, Doctor...",69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-353,BEVERLY,"       Jean-Luc, there are some things...   I want to say... just in case we   don't get out of this...",69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-354,PICARD,   Have they found us... ?,69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-355,BEVERLY,   Finn...,69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-356,BEVERLY,   He's dead.,69   INT. THE ALCOVE,THE ALCOVE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-357,RIKER,   You didn't have to kill him.,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-358,ALEXANA,"   As a prisoner he would have been   a focus for violence as his   followers tried to free him.   Now, he's a martyr, but the death   toll may be lower -- at least in   the short term.       An imperfect solution for an   imperfect world.",73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-359,WORF,   Captain...,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-360,BEVERLY,   No more killing.,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-361,ALEXANA,   Already another one to take his   place... it never ends.,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-362,RIKER,       He could have killed you. He   didn't. Maybe the end begins with   one boy putting down a gun.,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,"""The High Ground""",1989-11-03,The Next Generation
-363,BEVERLY,   I hear I owe my rescue to you.,77   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-364,WESLEY,   I was just part of the team.       It's good to have you back.       Both of you. Sir.,77   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-365,PICARD,"       Take us out of orbit, Mister   Crusher.",77   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
-366,PICARD,       At your convenience.,77   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The High Ground""",1989-11-03,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,PICARD ,"   Captain's log, Stardate 43510.7.   The Enterprise has put in at Rutia   Four to deliver medical supplies   following an outbreak of violent   protests.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+1,PICARD ,"   Although non-aligned, the planet   has enjoyed a long trading   relationship with the Federation.",2    EXT. PLAZA - DAY - ESTABLISHING,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+2,BEVERLY,   We've still got a few minutes   before our next meeting...,2    EXT. PLAZA - DAY - ESTABLISHING,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+3,BEVERLY,   Excuse me --,2    EXT. PLAZA - DAY - ESTABLISHING,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+4,WORF,   Doctor...,3    INT. INDOOR/OUTDOOR CAFE,INDOOR/OUTDOOR CAFE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+5,BEVERLY,   Put that thing away. I'm a   doctor.,4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+6,BEVERLY,   Just lie still... don't try to   move...,4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+7,BEVERLY,"   Lieutenant, I need bandages...   Disinfectant... something with   alcohol in it ...",4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+8,WORF,"   Doctor, it is not safe...",4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+9,BEVERLY,"   That's an order, Mister Worf...",4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+10,BEVERLY,"   There's a lot of bleeding, but   it's not as bad as it looks.   Don't be afraid.",4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+11,POLICEMAN,   The Klingon is right. These   Ansata... they're madmen... there   could be another bomb.       Clear this area. Everyone out   of the plaza.,4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+12,DATA,"   Doctor, a return to the Enterprise   would be prudent.",4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+13,DATA,   This planet does have   physicians...,4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+14,BEVERLY,   Who aren't here yet. I am.,4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+15,BEVERLY,   Thank you.,4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+16,WAITER,"   Not at all, Doctor.",4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+17,DATA,"   Captain, there has been an   incident.",4    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+18,DATA,       ... A bomb has been detonated by   the Ansata terrorists.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+19,PICARD,   Your security status?,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+20,DATA,"   Vulnerable, sir.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+21,PICARD,"   Transporter Room Three, lock onto   the away team, prepare to beam   them back...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+22,ENGINEER,"   Yes, Captain.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+23,DATA,"   Sir, I recommended such a course,   but there are several wounded   people and Doctor Crusher...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+24,PICARD,"       Yes, I understand. Picard to   Doctor Crusher...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+25,BEVERLY,   Go ahead.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+26,PICARD,   I've been advised of your   situation by Mister Data.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+27,BEVERLY,   I already know what you're going   to say.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+28,PICARD,"       Doctor, will you at least allow   me to...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+29,BEVERLY,"   The longer we argue, the   longer...",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+30,PICARD,   You are endangering yourself and   the away team...,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+31,BEVERLY,"   Captain, right now, I'm trying   to pull a life back into a wounded   body with brandy and sleight of   hand. I'm not going anywhere...   Data and Worf don't have to stay.   Crusher out.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+32,PICARD,"   Transporter Room, do you have lock   on the away team?",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+33,ENGINEER,"   Aye, sir. Shall I transport them?",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+34,RIKER,   I wouldn't want to be in the   Transporter Room to greet her.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+35,PICARD,       Picard to Data. Hold your   position until the Rutian medics   arrive.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+36,DATA,"   Aye, Captain.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+37,WORF,   The tricorder is not reading any   other explosive devices in this   vicinity...,9    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+38,BEVERLY,   You don't understand... I'm a   doc...,9    EXT. PLAZA,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+39,DATA,   A transporter would leave   residual ionization in the air...   but the tricorder readings found   no trace after the incident...,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+40,RIKER,   People don't just appear and   disappear... there has to be some   way to track her...,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+41,DATA,   We have been unable to detect the   signal from her communicator.   It has either been deactivated or   she is being held in a shielded   location.,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+42,PICARD,   Why... her?,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+43,WORF,"   Sir, I believe she was the   intended target of the abduction.",20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+44,RIKER,   Why would they want a Federation   hostage? Their fight doesn't   involve us.,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+45,WORF,   It does now.,20   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+46,FINN,   Are you hungry? Do you want   something to eat?,21   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+47,FINN,   I doesn't matter to me. You   want to be hungry? Be hungry.,21   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+48,FINN,   What's your name?,21   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+49,FINN,   You're a doctor on a Federation   starship?       I always wondered what it would   be like to travel across the   galaxy.     ,21   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+50,FINN ,       It's not something I've exactly   had time for.,21   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+51,FINN,"   This isn't the best way to meet   new people, is it?",21   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+52,FINN,"   If you want something, just ask   for me -- Kyril Finn.       They know me.",21   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+53,TROI,   We have no reason to believe she's   been hurt in any way...,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+54,PICARD,"   In fact, it's more likely that   they will take good care of her...   if they want to use her as a   bargaining chip.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+55,WESLEY,       A bargaining chip?,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+56,TROI,"   The innocent become the pawns in   a conflict like this, Wesley.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+57,PICARD,"   The Ansata separatists have been   trying for generations to be freed   from the rule of the Eastern   Continent. If they can get the   government to even acknowledge   their demands, then kidnapping   your mother will have served a   purpose.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+58,PICARD,"       That may be what they are after.   It may not. Frankly, I don't   care. All I care about is getting   her back, Wesley... In a few   minutes, we're leaving to meet   with the authorities...",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+59,WESLEY,"       Request permission to be on the   away team, sir.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+60,PICARD,"   No. You have an important job   to do here. If we are to find   your mother, we must have a way   to trace the movements of these   terrorists. I want you on the   team that will investigate this   new technology of theirs.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+61,WESLEY,   I understand.,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+62,PICARD,   Report to Mister Data. Dismissed.,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+63,TROI,   He needs your strength right now.,22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+64,PICARD,"       History has shown us that strength   may be useless in the face of   terrorism, Counselor.",22   INT. CAPT. READY ROOM - CLOSE ON WESLEY,CAPT. READY ROOM,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+65,PICARD,   What exactly is Ansata policy in   regard to hostages?,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+66,ALEXANA,   I doubt they have one. They don't   usually take hostages.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+67,ALEXANA,"   These aren't people we're dealing   with here. They're animals...       Fanatics, who kill without remorse   or conscience... who think nothing   of murdering innocent people.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+68,PICARD,   They could just as easily have   shot her where she stood...,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+69,ALEXANA,       Don't ask me to explain them.   I can't. The atrocities I've   seen...,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+70,ALEXANA,   And now they have this new device   that makes them even more deadly.   How do I combat an enemy who fails   to register on any scanner until   they're literally standing in   front of you with a phaser pointed   at your head?,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+71,RIKER,   What can you tell us about this   device?,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+72,ALEXANA,"   Not much, really.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+73,ALEXANA ,   They first started using it two   months ago. We've taken several   of these off dead terrorists.   Our people have looked at them...   Nothing they can explain...,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+74,RIKER,   You mind if we take this with   us... give our people a chance   to study it?,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+75,ALEXANA,"   Not at all. And I'll put you in   touch with our research people, if   you wish.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+76,PICARD,   I appreciate your help.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+77,ALEXANA,       Perhaps if we found ourselves in   possession of some of that   advanced Federation weaponry of   yours it would shift the balance   of power back to our favor.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+78,PICARD,   That we cannot do for you.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+79,ALEXANA,"       No, of course not.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+80,PICARD,   I would like to leave Commander   Riker to assist in your search   for Doctor Crusher.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+81,ALEXANA,       If you like...,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+82,RIKER,   You don't sound very optimistic.,23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+83,ALEXANA,"   I know my enemy, Commander...   They don't leave much room for   optimism.",23   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+84,FINN,   Are you hungry? Do you want   something to eat?,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+85,FINN,"   Relax, I'm just going to...",24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+86,FINN,"   Come on. Eat something. What's   the point of not eating? You're   the only one who suffers. Do I   look like it's bothering me?   Okay, it's bothering me.",24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+87,FINN,   No forks. Sorry.,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+88,FINN,   Did I mention my name is Finn?   And you're... ?,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+89,BEVERLY,   Why have you brought me here?,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+90,FINN,   I need a doctor.,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+91,BEVERLY,   There are doctors on Rutia.,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+92,FINN,   I need someone better... I heard   you were here from the Federation   flagship and I knew you had to   be...,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+93,BEVERLY,   How did you know that?,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+94,FINN,   I heard.       Now you'll help me. Just like   you help them...,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+95,BEVERLY,   What are you talking about?,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+96,FINN,       Your ship carries medical   supplies for them... for the other   side... why does the Federation   ally itself with the Rutians...,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+97,BEVERLY,   We didn't... all we did was to   bring...,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+98,FINN,   Medical supplies...,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+99,BEVERLY,   People were hurt...,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+100,FINN,   I know. I hurt them.,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+101,FINN,   You're finished eating. Get up.,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+102,FINN,   Get up.,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+103,BEVERLY,   I have... a son.,24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+104,FINN,"   You'll be with him again, Doctor.   I see no reason to kill you.",24   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+105,BEVERLY,   I need instruments from my ship   to diagnose something like this...,25   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+106,FINN,"       You think if I allowed you to call   your ship, they would transport   your instruments... ?",25   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+107,BEVERLY,"   When I inform the captain how   serious the situation is, I'm sure   he'll agree. I've told you, Finn,   the Federation is not allied with   Rutians... we came on an errand   of mercy...",25   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+108,FINN,"       And since the Federation does not   wish to take sides, he will send   you the medical supplies we need.",25   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+109,BEVERLY,   Absolutely.,25   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+110,FINN,   I anticipated your needs.,25   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+111,BEVERLY,   These are Federation supplies...   we just delivered them to the   medical dispensary this morning...,25   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+112,FINN,       I heard.,25   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+113,RIKER,   You're telling me all these people   belong to the Ansata?,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+114,ALEXANA,   Not really. We suspect the   organization itself only consists   of some two hundred members. There   are over five thousand names on   this list. Citizens we know to   be sympathetic to their cause.   They pass along weaponry and   information. March in pro-Ansata   demonstrations... participate in   general strikes.. or the   occasional riot.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+115,RIKER,   How did all of this ever get   started?,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+116,ALEXANA,   We denied them independence.   That gave them a noble cause...   seventy years ago.       And now it's just an excuse for   more violence.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+117,RIKER,   You hate them as much as they hate   you.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+118,ALEXANA,   Believe it or not I always   considered myself moderate.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+119,RIKER,   What changed your mind?,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+120,ALEXANA,"    (shrugging, take your     pick)   Being stationed here the last six   months. Watching the body count   grow. The three assassination   attempts on my life.",26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+121,RIKER,   I can see where that could affect   your point of view.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+122,ALEXANA,   But I guess the event that really   opened my eyes took place only   a few days after my arrival. A   terrorist bomb destroyed a   shuttlebus... sixty school   children. There were no   survivors.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+123,ALEXANA,   The Ansata claimed it was a   mistake. That their intended   target was a police transport.   As if that made everything all   right.       That day I vowed to put an end   to terrorism in this city. And   I will.,26   INT. ALEXANA'S OFFICE - DAY,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+124,BEVERLY,       Thank you. You're very helpful...   you could learn to do this when   you grow up...       ... if you grow up.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+125,BEVERLY,   They're dying.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+126,BEVERLY,   I'm seeing a complicated set of   conditions... their DNA is warped   somehow; it's disrupting their   entire cellular chemistry...,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+127,FINN,   You can't do anything?,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+128,BEVERLY,   I can make them more comfortable.   That's all. The damage is too   extensive.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+129,BEVERLY,   If I could detect the condition   earlier...,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+130,FINN,   ... you would be able to reverse   the damage?,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+131,BEVERLY,   Perhaps. I don't know.       What happened to them...,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+132,FINN,   It's the inverter.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+133,FINN,       It has given our cause a new life.   But asks for our lives in return.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+134,BEVERLY,   What does it do?,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+135,FINN,   We transport through a dimensional   shift that the Rutian sensors   can't trace.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+136,BEVERLY,   Dimensional shifting? You can't   do that with humanoid tissue.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+137,FINN,   There are risks... the designers   warned us... but it works.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+138,BEVERLY,   You're showing the same distorted   readings. Not as severe as the   others but --,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+139,FINN,       Doesn't matter.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+140,BEVERLY,   It does if it kills you.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+141,FINN,       Don't you know? A dead martyr's   worth ten posturing leaders.,27   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+142,DATA,   A subspace field coil with an   isolated power source...   curious...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+143,WESLEY,   How could something this small   manage to get them anywhere?,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+144,GEORDI,"   Hey, guys... look at this...",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+145,GEORDI,   The Rutian team picked up a faint   nuclear vibration during the   terrorist movements...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+146,WESLEY,       Nuclear vibration...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+147,DATA,   That could possibly indicate   subspace transition rebound during   transport...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+148,WESLEY,"       Wait a minute... computer, call   up files on... what was it   called...    (excited, to Data and     Geordi)   We spent an hour on it in my   astral physics course last year...   folded space transport...",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+149,GEORDI,       Alternate dimensions...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+150,DATA,   Are you referring to the Elway   Theorem?,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+151,WESLEY,"   Yes... computer, files on the   Elway Theorem... what if they're   moving inter-dimensionally?",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+152,DATA,   But the Elway Theorem proved to   be entirely inaccurate... all   research was abandoned by the mid-   twenty-third century...,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+153,WESLEY,"   Data, look at it... the faint   nuclear vibration is consistent...   and Elway used an isolated field   coil just like this one.",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+154,GEORDI,   It would be untraceable by any   standard sensing device.,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+155,DATA,   But it was proven to be fatal.   To use this technology would be   an irrational act.,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+156,PICARD,"   We may well be dealing with   irrational people, Data. Is there   a way to trace this... ?",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+157,GEORDI,"    (checking with his     colleagues)   With an adaptive subspace   echogram, maybe... ?",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+158,DATA,"   If anyone is willing to transport   in this manner, Captain, they   would suffer significant internal   damage which could be detected.",28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+159,PICARD,       And it sounds as though they might   require the services of... a   doctor.,28   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+160,RIKER,   This is no way to live.,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+161,ALEXANA,   For us or them?,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+162,RIKER,   For both of you.,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+163,ALEXANA,"   I know it's not pretty, Riker.   But this is what terrorism has   done to this city.",30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+164,RIKER,   There must be a better way than   this to deal with it.,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+165,ALEXANA,"   I know my methods seem harsh but   believe me, they're gentle   compared to my predecessors.   Suspects would be brought into   police headquarters and...   mysteriously vanish. I put a stop   to that.",30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+166,RIKER,   And what happened to this   predecessor of yours?,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+167,ALEXANA,   He was murdered.,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+168,RIKER,   Are you going to tell me that   boy's a threat?,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+169,ALEXANA,   It's possible.       That shuttlebus I told you   about... the bomb was set by a   teenager.,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+170,ALEXANA,   And in a world where children blow   up children... everyone's a   threat.,30   EXT. PLAZA - DAY,PLAZA,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+171,BEVERLY,"   You should be drawing, not   killing people.",35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+172,FINN,   I can do both.,35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+173,BEVERLY,   How can you have such a casual   attitude toward killing?,35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+174,FINN,"       I take my killing very seriously,   Doctor.",35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+175,FINN,       You are an idealist...,35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+176,BEVERLY,   I live in an ideal culture...   there is no need for your kind   of violence... we've proven that.,35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+177,FINN,"   Your origins on Earth are from   the American continent, are they   not?",35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+178,BEVERLY,   North America.,35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+179,FINN,   I have read your history books.   This is a war for independence.   I am no different than your own   George Washington...,35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+180,BEVERLY,   Washington was a military general.   He was not a terrorist.,35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+181,FINN,"   Doctor, the difference between   a general and terrorist is only   the difference between winners   and losers. You win, you're   called a general. You lose...",35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+182,BEVERLY,"   You are killing innocent people...   Can't you see the immorality of   what you're doing... or have you   killed so often, you've become   blind to it?",35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+183,FINN,"   How much innocent blood has been   spilled for the cause of freedom   in the history of your Federation,   Doctor? How many good and noble   societies have bombed civilians   in war? Wiped out whole cities.   And now that you enjoy the comfort   that has come from their battles,   their killing... you frown on my   immorality... ? Doctor, I am   willing to die for my freedom.   And, in the finest tradition of   your own great civilization, I'm   willing to kill for it too.",35   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+184,ALEXANA,       All right you can go.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+185,ALEXANA,"   If you want, I could become more   persuasive.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+186,RIKER,   No.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+187,ALEXANA,"   You're Katik Shaw, the waiter from   the Lumar Cafe.       You witnessed both the explosion   and the kidnapping.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+188,KATIK,   I saw nothing.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+189,ALEXANA,   We are aware of your ties with   the Ansata... For all we know   you planted the bomb yourself...   Where have they taken her?,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+190,KATIK,   I don't know what you're talking   about.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+191,RIKER,   I've had enough of this.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+192,RIKER,       I want you to take a message back   to your people. Tell them the   Federation is willing to negotiate   for the release of Doctor Crusher.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+193,ALEXANA,   Riker... !,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+194,RIKER,   She's a Starfleet officer. That   makes her my responsibility.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+195,RIKER,"       Your side has demands, we're   willing to listen to them. We   want her back. It's as simple   as that.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+196,RIKER,       I don't think it's necessary to   detain this gentleman any longer.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+197,ALEXANA,       Get out.,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+198,ALEXANA,"   I should have him followed, but   we'll try it your way.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+199,RIKER,   Is that what you want?,38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+200,ALEXANA,"   What I want is to go home. Back   to my own country. To leave   behind the roundups, the   interrogations, the bodies lying   in the street. To be able to walk   without bodyguards, and not have   to jump at every unexpected noise.   That's what I want Riker.",38   INT. ALEXANA'S OFFICE,ALEXANA'S OFFICE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+201,DATA,"   The dimensional jump creates a   subspace pressure modulation,   Captain. By setting up a   magnetosphere faint echogram that   can monitor each of their   movements, we may be able to   collect enough data to trace their   power source.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+202,PICARD,   Can you estimate the number of   jumps it will take?,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+203,DATA,   Dimensional shifting is such an   unstable procedure that I cannot   say.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+204,DATA,"   Captain, I am finding it difficult   to understand many aspects of   Ansata conduct. Much of their   behavioral norm would be defined   by my program as unnecessary and   unacceptable.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+205,PICARD,"   And by my... ""program"" as well,   Data.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+206,DATA,"   But, if that is so, Captain, why   are their methods often   successful?     ",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+207,DATA ,       I have been reviewing the history   of armed rebellion and it appears   that terrorism is an effective   way to promote political change.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+208,PICARD,"   I have never subscribed to the   theory that political power flows   from the barrel of a gun, Data...",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+209,DATA,"   In most instances, you would be   correct. But there are numerous   examples where it was   successful... the independence   of the Mexican State from Spain,   the Irish Unification of 2024,   the Kenzie Rebellion...",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+210,PICARD,"   Yes, I'm aware of them...",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+211,DATA,"   Then, would it be accurate to say   that terrorism is acceptable when   the options for peaceful   settlement have been foreclosed?",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+212,PICARD,"   Data, we cannot condone violence.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+213,DATA,   Even in response to violence?,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+214,PICARD,"   These are questions that mankind   has been struggling with since   creation. I am afraid your   confusion, Data... is only human.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+215,WAITER,   Everyone is being rounded up.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+216,FINN,   Because of her?,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+217,WAITER,       The Federation wants to negotiate   her release...,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+218,FINN,   ... while they arrange for the   Rutian police to fill up the   detention cells...,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+219,WAITER,       A Starfleet officer is working   with the director. He wants a   meeting with you.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+220,FINN,   I'm sure he does.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+221,FINN,   Your Federation colleagues have   engineered mass arrests to   pressure me into releasing you.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+222,BEVERLY,   I'm sure you've misunderstood...,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+223,FINN,   They are working with the police.   He's seen it with his own eyes.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+224,BEVERLY,   All they want is to get me back   safely.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+225,FINN,   I'm not going to release you.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+226,FINN,   I need you here.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+227,BEVERLY,"   To find a way to reverse the   effects of the dimensional   shift... ? I can do that right   now. Stop using it.       Finn, I have a life, a son who   needs me.",40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+228,FINN,   He is on the ship?,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+229,FINN,   I am sorry he is on the ship.,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+230,BEVERLY,   No...,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+231,FINN,       They have joined forces with the   Rutians against us...,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+232,BEVERLY,   We are not your enemy...,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+233,FINN,   They are more valuable to me than   an enemy.     ,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+234,FINN ,"   For seventy years we've been   shouting, and no one's heard us.   Destroy the Federation flagship...   someone will listen.",40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+235,BEVERLY,   Please...,40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+236,FINN,"   They are the ones who interfered.   They brought medical supplies.   They organized mass arrests. They   are killing your son, not me.",40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+237,BEVERLY,"   Please, don't do this, Finn. I'll   do anything you ask.",40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+238,FINN,"   I had a son, too. He was thirteen   when he died in detention.",40   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+239,WORF,   Intruder alert deck twelve...,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+240,WESLEY,   I've got a subspace reflection.   It's a dimensional shift...,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+241,PICARD,   Red Alert. Sound general   quarters.,44   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+242,GEORDI,   Security to Engineering.,45   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+243,WORF,   Intruders in Engineering...,46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+244,DATA,   Casualties reported on deck   twelve. Sickbay is responding.,46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+245,PICARD,   Seal off all decks... lock on   transporters to intruder signals.,46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+246,ENGINEER,"   Intruder signals unstable,   Captain, I cannot lock on...",46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+247,DATA,"   They are moving inter-dimensionally...   neither the   transporters nor forcefields will   be able to contain them, sir.",46   EXT. MAIN BRIDGE,MAIN BRIDGE,EXT.,The High Ground,1989-11-03,The Next Generation,160.txt
+248,GEORDI,   Explosive charge on the main warp   chamber...,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+249,PICARD,"   Transporter room three, lock on   the explosive device and energize.",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+250,ENGINEER,"   It's scrambling the sensors,   Captain... I can't pinpoint it.",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+251,PICARD,"   Begin emergency evacuation...   prepare for saucer separation...   Mister La Forge, can you remove   the charge from the engine core...",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+252,GEORDI,   Stand by... I'm trying...,49   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+253,GEORDI,   They've got it locked on   somehow... hold on...,49   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+254,GEORDI,"   Got it. Transporter Room, stand   by to lock on my signal and   transport two kilometers off the   starboard nacelle.",49   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+255,TROI,       His signal... ?,50   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+256,GEORDI,"   Transporter Room, now...",51   INT. ENGINEERING,ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+257,PICARD,   Commander La Forge. Report.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+258,GEORDI,   Transport complete...,54   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+259,GEORDI,   I have a man down.,54   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+260,WESLEY,   More subspace reflections...,55   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+261,PICARD,   Can you calibrate their   destination?,55   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+262,WESLEY,"   No, sir, the readings are --",55   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+263,TROI,       Transporter Room. Code one   evacuation: Picard.       Transporter Room...,55   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+264,TROI,   Lieutenant Worf is recovering in   Sickbay. The wound was not   severe.,58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+265,RIKER,   Dead and injured?,58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+266,TROI,"   Three dead, four wounded.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+267,GEORDI,"   Another millisecond, and there   would have been a big dust cloud   orbiting Rutia instead of the   Enterprise.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+268,RIKER,   Why. I just asked if they would   talk...,58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+269,ALEXANA,"   You have your answer, Riker.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+270,WESLEY,"   Sir, the next time the Ansata use   the dimensional jump we should   be able to get a fix on their   power source.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+271,PICARD,   Worf went down... I don't know   if he's alive or dead... there   were other casualties...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+272,BEVERLY,   Was... Wes... on the bridge...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+273,PICARD,   Yes...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+274,PICARD,   He took cover... I didn't see any   more than that...       Are you all right?,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+275,BEVERLY,       They needed a doctor.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+276,PICARD,   Side effects of their transport?,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+277,BEVERLY,   Yes...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+278,PICARD,"   We're getting closer to tracing   their movements... actually, it   was Wesley who put us onto this   dimensional jumping of theirs...",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+279,PICARD,"   He's been extraordinary throughout   this. He'll make a fine officer,   Beverly.",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+280,BEVERLY,   He's had good role models...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+281,BEVERLY,   I'm sorry.       If I'd just returned to the   ship...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+282,PICARD,       I could have had you beamed up.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+283,BEVERLY,       You wouldn't dare.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+284,PICARD,       I would and I should have.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+285,BEVERLY,   Without my permission...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+286,PICARD,   If you won't follow orders...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+287,BEVERLY,"   If you give reasonable orders,   I'll obey reasonable orders...",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+288,PICARD,"   Doctor, I will be the judge of   reason when it comes to my   orders...",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+289,BEVERLY,   There aren't any exits to the   surface.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+290,PICARD,   Then the only way out is by   transporter or the dimensional   jump.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+291,BEVERLY,   A mode of travel I'd encourage   you to avoid. It's killing them.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+292,PICARD,   They're mad.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+293,BEVERLY,   I don't know any more. The   difference between a madman and   a committed man willing to die   for a cause... it's begun to blur   over the last couple days...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+294,PICARD,"       Beverly, I don't have to warn you   about the psychological impact   of being a hostage...",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+295,BEVERLY,"   I know. I understand that. But   their leader, Finn, he's not what   you'd expect...",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+296,PICARD,"   No, he's certainly not what I'd   expect. Without cause or reason,   his little band of outlaws has   attacked my ship...",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+297,BEVERLY,"   But he did have reasons... the   medical supplies, the arrests...   Jean-Luc, if we really examine   our role in this...",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+298,PICARD,"   Beverly, you are arguing for a   man who may have murdered your   son.",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+299,FINN,   I didn't kill your son...   Beverly.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+300,FINN,"   We were not able to destroy the   ship. We had to settle for him...       She wouldn't even tell me her   name. How many days? I call her   ""Doctor."" Are you hungry? Do you   want something to eat?",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+301,PICARD,   You've made a grave   miscalculation...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+302,FINN,   Oh?,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+303,PICARD,"   You've assaulted a Federation   starship, killed and wounded   members of her crew, kidnapped   two officers... do you not expect   a response?",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+304,FINN,"   On the contrary, I'm counting on   it.",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+305,PICARD,   You want Federation involvement?,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+306,FINN,"   Captain, there's a lot to admire   in the Federation, but there's   a hint of moral cowardice in your   dealings with non-aligned planets.   You do business with a government   that's crushing us. And then you   say you aren't involved. But of   course you are. You just don't   want to get dirty.",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+307,PICARD,   You accuse us of cowardice while you   plant bombs in shadows...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+308,FINN,"   I've been fighting the only war   I can against an intractable   enemy. Now, I'm fighting a big   war against a much more powerful   adversary. Can't you see how that   helps me?",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+309,BEVERLY,   I'm afraid I don't.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+310,PICARD,   He has added a chair to the   negotiating table.,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+311,FINN,"   You added the chair, Captain.   I am simply forcing you to sit   in it. The Federation will   quickly tire of our little war...   they will want you back... they   will want to get as far away from   Rutia as they can. And I will   not make it easy. Eventually,   the Federation will force the   government to make concessions.   And then a few more. And then a   few more.       Until we can finally reach an   honorable agreement that saves face   for all sides.       Except we win.",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+312,PICARD,   You understand I will not   cooperate in any way...,59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+313,FINN,"   You have already cooperated,   Captain... just by coming here.",59   INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+314,FINN,   I'm not here to hurt you. Just   hear what I have to say.,61   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+315,FINN,   Your people are safe. How long   they stay that way depends on you.   We demand an embargo and trade   sanctions levied against Rutia.   The Federation will blockade the   planet... allow no ships in or   out. This will continue until   the government of Rutia consents   to talks mediated by a Federation   counsel. You have twelve hours   to make your decision.,61   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+316,WESLEY,       Got it.,62   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+317,WESLEY,"   We've pinpointed the Ansata base   some three hundred kilometers from   the city, on the southern tip of   the continent.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+318,DATA,"   Sensors indicate it is located   thirty meters below ground,   implying a cave or cavern-like   dwelling.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+319,RIKER,   Any passages leading to the   surface?,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+320,DATA,"   Our readings show no evidence of   any, Commander.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+321,RIKER,   Then whatever light they have must   be artificially generated.,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+322,ALEXANA,"   If we can shut it down, you could   use the confusion to find your   people.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+323,WORF,"   Request permission to join the   rescue party, sir.       I owe it to the captain.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+324,RIKER,   Permission granted.,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+325,RIKER,   Mister Data... You have the   bridge.,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+326,WESLEY,   Commander Riker?,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+327,WESLEY,    (continuing; summing     it up for all)   Good luck.,65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+328,RIKER,"   We'll bring them home, Wes.",65   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+329,FINN,   You're glad to see your captain...,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+330,BEVERLY,   Yes.,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+331,FINN,   I may have to kill him.,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+332,FINN,   I just wanted to warn you.,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+333,BEVERLY,"   Finn, he can help you... he is   very influential...",65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+334,FINN,   He will not help us...,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+335,BEVERLY,   If you could convince him that   your cause is...,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+336,FINN,   You could convince him perhaps.   Not I.,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+337,BEVERLY,   I've talked to him. I'll...   try...,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+338,FINN,"       If our places were reversed, I   would expect to die...",65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+339,BEVERLY,       Your places would never be   reversed. He wouldn't forcibly   abduct you... or play games with   your life. He would treat you with   respect...,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+340,FINN,   I have treated you with   respect...,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+341,BEVERLY,"   You've scared the hell out of me,   Finn.       You've controlled me through   fear... just like you've tried   to control this whole continent.",65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+342,FINN,"   You haven't tasted real fear yet,   Doctor...",65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+343,BEVERLY,   Is that the best you can do? Is   fear the only weapon you have...,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+344,FINN,"       No, but it's a good one.",65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+345,BEVERLY,"   You know what scares me the most,   Finn? It scares me to think that   you might win this fight and gain   real power.",65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+346,FINN,   Doctor... I don't want you to fear   me.,65A  INT. CAVERN,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+347,PICARD,   How dangerous would another ride   through the inverter be to us?,69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+348,BEVERLY,   I'm not sure. But I don't want   you to start thinking...,69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+349,PICARD,   It is our obligation to think of   escape...,69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+350,BEVERLY,   He's prepared to kill you.,69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+351,PICARD,   A fine reason to escape...       Do you think you've gained his   confidence?,69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+352,PICARD,"   Indeed, you have... and a bit   more... this might prove to be   an advantage, Doctor...",69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+353,BEVERLY,"       Jean-Luc, there are some things...   I want to say... just in case we   don't get out of this...",69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+354,PICARD,   Have they found us... ?,69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+355,BEVERLY,   Finn...,69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+356,BEVERLY,   He's dead.,69   INT. THE ALCOVE,THE ALCOVE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+357,RIKER,   You didn't have to kill him.,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+358,ALEXANA,"   As a prisoner he would have been   a focus for violence as his   followers tried to free him.   Now, he's a martyr, but the death   toll may be lower -- at least in   the short term.       An imperfect solution for an   imperfect world.",73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+359,WORF,   Captain...,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+360,BEVERLY,   No more killing.,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+361,ALEXANA,   Already another one to take his   place... it never ends.,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+362,RIKER,       He could have killed you. He   didn't. Maybe the end begins with   one boy putting down a gun.,73C  INT. CAVERN - OUTSIDE THE ALCOVE,CAVERN,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+363,BEVERLY,   I hear I owe my rescue to you.,77   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+364,WESLEY,   I was just part of the team.       It's good to have you back.       Both of you. Sir.,77   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+365,PICARD,"       Take us out of orbit, Mister   Crusher.",77   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt
+366,PICARD,       At your convenience.,77   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The High Ground,1989-11-03,The Next Generation,160.txt

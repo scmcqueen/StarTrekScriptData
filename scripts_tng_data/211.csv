@@ -1,429 +1,429 @@
-,character,quote,scene,location,view,episode,date,series
-0,PICARD ,"   Captain's log, stardate 45400.3.   Two days ago, Starbase   Five-one-four lost contact with   the research vessel Vico, which   was sent to explore the interior   of a Black Cluster. We are   en route to investigate.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Hero Worship""",1991-10-08,The Next Generation
-1,ENSIGN FELTON,"   Captain, we are entering sector   nine-seven.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-2,DATA,"   Sir, I am picking up massive   gravitational fluctuations...",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-3,PICARD,"   Take us out of warp, Ensign.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-4,ENSIGN FELTON,"   Yes, sir.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-5,WORF,   The Black Cluster is in visual   range.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-6,PICARD,   On screen.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-7,WORF,"   Aye, Captain.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-8,RIKER,"   Let's find that ship. Full sensor   sweep, Mister Data.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-9,DATA,"       Yes, Commander.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-10,RIKER,   It's quite a sight.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-11,PICARD,       One of the most ancient formations   in the galaxy.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-12,DATA,   I have located the Vico. The   vessel appears to be adrift.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-13,RIKER,   Let's see it.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-14,RIKER,   Life signs?,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-15,WORF,"   Nothing, Commander.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-16,RIKER,"   Damage report, Mister Data.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-17,DATA,       The outer and inner hulls have   been breached. Decks seven   through twelve are exposed to   space.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-18,RIKER,   Set up a translink to their   computer core. Let's see what   happened.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-19,DATA,"   I cannot, sir. The emergency   bulkheads on that deck are in   place. Our linkup signal cannot   penetrate them.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-20,PICARD,"       Structural status, Commander.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-21,DATA,   Stress readings indicate   considerable pressure on the   transverse supports.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-22,PICARD,   Is it stable enough for an away   team?,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-23,DATA,"       Yes, sir. But the risk of   structural collapse is high.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-24,PICARD,       Have transporter room one maintain   a lock on each member of your   away team.     ,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-25,PICARD ,   I want you out of there at the   first sign of trouble.,2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-26,RIKER,"   Aye, Captain.       Ensign, take us to fifteen   thousand meters.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-27,ENSIGN FELTON,"   Yes, sir.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-28,RIKER,"       Data, you're with me.",2    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-29,DATA,       This station is inoperable.,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-30,GEORDI,       This one's stuck in a feedback   loop.,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-31,RIKER,   Let's try to tap directly into   the computer core.,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-32,GEORDI,   There should be an ODN junction   along here somewhere...,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-33,GEORDI,       This looks like a good   possibility...,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-34,RIKER,"   Careful, Geordi. You don't want   to pull out the wrong brick...",5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-35,RIKER,   Data.,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-36,DATA,       Core transfer is engaged.,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-37,GEORDI,"   Exchange protocol verified.       The files seem to be intact. Some   of them, anyway.",5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-38,WEAK,   Is somebody there... ?,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-39,RIKER,       Stay here.       Data.,5    INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-40,TIMOTHY,   Are my parents alright?,6    INT. SCIENCE SHIP CHAMBER - ON TIMOTHY,SCIENCE SHIP CHAMBER,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-41,PICARD ,"   Captain's log, supplemental. A   young boy, shielded from our   initial sensor scans, has been   discovered alive by the away team.   The degree of damage to the Vico   is making our rescue attempt   difficult...",8    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Hero Worship""",1991-10-08,The Next Generation
-42,PICARD,"       Transporter room one, can you lock   onto him?",9    INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-43,PICARD,   And transport directly to   sickbay?,10   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-44,HUTCHINSON,"       I'll try, Captain...       But there's a lot of shielding   to pull him through.",10   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-45,PICARD,   Acknowledged.       Picard to Crusher.,11   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-46,BEVERLY,"   Sickbay here, Captain.",11   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-47,PICARD,   Standby for emergency transport.,11   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-48,BEVERLY,"   Aye, sir. Crusher out.",11   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-49,PICARD,       Picard to Commander Riker.,11   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-50,PICARD,"   Is the boy ready, Number One?",12   INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-51,RIKER,       Everything's gonna be okay...,12   INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-52,RIKER,"       Ready, sir.",12   INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-53,PICARD,   At your signal.,12   INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-54,RIKER,"       Aye, Captain.",12   INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-55,RIKER,   Alright... here we go...,12   INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-56,RIKER,   Energize.,12   INT. VICO (OPTICAL),VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-57,HUTCHINSON,       The lock is holding. I just can't   resolve the matter stream. Not   with all that victurium alloy in   the way.,13   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-58,HUTCHINSON,   Commander Riker. You'll have to   get him out into the corridor.,14   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-59,RIKER,"       That's gotta weigh over a ton,   Data. Can you move it?",14   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-60,DATA,"   Yes, sir. However, that may   initiate the collapse of the   surrounding supports. I recommend   that you and Geordi return to the   ship.",14   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-61,RIKER,   Agreed.       La Forge...,14   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-62,HUTCHINSON,"       I'm locked onto Commander Data   and the boy, sir. I'll energize   as soon as they've cleared the   bulkheads.",14   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-63,RIKER,"       Whenever you're ready, Data.",14   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-64,DATA,"       Yes, Sir.",16   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-65,TIMOTHY,   You're gonna lift that?,16   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-66,DATA,   Yes. Then I will carry you to   the corridor. We will transport   back to the Enterprise from there.   Do you understand?,16   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-67,TIMOTHY,   How can you pick up something so   heavy?,16   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-68,DATA,   I am an android. My strength is   many times that of a human.,16   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-69,DATA,       Everything is going to be... okay.,16   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-70,DATA,   I will count to three.       One... two... three...,16   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-71,DATA,       Energize!,16   INT. VICO,VICO,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-72,PICARD ,"   Captain's Log, supplemental. A   thorough search of the Vico has   revealed no additional survivors.   Troi has begun the process of   counseling the boy in regard to   the tragedy.",19A  EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Hero Worship""",1991-10-08,The Next Generation
-73,TIMOTHY,       We were in the Black Cluster.   I don't know where they came   from... but they had a big ship   -- they kept shooting at us. Then   they beamed over. They had purple   helmets on and phaser rifles.   I saw them. But they didn't see   me...,20   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-74,BEVERLY,"       You're safe now, Timothy. You're   going to be alright.",20   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-75,BEVERLY,       You must be hungry. Would you   like me to get you something to   eat?,20   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-76,DATA,"   Counselor, I must join Commander   La Forge in engineering. If you   will excuse me --",20   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-77,TROI,"   Timothy, would you like Data to   stay a little bit longer?",20   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-78,TIMOTHY,   Yes.,20   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-79,GEORDI,"   Sections of the primary and   secondary hull were torn right   off.       Shearing planes are here, here,   and here.",21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-80,PICARD,       How much longer until we can   access their logs?,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-81,GEORDI,   Less than an hour.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-82,PICARD,   The boy was here.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-83,GEORDI,       The hallway outside the computer   core.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-84,GEORDI,       His mother was the ship's systems   engineer.       The second away team found her   body here -- inside the core.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-85,PICARD,   And the boy's father?,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-86,GEORDI,   Ship's second officer.       He was most likely on the bridge   when it was exposed to space.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-87,PICARD,       Most likely...,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-88,BEVERLY,   He'll sleep for a few hours at   least.       There's no need to keep him here.   But I will need to see him again   tomorrow.,25   WIDEN TO INCLUDE - INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-89,BEVERLY,       You've got some work cut out for   you.,25   WIDEN TO INCLUDE - INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-90,TROI,"       His world is gone, Data. We're   going to have to help him build   a new one.",25   WIDEN TO INCLUDE - INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-91,GEORDI,   This isn't good. I think whatever   hit the Vico set up an E-M pulse   that flashed through their   computer banks.,27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-92,DATA,       Nearly eighty-three percent of   the records have been lost.,27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-93,GEORDI,   And all of their sensor logs.       Let's use what we got from our own   sensors. Call up the structural   analysis and the surface scans...,27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-94,DATA,"   Geordi, as a child, did you ever   experience a traumatic event?",27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-95,GEORDI,   You're wondering about Timothy?,27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-96,DATA,   Yes.,27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-97,GEORDI,"   I was trapped in a fire once, when   I was five -- before I got my   VISOR. It only took about two   minutes before my parents found   me and pulled me out. And nobody   got hurt. But I tell you -- that   was the longest two minutes of   my life. And it was more than   a month before I would let my   parents get out of earshot. I   absolutely needed to know they   were there.",27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-98,DATA,   Timothy no longer has that kind   of support.,27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-99,GEORDI,       Yeah...,27   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-100,TEACHER,       Dara and her brother found   themselves in the land of Tagas...,30   INT. SCHOOL,SCHOOL,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-101,TEACHER,"       ... where the ruler, Elamos the   Magnificent, had proclaimed as   law:",30   INT. SCHOOL,SCHOOL,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-102,TEACHER,"       ""No children will be tolerated   within the Great Kingdom.""",30   INT. SCHOOL,SCHOOL,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-103,TEACHER,"       When Dara saw the proclamation,   she just laughed, saying ""How   magnificent a ruler, to be   frightened by the likes of us... """,30   INT. SCHOOL,SCHOOL,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-104,TEACHER,"       Timothy, we're done with sculpture   for now.",30   INT. SCHOOL,SCHOOL,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-105,TIMOTHY,       It's not finished.,30   INT. SCHOOL,SCHOOL,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-106,TEACHER,   We'll come back to it next period.   Why don't you pick up your   mythology book and follow along?,30   INT. SCHOOL,SCHOOL,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-107,TIMOTHY,   But it's not finished...,30   INT. SCHOOL,SCHOOL,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-108,GEORDI,   Magnetic residual analysis   confirms that the Vico was   attacked inside the Black Cluster.   The graviton wave fronts pushed   the ship to where we found it.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-109,PICARD,   No sign of phaser burns on the   hull.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-110,GEORDI,"   No, sir. The torsional stress   levels point to a disrupter-style   weapon.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-111,DATA,   Fracture points indicate that the   energy burst came from a range   of less than three thousand   meters.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-112,PICARD,   That's a strategy consistent with   a cloaked vessel. Romulan. Or   Klingon... But we're quite a   distance from either of their   territories.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-113,DATA,   The Breen have outposts in this   sector. The attack on the Vico   is consistent with their battle   tactics -- and their level of   technology.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-114,PICARD,   But what would they have been   doing inside the Black Cluster?,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-115,PICARD,"   The boy described a boarding   party, with helmets and phaser   rifles.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-116,GEORDI,   A boarding party?,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-117,GEORDI,"       I don't think that's likely,   sir...",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-118,PICARD,   Counselor...,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-119,GEORDI,"   There was absolutely no evidence   of anybody coming on board the   Vico. We would have found a   transporter field trace. Or if   somebody had used the entry   ports, we would have found an   electrostatic differential in   the docking latches. We didn't.       Maybe he's got an active   imagination.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-120,PICARD,   Or he's lying.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-121,TROI,"   If he is lying, I haven't been   able to sense it. Perhaps his   level of emotional trauma is too   high.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-122,PICARD,   Why wouldn't he tell us the truth?,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-123,TROI,   He's still in shock... it's hard   to know what's going on in his   mind.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-124,GEORDI,   I'll check the sensor readings   again... but I'm almost sure we   won't find anything.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-125,TROI,   Data -- stay a moment.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-126,TROI,   Captain -- I think we should ask   Data to spend some time with   Timothy.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-127,DATA,   I do not understand.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-128,TROI,"   I'm worried about his   behavior... And what you've just   told me doesn't make me feel any   better. Data, you're the only   one Timothy's reached out to...   because you rescued him. We can   use your relationship with him   to help his recovery.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-129,PICARD,   Would Timothy also be more   inclined to tell Data the truth   about what happened?,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-130,TROI,   That's a possibility.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-131,PICARD,"       Mister Data, proceed with the   child as Counselor Troi suggests.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-132,DATA,"   Yes, sir.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-133,DATA,"   Exactly how shall I proceed,   Counselor?",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-134,TROI,   Just be with him. You're a   presence he trusts. That's what   he needs most right now.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-135,TIMOTHY,       What.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-136,TIMOTHY,   Data.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-137,DATA,"   Hello, Timothy. May I enter?",35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-138,TIMOTHY,   Yeah.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-139,DATA,   I see you are attempting to   recreate the Dokkaran temple of   Kural-Hanesh.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-140,TIMOTHY,   Isn't it great?!,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-141,TIMOTHY,"       See, there's the big archway   the teacher told us about.   That's where everybody came in.",35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-142,TIMOTHY ,       That's where they stood. And   that's where the altar was -- by   the big windows.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-143,TIMOTHY,       What do you think?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-144,DATA,   Do you wish a frank evaluation?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-145,DATA,   It lacks the harmony that   characterized this particular   temple and Dokkaran culture in   general.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-146,TIMOTHY,   You hate it.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-147,DATA,   I am not capable of hatred.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-148,TIMOTHY,       I can't do anything right.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-149,DATA,   You are making an unwarranted   extrapolation. I was merely   offering an aesthetic analysis   of this particular model.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-150,TIMOTHY,    (continuing; re: the     mess)   I told you.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-151,DATA,   Timothy... ?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-152,TIMOTHY,       What.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-153,DATA,   May I suggest a different   approach?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-154,DATA,       You are attempting to construct   the upper tiers before you have   completed the lower.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-155,DATA,       Observe.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-156,GEORDI,   La Forge to Data.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-157,DATA,       Data here.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-158,GEORDI,   I need your help with the shield   modulators.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-159,DATA,"       I will join you in a moment,   Geordi. Data out.",35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-160,DATA,   Commander La Forge requires my   assistance.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-161,TIMOTHY,   Incredible.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-162,TIMOTHY,       How come you can do that?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-163,DATA,   I am designed to exceed human   capacity both mentally and   physically.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-164,TIMOTHY,   Androids are better than humans?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-165,DATA,"   ""Better"" is a highly subjective   term. I do not, for example,   possess the ability to experience   emotions as humans do.",35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-166,TIMOTHY,   No emotions? You mean you can't   be happy or sad?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-167,DATA,   That is correct.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-168,TIMOTHY,   Why not?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-169,DATA,   My positronic brain is not capable   of generating those conditions.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-170,TIMOTHY,   Can we build something else   later?,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,"""Hero Worship""",1991-10-08,The Next Generation
-171,DATA,   That would be acceptable.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,"""Hero Worship""",1991-10-08,The Next Generation
-172,TIMOTHY,   Bye.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,"""Hero Worship""",1991-10-08,The Next Generation
-173,DATA,   Goodbye.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,"""Hero Worship""",1991-10-08,The Next Generation
-174,TIMOTHY,       I am designed to exceed human   capacity...,39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-175,TIMOTHY,       That is correct...,39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-176,DATA,   The Black Cluster was formed   almost nine billion years ago when   hundreds of protostars collapsed   in close proximity. The resulting   gravitational forces are violent   and highly unpredictable.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-177,GEORDI,"   To get anywhere near the center,   we'll have to push through the   gravitational wavefronts -- just   like the science vessel was   designed to do. I've adjusted   our shields accordingly.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-178,WORF,   The gravitational forces will   affect sensor accuracy. Detecting   an enemy vessel will be difficult.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-179,RIKER,   Maybe that's what happened to the   Vico -- they didn't see anything   coming until it was too late.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-180,PICARD,   Has the boy volunteered any   further information?,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-181,TROI,   No. But we have an appointment   in less than an hour.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-182,PICARD,"   If there's any possibility of   getting more from him, I'd like   you to pursue it.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-183,PICARD,"   Regardless, we need to continue   our investigation.    (beat, informing the     room)   We'll enter the cluster at   oh-seven-hundred tomorrow morning.   Dismissed.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-184,TROI,"   Hello, Timothy. Are you ready   to go?",43   INT. CORRIDOR,CORRIDOR,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-185,TIMOTHY,"   Yes, Counselor. I am ready.",43   INT. CORRIDOR,CORRIDOR,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-186,TROI,"   How are you feeling, Timothy?",43   INT. CORRIDOR,CORRIDOR,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-187,TIMOTHY,   I am functioning within   established parameters.,43   INT. CORRIDOR,CORRIDOR,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-188,TROI,   Established parameters? You   sound like Data.,43   INT. CORRIDOR,CORRIDOR,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-189,TIMOTHY,       I am an android.,43   INT. CORRIDOR,CORRIDOR,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-190,TROI,"   I see... Well. Let's go for our   walk, shall we?",43   INT. CORRIDOR,CORRIDOR,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-191,TIMOTHY,   That would be acceptable.,43   INT. CORRIDOR,CORRIDOR,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-192,TIMOTHY,       Androids do not need to eat or   drink.,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-193,TIMOTHY,"       However, sometimes we like to   taste things.       A Tamarin frost, please.",44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-194,TIMOTHY,"       Would you like anything,   Counselor?",44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-195,TROI,"   No, I'm fine, thank you.",44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-196,TIMOTHY,   As you wish.,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-197,TROI,   So... you're no longer a Human?,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-198,TIMOTHY,   I'm an android.,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-199,TROI,   When did this happen?,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-200,TIMOTHY,   I've always been an android.,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-201,TROI,   What's it like... being an   android?,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-202,TIMOTHY,   I am designed to exceed human   capacity both mentally and   physically. But I do not   experience emotions.,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-203,TROI,   You don't? No emotions at all?,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-204,TIMOTHY,   That is correct.,44   INT. TEN-FORWARD,TE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-205,PICARD,   An android.,46   INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-206,TROI,"   I know it sounds unusual - but   it is understandable.   Technically, it's called   enantiodromia. Conversion into   the opposite. Timothy went from   Human to machine. From being   emotional to being emotionless.   But the underlying trauma is still   there. He's just found a new way   to repress it.",46   INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-207,PICARD,   How long will this behavior last?,46   INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-208,TROI,"   As long as he needs it to.   Timothy is rebuilding his identity   as best he can. The android   persona is only one step along   the way. When he becomes stronger   and more sure of himself, it   should drop away naturally.",46   INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-209,PICARD,   I assume this is not a time to   confront him about what happened   to his ship.,46   INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-210,TROI,   Not yet. The best thing we can   do right now is to let Timothy   take us where he wants to go.   We should support the process   -- even encourage it.,46   INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-211,PICARD,   Mister Data -- I'd like you to   make Timothy the best android he   can possibly be.,46   INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-212,DATA,"   Timothy, your head movements   are... counterproductive. Can   you be still?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-213,TIMOTHY,   But you do it.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-214,DATA,   The servo-mechanisms in my neck   are designed to approximate Human   movements.       I did not realize the effect was   so... distracting.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-215,TIMOTHY,   I like it.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-216,TIMOTHY,"   Data, are there any other androids   in Starfleet?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-217,DATA,   No. I am the only one.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-218,TIMOTHY,   How come you're not captain?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-219,DATA,   My service experience does not   yet warrant such a position.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-220,TIMOTHY,"   Data, what's the scariest thing   that ever happened to you?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-221,DATA,   Fear is a quality that I do not   possess.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-222,TIMOTHY,   Because it's an emotion.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-223,DATA,   That is correct.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-224,TIMOTHY,   But what if you had a nightmare?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-225,DATA,   I have never had a nightmare.   I do not require sleep.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-226,DATA,"   Timothy, are you having...   disturbing dreams?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-227,TIMOTHY,   I do not require sleep.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-228,DATA,   Is it satisfactory?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-229,TIMOTHY,   It's perfect.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-230,BEVERLY,   Transfer circuits are functioning   properly.,55   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-231,TIMOTHY,   Within established parameters?,55   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-232,BEVERLY,       Absolutely.,55   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-233,BEVERLY,"       Input processing, pattern   recognition... all within   established parameters.",55   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-234,DATA & TIMOTHY,"       Thank you, Doctor.",55   INT. SICKBAY,SICKBAY,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-235,TIMOTHY,   I ran out of red ochre.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-236,DATA,   You may use mine.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-237,TIMOTHY,   Thank you.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-238,DATA,   Perhaps you should return to your   quarters.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-239,TIMOTHY,   I'm fine.       The servo-mechanisms in my mouth   are designed to approximate human   movements.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-240,TIMOTHY,       Not bad.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-241,DATA,   Thank you.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-242,DATA,   It is very... expressive.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-243,TIMOTHY,   Thank you.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-244,DATA,   Is your painting representative   of something?,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-245,TIMOTHY,       It's just a painting.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-246,DATA,"   Timothy, you understand that you   may speak with me about anything   you wish -- any subject.",57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-247,TIMOTHY,       I understand...,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-248,DATA,   At times I too find it difficult   to share my thoughts with others.     ,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-249,DATA ,   I am not always confident that   I am expressing myself in a way   that Humans will comprehend. But   I know that...,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-250,GEORDI,       That's fine.,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-251,GEORDI,       Just make sure the tolerance   doesn't slip more than point three   one in either direction.,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-252,DATA ,"   Hello, Geordi.",60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-253,GEORDI,"   Hey, Data.",60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-254,DATA,   I hope I am not disturbing your   work.,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-255,GEORDI,       Nope. Just finishing up here.,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-256,GEORDI,   You need something?,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-257,DATA,"   I would like to confide in you,   Geordi. However, I am finding   my thoughts difficult to   verbalize.",60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-258,GEORDI,   It's about Timothy.,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-259,DATA,       How did you know?,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-260,GEORDI,"   If I had a boy going around   pretending to be just like me,   I might be a little uncomfortable   too.",60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-261,DATA,   I am not capable of being   uncomfortable. But I am   undergoing a perceptual paradigm   shift.,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-262,GEORDI,"   You better define that for me,   Data.",60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-263,DATA,"   I have spent my entire life   emulating Humans. Now, I find   myself confronted by a Human who   is emulating me.",60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-264,GEORDI,   I got you... the shoe's on the   other foot...,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-265,DATA,"   Ah, the metaphor... yes, that is   correct. I am forced to realize   that I have largely ignored the   aspects of myself that others   would find attractive.",60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-266,GEORDI,"   That's a very Human thing to do,   Data.",60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-267,GEORDI,   A lot of us have a way of not   appreciating ourselves. We're   too close to the subject.       Keep an eye on Timothy... he might   help you learn to understand   yourself a little better.,60A  INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-268,WORF,   We are approaching the perimeter.,62   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-269,WORF,       I'm picking up the gravitational   wavefronts.,62   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-270,RIKER,   Engage forward shields --   thirty-five percent.,62   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-271,WORF,   Shields up.,62   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-272,PICARD,"   Drop to one quarter impulse,   Ensign.",62   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-273,ENSIGN FELTON,"   Yes, Sir.",62   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-274,RIKER,       Bridge to engineering.,62   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-275,GEORDI,"       Adjusting shield frequencies now,   Commander. We'll have this   smoothed out in just a second...",64   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-276,RIKER,"   Correct for any course deviations,   Ensign.",65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-277,ENSIGN FELTON,"   Yes, sir.",65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-278,RIKER,   Resume one-third impulse.,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-279,WORF,   -- Captain!,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-280,WORF,"       I am reading something at four   hundred thousand kilometers, off   our starboard bow. Possibly a   ship.",65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-281,RIKER,   Red alert.,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-282,PICARD,"   Take us to visual range, Ensign.",65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-283,ENSIGN FELTON,       Adjusting course...,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-284,WORF,    (puzzled; off     instruments)   Sensor readings have   disappeared... Now picking up   another reading at four hundred   thousand kilometers -- off the   port bow.       It's gone... No -- it's back to   starboard.,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-285,RIKER,"       Captain, the Black Cluster is   distorting the sensors. We're   picking up echoes of the Enterprise   reflecting off the wavefronts.",65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-286,PICARD,   Cancel Red Alert. Adjust the   sensors to compensate for the   distortion.,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-287,WORF,   Aye...,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-288,PICARD,   Sensor difficulties have been   reported by ships traveling   through Black Clusters -- but not   to this extreme.,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-289,WORF,   This formation is seven times more   massive than any previously   explored. That could explain the   difference.,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-290,PICARD,       Resume previous course.,65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-291,ENSIGN FELTON,"   Yes, sir.",65   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-292,DATA,   He laughed.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-293,TROI,"   Yes. It's nice to see, isn't   it... ?",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-294,DATA,   It is certainly not consistent   with his android persona...,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-295,TROI,   I'd say he's beginning the process   of letting go of that fantasy...,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-296,DATA,   Then my work with him is complete?,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-297,TROI,"       No, I don't think it is, Data...   A laugh is one step in the right   direction... we need to help him   take a few more steps...",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-298,DATA,"   How, Counselor?",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-299,TROI,   I'd like you to talk to him...   about your own fascination with   humanity.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-300,TROI,   If you can explain the appeal that   humanity has for you... Timothy   might find it easier to become   a boy again.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-301,TIMOTHY,   This is great. How's yours?,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-302,DATA,"   The complex polysaccharides, in   reaction with the carbon dioxide,   produces an unusual combination   of texture and efforvescence.",69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-303,TIMOTHY,   But how does it taste? Is it   good?,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-304,DATA,"   I am not capable of ""tasting"" in   the manner which you describe.   I can analyze the composition of   a dessert and make comparative   conclusions about its possible   effect on the human palate.   However, I neither like it, nor   dislike it...",69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-305,TIMOTHY,   Oh. I didn't realize that.,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-306,DATA,"   I have often wondered what it must   be like... to have one's mouth   ""water"" in anticipation of the   arrival of a confection... Or   to feel the pleasure I have   observed in people as they consume   it...",69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-307,TIMOTHY,   You sound like you don't want to   be an android.,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-308,DATA,   I am an android. That will never   change.,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-309,TIMOTHY,   But... if you could change...   would you?,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-310,DATA,   I have always wished to be Human.   I study people carefully in order   to more closely approximate Human   behavior.,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-311,TIMOTHY,   Why? We're stronger and smarter   than Humans... we can do more than   they can.,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-312,DATA,   But I cannot take pride in my   abilities. I cannot take   pleasure in my accomplishments.,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-313,TIMOTHY,"   But we never feel bad, either...",69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-314,DATA,   I would gladly risk feeling bad   at times... if it meant that I   could also taste my dessert.,69   INT. TEN FORWARD,TEN FORWARD,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-315,WORF,"   Captain, gravitational wavefront   intensity is increasing steadily   -- eleven hundred standard ""G""   units and rising.",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-316,PICARD,"       Let's see if anyone's out there.   Attempt a wide-range sensor sweep,   Lieutenant Worf.",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-317,WORF,"       Aye, sir.",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-318,WORF,"       The gravitational distortion is   too great, Captain. The scanning   signal is again being reflected   off the wavefronts. But I am   unable to compensate.       The sensors are useless.",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-319,PICARD,"       Mister Data to the bridge, please.",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-320,DATA,   Acknowledged.,	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-321,PICARD,       Adjust sensors to short range...   attempt a limited positron scan...,	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-322,WORF,"   Aye, sir.",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-323,WORF,   The distortion is still in effect.,	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-324,RIKER,   Try to jacket the scanning beam.,	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-325,WORF,   The secondary beam is being   distorted as well.,	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-326,PICARD,"   Mister Data, our sensors have been   rendered ineffective by the field   distortion. I want your   analysis...",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-327,PICARD,"       Mister Worf, fire phasers, maximum   intensity, narrow spectrum, zero   zero one mark zero four five.",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-328,RIKER,"       An experiment, Captain?",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-329,PICARD,   Exactly.,	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-330,WORF,"   Firing, Sir.",	INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-331,PICARD,"   Explanation, Mister Data.",74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-332,DATA,   The phaser energy was reflected   by the gravitational wavefronts.   It is similar to the phenomenon   distorting the sensor signals.,74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-333,PICARD,   Our sensors and our phasers --   both useless.       This reflection phenomenon --   would it have the same effect on   a disruptor-style weapon?,74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-334,DATA,"   Yes, sir. Disruptors would be   ineffectual.",74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-335,PICARD,   And a ship's cloaking field?,74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-336,DATA,   It would be extremely difficult   to maintain.,74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-337,PICARD,"   Mister Data, is it at all likely   that the Vico was attacked inside   the cluster?",74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-338,DATA,"   Given the effects we have   observed, the probability is   exceedingly remote.",74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-339,PICARD,       Picard to Troi.,74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-340,TROI,"   Yes, Captain?",74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-341,PICARD,       Please bring Timothy to my ready   room.,74   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-342,PICARD,"       Timothy, can you tell us what   happened to your ship?",79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-343,TIMOTHY,   I did tell you.,79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-344,TROI,   Tell us again...,79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-345,TIMOTHY,       We were attacked.,79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-346,DATA,   That is highly unlikely. Our   investigations have clearly   demonstrated --,79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-347,TIMOTHY,   -- We were attacked! We were   attacked!,79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-348,DATA,"   Timothy, androids do not lie.",79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-349,TIMOTHY,       It was me.,79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-350,DATA,   Please explain.,79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-351,TIMOTHY,   It was me. I did it. I killed   them all...,79A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-352,TIMOTHY,   Everything was shaking. I lost   my balance. I was just trying   to hold on to something. I didn't   mean to do it.,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-353,PICARD,"   What didn't you mean to do,   Timothy?",80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-354,TIMOTHY,   My arm... it hit the computer   panel. That's what destroyed the   ship.,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-355,TROI,   The ship was damaged when your   arm hit the computer panel... ?,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-356,TROI,"   Timothy, listen to me -- the   damage to your ship might have   occurred at the same time you   touched the panel but it was only   a coincidence... this was not   your fault...",80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-357,TIMOTHY,   Yes it was...,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-358,DATA,   It is not possible. The onboard   control systems for every starship   require a user code clearance.   You could not have inadvertantly   affected any of the Vico's   systems.,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-359,PICARD,   Your computer had safety   precautions. There's nothing   you could have touched that would   have damaged your ship.,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-360,TROI,   You're not responsible for what   happened to your parents.,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-361,TIMOTHY,   But if it wasn't me...,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-362,PICARD,   We're trying to determine what   happened right now. And anything   that you can remember that may   assist...,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-363,TIMOTHY,   That's just how it was... when   it started on the Vico...,80A  INT. READY ROOM,READY ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-364,WORF,   Wavefront intensity has   increased...,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-365,RIKER,   Increase shields to seventy-five   percent.,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-366,WORF,   Aye.,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-367,RIKER,"   Damage, Mister Worf.",80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-368,WORF,"   Minimal, Sir. The shields are   holding.",80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-369,PICARD,"   Ensign, full about -- go to warp   two.",80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-370,ENSIGN FELTON ,   The gravitational distortion is   too high -- we can't maintain a   warp field.,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-371,TIMOTHY,   We couldn't get out either...,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-372,PICARD,   Full shields.,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-373,WORF,   Aye.,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-374,ENSIGN LOCKLIN ,   Captain -- impulse power has been   disrupted. The helm won't   respond.,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-375,TROI,"   Timothy, I think you and I should   go below... get out of everyone's   way, okay... ?",80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-376,TIMOTHY,   No...,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-377,RIKER,       Riker to La Forge. Can you give   me more power to the shields?,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-378,GEORDI,   Stand by...,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-379,TIMOTHY,"   That's what they kept saying --   ""more shields,"" ""more shields.""",80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-380,DATA,"   Timothy, accompany me...",80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-381,DATA,       I want you to recall everything   you heard people say aboard the   Vico before it was destroyed...,80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-382,TIMOTHY,"   I don't know. Just that. Just   ""more shields""...",80B  INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-383,GEORDI,       I've transferred fusion reactors   four through nine into the shield   array.,82   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-384,GEORDI,   That should double the shield   strength.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-385,WORF,   Wavefront intensity has increased   by an order of magnitude. Impact   in three - two - one.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-386,WORF,       Wave front intensity is   continuing to increase.   Structural overpressure is   exceeding one hundred eighty   percent.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-387,PICARD,       La Forge...,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-388,GEORDI,       I don't understand. That should   have been enough.,84   INT. ENGINEERING,ENGINEERING,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-389,GEORDI,   We could run the shield grid   directly off the warp drive.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-390,PICARD,       Make it so.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-391,WORF,       Initiating warp transfer pathways   now...,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-392,GEORDI,   Diverting warp power to the   shields.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-393,TIMOTHY,"   ""Warp power to the shields""...   they said that too, Data... I'm   positive...",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-394,WORF,"       Wavefront intensity has increased   by a factor of ten. Contact in   forty-seven seconds. Without   additional power to the shields,   the outer hull will not hold...",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-395,RIKER,       La Forge...,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-396,GEORDI,   Warp transfer to the shields   complete. That's as strong as   they're gonna get.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-397,WORF,   Impact in fifteen seconds.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-398,DATA,   Drop the shields.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-399,RIKER,"   That's suicide, Data.",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-400,DATA,"   Captain, drop the shields.",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-401,PICARD,       Drop the shields.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-402,WORF,       Aye.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-403,DATA,   Our own shields caused the   increase in the wavefronts...   we induced harmonic   amplification effects.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-404,RIKER,"   The more energy we dumped into   the shield grid, the worse the   impact...",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-405,DATA,"   Precisely. And that is also what   destroyed the Vico. When Timothy   remembered similar procedures   aboard his ship, I initiated an   analysis of shield output to   wavefront amplitude and discovered   a correlation.",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-406,PICARD,"   If we had transferred all that   warp power to the shields, it   would've torn the ship apart.",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-407,RIKER,"   Status, Ensign.",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-408,ENSIGN FELTON,   Navigation is coming back on line.,85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-409,PICARD,"   Full about, one quarter impulse.   Take us out of here.",85   INT. BRIDGE,BRIDGE,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-410,TROI ,"   It would seem that our young   ""android"" is finding his way back   to humanity.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-411,DATA,"   It would appear so, Counselor.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-412,TROI,   It'll take a while for his   emotions to catch up. Timothy's   a boy feeling a great deal of   pain. But he is a boy again.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-413,TROI,"   Is this.. difficult for you, Data?",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-414,DATA,   Difficult?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-415,TROI,   To watch him... moving away from   being like you...,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-416,DATA,"   No, Counselor. That would require   an emotional context which I   cannot provide.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-417,DATA ,"   Hello, Timothy.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-418,TIMOTHY,"       How are you, Data?",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-419,DATA,   I am operating within established   parameters. How are you?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-420,TIMOTHY,   I'm fine.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-421,DATA,   Is something wrong?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-422,TIMOTHY,   You probably thought I was pretty   silly. When I had my hair like   yours and everything.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-423,DATA,"   On the contrary, it is said that   imitation is the highest form of   flattery. I was... flattered.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-424,TIMOTHY,   Can we still do things together   -- even if I'm not really an   android?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-425,DATA,   I have many Human friends. I   would be pleased to count you   among them.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-426,TIMOTHY,   That would be...,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
-427,TIMOTHY,       ...acceptable.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,"""Hero Worship""",1991-10-08,The Next Generation
+,character,quote,scene,location,view,episode,date,series,file
+0,PICARD ,"   Captain's log, stardate 45400.3.   Two days ago, Starbase   Five-one-four lost contact with   the research vessel Vico, which   was sent to explore the interior   of a Black Cluster. We are   en route to investigate.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+1,ENSIGN FELTON,"   Captain, we are entering sector   nine-seven.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+2,DATA,"   Sir, I am picking up massive   gravitational fluctuations...",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+3,PICARD,"   Take us out of warp, Ensign.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+4,ENSIGN FELTON,"   Yes, sir.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+5,WORF,   The Black Cluster is in visual   range.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+6,PICARD,   On screen.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+7,WORF,"   Aye, Captain.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+8,RIKER,"   Let's find that ship. Full sensor   sweep, Mister Data.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+9,DATA,"       Yes, Commander.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+10,RIKER,   It's quite a sight.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+11,PICARD,       One of the most ancient formations   in the galaxy.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+12,DATA,   I have located the Vico. The   vessel appears to be adrift.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+13,RIKER,   Let's see it.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+14,RIKER,   Life signs?,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+15,WORF,"   Nothing, Commander.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+16,RIKER,"   Damage report, Mister Data.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+17,DATA,       The outer and inner hulls have   been breached. Decks seven   through twelve are exposed to   space.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+18,RIKER,   Set up a translink to their   computer core. Let's see what   happened.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+19,DATA,"   I cannot, sir. The emergency   bulkheads on that deck are in   place. Our linkup signal cannot   penetrate them.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+20,PICARD,"       Structural status, Commander.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+21,DATA,   Stress readings indicate   considerable pressure on the   transverse supports.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+22,PICARD,   Is it stable enough for an away   team?,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+23,DATA,"       Yes, sir. But the risk of   structural collapse is high.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+24,PICARD,       Have transporter room one maintain   a lock on each member of your   away team.     ,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+25,PICARD ,   I want you out of there at the   first sign of trouble.,2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+26,RIKER,"   Aye, Captain.       Ensign, take us to fifteen   thousand meters.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+27,ENSIGN FELTON,"   Yes, sir.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+28,RIKER,"       Data, you're with me.",2    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+29,DATA,       This station is inoperable.,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+30,GEORDI,       This one's stuck in a feedback   loop.,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+31,RIKER,   Let's try to tap directly into   the computer core.,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+32,GEORDI,   There should be an ODN junction   along here somewhere...,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+33,GEORDI,       This looks like a good   possibility...,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+34,RIKER,"   Careful, Geordi. You don't want   to pull out the wrong brick...",5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+35,RIKER,   Data.,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+36,DATA,       Core transfer is engaged.,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+37,GEORDI,"   Exchange protocol verified.       The files seem to be intact. Some   of them, anyway.",5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+38,WEAK,   Is somebody there... ?,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+39,RIKER,       Stay here.       Data.,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+40,TIMOTHY,   Are my parents alright?,6    INT. SCIENCE SHIP CHAMBER - ON TIMOTHY,SCIENCE SHIP CHAMBER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+41,PICARD ,"   Captain's log, supplemental. A   young boy, shielded from our   initial sensor scans, has been   discovered alive by the away team.   The degree of damage to the Vico   is making our rescue attempt   difficult...",8    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+42,PICARD,"       Transporter room one, can you lock   onto him?",9    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+43,PICARD,   And transport directly to   sickbay?,10   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+44,HUTCHINSON,"       I'll try, Captain...       But there's a lot of shielding   to pull him through.",10   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+45,PICARD,   Acknowledged.       Picard to Crusher.,11   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+46,BEVERLY,"   Sickbay here, Captain.",11   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+47,PICARD,   Standby for emergency transport.,11   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+48,BEVERLY,"   Aye, sir. Crusher out.",11   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+49,PICARD,       Picard to Commander Riker.,11   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+50,PICARD,"   Is the boy ready, Number One?",12   INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+51,RIKER,       Everything's gonna be okay...,12   INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+52,RIKER,"       Ready, sir.",12   INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+53,PICARD,   At your signal.,12   INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+54,RIKER,"       Aye, Captain.",12   INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+55,RIKER,   Alright... here we go...,12   INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+56,RIKER,   Energize.,12   INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+57,HUTCHINSON,       The lock is holding. I just can't   resolve the matter stream. Not   with all that victurium alloy in   the way.,13   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+58,HUTCHINSON,   Commander Riker. You'll have to   get him out into the corridor.,14   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+59,RIKER,"       That's gotta weigh over a ton,   Data. Can you move it?",14   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+60,DATA,"   Yes, sir. However, that may   initiate the collapse of the   surrounding supports. I recommend   that you and Geordi return to the   ship.",14   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+61,RIKER,   Agreed.       La Forge...,14   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+62,HUTCHINSON,"       I'm locked onto Commander Data   and the boy, sir. I'll energize   as soon as they've cleared the   bulkheads.",14   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+63,RIKER,"       Whenever you're ready, Data.",14   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+64,DATA,"       Yes, Sir.",16   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+65,TIMOTHY,   You're gonna lift that?,16   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+66,DATA,   Yes. Then I will carry you to   the corridor. We will transport   back to the Enterprise from there.   Do you understand?,16   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+67,TIMOTHY,   How can you pick up something so   heavy?,16   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+68,DATA,   I am an android. My strength is   many times that of a human.,16   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+69,DATA,       Everything is going to be... okay.,16   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+70,DATA,   I will count to three.       One... two... three...,16   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+71,DATA,       Energize!,16   INT. VICO,VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+72,PICARD ,"   Captain's Log, supplemental. A   thorough search of the Vico has   revealed no additional survivors.   Troi has begun the process of   counseling the boy in regard to   the tragedy.",19A  EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+73,TIMOTHY,       We were in the Black Cluster.   I don't know where they came   from... but they had a big ship   -- they kept shooting at us. Then   they beamed over. They had purple   helmets on and phaser rifles.   I saw them. But they didn't see   me...,20   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+74,BEVERLY,"       You're safe now, Timothy. You're   going to be alright.",20   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+75,BEVERLY,       You must be hungry. Would you   like me to get you something to   eat?,20   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+76,DATA,"   Counselor, I must join Commander   La Forge in engineering. If you   will excuse me --",20   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+77,TROI,"   Timothy, would you like Data to   stay a little bit longer?",20   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+78,TIMOTHY,   Yes.,20   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+79,GEORDI,"   Sections of the primary and   secondary hull were torn right   off.       Shearing planes are here, here,   and here.",21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+80,PICARD,       How much longer until we can   access their logs?,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+81,GEORDI,   Less than an hour.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+82,PICARD,   The boy was here.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+83,GEORDI,       The hallway outside the computer   core.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+84,GEORDI,       His mother was the ship's systems   engineer.       The second away team found her   body here -- inside the core.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+85,PICARD,   And the boy's father?,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+86,GEORDI,   Ship's second officer.       He was most likely on the bridge   when it was exposed to space.,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+87,PICARD,       Most likely...,21   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+88,BEVERLY,   He'll sleep for a few hours at   least.       There's no need to keep him here.   But I will need to see him again   tomorrow.,25   WIDEN TO INCLUDE - INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+89,BEVERLY,       You've got some work cut out for   you.,25   WIDEN TO INCLUDE - INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+90,TROI,"       His world is gone, Data. We're   going to have to help him build   a new one.",25   WIDEN TO INCLUDE - INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+91,GEORDI,   This isn't good. I think whatever   hit the Vico set up an E-M pulse   that flashed through their   computer banks.,27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+92,DATA,       Nearly eighty-three percent of   the records have been lost.,27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+93,GEORDI,   And all of their sensor logs.       Let's use what we got from our own   sensors. Call up the structural   analysis and the surface scans...,27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+94,DATA,"   Geordi, as a child, did you ever   experience a traumatic event?",27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+95,GEORDI,   You're wondering about Timothy?,27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+96,DATA,   Yes.,27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+97,GEORDI,"   I was trapped in a fire once, when   I was five -- before I got my   VISOR. It only took about two   minutes before my parents found   me and pulled me out. And nobody   got hurt. But I tell you -- that   was the longest two minutes of   my life. And it was more than   a month before I would let my   parents get out of earshot. I   absolutely needed to know they   were there.",27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+98,DATA,   Timothy no longer has that kind   of support.,27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+99,GEORDI,       Yeah...,27   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+100,TEACHER,       Dara and her brother found   themselves in the land of Tagas...,30   INT. SCHOOL,SCHOOL,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+101,TEACHER,"       ... where the ruler, Elamos the   Magnificent, had proclaimed as   law:",30   INT. SCHOOL,SCHOOL,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+102,TEACHER,"       ""No children will be tolerated   within the Great Kingdom.""",30   INT. SCHOOL,SCHOOL,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+103,TEACHER,"       When Dara saw the proclamation,   she just laughed, saying ""How   magnificent a ruler, to be   frightened by the likes of us... """,30   INT. SCHOOL,SCHOOL,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+104,TEACHER,"       Timothy, we're done with sculpture   for now.",30   INT. SCHOOL,SCHOOL,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+105,TIMOTHY,       It's not finished.,30   INT. SCHOOL,SCHOOL,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+106,TEACHER,   We'll come back to it next period.   Why don't you pick up your   mythology book and follow along?,30   INT. SCHOOL,SCHOOL,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+107,TIMOTHY,   But it's not finished...,30   INT. SCHOOL,SCHOOL,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+108,GEORDI,   Magnetic residual analysis   confirms that the Vico was   attacked inside the Black Cluster.   The graviton wave fronts pushed   the ship to where we found it.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+109,PICARD,   No sign of phaser burns on the   hull.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+110,GEORDI,"   No, sir. The torsional stress   levels point to a disrupter-style   weapon.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+111,DATA,   Fracture points indicate that the   energy burst came from a range   of less than three thousand   meters.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+112,PICARD,   That's a strategy consistent with   a cloaked vessel. Romulan. Or   Klingon... But we're quite a   distance from either of their   territories.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+113,DATA,   The Breen have outposts in this   sector. The attack on the Vico   is consistent with their battle   tactics -- and their level of   technology.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+114,PICARD,   But what would they have been   doing inside the Black Cluster?,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+115,PICARD,"   The boy described a boarding   party, with helmets and phaser   rifles.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+116,GEORDI,   A boarding party?,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+117,GEORDI,"       I don't think that's likely,   sir...",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+118,PICARD,   Counselor...,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+119,GEORDI,"   There was absolutely no evidence   of anybody coming on board the   Vico. We would have found a   transporter field trace. Or if   somebody had used the entry   ports, we would have found an   electrostatic differential in   the docking latches. We didn't.       Maybe he's got an active   imagination.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+120,PICARD,   Or he's lying.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+121,TROI,"   If he is lying, I haven't been   able to sense it. Perhaps his   level of emotional trauma is too   high.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+122,PICARD,   Why wouldn't he tell us the truth?,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+123,TROI,   He's still in shock... it's hard   to know what's going on in his   mind.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+124,GEORDI,   I'll check the sensor readings   again... but I'm almost sure we   won't find anything.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+125,TROI,   Data -- stay a moment.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+126,TROI,   Captain -- I think we should ask   Data to spend some time with   Timothy.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+127,DATA,   I do not understand.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+128,TROI,"   I'm worried about his   behavior... And what you've just   told me doesn't make me feel any   better. Data, you're the only   one Timothy's reached out to...   because you rescued him. We can   use your relationship with him   to help his recovery.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+129,PICARD,   Would Timothy also be more   inclined to tell Data the truth   about what happened?,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+130,TROI,   That's a possibility.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+131,PICARD,"       Mister Data, proceed with the   child as Counselor Troi suggests.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+132,DATA,"   Yes, sir.",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+133,DATA,"   Exactly how shall I proceed,   Counselor?",33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+134,TROI,   Just be with him. You're a   presence he trusts. That's what   he needs most right now.,33   INT. BRIDGE - SCIENCE STATION (OPTICAL),BRIDGE - SCIENCE STATION,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+135,TIMOTHY,       What.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+136,TIMOTHY,   Data.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+137,DATA,"   Hello, Timothy. May I enter?",35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+138,TIMOTHY,   Yeah.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+139,DATA,   I see you are attempting to   recreate the Dokkaran temple of   Kural-Hanesh.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+140,TIMOTHY,   Isn't it great?!,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+141,TIMOTHY,"       See, there's the big archway   the teacher told us about.   That's where everybody came in.",35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+142,TIMOTHY ,       That's where they stood. And   that's where the altar was -- by   the big windows.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+143,TIMOTHY,       What do you think?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+144,DATA,   Do you wish a frank evaluation?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+145,DATA,   It lacks the harmony that   characterized this particular   temple and Dokkaran culture in   general.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+146,TIMOTHY,   You hate it.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+147,DATA,   I am not capable of hatred.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+148,TIMOTHY,       I can't do anything right.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+149,DATA,   You are making an unwarranted   extrapolation. I was merely   offering an aesthetic analysis   of this particular model.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+150,TIMOTHY,    (continuing; re: the     mess)   I told you.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+151,DATA,   Timothy... ?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+152,TIMOTHY,       What.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+153,DATA,   May I suggest a different   approach?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+154,DATA,       You are attempting to construct   the upper tiers before you have   completed the lower.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+155,DATA,       Observe.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+156,GEORDI,   La Forge to Data.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+157,DATA,       Data here.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+158,GEORDI,   I need your help with the shield   modulators.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+159,DATA,"       I will join you in a moment,   Geordi. Data out.",35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+160,DATA,   Commander La Forge requires my   assistance.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+161,TIMOTHY,   Incredible.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+162,TIMOTHY,       How come you can do that?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+163,DATA,   I am designed to exceed human   capacity both mentally and   physically.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+164,TIMOTHY,   Androids are better than humans?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+165,DATA,"   ""Better"" is a highly subjective   term. I do not, for example,   possess the ability to experience   emotions as humans do.",35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+166,TIMOTHY,   No emotions? You mean you can't   be happy or sad?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+167,DATA,   That is correct.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+168,TIMOTHY,   Why not?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+169,DATA,   My positronic brain is not capable   of generating those conditions.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+170,TIMOTHY,   Can we build something else   later?,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+171,DATA,   That would be acceptable.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+172,TIMOTHY,   Bye.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+173,DATA,   Goodbye.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+174,TIMOTHY,       I am designed to exceed human   capacity...,39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+175,TIMOTHY,       That is correct...,39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+176,DATA,   The Black Cluster was formed   almost nine billion years ago when   hundreds of protostars collapsed   in close proximity. The resulting   gravitational forces are violent   and highly unpredictable.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+177,GEORDI,"   To get anywhere near the center,   we'll have to push through the   gravitational wavefronts -- just   like the science vessel was   designed to do. I've adjusted   our shields accordingly.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+178,WORF,   The gravitational forces will   affect sensor accuracy. Detecting   an enemy vessel will be difficult.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+179,RIKER,   Maybe that's what happened to the   Vico -- they didn't see anything   coming until it was too late.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+180,PICARD,   Has the boy volunteered any   further information?,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+181,TROI,   No. But we have an appointment   in less than an hour.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+182,PICARD,"   If there's any possibility of   getting more from him, I'd like   you to pursue it.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+183,PICARD,"   Regardless, we need to continue   our investigation.    (beat, informing the     room)   We'll enter the cluster at   oh-seven-hundred tomorrow morning.   Dismissed.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+184,TROI,"   Hello, Timothy. Are you ready   to go?",43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+185,TIMOTHY,"   Yes, Counselor. I am ready.",43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+186,TROI,"   How are you feeling, Timothy?",43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+187,TIMOTHY,   I am functioning within   established parameters.,43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+188,TROI,   Established parameters? You   sound like Data.,43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+189,TIMOTHY,       I am an android.,43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+190,TROI,"   I see... Well. Let's go for our   walk, shall we?",43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+191,TIMOTHY,   That would be acceptable.,43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+192,TIMOTHY,       Androids do not need to eat or   drink.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+193,TIMOTHY,"       However, sometimes we like to   taste things.       A Tamarin frost, please.",44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+194,TIMOTHY,"       Would you like anything,   Counselor?",44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+195,TROI,"   No, I'm fine, thank you.",44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+196,TIMOTHY,   As you wish.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+197,TROI,   So... you're no longer a Human?,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+198,TIMOTHY,   I'm an android.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+199,TROI,   When did this happen?,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+200,TIMOTHY,   I've always been an android.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+201,TROI,   What's it like... being an   android?,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+202,TIMOTHY,   I am designed to exceed human   capacity both mentally and   physically. But I do not   experience emotions.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+203,TROI,   You don't? No emotions at all?,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+204,TIMOTHY,   That is correct.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+205,PICARD,   An android.,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+206,TROI,"   I know it sounds unusual - but   it is understandable.   Technically, it's called   enantiodromia. Conversion into   the opposite. Timothy went from   Human to machine. From being   emotional to being emotionless.   But the underlying trauma is still   there. He's just found a new way   to repress it.",46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+207,PICARD,   How long will this behavior last?,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+208,TROI,"   As long as he needs it to.   Timothy is rebuilding his identity   as best he can. The android   persona is only one step along   the way. When he becomes stronger   and more sure of himself, it   should drop away naturally.",46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+209,PICARD,   I assume this is not a time to   confront him about what happened   to his ship.,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+210,TROI,   Not yet. The best thing we can   do right now is to let Timothy   take us where he wants to go.   We should support the process   -- even encourage it.,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+211,PICARD,   Mister Data -- I'd like you to   make Timothy the best android he   can possibly be.,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+212,DATA,"   Timothy, your head movements   are... counterproductive. Can   you be still?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+213,TIMOTHY,   But you do it.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+214,DATA,   The servo-mechanisms in my neck   are designed to approximate Human   movements.       I did not realize the effect was   so... distracting.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+215,TIMOTHY,   I like it.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+216,TIMOTHY,"   Data, are there any other androids   in Starfleet?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+217,DATA,   No. I am the only one.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+218,TIMOTHY,   How come you're not captain?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+219,DATA,   My service experience does not   yet warrant such a position.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+220,TIMOTHY,"   Data, what's the scariest thing   that ever happened to you?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+221,DATA,   Fear is a quality that I do not   possess.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+222,TIMOTHY,   Because it's an emotion.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+223,DATA,   That is correct.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+224,TIMOTHY,   But what if you had a nightmare?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+225,DATA,   I have never had a nightmare.   I do not require sleep.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+226,DATA,"   Timothy, are you having...   disturbing dreams?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+227,TIMOTHY,   I do not require sleep.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+228,DATA,   Is it satisfactory?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+229,TIMOTHY,   It's perfect.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+230,BEVERLY,   Transfer circuits are functioning   properly.,55   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+231,TIMOTHY,   Within established parameters?,55   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+232,BEVERLY,       Absolutely.,55   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+233,BEVERLY,"       Input processing, pattern   recognition... all within   established parameters.",55   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+234,DATA & TIMOTHY,"       Thank you, Doctor.",55   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+235,TIMOTHY,   I ran out of red ochre.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+236,DATA,   You may use mine.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+237,TIMOTHY,   Thank you.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+238,DATA,   Perhaps you should return to your   quarters.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+239,TIMOTHY,   I'm fine.       The servo-mechanisms in my mouth   are designed to approximate human   movements.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+240,TIMOTHY,       Not bad.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+241,DATA,   Thank you.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+242,DATA,   It is very... expressive.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+243,TIMOTHY,   Thank you.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+244,DATA,   Is your painting representative   of something?,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+245,TIMOTHY,       It's just a painting.,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+246,DATA,"   Timothy, you understand that you   may speak with me about anything   you wish -- any subject.",57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+247,TIMOTHY,       I understand...,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+248,DATA,   At times I too find it difficult   to share my thoughts with others.     ,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+249,DATA ,   I am not always confident that   I am expressing myself in a way   that Humans will comprehend. But   I know that...,57   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+250,GEORDI,       That's fine.,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+251,GEORDI,       Just make sure the tolerance   doesn't slip more than point three   one in either direction.,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+252,DATA ,"   Hello, Geordi.",60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+253,GEORDI,"   Hey, Data.",60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+254,DATA,   I hope I am not disturbing your   work.,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+255,GEORDI,       Nope. Just finishing up here.,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+256,GEORDI,   You need something?,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+257,DATA,"   I would like to confide in you,   Geordi. However, I am finding   my thoughts difficult to   verbalize.",60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+258,GEORDI,   It's about Timothy.,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+259,DATA,       How did you know?,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+260,GEORDI,"   If I had a boy going around   pretending to be just like me,   I might be a little uncomfortable   too.",60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+261,DATA,   I am not capable of being   uncomfortable. But I am   undergoing a perceptual paradigm   shift.,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+262,GEORDI,"   You better define that for me,   Data.",60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+263,DATA,"   I have spent my entire life   emulating Humans. Now, I find   myself confronted by a Human who   is emulating me.",60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+264,GEORDI,   I got you... the shoe's on the   other foot...,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+265,DATA,"   Ah, the metaphor... yes, that is   correct. I am forced to realize   that I have largely ignored the   aspects of myself that others   would find attractive.",60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+266,GEORDI,"   That's a very Human thing to do,   Data.",60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+267,GEORDI,   A lot of us have a way of not   appreciating ourselves. We're   too close to the subject.       Keep an eye on Timothy... he might   help you learn to understand   yourself a little better.,60A  INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+268,WORF,   We are approaching the perimeter.,62   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+269,WORF,       I'm picking up the gravitational   wavefronts.,62   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+270,RIKER,   Engage forward shields --   thirty-five percent.,62   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+271,WORF,   Shields up.,62   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+272,PICARD,"   Drop to one quarter impulse,   Ensign.",62   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+273,ENSIGN FELTON,"   Yes, Sir.",62   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+274,RIKER,       Bridge to engineering.,62   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+275,GEORDI,"       Adjusting shield frequencies now,   Commander. We'll have this   smoothed out in just a second...",64   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+276,RIKER,"   Correct for any course deviations,   Ensign.",65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+277,ENSIGN FELTON,"   Yes, sir.",65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+278,RIKER,   Resume one-third impulse.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+279,WORF,   -- Captain!,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+280,WORF,"       I am reading something at four   hundred thousand kilometers, off   our starboard bow. Possibly a   ship.",65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+281,RIKER,   Red alert.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+282,PICARD,"   Take us to visual range, Ensign.",65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+283,ENSIGN FELTON,       Adjusting course...,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+284,WORF,    (puzzled; off     instruments)   Sensor readings have   disappeared... Now picking up   another reading at four hundred   thousand kilometers -- off the   port bow.       It's gone... No -- it's back to   starboard.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+285,RIKER,"       Captain, the Black Cluster is   distorting the sensors. We're   picking up echoes of the Enterprise   reflecting off the wavefronts.",65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+286,PICARD,   Cancel Red Alert. Adjust the   sensors to compensate for the   distortion.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+287,WORF,   Aye...,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+288,PICARD,   Sensor difficulties have been   reported by ships traveling   through Black Clusters -- but not   to this extreme.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+289,WORF,   This formation is seven times more   massive than any previously   explored. That could explain the   difference.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+290,PICARD,       Resume previous course.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+291,ENSIGN FELTON,"   Yes, sir.",65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+292,DATA,   He laughed.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+293,TROI,"   Yes. It's nice to see, isn't   it... ?",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+294,DATA,   It is certainly not consistent   with his android persona...,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+295,TROI,   I'd say he's beginning the process   of letting go of that fantasy...,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+296,DATA,   Then my work with him is complete?,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+297,TROI,"       No, I don't think it is, Data...   A laugh is one step in the right   direction... we need to help him   take a few more steps...",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+298,DATA,"   How, Counselor?",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+299,TROI,   I'd like you to talk to him...   about your own fascination with   humanity.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+300,TROI,   If you can explain the appeal that   humanity has for you... Timothy   might find it easier to become   a boy again.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+301,TIMOTHY,   This is great. How's yours?,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+302,DATA,"   The complex polysaccharides, in   reaction with the carbon dioxide,   produces an unusual combination   of texture and efforvescence.",69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+303,TIMOTHY,   But how does it taste? Is it   good?,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+304,DATA,"   I am not capable of ""tasting"" in   the manner which you describe.   I can analyze the composition of   a dessert and make comparative   conclusions about its possible   effect on the human palate.   However, I neither like it, nor   dislike it...",69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+305,TIMOTHY,   Oh. I didn't realize that.,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+306,DATA,"   I have often wondered what it must   be like... to have one's mouth   ""water"" in anticipation of the   arrival of a confection... Or   to feel the pleasure I have   observed in people as they consume   it...",69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+307,TIMOTHY,   You sound like you don't want to   be an android.,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+308,DATA,   I am an android. That will never   change.,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+309,TIMOTHY,   But... if you could change...   would you?,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+310,DATA,   I have always wished to be Human.   I study people carefully in order   to more closely approximate Human   behavior.,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+311,TIMOTHY,   Why? We're stronger and smarter   than Humans... we can do more than   they can.,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+312,DATA,   But I cannot take pride in my   abilities. I cannot take   pleasure in my accomplishments.,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+313,TIMOTHY,"   But we never feel bad, either...",69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+314,DATA,   I would gladly risk feeling bad   at times... if it meant that I   could also taste my dessert.,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+315,WORF,"   Captain, gravitational wavefront   intensity is increasing steadily   -- eleven hundred standard ""G""   units and rising.",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+316,PICARD,"       Let's see if anyone's out there.   Attempt a wide-range sensor sweep,   Lieutenant Worf.",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+317,WORF,"       Aye, sir.",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+318,WORF,"       The gravitational distortion is   too great, Captain. The scanning   signal is again being reflected   off the wavefronts. But I am   unable to compensate.       The sensors are useless.",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+319,PICARD,"       Mister Data to the bridge, please.",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+320,DATA,   Acknowledged.,	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+321,PICARD,       Adjust sensors to short range...   attempt a limited positron scan...,	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+322,WORF,"   Aye, sir.",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+323,WORF,   The distortion is still in effect.,	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+324,RIKER,   Try to jacket the scanning beam.,	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+325,WORF,   The secondary beam is being   distorted as well.,	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+326,PICARD,"   Mister Data, our sensors have been   rendered ineffective by the field   distortion. I want your   analysis...",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+327,PICARD,"       Mister Worf, fire phasers, maximum   intensity, narrow spectrum, zero   zero one mark zero four five.",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+328,RIKER,"       An experiment, Captain?",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+329,PICARD,   Exactly.,	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+330,WORF,"   Firing, Sir.",	INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+331,PICARD,"   Explanation, Mister Data.",74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+332,DATA,   The phaser energy was reflected   by the gravitational wavefronts.   It is similar to the phenomenon   distorting the sensor signals.,74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+333,PICARD,   Our sensors and our phasers --   both useless.       This reflection phenomenon --   would it have the same effect on   a disruptor-style weapon?,74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+334,DATA,"   Yes, sir. Disruptors would be   ineffectual.",74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+335,PICARD,   And a ship's cloaking field?,74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+336,DATA,   It would be extremely difficult   to maintain.,74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+337,PICARD,"   Mister Data, is it at all likely   that the Vico was attacked inside   the cluster?",74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+338,DATA,"   Given the effects we have   observed, the probability is   exceedingly remote.",74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+339,PICARD,       Picard to Troi.,74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+340,TROI,"   Yes, Captain?",74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+341,PICARD,       Please bring Timothy to my ready   room.,74   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+342,PICARD,"       Timothy, can you tell us what   happened to your ship?",79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+343,TIMOTHY,   I did tell you.,79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+344,TROI,   Tell us again...,79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+345,TIMOTHY,       We were attacked.,79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+346,DATA,   That is highly unlikely. Our   investigations have clearly   demonstrated --,79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+347,TIMOTHY,   -- We were attacked! We were   attacked!,79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+348,DATA,"   Timothy, androids do not lie.",79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+349,TIMOTHY,       It was me.,79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+350,DATA,   Please explain.,79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+351,TIMOTHY,   It was me. I did it. I killed   them all...,79A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+352,TIMOTHY,   Everything was shaking. I lost   my balance. I was just trying   to hold on to something. I didn't   mean to do it.,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+353,PICARD,"   What didn't you mean to do,   Timothy?",80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+354,TIMOTHY,   My arm... it hit the computer   panel. That's what destroyed the   ship.,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+355,TROI,   The ship was damaged when your   arm hit the computer panel... ?,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+356,TROI,"   Timothy, listen to me -- the   damage to your ship might have   occurred at the same time you   touched the panel but it was only   a coincidence... this was not   your fault...",80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+357,TIMOTHY,   Yes it was...,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+358,DATA,   It is not possible. The onboard   control systems for every starship   require a user code clearance.   You could not have inadvertantly   affected any of the Vico's   systems.,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+359,PICARD,   Your computer had safety   precautions. There's nothing   you could have touched that would   have damaged your ship.,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+360,TROI,   You're not responsible for what   happened to your parents.,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+361,TIMOTHY,   But if it wasn't me...,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+362,PICARD,   We're trying to determine what   happened right now. And anything   that you can remember that may   assist...,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+363,TIMOTHY,   That's just how it was... when   it started on the Vico...,80A  INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+364,WORF,   Wavefront intensity has   increased...,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+365,RIKER,   Increase shields to seventy-five   percent.,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+366,WORF,   Aye.,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+367,RIKER,"   Damage, Mister Worf.",80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+368,WORF,"   Minimal, Sir. The shields are   holding.",80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+369,PICARD,"   Ensign, full about -- go to warp   two.",80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+370,ENSIGN FELTON ,   The gravitational distortion is   too high -- we can't maintain a   warp field.,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+371,TIMOTHY,   We couldn't get out either...,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+372,PICARD,   Full shields.,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+373,WORF,   Aye.,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+374,ENSIGN LOCKLIN ,   Captain -- impulse power has been   disrupted. The helm won't   respond.,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+375,TROI,"   Timothy, I think you and I should   go below... get out of everyone's   way, okay... ?",80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+376,TIMOTHY,   No...,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+377,RIKER,       Riker to La Forge. Can you give   me more power to the shields?,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+378,GEORDI,   Stand by...,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+379,TIMOTHY,"   That's what they kept saying --   ""more shields,"" ""more shields.""",80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+380,DATA,"   Timothy, accompany me...",80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+381,DATA,       I want you to recall everything   you heard people say aboard the   Vico before it was destroyed...,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+382,TIMOTHY,"   I don't know. Just that. Just   ""more shields""...",80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+383,GEORDI,       I've transferred fusion reactors   four through nine into the shield   array.,82   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+384,GEORDI,   That should double the shield   strength.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+385,WORF,   Wavefront intensity has increased   by an order of magnitude. Impact   in three - two - one.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+386,WORF,       Wave front intensity is   continuing to increase.   Structural overpressure is   exceeding one hundred eighty   percent.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+387,PICARD,       La Forge...,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+388,GEORDI,       I don't understand. That should   have been enough.,84   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+389,GEORDI,   We could run the shield grid   directly off the warp drive.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+390,PICARD,       Make it so.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+391,WORF,       Initiating warp transfer pathways   now...,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+392,GEORDI,   Diverting warp power to the   shields.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+393,TIMOTHY,"   ""Warp power to the shields""...   they said that too, Data... I'm   positive...",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+394,WORF,"       Wavefront intensity has increased   by a factor of ten. Contact in   forty-seven seconds. Without   additional power to the shields,   the outer hull will not hold...",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+395,RIKER,       La Forge...,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+396,GEORDI,   Warp transfer to the shields   complete. That's as strong as   they're gonna get.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+397,WORF,   Impact in fifteen seconds.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+398,DATA,   Drop the shields.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+399,RIKER,"   That's suicide, Data.",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+400,DATA,"   Captain, drop the shields.",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+401,PICARD,       Drop the shields.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+402,WORF,       Aye.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+403,DATA,   Our own shields caused the   increase in the wavefronts...   we induced harmonic   amplification effects.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+404,RIKER,"   The more energy we dumped into   the shield grid, the worse the   impact...",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+405,DATA,"   Precisely. And that is also what   destroyed the Vico. When Timothy   remembered similar procedures   aboard his ship, I initiated an   analysis of shield output to   wavefront amplitude and discovered   a correlation.",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+406,PICARD,"   If we had transferred all that   warp power to the shields, it   would've torn the ship apart.",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+407,RIKER,"   Status, Ensign.",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+408,ENSIGN FELTON,   Navigation is coming back on line.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+409,PICARD,"   Full about, one quarter impulse.   Take us out of here.",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+410,TROI ,"   It would seem that our young   ""android"" is finding his way back   to humanity.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+411,DATA,"   It would appear so, Counselor.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+412,TROI,   It'll take a while for his   emotions to catch up. Timothy's   a boy feeling a great deal of   pain. But he is a boy again.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+413,TROI,"   Is this.. difficult for you, Data?",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+414,DATA,   Difficult?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+415,TROI,   To watch him... moving away from   being like you...,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+416,DATA,"   No, Counselor. That would require   an emotional context which I   cannot provide.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+417,DATA ,"   Hello, Timothy.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+418,TIMOTHY,"       How are you, Data?",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+419,DATA,   I am operating within established   parameters. How are you?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+420,TIMOTHY,   I'm fine.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+421,DATA,   Is something wrong?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+422,TIMOTHY,   You probably thought I was pretty   silly. When I had my hair like   yours and everything.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+423,DATA,"   On the contrary, it is said that   imitation is the highest form of   flattery. I was... flattered.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+424,TIMOTHY,   Can we still do things together   -- even if I'm not really an   android?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+425,DATA,   I have many Human friends. I   would be pleased to count you   among them.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+426,TIMOTHY,   That would be...,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+427,TIMOTHY,       ...acceptable.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt

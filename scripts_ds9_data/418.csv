@@ -1,397 +1,397 @@
-,character,quote,scene,location,view,episode,date,series
-0,SISKO,   Come in.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-1,KIRA,"   Commander, I just received word that    a Valerian transport has requested    permission to dock here at the    station.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-2,SISKO,       Let me guess.  You're here to    recommend we deny their request.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-3,KIRA,   The Valerians ran weapons-grade    dolamide to Cardassian forces during    the occupation of Bajor.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-4,SISKO,   I'm aware of that...,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-5,KIRA,   I believe they're continuing to ship    weapons to the Cardassians... weapons    that could eventually be used to    attack Bajor.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-6,SISKO,"   I share your concern, Major.  But    unless we have proof to back up those    charges...",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-7,KIRA,"   The proof is on the ship.  Let me    conduct a search and if I find any    dolamide, we can confiscate it.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-8,SISKO,"   I'm afraid it's not that simple.     Dolamide is used for power generators,    reactors, in short-range transports...",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-9,KIRA,   And for weapons.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-10,SISKO,   Only if it's extremely pure.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-11,KIRA,   So we're going to do nothing.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-12,SISKO,   I didn't say that.  But we can't    just board their ship and start    tearing it apart.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-13,KIRA,   Then what can we do?,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-14,SISKO,   You bring me evidence that the    Valerians are dealing in weapons-   grade dolamide and I promise you the    Federation will use every kind of    diplomatic pressure to stop them.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-15,KIRA,   You think that'll work?,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-16,SISKO,       It will if the Valerians want to    keep trading with the Federation.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-17,KIRA,"    (still not totally     convinced)   All right, we'll try it your way.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-18,SISKO,   Good.  Then you'll see to it that    the Valerian ship is cleared for    docking.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-19,KIRA,"    (still doesn't relish     the thought)   Yes, sir.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-20,DAX,"   Chief, I have a subspace message for    you from your wife.  They've arrived    safely on Bajor.",3    INT. OPS - CONTINUOUS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-21,O'BRIEN,"   Imagine, taking eleven bored    schoolkids on a visit to the grain    processing center at Lasuma.  I'm    glad it's not me.",3    INT. OPS - CONTINUOUS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-22,ODO,       Here's the information you wanted on    the captain of the Valerian ship.,3    INT. OPS - CONTINUOUS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-23,KIRA,   Let me know if you find anything    else.,3    INT. OPS - CONTINUOUS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-24,DAX,   Sensors are reading elevated neutrino    levels at the wormhole... Something's    coming through...,3    INT. OPS - CONTINUOUS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-25,KIRA,   On screen.,3    INT. OPS - CONTINUOUS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-26,,   The wormhole opens and a KLINGON    BIRD OF PREY comes blasting through.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-27,DAX,       It's the Klingon vessel Toh'Kaht.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-28,KIRA,   They're not due back for another    month.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-29,SISKO,   Open hailing frequencies.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-30,O'BRIEN,   I'm reading a transporter signal.     Someone must have beamed off the    ship just as it exploded.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-31,SISKO,   Mister O'Brien -- ?,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-32,O'BRIEN,   Something's interfering with the    rematerialization process.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-33,DAX,   Lock onto him with our Transporter    signal.  Try boosting the annular    containment field.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-34,O'BRIEN,   I'm already there...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-35,BASHIR,   He's been hit by weapons fire.  It's    severe.  We've got to get him into    cryo-stasis.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-36,KLINGON,   Victory...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-37,BASHIR,   He's dead.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-38,SISKO,"   Station log, Stardate 46922.3.  We    have identified the dead Klingon --    his name was Hon-Tihl, First Officer    of the Toh'Kaht.  Why he died, and    the cause of his ship's destruction,    is still unknown.",8    EXT. SPACE - DEEP SPACE NINE,SPACE,EXT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-39,BASHIR,"   I found tritanium alloy fragments in    his chest and upper arms.  If that    was all, we could have saved him.     But those weapon burns were too    severe.",9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-40,SISKO,   Is there any way to identify the    kind of weapon used?,9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-41,BASHIR,       I'm running a microtissue analysis    right now.  We should have the results    in a couple of hours.,9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-42,KIRA,"   The Klingon said ""victory"" before he    died.  I wonder what he meant.",9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-43,DAX,"   According to the Klingon high command,    the Toh'Kaht was in the gamma quadrant    on a routine bio-survey mission...",9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-44,O'BRIEN,"   ""Victory""... during a bio-survey... ?",9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-45,ODO,   As I recall the Toh'Kaht put in for    a maintenance check.,9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-46,SISKO,"   Ask around the station, see if you    can learn anything about this bio-   survey.",9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-47,SISKO,       I'd like the two of you to take a    Runabout and try to find the    Toh'Kaht's mission recorder.  I want    to know what caused that ship to    explode.,9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-48,O'BRIEN,"   Aye, Sir.",9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-49,O'BRIEN,   Lieutenant...,9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-50,DAX,   Yes...,9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-51,O'BRIEN,   You coming?,9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-52,DAX,"   I'm sorry, I was... nevermind...",9    INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-53,KIRA,   Dammit.  Not yet...,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-54,VALERIAN,"   Deep Space Nine, this is Valerian    vessel Sherval Das.  We are entering    the Bajoran system, clear us for    docking.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-55,KIRA,"   Negative, Sherval Das.  There's going    to be a slight delay.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-56,VALERIAN,   We are in need of maintenance.  It    has been a long journey.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-57,KIRA,   I'm sure it has.  But we've got our    own problems.  You'll just have to    wait --,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-58,SISKO ,"   Stand by, Sherval Das.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-59,SISKO,   I'd like an explanation.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-60,KIRA,   I'm not finished running the    background check on their ship.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-61,SISKO,   We agreed there'd be no delays in    the docking procedure --,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-62,KIRA,       They just visited Fahleena Three and    Mariah Four -- the same two stops    they used to make when they were    running dolamide to the Cardassians.     The last stop would be the    purification plant on Ultima Thule.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-63,KIRA,"   If I can place them there, we'll    know they're carrying weapons-grade    material.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-64,SISKO,       Your ship is cleared for docking.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-65,VALERIAN,"   Thank you, Commander.  Sherval Das    out.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-66,SISKO,   No delays...,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-67,QUARK,"   Isn't it always the same old story?     I hear it day in, day out.  She takes    you for granted.  She doesn't    appreciate your... finer qualities.",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-68,QUARK,       The cut of your jib... The twist of    your tulamak...,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-69,QUARK,       The way you turn a phrase...       What does she want?,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-70,QUARK,       Two Pistres?  For all my compassion?       You call that a tip?  No wonder she    left you!  You piker!,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-71,ODO,"   Trouble, Quark?",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-72,QUARK,   Nothing I can't handle.,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-73,ODO,   I heard you had some problems with    the Klingons the last time they came    through...,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-74,QUARK,"   Spare me from beings who think pain    is pleasure.       In small doses, perhaps.  But the    Klingons?  They're rough on the    holosuites.  They break the furniture.",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-75,QUARK,"       I'm still fixing the walls in    Holosuite Six.       I'm not saying they don't spend big.     I'm just saying by the time you figure    in the damage, I'm lucky to break    even.",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-76,ODO,"   They do tend toward bluster, don't    they?  Throwing their weight around.     Bragging...",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-77,QUARK,"   This crew was worse than the last.     ""Our glorious mission.""  I asked    them, ""what's so glorious about a    gamma quadrant bio-survey?""",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-78,ODO,       And what did they say?,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-79,QUARK,"   Crafty tonight, aren't we, Odo?     Looking for clues about the fate of    the Klingons.  If I tell you what I    heard, what do I get in return?",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-80,ODO,"   Chances are, what you heard won't    help.  So why should I give you    something for it?",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-81,QUARK,"   Because otherwise, I heard nothing.",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-82,ODO,"   Those damaged holosuites.  Work crew    seven is probably doing the repairs,    am I right?",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-83,QUARK,       Yes...,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-84,ODO,"   Well, it looks as though I might    have to put in a priority request    for work crew seven.  The bulkheads    in security could use a little shoring    up.",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-85,QUARK,"   They said they were coming back    through the wormhole with something    that would ""make the enemies of the    Klingon Empire tremble.""",14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-86,ODO,   Their exact words?,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-87,QUARK,   A direct quote.,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-88,ODO,   You've been most helpful.,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-89,QUARK,       Don't let it get around.,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-90,QUARK,   Odo?,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-91,QUARK,   Doctor Bashir!  Doctor Bashir!,14   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-92,BASHIR,"   Welcome back, Constable.",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-93,ODO,   How am I?,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-94,BASHIR,   How do you feel?,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-95,ODO,   Fine.,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-96,BASHIR,   Good.       Because I've got no way to know.     Your body chemistry defies analysis.,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-97,ODO,   I don't remember anything...,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-98,ODO,"       But, I'm back to normal?",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-99,BASHIR,"   Like I said -- you tell me.  I don't    know what caused it, and I couldn't    tell you if it'll happen again.     There's really nothing more I can do    here.",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-100,ODO,"   Then thank you for your time, Doctor.",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-101,BASHIR,"   Tell me Odo, do you share my concern    about this Valerian situation?",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-102,ODO,   Concern?,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-103,BASHIR,   I think you know what I mean.,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-104,ODO,       Why don't you tell me and then you    can be sure I know.,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-105,BASHIR,   Just don't be surprised if the uneasy    alliance on this station starts to    show a few cracks...,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-106,ODO,"   What ""uneasy alliance""?",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-107,BASHIR,"   Commander Sisko and Kira.  Mark my    words, there's going to be trouble.",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-108,ODO,"   Exactly what are you basing all this    on, Doctor?",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-109,BASHIR,"   Very clever, Constable.    (a conspiratorial     nod)   You're probably right.  It's still    too early to commit oneself either    way.",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-110,ODO,   Are you finished with me?,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-111,BASHIR,   Unless you'd like to pour yourself    through my phoretic analyzer -- I'd    love to see the results.,18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-112,ODO,"   Another time, perhaps.",18   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-113,KIRA,   I've got them!,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-114,SISKO,   Who?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-115,KIRA,       The Valerians.  Their ship was at    the Ultima Thule station one week    ago.  That confirms it.  They're    definitely running dolamide.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-116,SISKO,   So... ?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-117,KIRA,"   So I've got an armed team ready to    board their vessel.  We confiscate    the material and send them back where    they came from.  Frankly, I'm half    tempted to take them to Bajor and    press charges.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-118,SISKO,   By whose authority?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-119,KIRA,   You're not going to do anything about    this?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-120,SISKO,   I'm not.  And neither are you.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-121,SISKO,"       Commanded by a Federation officer.     Commanded by me.  Are you challenging    that, Major?",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-122,KIRA,"   No, Sir...",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-123,SISKO,   Good...       Now is there anything else I can do    for you?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-124,DAX,   Short-range sensors are picking up    some debris.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-125,O'BRIEN,   Looks like duranium alloy.  Probably    pieces of the Klingon's secondary    hull.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-126,DAX,   It's possible their mission recorder    is somewhere in the debris.  The    magnetic field from the duranium    could be masking it.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-127,O'BRIEN,   Let's get a little closer...,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-128,O'BRIEN,   Major Kira's been awfully aggressive    toward Commander Sisko lately...    about station policy.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-129,DAX,       An honest difference of opinion.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-130,O'BRIEN,"   We're within a thousand meters...    Secondary hull fragments, pieces of    the bulkhead... Still no sign of the    recorder.",20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-131,DAX,   I'm taking us closer...,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-132,O'BRIEN,   What if it's more than a difference    of opinion?  What if Kira thinks the    Bajorans don't need us on DS Nine?     It is their station.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-133,DAX,   That would be suicidal.  Without a    Federation presence Bajor would be    vulnerable again to the Cardassians.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-134,O'BRIEN,   That doesn't mean there aren't plenty    of misguided Bajorans who think they    can go it alone.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-135,DAX,   Isn't it always like that?  Bitterness    is the coin by which generosity is    repaid.       I once helped the Federation deliver    rain-inducing technology to Kelton    Four.  The end of the drought was    the end of contact.  Talk about fair    weather friends --,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-136,O'BRIEN,"   You've become quite friendly with    Major Kira, haven't you?",20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-137,DAX,"       Have I... ?  Well, yes, I suppose I    have... if you say so...",20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-138,O'BRIEN,"   Well, I wouldn't get too friendly    with the natives if I were you.     Remember where your loyalties lie.",20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-139,DAX,   Of course.  Benjamin and I have been    close for a long time.  Hand and    glove.  I'm on his side -- no question    about it.       That reminds me of the time we found    ourselves --,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-140,O'BRIEN,       Good.  Because anyone against Sisko    is against me.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-141,O'BRIEN,   I'm picking up a weak subspace    transponder signal.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-142,O'BRIEN,       It's the mission recorder.,20   INT. RUNABOUT,RUNABOUT,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-143,KIRA,   Constable...,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-144,ODO,"   Can I help you, Major?",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-145,KIRA,"   You always manage to help me, Odo.     In fact, I'd say we work pretty well    together -- you and I.",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-146,ODO,   Yes.  I suppose our relationship has    always been... cooperative.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-147,KIRA,   Exactly.  And that's just what I    need right now -- your cooperation.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-148,KIRA,       I'm convinced the Valerians have    dolamide on board.  But the evidence    is still circumstantial.  I need    solid proof.       I want you to slip past their security    systems and into their cargo bay.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-149,ODO,   I heard Commander Sisko was adamant    about not interfering with the    Valerian ship.  Has he changed his    mind?,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-150,KIRA,       Yes.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-151,ODO,   How odd.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-152,ODO,       Very well.  I'll keep the two of you    informed of my progress.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-153,KIRA,   That's not necessary.  The Commander's    busy -- no sense in bothering him.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-154,KIRA,"       I can't fool you, Odo.",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-155,ODO,"       You wanted me to go behind Sisko's    back, didn't you?",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-156,KIRA,       Forget it.  It was a bad idea.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-157,KIRA,       What if you had to choose sides?       Just remember who your friends are.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-158,O'BRIEN ,"   Personal log, Miles O'Brien.  Stardate    46923.1.  We've managed to retrieve    a portion of the Klingon Officer's    journal.  Of course, Major Kira heard    about it immediately.  She must have    spies everywhere.",22   EXT. SPACE - DEEP SPACE NINE,SPACE,EXT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-159,KLINGON,"   I believe the Captain has gone insane.     He has executed two more crew members,    charging them with attempted mutiny.     Medical Officer Kee-Bhor came to my    quarters insisting the violence is    being caused by those telepathic    energy spheres we brought back from    Saltah'na.  Believing he's the    Captain's spy, I slit his throat.",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-160,SISKO,       I've seen enough.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-161,O'BRIEN,   There's more.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-162,KIRA,   The Klingon's mission must have    failed... and that failure caused    problems on board...,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-163,SISKO,   I couldn't care less what happened    to a Klingon ship.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-164,O'BRIEN,   The Klingons might want to know.     Dax and I are setting up a data    interpolation to fill in what's    missing -- but it'll take some time...,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-165,DAX,"   The search itself is often reward    enough.       Benjamin, do you remember that wild    goose chase back on Elanu Four... ?",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-166,SISKO,"   Fine.  Do whatever you have to do,    but don't bother me with it.",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-167,QUARK,"   Here we are.  A Modela aperitif.     It's bright and sweet.       Much like yourself, Lieutenant.       I'll put it on your tab.",24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-168,KIRA ,   The bad flattery is on the house.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-169,QUARK,"   The two loveliest creatures on DS    Nine.  I must be living correctly to    be so... blessed.  What can I do for    you, Major?",24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-170,KIRA,   Get lost.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-171,QUARK,   As you wish...,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-172,KIRA,"   How are you, Lieutenant?",24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-173,DAX,"       You know what they say -- put the    shoe on the right foot first, but    put the left foot first into the    bathtub.",24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-174,KIRA,   I understand.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-175,KIRA,       But what I really meant was...       Are you happy?,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-176,DAX,   That's not a question I get asked    too often.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-177,KIRA,"   Oh, but it should be.  In my opinion,    you're the most valuable officer on    this station.       May I... ?",24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-178,DAX,   Please.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-179,KIRA,   Not bad.  For Quark.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-180,DAX,   It is good...,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-181,KIRA,   I couldn't imagine running this    station without you.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-182,DAX,   Are you trying to tell me something?,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-183,KIRA,   My disagreement with Sisko about the    Valerians is no secret.  You know    how he gets once he makes a decision.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-184,DAX,   Like talking to a stone.       I remember a time on Rochani Three...    We were cornered by a party of Kaleans    who were not at all happy to see us.     But Benjamin --,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-185,KIRA,       -- You told me that story this    morning.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-186,DAX,   Oh.       I suppose I did...,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-187,KIRA,   If you were to talk to Starfleet    Command... tell them how displeased    the Bajorans are with Sisko's handling    of this... I'm sure they'd listen to    you...,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-188,DAX,       I was decorated on my very first    assignment.  The Admiral was a    Vulcan... So during the presentation    ceremony --,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-189,KIRA,   Dax.  We have to keep the Valerians    here.  Until we can search their    ship and confiscate the dolamide.     You've got to convince Starfleet --    it's for the good of Bajor and the    Federation.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-190,DAX,"       I've been friends with Benjamin Sisko    for many years... In many ways, he's    like a son to me.  Or at least a    nephew...       Some kind of close relative anyway...",24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-191,KIRA,"       Listen to me, Jadzia...",24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-192,KIRA,   I'm getting rid of Sisko... one way    or another.  Don't force me to get    rid of you as well.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-193,KIRA,       Would you like to join us?,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-194,QUARK,   Let me go!,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-195,KIRA,   What did you hear?,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-196,QUARK,   Nothing!  Nothing at all!,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-197,KIRA,   Good.,24   INT. QUARK'S,QUARK'S,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-198,ODO,       Is this a Ferengi fashion I'm not    aware of?,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-199,QUARK,   Kira tried to tear my head off.  I    want to file charges.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-200,ODO,   Tell me about it.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-201,QUARK,   I heard her plotting --,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-202,ODO,   Go on.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-203,QUARK,       She was trying to convince Dax to    take her side against Sisko.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-204,ODO,   Did Dax seem persuaded?,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-205,QUARK,   What difference does that make?  I    was attacked!,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-206,ODO,   Answer the question.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-207,QUARK,   I couldn't tell.  She was on the    fence.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-208,ODO,   Doesn't Kira's behavior seem a little    out of the ordinary?  And the    others... At the staff briefing Sisko    was bored -- as if he couldn't be    bothered about running the station.       And Bashir... since when is he so    concerned with station politics.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-209,QUARK,   Don't look at me like that.  I'm    perfectly normal.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-210,ODO,   I suppose you are.       It's time I had a talk with Sisko.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-211,QUARK,   Odo... wait!,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-212,QUARK,       Odo!  I want satisfaction.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-213,KLINGON,"   We have lost the battle for decks    five through twelve.  The armory    remains in the hands of Captain Tel-   Peh, who demands my death.  But I    remain confident that I can gain    control of this ship.",28A  INT. OPS - OPTICAL,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-214,ODO,   Sisko... ?,28A  INT. OPS - OPTICAL,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-215,KLINGON,   First officer's mission journal...    day twenty-three...,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-216,O'BRIEN,   Come in.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-217,ODO,   Where's Commander Sisko?,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-218,O'BRIEN,       In his quarters.  Where he's safe.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-219,KLINGON,"   I am weakened by my wounds.  I sense    my enemies are closing in. Still, I    was able to hide the thalmerite device    under a crossbeam near the reactor    core on deck twenty-six.  Rather    than be taken prisoner, I will blow    up this ship and transport to safety.     Perhaps medical officer Kee-Bhor was    right.  All our trouble began when    we opened those energy spheres.  All    I know is that Captain Tel-Peh must    die.       Journal closed.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-220,ODO,   It sounds like there was a power    struggle on board.  Some kind of    attempted takeover.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-221,O'BRIEN,       Management by mutiny.  That's standard    operating procedure on a Klingon    vessel.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-222,ODO,   But awfully unusual for a Federation-   run space station...,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-223,O'BRIEN,"   Don't worry, if Major Kira tries    anything we'll be ready.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-224,ODO,   When will the other log entries be    available?,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-225,O'BRIEN,       At the current rate of processing --    at least seven more hours.  But the    computer's taking it one entry at a    time.  I'll set it up so you can    access as it goes.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-226,ODO,"   Thank you, Chief.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-227,O'BRIEN,"   Of course, Constable.  Don't the    Commander and I always try to make    you happy?",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-228,ODO,   What are you doing here?,31   INT. CORRIDOR,CORRIDOR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-229,GUARD,   Chief O'Brien's orders.,31   INT. CORRIDOR,CORRIDOR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-230,SISKO,   Come in.,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-231,ODO,   Commander...,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-232,SISKO,"   Hello, Constable.  How are you today?",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-233,ODO,"   Concerned, Sir.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-234,SISKO,   On such a fine afternoon?  How ,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-235,ODO,"   Commander, I think something might    be wrong with --       some of us.  Ever since the Klingon    ship exploded, and their First Officer    beamed over... certain behaviors and    attitudes have been... abnormal.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-236,ODO,       There appears to have been a mutiny    on the Klingon ship.  I wouldn't go    so far as to say the same thing is    happening on DS Nine.  But I find    some disturbing parallels --,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-237,SISKO,"   -- If something's bothering you,    Odo, tell it to Mister O'Brien.     That's what he's there for.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-238,SISKO,       What do you think?,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-239,ODO,   What is it?,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-240,SISKO,"   It's a clock.  Fascinating, isn't    it?",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-241,KIRA,   It's not nice to keep a friend    waiting.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-242,ODO,   Did we have an appointment?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-243,KIRA,"   When have I ever had to stand on    ceremony with you, Odo?",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-244,KIRA,       I need your help.       I just took care of the Valerians.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-245,ODO,   What do you mean?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-246,KIRA,"   I locked down the docking clamps.     That ship isn't leaving until I say    it is.       O'Brien will need at least a day to    do anything about it.       By then, it won't matter.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-247,ODO,   You're going after Sisko.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-248,KIRA,   And O'Brien.  Either we get a more    reasonable commander from Starfleet --    somebody we can control -- or we go    it alone.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-249,KIRA,"       With me running this place, you'll    be able to do what needs to be done.     If you want to toss Quark out on his    ears -- toss him out.  If you want    to proclaim martial law on the    Promenade -- proclaim it.  This    station will be yours to protect --    with no interference.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-250,ODO,   What's your plan?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-251,KIRA,"   Odo, I trust you more than anyone on    this station.  Because you can't be    corrupted.       But this is a dangerous time.  I    can't take any chances, even with    you.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-252,KIRA,"       When the moment comes, you'll know    it.  I'll be counting on you.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-253,ODO,"   Computer, open a channel to Starfleet    Headquarters.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-254,COMPUTER,   Subspace communication to Federation    territories is currently unavailable.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-255,ODO,   Why?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-256,COMPUTER,   By authority of Major Kira.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-257,ODO,   Open a channel to the Bajoran Council.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-258,COMPUTER,   Communication to Bajor is currently    unavailable.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-259,ODO,   By authority of Chief O'Brien?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-260,COMPUTER,   That is correct.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-261,ODO,"   Computer, are you finished    reconstructing the journal of the    Klingon First officer.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-262,COMPUTER,   Data interpolation is complete.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-263,ODO,   On screen.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-264,ODO,   Computer...       Scan the journal for mention of    contact with any alien race.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-265,COMPUTER,   One entry found.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-266,ODO,   Play it.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-267,KLINGON,"   First Officer's journal, day twenty-   two.  Our exploration of the fifth    planet has turned out to be a waste    of time.  This world is not worthy    of a Klingon colony.  All we found    was a collection of energy spheres    which possessed some type of    telepathic archive.  The spheres    described an ancient power struggle    that destroyed a race called the    Saltah'na.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-268,KLINGON,   We will forward these results to our    science divisions.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-269,O'BRIEN,   Kira has already locked down the    Valerian ship.  And she's diverted    half the station's systems to her    control.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-270,SISKO,   Since when?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-271,O'BRIEN,   An hour ago.  I've heard some    disturbing rumors from our people on    the Promenade.       I think she's going to make an attempt    on your life.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-272,SISKO,   I want you to arrest them.  Kira and    every Bajoran officer on this station.     I want the names of every sympathizer --,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-273,O'BRIEN,"       -- That's not a good idea, sir.     There are a lot more of them than    there are of us.  If we tip our hand,    it could work against us.",36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-274,SISKO,       What can we do?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-275,O'BRIEN,   Leave the station.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-276,SISKO,   Never.  Get me a phaser.  I'll get    rid of Kira.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-277,O'BRIEN,"       Hear me out, sir... We leave the    station.  Raise a Federation attack    force.  And return.       And on that day we'll get rid of all    your enemies.",36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-278,SISKO,   How do we proceed?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-279,O'BRIEN,   I need a few more hours to free up    the Valerian ship.  I've already    talked to their Captain.  He's more    than happy to take us back to    Federation space.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-280,SISKO,   Call me as soon as you're ready...,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-281,BASHIR,   It'll take effect in two minutes.     Plenty of time for --,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-282,BASHIR,       -- For you to get a good night's    sleep.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-283,ENSIGN,"   Thank you, Doctor.",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-284,BASHIR,       Chronic insomnia.  I think it's    hormonal.       So how are you?,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-285,ODO,   I take it you've completed your    autopsy of the Klingon.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-286,BASHIR,"   Of course.       You know, Odo, events have been moving    rapidly since our last conversation.     I'd advise you to choose sides or    risk finding yourself without any    friends at all.",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-287,ODO,"   The Klingon, Doctor, what did you    find?",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-288,BASHIR,"       He's still dead, if that's what you    mean.",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-289,ODO,   I don't have time for jokes.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-290,ODO,   Your findings could determine who    controls this station.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-291,BASHIR,   How?,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-292,ODO,"   All in good time... First, tell me    about the Klingon...",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-293,BASHIR,   I found nothing very unusual.  The    columnar cells in his brain stem...    the membrane permeability was off...,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-294,ODO,       What could cause that?,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-295,BASHIR,   Any number of things.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-296,ODO,   Could it have something to do with    telepathy?  The Klingons were studying    the telepathic archives of an ancient    race.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-297,BASHIR,"   If those archives were contained    within a self-sustaining energy    matrix, it could explain the changes    in the Klingon's brain.",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-298,ODO,   Could that energy matrix have somehow    caused them to re-enact the power    struggle that destroyed the    Saltah'nans.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-299,BASHIR,       Possibly.  What are you getting at?,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-300,ODO,"   Doctor, I believe the Klingon brought    the matrix with him... and everyone    in Ops was affected except me...    without a humanoid brain, my system    rejected it.",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-301,BASHIR,"       An interesting theory, Constable...    but I'm certainly not behaving out    of the ordinary.",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-302,ODO,   Of course not.       But what if you and I are the only    two who aren't affected.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-303,BASHIR,   I see... and you think we can use    that to our advantage.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-304,ODO,   Exactly.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-305,BASHIR,   Tell me your plan.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-306,ODO,   The first thing we have to do is    figure out how to remove the field    from everyone affected.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-307,BASHIR,   But then we'd lose our advantage.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-308,ODO,   Would you rather someone blew up the    station?,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-309,BASHIR,   I see your point.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-310,ODO,   The power to control the energy matrix    is the power to control this station.,41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-311,BASHIR,"   If I could determine the natural    resonance frequencies of the field,    I might be able to generate an    interference signal of some kind    which could force it out.",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-312,ODO,"   Do it.  I promise, Doctor, you won't    regret it.",41   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-313,DAX,       This reminds me of a game I used to    play... It had a maze... What was it    called?,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-314,O'BRIEN,   I'm through level two.  See if you    can isolate the security blocks on    three.,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-315,DAX,   The Winter Garden...,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-316,O'BRIEN,   Lieutenant.,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-317,DAX,       Oh.  I'm sorry.  I must have been    drifting.,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-318,O'BRIEN,       Try drifting over here when you get    the chance.,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-319,SISKO,"   What's taking so long, O'Brien?",43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-320,O'BRIEN,"   Almost there, Sir.  We've got one    more level of security lockouts to    break through and the Valerian ship    will be ready to go.",43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-321,ENSIGN,"   Commander, I have the report you    asked for on those weapon scanners.",43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-322,SISKO,   Give it to Mister O'Brien.,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-323,ENSIGN,"   I really think you should see this,    sir.",43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-324,DAX,       Dax to Kira!,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-325,SISKO,   Is it Kira?!,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-326,SISKO,       Did Kira put you up to this?,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-327,ENSIGN,       No...,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-328,SISKO,       I want the truth.,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-329,SISKO,   Is that clear?,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-330,SISKO,   Let's see how this works...,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-331,KIRA,   Put it down... Sir...,43   INT. OPS (OPTICAL),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-332,KIRA,       Take them.,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-333,KIRA,   You were supposed to deactivate the    transporter!,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-334,DAX,       I forgot...,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-335,O'BRIEN,   Damn it.  Kira must have set up a    force field to keep us from beaming    onto the Valerian ship.  The    Transporter rerouted us here.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-336,SISKO,   We've got to get to that ship.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-337,O'BRIEN,   Odo's our only chance.  He may be    able to override the field.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-338,SISKO,   You're sure we can trust him?,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-339,O'BRIEN,   I don't see where we have any choice.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-340,SISKO,       Sisko to Odo...,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-341,ODO,       Odo here.,52   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-342,SISKO,"       Kira has moved against us.  She has    Dax on her side... We need your help,    Constable.  You've got to clear us a    path to the Valerian ship.",52   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-343,ODO,       Take Crossover Bridge One to the    Cargo Bay entrance into Docking Port    Four.  I'll keep it open for you.,52   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-344,SISKO,       Right.  Sisko out.,52   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-345,SISKO,       Leave your combadge here.,52   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-346,SISKO,"   Don't look so worried, Chief.  She    hasn't beaten us yet.",52   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-347,O'BRIEN,"   Yes, Sir.",52   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-348,DAX,   They're still in the Airlock Six    Corridor...,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-349,KIRA,   What could they be doing in there?,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-350,DAX,   Maybe they've given up.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-351,KIRA,"   Sisko would rather die... which is    fine with me.    (a beat, then Kira     smiles as she figures     it out)   They must have taken off their    combadges.  That's all right.  They    won't get far.",54   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-352,DAX,   Somebody's taking out our    forcefields...,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-353,KIRA,   Whoever it is knows how to override    the security codes.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-354,KIRA,       Kira to Odo.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-355,ODO,"       Go ahead, Major.",55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-356,KIRA,"       Whose side are you on, Constable?",55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-357,ODO,"       Yours, of course.",55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-358,KIRA,       Really?  Then why are you helping    Sisko escape?,55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-359,ODO,       On the contrary.  You'll find him    trapped in Cargo Bay Four.  Consider    it my gift to you.,55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-360,KIRA,       My apologies.  We'll see you there.     Kira out.,55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-361,BASHIR,   Well done... you certainly fooled    her.,55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-362,ODO,"       Doctor, we're running out of time.",55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-363,BASHIR,    (attention focused on     his console)   I'm just about done.  I've set up an    ionic interference signal in Cargo    Bay Four.  It's calibrated to lock    onto the resonance frequencies of    the telepathic field and drive it    out of those affected.,55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-364,ODO,   What will happen to it then?,55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-365,BASHIR,   It'll remain suspended as long as    the interference is in effect.,55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-366,ODO,   That's all I need to know.  Let's    go.,55   INT. INFIRMARY,INFIRMARY,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-367,SISKO,   What's wrong?,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-368,O'BRIEN,       It won't open.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-369,O'BRIEN,       It's completely locked down.     Someone's activated a level five    security protocol.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-370,O'BRIEN,   There's only one person on this    station besides yourself who has    that kind of access.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-371,SISKO,       Odo!,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-372,KIRA ,"   Relax, Commander...",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-373,KIRA,   ... he'll be here any minute.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-374,SISKO,   So... this is where it all ends.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-375,KIRA,   For you.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-376,SISKO,"   You know what disturbs me?  The    ingratitude.  I offered you my help...    my kindness... my leadership... and    how do you repay me?  With betrayal...    But you won't get rid of me so easily.     You see, unlike you, I understand    history.  Time will be my greatest    ally.       My name will blaze like a comet across    the stars long after your petty    treacheries are forgotten.",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-377,KIRA,   But you won't be here to see it.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-378,ODO ,"   Major, wait...",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-379,KIRA,   I'm glad you two could make it.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-380,ODO,       Computer!  Execute Odo One!,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-381,SISKO,       Constable... ?,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-382,ODO,       Everyone grab hold of something.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-383,ODO,       Welcome back...,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-384,SISKO ,"   Commander's log; Stardate 46924.5.     With nothing to contain it, the    telepathic matrix has dispersed in    space.",65   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-385,SISKO ,       Meanwhile I'm happy to report    everything and everyone aboard DS    Nine has returned to normal.,66   INT. OPS,OPS,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-386,SISKO,   Come in.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-387,KIRA,   Did you really build that thing?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-388,SISKO,   Apparently so.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-389,KIRA,   Why?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-390,SISKO,       I have no idea.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-391,SISKO,   Major?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-392,KIRA,   I know that none of us were really    responsible for our actions... but I    still feel like I owe you an apology.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-393,SISKO,   For attempted mutiny.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-394,KIRA,   Well... yes.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
-395,SISKO,   I think we'll let it go... this time.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,"""Dramatis Personae""",1993-02-24,Deep Space Nine
+,character,quote,scene,location,view,episode,date,series,file
+0,SISKO,   Come in.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+1,KIRA,"   Commander, I just received word that    a Valerian transport has requested    permission to dock here at the    station.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+2,SISKO,       Let me guess.  You're here to    recommend we deny their request.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+3,KIRA,   The Valerians ran weapons-grade    dolamide to Cardassian forces during    the occupation of Bajor.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+4,SISKO,   I'm aware of that...,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+5,KIRA,   I believe they're continuing to ship    weapons to the Cardassians... weapons    that could eventually be used to    attack Bajor.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+6,SISKO,"   I share your concern, Major.  But    unless we have proof to back up those    charges...",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+7,KIRA,"   The proof is on the ship.  Let me    conduct a search and if I find any    dolamide, we can confiscate it.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+8,SISKO,"   I'm afraid it's not that simple.     Dolamide is used for power generators,    reactors, in short-range transports...",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+9,KIRA,   And for weapons.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+10,SISKO,   Only if it's extremely pure.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+11,KIRA,   So we're going to do nothing.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+12,SISKO,   I didn't say that.  But we can't    just board their ship and start    tearing it apart.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+13,KIRA,   Then what can we do?,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+14,SISKO,   You bring me evidence that the    Valerians are dealing in weapons-   grade dolamide and I promise you the    Federation will use every kind of    diplomatic pressure to stop them.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+15,KIRA,   You think that'll work?,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+16,SISKO,       It will if the Valerians want to    keep trading with the Federation.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+17,KIRA,"    (still not totally     convinced)   All right, we'll try it your way.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+18,SISKO,   Good.  Then you'll see to it that    the Valerian ship is cleared for    docking.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+19,KIRA,"    (still doesn't relish     the thought)   Yes, sir.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+20,DAX,"   Chief, I have a subspace message for    you from your wife.  They've arrived    safely on Bajor.",3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+21,O'BRIEN,"   Imagine, taking eleven bored    schoolkids on a visit to the grain    processing center at Lasuma.  I'm    glad it's not me.",3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+22,ODO,       Here's the information you wanted on    the captain of the Valerian ship.,3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+23,KIRA,   Let me know if you find anything    else.,3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+24,DAX,   Sensors are reading elevated neutrino    levels at the wormhole... Something's    coming through...,3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+25,KIRA,   On screen.,3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+26,,   The wormhole opens and a KLINGON    BIRD OF PREY comes blasting through.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+27,DAX,       It's the Klingon vessel Toh'Kaht.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+28,KIRA,   They're not due back for another    month.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+29,SISKO,   Open hailing frequencies.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+30,O'BRIEN,   I'm reading a transporter signal.     Someone must have beamed off the    ship just as it exploded.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+31,SISKO,   Mister O'Brien -- ?,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+32,O'BRIEN,   Something's interfering with the    rematerialization process.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+33,DAX,   Lock onto him with our Transporter    signal.  Try boosting the annular    containment field.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+34,O'BRIEN,   I'm already there...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+35,BASHIR,   He's been hit by weapons fire.  It's    severe.  We've got to get him into    cryo-stasis.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+36,KLINGON,   Victory...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+37,BASHIR,   He's dead.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+38,SISKO,"   Station log, Stardate 46922.3.  We    have identified the dead Klingon --    his name was Hon-Tihl, First Officer    of the Toh'Kaht.  Why he died, and    the cause of his ship's destruction,    is still unknown.",8    EXT. SPACE - DEEP SPACE NINE,SPACE,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+39,BASHIR,"   I found tritanium alloy fragments in    his chest and upper arms.  If that    was all, we could have saved him.     But those weapon burns were too    severe.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+40,SISKO,   Is there any way to identify the    kind of weapon used?,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+41,BASHIR,       I'm running a microtissue analysis    right now.  We should have the results    in a couple of hours.,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+42,KIRA,"   The Klingon said ""victory"" before he    died.  I wonder what he meant.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+43,DAX,"   According to the Klingon high command,    the Toh'Kaht was in the gamma quadrant    on a routine bio-survey mission...",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+44,O'BRIEN,"   ""Victory""... during a bio-survey... ?",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+45,ODO,   As I recall the Toh'Kaht put in for    a maintenance check.,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+46,SISKO,"   Ask around the station, see if you    can learn anything about this bio-   survey.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+47,SISKO,       I'd like the two of you to take a    Runabout and try to find the    Toh'Kaht's mission recorder.  I want    to know what caused that ship to    explode.,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+48,O'BRIEN,"   Aye, Sir.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+49,O'BRIEN,   Lieutenant...,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+50,DAX,   Yes...,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+51,O'BRIEN,   You coming?,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+52,DAX,"   I'm sorry, I was... nevermind...",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+53,KIRA,   Dammit.  Not yet...,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+54,VALERIAN,"   Deep Space Nine, this is Valerian    vessel Sherval Das.  We are entering    the Bajoran system, clear us for    docking.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+55,KIRA,"   Negative, Sherval Das.  There's going    to be a slight delay.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+56,VALERIAN,   We are in need of maintenance.  It    has been a long journey.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+57,KIRA,   I'm sure it has.  But we've got our    own problems.  You'll just have to    wait --,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+58,SISKO ,"   Stand by, Sherval Das.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+59,SISKO,   I'd like an explanation.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+60,KIRA,   I'm not finished running the    background check on their ship.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+61,SISKO,   We agreed there'd be no delays in    the docking procedure --,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+62,KIRA,       They just visited Fahleena Three and    Mariah Four -- the same two stops    they used to make when they were    running dolamide to the Cardassians.     The last stop would be the    purification plant on Ultima Thule.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+63,KIRA,"   If I can place them there, we'll    know they're carrying weapons-grade    material.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+64,SISKO,       Your ship is cleared for docking.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+65,VALERIAN,"   Thank you, Commander.  Sherval Das    out.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+66,SISKO,   No delays...,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+67,QUARK,"   Isn't it always the same old story?     I hear it day in, day out.  She takes    you for granted.  She doesn't    appreciate your... finer qualities.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+68,QUARK,       The cut of your jib... The twist of    your tulamak...,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+69,QUARK,       The way you turn a phrase...       What does she want?,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+70,QUARK,       Two Pistres?  For all my compassion?       You call that a tip?  No wonder she    left you!  You piker!,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+71,ODO,"   Trouble, Quark?",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+72,QUARK,   Nothing I can't handle.,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+73,ODO,   I heard you had some problems with    the Klingons the last time they came    through...,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+74,QUARK,"   Spare me from beings who think pain    is pleasure.       In small doses, perhaps.  But the    Klingons?  They're rough on the    holosuites.  They break the furniture.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+75,QUARK,"       I'm still fixing the walls in    Holosuite Six.       I'm not saying they don't spend big.     I'm just saying by the time you figure    in the damage, I'm lucky to break    even.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+76,ODO,"   They do tend toward bluster, don't    they?  Throwing their weight around.     Bragging...",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+77,QUARK,"   This crew was worse than the last.     ""Our glorious mission.""  I asked    them, ""what's so glorious about a    gamma quadrant bio-survey?""",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+78,ODO,       And what did they say?,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+79,QUARK,"   Crafty tonight, aren't we, Odo?     Looking for clues about the fate of    the Klingons.  If I tell you what I    heard, what do I get in return?",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+80,ODO,"   Chances are, what you heard won't    help.  So why should I give you    something for it?",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+81,QUARK,"   Because otherwise, I heard nothing.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+82,ODO,"   Those damaged holosuites.  Work crew    seven is probably doing the repairs,    am I right?",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+83,QUARK,       Yes...,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+84,ODO,"   Well, it looks as though I might    have to put in a priority request    for work crew seven.  The bulkheads    in security could use a little shoring    up.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+85,QUARK,"   They said they were coming back    through the wormhole with something    that would ""make the enemies of the    Klingon Empire tremble.""",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+86,ODO,   Their exact words?,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+87,QUARK,   A direct quote.,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+88,ODO,   You've been most helpful.,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+89,QUARK,       Don't let it get around.,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+90,QUARK,   Odo?,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+91,QUARK,   Doctor Bashir!  Doctor Bashir!,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+92,BASHIR,"   Welcome back, Constable.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+93,ODO,   How am I?,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+94,BASHIR,   How do you feel?,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+95,ODO,   Fine.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+96,BASHIR,   Good.       Because I've got no way to know.     Your body chemistry defies analysis.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+97,ODO,   I don't remember anything...,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+98,ODO,"       But, I'm back to normal?",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+99,BASHIR,"   Like I said -- you tell me.  I don't    know what caused it, and I couldn't    tell you if it'll happen again.     There's really nothing more I can do    here.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+100,ODO,"   Then thank you for your time, Doctor.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+101,BASHIR,"   Tell me Odo, do you share my concern    about this Valerian situation?",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+102,ODO,   Concern?,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+103,BASHIR,   I think you know what I mean.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+104,ODO,       Why don't you tell me and then you    can be sure I know.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+105,BASHIR,   Just don't be surprised if the uneasy    alliance on this station starts to    show a few cracks...,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+106,ODO,"   What ""uneasy alliance""?",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+107,BASHIR,"   Commander Sisko and Kira.  Mark my    words, there's going to be trouble.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+108,ODO,"   Exactly what are you basing all this    on, Doctor?",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+109,BASHIR,"   Very clever, Constable.    (a conspiratorial     nod)   You're probably right.  It's still    too early to commit oneself either    way.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+110,ODO,   Are you finished with me?,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+111,BASHIR,   Unless you'd like to pour yourself    through my phoretic analyzer -- I'd    love to see the results.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+112,ODO,"   Another time, perhaps.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+113,KIRA,   I've got them!,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+114,SISKO,   Who?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+115,KIRA,       The Valerians.  Their ship was at    the Ultima Thule station one week    ago.  That confirms it.  They're    definitely running dolamide.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+116,SISKO,   So... ?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+117,KIRA,"   So I've got an armed team ready to    board their vessel.  We confiscate    the material and send them back where    they came from.  Frankly, I'm half    tempted to take them to Bajor and    press charges.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+118,SISKO,   By whose authority?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+119,KIRA,   You're not going to do anything about    this?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+120,SISKO,   I'm not.  And neither are you.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+121,SISKO,"       Commanded by a Federation officer.     Commanded by me.  Are you challenging    that, Major?",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+122,KIRA,"   No, Sir...",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+123,SISKO,   Good...       Now is there anything else I can do    for you?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+124,DAX,   Short-range sensors are picking up    some debris.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+125,O'BRIEN,   Looks like duranium alloy.  Probably    pieces of the Klingon's secondary    hull.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+126,DAX,   It's possible their mission recorder    is somewhere in the debris.  The    magnetic field from the duranium    could be masking it.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+127,O'BRIEN,   Let's get a little closer...,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+128,O'BRIEN,   Major Kira's been awfully aggressive    toward Commander Sisko lately...    about station policy.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+129,DAX,       An honest difference of opinion.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+130,O'BRIEN,"   We're within a thousand meters...    Secondary hull fragments, pieces of    the bulkhead... Still no sign of the    recorder.",20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+131,DAX,   I'm taking us closer...,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+132,O'BRIEN,   What if it's more than a difference    of opinion?  What if Kira thinks the    Bajorans don't need us on DS Nine?     It is their station.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+133,DAX,   That would be suicidal.  Without a    Federation presence Bajor would be    vulnerable again to the Cardassians.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+134,O'BRIEN,   That doesn't mean there aren't plenty    of misguided Bajorans who think they    can go it alone.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+135,DAX,   Isn't it always like that?  Bitterness    is the coin by which generosity is    repaid.       I once helped the Federation deliver    rain-inducing technology to Kelton    Four.  The end of the drought was    the end of contact.  Talk about fair    weather friends --,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+136,O'BRIEN,"   You've become quite friendly with    Major Kira, haven't you?",20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+137,DAX,"       Have I... ?  Well, yes, I suppose I    have... if you say so...",20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+138,O'BRIEN,"   Well, I wouldn't get too friendly    with the natives if I were you.     Remember where your loyalties lie.",20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+139,DAX,   Of course.  Benjamin and I have been    close for a long time.  Hand and    glove.  I'm on his side -- no question    about it.       That reminds me of the time we found    ourselves --,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+140,O'BRIEN,       Good.  Because anyone against Sisko    is against me.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+141,O'BRIEN,   I'm picking up a weak subspace    transponder signal.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+142,O'BRIEN,       It's the mission recorder.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+143,KIRA,   Constable...,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+144,ODO,"   Can I help you, Major?",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+145,KIRA,"   You always manage to help me, Odo.     In fact, I'd say we work pretty well    together -- you and I.",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+146,ODO,   Yes.  I suppose our relationship has    always been... cooperative.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+147,KIRA,   Exactly.  And that's just what I    need right now -- your cooperation.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+148,KIRA,       I'm convinced the Valerians have    dolamide on board.  But the evidence    is still circumstantial.  I need    solid proof.       I want you to slip past their security    systems and into their cargo bay.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+149,ODO,   I heard Commander Sisko was adamant    about not interfering with the    Valerian ship.  Has he changed his    mind?,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+150,KIRA,       Yes.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+151,ODO,   How odd.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+152,ODO,       Very well.  I'll keep the two of you    informed of my progress.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+153,KIRA,   That's not necessary.  The Commander's    busy -- no sense in bothering him.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+154,KIRA,"       I can't fool you, Odo.",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+155,ODO,"       You wanted me to go behind Sisko's    back, didn't you?",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+156,KIRA,       Forget it.  It was a bad idea.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+157,KIRA,       What if you had to choose sides?       Just remember who your friends are.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+158,O'BRIEN ,"   Personal log, Miles O'Brien.  Stardate    46923.1.  We've managed to retrieve    a portion of the Klingon Officer's    journal.  Of course, Major Kira heard    about it immediately.  She must have    spies everywhere.",22   EXT. SPACE - DEEP SPACE NINE,SPACE,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+159,KLINGON,"   I believe the Captain has gone insane.     He has executed two more crew members,    charging them with attempted mutiny.     Medical Officer Kee-Bhor came to my    quarters insisting the violence is    being caused by those telepathic    energy spheres we brought back from    Saltah'na.  Believing he's the    Captain's spy, I slit his throat.",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+160,SISKO,       I've seen enough.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+161,O'BRIEN,   There's more.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+162,KIRA,   The Klingon's mission must have    failed... and that failure caused    problems on board...,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+163,SISKO,   I couldn't care less what happened    to a Klingon ship.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+164,O'BRIEN,   The Klingons might want to know.     Dax and I are setting up a data    interpolation to fill in what's    missing -- but it'll take some time...,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+165,DAX,"   The search itself is often reward    enough.       Benjamin, do you remember that wild    goose chase back on Elanu Four... ?",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+166,SISKO,"   Fine.  Do whatever you have to do,    but don't bother me with it.",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+167,QUARK,"   Here we are.  A Modela aperitif.     It's bright and sweet.       Much like yourself, Lieutenant.       I'll put it on your tab.",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+168,KIRA ,   The bad flattery is on the house.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+169,QUARK,"   The two loveliest creatures on DS    Nine.  I must be living correctly to    be so... blessed.  What can I do for    you, Major?",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+170,KIRA,   Get lost.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+171,QUARK,   As you wish...,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+172,KIRA,"   How are you, Lieutenant?",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+173,DAX,"       You know what they say -- put the    shoe on the right foot first, but    put the left foot first into the    bathtub.",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+174,KIRA,   I understand.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+175,KIRA,       But what I really meant was...       Are you happy?,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+176,DAX,   That's not a question I get asked    too often.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+177,KIRA,"   Oh, but it should be.  In my opinion,    you're the most valuable officer on    this station.       May I... ?",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+178,DAX,   Please.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+179,KIRA,   Not bad.  For Quark.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+180,DAX,   It is good...,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+181,KIRA,   I couldn't imagine running this    station without you.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+182,DAX,   Are you trying to tell me something?,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+183,KIRA,   My disagreement with Sisko about the    Valerians is no secret.  You know    how he gets once he makes a decision.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+184,DAX,   Like talking to a stone.       I remember a time on Rochani Three...    We were cornered by a party of Kaleans    who were not at all happy to see us.     But Benjamin --,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+185,KIRA,       -- You told me that story this    morning.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+186,DAX,   Oh.       I suppose I did...,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+187,KIRA,   If you were to talk to Starfleet    Command... tell them how displeased    the Bajorans are with Sisko's handling    of this... I'm sure they'd listen to    you...,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+188,DAX,       I was decorated on my very first    assignment.  The Admiral was a    Vulcan... So during the presentation    ceremony --,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+189,KIRA,   Dax.  We have to keep the Valerians    here.  Until we can search their    ship and confiscate the dolamide.     You've got to convince Starfleet --    it's for the good of Bajor and the    Federation.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+190,DAX,"       I've been friends with Benjamin Sisko    for many years... In many ways, he's    like a son to me.  Or at least a    nephew...       Some kind of close relative anyway...",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+191,KIRA,"       Listen to me, Jadzia...",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+192,KIRA,   I'm getting rid of Sisko... one way    or another.  Don't force me to get    rid of you as well.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+193,KIRA,       Would you like to join us?,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+194,QUARK,   Let me go!,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+195,KIRA,   What did you hear?,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+196,QUARK,   Nothing!  Nothing at all!,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+197,KIRA,   Good.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+198,ODO,       Is this a Ferengi fashion I'm not    aware of?,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+199,QUARK,   Kira tried to tear my head off.  I    want to file charges.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+200,ODO,   Tell me about it.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+201,QUARK,   I heard her plotting --,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+202,ODO,   Go on.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+203,QUARK,       She was trying to convince Dax to    take her side against Sisko.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+204,ODO,   Did Dax seem persuaded?,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+205,QUARK,   What difference does that make?  I    was attacked!,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+206,ODO,   Answer the question.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+207,QUARK,   I couldn't tell.  She was on the    fence.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+208,ODO,   Doesn't Kira's behavior seem a little    out of the ordinary?  And the    others... At the staff briefing Sisko    was bored -- as if he couldn't be    bothered about running the station.       And Bashir... since when is he so    concerned with station politics.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+209,QUARK,   Don't look at me like that.  I'm    perfectly normal.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+210,ODO,   I suppose you are.       It's time I had a talk with Sisko.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+211,QUARK,   Odo... wait!,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+212,QUARK,       Odo!  I want satisfaction.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+213,KLINGON,"   We have lost the battle for decks    five through twelve.  The armory    remains in the hands of Captain Tel-   Peh, who demands my death.  But I    remain confident that I can gain    control of this ship.",28A  INT. OPS - OPTICAL,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+214,ODO,   Sisko... ?,28A  INT. OPS - OPTICAL,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+215,KLINGON,   First officer's mission journal...    day twenty-three...,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+216,O'BRIEN,   Come in.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+217,ODO,   Where's Commander Sisko?,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+218,O'BRIEN,       In his quarters.  Where he's safe.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+219,KLINGON,"   I am weakened by my wounds.  I sense    my enemies are closing in. Still, I    was able to hide the thalmerite device    under a crossbeam near the reactor    core on deck twenty-six.  Rather    than be taken prisoner, I will blow    up this ship and transport to safety.     Perhaps medical officer Kee-Bhor was    right.  All our trouble began when    we opened those energy spheres.  All    I know is that Captain Tel-Peh must    die.       Journal closed.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+220,ODO,   It sounds like there was a power    struggle on board.  Some kind of    attempted takeover.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+221,O'BRIEN,       Management by mutiny.  That's standard    operating procedure on a Klingon    vessel.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+222,ODO,   But awfully unusual for a Federation-   run space station...,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+223,O'BRIEN,"   Don't worry, if Major Kira tries    anything we'll be ready.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+224,ODO,   When will the other log entries be    available?,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+225,O'BRIEN,       At the current rate of processing --    at least seven more hours.  But the    computer's taking it one entry at a    time.  I'll set it up so you can    access as it goes.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+226,ODO,"   Thank you, Chief.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+227,O'BRIEN,"   Of course, Constable.  Don't the    Commander and I always try to make    you happy?",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+228,ODO,   What are you doing here?,31   INT. CORRIDOR,CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+229,GUARD,   Chief O'Brien's orders.,31   INT. CORRIDOR,CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+230,SISKO,   Come in.,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+231,ODO,   Commander...,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+232,SISKO,"   Hello, Constable.  How are you today?",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+233,ODO,"   Concerned, Sir.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+234,SISKO,   On such a fine afternoon?  How ,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+235,ODO,"   Commander, I think something might    be wrong with --       some of us.  Ever since the Klingon    ship exploded, and their First Officer    beamed over... certain behaviors and    attitudes have been... abnormal.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+236,ODO,       There appears to have been a mutiny    on the Klingon ship.  I wouldn't go    so far as to say the same thing is    happening on DS Nine.  But I find    some disturbing parallels --,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+237,SISKO,"   -- If something's bothering you,    Odo, tell it to Mister O'Brien.     That's what he's there for.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+238,SISKO,       What do you think?,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+239,ODO,   What is it?,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+240,SISKO,"   It's a clock.  Fascinating, isn't    it?",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+241,KIRA,   It's not nice to keep a friend    waiting.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+242,ODO,   Did we have an appointment?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+243,KIRA,"   When have I ever had to stand on    ceremony with you, Odo?",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+244,KIRA,       I need your help.       I just took care of the Valerians.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+245,ODO,   What do you mean?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+246,KIRA,"   I locked down the docking clamps.     That ship isn't leaving until I say    it is.       O'Brien will need at least a day to    do anything about it.       By then, it won't matter.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+247,ODO,   You're going after Sisko.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+248,KIRA,   And O'Brien.  Either we get a more    reasonable commander from Starfleet --    somebody we can control -- or we go    it alone.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+249,KIRA,"       With me running this place, you'll    be able to do what needs to be done.     If you want to toss Quark out on his    ears -- toss him out.  If you want    to proclaim martial law on the    Promenade -- proclaim it.  This    station will be yours to protect --    with no interference.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+250,ODO,   What's your plan?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+251,KIRA,"   Odo, I trust you more than anyone on    this station.  Because you can't be    corrupted.       But this is a dangerous time.  I    can't take any chances, even with    you.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+252,KIRA,"       When the moment comes, you'll know    it.  I'll be counting on you.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+253,ODO,"   Computer, open a channel to Starfleet    Headquarters.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+254,COMPUTER,   Subspace communication to Federation    territories is currently unavailable.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+255,ODO,   Why?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+256,COMPUTER,   By authority of Major Kira.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+257,ODO,   Open a channel to the Bajoran Council.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+258,COMPUTER,   Communication to Bajor is currently    unavailable.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+259,ODO,   By authority of Chief O'Brien?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+260,COMPUTER,   That is correct.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+261,ODO,"   Computer, are you finished    reconstructing the journal of the    Klingon First officer.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+262,COMPUTER,   Data interpolation is complete.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+263,ODO,   On screen.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+264,ODO,   Computer...       Scan the journal for mention of    contact with any alien race.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+265,COMPUTER,   One entry found.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+266,ODO,   Play it.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+267,KLINGON,"   First Officer's journal, day twenty-   two.  Our exploration of the fifth    planet has turned out to be a waste    of time.  This world is not worthy    of a Klingon colony.  All we found    was a collection of energy spheres    which possessed some type of    telepathic archive.  The spheres    described an ancient power struggle    that destroyed a race called the    Saltah'na.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+268,KLINGON,   We will forward these results to our    science divisions.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+269,O'BRIEN,   Kira has already locked down the    Valerian ship.  And she's diverted    half the station's systems to her    control.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+270,SISKO,   Since when?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+271,O'BRIEN,   An hour ago.  I've heard some    disturbing rumors from our people on    the Promenade.       I think she's going to make an attempt    on your life.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+272,SISKO,   I want you to arrest them.  Kira and    every Bajoran officer on this station.     I want the names of every sympathizer --,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+273,O'BRIEN,"       -- That's not a good idea, sir.     There are a lot more of them than    there are of us.  If we tip our hand,    it could work against us.",36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+274,SISKO,       What can we do?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+275,O'BRIEN,   Leave the station.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+276,SISKO,   Never.  Get me a phaser.  I'll get    rid of Kira.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+277,O'BRIEN,"       Hear me out, sir... We leave the    station.  Raise a Federation attack    force.  And return.       And on that day we'll get rid of all    your enemies.",36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+278,SISKO,   How do we proceed?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+279,O'BRIEN,   I need a few more hours to free up    the Valerian ship.  I've already    talked to their Captain.  He's more    than happy to take us back to    Federation space.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+280,SISKO,   Call me as soon as you're ready...,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+281,BASHIR,   It'll take effect in two minutes.     Plenty of time for --,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+282,BASHIR,       -- For you to get a good night's    sleep.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+283,ENSIGN,"   Thank you, Doctor.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+284,BASHIR,       Chronic insomnia.  I think it's    hormonal.       So how are you?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+285,ODO,   I take it you've completed your    autopsy of the Klingon.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+286,BASHIR,"   Of course.       You know, Odo, events have been moving    rapidly since our last conversation.     I'd advise you to choose sides or    risk finding yourself without any    friends at all.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+287,ODO,"   The Klingon, Doctor, what did you    find?",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+288,BASHIR,"       He's still dead, if that's what you    mean.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+289,ODO,   I don't have time for jokes.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+290,ODO,   Your findings could determine who    controls this station.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+291,BASHIR,   How?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+292,ODO,"   All in good time... First, tell me    about the Klingon...",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+293,BASHIR,   I found nothing very unusual.  The    columnar cells in his brain stem...    the membrane permeability was off...,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+294,ODO,       What could cause that?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+295,BASHIR,   Any number of things.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+296,ODO,   Could it have something to do with    telepathy?  The Klingons were studying    the telepathic archives of an ancient    race.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+297,BASHIR,"   If those archives were contained    within a self-sustaining energy    matrix, it could explain the changes    in the Klingon's brain.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+298,ODO,   Could that energy matrix have somehow    caused them to re-enact the power    struggle that destroyed the    Saltah'nans.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+299,BASHIR,       Possibly.  What are you getting at?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+300,ODO,"   Doctor, I believe the Klingon brought    the matrix with him... and everyone    in Ops was affected except me...    without a humanoid brain, my system    rejected it.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+301,BASHIR,"       An interesting theory, Constable...    but I'm certainly not behaving out    of the ordinary.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+302,ODO,   Of course not.       But what if you and I are the only    two who aren't affected.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+303,BASHIR,   I see... and you think we can use    that to our advantage.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+304,ODO,   Exactly.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+305,BASHIR,   Tell me your plan.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+306,ODO,   The first thing we have to do is    figure out how to remove the field    from everyone affected.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+307,BASHIR,   But then we'd lose our advantage.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+308,ODO,   Would you rather someone blew up the    station?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+309,BASHIR,   I see your point.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+310,ODO,   The power to control the energy matrix    is the power to control this station.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+311,BASHIR,"   If I could determine the natural    resonance frequencies of the field,    I might be able to generate an    interference signal of some kind    which could force it out.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+312,ODO,"   Do it.  I promise, Doctor, you won't    regret it.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+313,DAX,       This reminds me of a game I used to    play... It had a maze... What was it    called?,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+314,O'BRIEN,   I'm through level two.  See if you    can isolate the security blocks on    three.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+315,DAX,   The Winter Garden...,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+316,O'BRIEN,   Lieutenant.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+317,DAX,       Oh.  I'm sorry.  I must have been    drifting.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+318,O'BRIEN,       Try drifting over here when you get    the chance.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+319,SISKO,"   What's taking so long, O'Brien?",43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+320,O'BRIEN,"   Almost there, Sir.  We've got one    more level of security lockouts to    break through and the Valerian ship    will be ready to go.",43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+321,ENSIGN,"   Commander, I have the report you    asked for on those weapon scanners.",43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+322,SISKO,   Give it to Mister O'Brien.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+323,ENSIGN,"   I really think you should see this,    sir.",43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+324,DAX,       Dax to Kira!,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+325,SISKO,   Is it Kira?!,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+326,SISKO,       Did Kira put you up to this?,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+327,ENSIGN,       No...,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+328,SISKO,       I want the truth.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+329,SISKO,   Is that clear?,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+330,SISKO,   Let's see how this works...,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+331,KIRA,   Put it down... Sir...,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+332,KIRA,       Take them.,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+333,KIRA,   You were supposed to deactivate the    transporter!,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+334,DAX,       I forgot...,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+335,O'BRIEN,   Damn it.  Kira must have set up a    force field to keep us from beaming    onto the Valerian ship.  The    Transporter rerouted us here.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+336,SISKO,   We've got to get to that ship.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+337,O'BRIEN,   Odo's our only chance.  He may be    able to override the field.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+338,SISKO,   You're sure we can trust him?,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+339,O'BRIEN,   I don't see where we have any choice.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+340,SISKO,       Sisko to Odo...,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+341,ODO,       Odo here.,52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+342,SISKO,"       Kira has moved against us.  She has    Dax on her side... We need your help,    Constable.  You've got to clear us a    path to the Valerian ship.",52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+343,ODO,       Take Crossover Bridge One to the    Cargo Bay entrance into Docking Port    Four.  I'll keep it open for you.,52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+344,SISKO,       Right.  Sisko out.,52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+345,SISKO,       Leave your combadge here.,52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+346,SISKO,"   Don't look so worried, Chief.  She    hasn't beaten us yet.",52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+347,O'BRIEN,"   Yes, Sir.",52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+348,DAX,   They're still in the Airlock Six    Corridor...,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+349,KIRA,   What could they be doing in there?,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+350,DAX,   Maybe they've given up.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+351,KIRA,"   Sisko would rather die... which is    fine with me.    (a beat, then Kira     smiles as she figures     it out)   They must have taken off their    combadges.  That's all right.  They    won't get far.",54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+352,DAX,   Somebody's taking out our    forcefields...,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+353,KIRA,   Whoever it is knows how to override    the security codes.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+354,KIRA,       Kira to Odo.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+355,ODO,"       Go ahead, Major.",55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+356,KIRA,"       Whose side are you on, Constable?",55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+357,ODO,"       Yours, of course.",55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+358,KIRA,       Really?  Then why are you helping    Sisko escape?,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+359,ODO,       On the contrary.  You'll find him    trapped in Cargo Bay Four.  Consider    it my gift to you.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+360,KIRA,       My apologies.  We'll see you there.     Kira out.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+361,BASHIR,   Well done... you certainly fooled    her.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+362,ODO,"       Doctor, we're running out of time.",55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+363,BASHIR,    (attention focused on     his console)   I'm just about done.  I've set up an    ionic interference signal in Cargo    Bay Four.  It's calibrated to lock    onto the resonance frequencies of    the telepathic field and drive it    out of those affected.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+364,ODO,   What will happen to it then?,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+365,BASHIR,   It'll remain suspended as long as    the interference is in effect.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+366,ODO,   That's all I need to know.  Let's    go.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+367,SISKO,   What's wrong?,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+368,O'BRIEN,       It won't open.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+369,O'BRIEN,       It's completely locked down.     Someone's activated a level five    security protocol.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+370,O'BRIEN,   There's only one person on this    station besides yourself who has    that kind of access.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+371,SISKO,       Odo!,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+372,KIRA ,"   Relax, Commander...",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+373,KIRA,   ... he'll be here any minute.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+374,SISKO,   So... this is where it all ends.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+375,KIRA,   For you.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+376,SISKO,"   You know what disturbs me?  The    ingratitude.  I offered you my help...    my kindness... my leadership... and    how do you repay me?  With betrayal...    But you won't get rid of me so easily.     You see, unlike you, I understand    history.  Time will be my greatest    ally.       My name will blaze like a comet across    the stars long after your petty    treacheries are forgotten.",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+377,KIRA,   But you won't be here to see it.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+378,ODO ,"   Major, wait...",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+379,KIRA,   I'm glad you two could make it.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+380,ODO,       Computer!  Execute Odo One!,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+381,SISKO,       Constable... ?,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+382,ODO,       Everyone grab hold of something.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+383,ODO,       Welcome back...,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+384,SISKO ,"   Commander's log; Stardate 46924.5.     With nothing to contain it, the    telepathic matrix has dispersed in    space.",65   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+385,SISKO ,       Meanwhile I'm happy to report    everything and everyone aboard DS    Nine has returned to normal.,66   INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+386,SISKO,   Come in.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+387,KIRA,   Did you really build that thing?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+388,SISKO,   Apparently so.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+389,KIRA,   Why?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+390,SISKO,       I have no idea.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+391,SISKO,   Major?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+392,KIRA,   I know that none of us were really    responsible for our actions... but I    still feel like I owe you an apology.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+393,SISKO,   For attempted mutiny.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+394,KIRA,   Well... yes.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+395,SISKO,   I think we'll let it go... this time.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
