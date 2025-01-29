@@ -47,6 +47,19 @@ def clean_name(name: str) -> str:
             name = name.replace(txt, '')
     return re.sub("[\(\[].*?[\)\]]", "", name.strip())
 
+def clean_location(loc:str):
+    views = ['INT.','EXT.']
+    output = loc
+    for v in views:
+        if v in output:
+            output = output[output.index(v)+5:]
+    if '(' in output:
+        output = output[:output.index('(')-1]
+    elif '-' in output:
+        # why elif? we want space - deep space nine
+        output = output[:output.index('-')-1]
+    return(output)
+
 
 def get_title(lines):
     series_ind = 0
