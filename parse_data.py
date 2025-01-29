@@ -101,6 +101,7 @@ def create_df(filepath: str) -> pd.DataFrame:
     test_df['view']=test_df['scene'].apply(get_view)
     test_df['character'] = test_df['character'].apply(clean_name)
     test_df['episode'] = get_title(lines)
+    test_df['date']=get_date(lines)
     return test_df
 
 
