@@ -1,0 +1,428 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's log, stardate 45854.2.   The Enterprise is charting six   star systems that make up the   Argolis cluster, an area being   considered for colonization.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+1,RIKER,   Very impressive...,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+2,TROI,   It's beautiful... and frightening   at the same time.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+3,DATA,       Radiation bursts from the star's   surface are making precise sensor   readings difficult. It seems to   be exhibiting gravitational   instability.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+4,DATA,   The star's fluctuations are too   severe. It would be impossible   to settle any of the planets   in this system.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+5,DATA,   I suggest we proceed to the next   system. Its sun is a stable main   sequence star.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+6,PICARD,"   In a moment, Mister Data.",2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+7,DATA,"   Sir, I am detecting a   transmission... emanating from   within this system",2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+8,RIKER,   What kind of signal?,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+9,DATA,   It is self-repeating... of unknown   pattern.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+10,PICARD,   Where is it coming from?,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+11,DATA,   A small moon orbiting the fourth   planet.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+12,PICARD,   Life signs?,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+13,DATA,"   Indeterminate. I am attempting   to screen out sensor   interference...    (he manipulates a few     controls)   Readings are still inconclusive;   however, the moon's atmosphere is   capable of supporting life.",2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+14,RIKER,   Then it could be a distress call.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+15,RIKER,"   Helm, take us into transport   range.       Doctor Crusher, we need a medical   away team in transporter room two.",2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+16,BEVERLY,   Acknowledged.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+17,BEVERLY,   I'm reading one life form... very   weak signs.,3    EXT. THE CRASH SITE - TWILIGHT (OPTICAL),THE CRASH SITE - TWILIGHT,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+18,RIKER,   Riker to Enterprise.,8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+19,PICARD,"   Go ahead, Number One.",8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+20,RIKER,   We've found the wreckage of a   small craft... and one survivor.,8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+21,RIKER,   It's a Borg.,9    INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+22,RIKER,"       Male, adolescent -- he's badly   hurt.",9    INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+23,DATA,   There is no indication of other   Borg activity within sensor range.,9    INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+24,PICARD,"   Away team, prepare to return to   the ship.",9    INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+25,BEVERLY,"   We can't leave him here, he won't   survive.",10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+26,RIKER,   I think the captain understands   that.,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+27,BEVERLY,   Then I don't.,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+28,RIKER,   The Borg usually collect their   dead --,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+29,BEVERLY,   He's not dead --,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+30,RIKER,   And that transmission --,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+31,BEVERLY,   -- at least not yet --,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+32,RIKER,   That transmission we intercepted   was probably a homing signal.   We have to assume they're on their   way.,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+33,BEVERLY,"       At least let me stabilize his   condition, give him a chance of   surviving until they get here.",10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+34,RIKER,   Captain?,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+35,PICARD,"   Your concern is noted, Doctor.   But any intervention on your part   would only alert the Borg to our   having been here.",11   INT. BRIDGE - ON PICARD,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+36,BEVERLY,   I'm afraid we've already turned   that corner.,12   EXT. CRASH SITE (OPTICAL),CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+37,WORF,   Kill it. Now. We could make it   appear that it died in the crash   -- leave no evidence that we were   here.,12   EXT. CRASH SITE (OPTICAL),CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+38,PICARD,   Security measures must be taken   before we beam it on board.,13   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+39,BEVERLY,   Standing by...,14   EXT. CRASH SITE,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+40,PICARD,"   Mister Data, notify security to   prepare a detention cell.       Bridge to engineering.",15   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+41,GEORDI,   La Forge here.,15   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+42,PICARD,   We're bringing a Borg survivor   on board. We'll need to   neutralize the homing signal --,15   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+43,PICARD,       -- prevent it from sending or   receiving transmissions of any   kind.,16   INT. ENGINEERING,ENGINEERING,INT.,"""I, Borg""",1992-03-03,The Next Generation
+44,GEORDI,   I'll set up a subspace damping   field around the detention cell.,16   INT. ENGINEERING,ENGINEERING,INT.,"""I, Borg""",1992-03-03,The Next Generation
+45,WORF,   There are four others. None   survived.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+46,PICARD,   Picard to Riker.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+47,RIKER,"   Go ahead, Enterprise.",17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+48,PICARD,   We're transporting you directly   to the detention cell.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+49,BEVERLY,   I need him in sickbay --,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+50,PICARD,"   The cell, Doctor. Whatever   equipment you need will be brought   to you there.",17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+51,BEVERLY,   Very well.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+52,PICARD,   Come.,17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+53,TROI,   Captain... I just wondered if   there's anything you wanted to   talk about.,17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+54,PICARD,"   I don't think so, Counselor.",17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+55,TROI,   I would have thought that   having a Borg on the ship would   stir some feelings...,17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+56,PICARD,"   I am quite recovered from my   experience, thank you.",17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+57,TROI,"   Sometimes... even when a victim   has dealt with his assault...   there are residual effects of the   event that linger. You were   treated violently by the Borg...   kidnapped, assaulted, mutilated   --",17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+58,PICARD,   Counselor --,17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+59,PICARD,"   Counselor, I very much appreciate   your concern for me. But I assure   you, it is misplaced.",17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+60,PICARD,"   I have carefully considered the   implications of having this Borg   on the ship. I have weighed the   possible risks, and I am convinced   we've done the right thing.       I am quite comfortable with my   decision.",17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+61,TROI,"   I see. Well, if at any point you   want to talk more...",17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+62,PICARD,   I will certainly avail myself of   your help.,17B  INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+63,WORF,       Lower the force field.,19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+64,WORF,"   Captain, the Borg is still   unconscious.",19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+65,BEVERLY,"   He suffered massive internal   injuries. We've got the   hemorrhaging under control, but   some of the implants in his brain   were damaged. I may have to   remove them.",19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+66,PICARD,   The Borg will die if they're   removed permanently. Their brains   grow dependent on the biochips.,19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+67,BEVERLY,   Perhaps Geordi could construct   new implants...,19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+68,GEORDI,"   They contain relatively   straightforward programming,   interface protocols... we have   the files we downloaded after your   experience, sir. I think I could   manage it.",19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+69,PICARD,   Mister La Forge... do you have   enought knowledge of Borg   programming to alter the pathways   to the root command structure?,19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+70,GEORDI,"   I'm not sure, sir. The   subroutines are pretty   complicated... I'd probably have   to study their data processing   algorithms... that's the only way   I could trace the access codes.",19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+71,PICARD,   If we could get to the root   command... we could introduce an   invasive programming sequence   through its biochip system...   and then return it to the hive.,19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+72,GEORDI,       The Borg are so interconnected   it would spread like a virus.,19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+73,PICARD,   Until it infected the entire   Collective. We could disable   their neural network in one   stroke.,19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+74,BEVERLY,   Infected... it sounds like you're   talking about a disease.,19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+75,PICARD,"   Quite right, Doctor. And if all   goes well, a terminal one.",19   INT. THE DETENTION CELL (OPTICAL),THE DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+76,GEORDI,"   If this works the way I think it   will, once the invasive program   starts spreading, it'll only be   a matter of months before the Borg   suffer total systems failure.",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+77,PICARD,   Comments.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+78,BEVERLY,"   A question. What, exactly, is   ""total systems failure?""",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+79,DATA,   The Borg are extremely   computer-dependent. A total   systems failure will destroy   them.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+80,BEVERLY,   I just think we should be plain   about that. We're talking about   annihilating an entire race...,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+81,PICARD,"   Which under most circumstances   would be unconscionable. But as   I see it, the Borg leave us little   choice.",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+82,RIKER,   I agree. We're at war.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+83,BEVERLY,   There's been no formal declaration   of war...,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+84,TROI,   Not from our side. But certainly   from theirs. They've attacked   us in every encounter we've had.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+85,PICARD,   They have declared war on our way   of life. We are to be   assimilated.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+86,BEVERLY,"   Even in war, there are rules.   You don't kill civilians   indiscriminately.",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+87,RIKER,   There are no civilians among the   Borg.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+88,PICARD,"   Think of them as a single,   collective being. Any one Borg   is no more an individual than your   arm or your leg.",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+89,BEVERLY,   How convenient.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+90,PICARD,   Your point?,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+91,BEVERLY,"   When I look at my patient, I don't   see a collective consciousness...   I don't see a hive... I see a   living, breathing boy... who's   been hurt and who needs help.   And we're talking about sending   him back to his people as an   instrument of destruction.",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+92,PICARD,"   It comes down to this: We are   faced with an enemy that is   determined to destroy us, and with   whom we have no hope of   negotiating peace. Unless that   changes, we are justified in doing   anything we can to survive.",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+93,SECURITY GUARD,   Security to Captain.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+94,PICARD,"   Picard, here.",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+95,SECURITY GUARD,"   The Borg has regained   consciousness, sir.",22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+96,PICARD,   Acknowledged.       We will proceed as planned.,22   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+97,BEVERLY,   What's he doing?,23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+98,PICARD,"   Trying to find an access terminal,   so he can interface with the   collective. He doesn't understand   that the signal has been cut off.",23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+99,GEORDI,       He's emitting a homing signal...   and a second subspace frequency...   but our damping field is blocking   both signals.,23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+100,PICARD,   He's alone. For the first time   in his life he's being forced to   cope with his environment without   the resources of the Collective.,23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+101,BEVERLY,   He must be hungry.,23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+102,BEVERLY,   The Borg don't ingest food --   their implants can synthesize any   organic molecules their biological   tissues require. What they need   -- is energy.,23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+103,PICARD,   Arrange to feed it.,23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+104,GEORDI,"   Aye, sir.",23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+105,GEORDI,   I'll have to adapt a power conduit   and install it in there.,23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+106,BEVERLY,   If I didn't know better... I'd   think he was scared.,23   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+107,GUINAN,   I don't think I like this sport.,25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+108,PICARD,"   Last week when you scored two   touches on me, you liked it well   enough.",25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+109,PICARD,   Today your foil was dipping too   low... you kept letting me inside.,25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+110,GUINAN,"   And if I hold it too high, you   lunge under it. Let's face it   -- you're just better at this than   I am.",25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+111,GUINAN,   I hear we have a guest on board.,25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+112,PICARD,   Yes.,25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+113,GUINAN,   Is that wise?,25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+114,PICARD,   I'm not sure. I hope so.,25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+115,GUINAN,"   I thought I understood you,   Picard. But I don't understand   this.",25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+116,PICARD,"   It was an errand of mercy... he   was injured, Doctor Crusher   decided for humanitarian reasons   to care for him --",25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+117,GUINAN,"   They'll be coming, you know that.   You, of all people, know that.",25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+118,PICARD,   Shall we go again?,25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+119,GUINAN,   You felt sorry for me. Look what   it got you.,25   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+120,GEORDI,   I'll have to go in... to connect   the power conduit.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+121,WORF,       I will follow the Commander.   Reactivate the field once we're   through.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+122,GEORDI,"   Good, now just stay there.",26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+123,WORF,   Commander...,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+124,BORG,   We are Borg.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+125,BORG,   You will be assimilated.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+126,BORG,   Resistance is futile.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+127,GEORDI,"    (without stopping his     work)   Take a look around, pal, you're   not exactly in a position to make   demands.",26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+128,BORG,   We must return to the Collective.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+129,GEORDI,"   Who's ""we?""",26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+130,BORG,   We... are Borg.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+131,GEORDI,   There's only one of you.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+132,GEORDI,   Do you have a name?,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+133,GEORDI,   A means of identification?,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+134,BORG,"   Third, of five.",26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+135,GEORDI,       There were five on your ship...   Is that it? Just a number?,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+136,BORG,"   Third, of five.",26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+137,GEORDI,   It does kind of suit you.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+138,GEORDI,   This is for you. It regulates   the power flow to the frequency   you're used to...       ... and this connection should fit   the coupling on your arm.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+139,GEORDI,   You're welcome.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+140,GEORDI,   Let's get out of here.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+141,WORF,   Lower the force field.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+142,GEORDI,   He's hungry all right.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+143,BORG,   Why do you do this?,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+144,GEORDI,   I'm just a nice guy at heart.   Feeling better?,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+145,BORG,   You are not-Borg.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+146,GEORDI,   That's right. And hope to stay   that way.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+147,BORG,   You will be assimilated.   Resistance is futile.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+148,GEORDI,   That's gratitude for you.,26   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+149,GEORDI,"   I've been rationing his portions   of energy. I think he   understands -- if he cooperates,   he gets fed. If not...    ",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+150,BEVERLY,   Like a rat in a cage.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+151,GEORDI,"   If I'm gonna figure out his   command pathways, I have to learn   how he processes information.   The only way I know to do that   is to give him perceptual tests.   That means getting his   cooperation.",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+152,BEVERLY,   So he can participate in the   destruction of his entire species.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+153,GEORDI,       Doctor...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+154,BEVERLY,"   I know, I know. We're at war.",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+155,BEVERLY,   I'm here to help you... but I   don't have to like it.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+156,GEORDI,"   I think we're ready to transport   him. If he gives us any trouble,   we can access the force field   through this console.       Ready?",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+157,GEORDI,   La Forge to transporter room three.   We're ready here.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+158,TRANSPORTER CHIEF,"   We are standing by, Commander.",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+159,GEORDI,   Energize.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+160,GEORDI,   You want some?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+161,GEORDI,"   Doctor Crusher, this is Third of   Five. Third of Five, this is our   ship's doctor.",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+162,BEVERLY,       Hello.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+163,BORG,   What is a doctor?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+164,BEVERLY,   A doctor heals the sick. Repairs   the injured.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+165,BORG,   The sick and injured are   reabsorbed. Others take their   place.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+166,BEVERLY,"       That didn't happen to you. When   we found you, you were dying.   I saved your life.",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+167,BORG,   Why?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+168,BEVERLY,   That's my duty. To help those   who are hurt.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+169,BORG,   You give us food...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+170,GEORDI,   Right.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+171,BORG,   Is that your duty?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+172,GEORDI,   Yeah. That's right.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+173,GEORDI,"   Listen, Third of Five... Doctor   Crusher here has repaired a lot   of the damage to your biochip   implants. We want to run a few   tests... see if everything is   working okay.",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+174,BORG,   Tests...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+175,BEVERLY,"   I'll show you some diagrams...   ask you some questions about   them... it's very simple, really.",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+176,BORG,       You will be assimilated...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+177,GEORDI,"   Right. But before that happens,   could we maybe ask you a few   questions?",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+178,BORG,   We will answer.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+179,GEORDI,"   Terrific. Okay, Third of Five,   right over here...",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+180,BORG,   What is your designation?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+181,GEORDI,   Designation?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+182,BORG,"       Third, of Five...",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+183,BEVERLY,   You mean our names. We don't have   designations -- we have names.   I'm Beverly...       This is Geordi.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+184,BORG,   Do I have a -- name?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+185,GEORDI,   Do you want one?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+186,BORG,   A name...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+187,BEVERLY,"   I'm Beverly, this is Geordi...       ... and you...",27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+188,BORG,   You...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+189,BEVERLY,   You...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+190,GEORDI,   That's it. Hugh. What do you   think?,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+191,BORG,   You.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+192,GEORDI,   Not you... Hugh.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+193,BORG,   Hugh.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+194,BEVERLY,   All right... I'm Beverly...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+195,GEORDI,   I'm Geordi...,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+196,BORG,   We are Hugh.,27   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+197,BEVERLY,   Now imagine what this shape would   look like if it were turned inside   out.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+198,BEVERLY,   Which one is it?,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+199,BORG,   This one.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+200,BEVERLY,   That's right.       He's gotten every one -- eight   for eight. That blows the top   right off the spatial acuity   percentiles.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+201,GEORDI,   It's the prosthetic eye... it   seems to be giving him very   complex visual information...,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+202,BEVERLY,   Like some kind of holographic   imaging system.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+203,GEORDI,   That could be helpful.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+204,GEORDI,"   Hugh, I'd like to take a closer   look at your eyepiece. Is that   okay?",29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+205,BORG,   Here.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+206,GEORDI,   Well... thanks.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+207,BORG,"   When you are assimilated, you will   have a similar device.",29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+208,BEVERLY,"   Hugh, do you understand that we   don't want to be assimilated?",29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+209,BORG,   Why do you resist us?,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+210,BEVERLY,   Because... we don't want to live   the way you do.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+211,BORG,   Here it is quiet. There are no   other voices.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+212,GEORDI,   Other voices?,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+213,BORG,   On a Borg ship we live with the   thoughts of the others in our   minds. Thousands of voices...   with us always.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+214,BEVERLY,   I think what you're saying... is   that you're lonely.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+215,GEORDI,   Here you go.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+216,BORG,"   When you have completed these   tests, what will be done with us?",29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+217,GEORDI,   We'll send you home.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+218,BORG,   We will rejoin the Collective.,29   INT. SCIENCE LAB (OPTICAL),SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+219,GEORDI,"   It's funny... when I first started   out, I had no problem with   creating this invasive program...   but the more I work with Hugh,   the more I --",30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+220,GUINAN,   Hugh?,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+221,GEORDI,   That's the name we gave him.,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+222,GUINAN,   You named a Borg...,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+223,GEORDI,   Yeah.       It was easier to have something   to call him.,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+224,GUINAN,"   Okay, so now you have a Borg named   Hugh...",30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+225,GEORDI,   And... he's not anything like I'd   expected.,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+226,GUINAN,   How so?,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+227,GEORDI,   I don't know... he's... he just   seems like a kid.. a long way from   home...,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+228,GUINAN,   You're the second person today   that's talked about this Borg as   if he were a lost child...,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+229,GEORDI,   And now I'm having second thoughts   about what we're doing.   Programming him like a walking   bomb... sending him back to   destroy the others...,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+230,GUINAN,"   This ""kid's"" big brothers are   going to hunt us down. They won't   rest until they have him back.   And they'll destroy us in the   process -- without any of this   soul-searching you're going   through.",30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+231,GEORDI,   Maybe you should go talk to him.   It might not seem so clear cut   then.,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+232,GUINAN,   I wouldn't have anything to say.,30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+233,GEORDI,"   Then why don't you just listen?   That's what you do best, isn't   it?",30   INT. TEN FORWARD,TEN FORWARD,INT.,"""I, Borg""",1992-03-03,The Next Generation
+234,PICARD,"   What is it, Number One?",32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+235,RIKER,"   We've picked up a vessel on long   range scanners, headed this way.",32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+236,PICARD,   Analysis.,32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+237,DATA,"   The vessel is traveling at warp   seven-point-six. Mass:   two-point-five million metric   tons, configuration: ...cubical.",32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+238,RIKER,   The Borg...,32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+239,DATA,   Its dimensions indicate that it   is a scout ship similar to the   one that crashed.,32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+240,DATA,   Interference from the star's   radiation will shield us from   their sensors. We should remain   undetected until they enter this   system.,32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+241,PICARD,   How long do we have?,32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+242,DATA,"   At present speed they will arrive   in thirty-one hours, seven   minutes.",32   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+243,GUINAN,   Well... you don't look so tough.,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+244,BORG,       We are Borg.,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+245,GUINAN,   I hear they gave you a name.,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+246,BORG,   Yes. We are Hugh.,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+247,GUINAN,   Well? Aren't you going to tell   me I have to be assimilated?,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+248,BORG,   You wish to be assimilated... ?,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+249,GUINAN,"   No, I don't wish. But that's what   you people do.",34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+250,GUINAN,   Resistance is futile. Right?,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+251,BORG,   Resistance is futile...,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+252,GUINAN,"   I've got news for you. It isn't.   Some of my ancestors resisted the   Borg, when you came to assimilate   us. A few escaped.",34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+253,BORG,       Resistance is not futile...,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+254,GUINAN,   No...,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+255,GUINAN,"   But thanks to you, there aren't   many of us. We're scattered   around the galaxy... we have no   home... we don't even have each   other.",34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+256,BORG,   What you are saying... is that   you are lonely.,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+257,GUINAN,   What... ?,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+258,BORG,   You have no others. You have no   home.,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+259,BORG,   We are also lonely.,34   INT. DETENTION CELL,DETENTION CELL,INT.,"""I, Borg""",1992-03-03,The Next Generation
+260,BORG,   What is Geordi doing?,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+261,GEORDI,   Just studying the components in   your prosthesis.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+262,BORG,   Why?,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+263,GEORDI,   We're just trying to learn more   about you.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+264,BORG,   Why?,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+265,GEORDI,   You're very different from us.   Part of what we do is to learn   more about other species.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+266,BORG,   We assimilate species. Then we   know everything about them.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+267,GEORDI,   Yeah. I know.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+268,BORG,   Is that not easier?,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+269,GEORDI,   Maybe it is. It's just not what   we do.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+270,BORG,   Why?,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+271,GEORDI,"   Think about it this way. Every   time you talk about yourself, you   use the word ""we."" We do this,   we do that... you don't know how   to think of yourself as a single   individual. You don't say, ""I   want this,"" or ""I am Hugh.""",38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+272,GEORDI,"   We are all separate individuals.   I am Geordi. I choose what I want   to do with my life. I make   decisions for myself. For people   like me, losing that individuality   -- is almost worse than dying.",38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+273,BORG,   When you sleep... there are no   voices in your mind.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+274,GEORDI,   No.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+275,BORG,   Are you ever...       ... lonely?,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+276,GEORDI,   Sometimes. But that's why we have   friends.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+277,BORG,   Friends...,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+278,GEORDI,   Sure. Someone you talk to...   who can be with you when you're   lonely... who makes you feel   better.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+279,BORG,   Like Geordi... and Hugh.,38   INT. SCIENCE LAB,SCIENCE LAB,INT.,"""I, Borg""",1992-03-03,The Next Generation
+280,GEORDI,"   That's it, Captain.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+281,PICARD,   It looks harmless enough.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+282,GEORDI,   We had to disguise it as something   innocuous. The Borg have ways   of screening out programming   anomalies.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+283,PICARD,   How can a geometric form   disable a computer system?,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+284,DATA,   The shape is a paradox. It cannot   exist in real space or time.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+285,GEORDI,"   When Hugh's imaging apparatus   imprints it on his bio-chips,   he'll try to analyze it.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+286,DATA,"   He will be unsuccessful, and will   store the shape in his memory   banks. It will be shunted to a   subroutine for further analysis.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+287,GEORDI,"   When the Borg download his memory,   they'll incorporate it into their   network. Then they'll try to   analyze it.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+288,DATA,"   It is designed so that each   approach they take will spawn an   anomalous solution. The anomalies   are designed to interact with each   other, linking together to form   an endless and unsolvable puzzle.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+289,PICARD,   Quite original. How long before   total systems failure?,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+290,GEORDI,   Not until the shape has gone   through several hundred   computational cycles.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+291,PICARD,   When can you begin the process?,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+292,GEORDI,   Another twenty hours. Doctor   Crusher wants to make sure the   new implants have taken hold.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+293,PICARD,   Very well. Proceed as soon as   you're ready.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+294,GEORDI,   Captain...,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+295,GEORDI,   I have to admit... I've been   having second thoughts about this   plan.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+296,PICARD,   For what reason?,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+297,GEORDI,   Well... I've been getting to know   him. The Borg.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+298,PICARD,   I see.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+299,GEORDI,"   He's not what I thought he would   be, sir. He has feelings... he's   homesick...       I don't know... it just seems   wrong to use him like this.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+300,PICARD,"   Centuries ago, when laboratory   animals were used for research...   scientists would occasionally   become attached to the creatures.   That was a problem if the   experiment involved killing them.       I would suggest you unattach   yourself from the Borg, Mister   La Forge.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+301,GEORDI,"       Aye, Captain.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+302,PICARD,   Come.,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+303,PICARD,"   Guinan... please, come in.",40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+304,GUINAN,   You sure? Looks like you're all   set for a quiet evening.,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+305,PICARD,   I'm delighted to see you. Would   you like something to drink?,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+306,GUINAN,"   No, thanks.",40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+307,GUINAN,   I was thinking about how you said   my foil was dipping the other   day... maybe I should do some   exercises... build up a little   strength in my arm...,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+308,PICARD,   A strong forearm is always an   advantage in fencing...,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+309,GUINAN,   Not to mention tending bar...,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+310,GUINAN,   About the Borg...,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+311,GUINAN,   Aren't you just a bit surprised   by him?,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+312,PICARD,   Surprised...,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+313,GUINAN,   Yes. Did you know he has a name?,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+314,GUINAN,   La Forge gave it to him. His   name's Hugh. And he's lonely.,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+315,GUINAN,"   I don't know what made me go see   him. La Forge told me I should,   but I said no.",40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+316,GUINAN,"   And then... I found myself   standing there, staring at him.   Curiosity, I figured... just   curiosity.",40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+317,GUINAN,   Picard... I want to hear you say   that you're sure -- that what   you're doing is right.,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+318,PICARD,   If you've come here to persuade   me not to use the invasive   program...,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+319,GUINAN,   No -- I think I'm asking you to   persuade me.,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+320,PICARD,"   Two days ago, you were so upset   about the Borg even being on the   ship that you tore the foil out   of my hand. Now you're here   questioning whether he should be   treated as an enemy.",40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+321,GUINAN,   I know. But... when you talk to   him... face to face... can you   honestly say you have no doubts?,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+322,PICARD,       I haven't talked to him.,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+323,GUINAN,   Why not?,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+324,PICARD,   I see no need --,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+325,GUINAN,   If you're going to use this person   --,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+326,PICARD,"   It's a Borg, damn it, not a   person --!",40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+327,GUINAN,"   If you're going to use this person   to destroy his race, don't you   think you should look him in the   eye once before you do it?       Besides... I'm not so sure he is   Borg anymore.",40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+328,PICARD,       Because he's been given a name   by a member of the crew doesn't   mean he's no longer Borg. Because   he's young doesn't mean he's   innocent. He is what he is and   in spite of the efforts to turn   him into some kind of pet -- I   will not alter our plans.,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+329,GUINAN,   Fine. But unless you talk to him   -- at least once -- you might find   that decision harder to live with   than you realize.,40   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""I, Borg""",1992-03-03,The Next Generation
+330,WORF,   Worf to Captain Picard...,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+331,PICARD,"   Yes, Lieutenant.",41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+332,WORF,   We are ready to transport.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+333,PICARD,   Proceed.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+334,PICARD,"   You may wait outside, Lieutenant.",41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+335,BORG,   Locutus...,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+336,PICARD,   Yes. I am Locutus... of Borg.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+337,BORG,   Why are you here?,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+338,PICARD,   This is a primitive culture. I   am here to facilitate its   incorporation. Identify yourself.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+339,BORG,   Hugh.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+340,PICARD,   Identify yourself.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+341,BORG,   We are Hugh.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+342,PICARD,   This is not a Borg identification.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+343,BORG,   Third... of five.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+344,PICARD,   This culture will be assimilated.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+345,BORG,   They... do not wish it.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+346,PICARD,   Irrelevant.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+347,BORG,   They will resist us.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+348,PICARD,   Resistance is futile.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+349,BORG,   Resistance... is not futile.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+350,BORG,   Some have escaped.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+351,PICARD,   They will be found. It is   inevitable. All will be   assimilated.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+352,BORG,   Must... Geordi be assimilated?,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+353,PICARD,   Yes.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+354,BORG,   Geordi does not wish it.       He would rather die than be   assimilated.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+355,PICARD,   Then he will die.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+356,BORG,   No. Geordi must not die.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+357,BORG,   Geordi is... a friend.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+358,PICARD,   You will assist us in assimilating   this vessel.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+359,PICARD,   You are Borg. You will assist   us.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+360,BORG,   I will not.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+361,PICARD,   What did you say?,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+362,BORG,   I will not assist you.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+363,PICARD,"   ""I""... ?",41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+364,BORG,   Geordi must not be assimilated.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+365,PICARD,   But... you are Borg.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+366,BORG,   No. I am -- Hugh.,41   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+367,PICARD,"   ... I think I deliberately avoided   speaking with the Borg because   I didn't want anything to get in   the way of our plan.       But now something has. As far   as I can tell, he seems to be a   fully realized individual. He   has even accepted me as Picard,   Captain of this ship, and not as   Locutus.",42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+368,GEORDI,   Then... you've reconsidered the   plan?,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+369,PICARD,"   Yes. If we used him in that   manner, we'd be no better than   the enemy we seek to destroy.   I want other options.",42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+370,RIKER,   We could return him to the crash   site... but we'd have to erase   his memories of being on the   Enterprise.,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+371,BEVERLY,"   But... if we erase his memories,   then who he is, who he's become,   would be destroyed.",42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+372,RIKER,   Isn't that the point? He'd be   reassimilated into the hive   without any questions...,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+373,GEORDI,   It just seems wrong... we help   turn him into an individual...   then we take that away from him...,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+374,BEVERLY,   Is there a danger that the Borg   might destroy him -- if they   discover what's happened?,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+375,PICARD,   I doubt it. They have nothing   to gain by that. It's more likely   they'll simply wipe out his memory   of this experience.,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+376,RIKER,   Then either way his memories will   be erased.,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+377,PICARD,   But perhaps...,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+378,PICARD,   ... in the short time before they   purge those memories... the sense   of individuality which he has   gained here will be transmitted   throughout the Collective.,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+379,PICARD,   Every one of the Borg will have   the opportunity to experience the   feeling of... singularity.    ,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+380,PICARD ,"   Perhaps that would be the most   pernicious program of all... the   knowledge of self, spread through   the Borg Collective in that brief   moment, might alter them forever.",42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+381,PICARD,   We will leave his memories intact.,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+382,BEVERLY,   I have only one question.,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+383,BEVERLY,   What if he doesn't want to go   back?,42   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+384,GEORDI,"   Hello, Hugh.",43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+385,BORG,"   Hello, Geordi.",43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+386,PICARD,"   Hugh... a Borg rescue vessel is   approaching. It will be here   within three hours. We can return   you to the crash site, where they   will find you and take you home.",43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+387,PICARD,"   Or... if you wish, you may remain   here with us.",43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+388,BORG,   What I wish... is irrelevant.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+389,GEORDI,   It's not irrelevant. It matters   to us.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+390,BORG,   No Borg leaves the Collective.   If they find I am missing -- they   will come for me.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+391,PICARD,"   Hugh, we'll deal with the   repercussions later. What we must   know is what you want.",43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+392,BORG,   You are many. I am one. My needs   are not important.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+393,GEORDI,   Don't you understand? We're   giving you a choice.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+394,BORG,   Choice...,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+395,GEORDI,   Yeah. Do you want to go back with   the Borg... or stay with us?,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+396,BORG,   I could stay with you... ?,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+397,PICARD,   Yes. We would grant you asylum.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+398,BORG,   Choose... what I want...,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+399,BORG,   I would choose to stay with   Geordi.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+400,BORG,   But it is too dangerous. They   will follow.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+401,BORG,   Return me to the crash site. It   is the only way.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+402,GEORDI,   Hugh... think about this... are   you sure?,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+403,BORG,   Yes.,43   INT. READY ROOM,READY ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+404,PICARD,       The Borg ship will enter orbit of   the moon within an hour. You'll   soon be headed home.,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+405,PICARD,   We'll beam him down and take   position in the star's   chromosphere. Its interference   will hide us from their sensors.,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+406,BEVERLY,"   Goodbye, Hugh. I'm very glad I   got to know you.",46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+407,BORG,"   Goodbye, Beverly.       You saved my life.",46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+408,GEORDI,       It's not too late to change your   mind. You can stay here.,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+409,BORG,   I must return.,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+410,GEORDI,"   Captain, I'd like to go down with   him.",46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+411,PICARD,   My experience suggests that they   would ignore him.       Would you agree?,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+412,BORG,   The Borg assimilate civilizations.   Not individuals.,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+413,BEVERLY,"       But, Captain, they kidnapped   you...",46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+414,PICARD,"   Because they needed a liaison to   communicate with Humans. The   Borg ignored every away team we   sent to their ship, including   yours, Doctor.",46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+415,PICARD,       You may accompany him.,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+416,PICARD,   Goodbye.,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+417,BORG,   Captain... I do not want to forget   that I am Hugh...,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+418,PICARD,   Energize.,46   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""I, Borg""",1992-03-03,The Next Generation
+419,GEORDI,       We found you there... in the   middle of that debris.,47   EXT. CRASH SITE - TWILIGHT (OPTICAL),CRASH SITE - TWILIGHT,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+420,BORG,   Then that is where I will wait.,47   EXT. CRASH SITE - TWILIGHT (OPTICAL),CRASH SITE - TWILIGHT,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+421,DATA,   We are now entering position.   Radiation levels are rising.,49   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+422,PICARD,   Increase power to the shields.   Hold us here.,49   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+423,RIKER,   Status of the Borg ship?,49   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+424,DATA,"   Solar radiation is rendering our   sensors inoperable. At last known   course and speed, the Borg vessel   will enter the system in three   minutes.",49   INT. BRIDGE,BRIDGE,INT.,"""I, Borg""",1992-03-03,The Next Generation
+425,GEORDI,"   Well... I guess this is it.       So long, Hugh.",50   EXT. CRASH SITE,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation
+426,BORG,"   Goodbye, Geordi. I will try to   remember you.",50   EXT. CRASH SITE,CRASH SITE,EXT.,"""I, Borg""",1992-03-03,The Next Generation

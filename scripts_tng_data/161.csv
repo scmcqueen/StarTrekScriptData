@@ -1,0 +1,452 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's log, Stardate 43539.1.   We have moved into orbit around   Bre'el Four to investigate a   potentially catastrophic threat   to the population from a   descending asteroidal moon...",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Deja Q""",1989-11-14,The Next Generation
+1,DATA,"   The satellite's trajectory   continues to deteriorate,   Captain... This orbit will bring   it to within five hundred   kilometers of the planet's   surface.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+2,GARIN,   We're predicting the atmospheric   drag will bring it down on the   next orbit.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+3,SCIENTIST,   Have you been able to find any   explanation for this?,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+4,DATA,"   No, Doctor... it is a most unusual   phenomenon.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+5,PICARD,   Won't the moon disintegrate prior   to impact?,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+6,SCIENTIST,"   No, it has a ferrous crystaline   structure and will be able to   withstand tidal forces, Captain...",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+7,RIKER,   Couldn't we just blow it into   harmless chunks?,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+8,DATA,"   The total mass of the moon would   remain the same, Commander. And   the impact of thousands of   fragments would spread destruction   over an even wider area.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+9,PICARD,   How long before impact...,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+10,DATA,   Twenty-nine hours... projected   somewhere on the western   continent. It would destroy an   area eight hundred kilometers in   radius.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+11,SCIENTIST,"   That damage would be   insignificant, Captain, compared   to the seismic repercussions...   massive landquakes, and   tsunami...",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+12,GARIN,"   The force would raise a cloud of   dust around the planet, leading   to a significant temperature   reduction. We could be looking   at our own ice age.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+13,PICARD,"       Commander La Forge, is there any   way the Enterprise might be able   to coax this satellite back where   it belongs... ?",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+14,GEORDI,"   We'd need to apply a delta-vee   of at least four kilometers per   second. Even with warp power to   the tractor beam, it would mean   exceeding recommended impulse   engine output by at least   forty-seven percent. It'd be like   an ant pushing a tricycle... a   slim chance at best...",3    INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+15,RIKER,"       Given a choice between slim and   none, I'll take slim any day...",3    INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+16,PICARD,   Make it so.,3    INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+17,RIKER,"   Lieutenant Worf, signal all ships   in this sector to rendezvous and   join us in relief efforts.",3    INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+18,WORF,"   Aye, sir.",3    INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+19,PICARD,       We'll keep you informed of our   progress. Picard out.,3    INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+20,RIKER,"   Can you give us any more,   Geordi... ?",10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+21,GEORDI,   Not without burning out the   tractor beam emitter... the   circuits are already beyond their   thermal limit.,10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+22,DATA,   Delta-vee is ninety-two meters per   second. The mass is too great.   We are having an effect but it   is negligible.,10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+23,RIKER,   What is that...,10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+24,DATA,   Unable to identify source...,10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+25,GEORDI,   Impulse engines passing saftey   limits. We're seconds from   automatic shutdown.,10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+26,PICARD,   Reduce engines... tractor beam   off...,10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+27,RIKER,"   Worf, what the hell do the sensors   show... ?",10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+28,WORF,"   The sound is not registering,   Commander...",10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+29,Q,   Red Alert.,10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+30,PICARD,   Q.,10   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+31,PICARD ,"   Captain's log, supplemental. We   are no closer to finding a   solution to the deteriorating   orbit of the Bre'el Four moon...   but with the arrival of Q, we now   have a good idea of the cause.",17   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Deja Q""",1989-11-14,The Next Generation
+32,GEORDI ,"   We couldn't drive the tractor   emitters hard enough, Captain...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+33,GEORDI,"   The beam was flexing, and it was   impossible to transfer enough   kinetic energy to the moon...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+34,PICARD,   Our options?,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+35,GEORDI,   We did everything by the book and   a little extra... we need more   time or more power and we're short   on both. I'll take a look and see   if there are any rules I haven't   broken.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+36,PICARD,   Keep me advised.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+37,RIKER,"   We know you're behind this, Q...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+38,Q,"       It's not at all my best color...   Behind what... what are you   blathering about, Riker...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+39,PICARD,   What kind of twisted pleasure does   it give you to bring terror into   their lives... ?,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+40,Q,   What? Whose lives?,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+41,PICARD,   The millions of people down there   who are watching as their moon   falls out of the sky...,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+42,Q,   I haven't the vaguest idea what   you're talking about... and I have   a much more serious problem...   I am no longer a member of the   continuum. My superiors have   decided to punish me.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+43,PICARD,"   And punish us as well, it seems...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+44,Q,   They said I've spread too much   chaos through the universe and   they have stripped me of all my   powers.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+45,Q,   You do not believe me... ? Would   I humiliate myself like this?,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+46,RIKER,"   If it served your purposes, yes.",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+47,Q,"   It is the truth. I stand before   you, defrocked. I'm condemned   to be a member of this lowest of   species. A normal, imperfect,   lumpen human being.",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+48,TROI,   Turning you into a human was part   of their punishment... ?,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+49,Q,"   No, it was my request. I could   have chosen to exist as a   Markoffian fire lizard or a   Belzoidian flea, anything I   wished... so long as it was   mortal, but I only had a fraction   of a second to mull and I chose...   ""this""... and asked them to bring   me here...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+50,TROI,   Why?,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+51,Q,"       Because in all the universe you   are the closest thing I have to   a friend, Jean-Luc.",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+52,DATA,   He is reading as fully human.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+53,Q,    (looks around the     bridge)   Is there an echo in here?,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+54,TROI,   I'm even sensing an emotional   presence in him. I would   normally describe it as being   terrified.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+55,Q,   How rude.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+56,PICARD,"   Q, what is it you want...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+57,Q,"   Your compassion...    (a beat, off Picard's     look)   All right... Sanctuary on your   ship... dreary as that may sound   to both of us...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+58,PICARD,   Return the moon to its orbit.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+59,Q,   I have no powers. Q the ordinary.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+60,PICARD,"   Q, the liar. Q, the misanthrope.",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+61,Q,"   Q, the miserable. Q, the   desperate. What must I do to   convince you people...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+62,WORF,   Die.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+63,Q,"   Very clever, Worf. Eat any good   books lately?",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+64,PICARD,   Fine. You wish to be treated as   a human?,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+65,Q,   Absolutely.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+66,PICARD,"   Mister Worf, throw him in the   brig.",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+67,WORF,"   Delighted, Captain.",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+68,Q,   Jean-Luc... you can't do this...,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+69,WORF,   You will walk or I will carry you.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+70,Q,   Given the options -- I'll walk.,18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+71,Q,"       You've disappointed me, Jean-   Luc... I'm very disa...",18   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+72,Q,   It was a mistake... I never should   have picked human... I knew it   the minute I said it.     ,18A  INT. TURBOLIFT (FORMERLY SCENE 19),TURBOLIFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+73,Q ,"   To think of the future in this   shell... forced to cover myself   with fabric because of outdated   human morality, to say nothing   of being too hot or too cold,   growing feeble as the years pass,   losing my hair, catching a   disease, being ticklish, sneezing,   having an itch, a pimple, bad   breath, having to bathe...",18A  INT. TURBOLIFT (FORMERLY SCENE 19),TURBOLIFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+74,WORF,       Too bad.,18A  INT. TURBOLIFT (FORMERLY SCENE 19),TURBOLIFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+75,Q,"   ""Klingon""... I should have said   ""Klingon"". In my heart, I am a   Klingon, Worf... So you understand   I could never survive in   confinement...   The universe has been my back   yard... this is cruel and unusual   punishment. As a fellow Klingon,   if you would speak to the captain   on my behalf, I would be eternally   grateful... which doesn't mean   as much as it used to, I admit.",19   INT. CORRIDOR (FORMERLY SCENE 20),CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+76,WORF,   Be quiet or disappear back where   you came from.,19A  INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""Deja Q""",1989-11-14,The Next Generation
+77,Q,   I can't disappear any more than   you can win a beauty contest.     ,19A  INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""Deja Q""",1989-11-14,The Next Generation
+78,Q ,"   If I ask a very simple question,   do you think you can grasp it   without troubling your intellect   too much... ready? If I still   had powers, would I permit you   to lock me away?",19A  INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""Deja Q""",1989-11-14,The Next Generation
+79,WORF,"   You have fooled us too often, Q.",19A  INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""Deja Q""",1989-11-14,The Next Generation
+80,Q,"   Perspicacity incarnate. Please   don't feel compelled to tell me   the story of ""the boy who cried   Worf""?",19A  INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""Deja Q""",1989-11-14,The Next Generation
+81,WORF,"   Computer, activate forcefield.",19A  INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""Deja Q""",1989-11-14,The Next Generation
+82,Q,"       I demand to be let out of here,   do you hear me? You will   deactivate this cell immediately.       ""Romulan"". I should have said   ""Romulan"", you Klingon goat!",19A  INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""Deja Q""",1989-11-14,The Next Generation
+83,PICARD,   The question is -- what sort of   jaded game is he playing this   time?,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+84,RIKER,"   Maybe he just wants a big laugh.   He'll take Bre'el Four to the edge   of disaster, then pull the moon   back.",21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+85,PICARD,       Or he may have nothing to do with   it at all.,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+86,RIKER,   Do you honestly believe Q is   telling the truth?,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+87,PICARD,"   Oh, I agree that is highly   unlikely. But we have to proceed   with our current dilemma as though   Q is powerless to prevent it,   don't we?",21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+88,RIKER,"   As he sits, and watches us   struggle...",21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+89,PICARD,"   I don't see much choice.       Mister Worf, hail the Bre'el Four   science station...",21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+90,WORF,"   They're standing by, Captain...",21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+91,PICARD,   I'm sorry to report that our first   attempt to restore the moon to   its proper orbit has failed.,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+92,GARIN,   We have less than twenty-five   hours before impact...,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+93,RIKER,   Our chief engineer is working on   ways to reinforce our tractor beam.,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+94,PICARD,   There is hope... but if you have   an evacuation plan...,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+95,GARIN,   We have already started moving   people from the coastal areas of   the western continent...,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+96,PICARD,       We will make another attempt   shortly... Picard out.,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+97,RIKER,   I gotta tell you Geordi is not   optimistic...,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+98,PICARD,   What the devil... ?,21   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+99,RIKER,   Data... ?,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+100,DATA,   Sensors are showing broad band   emissions... including Berthold   rays...,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+101,RIKER,   Lethal?,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+102,DATA,"   No, Commander. Overall exposure   is under seventy-five rems. Very   low intensity. More like a soft   medical scan... I would speculate   that we are being probed...",22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+103,PICARD,   By whom?,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+104,DATA,   The sensors cannot identify point   of origin. It seems to be coming   from all around us...,22   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+105,Q,"   Ah, you've come to apologize...   how nice... no offense taken...   all is forgiven...",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+106,PICARD,"   Enough. I want to know exactly   what is going on, Q...",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+107,Q,"   But Jean-Luc, how can I know what   is going on? I have been in this   dungeon of yours, helpless and   alone... bored to tears...",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+108,PICARD,   We have a moon that is   inexplicably falling out of   orbit... and now the ship has been   probed with Berthold radiation...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+109,Q,"    (covering up some     concern)   When? I wasn't aware of it.       Truthfully, Jean-Luc. I have   been entirely preoccupied by a   most frightening experience of   my own. A couple of hours ago,   I started realizing this body was   no longer functioning properly...   I felt weak, the life oozing out   of me... I could no longer   stand... and then I lost   consciousness...",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+110,PICARD,   You fell asleep...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+111,Q,   It's terrifying... how can you   stand it day after day...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+112,PICARD,   One gets used to it...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+113,Q,   What other dangers are in store   for me... I am totally unprepared   for this... I need guidance...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+114,PICARD,"   I am unwilling to play along, Q.   If you must keep up the charade,   you will do it alone...",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+115,Q,   Jean-Luc... wait...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+116,Q,   This is getting on my nerves...   now that I have nerves...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+117,Q,"   You have a moon with a   deteriorating orbit... I've known   moons across the universe... big   ones, small ones... I'm an   expert... I can help you with this   one... if you let me out of here.",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+118,PICARD,"   Q, we're dealing with millions   of lives... if you have the power   to...",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+119,Q,"   I have no power... But I still   have the knowledge... locked in   this puny brain. You cannot   afford to dismiss that advantage,   can you?",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+120,PICARD,"   Mister Data, please report to   Detention Cell Three. Computer,   remove the forcefield.       If this is what I must do to save   those lives, I will.",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+121,PICARD,"       You will not be left alone for   one moment while you are on this   ship, Q. If you are human, which   I seriously doubt, I suggest you   work hard to earn our welcome.",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+122,Q,"   Oh, I'll earn your welcome. You   only dislike me. There are others   in the cosmos that truly despise   me.",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+123,PICARD,   You are hereby assigned to Q for   the remainder of his stay...   escort him to Mister La Forge in   Engineering...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+124,Q,   Can I have a Starfleet uniform...,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+125,Q,   What are you looking at?,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+126,DATA,   I was considering the possibility   that you are telling the truth...   and really are human.,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+127,Q,"   It's the ghastly truth, Mister   Data... I can now stub my toe with   the best of them.",23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+128,DATA,       An irony.       It would mean you have achieved   in disgrace what I have always   aspired to be.,23   INT. DETENTION (OPTICAL),DETENTION,INT.,"""Deja Q""",1989-11-14,The Next Generation
+129,Q,"   Humans are such commonplace little   creatures. They roam the galaxy   looking for something, and they   don't even know what it is.",23A  INT. CORRIDOR,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+130,DATA,"   The human race has an enduring   desire for knowledge, and for new   opportunities to improve itself...",23A  INT. CORRIDOR,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+131,Q,"   There is certainly room for   improvement. The truth is, Data,   they are a minor species in the   grand scheme. Not worth your   envy...",23A  INT. CORRIDOR,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+132,DATA,"   Oh, I do not feel envy.",23A  INT. CORRIDOR,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+133,Q,   Good.,23A  INT. CORRIDOR,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+134,DATA,   I feel nothing at all. That is   part of my dilemma. I have the   curiosity of the human... but there   are some questions I will never be   able to answer... what is it like to   laugh or to cry or to experience   any human emotion... ?,23A  INT. CORRIDOR,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+135,Q,"   Believe me, life's a lot simpler   without feelings... a lot   simpler...",23A  INT. CORRIDOR,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+136,GEORDI,   The moon will hit its perigee in   ten hours... we match its   trajectory... increase emitter   coolant rate so we can apply   continuous warp-equivalent power   nine to the tractor beam. We can   keep pushing it for nearly seven   hours and I think that might do   it... but there's a problem...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+137,DATA,   The Enterprise will be dangerously   close to the atmosphere.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+138,GEORDI,   That's the problem.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+139,Q,   This is incredible.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+140,GEORDI,"   You see something here, Q?",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+141,Q,"   I think I just hurt my back. I'm   feeling pain. I don't think I   like it. What's the right thing   to say... ""ow""?",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+142,GEORDI,       Yeah...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+143,Q,   Ow. I don't think I can   straighten up...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+144,DATA,       Medical assistance to   Engineering...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+145,GEORDI,"   Q, I've got a few people down on   Bre'el Four who are gonna be hurt   if we don't...",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+146,Q,"       Yes, with your marvelous plan,   you will not only tear the moon   to pieces... but your precious   ship as well.",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+147,GEORDI,   You have a better idea... ?,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+148,Q,   I would certainly begin by   examining the cause and not the   symptom.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+149,GEORDI,"   We've done that, Q... and there's   no way to determine...",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+150,Q,   This is obviously the result of   a large celestial object passing   through at near right angles to   the plane of the star system...   probably a black hole...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+151,DATA,   Can you recommend a way to counter   the effect?,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+152,Q,   Simple. Change the gravitational   constant of the universe.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+153,GEORDI,       What... ?,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+154,Q,   Change the gravitational constant   of the universe. And thereby   alter the mass of the asteroid...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+155,GEORDI,   Redefine gravity. How am I   supposed to do that?,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+156,Q,   You just do it. Where is that   doctor anyway... ?,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+157,DATA,   Geordi is trying to say that   changing the gravitational   constant of the universe is beyond   our capabilities.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+158,Q,"   Oh. In that case, never mind.",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+159,Q,"   Ah, Doctor Crusher, Starfleet   shipped you back into exile, I   see...",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+160,DATA,   Q says he has hurt his back...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+161,BEVERLY,       Uh huh.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+162,BEVERLY,"   Well, I wouldn't believe it if   I didn't see it with my own eyes,   ... and I still don't believe   it... according to this, you have   classic back trauma, muscle   spasms...",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+163,Q,   I've been under a lot of stress.   Family problems...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+164,BEVERLY,   You won't get any sympathy from   me. You've been a pain in our   backside often enough...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+165,Q,"   Your bedside manner is admirable,   Doctor. I'm sure your patients   recover quickly just to get away   from you.",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+166,GEORDI,"   You know, it might work...",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+167,GEORDI,"   We can't change the gravitational   constant of the universe but if   we wrap a low level warp field   around that moon, we could reduce   its gravitational constant...   make it lighter so we can push   it.",24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+168,Q,   Glad I could help.       Ow... I think.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+169,BEVERLY,   Now what?,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+170,Q,   Something's wrong with my   stomach...,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+171,BEVERLY,   It hurts?,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+172,Q,   It's making noise.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+173,BEVERLY,   Maybe you're hungry.,24   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+174,Q,   What do I ask for? I've never   eaten before.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+175,DATA,   The choice of meal is determined   by individual tastes.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+176,Q,   What do you like?,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+177,DATA,"   Although I do not require   sustenance, I occasionally ingest   a semi-organic nutrient suspension   in a silicon-based liquid medium.",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+178,Q,   Is it good?,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+179,DATA,"   It would be more accurate to   say it is ""good for me"" as it   lubricates my bio-functions.",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+180,Q,   It doesn't sound too appealing.   What else is there?,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+181,DATA,   A wide variety of items... the   replicator can make anything you   desire.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+182,Q,   How am I supposed to know what   I desire?,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+183,DATA,   I have observed that many food   selections are influenced by the   mood of the person ordering...,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+184,Q,   I'm in a dreadful mood... get me   something appropriate...,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+185,DATA,"       When Counselor Troi is in an   unhappy mood, she often has   something chocolate...",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+186,Q,   Chocolate...,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+187,DATA,"   For example, a hot fudge sundae.   I cannot speak from personal   experience, but I have seen it   often has a profound psychological   impact.",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+188,Q,   I'll have ten hot fudge sundaes.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+189,DATA,   I have never seen anyone eat ten.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+190,Q,"   I'm in a really bad mood. And   since I've never eaten before,   I should be very hungry.",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+191,Q,       This... is not a moment I've been   looking forward to.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+192,GUINAN,   I heard you were drummed out of   the continuum.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+193,Q,   I prefer to look at it as a   significant career change.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+194,GUINAN,"   Just one of the boys, huh?",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+195,Q,   One of the boys with an IQ of   two thousand and five.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+196,DATA,   The Captain and much of the crew   are not yet convinced that he is   truly human.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+197,GUINAN,   Is that right?,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+198,Q,   AAAH...,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+199,GUINAN,   He's human.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+200,Q,       This is a dangerous creature.   You have no idea... how could   Picard allow her to join the crew   and not me...,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+201,GUINAN,   It must be frightening... totally   defenseless... after being   omnipotent all those centuries...,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+202,Q,       I'm warning you... I still have   friends in high places...,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+203,GUINAN,   ... terrorizing one race after   another... teasing them like   helpless animals... delighting   at the fear of your victims...,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+204,Q,"       From now on, I'll do missionary   work...",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+205,DATA,"   That would be a very noble cause,   Q.",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+206,GUINAN,       You could learn a few things from   this one.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+207,Q,"   Sure, the robot who teaches the   course in humanities.",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+208,DATA,"   I am an android, not a robot.",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+209,Q,   I beg your pardon.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+210,GUINAN,"   Get used to it, Q.",29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+211,Q,   What?,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+212,GUINAN,   Begging. You're a pitiful excuse   for a human and the only way   you're going to survive is by the   charity of others.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+213,Q,   I'm not hungry.,29   INT. TEN FORWARD,TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+214,WORF,"   Captain, sensors are picking up   a cloud of energetic plasma...   bearing three-four-one mark   two-zero... range twelve kilometers   and closing...",30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+215,PICARD,   On screen.,30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+216,WORF,   Energy patterns are reading as   highly organized...,30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+217,RIKER,       A lifeform?,30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+218,PICARD,"   Mister Worf, attempt to make   contact...",30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+219,WORF,"   Receiving a signal, sir... on   speaker...",30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+220,RIKER,"   Computer, analysis of signal...",30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+221,COMPUTER,   Signal patterns indicate   intelligence. Unable to derive   necessary referants to establish   translation matrix.,30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+222,GUINAN,   Calamarain...,30B  INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+223,WORF,   We're being hit by a field of   energetic tachyons... penetrating   the hull... location... deck   ten... forward...,30C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+224,PICARD,   Red alert.,30C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+225,RIKER,   Increase power to shields...,30C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+226,GEORDI,   Increasing power by twenty   percent...,30C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+227,WORF,   No effect...,30C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+228,GEORDI,   Increasing to forty percent...,30C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+229,WORF,   Still no effect...,30C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+230,GEORDI,   Adjusting shield harmonics...   Diverting power to the forward   grids.,30E  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+231,WORF,   The added harmonics are blocking   the tachyon field.,30EA	INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+232,Q,   HELP ME. SOMEBODY HELP ME...,30F  INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+233,GUINAN,   How the mighty have fallen.,30F  INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Deja Q""",1989-11-14,The Next Generation
+234,PICARD ,"   Captain's log, supplemental. We   have sustained light damage from   an attack by an alien species   known as the Calamarain. They   apparently have a grievance with   Q... no doubt one of many   lifeforms that do.",31   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Deja Q""",1989-11-14,The Next Generation
+235,Q,   The Calamarain are not very   hospitable creatures. They exist   as swirls of ionized gas.,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+236,PICARD,   What did you do to them to   motivate such a vengeance?,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+237,Q,   Nothing bizarre. Nothing   grotesque.,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+238,RIKER,   You tormented them --,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+239,Q,"   A subjective term, Riker. One   creature's torment, is another   creature's delight. They simply   have no sense of humor... a   character flaw with which you can   personally identify.",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+240,RIKER,   I say we turn him over to them.,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+241,Q,"   Oh, my mistake... you do have a   sense of humor... a dreadful one.",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+242,RIKER,   I'm serious.,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+243,PICARD,"   Of course. You knew this would   happen, didn't you?",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+244,Q,"   I assure you one cannot anticipate   the Calamarain, Picard... they're   intelligent, yes... but   undependable... very flighty...",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+245,PICARD,"   But you have so many enemies, Q,   of various shapes and sizes...   certainly you must have been   concerned that once you became   mortal... some of them might try   to look you up...",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+246,Q,   It occurred to me.,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+247,PICARD,"   With all your chatter about   ""friendship"", the real reason   you're here is for protection,   isn't it?",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+248,Q,"   You're so bright, Jean-Luc. Yes,   of course, you're correct. I know   human beings. You are all sopping   over with compassion and   forgiveness. The human race can't   wait to absolve almost any   offense. It's an inherent   weakness in the breed.",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+249,PICARD,"   What you call weakness, some of   us would call strength.",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+250,Q,"   Call it what you want, Picard.   I know you'll protect me even   though I've tortured you now and   again...",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+251,RIKER,   Fighting off every species you've   insulted would be a full time   mission. And it's not the one   I signed up for.,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+252,PICARD,"   Indeed. Human or not, I want no   part of you. We will deposit you   at the first starbase. Let them   deal with you...",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+253,Q,"   But I can be a valuable member   of your team, Picard...",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+254,PICARD,   As though you have the faintest   notion about team-work or   cooperation...,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+255,Q,   I can learn. I'm human.,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+256,PICARD,   Then I suggest you apply to   Starfleet Academy...,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+257,RIKER,   Don't use me as a reference.,32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+258,DATA,"   He has provided important   theoretical guidance for Geordi's   analysis of the Bre'el satellite,   Captain.",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+259,TROI,"   It seems you have an advocate,   Q.",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+260,DATA,"   I am only stating a fact,   Counselor.",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+261,PICARD,"   Mister La Forge, your status?",32   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+262,GEORDI,   I've been putting together a   program to extend the forward   lobe of our warp field. The field   coils are not designed to envelop   such a large volume. But I'm   attempting to modify their   alignment parameters.,35   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+263,DATA,"   Maintaining field integrity will   be difficult, Geordi.",35   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+264,GEORDI,   I think we can do it manually.   The moon's reaching its perigee   in fourteen minutes...,35   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+265,PICARD,"   Mister Data, escort Q to   Engineering...       You will assist Mister La Forge.",36   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+266,PICARD,"   Mister Worf, hail the Bre'el Four   science station.",36   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+267,Q,   Picard really thinks I can't cut   it on his starship... I can do   anything his little trained   minions can do.,36A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+268,DATA,"   I do not perceive that your skills   are doubted, Q. I believe the   captain is more concerned with   your ability to interact   successfully with... his ""little   trained minions"".",36A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+269,DATA,   Human interpersonal relationships   are most complex... your   experiences may not have   adequately prepared you.,36B  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+270,Q,   I don't want human interpersonal   relationships. I just want to   prove to Picard that I'm   indispensable.,36B  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+271,DATA,"   To function aboard a starship,   or in any human activity, you will   have to form relationships.",36B  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+272,Q,   Why does this have to be so   hard...,36B  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+273,DATA,   Of more immediate importance is   your ability to work within   groups...,36B  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+274,Q,   I've never been any good in   groups... it's difficult working   in a group when you're   omnipotent...,36B  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Deja Q""",1989-11-14,The Next Generation
+275,GARIN,"   The tides reached ten meters on   the last orbit. They are already   beginning to swell again. We have   a lot of frightened people down   here, Captain...",39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+276,PICARD,"   Your moon has begun moving toward   its perigee, Doctor... we are   prepared to make our attempt...",39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+277,SCIENTIST,       Our population has already taken   shelter... but I'm afraid no   shelter will be adequate if you   fail... Especially for the   people on the western continent.,39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+278,GARIN,"   Whatever the results, we know   you've done your best, Picard.   It's appreciated.",39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+279,PICARD,"   I'll keep you advised, Doctor.   Picard out.",39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+280,WORF,"   Captain, sensors are reading   increased energy output from the   Calamarain...",39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+281,GEORDI,"   La Forge to bridge. The moon has   reached its minimum orbital   distance... it's time, Captain...",39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+282,RIKER,   We'll have to lower shields...,39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+283,PICARD,"       Proceed.       Mister Worf, keep a close eye on   Q's friends out there...",39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+284,WORF,   Understood.,39   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+285,Q,"   Okay, everyone, here's what we're   going to do...",40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+286,GEORDI,"   Q, everybody already knows what   they're going to do, except for   you... now here's what I need...",40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+287,Q,"   La Forge, obviously my knowledge   and experience exceed yours...   by about a billion times... so   if you'll just step aside   gracefully...",40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+288,GEORDI,       Your experience will be most   valuable to me if you can manually   control the field integrity...,40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+289,Q,       Don't be foolish. That's a waste   of my talents...,40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+290,GEORDI,   Get to the controls or get the   hell out of here...,40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+291,GEORDI,"   Data, you're my liason to the   bridge... I'll need you with me...",40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+292,Q,       Who does he think he is to give   me orders...,40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+293,DATA,   Geordi thinks he is in command   here... and he is correct.,40   INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+294,RIKER,"   Engineering, holding at station   keeping, range six hundred and   forty meters.",40A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+295,DATA,   Containment fields to flight   tolerance.,40A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+296,DATA,   Warp core to ninety percent.,40B  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+297,GEORDI,   Engage field coils. Tractor beam   to stand-by. Field output... ?   Field output... ?,40B  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+298,Q,       Two-seventeen...,40B  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+299,GEORDI,   Impulse engines to full. Ready   to engage tractor beam.,40B  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+300,RIKER,   Lowering shields. Engage tractor   beam.,40B  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+301,GEORDI,   Extending warp field forward.,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+302,PICARD,"   Engineering, is that the forward   limit?",42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+303,DATA,"   Yes, Captain... we are unable to   encompass the entire moon...",42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+304,PICARD,   Do you recommend we proceed... ?,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+305,Q,       The two parts of the moon will have   different inertial densities...,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+306,GEORDI,   I can adjust the field symmetry   to compensate...,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+307,Q,   I doubt it.,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+308,GEORDI,"   You don't know what this ship can   do, Mister...         ",42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+309,GEORDI ,"   Yes, Captain... I think it still   might work... increasing power   to tractor beam and warp field...",42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+310,Q,"       And if you're wrong, the moon will   crumble due to subspace stress...   don't say I didn't warn...",42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+311,GEORDI,"   Shut up, Q.",42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+312,Q,   I will not be spoken to in this   manner...,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+313,GEORDI,       Data...,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+314,DATA,"   Q, I strongly advise that you   return to your post.",42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+315,DATA,       Inertial mass of the moon has   decreased to approximately   two-point-five million metric   tons...,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+316,GEORDI,   It's working. We can move it.   Firing impulse engines...,42A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+317,DATA,   The moon's trajectory has   moved point-three percent...   point-four percent...,43   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+318,WORF,   Emergency... shields up...,43   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+319,RIKER,   Disengage tractor beam...,43   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+320,WORF,   Calamarain attacking...,43   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+321,WORF,   Shields holding... tachyon field   repelled...,43   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+322,GEORDI,"   Captain, the impact of the blast   is pushing us into the upper   atmosphere...",43   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+323,DATA,   Hull temperature rising... two   thousand degrees... two thousand   five hundred degrees.,45C  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+324,GEORDI,   Moving to full impulse power...   we've gotta get out of here...,45C  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+325,WORF,   Calamarain are resuming attack...,45D  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+326,WORF,   They've overpowered the shields...   hull penetration... deck   thirty-six... Engineering...,45D  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+327,RIKER,"   Geordi, can you direct any more   power to the shields... ?",45D  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+328,GEORDI,"   We need all the power we have to   get out of the atmosphere,   Commander.",45E  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+329,GEORDI,       Try activating the structural   integrity field.,45E  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+330,GEORDI,       It's not working. Structural   field harmonics on manual.,45E  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+331,RIKER,"   Hull temperature falling, Geordi...   we're in the clear...",45E  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+332,GEORDI,   Diverting power to forward section.   Now.,45E  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+333,GEORDI,   Data... Data... ?,45E  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+334,Q,   What about me?,45E  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+335,GEORDI,   The charge nearly knocked out his   positronic net.,46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+336,RIKER,   What can you do for him?,46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+337,GEORDI,"   We'll try to discharge and reset   the motor pathways, recouple   autonomic nodes...",46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+338,BEVERLY,"   There's overpressure in his   fluidic systems, thermal shock...   If he was mortal, he'd be dead.",46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+339,Q,"    (with a subtext of     guilt)   Let us not overstate matters here,   Doctor... I am mortal and I   survived...",46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+340,Q,       The cheers are overwhelming.,46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+341,PICARD,       You exceed your own standards of   selfish preoccupation. Have you   no concern for the officer who   very probably saved your life?,46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+342,Q,"    (more hope than     conviction)   He's strong, he'll survive.",46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+343,GEORDI,   Osmotic pressure still negative.   Maybe if we by-passed the flow   regulator...,46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+344,BEVERLY,   It would be helpful if everybody   just got out of here now...,46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+345,GEORDI,   We'll let you know as soon as   there's anything to tell you.,46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+346,RIKER,"   Geordi, the moon's trajectory... ?",46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+347,GEORDI,   All we did was buy ourselves   another orbit at most... we can   try again when it comes back to   the perigee...,46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+348,RIKER,"   And when we drop our shields, the   Calamarains go after Q again...",46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+349,GEORDI,"       He's not worth it, Commander.",46C  INT. SICKBAY (FORMERLY SCENE 46B),SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+350,PICARD,   Come...,47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+351,Q,"   You're right, of course. I am   extraordinarily selfish. It's   served me so well in the past...",47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+352,PICARD,   It will not serve you here.,47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+353,Q,"   Don't be so hard on me, Jean-Luc.   You've been mortal all your life.   You know all about dying. I've   never given it a second thought.   Or a first thought for that   matter.       I could have been killed. If   not for Data... that one, brief   delay he created, I would have   been gone. No more me. And   nobody would have missed me, would   they?",47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+354,Q,   And yet Data may have sacrificed   himself for me. Why? Why would   he risk his own life for mine?,47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+355,PICARD,   That is his special nature. He   has learned the lessons of   humanity well...,47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+356,Q,   I ask myself if I would have done   the same for him. And I am forced   to realize the answer is no. And   I feel... I feel ashamed.,47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+357,PICARD,"   I am not your father confessor.   You will not receive absolution   from me, Q. You have brought   nothing but pain and suffering   to my crew. And to this very   moment, I am not entirely   convinced that this is still not   your latest attempt at a bad joke.",47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+358,Q,"   It is a bad joke. On me. I am   the joke of the universe. The   king who would be man.       As I learn more and more about   what it is to be human, I am more   and more convinced that I will   never make a good one. I just   don't have what it takes,   Jean-Luc. Without my powers,   I'm frightened of everything. I'm   a coward. I'm miserable.       And I don't think I can go on this   way.",47   INT. READY ROOM,READY ROOM,INT.,"""Deja Q""",1989-11-14,The Next Generation
+359,BEVERLY,   He's going to be all right.,49   INT. SICKBAY,SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+360,GEORDI,   We're recalibrating his language   circuits... he can't talk to us   yet.,49   INT. SICKBAY,SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+361,Q,"   There are creatures in the   universe who consider you the   ultimate achievement, android.   No feelings, no emotions -- no   pain. And yet you covet those   qualities of humanity. Believe   me, you are not missing anything.       But if it means anything to you,   Data... you are a better human   than I.",49   INT. SICKBAY,SICKBAY,INT.,"""Deja Q""",1989-11-14,The Next Generation
+362,Q,   Where's the Main Shuttlebay?,49A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+363,COMPUTER,   Main Shuttlebay is located on deck   four.,49A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+364,Q,   Take me there...,49A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+365,WORF,   An unscheduled shuttlecraft has   just been launched.,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+366,PICARD,   On Main Viewer.,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+367,PICARD,   Opening hailing frequency.,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+368,WORF,   Frequency open.,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+369,PICARD,   Shuttle occupant. Identify   yourself.,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+370,Q,"   Don't try to talk me out of it,   Jean-Luc.",56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+371,PICARD,   Q? Return to the ship at once.,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+372,Q,   I just can't get used to following   orders.,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+373,WORF,"   Captain, the plasma cloud is   moving toward the shuttle.",56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+374,Q,   It's easier this way. They won't   bother you after I'm gone.,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+375,RIKER,"   Engineering, prepare to extend   shields...",56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+376,Q,"   Please, do not fall back on your   tired cliche of charging to the   rescue in the nick of time... I   do not wish to be rescued... My   life as a human being is a dismal   failure. Maybe my death can have   a little dignity.",56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+377,PICARD,   There is no dignity in suicide...,56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+378,Q,"   Yes, I suppose you're quite right.   The death of a coward. So be it.       Anyway, as a human, I'd die of   boredom.",56   INT. BRIDGE,BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+379,PICARD,"   This goes against all my better   judgment...       Transporter Room Three, lock on   to Shuttle One... beam it back to   it's bay.",69   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+380,ENGINEER,"   Aye, Captain...",69   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+381,PICARD,"   Well, it's a perfectly good   shuttlecraft...",69   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+382,ENGINEER,"   Captain, unable to transport...   For some reason, I can't lock on...",69   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+383,RIKER,"   Worf, are you sensing any sort   of interference from the   Calamarain?",69   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+384,WORF,"   No, Commander, but they are   continuing to move toward the   shuttle.",69   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+385,RIKER,"   Geordi, extend shields around   Shuttle One...",69   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+386,GEORDI,   Extending shields ...       Commander... the shields are   frozen...,69A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+387,RIKER,   Cause...,69A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+388,GEORDI,   Unknown.,69A  INT. ENGINEERING,ENGINEERING,INT.,"""Deja Q""",1989-11-14,The Next Generation
+389,RIKER,   Lock on tractor beam...,69B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+390,GEORDI,   Tractor beam is not functioning   either...,69B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+391,RIKER,   What the hell is going on?,69B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+392,Q2,"   Not bad, Q. Not great. But not   bad.",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+393,Q,       Q...,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+394,Q2,   Sacrificing yourself for these   humans... ? Do I detect a selfless   act... ?,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+395,Q,   You flatter me. I'm only trying   to put a quick end to a miserable   existence.,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+396,Q2,       What a dreadful color.,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+397,Q,   What are you doing here?,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+398,Q2,   I've been keeping track of you.,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+399,Q,   Really? I always felt you were   in my corner...,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+400,Q2,"   Actually, I was the one who got   you kicked out...       You're incorrigible, Q, a lost   cause. I can't go to a single   solar system without apologizing   for you... and I'm tired of it...",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+401,Q,   I wasn't the one who misplaced   the entire Deltived asteroid   belt...,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+402,Q2,"   This is not about me.       I have better places to be. But,   somebody had to keep an eye on   you in case you still found a   way to cause trouble... even as   a member of this limited   species...",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+403,Q2,       I hope I've kept you amused.,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+404,Q2,"   Barely. But these humans are   rather interesting... I'm   beginning to understand what you   see in them. After all the   things you've done, they're still   intent on keeping you safe.",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+405,Q,   A genetic weakness of the race.,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+406,Q2,   And they're still at it. They   just tried to beam you back or   whatever they call it... I   stopped them...,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+407,Q,"       Well then, if the Calamarain will   just hurry up and finish this,   we'll get you on your way...",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+408,Q2,"   No, I put them on hold too.   There's still this matter of the   selfless act...",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+409,Q2,   You and I both know that the   Calamarain would have eventually   destroyed the Enterprise to get   to you... and that's really why   you left...,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+410,Q,       It was... a tiny bit selfless...   wasn't it...,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+411,Q2,   And there's my problem. I get   back to the continuum and tell   them you committed a selfless act   just before the end... I'm gonna   be tied up with questions and   explanations for centuries...,70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+412,Q,"   Q, I've learned my lesson...",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+413,Q2,"       Remember who you're talking to   here... all knowing, all seeing...       Fine. You have your powers back.   Try to stay out of trouble...",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+414,Q,"   And they wanted to destroy me,   did they?",70   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Deja Q""",1989-11-14,The Next Generation
+415,Q,"   If you think I tormented you in   the past, my little friends --   wait until you see what I do with   you now.",81   INT. SHUTTLE (OPTICAL),SHUTTLE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+416,Q2 ,       Q --?,81   INT. SHUTTLE (OPTICAL),SHUTTLE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+417,Q,   I was just seeing if you were   still watching,81   INT. SHUTTLE (OPTICAL),SHUTTLE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+418,DATA,"   Sir, the aliens have disappeared.       And so has the shuttle.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+419,RIKER,   Scan the sector...,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+420,DATA,"   I have, sir.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+421,PICARD,"       Well, I guess that's the end of   Q.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+422,Q,"   Au contraire, mon capitaine...   heee's back...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+423,Q,"   I have been forgiven, embraced   by my brothers and sisters of the   continuum... I am immortal again,   omnipotent again...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+424,RIKER,   Swell.,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+425,Q,"   Don't fret, Riker... my good   fortune is your good fortune.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+426,RIKER,"   I don't need your fantasy women,   Q...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+427,Q,"   You've become so stolid,   Commander... you weren't like this   before the beard...     ",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+428,Q ,       Very well...,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+429,PICARD,   Q...,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+430,Q,   But I feel like celebrating...,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+431,PICARD,   I don't.,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+432,PICARD,   All of it.,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+433,PICARD,"   Now, at the risk of being rude...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+434,Q,"   Yes, I have once again overstayed   my welcome. As a human, I was   ill-equipped to thank you, Picard.   But as myself, you have my   everlasting gratitude.       Until next time, of course. But   before I go, there is a debt I   must repay...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+435,Q,"   ... to my professor of the   humanities... I have decided my   dear Data to give you something   very, very special...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+436,DATA,"       If your intention is to make me   human, Q...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+437,Q,   No no no no no... don't be   foolish... I would never curse   you by making you human... Let's   just call it a going away present.,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+438,GEORDI,"   Uh, Data... Data? Why are you   laughing?",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+439,DATA,   I do not know. But it was a   wonderful... feeling.,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+440,WORF,"   Bre'el Four hailing us, Captain.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+441,PICARD,"   On screen, Lieutenant.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+442,GARIN,   Captain Picard... you've done   it...,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+443,PICARD,   I'm sorry... ?,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+444,SCIENTIST,   The moon is back in its normal   orbit. How did you manage it?,82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+445,PICARD,"       I didn't. Stand by, Bre'el   Four...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+446,RIKER,"   Let's see it, Worf...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+447,PICARD,"   Mister Data, your analysis...",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+448,DATA,"   The moon's altitude is fifty-five   thousand kilometers, projected   orbit is nearly circular. There   is no further danger to the   planet.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+449,PICARD,"   Good. Ensign, set a course for   Station Nigala-Four.       Perhaps there's a little humanity   left in Q after all.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation
+450,Q ,"    (whispered so only he     can hear it)   Don't bet on it, Picard.",82   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Deja Q""",1989-11-14,The Next Generation

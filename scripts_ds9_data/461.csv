@@ -1,0 +1,427 @@
+,character,quote,scene,location,view,episode,date,series
+0,SISKO ,"   Station Log, Stardate 48543.2.  A    team of Cardassian scientists is    coming to the station to assist us    in deploying a subspace relay in the    Gamma Quadrant... if successful, it    will allow communication through the    wormhole for the first time.",1    EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,#40513-461,1994-12-02,Deep Space Nine
+1,ODO,"   I've assigned these quarters to the    senior Cardassian scientist...       Her name is Ulani... her colleague...    Gilora, has the adjacent room.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+2,SISKO,       It's warm in here... I take it you    reset the environmental controls...,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+3,ODO,       I also had Chief O'Brien reprogram    the replicators to provide Cardassian    food.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+4,SISKO,   Security measures?,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+5,ODO,   I've assigned two of my people to    follow the Cardassians at all times.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+6,SISKO,"   Fine, but have them keep their    distance.  I want the Cardassians to    feel like guests, not prisoners.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+7,ODO,"   Commander, there are still elements    opposed to the peace treaty between    Cardassia and Bajor... on both sides.     We need to be prepared for trouble.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+8,SISKO,"   I realize that.  But while the    Cardassians are here, I want the    Bajorans to get used to seeing them    walking on the Promenade... buying    from their shops, eating at their    restaurants -- getting to know them    as something other than brutal    overseers.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+9,DAX,   I just received the final update    from the Cardassians on the    transceiver they designed for the    communications relay.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+10,SISKO,   How's it look?,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+11,DAX,   I'm still not convinced it's going    to work...,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+12,SISKO,   The Cardassians seem sure that it    will.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+13,DAX,   I hope they're right...,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+14,QUARK,   Whose quarters are these?  Gilora's    or Ulani's?,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+15,ODO,   Ulani's... but how do you know their    names?  I was just informed an hour    ago.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+16,QUARK,"    (insulted by the     question)   Odo, please...       I have a bottle of Kanar for each of    them, along with a personal invitation    to Quark's...",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+17,DAX,   Where'd you get real Kanar?,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+18,QUARK,   I've had three cases in my     storeroom since the occupation.     There hasn't been much demand for    it these past few years...       -- but that's about to change.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+19,SISKO,   There are only two Cardassians coming    to the station.  How much Kanar do    you think they can drink?,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+20,QUARK,"       There may only be two for now, but    there'll be more... thanks to the    peace treaty.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+21,DAX,"   And as the thirty-fourth Rule of    Acquisition states... ""Peace is good    for business... """,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+22,QUARK,   That's the thirty-fifth Rule.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+23,DAX,"   Oh, that's right.  What's the thirty-   fourth?",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+24,QUARK,   War is good for business...       It's easy to get them confused...,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+25,QUARK,"   The way I see it, it won't be long    before there's a permanent Cardassian    presence on the station... scientists,    diplomats... spies.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+26,ODO,   And they'll all be welcome at Quark's.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+27,QUARK,"   As long as they can pay.  Rumor has    it that the shop next door to mine    is going to close... I'm thinking of    renting it, and setting up a few...       -- Cardassian gaming concessions.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+28,ODO,"   There'll be no live vole fights on    the Promenade, Quark.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+29,QUARK,       I would never be party to anything    so cruel and inhumane...,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+30,QUARK,"   ... but of course, if some Cardassians    happened to bring their voles along...    and they happened to get into a fight,    I could hardly be held responsible    for what --",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+31,ODO,"   Oh, yes you could.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+32,SISKO,   And you will be.,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+33,QUARK,"       Fine... forget the vole fights.  But    I'll tell you this, good Kanar is    hard to find.  And I have three cases    of it.  But that's just the beginning.     Soon, Quark's will become known as    the best place for Cardassian food    and drink in this sector.  I'll    probably set up daily shipments from    Cardassia... I may even need to buy    my own transport ship.",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+34,DAX,"   Quark, this Kanar's gone bad...",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+35,QUARK,   What?,2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+36,ODO,"   I suggest you take your bottles and    leave, Quark, before I have you    arrested for attempting to poison    our guests...",2    INT. GUEST QUARTERS,GUEST QUARTERS,INT.,#40513-461,1994-12-02,Deep Space Nine
+37,KIRA,"   Excuse me, Commander... there's a    Vedek Yarka here to see you.  He    says it's urgent.",3    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+38,YARKA,"   Thank you for seeing me, Emissary...",3    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+39,SISKO,   What can I do for you?,3    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+40,YARKA,"   I'm here to bring a warning from the    Prophets... They don't want you to    let the Cardassians come aboard the    station... if you do, you will bring    destruction on us all...",3    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+41,SISKO,"   Are you making some sort of threat,    Vedek?",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+42,YARKA,   Not at all... I'm simply telling you    what was foretold in the ancient    texts.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+43,KIRA,   Ancient texts?  You mean a prophecy?,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+44,YARKA,"       Trakor's third, when he first    encountered the Orb of Change.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+45,KIRA,   I don't know it.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+46,YARKA,"       Perhaps you should make more time to    study the texts, child.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+47,SISKO,   Are you saying that the arrival of    the Cardassian scientists was foretold    in a Bajoran prophecy?,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+48,YARKA,"   Exactly.  Trakor's words are clear...    ""when the river wakes, stirred once    more to Janir's side... three vipers    will return to their nest in the    sky.""       The river has awoken, Emissary...",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+49,KIRA,       The Qui'al dam was just put back    into operation to divert water to    the city.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+50,YARKA,"   Just as Trakor prophesied over three    thousand years ago.       And even now, the vipers are making    their way here.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+51,SISKO,   I take it you think the vipers are a    reference to the Cardassian    scientists.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+52,YARKA,   Yes... and this station is their    nest in the sky.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+53,SISKO,"   And how, exactly, will their presence    here bring destruction on us all?",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+54,YARKA,"   Trakor said that ""when the vipers    try to peer through the temple    gates... a sword of stars will appear    in the heavens...       -- the temple will burn... and its    gates will be cast open... """,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+55,YARKA,   You must not let the Cardassians    come here... you must not let them    violate the celestial temple... or    they will destroy it.  And Bajor    will be cut off from the Prophets    forever.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+56,SISKO,   Slow down... let me get this straight.     You're saying that the vipers -- the    Cardassians -- are going to destroy    the wormhole?,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+57,YARKA,"   Don't you see?  This communications    relay you hope to create is part of    the prophecy... it will allow the    vipers to peer through the temple    gates... the wormhole, as you call    it.  And if they do, the temple will    be destroyed.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+58,KIRA,"   Even if we accept that the Cardassians    are the vipers... there are only two    of them coming, not three.  Isn't it    possible that there are other mistakes    in your interpretation of the prophecy    as well?",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+59,YARKA,   There will be three vipers... you    will see...,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+60,SISKO,"   Do you understand what this    communications relay could mean for    Bajor?  If it works, we'll be able    to stay in contact with ships in the    Gamma Quadrant.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+61,KIRA,"   It'll facilitate exploration, help    us monitor Dominion activity... give    us warning in case of attack.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+62,YARKA,   None of that matters.       You must listen to me.  I know it's    difficult for you to accept because    you are not Bajoran.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+63,YARKA ,   I've studied the prophecies all my    life.  We are on the verge of a great    disaster.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+64,SISKO,   Is the Bajoran Assembly aware of    this prophecy?,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+65,YARKA,       Yes... as is the Kai herself.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+66,SISKO,   Yet they still want us to proceed    with the establishment of the    communications relay.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+67,YARKA,"       They have chosen to ignore the    signs...       That's why I came to you, Emissary.     Because I have faith in you.  I know    that you'll do what must be done.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+68,SISKO,"   Vedek, I have the utmost respect for    your beliefs... but I have no    intention of calling this project    off.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+69,YARKA,"   I hope that you will reconsider,    Emissary...       My followers and I will remain on    the station and pray that you change    your mind.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+70,SISKO,"   You're free to do that, of course.",4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+71,SISKO,   Have Odo find out what he can about    Vedek Yarka and his followers... I    don't want them making any trouble    while the Cardassians are here.,4    INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+72,SISKO,"   I'm Commander Benjamin Sisko... and    on behalf of the United Federation    of Planets and Starfleet Command,    I'd like to welcome you to Deep Space    Nine.",6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+73,ULANI,"   Thank you, Commander.  I'm Doctor    Ulani Belor...",6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+74,GILORA,   Gilora Rejal...,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+75,ULANI,   The Cardassian Government wishes to    express its gratitude to the    Federation for agreeing to work    together on this project.,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+76,GILORA,   It is our hope that it will be the    first of many joint projects between    our peoples.,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+77,SISKO,"   That's a hope that I can assure you    we share.       This is my First Officer, Major Kira.",6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+78,KIRA,"   On behalf of the Bajoran Provisional    Government, I'd also like to welcome    you.  It's our belief that this    project will mark the beginning of a    new era of peace between Bajor and    Cardassia.",6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+79,ULANI,"   Thank you, Major.",6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+80,SISKO,       Well... now that we've gotten the    formalities out of the way... how    was your trip?,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+81,ULANI,   Exhausting... we spent most of it    rehearsing what we were going to say    when we got here.,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+82,GILORA,"   We're scientists, not diplomats.",6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+83,SISKO,   You did very well.,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+84,ULANI,"   Please feel free to let the Central    Command know that.  In the past few    days I've been contacted by Guls    I've never even heard of, all of    them wanting to emphasize how    important this mission is.",6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+85,ULANI,   Major Kira... I want to thank you    personally for allowing us to come    here.,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+86,KIRA,   Me?,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+87,ULANI,   You're the ranking Bajoran officer    on this station.  I'm sure we wouldn't    be here if you'd been opposed to    working with us.,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+88,KIRA,   I'll work with anyone who's interested    in peace.,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+89,ULANI,   I'm glad we already have so much in    common...,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+90,SISKO,   Well... why don't I show you to your    quarters...,6    INT. AIRLOCK,AIRLOCK,INT.,#40513-461,1994-12-02,Deep Space Nine
+91,SISKO,   The signaling platform we've designed    is intended to be positioned in the    Gamma Quadrant at this point...       ... two kilometers from the far mouth    of the wormhole.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+92,ULANI,"   Our transceiver has been configured    to fit inside it, and use its existing    power grid.",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+93,GILORA,   A similar transceiver will be put in    place here on Terok Nor --       -- on Deep Space Nine.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+94,DAX,"   Ulani, I've looked over your design    specifications.  I'm not clear what    sort of carrier wave you're planning    to use to cut through the interference    inside the wormhole.",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+95,ULANI,   We're planning to test various types    of soliton pulses... one of them    should maintain the required signal    integrity.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+96,O'BRIEN,   We tried something similar about a    year ago without much success...,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+97,GILORA,   The Bajoran Government made your    data available to us... I believe    that the problem had to do with the    phase variance in your transceiver    coils.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+98,O'BRIEN,   I configured those coils myself...    the variance was less than point    zero one percent.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+99,GILORA,"   Which as you saw, was unacceptably    high.",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+100,GILORA,   Our new design has less than half    that variance.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+101,O'BRIEN,   You don't mind if I look over the    specs?,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+102,GILORA,   If you feel it's necessary.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+103,ULANI,"   Commander, we'll need to make a few    adjustments to the station's signaling    array so that it can accommodate the    type of transmissions we're planning    to use.",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+104,SISKO,   Chief O'Brien can assist you with    that.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+105,SISKO,"       And when you're ready, we'll take    the Defiant to the Gamma Quadrant,    deploy the communications relay, and    start running tests.",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+106,ULANI,   Excellent.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+107,ULANI,   Well... it's been a long day... we'd    like to get some rest so we can start    fresh tomorrow.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+108,SISKO,   I'll have someone show you back to    your quarters.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+109,GILORA,"   Thank you, but that won't be    necessary...",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+110,SISKO,"       Those were about the two friendliest    ""vipers"" I've ever met...",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+111,SISKO,   I'll explain later...,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+112,ULANI,"   I almost forgot to tell you,    Commander... another colleague of    ours, Dejar, will be arriving later    today.",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+113,SISKO,   I'll arrange quarters.,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+114,ULANI,   Thank you...,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+115,SISKO,   So... we need to discuss what we're    going to do about...,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+116,SISKO,"   What is it, Major?",7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+117,KIRA,   There are going to be three of them...,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+118,SISKO,       Yes...,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+119,KIRA,   Three vipers... just like in the    prophecy...,7    INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+120,ODO,   It turns out that Vedek Yarka is no    longer a Vedek at all... he was    stripped of the title two months    ago.,8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+121,SISKO,   Why?,8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+122,ODO,"   Officially, because of ""teachings    not in keeping with the Bajoran    faith.""  But according to my sources,    he was defrocked because he led a    series of protests against the Vedek    Assembly after they endorsed the    peace treaty with Cardassia.",8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+123,SISKO,   So Yarka could be using this prophecy    as a way to scuttle the peace    treaty...,8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+124,ODO,   That would seem to be his agenda.     And it's probably coloring how he    views the prophecy.  Just as your    agenda colors how you see it.,8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+125,SISKO,"   I don't have an agenda, Odo.  I want    this project to succeed because I    want the peace treaty to succeed...    but if I thought for a moment there    was any possibility that the    communications relay would damage    the wormhole, I'd put a stop to it    right now.",8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+126,ODO,"   That's not the agenda I was referring    to, Commander.",8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+127,SISKO,   Oh?,8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+128,ODO,"   I was referring to your desire to    distance yourself from the title of    Emissary.  It's just an observation,    of course, but it's always seemed to    me that you've never been...    comfortable with it.",8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+129,SISKO,   I can't really deny that...       ... but are you suggesting that I'm    dismissing the prophecy too easily    because I don't want to be the    Emissary?,8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+130,ODO,"   I'm not suggesting anything,    Commander.  But it's been my    experience that all humanoids have    an agenda of some sort... and that    their agendas can influence them    without their even realizing it.",8    INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+131,BASHIR,   Morn came by the Infirmary this    afternoon... he had an acute case of    food poisoning...,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+132,KIRA,   Morn?  I didn't think anything could    make him sick.,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+133,BASHIR,   He said he got a bad glass of Kanar    at Quark's...,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+134,KIRA,   He should ask for a refund.,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+135,BASHIR,   Apparently it was on the house...,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+136,YARKA,   Major... may I have a word with you?,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+137,BASHIR,   I'll see you later.,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+138,KIRA,"   What can I do for you, Vedek?",9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+139,YARKA,   Have you been able to convince the    Emissary to reconsider his decision?,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+140,KIRA,   I haven't tried.  And I'm not planning    to.,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+141,YARKA,"   But you must.  If not, the celestial    temple will be destroyed.",9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+142,KIRA,   I'm not convinced that's going to    happen.,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+143,YARKA,   Don't you believe in the Prophecies?,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+144,KIRA,   Yes...,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+145,YARKA,   And don't you believe that Commander    Sisko is the Emissary?,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+146,KIRA,"   Vedek, try to understand my position    here.  Commander Sisko is my superior    officer... I have to deal with him    on that basis first.",9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+147,YARKA,   So... you do believe he's the    Emissary...       -- you just don't want him to know    that...,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+148,YARKA ,       I understand... you want him to know    that he can count on you as an officer    under his command.  You want to keep    your work and your faith separate.,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+149,KIRA,"   Yes, and for three years now I have.",9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+150,YARKA,   I'm afraid that's no longer possible.     The Prophets have chosen you to help    the Emissary make this decision -- a    decision that has profound    implications for all of Bajor.       You must convince him to make the    Cardassians leave before the Sword    of Stars appears...,9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+151,KIRA,"   Vedek, if you're asking me to --",9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+152,YARKA,"       It is not I who is asking... but the    Prophets.  If you turn your back on    them now, you'll be abandoning your    faith.  And without your faith,    Nerys... what do you have left?",9    INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+153,DAX,   I prefer the serialist poets from    the First Republic... like Iloja of    Prim.  He's easily my favorite    Cardassian writer.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+154,ULANI,   It's so rare to meet a non-Cardassian    who appreciates our literature.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+155,DAX,   I took an interest because I had the    chance to meet Iloja.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+156,GILORA,   You knew him?,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+157,DAX,"   One of my previous hosts, Tobin, met    him when he was in exile on Vulcan.     He had quite a temper, I recall...",10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+158,ULANI,   Really... ?,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+159,QUARK,       I believe this is the party you're    looking for...,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+160,ULANI,   Dejar...,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+161,GILORA,       May I introduce Jadzia Dax... and    Miles O'Brien... This is our colleague    Dejar.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+162,ULANI,   We weren't expecting you so soon.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+163,DEJAR,   I was able to arrange... special    transportation.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+164,GILORA,       I'm sure you were.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+165,QUARK,   I took the liberty of preparing a    few of our special Cardassian    delicacies...,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+166,ULANI,   Tojal in yamok sauce...,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+167,GILORA,   Regova eggs...,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+168,QUARK,"   All fresh, not replicated.  Well...    enjoy.",10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+169,DAX,   Is something wrong?,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+170,ULANI,   It's just... I don't really care for    Cardassian cuisine.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+171,GILORA,   We try to avoid it as much as    possible.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+172,ULANI,"   Fortunately, those of us in the    science ministry are provided with a    wide variety of offworld foods.",10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+173,DEJAR,   Yes... we're quite spoiled.  Some of    us even think of ourselves as better    than the average Cardassian.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+174,QUARK,       I trust everything's to your liking...,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+175,DEJAR,   Everything's quite good.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+176,QUARK,       Great... shall I bring... more?,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+177,ULANI,   Yes.  More of your... special    Cardassian delicacies would be greatly    appreciated.,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+178,QUARK,       It's working!,10   INT. QUARK'S,QUARK'S,INT.,#40513-461,1994-12-02,Deep Space Nine
+179,O'BRIEN,   The main switching relays are in    here...,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+180,O'BRIEN,       I think we should hook your    transceiver to the ODN interface    through the --,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+181,GILORA,   What happened to these couplings?,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+182,O'BRIEN,   What?       Oh.  I made some modifications...,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+183,GILORA,   But these relays don't have nearly    as much carrying capacity as before.     They won't be able to handle the    signal load from the transceiver.,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+184,O'BRIEN,"   In order to bring the system up to    Starfleet code, I had to pull out    the couplings to make room for a    secondary backup.",11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+185,GILORA,   Starfleet code requires a second    backup?,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+186,O'BRIEN,       In case the first backup fails.,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+187,GILORA,   What are the chances that a primary    system and its backup would both    fail at the same time?,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+188,O'BRIEN,"   It's not likely, but in a crunch, I    wouldn't want to be caught without a    second backup.",11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+189,GILORA,   Well... what's done is done.  I'll    try and figure out what we should do    next.,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+190,O'BRIEN,   I think our best bet would be --,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+191,GILORA,   Please.  Just let me think for a    moment.,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+192,O'BRIEN,   Fine... I'll just sit here quietly...,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+193,GILORA,"       In that case, could you get me a cup    of red leaf tea?",11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+194,O'BRIEN,   Why not...,11   INT. OPS,OPS,INT.,#40513-461,1994-12-02,Deep Space Nine
+195,KIRA,   We've loaded the communications relay    into the Defiant's cargo bay.,13   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+196,SISKO,   Good.  How're Chief O'Brien and Gilora    coming along?,13   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+197,KIRA,"   They've run into some kind of problem,    but the chief said they'd have their    transceiver in place in about four    hours.",13   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+198,SISKO,   We won't be ready much before that    anyway.,13   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+199,DAX,"   We've received clearance from Ops,    Commander.",13   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+200,SISKO,"   Release docking clamps, and set course    for the wormhole.",13   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+201,SISKO,   Full scan.,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+202,DAX,       No sign of Dominion activity... no    other ships in the area...,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+203,SISKO,   All right... take us into position...       Stand by to deploy the relay...,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+204,DAX,   Wait a minute...,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+205,SISKO,   What is it... ?,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+206,DAX,       I'm reading a large mass of ice and    ionized gas entering sensor range    bearing two one five mark three.       It looks like a rogue comet.,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+207,SISKO,   Let's have a look... put it on    screen...,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+208,ULANI,   It's beautiful...,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+209,DAX,   Its core contains unusually high    concentrations of silithium... that's    why the tail is so bright.,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+210,KIRA,   The Sword of Stars...,16   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+211,ULANI,"   That's a very colorful way to describe    a comet, Major.",18   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+212,KIRA,   It was... just a figure of speech.,18   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+213,ULANI,"   Well, your... Sword of Stars is going    to pass near the wormhole, but not    close enough to interfere with our    plans...",18   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+214,DAX,"       We're in position, Benjamin...",18   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+215,SISKO,   Begin a final systems check on the    relay station... I want to deploy it    within the hour.,18   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+216,SISKO,"       Major, can I have a word with you?",18   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+217,SISKO,   The Sword of Stars?,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+218,KIRA,   It certainly looked like one to me.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+219,SISKO,"   That's open to debate.  But what's    not debatable is that this prophecy    has no place on the Bridge of the    Defiant, especially in front of the    Cardassians.  At the moment they    aren't aware of it... and I'd like    to keep it that way.",19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+220,KIRA,   You're right.  It won't happen again.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+221,SISKO,"   I take it, Major, that you believe    the prophecy is coming true?",19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+222,KIRA,"   Yes, I do.",19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+223,SISKO,   Then you think I should call the    mission off?,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+224,KIRA,"   Look at what's already happened.     The river's returned to Janir, the    three vipers, and now the Sword of    Stars -- each of them predicted by    Trakor's prophecy.",19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+225,KIRA,       And then there's you... the Emissary.     You're here... and you have a decision    to make... just like in the prophecy.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+226,SISKO,   Do you really believe I'm the    Emissary?,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+227,KIRA,   I guess I always have.  But I've    never wanted to admit it to myself.       It's hard to work for someone who's    a religious icon.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+228,SISKO,"   I hope this doesn't offend your    beliefs, but I don't think of myself    as an icon... religious or otherwise.       I'm a Starfleet Officer, and I have    a mission to accomplish.  If I'm    going to call it off, it has to be    for a concrete reason, something    solid, something... Starfleet.",19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+229,KIRA,"   All right, how about this?  The    prophets -- the aliens that live in    the wormhole, as you call them --    exist outside of linear time.  They    know the past, present, and the    future.",19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+230,SISKO,   Agreed.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+231,KIRA,"   So it's perfectly reasonable that    they could've communicated knowledge    of the future to a Bajoran named    Trakor... and that he wrote that    knowledge down in the form of a    prophecy... and now, three thousand    years later, we're watching those    events unfold.  To me, that reasoning    sounds concrete... solid... I'd even    call it Starfleet.",19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+232,SISKO,"   But it all hinges on how you interpret    an ancient text that's been translated    and re-translated over the    centuries... words that were couched    in metaphor to begin with.       I'm sorry, Major... but where you    see a Sword of Stars, I see a comet.     Where you see vipers, I see three    scientists.       And where you see the Emissary... I    see a Starfleet Officer.",19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+233,DAX,   Dax to Sisko.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+234,SISKO,   Go ahead.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+235,DAX,   We're ready to deploy the relay.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+236,SISKO,   I'm on my way.,19   INT. DEFIANT - QUARTERS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+237,GILORA,"   ... all right, now we just have to    shunt the ODN line through the    secondary field coils.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+238,O'BRIEN,   We can't do that.,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+239,GILORA,   Why not?,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+240,O'BRIEN,   The coils aren't configured to handle    ODN output...,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+241,GILORA,"   Why not?  Did you modify them, too?",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+242,O'BRIEN,   Actually I replaced them.  They were    always shorting out on us.  Frankly    I don't see how this station kept    running during the occupation.,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+243,GILORA,       Why didn't you tell me you'd replaced    the field coils?,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+244,O'BRIEN,"   If you'd let me know what you were    planning to do, I would have.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+245,GILORA,   I don't have time to explain    everything.,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+246,O'BRIEN,"   What, you think I won't be able to    understand what you're doing?",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+247,GILORA,   It's been my experience that...,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+248,O'BRIEN,   What... that humans aren't good    engineers?,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+249,GILORA,"   No, not humans.  Males.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+250,O'BRIEN,   I beg your pardon?,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+251,GILORA,   Men just don't seem to have a head    for this sort of thing... that's why    women dominate the sciences.,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+252,O'BRIEN,"   Maybe on Cardassia.  But on this    station, this man is Chief of    Operations.  I know these systems    better than anyone -- including you.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+253,O'BRIEN,"   I think I know what the problem is...    so if you want to get their    transceiver on line, hand me that    laser-torch and give me some room.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,#40513-461,1994-12-02,Deep Space Nine
+254,ULANI,       Gilora and Chief O'Brien should have    their transceiver on-line by now.,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+255,SISKO,   Are we ready on this end?,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+256,DAX,   Almost... I'm just about to activate    the relay's transmission array.,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+257,DAX,       Dejar... ?,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+258,DEJAR,   Standing by...,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+259,DEJAR,   I'm receiving the relay's test signal.,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+260,ULANI,    (to Sisko; with a     smile)   I'd say we're ready to send the first    message through the wormhole.,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+261,ULANI,       Target the signaling array toward    the wormhole and initiate a carrier    wave in the delta band frequency...,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+262,DAX,       Initiating carrier wave...,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+263,ULANI,"   If they receive it on the station,    they'll send an acknowledging signal    on the same frequency.",23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+264,DAX,   I'm not receiving anything...,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+265,ULANI,   Then we have to assume it didn't    work.       Let's try the theta band frequency.,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+266,DAX,   Initiating carrier wave...,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+267,DAX,   Something's wrong... I'm picking up    a neutrino surge from the wormhole...,23   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+268,SISKO,   Report.,26   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+269,DAX,       Somehow the carrier wave caused the    wormhole to open...,26   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+270,KIRA,       The wormhole's gravity well has    increased by a factor of three...,26   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+271,SISKO,       Terminate the carrier wave and    maintain our position...,26   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+272,KIRA,   Gravimetric fields have returned to    normal...,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+273,SISKO,   What happened?,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+274,ULANI,   I'm not sure... the carrier wave    shouldn't have affected the wormhole    at all.,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+275,SISKO,   Was there any damage to the relay?,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+276,DEJAR,   None... I'm still receiving the test    signal.,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+277,DAX,   Benjamin... the gravitational surge    altered the course of the comet...       It's now heading directly toward the    wormhole...,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+278,ULANI,"   If the comet enters the wormhole,    the silithium in its core will    cause a cascade reaction.",28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+279,DAX,   And collapse the wormhole...    permanently.,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+280,SISKO ,"   Commander's Log, Supplemental.  With    less than five hours before the comet    reaches the wormhole, I've brought    the Defiant back to the station and    convened a meeting of the entire    science team.",29   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,#40513-461,1994-12-02,Deep Space Nine
+281,DAX,   Apparently the carrier wave we sent    created some sort of subspace    inversion in the wormhole.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+282,O'BRIEN,   That's what caused the gravity well    to form.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+283,ULANI,   The possibility of subspace    inversion was predicted in    one of our computer models...,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+284,O'BRIEN,   That wasn't included in the data you    sent us.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+285,GILORA,   The probability of such an    occurrence was less than two    percent... well within safety    limitations.  So we saw no reason    to include it in the data we sent    you.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+286,SISKO,       It would seem our scientific    methodologies differ slightly.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+287,SISKO,"   It's our practice to examine all    possibilities, no matter how unlikely,    before we proceed with field tests.",30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+288,ULANI,"   We would, of course, prefer to    operate that way as well...    however since the Science Ministry    falls under the jurisdiction of    the military, we have to follow    certain rules.  One of them is not    to make any project look...    ""unnecessarily"" dangerous.",30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+289,SISKO,   We'll have to keep that in mind when    we resume work on the communications    relay.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+290,DEJAR,"   That is an extremely unlikely    possibility, Commander.  The Science    Ministry will undoubtedly want to...    (glances at Ulani and     Gilora)   -- assemble a new team, before    proceeding further.",30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+291,SISKO,"   That is, of course, an internal    Cardassian matter.",30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+292,SISKO,       Chief... Dax feels that we can't    risk using tractor beams to deflect    the comet.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+293,DAX,   It would probably break up into    smaller pieces and we'd have a bigger    mess on our hands.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+294,GILORA,   The same thing would happen if you    tried to destroy it with a phaser    beam.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+295,O'BRIEN,   Not necessarily.  I could modify the    Defiant's phaser array to generate a    beam wide enough to encompass the    entire comet.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+296,ULANI,       Vaporizing it evenly so it won't    break up.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+297,SISKO,   How long would the modifications    take?,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+298,O'BRIEN,   Three hours.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+299,SISKO,   Get on it.  We'll be cutting this    pretty close.,30   INT. WARDROOM,WARDROOM,INT.,#40513-461,1994-12-02,Deep Space Nine
+300,O'BRIEN,   -- I've accessed the Defiant's primary    phaser relay...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+301,O'BRIEN ,   I'm going to try shunting it through    the warp drive...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+302,GILORA,   Won't that overload the relay?,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+303,O'BRIEN,      Not if we bypass the plasma    emitter...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+304,GILORA,   I hadn't thought of that...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+305,O'BRIEN,   The emitter coupling is over    there...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+306,GILORA,   What are you doing now... ?,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+307,O'BRIEN,   I'm decoupling the servos so they    won't lock up...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+308,GILORA,       You have very steady hands...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+309,O'BRIEN,"   They get the job done, I guess...",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+310,O'BRIEN,"   And right now, the most important    job is bypassing the plasma emitter...",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+311,GILORA,   I assure you I'm quite fertile...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+312,GILORA,"   I could provide you with many healthy    children, if that's your concern...    but, frankly I think you're getting    a little ahead of yourself.",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+313,O'BRIEN,   Children?  What are you talking about?     I already have a child.  And a wife.,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+314,GILORA,   You're married?,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+315,O'BRIEN,"   Yes, happily.",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+316,GILORA,   Then why have you been leading me to    believe that you wanted me?,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+317,O'BRIEN,   I haven't been.  All we've done since    we met is argue.,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+318,GILORA,   And I took your overt irritability    toward me as a signal that you were    interested in pursuing a physical    relationship.,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+319,O'BRIEN,"   That may be how Cardassians do things,    but not humans.",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+320,GILORA,   It seems this is a case of cross-   cultural misunderstanding.,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+321,O'BRIEN,"   Yes, it does.  I'm not even remotely    interested in you.    (realizing how that     sounds)   That's not what I meant.  You're    very attractive... and I'm flattered,    of course...",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+322,GILORA,"   There's no need to continue, Mister    O'Brien... you've made your feelings    clear...",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+323,O'BRIEN,"   Gilora, wait.       We need to finish this.",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+324,GILORA,   I'm sure you can complete the work    on your own...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,#40513-461,1994-12-02,Deep Space Nine
+325,DAX,   Chief O'Brien said he'd have the    modifications to the Defiant's phasers    ready within half an hour.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+326,SISKO,   Half an hour ahead of schedule...,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+327,DAX,       The chief is a born engineer.  He    always gives himself a comfortable    margin on his repair estimates.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+328,DAX,   Let me guess... you're reading up on    Bajoran prophecies concerning the    Emissary...,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+329,SISKO,       There are hundreds of them.  Most of    them are vague... some are    contradictory... but there's just    enough truth in a few of them to    make me wonder...,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+330,DAX,   You mean some of them have come true?,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+331,SISKO,"   If you interpret them a certain way,    yes.",34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+332,DAX,   And so now you're wondering if    Trakor's prophecy is coming true as    well...,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+333,SISKO,   I have to admit it's getting harder    to ignore.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+334,DAX,"   But Benjamin, there's every reason    to believe we'll be able to destroy    the comet.",34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+335,SISKO,"   I know... but I'm becoming more and    more concerned that if I don't send    the Cardassians home, something else    will go wrong...",34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+336,DAX,"   And the ""gates of heaven will burn    and be cast open... """,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+337,DAX,   Let me ask you something... what    would you do if you'd never heard    Trakor's prophecy?,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+338,SISKO,   I'd continue working on the    communications relay.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+339,DAX,   Then it seems to me you have a choice:     you can either make your own    decisions... or you can let these    prophecies make them for you.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+340,SISKO,"   As soon as the Defiant's ready, have    the Cardassians meet us on board.",34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,#40513-461,1994-12-02,Deep Space Nine
+341,DAX,   The comet's directly ahead.     Distance... two hundred kilometers.,36   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+342,SISKO,   Bring us to within ten kilometers.       Chief... are your phaser modifications    on-line?,36   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+343,O'BRIEN,"   Aye, Sir.  Phasers are locked on    target.",36   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+344,DAX,   Holding position at ten kilometers.,38   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+345,SISKO,   Shields up... go to Red Alert.,38   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+346,SISKO,       Fire...,38   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+347,SISKO,"   What the hell happened, Chief?",40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+348,O'BRIEN,"   I don't know, sir... the entire    weapons relay just blew out... all    defensive systems are down.",40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+349,DAX,"       Benjamin, sensors show that the    modified phasers never came on-line --    we fired a standard burst and it    shattered the comet instead of    vaporizing it.",40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+350,O'BRIEN,   There's no way they should have    misfired like that.  I modified the    systems myself.,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+351,KIRA,"       Commander, the three fragments are    still on course for the wormhole...",40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+352,SISKO,   How long until they reach the    entrance?,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+353,KIRA,       Twenty six minutes...,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+354,SISKO,   And without weapons... we have no    way of stopping them...,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+355,O'BRIEN,   The main emitter coupling has been    depolarized... I must've accidentally    inverted the power flow when I was    trying to modify the phaser array.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+356,O'BRIEN,       I can't believe it... a first year    Engineering student wouldn't make a    mistake like that...,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+357,GILORA,"   This wasn't your fault, Mister    O'Brien... and it wasn't an    accident.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+358,ULANI,       Gilora...,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+359,GILORA,"   Dejar is a member of the Obsidian    Order... she was assigned to our    team for ""security"" reasons.  I think    she sabotaged the coupling.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+360,SISKO,"   The Order has always been opposed to    the peace treaty with Bajor.  So    they sent you to sabotage the relay...    because if the first joint venture    between Cardassia and Bajor was a    failure, it would probably be the    last.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+361,DEJAR,"   That's all speculation, Commander...    you have no proof.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+362,KIRA,"   If it was sabotage, a DNA scan of    the coupling will probably reveal    who was responsible.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+363,SISKO,       Take her to quarters and detain her    there.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+364,SISKO,"   Now that the comet's been fractured    into smaller pieces, can we use the    tractor beams to deflect them?",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+365,ULANI,"   They'd just disintegrate further,    releasing more silithium.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+366,SISKO,"   If we can't stop the fragments, is    there any way we can prevent the    silithium from interacting with the    wormhole?",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+367,DAX,"   Maybe if we could contain it,    somehow...",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+368,ULANI,"   If you can generate a subspace field    around the fragments, that might    contain the silithium.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+369,O'BRIEN,   The warp drive... it could create a    subspace bubble around the ship...,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+370,DAX,"   But we'd have to maneuver the Defiant    between the fragments... they're so    close together, there's not enough    room...",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+371,SISKO,   A shuttlepod could maneuver between    them... and its warp drive should be    able to create a large enough subspace    field...,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+372,O'BRIEN,   Maybe... but it could overload the    engines.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+373,SISKO,   That's a chance I'll have to take.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+374,SISKO,"   Major, you have the bridge.  Take    the Defiant back to the Alpha Quadrant    as soon as I've cleared the    shuttlebay.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+375,KIRA,"   Commander, I'd like to go with you.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+376,KIRA,       Not just because I'm your first    officer... but because I believe I'm    here to help the Emissary.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+377,SISKO,"   Dax, the Bridge is yours.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+378,SISKO,   We've cleared the shuttlebay... signal    the Defiant that they can leave...,42   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+379,KIRA,   They're heading for the wormhole...,42   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+380,SISKO,   I'm going to take us in behind the    comet fragments... it'll be easier    to maneuver into position...,42   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+381,DAX,   Hold position here... they could be    in for a rough ride.  Stand by    transporters in case we need to beam    them off the shuttlepod when they    clear the wormhole.,46   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+382,SISKO,   We're in position... activate the    subspace field...,47   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+383,KIRA,       Field engaged...,47   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+384,SISKO,       We'll reach the entrance to the    wormhole in... five seconds...,49   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+385,KIRA,   The subspace field is losing    integrity... some of the silithium    is starting to leak through...,53   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+386,SISKO,   Divert power from the engines to the    subspace field coils... we'll let    our own inertia carry us the rest of    the way.,53   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+387,KIRA,   That helped... but we're still losing    silithium...,53   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+388,O'BRIEN,       I'm picking up a neutrino surge...    something's coming through.,54   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,#40513-461,1994-12-02,Deep Space Nine
+389,DAX,   Dax to Sisko...,56   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+390,SISKO,"   Sisko, here.",56   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,#40513-461,1994-12-02,Deep Space Nine
+391,DAX,"   Are you all right, Benjamin?",57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+392,SISKO,   There was some silithium leakage    inside the wormhole... but we're    fine.,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+393,O'BRIEN,   I don't believe it.,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+394,DAX,"   What is it, Chief?",57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+395,O'BRIEN,   I'm picking up the test signal from    the communications relay...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+396,SISKO,   How is that possible?,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+397,DAX,       I'm not sure... I'm reading a subspace    filament leading back through the    wormhole... it's acting almost like    a carrier wave...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+398,O'BRIEN,   The comet fragments... they left a    trail of silithium in the wormhole.,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+399,ULANI,   The silithium particles must have    interacted with the wormhole's ambient    radiation...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+400,GILORA,   And created the filament...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+401,SISKO,   It's almost like the wormhole's been    wedged open just a crack... enough    to let subspace signals through...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+402,KIRA,       The prophecy came true... all of    it... we just misinterpreted Trakor's    words...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+403,KIRA,   The three vipers... he wasn't talking    about the Cardassians... he meant    the three comet fragments...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+404,SISKO,"   The communications relay... in a    sense we've been trying to ""peer    through the temple gates... """,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+405,KIRA,   The silithium ignited the wormhole...    burning the temple gates...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+406,SISKO,   So that they'd never close again...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+407,KIRA,   And it's all because the Emissary    used the Sword of Stars...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+408,SISKO,   And Trakor saw it all... three    thousand years ago...,57   INT. DEFIANT - BRIDGE,DEFIANT,INT.,#40513-461,1994-12-02,Deep Space Nine
+409,O'BRIEN,   I just wanted to say that I appreciate    what you did on the Defiant.  I hope    it won't cause you too much trouble    when you get back to Cardassia.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+410,GILORA,"   My superiors in the science ministry    will protect me.  Frankly, I think    Dejar is in a lot more trouble than    I am.  The Order doesn't reward    failure.",59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+411,O'BRIEN,   Still... it was a very brave thing    to do.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+412,GILORA,   I didn't want you to take the blame    for something that wasn't your fault.       I know how proud you are of your    work.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+413,O'BRIEN,       Sometimes too proud.  It's gotten me    into trouble now and again.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+414,GILORA,   What's your wife's name?,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+415,O'BRIEN,   Keiko.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+416,GILORA,   Keiko...       A lucky woman.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+417,GILORA,"   Good-bye, Mister O'Brien.",59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+418,YARKA,   Emissary... I'm sorry I doubted you.     I realize now that I let my distrust    of the Cardassians blind me to the    Prophets' words.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+419,SISKO,   It seems that the Prophets want peace    between your two peoples after all.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+420,YARKA,   Perhaps so...,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+421,YARKA,   There are signs that Trakor's fourth    prophecy will soon come to pass as    well...,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+422,SISKO,   Don't tell me it has something to do    with me...,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+423,YARKA,"       You, Commander?  Well... it is a    prophecy about the Emissary...",59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+424,SISKO,   Tell me about it.,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine
+425,YARKA,   The fourth prophecy says that the    Emissary will face a fiery trial...    and that he will be forced to choose    between --,59   INT. PROMENADE,PROMENADE,INT.,#40513-461,1994-12-02,Deep Space Nine

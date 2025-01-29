@@ -1,0 +1,353 @@
+,character,quote,scene,location,view,episode,date,series
+0,WORF,   Aft shields buckling!,2    INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+1,KURN,       Transfer auxiliary power to   shields!,2    INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+2,WORF,   Aft shields are gone!,2    INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+3,WORF,       We cannot win. We must withdraw.,2    INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+4,KURN,   Keep your place!,2    INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+5,KURN,       New course... three zero seven...   mark two seven five.,2    INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+6,HELMSMAN,       But sir---!,2    INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+7,KURN,       GhoS!,2    INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+8,WORF,   We are entering the star's   corona... we will reach the   photosphere in thirty seconds.,4    INT. BIRD OF PREY - BRIDGE (OPTICAL),BIRD OF PREY - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+9,KURN,"       Stand-by to enter warp on my   command, course two five zero mark   zero one five.",4    INT. BIRD OF PREY - BRIDGE (OPTICAL),BIRD OF PREY - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+10,WORF,   Shields failing... outer hull   temperature exceeding design   limits...,4    INT. BIRD OF PREY - BRIDGE (OPTICAL),BIRD OF PREY - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+11,WORF,       Captain!,4    INT. BIRD OF PREY - BRIDGE (OPTICAL),BIRD OF PREY - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+12,KURN,   Maintain course...,4    INT. BIRD OF PREY - BRIDGE (OPTICAL),BIRD OF PREY - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+13,WORF,   They're closing on us!,4    INT. BIRD OF PREY - BRIDGE (OPTICAL),BIRD OF PREY - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+14,KURN,       Stand-by...,4    INT. BIRD OF PREY - BRIDGE (OPTICAL),BIRD OF PREY - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+15,KURN,       DaH! ,4    INT. BIRD OF PREY - BRIDGE (OPTICAL),BIRD OF PREY - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+16,PICARD ,"   Captain's log, stardate 45020.4.   We have arrived at Starbase   Two-thirty-four, where I have   taken the opportunity to make a   proposal to Fleet Admiral   Shanthi.",10A  INT. BIRD OF PREY - BRIDGE,BIRD OF PREY,INT.,"""Redemption II""",1991-07-01,The Next Generation
+17,PICARD,   There have been three major   engagements in the last two   weeks... all of them won by ships   loyal to the Duras family.,12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+18,SHANTHI,"   None of which is our concern,   Jean-Luc. The Klingon civil war   is, by definition, an internal   matter of the Empire.",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+19,PICARD,"   Agreed. But if the Duras are   being aided by the Romulans, then   it becomes very much our concern.",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+20,PICARD,"       The Romulans have been trying to   destroy the Federation/Klingon   Alliance for over twenty years,   and at the same time, the Duras   have been secretly conspiring with   the Romulans.       Doesn't it strike you as odd that   the Duras are able to field such   an overpowering force against   Gowron? That they outmatch him   at almost every turn?",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+21,SHANTHI,   Some would call it good   leadership.,12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+22,PICARD,"   And some would say they must be   getting help.       The Romulans have always been   willing to take enormous risks   in order to gain any advantage   over the Federation.       Can we seriously believe that now,   with the future of the entire   Klingon Empire hanging in the   balance, they are content to   simply stand by and watch?",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+23,SHANTHI,"   What is it you propose, Captain?",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+24,PICARD,"   We must stop the flow of supplies   and equipment from the Romulans   to the Duras family.       I propose we take a fleet of ships   to the Romulan/Klingon border.   We'll take no offensive action,   but we'll be in a position to   expose any Romulan shipments that   try to cross the border.",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+25,SHANTHI,       A blockade...       But how will you overcome the   Romulan cloaking device?,12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+26,PICARD,"   My chief engineer has developed   a system that should help us   nullify that advantage. Each ship   will send out an active tachyon   beam to the other ships in the   blockade fleet. In theory, any   cloaked vessel that tries to pass   between our ships should cross   one of those beams and be   detected.",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+27,SHANTHI,"   I'll have to clear this with the   Federation Council...       In the meantime, assemble your   fleet, Captain.",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+28,RIKER,       Nicely done... I hope you know   what you're doing.,12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+29,PICARD,"       So do I, Number One.",12B  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+30,PICARD ,"   Captain's log, stardate 45021.3.   Convincing Starfleet Command to   establish a blockade was   relatively painless.   Implementing that plan is proving   more troublesome.",13   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Redemption II""",1991-07-01,The Next Generation
+31,RIKER,   Starfleet is stretched pretty thin   across the quadrant. There are   only twelve ships within one day's   travel of this position.,14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+32,GEORDI,   The only other ships available   are either in spacedock for   repairs or still under   construction. Most of them don't   even have full crews yet.,14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+33,RIKER,   But we could probably pick up   seven... maybe eight more ships.,14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+34,PICARD,"   Mister La Forge, will we be able   to implement your tachyon   detection grid with twenty ships?",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+35,GEORDI,"       It's possible...       But the more ships, the bigger   the net we can throw.",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+36,PICARD,"       I want to add the Tian Nan Men,   the Hermes, and the Sutherland   to join us whether the yard   superintendent thinks they're   ready or not. Mister Data, select   a group of experienced officers   from the Enterprise to augment   the crews of those ships.",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+37,DATA,"   Yes, sir.",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+38,PICARD,"       Will, I want you to command the   Excalibur. Her crew was   reassigned when she put in for   repairs. Geordi, you'll serve   as his first officer.",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+39,PICARD,"    (continuing, to     everyone)   I want the fleet to be underway   by oh nine hundred tomorrow.   Thank you, gentlemen.",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+40,PICARD,"   Yes, Data?",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+41,DATA,"   May I ask a question of a...   personal nature, sir?",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+42,PICARD,   Yes.,14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+43,DATA,   Why have I not been assigned to   command a ship in the fleet?,14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+44,PICARD,   Well... I felt that you were   needed here.       Why do you ask?,14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+45,DATA,"   You have commented on the lack   of senior officers available for   this mission. I believe that my   twenty-six years of Starfleet   service qualify me for such a   post.       However, if you do not believe   the time has arrived for an   android to command a starship, then   perhaps I should address myself   to improving---",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+46,PICARD,   Commander... I believe the   starship Sutherland will need a   captain. I can think of no one   more suited to the task than you.,14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+47,DATA,"   Thank you, Captain.",14   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+48,KURN,"   You always did have fools working   for you, Larg... now you don't   have as many!",16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+49,LARG,"   You were lucky, Kurn... but luck   always runs out. Someday I will   stand over your broken corpse and   drink to the victory of the Duras!",16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+50,KURN,"    (stands and claps Worf     on shoulder)   Ah, Worf... good.       This piece of baktag is Captain   Larg. He commanded the squadron   that tried to destroy us   yesterday.",16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+51,LARG,"       The infamous Worf, son of Mogh.    (pretends to looks Worf     over)   What are you wearing? That's the   uniform of a Klingon.",16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+52,KURN,"       The Capital City is neutral   ground... and Larg's men are all   around us.    (beat, then pointed to     Larg)   As are mine.",16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+53,LARG,"   Good to drink with you, Kurn.    (pounds the pitcher     of drink on the table)   May you die well.",16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+54,KURN,"   Die well, Larg.",16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+55,WORF,       You drink with our enemy...,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+56,KURN,"       How many are Gowron's men... how   many are Duras? Does it matter?   When we meet in battle we'll fight   to the death, but here... we're   all warriors... all Klingons.",16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+57,WORF,       The repairs on the Hegh'ta are   proceeding. The port stabilizers   are---,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+58,KURN,   Is there nothing in your heart   but duty?,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+59,WORF,   It is my responsibility to oversee   the repairs aboard ship.,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+60,KURN,   We all have responsibilities and   duties...       But we are warriors fighting in   a great war! Think of it... you   and I will fight battles others   can only dream of... our time for   glory is here. This is not the   time to worry about stabilizers.    (stands and shouts to     the crowd)   It is a time to celebrate... for   tomorrow we may die!,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+61,KURN,       Come... let the sons of Mogh live   this night as if it were our last!,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+62,B'ETOR,   Worf is not like his brother.,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+63,LURSA,   No. He tries to be... but he is   still unsure of himself.,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+64,B'ETOR,       Perhaps he needs something to help   restore his... confidence.,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+65,LURSA,       I think he'll find our offer   appealing.,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+66,B'ETOR,   I'll make sure he does.,16   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+67,HOBSON,   You've got to keep that mixture   above ninety percent or we'll   never leave orbit.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+68,DATA,   I am Lieutenant Commander Data.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+69,HOBSON,   Lieutenant Commander Christopher   Hobson.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+70,DATA,"   By order of Starfleet, I hereby   take command of this vessel.   Please note the time and date in   the ship's log.",21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+71,HOBSON,"       Yes, sir.",21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+72,DATA,"       Computer, what is the status of   the dilithium matrix?",21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+73,HOBSON,   The audio pick up circuits   aren't functioning. You can still   access the computer manually.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+74,HOBSON,   Excuse me... sir?       I'd like to request a transfer.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+75,DATA,   May I ask why?,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+76,HOBSON,   I don't believe I would be... a   good first officer for you.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+77,DATA,   Your service record to date   suggests that you would perform   that function competently.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+78,HOBSON,   That's not what I mean.       I don't think that I would be a   good first officer for you.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+79,DATA,   Why?,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+80,HOBSON,"   Frankly, sir... I don't believe   in your ability to command this   ship.",21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+81,HOBSON,"       You're a fellow officer and I   respect that... but no one would   suggest that a Klingon would make   a good ship's counselor or that   a Berellian could be an   engineer. They're just not suited   for those positions.       By the same token, I don't think   that an android is a good choice   to be captain.",21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+82,DATA,   I understand your concerns.       Request denied.,21   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+83,O'BRIEN,"   The Endeavor has cleared the dock,   Captain. All ships standing by.",23   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+84,PICARD,"   Good.       Course one one eight mark three   five seven, full impulse power       Signal the fleet to get underway.   We'll enter warp once we're clear   of the system.",23   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+85,O'BRIEN,"   Aye, sir.",23   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+86,PICARD,   Engage.,23   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+87,B'ETOR,   The Romulan convoy is late. We   need those supplies.,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+88,SELA,   Gowron has suffered another loss   near the Mempa system. His forces   will not threaten you in that   region for some time.,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+89,B'ETOR,       But if Gowron tries to---,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+90,SELA,    (without raising her     voice)   The convoy will arrive in due   course.,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+91,LURSA,       A Federation fleet has just left   Starbase Two-thirty-four... they've   set course for Klingon territory.,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+92,MOVAR,   How many?,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+93,LURSA,   At least twenty starships.,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+94,SELA,   Who's commanding this fleet?,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+95,LURSA,   Picard.,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+96,TORAL,   What does it mean? Is the   Federation going to enter the war?   Should we attack them before they   get here?,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+97,SELA,"       Silence the child, or send him   away.",26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+98,SELA,"   Movar, I want you to return to   Romulus immediately.    (picks up PADD and taps     in something)   Have all available ships   rendezvous at these coordinates   in two days.",26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+99,MOVAR,"   Yes, Commander.",26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+100,LURSA,   Twenty ships aren't enough to wage   a war... Starfleet must be   bluffing.,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+101,SELA,   Perhaps...,26   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+102,KURN,   Our forces in the Mempa sector   are now in full retreat. They   will have to regroup near Beta   Lankal.,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+103,GOWRON,       We destroyed their supply bases   in that sector three weeks ago!   How can they continue to fight?,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+104,KURN,   They must be getting help.,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+105,KULGE,   Maybe they have better leaders.,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+106,KULGE,"       I say you have failed as our   leader, Gowron.",27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+107,WORF,   There is no time for this! We   must make plans before those   forces reach Beta Lankal!,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+108,WORF,       How can we oppose the Duras when   we continue to fight among   ourselves?,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+109,KURN,       Gowron must answer a challenge   to his authority.,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+110,WORF,       Stop this!       Are we to fall upon each other   like a pack of Ferengi? The enemy   is the Duras! We are at war!,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+111,GOWRON,       Now the war can continue.,27   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+112,O'BRIEN,"   We're crossing into Klingon   territory, Captain.",29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+113,PICARD,   Signal the fleet to maintain   yellow alert until further notice.,29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+114,O'BRIEN,"   Aye, sir.",29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+115,PICARD,       Begin long-range scans of the   Romulan border.,29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+116,O'BRIEN,"       No uncloaked ships within sensor   range... a few subspace anomalies,   but nothing firm.",29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+117,PICARD,       Those anomalies could be cloaked   ships.,29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+118,O'BRIEN,"   Could be, sir.",29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+119,PICARD,   Open a channel to the Excalibur.,29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+120,RIKER,"   Excalibur, Riker here.",29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+121,PICARD,"   Deploy the fleet, Will. It's time   to spread our net.",29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+122,RIKER,"   Yes, sir.",29   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+123,HOBSON,"       We've arrived at the designated   coordinates, Captain.",31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+124,DATA,   All stop. Notify the flagship   that we have assumed station.,31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+125,HOBSON,       Starboard power coupling has   overloaded. We've got a radiation   leak on decks ten through twelve.,31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+126,DATA,   Why are auxiliary back-ups not   functioning?,31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+127,HOBSON,"       There wasn't enough time to test   all the back-ups before leaving   the yard.    (beat, then to N.D.     Crewman)   Terry, I want you down in   engineering working on a new   coupling.",31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+128,DATA,   You have taken the phaser and   torpedo control units off-line.,31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+129,HOBSON,"   Keith, you and I'll start bringing   the coolant levels down in---",31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+130,DATA,"   Mister Hobson, it is inappropriate   for you to determine a course of   action without consulting the   commanding officer.",31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+131,HOBSON,"   I was trying to safeguard the   lives of people on those decks,   but you're right.       Belay those orders, everyone.       The phasers and torpedos are back   on-line. What should we do, sir?",31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+132,DATA,   Take the phasers and torpedo units   off-line and begin repairs on the   starboard power coupling.,31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+133,HOBSON,"   Thank you, sir.       You heard the Captain, everyone.",31   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+134,RIKER,"   We're ready, sir.",31A  INT. ENTERPRISE BRIDGE (OPTICAL),ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+135,PICARD,"   Mister La Forge, how long do you   think it will take the Romulans   to detect the tachyon field once   it's activated?",31A  INT. ENTERPRISE BRIDGE (OPTICAL),ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+136,GEORDI,       Not long... Romulan sensors are   as good as ours.,31A  INT. ENTERPRISE BRIDGE (OPTICAL),ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+137,PICARD,   Very well. Energize the network.,31A  INT. ENTERPRISE BRIDGE (OPTICAL),ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+138,RIKER,"   Captain, the tachyon network is   active.",31A  INT. ENTERPRISE BRIDGE (OPTICAL),ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+139,PICARD,   Acknowledged.,31A  INT. ENTERPRISE BRIDGE (OPTICAL),ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+140,O'BRIEN,"       Captain, the net has picked up   five cloaked ships... they're   stationary... about five thousand   kilometers directly ahead.",31A  INT. ENTERPRISE BRIDGE (OPTICAL),ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+141,PICARD,       They've probably been sitting   there watching us for some time   now.,31A  INT. ENTERPRISE BRIDGE (OPTICAL),ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+142,MOVAR,       There is an increase in tachyon   emissions from the Federation   ships.,36A  INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+143,SELA,       They're using the beams as a   detection field...,36A  INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+144,MOVAR,"   If we try to cross it, they'll   see us... even if we're cloaked.",36A  INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+145,SELA,"   Issue orders to begin work on a   way to penetrate this field.       In the meantime, we'll have to   convince Captain Picard he should   leave.",36A  INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+146,O'BRIEN,   New readings...       Romulan ship decloaking!,36B  INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+147,O'BRIEN,   Shall I raise shields?,38   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+148,PICARD,   Not yet.,38   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+149,O'BRIEN,"   They're hailing us, sir.",38   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+150,PICARD,   On screen.,38   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+151,PICARD,   Tasha?,38   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+152,SELA,"   No, Captain. I am Commander Sela.       The woman you knew as Tasha Yar...   was my mother.",38   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+153,SELA,"   Deploying an invasion fleet along   our border is a clear act of   aggression, Captain. It will not   be tolerated. You have twenty   hours to recall your ships and   return peacefully to Federation   territory.",41   INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+154,PICARD,"   Then you believe her, Counselor?",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+155,TROI,   I'm not saying we should accept   her claim at face value... but   I sensed no deception from her.   She really believes that she is   the daughter of Tasha Yar.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+156,BEVERLY,"   Regardless of what she believes,   Sela cannot be her daughter.   I've reviewed all of Tasha's   medical records, and there is no   indication that she was ever   pregnant.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+157,PICARD,"   Besides, Tasha would have been a   child when this woman was born.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+158,TROI,   Sela could have been cloned.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+159,BEVERLY,   Or had her appearance surgically   altered...,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+160,PICARD,   But why? What possible advantage   do the Romulans think they would   gain?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+161,PICARD,"       As it now stands, I don't see how   this has any impact on our present   strategy. We'll continue the   blockade and leave the next move   to them.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+162,GUINAN ,   Am I intruding?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+163,PICARD,   Not at all. Is something wrong?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+164,GUINAN,   Word travels fast. I heard that   Tasha Yar's daughter is on the   Romulan ship.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+165,PICARD,   I think the Romulans have created   what they hope will be a   distraction... something to keep   us off balance.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+166,GUINAN,   Is that what you really think?   Or is there some part of you...   that wonders?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+167,GUINAN,   Because part of me does...,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+168,GUINAN,   How much do you know about what   happened to the last ship named   Enterprise?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+169,PICARD,   The Enterprise C? It was lost...   at the battle of Narendra Three...   while defending a Klingon outpost   from the Romulans.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+170,GUINAN,   And... the survivors?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+171,PICARD,"   There were stories... that there   might have been prisoners, taken   back to Romulus. But those were   just rumors.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+172,GUINAN,   There were survivors. And one   of them was Tasha Yar.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+173,PICARD,   Guinan... that was twenty-three   years ago... Tasha was still a   child...,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+174,GUINAN,   I know. But I also know she was   on that ship -- and she wasn't   a child.       And Picard... you sent her there.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+175,PICARD,   How could you know these things?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+176,GUINAN,   I don't know how I know. I just   do.       I remember it.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+177,GUINAN,   I can see her.. in my mind...   asking me a question...       And then it's gone...,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+178,PICARD,   Tasha died... a year before you   came to the Enterprise. You never   met her.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+179,GUINAN,   I know that... but I also know   I'm right.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+180,PICARD,   If you have nothing more than a   vague intuition...,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+181,GUINAN,   That's all I have. But I listen   to it... and you should do the   same.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+182,GUINAN,"   You can't just dismiss this. If   I'm right... if you did send   Tasha Yar on that ship... then,   in a way, Picard... you're   responsible for her daughter.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+183,PICARD,   I think... it's time I met   Commander Sela.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+184,WORF,   We are at war! Gowron should   forbid any challenges until we   are victorious.,45   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+185,KURN,   A Klingon does not... postpone   a matter of honor.,45   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+186,WORF,   A Klingon should place the good   of the Empire above his own pride!,45   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+187,KURN,   So now Gowron no longer suits   you... perhaps you mean to   challenge him for the leadership   of the Council?,45   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+188,WORF,       No.,45   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+189,KURN,       Then do not speak of this again!       I did not wish to follow Gowron...   you came to me and insisted we   support him against the Duras   family. The time for debate is   over!,45   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+190,KURN,"       We are Klingons. He is our   leader. If that is not enough   for you, then perhaps you made   the wrong choice when you put on   that uniform.",45   INT. KLINGON NIGHTCLUB,KLINGON NIGHTCLUB,INT.,"""Redemption II""",1991-07-01,The Next Generation
+191,SELA,"   Well, Captain... what is this   ""urgent matter"" we need to   discuss?",47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+192,PICARD,   I'm afraid you misinterpret our   presence here. I want to reassure   you that we have no hostile   intentions.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+193,SELA,   Ah. Then I can report to my   superiors that a fleet of   twenty-three Federation starships   is on our border for...   humanitarian reasons?       I doubt they are so gullible.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+194,PICARD,   It is most certainly our intent   to prevent any external power from   interfering in Klingon affairs.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+195,SELA,   Nor do we have any plan to do so.       But Captain... if for any reason   we chose to enter Klingon   territory... how would you stop   us? With our cloaking devices   we can slip by you at will.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+196,PICARD,   Then why not send your ships   across?,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+197,SELA,   You sound eager for us to try...   perhaps you've discovered a method   of detecting our ships...,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+198,SELA,   However... I don't think you   asked me here to discuss our   military situation.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+199,PICARD,   All right. Why did I invite you?,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+200,SELA,   You want the answer to the only   real question on your mind... how   could Tasha Yar be my mother?,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+201,PICARD,   It's been suggested that Tasha   was aboard the Enterprise-C when   it was destroyed twenty-four years   ago. She was one of the   survivors. You are obviously the   product of a union between her   and a Romulan.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+202,SELA,   But... you know that's impossible.   She would have been a child when   that battle occurred...,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+203,PICARD,   And yet you claim that it is   possible -- that Tasha Yar was   your mother.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+204,SELA,   Yes... she was on that ship   twenty-four years ago.       She was sent there... by you...   from the future.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+205,SELA,   She was among those few who   survived. They were all to have   been executed after their   interrogation. But a Romulan   general saw her... and he   became... enamored with her.   So a bargain was struck: their   lives would be spared if she   became his consort.       I was born a year later.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+206,PICARD,   I want to meet her.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+207,SELA,   Who?,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+208,PICARD,   Your mother. Is she still alive?,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+209,SELA,"   One night... when I was four...   she came to me, bundled me up and   told me to stay quiet as we left   the compound.       I realized she was taking me   away... away from my home, away   from my father... so I cried out.",47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+210,SELA,"   My father had offered her life.   He had given her a home, given   her a daughter. How did she repay   him? With betrayal.",47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+211,SELA,   They executed her.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+212,SELA,   Everything in me that was human...   died with my mother that day.   All that is left... is Romulan.   Never doubt that.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+213,PICARD,   Doubts? I'm full of them.   Nothing in my experience can assure   me that what you say is true...   but I do know one thing: it will   not affect my judgment in our   next encounter.,47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+214,SELA,"   You have fourteen hours, Captain.   I suggest you use them wisely.",47   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+215,B'ETOR,   Something wrong?,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+216,LURSA,"   Welcome, Worf... son of Mogh.",48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+217,WORF,       What do you want?,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+218,LURSA,   The same as you... personal   honor... and glory for the   Empire.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+219,WORF,       Your family has never valued   honor.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+220,B'ETOR,   You knew only our brother... we   are not like him.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+221,LURSA,   Our brother made many mistakes...   one was to make you an enemy.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+222,B'ETOR,   We would rather be your friends.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+223,WORF,   Then you should not have opposed   Gowron.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+224,B'ETOR,       Gowron is nothing.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+225,LURSA,"   Toral is Duras' only son and he   will be the next leader of the   Council... in your heart, even   you know that.       But Captain Picard was right about   one thing... Toral is not ready   to rule the Empire.",48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+226,B'ETOR,   But we are... with your help.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+227,WORF,   My help?,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+228,LURSA,   Toral needs guidance...,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+229,B'ETOR,   ... a firm hand...,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+230,LURSA,   ... a father figure. That could   be you.       If you were mated to B'Etor.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+231,B'ETOR,    (heavy with sexual     meaning)   The rewards... could be greater   than you can imagine.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+232,LURSA,   When the forces that follow you   and your brother are united with   ours... nothing will stand in   our way.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+233,B'ETOR,   The Empire would be ours to rule   together.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+234,LURSA,"   Join us, Worf... and we will usher   in a new era for our people.",48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+235,WORF,       An era where honor has no   meaning... where Klingons trade   loyalties in dark rooms... and   where the Empire is ruled... from   Romulus.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+236,SELA,"   Enough, Lursa. You've failed.   I need to know the strength and   capabilities of the Federation   fleet. I don't have time for   this.",48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+237,SELA,       Turn him over to the guard.   B'Etor can have him back when   they've finished with him.,48   INT. DURAS FAMILY HOME - CLOSE ON WORF,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+238,PICARD,   In thirteen hours we will be   forced to either withdraw from   the border or fight the Romulan   fleet. Neither of those   alternatives is acceptable. We   must expose their involvement   before the deadline.,51   INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+239,GOWRON,   What is it you propose?,51   INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+240,PICARD,"   If you launch a massive attack   now, the Duras forces will need   supplies... Lursa and B'Etor will   call for help... the Romulans   will try to run the blockade...   and we'll be ready for them.",51   INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+241,GOWRON,       And once the Romulan connection   has been exposed... support will   fall away from Lursa and B'Etor.       Very well... I will make   preparations.     ,51   INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+242,GOWRON ,"       One thing more, Picard. Worf has   been captured by the Duras. I   hope he dies well. Qapla!",51   INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+243,PICARD,"   When Gowron begins his attack,   we'll make our move.       The Excalibur will fall back   with ""engine problems."" You will   take the Hornet and the Akagi to   this position... which will open   a small gap in our detection net.",53   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+244,RIKER,"       And if the Romulans already know   about the tachyon field, they   should try to run the blockade   at that point.",53   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+245,PICARD,"   Exactly.       But when they try to send their   ships through, the Enterprise and   the Tian Nan Men will swing   around, close the gap and catch   them in the act.",53   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+246,RIKER,       Very nice.       I'd better get back.,53   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+247,PICARD,"   Good luck, Will.",53   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+248,RIKER,"   Good luck, Captain.",53   INT. READY ROOM,READY ROOM,INT.,"""Redemption II""",1991-07-01,The Next Generation
+249,MOVAR,   We've just received an urgent   message from Lursa and B'Etor.   Gowron's forces have attacked in   three sectors. The Duras are...   nearing defeat...,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+250,SELA,       You mean they were caught   unprepared and now they're crying   for help.,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+251,SELA,       Have the science sections found   a way to circumvent their   detection grid yet?,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+252,MOVAR,   We think so.,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+253,MOVAR,"    (continuing, indicating     screen)   Just before we cross the border,   we'll send out a massive tachyon   pulse. A burst that large should   cause enough interference to   disable a part of the network.",55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+254,MOVAR,   One of their ships is moving off   the blockade line.,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+255,SELA,       It's warp drive is failing.,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+256,MOVAR,   Picard is redeploying the fleet   to compensate for the missing   ship...       There's a gap opening in the net!,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+257,SELA,   He doesn't have enough ships to   maintain the network...,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+258,MOVAR,"   If we act quickly we can move   through.    (beat, as she does not     respond)   Commander?",55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+259,SELA,   No. I don't think so.,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+260,MOVAR,   But it's what we've been waiting   for.,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+261,SELA,   Yes... I know... and so does   Picard. He's giving us exactly   what we need and he expects us to   take it.,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+262,SELA,       No... we won't step into Picard's   trap. We will disable part of   his network...,55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+263,SELA,"       Here, where they're weakest...   We'll direct the energy burst   right at the ship with the android   Captain.",55   INT. WARBIRD - COMMAND CENTER (OPTICAL),WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+264,O'BRIEN,"   Sir, the detection net is picking   up activity from the Romulans...   fifteen cloaked ships... spreading   out along the border.",57A  INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+265,PICARD,   Signal the fleet to stand by.,57A  INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+266,SELA,   Now.,57B  INT. WARBIRD - COMMAND CENTER,WARBIRD,INT.,"""Redemption II""",1991-07-01,The Next Generation
+267,SELA,       Come to course zero eight zero   mark two nine five!,57B  INT. WARBIRD - COMMAND CENTER,WARBIRD,INT.,"""Redemption II""",1991-07-01,The Next Generation
+268,O'BRIEN,   There's a disruption in the   tachyon detectors!,59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+269,O'BRIEN,       It's localized to this segment   of the net...,59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+270,PICARD,   Open a channel to the Sutherland.,59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+271,DATA,"   Data here, sir.",59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+272,PICARD,   We're reading a disruption of the   tachyon net in your area.,59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+273,DATA,"   Yes, sir. The Romulans have   released a high-energy burst.   The net is no longer effective   in a radius of ten million   kilometers around the Sutherland.",59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+274,O'BRIEN,   Sir... I've lost track of three   ships already... and the rest of   the convoy is moving toward the   disruption.,59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+275,PICARD,   That's where they're going   through.       Send a signal to the fleet... all   ships to fall back and rendezvous   at Gamma Eridon. We'll try to   reestablish the net before they   get there.,59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+276,O'BRIEN,"       Aye, sir.",59A  INT. ENTERPRISE - BRIDGE (OPTICAL),ENTERPRISE - BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+277,HOBSON,   ... all Federation ships proceed   at maximum warp to Gamma Eridon.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+278,DATA,   Acknowledge the signal.       Lay in the course and engage at   warp nine point three.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+279,ENSIGN CRAIG,"   Aye, sir.",61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+280,HOBSON,       What are you doing?,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+281,DATA,"   In disrupting the detection net,   the Romulans may have caused a   residual tachyon signature to form   around their own ships.",61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+282,HOBSON,   But we have no way of detecting   it.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+283,DATA,       All stop.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+284,ENSIGN CRAIG,"   Aye, sir. All stop.",61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+285,HOBSON,       What? The fleet's been ordered   to Gamma Eridon.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+286,DATA,"   The tachyon signatures will not   last long. By the time the fleet   is redeployed, it will be too   late. Begin to reconfigure   sensors to detect ionized particle   traces.",61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+287,HOBSON,   This entire area's been flooded   with tachyon particles. We'll   never be able to find what you're   looking for.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+288,DATA,   I am aware of the difficulties.       Please bring the phasers back   on-line.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+289,HOBSON,   That will flood three decks with   radiation!,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+290,DATA,   We will initiate radiation   protocol when necessary.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+291,HOBSON,   You don't give a damn about the   people whose lives you're about   to throw away. We're not just   machines that you can---,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+292,DATA,       Mister Hobson!       You will carry out my orders or   I will relieve you of duty.,61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+293,HOBSON,"   Yes, sir.",61   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+294,O'BRIEN,   Sir... the Sutherland isn't   heading for the rendezvous point.   She's come to a full stop.,65   INT. ENTERPRISE BRIDGE,ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+295,PICARD,   Hail the Sutherland.,65   INT. ENTERPRISE BRIDGE,ENTERPRISE BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+296,HOBSON,   The Enterprise wants to know the   reason we've stopped.,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+297,DATA,   Display sensor schematic.,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+298,DATA,"   Begin sensor sweep, maximum range.",66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+299,HOBSON,   Are you going to answer the   Enterprise?,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+300,DATA,"   Computer, overlay display with   tachyon emissions.",66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+301,DATA,       Highlight any tachyon signatures   which show subspace inertial   displacement.,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+302,DATA,   Concentrate a sensor sweep in that   area.,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+303,HOBSON,       Sir. This is pointless. Those   readings could be anything.   There's no way for us to prove   the Romulans are out there.,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+304,DATA,   Reconfigure the photon torpedo   warhead yields. Set for a high-   energy burst at level six.,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+305,HOBSON,   At level six? But that won't   even---,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+306,DATA,   Do it.,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+307,HOBSON,   Torpedoes ready.    (sees something else     on console)   Another message coming in... it's   Captain Picard!,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+308,PICARD,"   Mister Data, you were ordered to   rendezvous with the fleet at   Gamma Eridon. Acknowledge.",66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+309,DATA,"   Stand by, Captain.       Mister Hobson, prepare to fire.",66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+310,HOBSON,   Didn't you hear that? Picard   wants us---,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+311,DATA,   Fire.,66   INT. SUTHERLAND BRIDGE,SUTHERLAND BRIDGE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+312,MOVAR,   They have discovered us!,69   INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+313,SELA,   Reverse course. Order the fleet   back to Romulan territory.,69   INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+314,MOVAR,"       Commander! The Duras need this   convoy. Without these supplies,   they cannot win!",69   INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+315,SELA,       We've been exposed. It's over.,69   INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+316,MOVAR,   But what should I tell Lursa and   B'Etor?,69   INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+317,SELA,   Tell them... they're on their own.,69   INT. ROMULAN WARBIRD - COMMAND CENTER (OPTICAL),ROMULAN WARBIRD - COMMAND CENTER,INT.,"""Redemption II""",1991-07-01,The Next Generation
+318,HOBSON,   They're changing course...   heading back to Romulan space.,70   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+319,DATA,   The reconfigured particles from   the photon torpedoes illuminated   the tachyon signatures   surrounding the Romulan ships...,70   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+320,DATA,   Make a full report to the   flagship. Take the main phasers   off-line and begin radiation   clean-up on the affected decks.,70   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+321,HOBSON,"   Yes, sir...       ...Captain.",70   INT. SUTHERLAND - BRIDGE,SUTHERLAND,INT.,"""Redemption II""",1991-07-01,The Next Generation
+322,B'ETOR,   Defeat.,72   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+323,TORAL,   How? Where are the Romulans?,72   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+324,LURSA,       They never came.,72   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+325,LURSA,       Kill him.,72   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+326,TORAL,   No!!,72   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+327,KURN,       Toral... next Leader of the   Empire.       Gowron is looking forward to   seeing you again.,72   INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,"""Redemption II""",1991-07-01,The Next Generation
+328,PICARD ,"   Captain's personal log,   supplemental. It is with a   profound sense of relief that I   have ordered the fleet back to   Federation territory following   the news of Gowron's victory.",75   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Redemption II""",1991-07-01,The Next Generation
+329,PICARD ,"       We have arrived at the Klingon   Home World, where I will present   the High Council with a full   report on our encounter with the   Romulans.     ",76   INT. ENTERPRISE - READY ROOM,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+330,PICARD  ,       I am also... anxious to learn of   Worf's fate.,76   INT. ENTERPRISE - READY ROOM,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+331,PICARD,   Come.,76   INT. ENTERPRISE - READY ROOM,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+332,DATA,"   Sir, I wish to submit myself for   disciplinary action       I disobeyed a direct order from   a superior officer. Although   there was a positive outcome as   a result of my actions, I have   learned that... the ends cannot   justify the means.",76   INT. ENTERPRISE - READY ROOM,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+333,PICARD,"   No, they can't.       However... the excuse ""I was only   following orders"" is the epitaph   of too many tragedies in our   history. Starfleet does not want   officers who will blindly follow   orders without analyzing the   situation.       Your actions were appropriate for   the circumstance, and I have noted   that in your record.",76   INT. ENTERPRISE - READY ROOM,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+334,PICARD,   Mister Data...,76   INT. ENTERPRISE - READY ROOM,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+335,PICARD,       Nicely done.,76   INT. ENTERPRISE - READY ROOM,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+336,DATA,"   Thank you, sir.",76   INT. ENTERPRISE - READY ROOM,ENTERPRISE,INT.,"""Redemption II""",1991-07-01,The Next Generation
+337,GOWRON,"       The Council appreciates your   report, Captain. The information   on the Romulan supply ships will   prove very useful.       Before you leave, there is one   last matter to attend to.",77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+338,GOWRON,       Bring him!,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+339,KURN,"   Toral, son of Duras... you stand   convicted of treason.",77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+340,TORAL,   The Duras family will one day rule   the Empire!,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+341,GOWRON,       Perhaps... but not today.       Worf...,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+342,GOWRON,"       This child's family wrongly took   your name and your honor from   you...       In return, I give his life... to   you.",77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+343,KURN,       What's wrong? Kill him!,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+344,WORF,   No.,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+345,KURN,       This is our way... the Klingon   way.,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+346,WORF,       I know... but it is not my way.       This boy has done me no harm...   and I will not kill him for the   crimes of his family.,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+347,GOWRON,       Then it falls to Kurn.,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+348,WORF,   No. You gave his life to me...   and I have spared it.,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+349,GOWRON,   As you wish.,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+350,WORF,"   Permission to return to duty, sir?",77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation
+351,PICARD,   Granted.,77   INT. KLINGON GREAT HALL,KLINGON GREAT HALL,INT.,"""Redemption II""",1991-07-01,The Next Generation

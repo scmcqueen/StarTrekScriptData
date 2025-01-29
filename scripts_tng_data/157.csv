@@ -1,0 +1,414 @@
+,character,quote,scene,location,view,episode,date,series
+0,RIKER,   Someone sure stripped this place.,3    INT. FEDERATION OUTPOST (OPTICAL),FEDERATION OUTPOST,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+1,WORF,   The reactor is gone.,3    INT. FEDERATION OUTPOST (OPTICAL),FEDERATION OUTPOST,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+2,RIKER,   That's why no one answered our   hail for two days -- they had   nothing to answer it with.,3    INT. FEDERATION OUTPOST (OPTICAL),FEDERATION OUTPOST,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+3,DATA,"   Life signs five meters straight   ahead, Commander.",3    INT. FEDERATION OUTPOST (OPTICAL),FEDERATION OUTPOST,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+4,RIKER,   Blood?,3    INT. FEDERATION OUTPOST (OPTICAL),FEDERATION OUTPOST,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+5,BEVERLY,"   Yes, but not human. I'll have   to do some analysis on it.",3    INT. FEDERATION OUTPOST (OPTICAL),FEDERATION OUTPOST,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+6,WORF,   It's jammed.,3    INT. FEDERATION OUTPOST (OPTICAL),FEDERATION OUTPOST,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+7,BEVERLY,   The two scientists are suffering   from phaser stuns... I'd guess   several hits each.,6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+8,PICARD,   Several... when one would surely   have sufficed.,6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+9,BEVERLY,"   It'll take us a while to bring   them around, but they'll recover.",6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+10,BEVERLY ,"   We found a sample of blood. It's   a rare iron-copper composite,   unique to one humanoid species:   the Acamarians.",6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+11,PICARD,   Acamarians.       That would suggest... the   Gatherers.,6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+12,DATA,   A likely hypothesis. The nomadic   marauders who refer to themselves   as Gatherers have raided other   outposts in neighboring sectors.,6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+13,RIKER,   But they've never ventured this   far before.,6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+14,PICARD,"   And we cannot permit them to   spread their violent ways further.       Mister Crusher, set course for   the Acamar system.",6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+15,WESLEY,"   Aye, sir.",6    INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+16,PICARD ,"   Captain's log, Stardate 43562.9.   In an effort to put an end to the   Gatherer raids, we have come to   the Acamar System to enlist the   aid of Marouk, the sovereign of   Acamar Three.",7    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+17,PICARD,   Their raids have made this sector   unsafe. Our research facilities   have been ransacked; trade routes   disrupted...,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+18,MAROUK,"   The Gatherers are elusive; we've   only managed to capture a handful   of them. However, with   Starfleet's help...",8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+19,PICARD,   Hunting them down is not what   I'm proposing.,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+20,MAROUK,"   Reconciliation with the Gatherers   is impossible. It's been tried.   Every time we've offered amnesty,   they've rejected it.",8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+21,TROI,   When was the last attempt made?,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+22,MAROUK,   Eighteen years ago.,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+23,PICARD,       Eighteen years?,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+24,MAROUK,   Yes. We gave up trying.,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+25,RIKER,   Why?,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+26,MAROUK,"   Because the Gatherers aren't   willing to change! For almost   a century, they've been   parasites... moving from star   system to star system, living on   what they could find... or steal.   They're little more than   barbarians.",8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+27,PICARD,   They are still your people.,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+28,MAROUK,"   No. Captain, you have to   understand our history. A hundred   years ago, before the Gatherers   split off from our culture, we   were a savage, violent race.   Clans battled clans... bloody,   vengeful feuds that lasted for   generations.       But we overcame those ways...   broke the cycle of fighting and   revenge. All except the   Gatherers.",8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+29,TROI,"   After a century of wandering,   they may be ready to come home.",8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+30,PICARD,"   Despite all your progress, your   society is still divided. And   it will remain so until the   Gatherers return to Acamar.",8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+31,MAROUK,   The attempt may be futile.,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+32,PICARD,   You have much to gain and little   to lose in making the effort.   The problem affects us all... it   cannot be ignored.,8    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+33,PICARD,"   Sovereign Marouk, how soon will   you be ready to leave Acamar?",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+34,MAROUK,"   I am ready now, Captain. I need   only bring aboard two more   servants...",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+35,RIKER,"   I'll see to that... and to your   accommodations, Sovereign.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+36,MAROUK,   I have reason to believe there   is a Gatherer encampment somewhere   in the Hromi Cluster.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+37,PICARD,   Mister Data?,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+38,DATA,   The Federation has charted but   not explored several Class M   planets in that area. Any of   those planets might well serve   as a base.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+39,PICARD,"   Mister Crusher, set course for   the Hromi Cluster.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+40,WESLEY,"   Aye, sir.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+41,MAROUK,"   A fine ship, Commander.",11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+42,RIKER,   We're very proud of her.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+43,MAROUK ,   Yuta --,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+44,MAROUK,   A light meal in twenty minutes.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+45,YUTA,"   May I be shown to the kitchen,   Commander?",11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+46,RIKER,   You're the chef?,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+47,YUTA,   Yes. I'll prepare all meals for   the sovereign and her servants.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+48,RIKER,   We can provide you with a kitchen   if you wish... but it's not really   necessary. The food dispensers   can synthesize anything you want.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+49,RIKER ,"   I'll show you.       Sovereign, may I offer you a   drink?",11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+50,MAROUK,"   Yes, thank you. Cold water.",11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+51,RIKER,       A glass of water... five degrees.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+52,YUTA,   Please.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+53,RIKER,   You're also the food taster?,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+54,YUTA,   That's part of the cook's duties.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+55,YUTA ,"   I'm sure the sovereign will wish   to sample many of the cuisines   your ship has to offer, but there   are certain Acamarian dishes she   will insist upon.",11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+56,RIKER,   I'll arrange for a technician to   help you program your recipes   into the computer. I'd like to   try some myself. What's your   specialty?,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+57,YUTA,   I have none.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+58,RIKER,   Don't be modest. You can't tell   me you haven't come up with a   few original triumphs...,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+59,YUTA,   There is a spiced parthus dish...,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+60,RIKER,"   ""Parthus?""",11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+61,YUTA,   A green vegetable with fleshy   roots.,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+62,RIKER,   Ah. Parthus... a la Yuta. I   look forward to tasting it.     ,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+63,RIKER ,"    (to Marouk, taking his     leave)   Sovereign...",11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+64,RIKER ,   Chef...,11   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+65,WESLEY,"   Entering standard orbit of Gamma   Hromi Two, sir.",16   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+66,DATA,"   I am detecting life readings on   the surface, sir... and several   small areas of heat and carbon   dioxide emission indicative of   combustion.",16   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+67,WESLEY,"   Campfires, Data.",16   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+68,RIKER,       It's worth a look.,16   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+69,PICARD,   Make it so.,16   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+70,GEORDI,"   Artonian lasers, Tonkian homing   beacons... quite a collection.",17   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+71,DATA,   Noranium alloys. Their salvage   value is low.,17   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+72,RIKER,   Looks like the Gatherers aren't   very discriminating in what they   steal.,17   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+73,WORF,   The spoils of animals without   honor.,17   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+74,WORF ,   Commander.,17   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+75,WORF,   Ambush!,17   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+76,DATA,   Rigellian phaser rifles. Not very   powerful.,17   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+77,RIKER,   Powerful enough...,17   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+78,RIKER,   We want to talk --,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+79,WORF,"   Your words are wasted, Commander.       They understand only this.",23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+80,RIKER,    (convincing himself as     well)   We're here to establish a   dialogue.,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+81,RIKER,   Data... noranium vaporizes at... ?,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+82,DATA,"   Two thousand three hundred   fourteen degrees. Of course,   noranium carbide alloys vaporize   at a slightly higher temperature.",23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+83,GEORDI,   Phaser setting seven ought to do   it...,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+84,RIKER,   Now!,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+85,RIKER ,   Enterprise -- four to beam up!   Energize!,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+86,BRULL,   Cowards.,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+87,WORF,       Your ambushes would be more   successful if you bathed more   often.,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+88,RIKER,   We've brought the sovereign of   Acamar...,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+89,BRULL,       Marouk... here?,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+90,RIKER,       With an offer of amnesty.,23   EXT. GATHERER CAMP - NIGHT (OPTICAL),GATHERER CAMP - NIGHT,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+91,MAROUK ,   Full dispensation will be extended   to all Gatherers who are willing   to return to Acamar Three.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+92,BRULL,   You don't trust me.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+93,MAROUK,   Should I?,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+94,BRULL,"   Oh, but you expect me to trust   you. Perhaps you just poisoned   it yourself.",30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+95,BRULL,   Taste it.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+96,MAROUK,   Barbarians... this is futile...,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+97,PICARD,   Sovereign...,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+98,BRULL,"       Go home, old woman...",30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+99,PICARD,   Brull...,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+100,MAROUK,   You people haven't changed in a   hundred years.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+101,BRULL,   You were there. You should know.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+102,PICARD,   Sit down.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+103,PICARD,   We are here to talk.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+104,MAROUK,"   It is a waste of time, Captain...   they don't care how they live...",30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+105,BRULL,   And I am supposed to believe that   you do care how we live?,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+106,MAROUK,   Yes.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+107,PICARD,"   She is here, isn't she, Brull?",30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+108,BRULL,   Perhaps you forced her...,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+109,MAROUK,"   Nobody forces me anywhere,   Brull... nobody.",30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+110,BRULL,       What is there for us on Acamar   Three?,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+111,MAROUK,"   A life. A home. You can end your   wandering, your miserable   existence...",30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+112,BRULL,   Do I look miserable?,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+113,MAROUK,"   The clan wars are over, Brull.   It is a past we are ashamed of.   It is why you had to leave.       Now it is time to come home.",30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+114,BRULL,   I want to talk privately with   Picard and Marouk. Everyone else   -- leave.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+115,RIKER,"   Any insights, Counselor?",30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+116,TROI,   Brull's ready to negotiate. He   wants privacy so he won't appear   weak in the presence of the other   Gatherers.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+117,YUTA ,   You are of the clan Lornack.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+118,VOLNOTH,       So?,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+119,VOLNOTH ,   I've seen you before.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+120,YUTA,   Yes.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+121,VOLNOTH,   But it's impossible.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+122,YUTA,   No. Look closer.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+123,YUTA ,   I am Yuta --,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+124,YUTA ,   -- of the clan Tralesta.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+125,YUTA,   I am the last of my line. But   my clan will outlive yours.,30   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+126,BRULL,"       Marouk's offer has value...   still, I'm not sure...",36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+127,PICARD,       But you agree it's worth   presenting to your leader.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+128,BRULL,       Chorgan is a better judge of such   things... I will go to him... you   will hear from me in twenty days.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+129,PICARD,"   Brull, in twenty days, I hope to   be... very far away from here.",36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+130,MAROUK,"   With all due respect, Brull, I   would like to make the offer to   Chorgan myself.",36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+131,PICARD,   We will gladly take you with   us aboard the Enterprise. It will   give you a chance to enjoy   Federation hospitality. How many   of your men do you want to   accompany you?,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+132,BRULL,   I'll come alone. If this is a   trap --,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+133,MAROUK,   It isn't.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+134,BRULL,   Mallon -- you'll take charge while   I'm gone. If I don't return in   ten days --,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+135,TEMAREK ,   Brull!,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+136,RIKER,   Away team to Enterprise. Medical   Emergency.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+137,BRULL,   Volnoth was an old man. There's   nothing to be done.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+138,RIKER,   There's a chance our doctors can   do something...,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+139,BRULL,       You found him?,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+140,TEMAREK,   Yes. And there are no other   members of the Lornack clan   here... so I claim his   possessions.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+141,BRULL,       Granted.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+142,MAROUK,   Have you no respect for the dead?,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+143,BRULL,   What's there to respect about a   corpse?,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+144,BEVERLY,   He's been dead too long.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+145,RIKER,   How?,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+146,BEVERLY,   Cardiac arrest...,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+147,RIKER,   You don't sound convinced.,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+148,BEVERLY,"   No, it was a heart attack, all   right. But I can't figure out   what caused it. Cardiac muscle   is strong... no sign of arterial   occlusion...",36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+149,PICARD,"   Is there anything you need to   bring with you, Brull?",36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+150,BRULL,   Like what?,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+151,PICARD,"   Anything... a change of clothes,   perhaps...",36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+152,BRULL,"   No, I just changed into these...   recently.",36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+153,PICARD,   Very well then...       Picard to Enterprise... two...,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+154,BRULL,   My quarters are to be just as big   as hers...,36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+155,PICARD,"    (acknowledges,     naturally)   Two to beam up...",36   EXT. GATHERER CAMP - NIGHT,GATHERER CAMP,EXT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+156,PICARD,   Brull -- show Mister Crusher the   course to plot.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+157,BRULL,   A child?,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+158,PICARD,"       That ""child"" is one of the finest   ensigns under my command. He also   happens to pilot this ship.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+159,BRULL,"   That does not inspire my   confidence. But if you want me   to show him, I'll show him.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+160,WESLEY,   This is our present position.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+161,BRULL,   Then set a heading of three-four-   three mark seven-two.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+162,WESLEY,   That'll take us through the center   of an asteroid belt.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+163,BRULL,   What's the matter -- can't you   fly your way around a couple of   rocks?,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+164,WESLEY,       Sure I can. But if we take this   heading...         ,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+165,WESLEY ,"   ... we avoid the belt entirely,   and we only lose twelve point one   minutes at warp seven.",39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+166,BRULL,   Have it your way.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+167,MAROUK,"   For centuries, my planet was in   chaos. Loyalty to one's clan was   absolute, and the slightest injury   to one member demanded violent   retaliation.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+168,PICARD,   And these blood feuds could last   for decades?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+169,MAROUK,"       The obsession for vengeance would   be passed on from generation to   generation. And with each act   of retribution, the violence would   escalate...",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+170,PICARD,"   It's not unlike the history of   my own planet, Marouk.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+171,YUTA,"   Your pardon, Sovereign; may I be   excused briefly? Commander Riker   requested I prepare him an   Acamarian dish.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+172,MAROUK,"   Of course, Yuta.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+173,BRULL,   What are you doing?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+174,WESLEY,   My studies.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+175,BRULL,   What is this?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+176,WESLEY,   Math.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+177,BRULL,   I can see that. What's it mean?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+178,WESLEY,   It's the locally Euclidean   metrization of a k-fold   contravariant Riemannian tensor   field.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+179,BRULL,   You good at it?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+180,BRULL ,   You don't like me.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+181,WESLEY,   I didn't say --,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+182,BRULL,       That's no problem. I have many   friends that don't like me.       What do you know about me?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+183,WESLEY,   You're a thief.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+184,BRULL,   I do it to survive -- not because   I enjoy it.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+185,BRULL ,   And we Gatherers value freedom.   We do as we want and answer to   no creature.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+186,WESLEY,       But you're helping Sovereign   Marouk to change all that...,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+187,BRULL,"   Maybe I just want something   better... for me, and for my   children.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+188,WESLEY,   You have children?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+189,BRULL,       Two sons. One's almost your age.       He's not so good at math.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+190,RIKER,   Parthus a la Yuta?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+191,YUTA,   With the help of one of your food   stations.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+192,TROI,   It's wonderful.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+193,RIKER,   Truly excellent.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+194,YUTA,   Thank you.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+195,RIKER,   Will you join us?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+196,YUTA,   I don't want to intrude...,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+197,TROI,   Not at all; I was just about to   leave. Please -- sit down.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+198,RIKER,   It really is delicious.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+199,YUTA,"   I am glad it pleases you,   Commander.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+200,RIKER,   I'm not your commander. My name   is William.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+201,YUTA,   I will call you William if you   prefer.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+202,RIKER,"   I do. You say ""Commander"" to me   the same way you say ""Sovereign""   to Marouk.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+203,YUTA,       As a servant.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+204,YUTA ,"   You're an excellent commander,   but you'd make a poor sovereign.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+205,RIKER,   Why's that? Not that I   disagree...,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+206,YUTA,   You're not comfortable with   servants.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+207,RIKER,   No. I prefer the company of   equals.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+208,YUTA,   So you treat me as an equal.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+209,RIKER,   And you're not comfortable with   that?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+210,YUTA,   I'm not used to it. I've always   been a servant. I'm not   complaining -- the sovereign   treats me well. I have all that   I could want.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+211,RIKER,   What about freedom?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+212,YUTA,   I can never have that.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+213,RIKER,   You're the property of the   sovereign?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+214,YUTA,   No. I'm not her slave. I can   leave whenever I wish.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+215,RIKER,       But you have no place to go?,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+216,YUTA,   Just the opposite. My path is   all too clear.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+217,RIKER,"   Yuta, you're an excellent cook,   but you talk in riddles.",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+218,YUTA,   I've never been very good at   conversation.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+219,YUTA ,   I think the sovereign wants me   to return. Enjoy the Parthus.,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+220,BEVERLY,"   Sickbay to Commander Riker. I've   discovered something interesting,   Will...",42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+221,RIKER,   I'll be right there...,42   INT. TEN-FORWARD (OPTICAL),TEN-FORWARD,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+222,RIKER,"   Doctor, you're scowling.",44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+223,BEVERLY,   I'm thinking.,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+224,RIKER,   And?,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+225,BEVERLY,   The old Gatherer on the planet?   I've found what caused his heart   attack.,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+226,BEVERLY ,"   The medical tricorder almost   missed it, but there was a   microvirus in his body... it   attached to parasympathetic   nerves and acted as a   cholinesterase inhibitor, blocking   autonomic nerve impulses.",44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+227,RIKER,   And that stopped his heart?,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+228,BEVERLY,       But here's the interesting part.   The microvirus will only attach   to cells which contain a very   specific DNA sequence.,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+229,RIKER,   How specific?,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+230,BEVERLY,"   Without knowing more about their   genetic makeup, I can't be sure...   but my guess is, this virus would   only kill one Acamarian in a   million.",44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+231,RIKER,   That's an awfully single-minded   bug.,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+232,BEVERLY,   Too single-minded. I can't   believe it's a naturally occurring   virus.,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+233,RIKER,   Meaning somebody engineered it...,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+234,BEVERLY,   Meaning Volnoth was murdered.,44A  INT. SICKBAY,SICKBAY,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+235,DATA,"   Sir, Acamar Three has agreed to   your request for access to its   databases. They are now   transmitting them to our computer   over subspace link.",47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+236,RIKER,   Good. Notify Doctor Crusher when   Acamar's medical database is   online. Riker out.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+237,RIKER ,   Come in.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+238,YUTA,   I'm disturbing you.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+239,RIKER,   Not at all.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+240,YUTA,"   As the sovereign has no further   need of my services this evening,   she suggested I might spend some   time with you.",47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+241,RIKER,   What a charming suggestion...,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+242,YUTA,   She appreciates the... affection   ... you have shown me.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+243,RIKER,   Was it so obvious...,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+244,YUTA,       Yes.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+245,RIKER,"       Well, I've already dined... but,   maybe you know a good Acamarian   dessert recipe.",47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+246,YUTA,   Does that please you?,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+247,YUTA,"   Tell me what you want, William.   I will do anything you wish...",47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+248,RIKER,"   You've got the night off,   remember?",47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+249,YUTA,   I don't understand.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+250,YUTA,   You don't want me to give you   pleasure?,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+251,RIKER,       Not as a servant. I told you...   I prefer equals.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+252,YUTA,   Even in matters of love?,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+253,RIKER,   Especially in matters of love.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+254,YUTA,       I've offended you.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+255,RIKER,   No.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+256,RIKER,   I only want to make you as happy   as you want to make me. You're   entitled to that...,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+257,YUTA,   No. I'm not.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+258,RIKER,       Yuta...,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+259,YUTA,   I do not feel pleasure. Or   passion. I haven't been able   to... for a long time.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+260,RIKER,   I don't know who did this to you   or why... but it can change.,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+261,YUTA,       I wish it could. Tonight most   of all.       I'm sorry...,47A  INT. RIKER'S QUARTERS (FORMERLY SCENE 52),RIKER'S QUARTERS,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+262,PICARD,   Your people have provided a warm   welcome.,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+263,BRULL,   That's Chorgan's ship.,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+264,WORF,   Shields holding.,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+265,PICARD,    (indicating Worf's     station)   Worf -- contact Chorgan and tell   him Brull has brought us here to   talk.,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+266,WORF,   Chorgan's not responding.,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+267,PICARD,"   Mister Worf, can we knock out   their shields without seriously   damaging their ship?",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+268,WORF,"   I believe we can, sir.",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+269,PICARD,   Prepare phasers and open   channel...,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+270,WORF,"   Phasers locked. Channel open,   Captain.",48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+271,PICARD,   This is Jean-Luc Picard...,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+272,PICARD,       Let's focus their attention.       Fire.,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+273,WORF,   Their forward shields are   inoperative.,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+274,PICARD,"   Well done, Lieutenant.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+275,WORF,"   They're hailing us, sir.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+276,PICARD,   That's better.       On screen.,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+277,CHORGAN,   Brull -- you traitor! You led   them here to destroy me --,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+278,PICARD,"   Chorgan, if I had wanted you   destroyed, you wouldn't be talking   now.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+279,PICARD ,"   Obviously, I want something else.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+280,CHORGAN,   And what is that?,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+281,PICARD,   I have on board Sovereign Marouk   of Acamar Three. I want you to   hear what she and Brull have to   say.,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+282,BRULL,"   It's worth listening to her,   Chorgan.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+283,CHORGAN,   I don't wish to hear either of   you.,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+284,PICARD,       You have no choice. Prepare to   receive us -- we're coming aboard   your ship. Picard out.,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+285,PICARD ,   Cancel Red Alert. Have Sovereign   Marouk meet me in Transporter   Three.,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+286,WORF,"   Aye, sir.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+287,RIKER,"   You're going alone, Captain?",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+288,PICARD,"   The danger is minimal, Number One.   Chorgan's not likely to do   anything rash while the   Enterprise's phasers are trained   upon his ship.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+289,RIKER,   It's still a risk.,48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+290,PICARD,"   For these negotiations to succeed,   I must be a mediator -- not an   enforcer.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+291,PICARD ,"   You have the bridge, Number One.",48B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+292,PICARD,   Chorgan. May I introduce   Sovereign Marouk.,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+293,CHORGAN,   You may sit.,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+294,PICARD,       I think you will find Marouk's   proposal --,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+295,CHORGAN,"   You know, Picard -- I could take   you prisoner.",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+296,CHORGAN,"   Don't worry, I've no intention   of doing so. You've gone to a   lot of trouble to get here -- I'm   curious why.",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+297,PICARD,   Then let's proceed.,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+298,MAROUK,"   Quite simply, I propose amnesty   for every Gatherer...",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+299,CHORGAN,   Amnesty. You mean slavery.,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+300,BRULL,"   Chorgan, if you want to know what   I think...",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+301,CHORGAN,       I don't.       Say what you came to say. But   I tell you right now I doubt that   I'll believe it.,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+302,MAROUK,"       I didn't believe this very   persuasive Federation captain   when he suggested that we could   reconcile our differences. But   I am convinced now it is the right   thing not just for you, but for   us too. We need you back.",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+303,MAROUK,   I've brought some Acamarian   brandy... I'm sure it's been a   long time...,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+304,CHORGAN,   You have spent a century hunting   us down --,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+305,PICARD,   She's trying to put an end to   that.,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+306,CHORGAN,   By luring us back and putting us   in prisons.,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+307,MAROUK,   No -- by accepting you back as   free men.,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+308,CHORGAN,"       And will you feed and clothe us,   too?",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+309,MAROUK,"       No, of course I won't!       What I will do is give you the   means to feed and clothe   yourselves. We've already set   aside land you can...",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+310,CHORGAN,   Do we look like farmers to you?,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+311,MAROUK,"   Then don't farm. Use the land   as you wish. It is yours. And   the moment you set foot on it,   you'll be better off than you are   today. You won't be running any   longer...",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+312,CHORGAN,       We would need autonomy...,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+313,MAROUK,   Autonomy...,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+314,PICARD,"   Let us acknowledge, Sovereign,   that Chorgan appears willing to   discuss your offer...",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+315,MAROUK ,"   There are many levels of autonomy,   certainly your region would have   home rights...",53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+316,CHORGAN ,   Those rights will be spelled out   before I agree to anything...,53   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+317,DATA,"   Commander, I'm afraid the only   entry on Volnoth in the Acamarian   database is a birth record.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+318,RIKER,       Probably one of the last of the   Gatherers to be born on their   planet.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+319,BEVERLY,   I've been digging through the   medical database from Acamar Three   for hours and I've found another   victim of the microvirus that   killed Volnoth. But just one.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+320,BEVERLY,   Fifty-three years ago. A Gatherer   named Penthor-Mul.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+321,RIKER,   Data -- got anything in your files   on this Penthor-Mul?,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+322,DATA,"   Yes. He was captured while   leading a Gatherer raid on an   Acamarian outpost. He died of   a heart attack before his trial   ended.       Commander, he was a member of the   Lornack Clan.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+323,RIKER,       Display Volnoth's birth record   again.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+324,BEVERLY,       Lornack... the same clan....,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+325,RIKER,"   The only two recorded deaths from   this microvirus... members of   the same clan... what does that   tell us, Doctor?",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+326,BEVERLY,"   If these microbes were engineered   for murder, I'd say somebody's   going after the whole family.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+327,DATA,"       Commander, Chorgan, the present   leader of the Gatherers, is also   from the Lornack clan.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+328,RIKER,       I want to know just how this clan   was involved in the Acamarian   blood feuds... any clues to their   enemies you can find...       How could this virus be   transmitted?,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+329,BEVERLY,   More ways than I can count. And   it's perfectly safe to the   carrier... as long as he doesn't   have the same DNA patterns.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+330,RIKER,   Tailor made for their victims...,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+331,DATA,"   Sir, eighty years ago, the   Lornacks massacred a rival clan,   the Tralestas. It ended a feud   that had lasted for two hundred   years.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+332,RIKER,   Ended it?,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+333,DATA,"   According to these records, there   were no survivors. The Tralesta   clan was annihilated.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+334,BEVERLY,   Something tells me they may not   have all been wiped out.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+335,RIKER,   There's got to be a missing link   here...,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+336,BEVERLY,"   Computer, any members of the   Acamarian delegation in the   Tralesta clan?",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+337,COMPUTER,   Clan affiliation is not within   provided records.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+338,DATA,"   Commander, I believe I have found   a correlation between the two   deaths... your ""missing link"" ...",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+339,DATA ,   That is Penthor-Mul being led   from his trial.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+340,RIKER,   I don't see the connection...,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+341,DATA,"   Behind him to the left, sir...",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+342,RIKER,"   Computer, scan left and magnify.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+343,DATA,"   The computer can extrapolate and   reconstruct the rest of the face,   sir.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+344,RIKER,       Do it.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+345,BEVERLY,   But the photograph was taken over   fifty years ago.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+346,RIKER,   Fifty-three years... and she   hasn't aged a day.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+347,MAROUK,   Three seats on the ruling council?,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+348,CHORGAN,"   If we're going to be subject to   your laws, we want a part in   making them.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+349,MAROUK,   I agree you're entitled to   representation... but not on the   ruling council.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+350,CHORGAN,   Unacceptable. The real power is   in the council. You're trying   to shut us out already --,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+351,MAROUK,   No -- you're trying to take too   much! No group has three seats   on the council.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+352,CHORGAN,       I don't care what others have --,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+353,MAROUK,       Yes -- you only care about what   you can take.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+354,PICARD,"   Sovereign -- were the situation   reversed, you would be demanding   the same levels of representation.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+355,MAROUK,"   You're right, Captain.       I apologize for my temper.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+356,PICARD,   Perhaps a short pause would be   helpful.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+357,CHORGAN,   I agree.    (gruffly trying to make     amends)   Maybe a taste of that brandy...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+358,MAROUK,   Excellent thought. Yuta...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+359,PICARD ,   It's quite remarkable how much   alike the two of you actually   are...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+360,PICARD ,   I'm being quite honest... both   able negotiators... strong   leaders.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+361,BRULL,   We don't obey weak leaders.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+362,CHORGAN,   We have nothing at all in   common... we have agreed to   nothing...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+363,PICARD,"   Wrong, Chorgan... we've agreed to   have some brandy together.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+364,CHORGAN,   Treachery! A Federation trap --,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+365,RIKER,   Don't move!,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+366,PICARD,"   Chorgan, I assure you Commander   Riker has a good reason for his   actions...       ... you do, Number One?",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+367,RIKER,   Yuta. Move away from Chorgan.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+368,RIKER ,   Do it.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+369,YUTA,   Why?,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+370,RIKER,   Because of a man you once knew...   Penthor-Mul.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+371,CHORGAN,   Penthar-Mul? How do you know   Penthar-Mul?,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+372,RIKER,   He was murdered fifty years ago...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+373,CHORGAN,   Murdered... ? That's not so...   he died of...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+374,RIKER,   He was killed just as Volnoth   was... by a deadly virus designed   to attack your clan...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+375,CHORGAN,   What do you mean? Designed by   whom... ?,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+376,RIKER,"   Tell him, Yuta...",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+377,YUTA,   I don't understand.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+378,RIKER,   You were with Penthor-Mul when   he died...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+379,YUTA,   If it was fifty years ago... how   could I...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+380,RIKER,"   I know, Yuta...",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+381,RIKER,   Stop! Chorgan -- keep perfectly   still. Your life is in danger.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+382,RIKER ,   Yuta -- step back.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+383,YUTA,"   William, this is not your concern.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+384,RIKER,   It is now. You're about to commit   murder.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+385,YUTA,       It isn't murder. It's justice.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+386,CHORGAN,   Who are you?,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+387,YUTA,   Yuta... of the clan Tralesta.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+388,CHORGAN,   There are no more Tralestas.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+389,YUTA,"   Five survived the last Lornack   raid... but on that day a century   ago, my life ended and my search   began. I was the one chosen...   transformed... my cells were   altered... my aging slowed...   enough to finish my task.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+390,RIKER,   Murdering innocent people -- is   that your task?,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+391,YUTA,   He's not innocent. He's a   Lornack.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+392,MAROUK,   You used me in order to get to   the last few you couldn't reach.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+393,YUTA,"   Yes, Sovereign.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+394,CHORGAN,"   You'll never leave this ship.   If I don't kill you myself, my   men will.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+395,YUTA,"   You are the last. Once you're   dead, what happens to me doesn't   matter.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+396,RIKER,   Yuta... the wars are over.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+397,YUTA,   You cannot understand...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+398,RIKER,"   No, I can't. You're right.   Because I've seen the part of you   that regrets what you have   become... Yuta, listen to me...   you don't have to do this any   more.",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+399,YUTA,   I have no choice.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+400,RIKER,   You do...,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+401,YUTA,   William... I --,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+402,YUTA ,   I'm... sorry.,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+403,RIKER,   Don't --,65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+404,CHORGAN,"   Commander, I'm in your debt...",65   INT. GATHERER SHIP,GATHERER SHIP,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+405,PICARD,   New orders from Starfleet.,74   INT. TEN-FORWARD,TE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+406,PICARD,   The rendezvous with the Goddard   has been postponed.,74   INT. TEN-FORWARD,TE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+407,RIKER,   And in the meantime?,74   INT. TEN-FORWARD,TE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+408,PICARD,   Starbase three four three. We're   to take on medical supplies for   the Alpha Leonis system.,74   INT. TEN-FORWARD,TE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+409,RIKER,   Sounds pretty routine.,74   INT. TEN-FORWARD,TE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+410,PICARD,"   With the Gatherer truce in effect,   it should be.       We won't require a full ship's   complement. I'm going to extend   shore leave on the starbase to   anyone who wants it.",74   INT. TEN-FORWARD,TE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+411,RIKER,"   I'll pass that along to the crew,   Captain.",74   INT. TEN-FORWARD,TE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation
+412,RIKER,   Parthus. A la Yuta.,74   INT. TEN-FORWARD,TE,INT.,"""The Vengeance Factor""",1989-09-29,The Next Generation

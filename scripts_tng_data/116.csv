@@ -1,0 +1,476 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's log, stardate 41365.9.   The Enterprise has been ordered   to Starbase 74, in orbit around   Tarsas III.",1    EXT. SPACE - STARBASE AND ENTERPRISE (OPTICAL),SPACE - STARBASE AND ENTERPRISE,EXT.,"""11001001""",1987-11-19,The Next Generation
+1,PICARD ,"       ... where a routine maintenance   check of all systems will be made,   and certain upgrades completed,   including the Holodeck, with which   we have had problems. I anticipate   a glowing report. This ship has   performed magnificently -- beyond   anyone's expectations.",2    EXT. SPACE - ANOTHER ANGLE (OPTICAL),SPACE - ANOTHER ANGLE,EXT.,"""11001001""",1987-11-19,The Next Generation
+2,GEORDI,   Coming into position.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+3,RIKER,   Stand by to dock.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+4,DATA,   Ready to dock.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+5,RIKER ,   Engage mooring beams and lock   off.,4    INT. STARBASE (OPTICAL),STARBASE,INT.,"""11001001""",1987-11-19,The Next Generation
+6,GEORDI ,   Aye sir.,4    INT. STARBASE (OPTICAL),STARBASE,INT.,"""11001001""",1987-11-19,The Next Generation
+7,GEORDI,   Docking complete.,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+8,PICARD,"   Thank you, Number One. Well   done, and well done all.",6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+9,QUINTEROS,   Commander Quinteros; request   permission to come aboard.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+10,PICARD,   Granted -- and welcome.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+11,PICARD,       This is Commander Riker.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+12,QUINTEROS,   You're late. We expected you a   week ago.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+13,RIKER,   We were unexpectedly delayed at   Omicron Pascal.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+14,QUINTEROS,"   Is there anything specific you   wish to report, or that we should   be aware of?",8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+15,PICARD,   No. We are very pleased with the   operation of the Enterprise.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+16,QUINTEROS,   I knew you would be - I was in   charge of the team which put her   together.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+17,RIKER,   And are these gentlemen the   Bynars?,8    INT. AIR-LOCK CORRIDOR,AI,INT.,"""11001001""",1987-11-19,The Next Generation
+18,QUINTEROS,"   They're not gentlemen or ladies,   Commander.       They are a unified pair. Always   together. This is One Zero.",8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+19,QUINTEROS,       And this is Zero One.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+20,QUINTEROS,       They just finished upgrading the   computers on the Wellington -- did   a great job.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+21,PICARD,       Your reputation precedes you.   I am pleased you will be improving   our system.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+22,BYNAR ONE ZERO,   It is a great pleasure...,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+23,BYNAR ZERO ONE,   ... to work on such a large mobile   computer.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+24,PICARD,"   You have forty-eight hours,   because at forty-eight plus six   we have an appointment at Pelleus   Five which we must keep.",8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+25,ZERO ONE,   I thought we'd...,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+26,ONE ZERO,   ... have more time.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+27,PICARD,   I'm sorry. Our mission can't be   delayed. Can we postpone this   work?,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+28,ZERO ONE,"   Oh, no. This is...",8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+29,ONE ZERO,   ... the best time...,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+30,ZERO ONE,   ... to do it.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+31,ONE ZERO,   We can complete...,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+32,ZERO ONE,   ... our work within the...,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+33,ONE ZERO,   ... time allotted.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+34,QUINTEROS,"   They work very quickly, but it'll   be tight.",8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+35,PICARD,"   Commander Riker and I will stay   aboard, and be available should   you need us.",8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+36,QUINTEROS,"   Thank you, Captain. I don't think   we'll need you until we're ready   for inspection.",8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+37,RIKER,   The Bynars are perfect for this.   This is the first time I've come   in contact with them.,9    INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+38,PICARD,"   As I understand it, over time   they've become so interconnected   with the master computer on their   planet that their language and   thought patterns have become as   near to binary as possible for   organic beings.",9    INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+39,RIKER,   It will be interesting to see how   they improve a computer as   advanced as ours.,9    INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+40,PICARD,"   Well, I'm going to put my feet   up, turn on my personal relaxation   light and lose myself in the pages   of some old novels.",9    INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+41,PICARD,"   Bridge.       And you, Number One? You've   earned a good rest. What are you   going to do with it?",10   INT. TURBOLIFT,TURBOLIFT,INT.,"""11001001""",1987-11-19,The Next Generation
+42,RIKER,"   I've never been good at organizing   my time off, but something will   come up -- it always does.",10   INT. TURBOLIFT,TURBOLIFT,INT.,"""11001001""",1987-11-19,The Next Generation
+43,PICARD,   I'll be in my Ready Room.,10   INT. TURBOLIFT,TURBOLIFT,INT.,"""11001001""",1987-11-19,The Next Generation
+44,RIKER,   I thought there were only going   to be two of you.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+45,ONE ZERO,   Because of the limited time   allotted...,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+46,ZERO ONE,"   ... us, we need others...",11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+47,RIKER,    (picking up on their     agitation)   Is there a problem?,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+48,ZERO ONE,   Ah... No...,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+49,ONE ZERO,   ...no. No problem.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+50,RIKER,   Then why are you all so excited?,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+51,ZERO ONE,   Because we... ah... have to...,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+52,ONE ZERO,"   ... the ah, stacking...",11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+53,ZERO ONE,   ... to reconfigure the computer...,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+54,ONE ZERO,   ... to communicate with itself...,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+55,ZERO ONE,   ... more efficiently...,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+56,ONE ZERO,   ... and at higher speeds.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+57,WESLEY,   You act like you don't believe   them.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+58,RIKER,   I'm not sure. It's probably   nothing.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+59,WESLEY,   Maybe it's just how a different   species behaves.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+60,RIKER,   Maybe. I'm going to stroll the   ship. You have the bridge. Keep   an eye on them.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+61,WESLEY,   Aye sir.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+62,TASHA,   We've been challenged to a   friendly game of Parrises Squares   by some of the maintenance   personnel -- want to join us on   the starbase?,12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+63,RIKER,   You've already got all the players   you need.,12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+64,TASHA,   We can switch off.,12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+65,RIKER,   No... if you do that in Parrises   Squares you lose the rhythm of   the game.,12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+66,TASHA,   I can't talk you into coming with   us?,12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+67,RIKER,"   No. But win, all right? The   pride of the Enterprise goes with   you.",12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+68,WORF,"   Rest assured, Commander, we will   be victorious, at whatever the   cost.",12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+69,RIKER,"       Worf -- it's just a game. You   know, a little friendly   competition -- work up a sweat,   have some laughs, make new   friends.",12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+70,WORF,"    (with a gleam in his     eye)   If winning is not important...   then, Commander, why keep score?",12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+71,TASHA,"   I think he's pulling your leg.   Believe it or not, Worf's   developing a sense of humor.",12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+72,RIKER,   Let's hope so for their sake.,12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+73,RIKER,   Computer -- There's a power   reduction in section L-Ninety   Four. Explain.,12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+74,COMPUTER,   Unoccupied sections are being   closed down in order to clear   space in the main computer banks.   It's necessary to facilitate the   system upgrade. Full power can   be restored if needed.,12   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+75,GEORDI ,   What do you think?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+76,RIKER ,"   First tell me what it's supposed   to be, then I'll give you an   opinion.",15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+77,DATA,   It is an attempt at pure   creativity.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+78,GEORDI,"   What we're investigating is, ""Can   Data be creative?""",15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+79,DATA,   This is my attempt... with   guidance from Geordi.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+80,GEORDI,   I suggested the Zylo eggs.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+81,RIKER,   Is that what those are?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+82,RIKER,       Keep notes. This project might   turn out to be of interest to   future scholars.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+83,GEORDI,   Really?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+84,RIKER,   Think about it. A blind man   teaching an android to paint?   That's got to be worth a couple   of pages in someone's book.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+85,RIKER,   You look like you're packing up   and leaving forever.,15A  INT. SICKBAY AND CORRIDOR,SICKBAY AND CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+86,BEVERLY,       Oh -- Commander Riker. No -- I'm   just getting my notes together.   It's so exciting. Doctor Terence   Epstein is at this Starbase.,15A  INT. SICKBAY AND CORRIDOR,SICKBAY AND CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+87,RIKER,   Is he someone I should know about?,15A  INT. SICKBAY AND CORRIDOR,SICKBAY AND CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+88,BEVERLY,"   He's the leading mind in   cybernetics. He lectured at   my medical school. Since the   disaster at Micromius I've been   working on a theory combining   cybernetics and regeneration. It   sounds impossible I know -- but I   think I have an approach which   could work. What an opportunity!   To have a chance to discuss this   with Doctor Esptein. Sorry, Will,   I'd like to stay here and chat --   but I have to be going.",15A  INT. SICKBAY AND CORRIDOR,SICKBAY AND CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+89,RIKER,   How's it going?,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+90,ZERO ZERO,   We are almost done...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+91,ONE ONE,   ... the deviation...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+92,ZERO ZERO,   ... caused by a previous...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+93,ONE ONE,   ... probe has been corrected...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+94,ZERO ZERO,   ... You may use the equipment...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+95,ONE ONE,   ... anytime you wish.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+96,RIKER,   How much has it been changed?   What exactly did you do?,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+97,ONE ONE,   Enhancement...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+98,ZERO ZERO,   ... nothing more.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+99,ZERO ZERO ,       This could be perfect!,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+100,ONE ONE ,       Let's use him!,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+101,ZERO ZERO,       Would you like to try...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+102,ONE ONE,       ... the enhancement?,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+103,RIKER,       All right. What should I do?,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+104,RIKER,   Computer - I need a place to play   some music - a little atmosphere.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+105,COMPUTER,   Specify.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+106,RIKER,   Jazz.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+107,COMPUTER,   Era?,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+108,RIKER,       Circa 1958.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+109,COMPUTER,   Location.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+110,RIKER,"   Kansas City. No, wait. New   Orleans. Yeah. New Orleans -- the   Low Note. 'Round midnight.",17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+111,COMPUTER,   Program complete. Enter when   ready.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+112,RIKER,   Very good.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+113,RIKER,       Very good indeed.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+114,RIKER,"       Now, computer -- someone to play   with. A combo. Say, drums   upright bass...piano. And a 'bone   for me.",17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+115,RIKER,       Now -- an audience...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+116,RIKER,       Whoa... too many. I was thinking   of something a little more   personal...intimate.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+117,RIKER,"       Great job, boys.",17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+118,RIKER,"       But, computer... blondes and jazz   seldom go together.",17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+119,RIKER,    (continuing; he turns     to the Bynars.)   Now that is truly exceptional...    (then back to the     computer)   ...but... more sultry.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+120,RIKER,"       Gentlemen, if this is what you   call ""enhancement"" you have a gift   for understatement.",17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+121,RIKER,"   What's your name, and tell me you   love jazz.",17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+122,MINUET,   My name is Minuet. I love all   jazz except Dixieland.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+123,RIKER,   Why not Dixieland?,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+124,MINUET,   Because you can't dance to it.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+125,RIKER,   My girl.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+126,RIKER,       What's a knockout like you doing   in a computer-generated joint like   this?,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+127,MINUET,   Waiting for you.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+128,RIKER,   Waiting for me?!! You can't be   serious?,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+129,MINUET,"   Oh yes, Will -- I've never been   more serious in my life.",17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+130,ZERO ZERO ,       It's working. All we need...,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+131,ONE ONE ,       ... is to hold him here for twenty   minutes.,17   INT. CORRIDOR AND HOLODECK DOORS (OPTICAL),CORRIDOR AND HOLODECK DOORS,INT.,"""11001001""",1987-11-19,The Next Generation
+132,WESLEY,   Do you mind if I ask you a   question about the Bynars?,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+133,QUINTEROS,   Why not just ask them?,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+134,WESLEY,   What is that high-speed sound you   make?,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+135,ZERO ONE,   That is our...,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+136,ONE ZERO,   ... primary language.,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+137,WESLEY,   How can humanoids process   information at that speed?,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+138,ZERO ONE,   We store the information...,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+139,ONE ZERO,   ... with these buffers.,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+140,ZERO ONE,   We receive information...,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+141,ONE ZERO,   ... all the time...,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+142,ZERO ONE,   ... and save it...,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+143,ONE ZERO,   ... until we need it.,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+144,WESLEY,   How did you happen to develop this   ability?,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+145,ONE ZERO,   It happened over...,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+146,ZERO ONE,   ... a long period of time.,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+147,WESLEY,   To have a society so interdependent   on computers has   tremendous advantages.,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+148,ONE ZERO,   And a few...,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+149,ZERO ONE,   ...disadvantages.,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+150,PICARD,"   Everything under control, Ensign   Crusher?",29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+151,WESLEY,"   Fine, Captain. I am just trying   to learn something about the   Bynars.",29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+152,PICARD,   Where's Commander Riker?,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+153,WESLEY,"   Holodeck Four. Shall I call him   for you, sir?",29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+154,PICARD,"   No, I'll wander down and see   what's he doing to occupy himself.   Keep me apprised.",29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+155,WESLEY,"   Yes, sir.",29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+156,BASS,"   The chick digs you, man.",30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+157,RIKER,   What makes you say that?,30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+158,BASS,   Hey -- look at her.,30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+159,RIKER,   Maybe it's my music.,30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+160,DRUMMER,"   Yeah, well - about that... Don't   give up your day job.",30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+161,RIKER,   It's all too real.,30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+162,PIANIST,"   Yeah, Slim you got that   straight... too real is too   right.",30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+163,RIKER,   Thanks for letting me sit in.,30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+164,BASS,   Ain't nothin' to it.,30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+165,BASS,       Strange cat...,30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+166,DRUMMER,   I know this. If they're in town   -- we get 'em.,30   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+167,RIKER,   I am going to have to leave you   for a while and see to my duties.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+168,MINUET,   Your work is very important to   you.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+169,RIKER,   It is me -- it's what I am.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+170,MINUET,   Can we dance once before you   leave?,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+171,RIKER,"   Sure, why not.",41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+172,RIKER,   How did you learn to dance so   well?,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+173,MINUET,   From following you.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+174,MINUET,   I can anticipate your lead. Tell   me more about your work -- what   is it about it that consumes and   enthralls you?,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+175,RIKER,   What an interesting choice of   words. That's exactly what it   does.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+176,MINUET,   You are very fortunate.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+177,RIKER,   I know that.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+178,MINUET,   At this point in your life to be   exactly where you want to be...   And it's wonderful that you   realize it.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+179,RIKER,   I'd be a fool not to know how   lucky I am to be on this ship   serving with this group of people.   It's a dream come true.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+180,RIKER,       Just like this.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+181,MINUET,   A dream? Is that what this is?   Is that what I am?,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+182,RIKER,"   I know you are a computer-generated   image... but your smell,   the way you feel, your touch, even   the way you talk and think is so   real.",41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+183,MINUET,   Thank you.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+184,RIKER,"   How far can this relationship go?   I mean, how real are you?",41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+185,MINUET,   As real as you need me to be.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+186,PICARD ,   Astounding.,41   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+187,RIKER,   Captain!,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+188,PICARD,"   Sorry, Number One -- I didn't mean   to interrupt.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+189,RIKER,"   It's all right, come in.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+190,PICARD,   You picked a wonderful locale.   Something I might have chosen   myself.,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+191,MINUET,   Aren't you going to introduce me?,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+192,RIKER,"   Excuse me. Yes, yes, of course   I am. Captain Picard, this is   Minuet... Minuet, this is Captain   Jean-Luc Picard.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+193,MINUET,   Enchante. Comme c'est merveilleux   de vous voir ici.,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+194,PICARD,   Incroyable! Vous etes Parisienne?,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+195,MINUET,"   Au fonde c'est vrai, nous sommes   tous Parisienne.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+196,PICARD,"       Oui, au fonde nous sommes tous   Parisienne. The spirit of that   city can always restore my soul.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+197,MINUET,   I have been hoping to meet you.,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+198,PICARD,       Oh.       Have I been a topic of   conversation?,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+199,MINUET,   Indirectly.,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+200,MINUET,"       Join us, Jean-Luc.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+201,MINUET,       A glass of wine?,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+202,PICARD,   Thank you.,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+203,MINUET,   Will was saying how much he enjoys   this assignment. It's a credit   to you. For a ship and crew to   function well it always starts   with the captain. You set the   tone.,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+204,PICARD,"       At the moment, it's you who are   setting the tone.       The sophistication of this   programming is remarkable.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+205,MINUET,   In what way?,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+206,PICARD,   The Holodeck has been able to give   us woodlands and ski slopes and   figures that fight and fictional   characters with which we can   interact -- but you are quite   different. You adapt. You spoke   French to me.,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+207,MINUET,"   It's very simple. When I heard   your name, I merely accessed the   foreign language bank.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+208,PICARD,   Impressive.,43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+209,MINUET,"   Oui, mon choux.",43   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+210,GEORDI,   Now what are you doing?,43A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+211,DATA,   I am awaiting inspiration.,43A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+212,WESLEY,   Commander Data.,43A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+213,DATA,"   This is Commander Data, go ahead.",43A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""11001001""",1987-11-19,The Next Generation
+214,WESLEY,   I'm getting an indication of   possible trouble in Main   Engineering.,43B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+215,DATA,   Can you be more specific?,43B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+216,WESLEY,   Not very much. I'm reading a   problem with the magnetic field   which contains the antimatter.   Could you come up here?,43B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+217,GEORDI,"   We'll go to Engineering since   that's where the trouble is. Wes,   don't disturb the captain or   Commander Riker until we check   this out.",43B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+218,WESLEY,"   Aye, sir.",43B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+219,GEORDI,"   bridge, this is Main Engineering.",44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+220,WESLEY,   This is the bridge.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+221,GEORDI,   Are you running any test programs?,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+222,WESLEY,   No.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+223,GEORDI,   Are the Bynars?,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+224,WESLEY,   Not to my knowledge. Is something   wrong?,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+225,GEORDI,"   I don't know. There's nobody on   duty here, and we're getting a   strange reading from the magnetic   containment field.",44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+226,DATA,   The field is deteriorating.   Contact the captain immediately.   I am initiating Red Alert.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+227,GEORDI,   I can't maintain the integrity   of the containment field.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+228,DATA,   If the antimatter is released the   ship will be destroyed.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+229,GEORDI,   Nothing I do has any effect. I'm   losing it. I have rechecked every   circuit. This is not a misread   by the computer.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+230,DATA,   Computer -- situation analysis.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+231,COMPUTER,   Estimate release of antimatter   in four minutes eighteen seconds -- seventeen   seconds -- sixteen   seconds...,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+232,DATA,   Bridge -- Engineering.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+233,WESLEY,   Yes. This is the bridge.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+234,DATA,"   Alert starbase. Inform them we   are abandoning the ship. Tell   them why. Initiate the automated   sequence for departure, lay in   a course and speed to put maximum   distance between the Enterprise   and any inhabited planet.",44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+235,WESLEY,   Shouldn't we wait for the   captain's approval?,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+236,DATA,   There is no time. Based on all   the information presently   available the decision is correct.       This is Lieutenant Commander Data   speaking for the captain -- abandon   ship -- this is not a drill.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+237,DATA,   I say again. All personnel   abandon ship. Abandon ship -- this   is not a drill -- this is not a   drill.,45   INT. ENTERPRISE - VARIOUS SHOTS,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+238,COMPUTER,"       Decks One through Four to Cargo   Transporters. Decks Five through   Ten: Transporters: One-Two,   Three-Four. Decks Six through   Sixteen: Transporters: Five-Six,   Seven-Eight, Nine-Ten. Decks   Seventeen through Twenty-eight to   Transporters: Eleven-Twelve,   Thirteen-Fourteen. Decks Twenty-nine   through Forty-two:   Transporters: Fifteen-Sixteen,   Seventeen-Eighteen, Nineteen-Twenty.   This is not a drill.",48   INT. ENTERPRISE CORRIDORS (CONTINUE SERIES OF SHOTS),ENTERPRISE CORRIDORS,INT.,"""11001001""",1987-11-19,The Next Generation
+239,BEVERLY,"   When I reviewed your fifth paper   on molecular biology, I knew I   was on the right track. You   defined the problem as   conductivity -- and that's exactly   what...",49A  INT. STARBASE - CONFERENCE ROOM (NO WINDOWS),STARBASE - CONFERENCE ROOM,INT.,"""11001001""",1987-11-19,The Next Generation
+240,STARBASE COMPUTER ,   Attention all personnel.   Emergency evacuation of USS   Enterprise in progress. Report   to your stations.,49A  INT. STARBASE - CONFERENCE ROOM (NO WINDOWS),STARBASE - CONFERENCE ROOM,INT.,"""11001001""",1987-11-19,The Next Generation
+241,BEVERLY,"   Oh, no! Something's happened   to the Enterprise. That's my   ship!",49A  INT. STARBASE - CONFERENCE ROOM (NO WINDOWS),STARBASE - CONFERENCE ROOM,INT.,"""11001001""",1987-11-19,The Next Generation
+242,AD LIBBED S,   Hurry up! We don't have much   time! The ship'll be leaving in   a minute!,50   INT. ENTERPRISE - TRANSPORTER ROOM,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+243,WORF,   What's going on?,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+244,QUINTEROS,   Please stand out of the way.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+245,BEVERLY,   The Enterprise is being evacuated.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+246,WORF,   Why?,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+247,BEVERLY,   Some problem in Engineering.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+248,TASHA,   Get the security team together.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+249,WORF,"   Aye, Lieutenant.",51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+250,DATA ,   Ship's log. Supplemental. This   is Lieutenant Commander Data.   I have put the ship on automated   departure and ordered the complete   evacuation of the Enterprise.   Everyone remaining is leaving on   foot or beaming off.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+251,DATA,"   Computer, where are the captain   and Commander Riker?",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+252,COMPUTER,   All decks empty.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+253,DATA,   Curious. The captain is   usually the last to leave.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+254,GEORDI,   Let's go! We only have forty-one   seconds.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+255,GEORDI,   I think we're the last.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+256,DATA,   I hope we are the last.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+257,WORF,   Did you see the captain and   Commander Riker?,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+258,DATA,   No. Are they not here on the   Starbase?,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+259,TASHA,   No.,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+260,GEORDI,   Are you saying they are still on   the Enterprise?,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+261,WORF,"   Yes. Sir, where's your   Transporter Room?",53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+262,DATA,   We have to beam back and get them.,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+263,QUINTEROS,   You haven't time!,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+264,STARBASE COM,   This is Starbase 74. The   Enterprise magnetic field is   regenerating.,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+265,GEORDI,   How is that possible?,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+266,STARBASE COM,   Unknown.,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+267,TASHA,"   That changes nothing. The captain   and Commander Riker must be in   trouble, or they'd be here.",53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+268,QUINTEROS,   Look!,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+269,QUINTEROS ,   Your ship's almost clear.,53   INT. STARBASE SPACE STATION COMMAND CENTER (OPTICAL),STARBASE SPACE STATION COMMAND CENTER,INT.,"""11001001""",1987-11-19,The Next Generation
+270,STARBASE COM,   The USS Enterprise has departed   in excess of warp one.,57   INT. STARBASE (OPTICAL),STARBASE,INT.,"""11001001""",1987-11-19,The Next Generation
+271,MINUET,   ... and the boy never found out?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+272,RIKER,"   Oh, yes, but not until later.       When he finally walked in with   his younger sister.",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+273,MINUET,   And I'll bet both of them were   all smiles.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+274,RIKER,   Yes. And we knew right then both   of them had found out.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+275,MINUET,"   You handled it in a very   thoughtful way. You are very good   with people.       Don't you agree, Jean-Luc?",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+276,PICARD,"   She's very different from any   images we've experienced on the   Holodeck, isn't she? More -- you   might say -- intuitive.",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+277,RIKER,   It's as though she was plugged   into my subconscious and can   anticipate what I want her to say   even before I'm aware of it   myself.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+278,PICARD,   I suppose it's an understandable   progression. Computers make   decisions based on inputs and we   humans give off many subtle signs   which communicate our emotions.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+279,RIKER,   It's uncanny. I could develop   feelings for Minuet. A desire   exactly as I would for any woman.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+280,PICARD,   Doesn't love always begin that   way? With the illusion being more   real than the woman?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+281,MINUET,"   Oh, Jean-Luc, spoken like a true   Frenchman.",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+282,PICARD,   I think I'll be leaving.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+283,MINUET,"   Oh, don't go.",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+284,PICARD,   Two's company.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+285,MINUET,   We have time -- there's no rush.   I'd like it very much if you   would stay.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+286,RIKER,"   Yes, stay, Captain.",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+287,PICARD,"   This is your diversion, Number   One. Not mine.",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+288,MINUET,   Wait -- we haven't danced.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+289,PICARD,   I don't dance.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+290,MINUET,   Then some more wine.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+291,PICARD,"   Thank you, no.",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+292,MINUET,   Wait -- please. Please don't go -- you   can't. Not yet.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+293,PICARD,   What?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+294,RIKER,   Why -- Minuet -- what's the matter?   Why can't he leave?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+295,PICARD,       Exit.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+296,PICARD,"       bridge, this is the captain.   Situation report.",60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+297,RIKER,   Riker to bridge.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+298,PICARD,       Computer! Explain Red Alert.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+299,COMPUTER,   Initiated as a programmed   response. The magnetic field   containing the antimatter had   weakened. There was no fail-safe   available.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+300,PICARD,   Why wasn't I notified?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+301,COMPUTER,   Unknown.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+302,PICARD,   Present condition.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+303,COMPUTER,   The magnetic field is now   restored. Containment is   restored. Propulsion is at   maximum efficiency.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+304,PICARD,       Locate Lieutenant Commander Data.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+305,COMPUTER,   Not on board the Enterprise.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+306,PICARD,   Explain.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+307,COMPUTER,   All Enterprise personnel except   the captain and first officer have   been evacuated.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+308,PICARD,   Evacuated!? Was the condition   that critical?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+309,COMPUTER,   Yes.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+310,RIKER,   Are we still docked on the   starbase?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+311,COMPUTER,   No.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+312,PICARD,   Position report.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+313,COMPUTER,   Coordinates four-one-five-nine   point two-six by eight-one-nine-two-one   by three-one-two. Heading   Two-three-three mark four-five.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+314,PICARD,   Destination?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+315,COMPUTER,   Planet Bynaus in the Beta Magellan   system.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+316,RIKER,   The Bynars!,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+317,PICARD,   Am I to understand that the Bynars   have stolen the Enterprise?,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+318,COMPUTER,   That information is not available.,60   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+319,PICARD,       It's the Bynars -- and you're part   of this.,63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+320,MINUET,       Yes.,63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+321,RIKER,   They made you the lure to keep   me here! They programmed you   while I was relaxing.,63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+322,MINUET,"   Yes. When they saw your interest   in me, they thought I could   distract you and keep you here.",63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+323,PICARD,"   That explains, Riker... What about   me?",63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+324,MINUET,   Your being here was just a   fortunate happenstance.,63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+325,RIKER,   Why do they want me?,63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+326,PICARD,   What do they want with the   Enterprise? What's their purpose?,63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+327,MINUET,   I am not programmed to give you   that information.,63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+328,PICARD,"   Come on, Number One. We've got   to regain control of our ship!",63   INT. HOLODECK IV,HOLODECK IV,INT.,"""11001001""",1987-11-19,The Next Generation
+329,GEORDI,   What do we do?,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+330,DATA,   Which is the nearest Starfleet   vessel?,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+331,QUINTEROS,   The Trieste.,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+332,DATA,"   I know the Trieste. Too small,   too slow.",64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+333,QUINTEROS,   Plus it's sixty-six hours away.,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+334,DATA,   Where are the Bynars?,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+335,QUINTEROS,   ... I haven't seen them.,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+336,DATA,   Then they are obviously still   aboard. Another Starfleet vessel   must be sent to intercept the   Enterprise at Bynaus. They might   be taking the ship to their home   planet.,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+337,QUINTEROS,   What makes you think so?,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+338,DATA,   It is the best place for us   to start.,64   INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+339,PICARD ,"   Captain's log, supplemental. We   now know ""who"" has commandeered   the Enterprise... the Bynars.   We can't communicate with the   bridge. Commander Riker and I will   now try to regain control of our   ship.",67   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""11001001""",1987-11-19,The Next Generation
+340,PICARD,   This way.,68   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+341,RIKER,   But that's toward Engineering.,68   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+342,PICARD,"   That's our first stop, to verify   the containment, and initiate   auto-destruct.",68   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+343,RIKER,   Initiate auto-destruct?,68   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+344,PICARD,   The ship has been commandeered   by a force of unknown size and   intent. We're here alone. We   must assume the worst.,68   INT. CORRIDOR,CORRIDOR,INT.,"""11001001""",1987-11-19,The Next Generation
+345,PICARD,"   If we don't regain control, no   one else will have it either.   This is the only decision   involving the operation of this   ship which requires you and I to   agree totally.",69   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+346,RIKER,   It's the allotted time that   concerns me.,69   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+347,PICARD,"   About that, there is no option.",69   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+348,RIKER,   I know. It's a five minute   countdown.,69   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+349,PICARD,"   It's sufficient to get to the   bridge... once there, either   we'll get control of the ship   and shut off the auto-destruct,   or we won't. The important thing   is that this ship does not fall   into hostile hands.",69   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+350,RIKER,   Then let's set it and get going.,69   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""11001001""",1987-11-19,The Next Generation
+351,COMPUTER,"   Recognize Picard, Jean-Luc,   Captain...       Recognize Riker, William T,   Commander.",70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+352,PICARD,   Set auto-destruct sequence.,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+353,COMPUTER,   Does the first officer concur?,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+354,RIKER,   ... Yes. Set auto-destruct   sequence -- now!,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+355,COMPUTER,   Auto-destruct will detonate in   four minutes and fifty-nine   seconds... four minutes and   fifty-eight seconds... four   minutes and fifty-seven   seconds...,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+356,PICARD,   Let's go. The only place we can   stop the count is from the bridge.,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+357,RIKER ,   What do you make of this?,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+358,PICARD,   An enormous amount of data is   being received and stored in the   main computer.,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+359,RIKER,   Just stored. Why?,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+360,PICARD,   It's another piece to this puzzle.,70   INT. ENGINEERING - AT COMPUTER (OPTICAL),ENGINEERING - AT COMPUTER,INT.,"""11001001""",1987-11-19,The Next Generation
+361,COMPUTER ,   Access denied.,74   INT. CORRIDOR NEAR TURBOLIFT NINE,CORRIDOR NEAR TURBOLIFT NINE,INT.,"""11001001""",1987-11-19,The Next Generation
+362,PICARD,   They've locked it off.,74   INT. CORRIDOR NEAR TURBOLIFT NINE,CORRIDOR NEAR TURBOLIFT NINE,INT.,"""11001001""",1987-11-19,The Next Generation
+363,PICARD,       We've got to find another way to   get in.,74   INT. CORRIDOR NEAR TURBOLIFT NINE,CORRIDOR NEAR TURBOLIFT NINE,INT.,"""11001001""",1987-11-19,The Next Generation
+364,RIKER,   One of us could beam onto the   bridge.,74   INT. CORRIDOR NEAR TURBOLIFT NINE,CORRIDOR NEAR TURBOLIFT NINE,INT.,"""11001001""",1987-11-19,The Next Generation
+365,PICARD,   It takes several seconds to   materialize. You wouldn't   stand a chance.,74   INT. CORRIDOR NEAR TURBOLIFT NINE,CORRIDOR NEAR TURBOLIFT NINE,INT.,"""11001001""",1987-11-19,The Next Generation
+366,RIKER,"   I could beam into the turbolift,   force the doors, and take them   by surprise.",74   INT. CORRIDOR NEAR TURBOLIFT NINE,CORRIDOR NEAR TURBOLIFT NINE,INT.,"""11001001""",1987-11-19,The Next Generation
+367,PICARD,   No. We'll beam in simultaneously   in two different areas of the   bridge.,74   INT. CORRIDOR NEAR TURBOLIFT NINE,CORRIDOR NEAR TURBOLIFT NINE,INT.,"""11001001""",1987-11-19,The Next Generation
+368,RIKER,   Only four minutes left.,74   INT. CORRIDOR NEAR TURBOLIFT NINE,CORRIDOR NEAR TURBOLIFT NINE,INT.,"""11001001""",1987-11-19,The Next Generation
+369,GEORDI,   Still no response from the   Enterprise.,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+370,WORF,   They would answer if they could.   Someone else has control of the   ship.,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+371,DATA,   Do you think I am responsible?,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+372,GEORDI,   Why? How could you have known?,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+373,DATA,   My station is on the bridge.,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+374,GEORDI,   You can't be on the bridge every   minute.,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+375,DATA,"   You are wrong, Geordi, I can.   I do not need rest or diversion   -- I should not have been painting.   I was negligent.",75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+376,TASHA,   That's a pointless discussion.   You could have been on the bridge   and it still might have happened.,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+377,TASHA,    (continuing; to     Quinteros)   You have three ships in here.   We need one of them now.,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+378,QUINTEROS,   We're rushing repairs on the USS   Melbourne -- but it's still   eighteen hours until she'll be   ready... There is nothing else   you can do.,75   INT. STARBASE CONTROL (OPTICAL),STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+379,RIKER,   I'll set a ten-second delay.,76   INT. ENTERPRISE - TRANSPORTER ROOM SEVEN (OPTICAL),ENTERPRISE - TRANSPORTER ROOM SEVEN,INT.,"""11001001""",1987-11-19,The Next Generation
+380,PICARD,   Right. Coordinates for Main   Bridge -- port forward for me and   aft for you.,76   INT. ENTERPRISE - TRANSPORTER ROOM SEVEN (OPTICAL),ENTERPRISE - TRANSPORTER ROOM SEVEN,INT.,"""11001001""",1987-11-19,The Next Generation
+381,RIKER,       You're on Pad Two.,76   INT. ENTERPRISE - TRANSPORTER ROOM SEVEN (OPTICAL),ENTERPRISE - TRANSPORTER ROOM SEVEN,INT.,"""11001001""",1987-11-19,The Next Generation
+382,RIKER,       Done.       Ten second delay... NOW.,76   INT. ENTERPRISE - TRANSPORTER ROOM SEVEN (OPTICAL),ENTERPRISE - TRANSPORTER ROOM SEVEN,INT.,"""11001001""",1987-11-19,The Next Generation
+383,PICARD,   Why did you steal my ship?,77   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+384,ONE ZERO,   Please try...,77   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+385,ZERO ONE,   ... to help us.,77   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+386,PICARD,   Cancel auto-destruct.,80   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""11001001""",1987-11-19,The Next Generation
+387,COMPUTER,   Does the first officer agree?,80   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""11001001""",1987-11-19,The Next Generation
+388,RIKER,   Affirmative.,80   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""11001001""",1987-11-19,The Next Generation
+389,COMPUTER,   Auto-destruct cancelled.,80   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""11001001""",1987-11-19,The Next Generation
+390,RIKER,   We're in orbit around Bynaus.       How are they?,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+391,PICARD,   They appear dead.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+392,PICARD,       Let's see if we can get some   answers from Bynaus.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+393,RIKER,   Their main computer is off.   Sensors reveal all of the   equipment on the planet is inert.   They can neither receive nor send   any messages.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+394,PICARD,   What about all the people in that   world who are totally dependant   on their computer? Are they still   functioning?,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+395,RIKER,   No. They are probably just like   these Bynars here. Dying.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+396,RIKER,"   So, what's this all about? Why   did they steal the ship and bring   it here? What was their purpose?",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+397,PICARD,   They went to a lot of trouble to   clear computer space. See what   they've stored.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+398,RIKER,"   Captain, it's enormous. Every   byte of free space in the computer   has been filled. They must have   made a core-dump from their world   to our computer.",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+399,RIKER,       I can't get in.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+400,RIKER,    (continuing; reading     the Screen)   I need a code -- a password -- to   access the file.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+401,PICARD,"   They were desperate to steal this   ship, bring it here to store all   this information. Why?",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+402,RIKER,   I don't know. I wish they had   left a note.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+403,PICARD,   Perhaps they did.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+404,RIKER,   Minuet.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+405,PICARD,   Maybe.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""11001001""",1987-11-19,The Next Generation
+406,RIKER,   Tell me what this is all about.,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+407,MINUET,   A star in the Bynar system went   super nova and they miscalculated.   The electromagnetic pulse from   the explosion was going to knock   out their main computer.,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+408,PICARD,"   Their only chance was to transfer   all the stored information and   shut down until after it passed.   Then, reactivate their system and   transfer the information back to   this main computer.",84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+409,RIKER,   And the Enterprise has the only   mobile computer large enough to   handle all that information.,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+410,PICARD,   So what went wrong?,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+411,MINUET,   The star went super nova before   it was expected and you were late   arriving at Starbase 74.,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+412,PICARD,   But why steal the ship? Why   didn't they say something? Why   didn't they just ask for help?,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+413,MINUET,       I don't know. I don't have those   answers.,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+414,PICARD,   Is there anything we can do?,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+415,MINUET,   Yes. Return the data stored in the   Enterprise's computer back to the   one on Bynaus.,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+416,RIKER,   How do we do that?,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+417,MINUET,       Don't you know?,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+418,RIKER,   Yes. If we had the file name.   But we don't. Do you?,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+419,MINUET,   I don't know what you're talking   about. No.,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+420,PICARD,   They wouldn't intentionally hide   it or make it difficult for us   to find. It's got to be right   in front of us.,84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+421,RIKER,"       We should call Starbase 74, and   see if anyone can decipher this.",84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+422,MINUET,"       Hurry. They're dying.       They meant you no harm. It was   their world they were trying to   save.       Help them, Will -- please help   them.",84   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+423,PICARD,   Starbase 74 -- this is the   Enterprise.,85   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+424,QUINTEROS,"   This is Starbase 74. Captain   Picard, what's your situation?",85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+425,PICARD,   We'll get into that later. Right   now I must speak with Lieutenant   Commander Data.,85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+426,DATA,"   I am here, sir.",85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+427,PICARD,"   Data, the Bynars have stored an   enormous amount of information   in the computer. We can't access   it, and we must.",85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+428,DATA,   The access would be available by   code or password.,85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+429,PICARD,"   I know, but what could it be?",85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+430,DATA,   File names can be anything.,85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+431,PICARD,   They want us to find it. They   would have kept it simple.,85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+432,DATA,   Then a name -- or a place. It   could be personal. In this case   in binary language which is ones   and zeros in groups of eight or   sixteen characters.,85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+433,PICARD,   Could it be that simple?       Try it.,85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+434,RIKER,   That's the file. It'll work now.,85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+435,PICARD,"   Well done, Will. Now access the   file and start the transfer.",85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+436,RIKER,   So much for that idea.,85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+437,PICARD,"   Let me get on the other position.   The Bynars always work in pairs,   perhaps that is also required.",85A  INT. STARBASE CONTROL,STARBASE CONTROL,INT.,"""11001001""",1987-11-19,The Next Generation
+438,PICARD,   It appears to be successful. The   system has started up -- a resident   diagnostic program is running.   Their system is incredible.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+439,ZERO ONE,   You...,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+440,ONE ZERO,   ... did it.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+441,ZERO ONE,    (showing relief and     happiness)   ... our world is...,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+442,ONE ZERO,       ... reactivating.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+443,ZERO ONE,   Our people...,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+444,ONE ZERO,   ... express their gratitude.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+445,ZERO ZERO,   ... We will return to...,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+446,ONE ONE,   ... your Starbase for whatever...,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+447,ZERO ZERO,   ... punishment your system...,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+448,ONE ONE,   ... requires of us.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+449,PICARD,   Why didn't you just ask for our   help?,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+450,ZERO ONE,   You might have...,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+451,ONE ZERO,   ... said no.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+452,RIKER,"   But there was a very good chance   we would have said ""yes.""",88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+453,ZERO ZERO,   Our need was too great...,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+454,ONE ONE,   ... to risk rejection.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+455,PICARD,   So you stole it.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+456,RIKER,   Their reason is part of their   binary thinking -- for them there   are only two choices -- one or zero   -- yes or no.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+457,PICARD,"   No one's been hurt. They   accomplished their objective.   They have their world back in   order, and we have our ship.",88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+458,PICARD,       It's been some time since I had   the Conn.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+459,PICARD,"       But, not to worry, Number One   you're in good hands. Starbase   74 -- at warp two.",88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+460,PICARD,       Engage.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+461,PICARD,       Under complete control.,88   INT. - BACK TO MAIN BRIDGE (OPTICAL),- BACK TO MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+462,PICARD,"   We are all right, everything is   fine. Now -- I want a complete   check of all systems and   divisions.",88C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+463,TASHA,   What about the Bynars?,88C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+464,PICARD,   Turn them over to Quinteros.       There will be a hearing.,88C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+465,ZERO ONE,   We understood that...,88C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+466,ONE ZERO,   ... would happen.,88C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+467,RIKER,   That being the case -- permission   to leave the bridge.,88C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+468,PICARD,   Permission granted.,88C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+469,COMPUTER,   Program entered - you may enter   the Holodeck.,89   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+470,RIKER,   What's a knockout like you doin'   in a computer-generated joint like   this?,89   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+471,RIKER,   You're not Minuet.,89   INT. HOLODECK,HOLODECK,INT.,"""11001001""",1987-11-19,The Next Generation
+472,RIKER,"   She's gone. I tried variations   of the program, others appeared,   but not Minuet.",92   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+473,PICARD,"   Maybe that too, was part of the   Bynar's program. Some   relationships just can't work.",92   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation
+474,RIKER,"    (he can agree    intellectually, but    emotionally it's not    easy)   Yes... probably true... but, she   will be difficult to forget.",92   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""11001001""",1987-11-19,The Next Generation

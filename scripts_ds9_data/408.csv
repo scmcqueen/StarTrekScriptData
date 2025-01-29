@@ -1,0 +1,376 @@
+,character,quote,scene,location,view,episode,date,series
+0,SISKO,"   Station log.  Stardate 46910.1.  Chief    O'Brien has the sad duty of escorting    his wife back to earth to attend her    mother's funeral.  For the next few    weeks, it will up to the rest of us    to keep this station up and running.",3A   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,,1992-11-17,Deep Space Nine
+1,BASHIR,   It's almost as though the re-   filtration processors were waiting    for Chief O'Brien to leave before    breaking down...,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+2,DAX,   The technology looks like something    the Cardassians might have taken    from the Romulans...       Is that an R-C-L type one matrix    field?,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+3,BASHIR,"    (bored, trying to be     clever)   Perhaps we ought to call in a Romulan    repair service...",4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+4,DAX,       Or is it an R-C-L type two...,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+5,BASHIR,       Another raktajino?,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+6,DAX,"    (still studying, no     eye contact)   It would keep me up all night.",4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+7,BASHIR,       I know better ways to keep you up    all night... and they're more fun    than drinking Klingon coffee...,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+8,DAX,   Definitely type one...,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+9,PEERS,       Dax.,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+10,DAX,       I really should be getting to bed.,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+11,BASHIR,       May I escort you to your quarters...,4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+12,DAX,"       That's not necessary, Julian.",4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+13,BASHIR,"   Oh, goodnight then...",4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+14,BASHIR,"       ... ""Not necessary, Julian""...       ... But not forbidden, either.",4    INT. REPLIMAT,REPLIMAT,INT.,,1992-11-17,Deep Space Nine
+15,TANDRO,   Dax.,10   INT. CORRIDOR ONE,CORRIDOR ONE,INT.,,1992-11-17,Deep Space Nine
+16,DAX,   Yes... ?,10   INT. CORRIDOR ONE,CORRIDOR ONE,INT.,,1992-11-17,Deep Space Nine
+17,TANDRO,   You are Dax...,10   INT. CORRIDOR ONE,CORRIDOR ONE,INT.,,1992-11-17,Deep Space Nine
+18,DAX,       What do you want?,10   INT. CORRIDOR ONE,CORRIDOR ONE,INT.,,1992-11-17,Deep Space Nine
+19,SISKO,"   Yes, Major.",18   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+20,KIRA,"       I'm just not sure, Commander.  What's    it look like to you?",18   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+21,SISKO,"       It looks like a residual charge in    the graviton generator.  If that's    what it is, it'll bleed off.  Let's    run a quick level three diagnostic,    just to be sure.",18   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+22,BASHIR,       Bashir... to Ops...,19   INT. CORRIDOR ONE,CORRIDOR ONE,INT.,,1992-11-17,Deep Space Nine
+23,KIRA,       Ops.,20   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+24,BASHIR,"       ... Three people... I think they just    took Jadzia.  She was struggling    with them, and I tried to help, but...    I don't know, I'm...",21   INT. CORRIDOR ONE - INTERCUT WITH OPS (AS DESIRED),CORRIDOR ONE - INTERCUT WITH OPS,INT.,,1992-11-17,Deep Space Nine
+25,SISKO,"   Full station security alert; secure    all Turbolifts; seal off airlocks to    levels four through twelve...    Computer, locate Lieutenant Dax.",21   INT. CORRIDOR ONE - INTERCUT WITH OPS (AS DESIRED),CORRIDOR ONE - INTERCUT WITH OPS,INT.,,1992-11-17,Deep Space Nine
+26,COMPUTER,"   Lieutenant Dax is on Level Six,    Corridor One.",21   INT. CORRIDOR ONE - INTERCUT WITH OPS (AS DESIRED),CORRIDOR ONE - INTERCUT WITH OPS,INT.,,1992-11-17,Deep Space Nine
+27,BASHIR,"   No, that's where I am... They only    left her combadge here...",21   INT. CORRIDOR ONE - INTERCUT WITH OPS (AS DESIRED),CORRIDOR ONE - INTERCUT WITH OPS,INT.,,1992-11-17,Deep Space Nine
+28,ODO,"   How long ago, Doctor?",21   INT. CORRIDOR ONE - INTERCUT WITH OPS (AS DESIRED),CORRIDOR ONE - INTERCUT WITH OPS,INT.,,1992-11-17,Deep Space Nine
+29,BASHIR,"   Not long, uh... I'm... not quite    sure, really.",21   INT. CORRIDOR ONE - INTERCUT WITH OPS (AS DESIRED),CORRIDOR ONE - INTERCUT WITH OPS,INT.,,1992-11-17,Deep Space Nine
+30,ODO,"   Computer: Display all passages, levels    four through twelve; in sequence.",21   INT. CORRIDOR ONE - INTERCUT WITH OPS (AS DESIRED),CORRIDOR ONE - INTERCUT WITH OPS,INT.,,1992-11-17,Deep Space Nine
+31,DAX,       What... what are you doing?,22   INT. CORRIDOR TWO,CORRIDOR TWO,INT.,,1992-11-17,Deep Space Nine
+32,TANDRO,   We turn right at the next corridor...,22   INT. CORRIDOR TWO,CORRIDOR TWO,INT.,,1992-11-17,Deep Space Nine
+33,ODO,   They're managing to avoid the security    tracking grid.  They seem to know a    lot about the station.,23   INT. OPS - INCLUDING ODO'S MONITOR (OPTICAL),OPS - INCLUDING ODO'S MONITOR,INT.,,1992-11-17,Deep Space Nine
+34,KIRA,"   Then they may know the speed of our    Runabouts... if they do, they probably    have a faster ship to make their    escape...",23   INT. OPS - INCLUDING ODO'S MONITOR (OPTICAL),OPS - INCLUDING ODO'S MONITOR,INT.,,1992-11-17,Deep Space Nine
+35,SISKO,"   Major, survey all ships in dock that    have a high warp capability.    (Beat; sudden     realization)   Damn!",23   INT. OPS - INCLUDING ODO'S MONITOR (OPTICAL),OPS - INCLUDING ODO'S MONITOR,INT.,,1992-11-17,Deep Space Nine
+36,ODO,   What.,23   INT. OPS - INCLUDING ODO'S MONITOR (OPTICAL),OPS - INCLUDING ODO'S MONITOR,INT.,,1992-11-17,Deep Space Nine
+37,SISKO,   That's why we've got a residual charge    in the graviton generator.  They've    disabled the tractor beam.,23   INT. OPS - INCLUDING ODO'S MONITOR (OPTICAL),OPS - INCLUDING ODO'S MONITOR,INT.,,1992-11-17,Deep Space Nine
+38,KIRA,       We've got eight ships in dock that're    capable of warp five or more: Three    on docking pylons; five smaller ones    in the ports.,23   INT. OPS - INCLUDING ODO'S MONITOR (OPTICAL),OPS - INCLUDING ODO'S MONITOR,INT.,,1992-11-17,Deep Space Nine
+39,SISKO,   Seal off all docking ring airlocks.,23   INT. OPS - INCLUDING ODO'S MONITOR (OPTICAL),OPS - INCLUDING ODO'S MONITOR,INT.,,1992-11-17,Deep Space Nine
+40,ODO,"   Security.  All duty squads to the    docking ring; commence immediate    inward sweep, levels sixteen through    twenty-one.",23   INT. OPS - INCLUDING ODO'S MONITOR (OPTICAL),OPS - INCLUDING ODO'S MONITOR,INT.,,1992-11-17,Deep Space Nine
+41,KIRA,   I've got them!  Airlock five...,28   INT. OPS (OPTICAL),OPS,INT.,,1992-11-17,Deep Space Nine
+42,ODO,   I'm on my way.  Odo to Security.     Report to airlock corridor five.  We    have a hostage situation.,28   INT. OPS (OPTICAL),OPS,INT.,,1992-11-17,Deep Space Nine
+43,KIRA,   Isolating with cadderon force fields.       ... Commander?,28   INT. OPS (OPTICAL),OPS,INT.,,1992-11-17,Deep Space Nine
+44,SISKO,"       You're doing fine, Major.",28   INT. OPS (OPTICAL),OPS,INT.,,1992-11-17,Deep Space Nine
+45,DAX,   Will you just tell me what you...,29   INT. AIRLOCK CORRIDOR (OPTICAL),AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+46,TANDRO,       Move.,29   INT. AIRLOCK CORRIDOR (OPTICAL),AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+47,KIRA,   The force field is down... They know    the security override codes... They're    boarding a ship...,32   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+48,SISKO,       I'm trying to speed up the bleed-off    process in the graviton generator.,32   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+49,KIRA,       We've lost them...,32   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+50,SISKO,       It's working.  I'm increasing the    flow to the EPS wave guides.,38   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+51,KIRA,   The excess charge is neutralizing...,38   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+52,SISKO,   Engage tractor beam!,38   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+53,KIRA,       Gotcha.,40   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+54,SISKO,"   Bring it in to docking port six,    Major.",40   INT. OPS,OPS,INT.,,1992-11-17,Deep Space Nine
+55,ODO,   Slowly!  Extremities where I can see    them.,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+56,TANDRO,       You're the Chief of security?,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+57,ODO,       Are you all right?,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+58,TANDRO,   My name is Ilon Tandro...,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+59,TANDRO  ,   ... Special envoy from Klaestron    Four... I'm in charge of this    extradition procedure...,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+60,SISKO,   Extradition!  I call this kidnapping    and assault.,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+61,TANDRO,       You'll find this to be a valid warrant    for her arrest.  The relevant treaty    between Klaestron Four and your    Federation allows for unilateral    extradition.,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+62,SISKO,       And the charge?,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+63,TANDRO,   The fugitive Dax is charged with    treason... and the murder of my    father.,42   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,,1992-11-17,Deep Space Nine
+64,ODO,"       According to the charge statement,    Dax was responsible for the death of    General Ardelon Tandro thirty years    ago...",46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+65,SISKO,   Thirty years ago?  That would've    been Curzon Dax.,46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+66,ODO,       ... when he was on Klaestron Four as    a Federation mediator during their    civil war...,46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+67,SISKO,"   He never mentioned he'd even been to    ""Klaestron Four""... Strange.",46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+68,ODO,   Not so strange considering these    charges.,46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+69,SISKO,"   Odo, let me tell you something: Curzon    Dax tended to be a little cavalier    about life... and even about his    personal responsibilities from time    to time...",46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+70,SISKO ,"       ... I think part of the reason I liked    him so much was that he had more    faults than the usual, socially    acceptable Trill.       He was not a murderer.",46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+71,ODO,"   How about a ""traitor""?       This says Dax betrayed the Klaestron    government to the rebels.",46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+72,SISKO,"       It's all nonsense.  I'm telling you,    Constable, I knew the man.",46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+73,ODO,       But did you know the symbiont inside    the man?,46   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,,1992-11-17,Deep Space Nine
+74,DAX,   Come in.,47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+75,SISKO,"   I've sent a subspace message    to Klaestron Four requesting    confirmation of the warrant.  That's    the only stall I could think of.     Now what the hell's going on, Dax?",47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+76,SISKO,"   Dax, if I'm going to help you, you've    got to help me.",47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+77,DAX,"   I don't expect help, Benjamin.  Thank    you, though.",47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+78,SISKO,"   Are you crazy?  Treason and murder.     On Klaestron Four, either of those    gets you the death penalty.       What's the matter with you!  Talk to    me before I have to let these people    take you.",47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+79,DAX,"       No.  I'm sorry, Benjamin, but... no.",47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+80,SISKO,       We've got eighteen or twenty years    of friendship behind us.,47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+81,DAX,   I'm Jadzia Dax now.  It was Curzon    Dax you knew for twenty years.,47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+82,SISKO,"   So when the Dax part of you survived    from one host to the next, it really    didn't take our friendship along.",47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+83,DAX,"   Benjamin, you know you're still my    very dear friend.  I just... won't    talk about this; I'm sorry.",47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+84,SISKO,"       Well, whether you're Curzon Dax or    Jadzia Dax, I'm not going to believe    for one second that you've ever    committed murder, or treason.",47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+85,DAX,    (reflexively starts     to explain)   Benjamin...       ... If you don't mind... I'd prefer    being alone right now.,47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+86,SISKO,       There is one thing I'd charge you    with...    (stops; faces her for     emphasis)   ... Acute stubbornness.    ,47   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+87,TANDRO,"   You've received your confirmation,    Commander; now we'd like to be on    our way with the prisoner.",48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+88,SISKO,"   You know, Mister Tandro... I kept    wondering why you tried to kidnap    Lieutenant Dax, rather than just    present your warrant to me in the    proper way.  I couldn't figure that    out at first.",48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+89,TANDRO,"   I trust you have figured out,    Commander, that our extradition treaty    with your Federation is current and    valid.",48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+90,SISKO,   This station is technically Bajoran.,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+91,TANDRO,    (already knows the     answer)   What does that mean to us?,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+92,SISKO,   You don't have an extradition treaty    with Bajor.  I think that's why you    tried to abduct Lieutenant Dax.  You    were afraid the Bajorans would refuse    extradition.,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+93,TANDRO,   That's absurd.  No Bajoran interests    are even involved here.,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+94,KIRA,   How did you people know your way    around this station so well?,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+95,TANDRO,       My conversation is with the Commander.,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+96,SISKO,"   No, I think your conversation is    with my First Officer now.",48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+97,KIRA,"   You Klaestrons are allies of the    Cardassians.  Your knowledge of this    station confirms that.  They must    have given you the layout... Which    not only compromises Bajoran security,    but also... annoys us.",48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+98,SISKO,       I'm afraid it means Bajoran interests    are involved.  And Bajor is adamant    that...,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+99,SISKO ,    (courteous aside to     Kira)   ... At least I believe it's adamant...,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+100,KIRA,"       Oh, yes...",48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+101,SISKO,   You see... There will have to be an    extradition hearing before I can    lawfully release Lieutenant Dax.,48   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+102,QUARK,       For how long?,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+103,ODO,   As long as it takes.,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+104,QUARK,   That could be days!,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+105,ODO,   There's nowhere else on the station    that's suitable.,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+106,QUARK,   Too bad.  I'm not shutting down for    any Bajoran hearing...,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+107,ODO,   I'm sure Lieutenant Dax would    appreciate it...,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+108,QUARK,       Business is business.,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+109,ODO,"   You know, that wall's going to have    to come in about five meters...",50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+110,QUARK,   What are you talking about?,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+111,ODO,"   Of course, after you move the wall    that'll mean your second level    holosuites'll have to come down...",50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+112,QUARK,   Come down?  Why?,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+113,ODO,   New restrictions...,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+114,QUARK,   Restrictions?,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+115,ODO,"   Building codes... Since the    provisional government took over,    they've got their hands into    everything... and of course, I'm the    one who's expected to enforce their    rules here.",50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+116,ODO,"   You know, I think the bar is a little    too near the exit...",50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+117,QUARK,   This is blackmail...,50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+118,ODO,"   No, it's just business... And business    is business...",50   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+119,SISKO,"   I was just coming to see you.  We    still haven't found any place for    the hearing.  Holding it on Bajor    would involve Dax leaving the station,    and I don't want to risk that.",51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+120,ODO,"   Well, now that's a coincidence.  Our    good friend Quark just donated the    use of his facility for the hearing.",51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+121,SISKO,       Nice gesture.,51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+122,ODO,   I thought so.,51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+123,SISKO,   You know I haven't been able to get    a word out of Dax about any of this.,51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+124,SISKO,   So I thought someone might go do    some investigating on Klaestron Four    itself.  What do you think?,51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+125,ODO,       This case has thirty years of dust    covering it.  The extradition    hearing'll take about thirty minutes.,51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+126,SISKO,   I'm hoping to make it a little longer    than that.,51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+127,ODO,       Good luck.,51   INT. PROMENADE OUTSIDE QUARK'S,PROMENADE OUTSIDE QUARK'S,INT.,,1992-11-17,Deep Space Nine
+128,RENORA,"   This will be an informal hearing, so    I'll start with some informal advice    to all:  I'm one hundred years old.     I've no time to squander listening    to superfluous language.  In short,    I intend being here until supper,    not senility.  Understood?",53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+129,TANDRO,"   Understood, Madame Arbiter.",53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+130,RENORA,       You seek the extradition... Make    your case.,53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+131,TANDRO,"   The accused Trill, whatever its    present appearance may be, was and    is a Federation officer who committed    capital crimes on our planet.  Since    there is no time limit on the    prosecution of such crimes...",53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+132,RENORA,"       Thank you, I've already read the    warrant and charges.  The crimes    described are thirty years old.     What took you so long?",53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+133,TANDRO,   The evidence was contained in military    files which were officially sealed    until recently.,53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+134,RENORA,"   Fine.  Sit.  Commander, the warrant's    in order.  On what grounds do you    ask me to deny extradition?",53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+135,SISKO,"   You say the warrant's in order.  But    the name on the warrant is ""Dax.""     Certainly that doesn't refer to Jadzia    Dax, a female; but to the now deceased    Curzon Dax, a male.       ... This young woman wasn't even born    thirty years ago.",53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+136,TANDRO,   You're arguing semantics.  This    creature is a Trill.  The symboint    known as Dax has progressed from one    host to the next.,53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+137,SISKO,   Exactly.  From one host to the next.     A different host; a different person.     So I submit that the person he wants    to extradite no longer exists.  And    I challenge him to prove otherwise.,53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+138,TANDRO,   That's ridiculous.,53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+139,RENORA,"   It would've been easier on me had    you not raised that point, Commander.       But the penalty for these crimes on    your planet is death; and that's    rather permanent.  So before I grant    extradition, you will convince me,    please, that the person named in    your warrant is the same person that's    sitting here now.",53   INT. QUARK'S - E.C.U. ON RENORA'S FACE,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+140,SISKO ,"   Station log, Stardate 46440.2.  The    extradition hearing will reconvene    at oh-nine-hundred hours.  Lieutenant    Dax still remains silent regarding    the  charges against her.",56   EXT. SPACE - DS9 (OPTICAL),SPACE - DS9,EXT.,,1992-11-17,Deep Space Nine
+141,KIRA,   She doesn't seem to care whether she    gets out of this or not.,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+142,SISKO,"   I care.  Doctor, we've given the    opposition access to our computers    and station library, such as it is...    so let's utilize them ourselves.  I    want all the medical evidence you    can find to support the theory that    Jadzia Dax and Curzon Dax are two    entirely separate people.  Major...",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+143,BASHIR,"   Excuse me, Sir.  I don't know that    there is any medical evidence on    that.",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+144,SISKO,"   Assume there is, then find it.    Major... I'm not asking you to be an    attorney here, but... If you'd check    the Federation computers for any    precedents... legal decisions    involving Trills...",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+145,KIRA,    (reciting; being sure     she's got it right)   Is a Trill responsible for the    conduct... for the acts...,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+146,KIRA,"   of it's antecedent selves.  What if    I find the answer's ""yes""?",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+147,SISKO,"   Then that answer's wrong.  From this    minute on, our answer is ""no.""       ... But if you do find a... ""wrong""    answer, I want to see it.  I can't    fight what I don't know about.",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+148,KIRA,"   Commander, aren't we a little out of    our depth here?",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+149,SISKO,"   We're fighting for her life, Major    Kira.",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+150,KIRA,   I understand that.  I don't understand    why she won't help us fight.,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+151,N/D  OVER,   Commander Sisko.  There is a subspace    communication from Odo on Klaestron    Four.,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+152,SISKO,"       We've only got a few hours, people.",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+153,SISKO,   Constable... What've you got for us?,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+154,ODO,   You mean it's not over?  You stopped    the extradition?,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+155,SISKO,   Just a delaying action; it's all I    could do.  I'm still hoping you'll    find something there on the planet    that'll negate the charges.,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+156,ODO,"   Well, I know two things so far:    Whoever did murder this General    Ardelon Tandro, it got his troops so    mad they went out and won their civil    war.  They made the General a national    martyr.  There are statues of him    all over the place.  Second:  everyone    that's old enough to remember says    the General and Curzon Dax were the    closest of friends... Comrades;    inseparable.",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+157,SISKO,   Now that sounds like the Curzon Dax    I knew.,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+158,ODO,"   Treason, plus the murder of his own    best friend?  Strange business.  If    those charges are true, I'd want to    hang Curzon Dax up by the heels    myself.",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+159,SISKO,       Thanks for the confidence.,57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+160,ODO,"   Don't worry, I'll do my job.  General    Tandro left a widow.  If the two men    were that close, she has to remember    something about Curzon Dax that's    not in the record.  You'll hear from    me.",57   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,,1992-11-17,Deep Space Nine
+161,ENINA,   Curzon Dax was not responsible for    the death of my husband.,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+162,ODO,    (reacts to the     surprising new ally)   You're certain of that?,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+163,ENINA,   Without a doubt.,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+164,ODO,   But your own son...,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+165,ENINA,   My son is obsessed with the death of    a father he never knew... I tried to    persuade him not to reopen the case.     He wouldn't listen to anyone... least    of all to me.       You have to understand -- Curzon Dax    was closer to the General than any    man on this planet.  He was a dear    friend to this family.  Curzon would    have died himself before conspiring    against my husband.,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+166,ODO,   Is that a personal opinion... or are    there any facts that might support...,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+167,ENINA,   The only facts I know are in my son's    hands... and he intends to use them    against Dax.,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+168,ODO,   It might help my people to know what    they are...,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+169,ENINA,"   There's proof of a secret transmission    that was sent from military    headquarters to the enemy camp.  It    identified the exact route my husband    was taking from the capitol back to    the front.  That's when he was    ambushed and kidnapped... a short    time later, he was killed.",59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+170,ODO,   Then your son must believe that Dax    made that transmission...,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+171,ENINA,       There were only five people including    my husband who knew the route.  My    son's been able to establish the    whereabouts of all of them at the    time of the transmission... all of    them except Curzon.,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+172,ODO,"   So, Dax has no alibi.",59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+173,ENINA,"   That can't possibly be enough to    convict him, can it?",59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+174,ODO,   I don't know.       Thank you.  You've been helpful.,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+175,ENINA,   How is he?,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+176,ODO,   Ma'am?,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+177,ENINA,   Curzon Dax.,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+178,ODO,"   He's gone.       The Dax your son is trying to    extradite is ""Jadzia Dax""; a twenty-   eight year old woman.  Curzon Dax    died two years ago.  Jadzia's the    new host.",59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+179,ENINA,    (reacts but covers     well)   I'm sorry.  I didn't... know.,59   INT. ENINA TANDRO'S MAIN ROOM (KLAESTRON FOUR),ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+180,QUARK,   Odds are four to one against    her.       And let me say that's very fair.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+181,QUARK,   Now that's a brave wager.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+182,TANDRO ,   I call on the expert knowledge of    another Trill... Selin Peers...,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+183,TANDRO,"   Minister Peers, we're fortunate to    have you with us...","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+184,RENORA,   Excuse me.  It also seems rather    convenient to have you with us.  How    do you come to be here?,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+185,PEERS,"   Because another Trill is involved,    the Trillian government requested    that I be present during the    extradition.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+186,RENORA,   And do you know the accused    personally?,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+187,PEERS,   I do not.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+188,RENORA,   We'll accept you as an expert on    Trills.  Proceed.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+189,TANDRO,"   Minister, through how many hosts    have you survived?","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+190,PEERS,   The symbiont within me has survived    through the adult lifetimes of seven    hosts.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+191,TANDRO,   Do you remember your very first host?,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+192,PEERS,"   Of course.  It was a woman, as a    matter of fact.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+193,TANDRO,   Do you remember what you thought and    felt when you were joined with your    first host?,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+194,PEERS,   Yes; the symbiont does carry memories    of times shared with previous hosts.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+195,TANDRO,"   So if a crime is committed by a Trill,    then the symbiont's next host would    remain aware of it... would recall    that crime?","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+196,PEERS,"   Yes, absolutely.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+197,TANDRO,   Would recall the details of it.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+198,PEERS,"   Yes, absolutely.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+199,TANDRO,   And would still feel the guilt of    it.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+200,PEERS,   Oh yes.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+201,SISKO,"   Madame Arbiter, this is not a trial...    and Mister Tandro is not the    prosecutor...","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+202,RENORA,"       You've made your point, Mister Tandro.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+203,TANDRO,"   I don't believe I have, Madame    Arbiter.  The real point is that    Commander Sisko would have you endorse    his idea of a perfect Trill crime...    to commit it, all one has to do is    elude capture long enough to change    hosts, then he... or she can go free.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+204,SISKO,"   Minister Peers... You said you were    with your first host throughout her    ""adult"" life.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+205,PEERS,   Yes...,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+206,SISKO,"   So before a symbiont is joined with    any host, that host has already lived    a significant portion of his or her    life.  From birth to... what age,    sir?","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+207,PEERS,   Early-to-mid-twenties.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+208,SISKO,   Why not younger?,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+209,PEERS,   To give the prospective host the    chance to develop; mature... They    have to be old enough to make an    informed judgement as to whether or    not they really want to be joined.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+210,SISKO,"   And once they are joined, the host's    personality is completely suppressed    by the symbiont?","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+211,PEERS,"   Oh, no.  No, it's a joining.  It's a    total sharing, a blending, of both    host and symbiont.  Neither is    suppressed by the other.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+212,SISKO,"   So with each new host there does    come, in fact, a new personality.  A    new combined person.  A different    person.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+213,PEERS,"   From that standpoint, yes.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+214,SISKO,"   Well I for one don't know what other    standpoint we could be talking about,    thank you, Minister.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+215,TANDRO,"   Just to return us to what's important    here, Madame Arbiter... the accused    can remember any crimes she committed    as Curzon Dax and nothing can be    truthfully asserted in this hearing    that can alter that fact.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+216,SISKO,"   Yes, the memories were passed to an    entirely new host... to an entirely    different person...","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+217,TANDRO,   This is outrageous... you can't let    Dax get away with murder.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+218,RENORA,"       I said an ""informal"" hearing; not    riotous.  We'll have a two hour    recess.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+219,SISKO,   Still nothing to say?,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+220,DAX,"   Just ""thank you.""  I know you're    trying very hard.","60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+221,SISKO,   I didn't mean that.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+222,DAX,   I know.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+223,SISKO,   Your silence makes you look guilty.     At least deny something.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+224,DAX,   Benjamin... why don't you just stop    this...,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+225,DAX,       ... Leave it alone.  Leave me alone.,"60   INT. QUARK'S - ON QUARK, MORN & FERENGI WAITER",QUARK'S,INT.,,1992-11-17,Deep Space Nine
+226,RENORA,   The answer seems simple enough to me --    split her down the middle.  Send the    symbiont back for trial and leave    the host here.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+227,BASHIR,   I'm afraid it's a bit more complicated    than that.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+228,RENORA,"       Oh, what a surprise.  Please enlighten    me.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+229,BASHIR,"   The symbiont and the host are    biologically interdependent.  Ninety-   three hours after they've joined,    neither can survive without the other.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+230,RENORA,"   I see.  Proceed, Commander.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+231,SISKO,"   Doctor, you've heard the arguments.     From a medical viewpoint, are Curzon    Dax and Jadzia Dax the same person...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+232,BASHIR,"   Obviously not.  Aside from the gender    change, there's a marked difference    in blood types; metabolisms; nervous    systems, height, weight...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+233,TANDRO,   This is not at all relevant...,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+234,BASHIR,"    (determined to get     his testimony out)   What is relevant, sir... is my    analysis of the brain waves of Curzon    and Jadzia Dax...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+235,SISKO,   Madame Arbiter...,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+236,BASHIR,"   As you can see, they are distinctly    different... clearly illustrating    that Curzon and Jadzia are two unique    individuals.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+237,SISKO,"   Thank-you, Doctor.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+238,TANDRO,"   Doctor, I've looked through your    research myself... it's quite    impressive work for such a young    man...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+239,BASHIR,       Thank you.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+240,TANDRO,"   As a layman, there are obviously things    I don't fully understand...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+241,BASHIR,   I'll be happy to explain anything    you wish...,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+242,TANDRO,"   Yes... well, exactly how does the    Trill brain work...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+243,BASHIR,"   It's quite complex actually... First    of all, there are two cerebral    nuclei...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+244,TANDRO,   Two... ?,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+245,BASHIR,   One in the symbiont and one in the    host...,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+246,TANDRO,   Two brains.  And these two brains    talk to each other... ?,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+247,BASHIR,"    (acknowledges,     searching for a     comparison)   Like two computers linked together...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+248,TANDRO,"   That's very clear, Doctor.  Thank    you.  Now, in your investigation,    were you able to analyze the separate    wave patterns from each of these    brains?",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+249,BASHIR,    (the one question he     didn't want to hear)   They don't function separately.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+250,TANDRO,"   I didn't ask you how they function,    Doctor Bashir.  I asked if you could    analyze the two distinct patterns.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+251,BASHIR,   I just don't see the relevance of...,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+252,TANDRO,   Could you?,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+253,BASHIR,   Yes.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+254,TANDRO,   And have the brainwave patterns of    the symbiont changed since it joined    with the new host?,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+255,BASHIR,"   With the available evidence, there's    no way to tell that.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+256,TANDRO,   What's your best guess?,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+257,BASHIR,   I wouldn't care to guess.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+258,TANDRO,"   In fact, is there evidence of any    change at all in the symbiont since    it joined with this new host?  Yes    or no.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+259,BASHIR,       No.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+260,TANDRO,"   Thank-you, Doctor Bashir.  You've    been very helpful.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+261,RENORA,"   Any more witnesses, Commander Sisko?",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+262,SISKO,"   Yes, Madame Arbiter... I'd like to    call the one person in this courtroom    who knew Curzon Dax.  Me.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+263,RENORA,   You know where the witness chair is.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+264,SISKO,"   With your permission, Major Kira    will direct the questions.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+265,KIRA,"   Tell us a little about Curzon Dax,    Commander.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+266,SISKO,   He probably wasn't the ideal Trill.     He drank a little too much; he could    be more interested in women than    maybe he should've been...,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+267,KIRA,       I thought he was your friend.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+268,SISKO,   My point is simply that he was not    at all like the young woman in this    courtroom.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+269,KIRA,   What exactly was your relationship    with Curzon Dax?,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+270,SISKO,"   He took a raw, young Ensign under    his wing and taught me to appreciate    life in ways I'd never thought about    before... he taught me about art and    science and diplomacy... whatever    sense of honor I may have today, he    nurtured... treason, murder -- he    wasn't capable of those things.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+271,TANDRO,"   As you've already said, Commander,    this is not a trial...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+272,SISKO,"       I'm describing my friend, Curzon Dax --    a man I knew very well. On the other    hand...       I can't tell you too much about my    new friend there... We're really    just getting to know each other.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+273,TANDRO,"   Commander, Starfleet officers do    have the reputation of being    honorable... and I judge you to be    an honorable man...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+274,TANDRO,"       As an honorable man, do you think    this crime should go unpunished?",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+275,KIRA,"   Madame Arbiter, that has nothing to    do with the main issue here.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+276,TANDRO,"       It will, Madame...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+277,RENORA,"   Answer the question, Commander...",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+278,SISKO,   I would prefer that no crime go    unpunished.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+279,TANDRO,"   Then, if it were possible, even you    would not argue with punishing the    symbiont part of Dax.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+280,SISKO,"       How can you be so sure that the    symbiont was the criminal influence?     What if it were the ""Curzon"" host    that was responsible?  Then, the    surviving symbiont would be completely    innocent.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+281,TANDRO,"       No; they'd both be guilty.  You    yourself have argued that the two    personalities, once joined, function    as one.  And your own Doctor Bashir    confirmed it.  When you put salt in    water, the two become    indistinguishable and inseparable.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+282,QUARK,"   Sorry, but that Tandro's very good.     Odds are now thirteen to one against    her.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+283,SISKO,"    (still to Tandro;     pleased)   I think you've just made my point    for me.  When the water boils off,    the salt returns to its original    state.  Pour that same salt into    another liquid, and you have something    completely different.  Jadzia Dax is    an entirely new entity.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+284,QUARK,       Oh.  Well... six to one might be all    right.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+285,RENORA ,   Following a one hour recess...,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+286,RENORA,       Lieutenant Dax will take the witness    chair.       One hour.,66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+287,SISKO,"       If you won't defend yourself, you're    not going to testify.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+288,KIRA,"       It's a hearing, not a trial.  She    has no choice.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+289,KIRA,"    (continuing, re: the     PADD, to Sisko)   Odo's on subspace... It's urgent.",66   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+290,ODO,   I've made some progress.,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+291,SISKO,   Good.,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+292,ODO,"   Not good.       Since the transmission to the enemy    is the key evidence, I thought it    might be a good idea to go through    all the communications logs from    headquarters during that period... I    even found Curzon Dax's records...",82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+293,SISKO,   You can't tell me Curzon would log    in a communique to the enemy...,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+294,ODO,   No.  Nothing like that.  But the log    shows a number of conversations    between Dax's office and General    Tandro's home.,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+295,SISKO,       They were close friends.,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+296,ODO,   Many of the conversations took place    when the General was away at the    front.,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+297,SISKO,       The wife.,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+298,ODO,   The wife.,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+299,SISKO,   Curzon Dax and Enina Tandro...,82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+300,ODO,"   Maybe it was innocent.  Maybe he was    just providing a little emotional    support during tough times.       Or... maybe they were taking advantage    of the General's absence to get a    little closer.  If they were having    an affair, that translates into a    pretty solid motive for murder.",82A  INT. SISKO'S OFFICE - INCLUDING MONITOR (OPTICAL),SISKO'S OFFICE - INCLUDING MONITOR,INT.,,1992-11-17,Deep Space Nine
+301,ODO,   The conversations were just the    beginning... I've also found records    of gifts... of holidays spent at an    Inn outside the capital...,84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+302,ENINA,   What purpose is this supposed to    serve?,84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+303,ODO,       It serves the truth.,84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+304,ENINA,       The truth.,84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+305,ODO,"   If there's more to this than meets    the eye, I hope you'll explain,    because as it stands, this will    severely hurt Dax's defense.",84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+306,ENINA,"   My husband wasn't nearly the hero in    life that he was in death, Mister    Odo.  In death he became a legend.     And I became a legend's wife.  There    are people who never knew my husband    who still contact me.  Decades after    his death, they still mourn him.",84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+307,ODO,   But you don't.,84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+308,ENINA,"   No.  You see, I knew the man before    he became the legend.       But I also knew my place in history.     I was to carry on bravely, never to    remarry.  I was to represent my    husband at the banquets held in his    name.  And of course, never to speak    of who he really was... because nobody    wants to hear that.",84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+309,ODO,   They may have to hear it now.,84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+310,ENINA,"       No matter what's said, they'll still    embrace his memory... for he was and    will always be the hero who died for    his people.       But perhaps it is time for my place    in history to change.",84   INT. ENINA TANDRO'S MAIN ROOM,ENINA TANDRO'S MAIN ROOM,INT.,,1992-11-17,Deep Space Nine
+311,SISKO,"   You've been protecting her reputation.     That's it, isn't it... that's why    you won't even defend yourself...       There are worse things than an illicit    love affair.  Curzon Dax didn't murder    anybody.  He didn't commit treason.     Are you really willing to commit    suicide over something done in another    lifetime?  That is what you're doing,    you know.",85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+312,SISKO,"   My God, Dax... young Tandro... he    wouldn't be your son...",85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+313,DAX,"    (shakes her head,     almost funny)   Benjamin, you have an overactive    imagination...",85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+314,SISKO,   Then what is it that's holding you    back?  Help me.,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+315,SISKO,"   Dammit, if you were still a man...",85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+316,DAX,       I see your temper hasn't improved...,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+317,SISKO,   Don't talk to me about my temper...,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+318,DAX,   Curzon always warned you about it...,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+319,SISKO,   You're not going to get me off track    here...,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+320,DAX,   Do you remember that Argosian    lieutenant who threw a drink in your    face...,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+321,SISKO,       ... And you knocked me down with a    right cross before I could kill him...    I still have a little scar here from    your ring finger...,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+322,DAX,   I tried that ring on after Curzon    died... it slipped right off my    finger...,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+323,SISKO,"   If you don't help me, old man, they're    going to take you... because I don't    know any more arguments.",85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+324,DAX,   Then allow it to happen.,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+325,SISKO,   I have an obligation to protect the    lives of those in my command.  You    ought to know that.  You taught it    to me.,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+326,DAX,   That was Curzon.,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+327,SISKO,   I'll stop trying to protect you the    minute you tell me Curzon was guilty    of these charges.,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+328,DAX,"   I won't discuss it with you and I    won't discuss it in the witness chair.     As for Enina Tandro, yes, I feel the    shame for Curzon's indiscretions.     When one of my kind stumbles,    Benjamin... it's a mistake that's    there forever.  I can't tell you    which part of Curzon Dax couldn't    stop himself from acting shamefully    with another man's wife.  I can tell    you he did love her, for whatever    that's worth.",85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+329,SISKO,   Enough to kill her husband?,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+330,DAX,   So you are starting to question.,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+331,SISKO,   What else can I do?,85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+332,DAX,"   Nothing, Benjamin.  Nothing at all.",85   INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,,1992-11-17,Deep Space Nine
+333,RENORA,"   Lieutenant Dax... You're either two    hundred years older than I am... or    you're about the same age as my great    granddaughter.  At first I wondered    which of those you were.  Now I'm    bothered by the likelihood that you're    both.       Let's finish, please.  Commander?",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+334,SISKO,"   At what age did the host, Jadzia,    first want to be joined as a Trill?",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+335,DAX,   I wanted it since I was a child.  I    worked very hard for it.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+336,SISKO,"   The competition to become a Trill is    very strong, then, among potential    hosts.",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+337,DAX,"   Oh, yes.  It's considered a great    honor.",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+338,SISKO,   And how did young Jadzia finally    become a host candidate?,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+339,DAX,   By winning scholarships... competing    against other young people.  You're    tested in countless ways.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+340,SISKO,   Including psychological tests; to    determine the strength of character    of the prospective host.  Is that    true?,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+341,DAX,   Yes.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+342,SISKO,   And the young Jadzia excelled in    those tests of academics and    character... of psychological    stability.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+343,DAX,       Yes.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+344,SISKO,   If you can remember other things...    Remember that as well.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+345,SISKO,"   What academic degrees do you hold,    Lieutenant?",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+346,DAX,"   I have Premier Distinctions in    exobiology, zoology, astrophysics    and exoarchaeology.",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+347,SISKO,   How many of those degrees did you    earn before you were joined with the    symbiont Dax?,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+348,DAX,   All of them.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+349,SISKO,"       All of them.  As Jadzia;  Alone.  A    brilliant and independent young woman    who's done nothing in her life but    contribute to her society.       Madame Arbiter, how can anyone justify    trying her for a crime allegedly    committed by another entity before    she was even born?",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+350,TANDRO,"   This will only take a minute.     Lieutenant... As a Trill candidate,    did Jadzia fully understand the    responsibilities to be assumed upon    becoming a Trill?",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+351,DAX,   Yes.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+352,TANDRO,"   Did you willingly accept those    responsibilities, and whatever    consequences they might entail?",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+353,DAX,   Yes.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+354,TANDRO,   And would that not obviously include    the consequences of criminal acts    committed by Curzon Dax?,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+355,ENINA  ,   May I speak?,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+356,TANDRO,   Mother?,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+357,RENORA,   And you are?,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+358,ENINA,   I am Enina Tandro... Widow of General    Ardelon Tandro.       This hearing is unnecessary.  The    accusations are... erroneous.,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+359,TANDRO,   What are you talking about?,86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+360,ENINA,"       Madame Arbiter, Curzon Dax is accused    of having made a transmission to the    enemy that betrayed my husband.  But    I know where Curzon was at the exact    time that transmission was made.       He was in my bed... with me.",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+361,RENORA,"   Mister Tandro, I think you'll want    to re-examine your extradition    request.  Until then... this hearing    is adjourned.",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+362,QUARK,"   Calm yourselves; all bets'll be    paid... An orderly line, please...",86   INT. QUARK'S,QUARK'S,INT.,,1992-11-17,Deep Space Nine
+363,ENINA,   You were kind to try and protect    me... someone you never even met...,98   INT. PROMENADE SECOND LEVEL - FAVORING DAX & ENINA,PROMENADE SECOND LEVEL,INT.,,1992-11-17,Deep Space Nine
+364,DAX,   There's much of Curzon that's still    a part of me.  That still remembers    what you had together.,98   INT. PROMENADE SECOND LEVEL - FAVORING DAX & ENINA,PROMENADE SECOND LEVEL,INT.,,1992-11-17,Deep Space Nine
+365,ENINA,       But it was Curzon Dax who swore    himself to silence to preserve the    memory of General Tandro... Not    Jadzia.,98   INT. PROMENADE SECOND LEVEL - FAVORING DAX & ENINA,PROMENADE SECOND LEVEL,INT.,,1992-11-17,Deep Space Nine
+366,DAX,   I felt it was important to keep that    promise.  The General's memory is    cherished by your people...,98   INT. PROMENADE SECOND LEVEL - FAVORING DAX & ENINA,PROMENADE SECOND LEVEL,INT.,,1992-11-17,Deep Space Nine
+367,ENINA,"       And it will continue to be.  No one    will ever know he was the one who    tried to betray us... and that the    rebels killed him for the favor.       As for you, I ask only one further    kindness...",98   INT. PROMENADE SECOND LEVEL - FAVORING DAX & ENINA,PROMENADE SECOND LEVEL,INT.,,1992-11-17,Deep Space Nine
+368,DAX,   Of course.,98   INT. PROMENADE SECOND LEVEL - FAVORING DAX & ENINA,PROMENADE SECOND LEVEL,INT.,,1992-11-17,Deep Space Nine
+369,ENINA,"   Live, Jadzia Dax.  Live a long, and    fresh and wonderful life.",98   INT. PROMENADE SECOND LEVEL - FAVORING DAX & ENINA,PROMENADE SECOND LEVEL,INT.,,1992-11-17,Deep Space Nine
+370,BASHIR,   Are you all right?,98A  INT. PROMENADE - LOWER LEVEL,PROMENADE,INT.,,1992-11-17,Deep Space Nine
+371,DAX,"       Yes.  As a matter of fact, I think I    am.       Don't I recall your offering to escort    me safely home?",98A  INT. PROMENADE - LOWER LEVEL,PROMENADE,INT.,,1992-11-17,Deep Space Nine
+372,BASHIR,   That was four days ago.,98A  INT. PROMENADE - LOWER LEVEL,PROMENADE,INT.,,1992-11-17,Deep Space Nine
+373,DAX,   Was there a time limit?,98A  INT. PROMENADE - LOWER LEVEL,PROMENADE,INT.,,1992-11-17,Deep Space Nine
+374,BASHIR,       Hardly.,98A  INT. PROMENADE - LOWER LEVEL,PROMENADE,INT.,,1992-11-17,Deep Space Nine

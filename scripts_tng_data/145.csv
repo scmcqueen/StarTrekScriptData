@@ -1,0 +1,429 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's log, Stardate 42881.5.   We are in orbit around Antede   Three, awaiting the arrival of   two dignitaries from this world.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Manhunt""",1989-03-29,The Next Generation
+1,PICARD ,       Our mission is to carry them to   a conference on planet Pacifica...,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+2,PICARD ,       ... where their race will be given   the opportunity to join the   Federation.,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+3,PICARD,"   I thought you might find this   interesting, Mister Crusher. Few   humans have ever seen an Antedian   in the flesh.",2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+4,PICARD,"   Welcome. I'm Jean-Luc Picard,   captain of the Enterprise.",2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+5,WESLEY,"       Are they alright, Captain?",2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+6,PICARD,"   No, this is their preferred way   of space travel.",2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+7,PULASKI,"   Their physical condition appears   good enough, considering the   circumstances.",2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+8,PICARD,       It is a self-induced catatonic   state. Their way of dealing with   the trauma of spaceflight.,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+9,WESLEY,   Will we try to revive them?,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+10,PICARD,"   Not until we reach the Pacifica   conference. It's three days away.       You've prepared Sickbay facilities   for holding them, Doctor?",2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+11,PULASKI,   As soon as we make some   adjustments. Their physiology   is unusual.       Can you store them for a few   hours?,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+12,O'BRIEN,   Aye. I'll have them kept out of   the way here.,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+13,WESLEY,   What's in this container?,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+14,PULASKI,"   Their food. When they come out   of stasis, they will be very   hungry.",2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+15,WESLEY,   This is what they eat?,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+16,PULASKI,   In great quantities.,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+17,PICARD,       Provide security.,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+18,WORF,"   Understood, sir.",2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+19,WORF,       What a handsome race.,2    INT. CORRIDOR - ON PICARD,CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+20,RIKER,"   What did you think of the   Antedians, Wesley?",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+21,WESLEY,"   Well, they are rather   strange-looking, Commander.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+22,DATA,"   Judging a being by its physical   appearance is the last great human   prejudice, Wesley.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+23,PICARD,"   A point well taken. I'm sure   that to the Antedians, we're   equally unattractive.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+24,RIKER,"   It is interesting to consider just   how subjective ""beauty"" truly   is...",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+25,WORF,   Captain... we're being hailed by   a small transport vessel just   coming into range.,6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+26,TROI,"   Oh, my God!",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+27,PICARD,   What is the problem?,6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+28,TROI,   What can she be doing here?,6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+29,WESLEY,"   On the screen, Captain.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+30,TRANSPORT PILOT,"   Starship Enterprise, come in!",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+31,RIKER,"   We have you on our viewer, Pilot.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+32,TRANSPORT PILOT,   Enterprise... I have a passenger   -- a V.I.P. passenger -- who I'm   ordered to --,6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+33,MRS. TROI ,"   Let me talk to them, Pilot. I'm   much more articulate.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+34,TROI,   Mother!,6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+35,DATA,"   Captain, we are now receiving   Starfleet orders granting a   Lwaxana....",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+36,MRS. TROI,"       Lwaxana Troi, daughter of the   Fifth House, Holder of the Sacred   Chalice of Riix, heir to the Holy   Rings of Betazed.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+37,DATA,"   ... full ambassadorial status,   sir.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+38,RIKER,"   I'm afraid it's back into your   formal uniform, Captain.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+39,DATA,"   And yours too, Commander. She   is listed as representing the   Betazed government at the   conference.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+40,TROI,"   Mother, please don't do this to   me.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+41,MRS. TROI,"   Do what to you, Little One?       Oh, what naughty thoughts,   Jean-Luc. How wonderful you still   think of me in that way.",6    INT. BRIDGE,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+42,TROI,   It's so like my mother to do the   unexpected. She's famous for it.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+43,PICARD,   It will be nice to have her as   a guest of the Enterprise again.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+44,PICARD,   Energize.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+45,MRS. TROI,       Aaagh! Where are my legs?!,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+46,TROI,"   Where they belong, Mother, Right   under you.","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+47,MRS. TROI,"       Oh, wonderful. So they are!       But I'll never completely trust   this device, Jean-Luc...","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+48,TROI,"   He's ""Captain Picard,"" Mother...","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+49,MRS. TROI,   Aaagh!,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+50,PICARD,       Explain.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+51,RIKER,"   Sorry they startled you, Mrs.   Troi. These are Antedian   delegates... ah, temporarily being   stored here, I believe...","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+52,MRS. TROI,"   ""Delegates?"" The last time I saw   something like this, it was being   served on a plate.","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+53,MRS. TROI,"       But you, Jean-Luc, I was not aware   you had such handsome legs. My   valet is waiting. You may beam   him aboard now.","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+54,MRS. TROI,"   You remember Mister Homn, of course.","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+55,PICARD,   It would be hard to forget Mister   Homn. Welcome back to the   Enterprise.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+56,MRS. TROI,   I've retained his services despite   the outlandishly lustful thoughts   he spews in my direction. I   suppose the poor fellow just can't   help himself.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+57,MRS. TROI,       Perhaps you could show me to my   suite now?,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+58,PICARD,   Certainly.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+59,MRS. TROI,"   Put that down, Homn. We can't   deny the captain the honor of   carrying my belongings.","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+60,PICARD,   I won't interfere with Homn's   duties this time.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+61,MRS. TROI,"   That's not the real reason,   Jean-Luc. You forget I'm a   telepath.","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+62,RIKER,"   Look, since this apparently has   some meaning to you, Mrs. Troi,   I'll...","11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+63,RIKER,       ...carry...it.,"11   INT. TRANSPORTER ROOM - PICARD, RIKER AND TROI",TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+64,RIKER,    (trying not to sound     labored)   It's... just down this hall.,14   INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+65,MRS. TROI,"       He has nice legs too, Little One.   Is he still yours?",14   INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+66,TROI,"       Humans no longer own each other   that way, Mother.",14   INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+67,MRS. TROI,   Oh really?       That's a custom we may have to   introduce again.,14   INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+68,MRS. TROI,   Thank you.,16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+69,RIKER,   Glad I could help out.,16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+70,PICARD,"   I trust you'll be comfortable   here, Mrs. Troi. Now if you'll   excuse me, I must get back to my   duties.",16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+71,MRS. TROI,"   Captain, I will be serving a   Betazoid dinner of greeting   tonight. It is an ambassadorial   function.",16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+72,PICARD,"       Of course. It, uh, sounds   delightful.",16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+73,MRS. TROI,"   He's a fine man. Solid. Earnest.   Reliable. Perhaps a little on   the dull side, but all in all he's   not bad.",16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+74,TROI,   I cannot believe you! You sound   like you're sizing up a commodity.,16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+75,MRS. TROI,"   But that's exactly what men are,   darling. Especially human men.    (chuckles, strokes     Deanna's face)   Was your father ever unhappy with   me?",16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+76,TROI,"   No, he worshipped you, Mother.   But I'll never learn to see men   the way you do.",16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+77,MRS. TROI,"   You will as you mature, darling.   And the males in your life will   bless you for it.",16   INT. MRS. TROI'S QUARTERS - PICARD (OPTICAL),MRS. TROI'S QUARTERS - PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+78,WESLEY,   ... but it's true she complimented   Captain Picard on his legs?,"17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+79,DATA,   I would have thought a telepath   would be more discreet.,"17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+80,RIKER,"   No, it's just the opposite. She   knows what's in your mind and she   lets you know what's on hers.","17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+81,PICARD,"   We must not lose sight of the fact   that we're talking about someone   who has been granted ambassadorial   rank. Even if she appears a bit   eccentric, Lwaxana Troi must be   treated with appropriate respect.   Is that understood?","17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+82,DATA,   Our orders on her mentioned   nothing specific except...,"17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+83,PICARD,"       Except what, Mister Data?","17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+84,DATA,"   We are to cooperate with her as   fully as possible, deliver her   there untroubled, rested...    (seeing Picard's     expression)   I assume those were merely   courtesies due her rank, sir.","17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+85,PICARD,       See that every bridge officer and   supervisor has the full text of   that transmission.,"17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+86,RIKER,"   Aye, sir.","17   INT. MAIN BRIDGE - RIKER, WESLEY, WORF, DATA",MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+87,PICARD,   Picard to Pulaski. When was the   last time you looked in on our   Antedian guests?,19   INT. MAIN BRIDGE - FAVORING PICARD,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+88,PULASKI,"   I'm doing so right now, Captain.",20   INT. TRANSPORTER ROOM - CLOSE ON PULASKI,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+89,PICARD ,   Are they still catatonic?,20   INT. TRANSPORTER ROOM - CLOSE ON PULASKI,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+90,PULASKI,   Status of the beings is unchanged.   Pulse still steady -- respiration   normal for them.,20   INT. TRANSPORTER ROOM - CLOSE ON PULASKI,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+91,PICARD,   Understood. Keep me informed --   Picard out.,21   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+92,PICARD,"   I believe I'll get some rest.       It will be a dress uniform dinner,   gentlemen.",21   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+93,RIKER,   Sir?,21   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+94,DATA,"   Inquiry, Commander: to which   dinner was the captain referring?",21   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+95,RIKER,   Nothing I've been invited to.   Have any of you?,21   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+96,RIKER,       Very interesting!,21   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+97,PICARD,"   You're not attending the dinner   with us this evening, Doctor?",23   INT. ENTERPRISE CORRIDOR - PICARD,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+98,PULASKI,"   I've already eaten, Captain. But   thanks anyway.",23   INT. ENTERPRISE CORRIDOR - PICARD,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+99,MRS. TROI ,       Come in!,23   INT. ENTERPRISE CORRIDOR - PICARD,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+100,PICARD,"   Tell me Mister Homn, when will the   others be arriving?",24   INT. MRS. TROI'S QUARTERS - PICARD,MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+101,PICARD,       The other officers?       Commander Riker? Deanna?,24   INT. MRS. TROI'S QUARTERS - PICARD,MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+102,MRS. TROI,"       Hello, Jean-Luc. So glad you   could come.",24   INT. MRS. TROI'S QUARTERS - PICARD,MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+103,MRS. TROI,"       A toast: to Earthmen... who   despite their faults, have a   unique ability to charm women of   all races, in all corners of the   galaxy.",27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+104,PICARD,"       Speaking for the men of Earth,   which is an awesome responsibility   indeed, I thank you.",27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+105,MRS. TROI,"       I know what you're thinking,   Captain.",27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+106,PICARD,       You do?,27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+107,MRS. TROI,   You're wondering if I've been   seeing any other man on a serious   basis.,27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+108,PICARD,       Well actually I wasn't --,27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+109,MRS. TROI,"   -- I wouldn't worry about it,   Jean-Luc.     ",27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+110,MRS. TROI ,"    (reaches out, touches     his hand)   Competition seems to bring out   the best in the human male.",27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+111,PICARD,"   I must admit, I wasn't expecting   this... setting. I assumed that   my high-ranking officers would   also be attending.",27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+112,MRS. TROI,   Never assume anything when it   comes to Lwaxana Troi. A Betazoid   woman is full of surprises.,27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+113,MRS. TROI,"       Strange, I'm not that hungry   tonight.       I wonder what's making me lose   my appetite? Any ideas?",27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+114,PICARD,"   Oh yes, you're giving thanks for   your food. I'd forgotten about   that.       I wonder how many other cultures   have similar customs.",27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+115,MRS. TROI,   I don't know.,27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+116,PICARD,   Let's find out.    (touches his     communicator)   Commander Data.,27   INT. MRS TROI'S QUARTERS (OPTICAL),MRS TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+117,DATA,"   Yes, Captain.",30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+118,PICARD,"   Mrs. Troi and I are having a very   interesting discussion about the   various ways by which societies   give thanks. For instance, the   Betazoids use of the chime.",30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+119,DATA,"   The use of the chime is unique,   but not at all dissimilar to the   Ooolans of Marejaretus Six, who   use two large stones which are   continuously struck during the   meal. Those at the dinner must   eat until the stones are broken.   Or, the oligarchy on Atifs Four,   which require a young male to...",30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+120,PICARD,"       Commander, this is absolutely   fascinating, don't you agree, Mrs.   Troi? Data, if your duties   permit, why don't you join us for   dessert?",30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+121,DATA,"   You are forgetting sir -- I do not   digest foodstuffs, therefore I   cannot participate in the   consumption of your post-main   course edibles.",30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+122,MRS. TROI,   What'd he just say?,30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+123,PICARD,"   You don't have to eat to join us,   Commander. I'm sure Mrs. Troi   would simply enjoy the pleasure   of your company.",30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+124,DATA,"   Indeed, sir. I am on my way; Data   out.",30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+125,MRS. TROI,"       How could you possibly think I'd   want to share our special time   together, with that robot of   yours?",30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+126,PICARD,   Because... because of his   wonderful after-dinner   conversation. His anecdotes are   the stuff of legends aboard this   ship.,30A  INT. BRIDGE - SCIENCE ONE - DATA (INTERCUT AS NEEEDED),BRIDGE - SCIENCE ONE - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+127,DATA,"   -- So by using the square root   of pi and then multiplying it by   nine to the third power, I was   able to accurately calculate the   distance between the Omicron   galaxy and the Crab Nebula.",31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+128,PICARD,"   Fascinating, Data. I'm sure Mrs.   Troi would love to hear the one   about the, uh, anomalous chemical   composition of... say... brown   dwarf stars.",31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+129,MRS. TROI,"   Well, not really --",31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+130,DATA,"       -- Yes Captain, that is a   particularly spellbinding subject.",31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+131,DATA,"       For most stars, the rare-Earth   element Europium is enriched   relative to samarium and   gadolinium...",31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+132,MRS. TROI,       Is that so?,31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+133,DATA,"   It is! However in brown dwarf   stars, the element Europium is   anomalously depleted.",31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+134,MRS. TROI,       Fascinating.,31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+135,DATA,"   But that is only the beginning.   If the abundances of the elements   terbium, dysprosium, holmium and   erbium are also factored into the   analysis...",31   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+136,PULASKI,"   Your mother seems quite an   interesting woman, Deanna.",33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+137,TROI,"   Doctor, perhaps I should tell you   something about my mother's   condition at this time.",33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+138,PULASKI,   Condition at this time?!,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+139,TROI,   Something that occurs to Betazoid   females at mid-life. We call it   the Phase.,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+140,PULASKI,   At mid-life as in the human   female's menopause?,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+141,TROI,"       Almost the exact opposite. It   is only at mid-life that Betazed   females become... well, fully   sexual, if you know what I mean.",33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+142,PULASKI,"   Yes, perhaps I do. I just heard   her voice fairly singing when she   called the captain into her room.",33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+143,TROI,   I wonder if I shouldn't warn the   captain?,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+144,PULASKI,   Nooo. As ship's doctor I'd   consider it excellent exercise   for his reflexes and agility.,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+145,TROI,       Doctor... !,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+146,PULASKI,   In staying ahead of your mother.,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+147,TROI,   Yes. An animal is always at its   best when hunted...,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+148,PULASKI,   Or when hunting.,33   INT. ENTERPRISE CORRIDOR - TROI AND PULASKI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+149,DATA,"   ... and at this point, the second   co-orbital satellite avoids a   collision with the first.",35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+150,MRS TROI,"       -- Deanna, darling! Thank the   Four Dieties you're here.",35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+151,TROI,   I hope I'm not interrupting.,35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+152,PICARD,"       No, as a matter of fact, I need   to get back to the bridge myself.",35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+153,DATA,   Perhaps I should stay here and   further entertain our guest.,35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+154,MRS. TROI,"   -- No! I mean, I think you're   needed on the bridge as well.",35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+155,PICARD,"       Thank you for a delicious meal.   Let's uh, do it again sometime.",35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+156,MRS. TROI,"       Oh, I know we will.",35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+157,MRS. TROI,"   Little One, the captain is every   bit as charming as your father   was.",35   INT. MRS. TROI'S QUARTERS - DATA (OPTICAL),MRS. TROI'S QUARTERS - DATA,INT.,"""Manhunt""",1989-03-29,The Next Generation
+158,PICARD,"       Data, you'll never know just how   much I owe you for that.","36   INT. ENTERPRISE CORRIDOR, OUTSIDE MRS. TROI'S QUARTERS","ENTERPRISE CORRIDOR, OUTSIDE MRS. TROI'S QUARTERS",INT.,"""Manhunt""",1989-03-29,The Next Generation
+159,DATA,"   Indeed, Captain? I know many more   interesting anecdotes as well.","36   INT. ENTERPRISE CORRIDOR, OUTSIDE MRS. TROI'S QUARTERS","ENTERPRISE CORRIDOR, OUTSIDE MRS. TROI'S QUARTERS",INT.,"""Manhunt""",1989-03-29,The Next Generation
+160,RIKER,"   Status of the Antedian delegates   unchanged, Captain.",37   INT. MAIN BRIDGE - THE CAPTAIN AND DATA,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+161,PICARD,   What's our e.t.a. to the   conference?,37   INT. MAIN BRIDGE - THE CAPTAIN AND DATA,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+162,RIKER,"   Forty five point three hours, sir.",37   INT. MAIN BRIDGE - THE CAPTAIN AND DATA,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+163,PICARD,"   Very good, Number One. I'll be   in my Ready Room.",37   INT. MAIN BRIDGE - THE CAPTAIN AND DATA,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+164,TROI,   Why would you come aboard at a   time like this?,38   INT. MRS. TROI'S QUARTERS - HOMN,MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+165,MRS. TROI,"       I had no choice. I was going   to Pacifica, you were going to   Pacifica, it seemed the   appropriate thing to do.",38   INT. MRS. TROI'S QUARTERS - HOMN,MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+166,TROI,   Don't be absurd -- you knew what   this would lead to...,38   INT. MRS. TROI'S QUARTERS - HOMN,MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+167,TROI,   What stage is it in?,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+168,MRS. TROI,   I have it completely under   control.,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+169,TROI,       What stage is it in?,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+170,MRS. TROI,"       Well, far enough along for me to   enjoy it, Little One.",39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+171,TROI,       Now I know why you wore that   dress.,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+172,MRS. TROI,       Don't be ridiculous. It's just   a simple little dress -- there's   nothing provocative about it.,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+173,TROI,       What are we going to do?,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+174,MRS. TROI,   I'm going to do the only honorable   thing there is to do.       And I'd say the captain has the   inside track.,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+175,TROI,   Don't even think it!,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+176,MRS. TROI,   Why not? He was thinking about   it all through dinner.,39   INT. ENTERPRISE CORRIDOR - ON THE TROIS,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+177,PICARD,   I was what?!,40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+178,PICARD,"       I tell you Deanna, for a telepath,   your mother's accuracy leaves much   to be desired.",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+179,TROI,"   Actually, her telepathic prowess   is quite advanced. Except for   now.",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+180,RIKER,"   ""Except for now?""",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+181,PICARD,"   Don't misunderstand me, Counselor.   Your mother is a beautiful   person...",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+182,TROI,       My mother is just beginning a   physiological phase... one that   all Betazoid women must deal with   as they enter mid-life.,40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+183,RIKER,"   It's something Troi warned me   about when we were first seeing   each other.       When a Betazoid female goes   through ""the Phase,"" it quadruples   her sex drive.",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+184,TROI,   Or more...,40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+185,RIKER,"       ... ""or more?"" I didn't know   that.",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+186,TROI,   I didn't want to frighten you.       My mother has opted for the only   dignified course of action open   to her.,40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+187,RIKER,   Isolation?,40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+188,TROI,"   She has chosen to focus all of   her sexual energy on one male.   This man will eventually become   her husband, of course.       It seems Captain, that you are   the early favorite.",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+189,RIKER,"   Congratulations, sir!",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+190,PICARD,"   I am not amused, Number One.       There must be a way to convince   her that it's quite impossible   -- without offending her.",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+191,TROI,"   You cannot apply human style logic   to this, Captain.     ",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+192,TROI ,"   Mother would be shocked and deeply   resentful, should you spurn her   advances. She would naturally   take it very personally.",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+193,PICARD,"   Well, considering Starfleet's   orders not to get her upset, I   think it might be prudent for me   to make myself less available for   the duration of this journey.",40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+194,RIKER,   Agreed.,40   INT. CAPTAIN'S READY ROOM - TIGHT ON PICARD'S FACE,CAPTAIN'S READY ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+195,PICARD ,"   Setting: San Francisco   California, United States Of   America, the year 1945 A.D.,   program to fit the novel, ""The   Long Dark Tunnel"".",42   INT. ENTRANCE TO HOLODECK - ANGLING ON THE COMPUTER,ENTRANCE TO HOLODECK,INT.,"""Manhunt""",1989-03-29,The Next Generation
+196,COMPUTER,   You may enter when ready.,42   INT. ENTRANCE TO HOLODECK - ANGLING ON THE COMPUTER,ENTRANCE TO HOLODECK,INT.,"""Manhunt""",1989-03-29,The Next Generation
+197,PICARD ,"   Dixon Hill's memoirs: date, the   1940's...",44   EXT. SPACE - ENTERPRISE IN FLYBY (OPTICAL),SPACE - ENTERPRISE IN FLYBY,EXT.,"""Manhunt""",1989-03-29,The Next Generation
+198,PICARD ,"       It was a grey day in the city by   the bay. My pockets were as empty   as a press agent's heart. I   needed a case, that's for sure,   but the private dick racket was   as slow as the horse I just blew   my last two bucks on.",45   INT. HALLWAY LEADING TO DIXON HILL'S OFFICE - DAY,HALLWAY LEADING TO DIXON HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+199,PICARD,"       Hello, it's good to see you again.",46   INT. DIXON HILL'S RECEPTION ROOM - PICARD,DIXON HILL'S RECEPTION ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+200,SECRETARY,"       You're too much, Dix. You make   it sound like you ain't seen me   in a year.",46   INT. DIXON HILL'S RECEPTION ROOM - PICARD,DIXON HILL'S RECEPTION ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+201,SECRETARY,   You got two calls...,46   INT. DIXON HILL'S RECEPTION ROOM - PICARD,DIXON HILL'S RECEPTION ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+202,PICARD,   New cases?,46   INT. DIXON HILL'S RECEPTION ROOM - PICARD,DIXON HILL'S RECEPTION ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+203,SECRETARY,"   Are you kiddin'? The last time   we got a new case, Hitler wasn't   running Germany.       Your tailor called -- he wants   his dough for cleaning your other   suit -- and your landlord called -- you   can guess what he wants.",46   INT. DIXON HILL'S RECEPTION ROOM - PICARD,DIXON HILL'S RECEPTION ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+204,PICARD,"       I see... Well, pay the tailor and   stall the landlord.",46   INT. DIXON HILL'S RECEPTION ROOM - PICARD,DIXON HILL'S RECEPTION ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+205,SECRETARY,       Pay the tailor...       Pay the tailor? With what?,46   INT. DIXON HILL'S RECEPTION ROOM - PICARD,DIXON HILL'S RECEPTION ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+206,MRS. TROI,   Unavailable? Ship's business?,48   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+207,MRS. TROI,       Ship's business takes precedence   over me?,48   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+208,TROI,   I'm afraid so.,48   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+209,MRS. TROI,"   Hmmm... Oh well, he was too old   for me anyway.",48   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+210,MRS. TROI,"       Homn, let's consider my alternate   plan.",48   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+211,TROI,   Alternate plan?,48   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+212,MRS. TROI,"   You worry too much, Little One.   Your mother has the situation well   in hand.",48   INT. MRS. TROI'S QUARTERS (OPTICAL),MRS. TROI'S QUARTERS,INT.,"""Manhunt""",1989-03-29,The Next Generation
+213,SECRETARY ,"       There's a gentleman here to see   you, Mister Hill.",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+214,PICARD,"   Thank you, Madeline.",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+215,PICARD,"   Yes, as the book said, everything   about you is big: big   shoulders... big neck... big   fists...",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+216,SLADE,   You a private dick?,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+217,PICARD,"   Says so on my door, doesn't it?",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+218,SLADE,   I want you should do a job for   me.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+219,PICARD,   Let me guess -- you want dance   lessons.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+220,SLADE,       You're not trying to be funny are   you? I don't like funny things.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+221,PICARD,"   Yes... yes, I understand that.   No funny things.",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+222,SLADE,   I want you to find a missing   person.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+223,PICARD,   Alva? Let's see -- I'll bet she's   your sister...,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+224,SLADE,"   Yes. She's my sister, and I want   you to find her!",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+225,PICARD,"   Take it easy, Mac! I can't take   the job of finding Alva if you   break me like a matchstick.",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+226,PICARD,"    (continuing;     straightening tie)   As a matter of fact, I knew who   Alva was all along. I've read   the book.",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+227,SLADE,   Read what book? Are you being   funny again?,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+228,PICARD,       You got a picture?,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+229,SLADE,   Of Alva?,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+230,PICARD,   Of course of Alva! The novel   wasn't illustrated.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+231,PICARD,"   I believe the 1940 expression was   ""hubbah, hubbah, hubbah.""",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+232,SLADE,   And I still say you talk funny.   I don't like funny talk.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+233,PICARD,"   That's part of the cost of hiring   a private eye like me, Slade.   I'm very different from most you   could get.",49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+234,SLADE,   I want you to find Alva. I'll   pay you.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+235,PICARD,       Okay. I'll find Alva for you;   but you might not like what I   find.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+236,PICARD ,   This is so much fun.,49   INT. DIXON HILL'S OFFICE - ON PICARD (OPTICAL),DIXON HILL'S OFFICE - ON PICARD,INT.,"""Manhunt""",1989-03-29,The Next Generation
+237,WORF,"   Even in this state, they possess   a certain dignity, a graceful   countenance.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+238,WESLEY,"   If you say so, Lieutenant.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+239,WORF,       I see. Is this how you felt when   you first saw me?,51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+240,WESLEY,"       Well... maybe at first.       But now that I've seen a few more   Klingons, I know that you're real   handsome, for... for a Klingon.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+241,WESLEY,"   That uh, didn't come out quite   right.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+242,MRS. TROI,"   I still say they'd look better   in sauce.    (moves closer;     concentrating)   No, nothing.       When will the good captain revive   them?",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+243,WESLEY,"   Not until we reach Pacifica,   ma'am.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+244,MRS. TROI,"   You seem a fine boy. One day you   will grow up to be a big, strong   man.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+245,MRS. TROI,"       But even though humans age far   more rapidly than Betazoids, I   cannot afford to wait for you to   mature.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+246,MRS. TROI,"       But you... your innermost thoughts   are primal, savage. I like that   in a man.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+247,WORF,   I am not a man.,51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+248,MRS. TROI,"   Which is in your favor, men so   often being irrational and   egotistical.       But I'm afraid I've grown   accustomed to human companionship.   It's nothing personal, you would   have made a fine choice.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+249,MRS. TROI,"   Who's next, Mister Homn?",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+250,MRS. TROI,"   Ah yes. Let's get to it, I'm not   getting any younger.",51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+251,WESLEY,   What was that all about?,51   INT. TRANSPORTER ROOM - WESLEY AND WORF,TRANSPORTER ROOM,INT.,"""Manhunt""",1989-03-29,The Next Generation
+252,MRS. TROI,"   Lieutenant La Forge, I wish to   be direct with you.",52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+253,GEORDI,       I prefer it that way. Now what   are you being direct about?,52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+254,MRS. TROI,   I have decided to give all the   bridge officers an equal   opportunity to gain my favor.,52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+255,GEORDI,   I see.,52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+256,MRS. TROI,"   Ah, but you don't, and that's the   problem. I wonder whether a   sightless man could ever   appreciate great beauty.",52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+257,GEORDI,   That's funny... I've always had   the same doubts about the sighted.,52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+258,MRS. TROI,   Odd. How so?,52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+259,GEORDI,"   Because my eyes don't seduce my   mind, I'm driven to find beauty   in other things -- things sighted   people tend to ignore. The lovely   temperature gradiations of bodies,   the moisture patterns, the   indications of inner peace and   harmony...",52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+260,MRS. TROI,"       Very interesting, Lieutenant. But   I'm not sure if that's good or   bad. A less perceptive man could   be easier to live with.",52   INT. ENGINEERING - GEORDI,ENGINEERING,INT.,"""Manhunt""",1989-03-29,The Next Generation
+261,PICARD,"   Twenty dollars a day, plus   expenses. Fifty when I find her.",57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+262,PICARD,   You know it's wonderful to need   money.,57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+263,SLADE,       You'll get more when you find   Alva.,57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+264,PICARD,   Let's see... I must have been   skimming pages about here. What   part did you play?,57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+265,TOUGHGUY,   Freeze.,57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+266,PICARD,"   Ah, yes, of course.",57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+267,TOUGHGUY,"   I'm looking for Slade Bender,   Hill. I understand he was here   yesterday.",57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+268,PICARD,"   My, my, time does fly in the   Holodeck.",57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+269,PICARD,"       Even if I happen to know a Slade   Bender, why should I help you?",57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+270,TOUGHGUY,"   Because he owes me money. And   because if you don't, I'll blow   your head off.",57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+271,PICARD,   I knew you'd say something like   that. Marvelous.,57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+272,TOUGHGUY,"   Cut the crap, Hill! Tell me where   he is or so help me, I'll plug   ya!",57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+273,PICARD,   I don't think so.,57   INT. END OF HALLWAY OUTSIDE HILL'S OFFICE - PICARD,END OF HALLWAY OUTSIDE HILL'S OFFICE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+274,TOUGHGUY,"   Come on, drop! I shot ya.",59   INT. CHANDLERLAND HALLWAY - PICARD AND TOUGHGUY,CHANDLERLAND HALLWAY,INT.,"""Manhunt""",1989-03-29,The Next Generation
+275,PICARD,"   No, the gun misfired. Thankfully   the Holodeck is handling it   correctly and the mortality   failsafe is functional.",59   INT. CHANDLERLAND HALLWAY - PICARD AND TOUGHGUY,CHANDLERLAND HALLWAY,INT.,"""Manhunt""",1989-03-29,The Next Generation
+276,PICARD,"       But in some ways, the program is   almost too accurate.",59   INT. CHANDLERLAND HALLWAY - PICARD AND TOUGHGUY,CHANDLERLAND HALLWAY,INT.,"""Manhunt""",1989-03-29,The Next Generation
+277,SECRETARY,"   Dixon, you're hurt!",59   INT. CHANDLERLAND HALLWAY - PICARD AND TOUGHGUY,CHANDLERLAND HALLWAY,INT.,"""Manhunt""",1989-03-29,The Next Generation
+278,PICARD,   Don't worry about it.       I'm going out for a drink.,59   INT. CHANDLERLAND HALLWAY - PICARD AND TOUGHGUY,CHANDLERLAND HALLWAY,INT.,"""Manhunt""",1989-03-29,The Next Generation
+279,REX,"   Well hello, Dixon. Haven't seen   you in a while.",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+280,REX,"       What's it been, four hours?",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+281,PICARD,   You must be Rex. Am I right?,61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+282,REX,"   If you gotta ask me that pal, you   need a drink.",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+283,PICARD,"       You're right, I do need a drink.",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+284,REX,   The usual?,61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+285,PICARD,"       Let's see... Scotch, neat?",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+286,REX,"       What else?       I hate to be the bearer of bad   news old buddy, but you're leakin'   blood.",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+287,PICARD,       So? I've got plenty more where   that came from.,61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+288,REX,"       Geez, Dix. You're tough as   nails.",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+289,PICARD,"   Uggh, I'm going to have to get   used to that.",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+290,REX,"       Yeah, it's only your third one   today.",61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+291,PICARD,   What the hell... make it four.,61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+292,REX,   I'll put it on your tab.,61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+293,PICARD,       Cash! I just took on a case.,61   INT. REX'S BAR - ON REX,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+294,PULASKI COM,   Bridge this is Doctor Pulaski.   We have completed the transfer.   The Antedians are now in Sickbay.,64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+295,RIKER,"   Acknowledged, Doctor.       E.t.a. to Pacifica, Mister Crusher?",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+296,WESLEY,"       Twelve point four hours, sir.   That will get us there   approximately two hours before   the conference begins.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+297,TROI,"   Mother, what are you doing here?   You can't just stroll up to the   bridge whenever you feel like it.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+298,MRS. TROI,"       I didn't just stroll up, dear.   I took the turbotube, or whatever   you call it.       The captain's not here?",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+299,RIKER,"   He's busy elsewhere, ma'am.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+300,MRS. TROI,"       Well, no matter. I have other   interests as well.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+301,TROI,"       You're scheming something, Mother.   I can tell.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+302,MRS. TROI,"       You're always so melodramatic,   Little One. I'm not scheming,   I'm deciding.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+303,MRS. TROI,   Tell me Commander... what is your   opinion of Betazoid women?,64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+304,RIKER,"   Well... I've only your daughter   and you. But judging from that,   I'd have to say they're the   fairest in the galaxy.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+305,MRS. TROI,"       He has excellent taste, Little   One.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+306,TROI,       That's enough! This is getting   embarrassing.,64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+307,MRS. TROI,"       My lovely daughter has always   found it difficult to accept   compliments from male admirers.   I however, long ago learned to   accept them.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+308,MRS. TROI ,"       The key is learning how to endure   constant flattery without letting   it go to your head. Don't you   agree, Commander?",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+309,RIKER,"   If you say so, ma'am.",64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+310,MRS. TROI,       I like that answer! Now here's   a man who knows how to defer to   a lady. I only hope the rest of   you men are listening.,64   INT. MAIN BRIDGE - RIKER,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+311,REX,"   ... So she says ""Rex, when are   you gonna sell the bar and get   a real job? Make a shoe, mend   a fence, do something useful?""   Can you believe that, Dix?",68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+312,PICARD,"   It's hard to believe, Rex.",68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+313,REX,"   She just doesn't understand the   service I perform here. My   regulars depend on me to pour and   listen, listen and pour. I'm like   some kind'a psychologist to you   guys, am I right?",68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+314,PICARD,   I recognize the size of the   shadow.     ,68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+315,PICARD ,"    (speaking, without     turning around)   Hello Slade. Buy you a drink?",68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+316,SLADE,   Where's my Alva?,68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+317,PICARD,   I'm working on it.,68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+318,SLADE,    (grabbing Picard's     shoulders)   You're not working hard enough.,68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+319,REX,"   Hey pal, that's my buddy you're   manhandling there! Maybe you   oughta --",68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+320,REX,   -- Oughta go right ahead with what   you were saying.,68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+321,SLADE,"   I paid you money, Hill. Where   is she?",68   INT. REX'S BAR - PICARD,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+322,PULASKI,   The blood chemistry and brain   organization of these creatures   is completely outside of my   experience... But it seems their   metabolic rates are increasing.,69   INT. SICKBAY - DR. PULASKI (OPTICAL),SICKBAY - DR. PULASKI,INT.,"""Manhunt""",1989-03-29,The Next Generation
+323,WORF,   Is that good or bad?,69   INT. SICKBAY - DR. PULASKI (OPTICAL),SICKBAY - DR. PULASKI,INT.,"""Manhunt""",1989-03-29,The Next Generation
+324,PULASKI,"   It's good, I think.",69   INT. SICKBAY - DR. PULASKI (OPTICAL),SICKBAY - DR. PULASKI,INT.,"""Manhunt""",1989-03-29,The Next Generation
+325,PULASKI ,   Pulaski to bridge.,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+326,RIKER,   Riker here.,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+327,PULASKI ,   The Antedians are coming around.   They're currently in the early   stages of post-hibernation.,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+328,RIKER,   How long before they're fully   conscious?,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+329,PULASKI,   I'd guess it to be a matter of   hours now.,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+330,RIKER,"   Very good, Doctor, I'll notify   the captain. Riker out.       If you'll excuse me, ma'am.",70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+331,MRS. TROI,   Are you going to see the captain?   I thought he was tied up on   ship's business.,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+332,RIKER,"   In a manner of speaking... he is.   I'm uh, not going to interrupt   him, I'm simply going to inform   him.",70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+333,MRS. TROI,   What excellent timing! You can   also inform him about us.,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+334,RIKER,   Us?,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+335,MRS. TROI,"   You don't mind if I let your   bridge crew know first, do you   William?",70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+336,MRS. TROI,"    (continuing, to     everyone)   Dear friends... you're all invited   to a prestigious occasion on the   planet Pacifica.",70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+337,TROI,       Oh no.,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+338,MRS. TROI,"       There, on the shores of the   western sea... in a traditional   Betazoid ceremony... your   Commander Riker and I will be   joined in the union of holy   wedlock.",70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+339,WESLEY,   Married?,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+340,MRS. TROI,       'Till death do us part.,70   INT. BRIDGE - FAVORING RIKER,BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+341,RIKER,   Mrs. Troi... I don't know how to   put this --,72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+342,MRS. TROI,"   -- I know just how you feel, dear.       Overwhelmed with excitement.   Believe me, I understand.",72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+343,MRS. TROI,"       We'll talk about the details   later. Right now, there are   preparations to be made.",72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+344,TROI,   Why did you stop me? Someone   needs to set her straight!,72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+345,RIKER,   I'd rather let the captain handle   that.,72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+346,TROI,   Coward!,72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+347,RIKER,   Simply following Starfleet's   orders. Keep her mind untroubled   until the conference.,72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+348,DATA,"   Are you planing on going into the   Holodeck, Commander?",72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+349,RIKER,"   Thought I might, Data. Want to   come along?",72   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+350,DATA,"   I have mastered the language, or   ""lingo"" of the period, sir. Also,   the mannerisms and body language.",74   INT. HALLWAY LEADING TO HOLODECK - MATCHING CUT,HALLWAY LEADING TO HOLODECK,INT.,"""Manhunt""",1989-03-29,The Next Generation
+351,DATA,"   For example, this is a gesture   denoting confidence and physical   prowess. It is effective in   attracting females and frightening   off would-be adversaries.",74   INT. HALLWAY LEADING TO HOLODECK - MATCHING CUT,HALLWAY LEADING TO HOLODECK,INT.,"""Manhunt""",1989-03-29,The Next Generation
+352,DATA,"   Should anything in there confuse   you sir, do not hesitate to ask.",74   INT. HALLWAY LEADING TO HOLODECK - MATCHING CUT,HALLWAY LEADING TO HOLODECK,INT.,"""Manhunt""",1989-03-29,The Next Generation
+353,RIKER,"   It's comforting to know I'm with   an expert Data, but we're really   not going to be there that long.       Computer...",74   INT. HALLWAY LEADING TO HOLODECK - MATCHING CUT,HALLWAY LEADING TO HOLODECK,INT.,"""Manhunt""",1989-03-29,The Next Generation
+354,PICARD,"   She could be anywhere, Slade.   You can't expect me to find her   in one afternoon.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+355,SLADE,   It's been three days.,76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+356,PICARD,       Has it really? What I mean is   -- you gotta have patience. I'll   find her; I guarantee it.,76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+357,SLADE,"    (earnest, almost     child-like)   She'd contact me if she knew I   was lookin' for her.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+358,REX,"   Come on, pal! So she told you   that? So what? If I had a dime   for every time a dame's said that   to a guy --",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+359,REX,       -- I'd... probably have less than   a dollar. Cuz a girl never says   that unless she really means it.,76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+360,SLADE,       See? I want you to find my   sister!,76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+361,DATA,"   In the last program here, we said   I was from South America. It   seemed to explain my unorthodox   appearance.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+362,PICARD,   Easy Slade. They're friends of   mine.,76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+363,RIKER,"   Sorry to bother you, Captain.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+364,PICARD,   -- Call me Dixon.,76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+365,RIKER,"   -- Sorry to bother you, Dixon,   but our two ""passengers"" are   awakening.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+366,PICARD,"   Well then, it's time to go.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+367,REX,"   Your friends've got time for one   drink, haven't they Dix?",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+368,PICARD,"   Sure, I can afford another round.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+369,DATA,   Very accurate. Fascinating.,76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+370,PICARD,"   These are my associates...       ""Nails"", from Chicago.       And --",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+371,DATA,"   Carlos, from South America.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+372,REX,"   Sit right down fellas, and tell   me your troubles.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+373,RIKER,"       Troubles I've got, sir. There's   a certain woman, a wealthy and   beautiful woman, who suddenly says   she's going to marry me.",76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+374,REX,   She's got looks and bucks? Sounds   like you've got yourself a heck   of a deal.,76   INT. REX'S BAR - SAME SETTING AS BEFORE,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+375,MRS. TROI,"       My fiance just has to see how I   look in this. Come along, Homn.",77   INT. MRS. TROI'S QUARTERS - MRS. TROI (OPTICAL),MRS. TROI'S QUARTERS - MRS. TROI,INT.,"""Manhunt""",1989-03-29,The Next Generation
+376,MRS. TROI,"   Tell me, computer, is Commander   Riker still on the bridge?",78   INT. ENTERPRISE CORRIDOR - MRS. TROI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+377,COMPUTER,   Negative. Riker is currently in   Holodeck Three.,78   INT. ENTERPRISE CORRIDOR - MRS. TROI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+378,MRS. TROI,   Holodeck? Where is that?,78   INT. ENTERPRISE CORRIDOR - MRS. TROI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+379,COMPUTER,   Follow the com panel lights. They   will lead you there.,78   INT. ENTERPRISE CORRIDOR - MRS. TROI,ENTERPRISE CORRIDOR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+380,REX,"   Good God, what's that?",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+381,REX,"   I'll bet that's the broad with   the big bucks!       Come on over here, darlin'. I   got the best stool in the house   saved for ya.",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+382,MRS. TROI,       I'm surprised you let this part   of the ship get this dirty.,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+383,PICARD,"       Actually, that's the first   officer's job.",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+384,RIKER,"       Well, as a matter of fact...",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+385,MRS. TROI,"   Relax, Commander. You have begun   making your true feelings clear.   Obviously you feel unable to   handle me.",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+386,REX,"   Anyway, why would a beautiful   high-class lady like yourself...       ... want to hook up with a mug like   that? You're too good for him,   if you ask me.",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+387,MRS. TROI,   I couldn't agree more.,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+388,REX,"   So... what'llitbe, Doll?",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+389,MRS. TROI,   You are a most interesting person.,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+390,REX,"   You're not so bad yourself. In   fact, you're as much class as this   joint's ever seen.",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+391,REX,"   Here -- on the house. It's   French... well, almost.",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+392,MRS. TROI,   This is the most remarkable man.   I have never met anyone quite   like him.,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+393,PICARD,   I don't suppose you have.,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+394,MRS. TROI,   He's strong. I feel no thoughts   from him... nothing. I've never   known a man so able to keep his   true feelings completely hidden.,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+395,PICARD,   That's because...,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+396,MRS. TROI,   No man has ever been such a   mystery to me. I usually know   their thoughts before they do.,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+397,REX,"   But not me, huh?",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+398,MRS. TROI,   No. And I never realized how   erotic that could be. Carry my   beverage to that table... we have   some things to talk about.,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+399,RIKER,   Should we tell her?,79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+400,PICARD,"   I think it's only fair, but let's   allow her the moment.",79   INT. REX'S BAR - SAME SETTING,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+401,ANTEDIANS,   Food-food-food-food-food--,83   INT. SICKBAY - PULASKI AND WORF,SICKBAY,INT.,"""Manhunt""",1989-03-29,The Next Generation
+402,PULASKI,   Worf! The vermicula!,83   INT. SICKBAY - PULASKI AND WORF,SICKBAY,INT.,"""Manhunt""",1989-03-29,The Next Generation
+403,PULASKI,       Pulaski to Captain Picard.,83   INT. SICKBAY - PULASKI AND WORF,SICKBAY,INT.,"""Manhunt""",1989-03-29,The Next Generation
+404,PICARD,"   Go ahead, Doctor.",84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+405,PULASKI COM,   Our passengers are on their feet.,84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+406,PICARD,   Understood.,84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+407,RIKER,   I had better get to the bridge.,84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+408,PICARD,   What's their condition?,84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+409,PULASKI COM,   Hungry.,84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+410,PICARD,"   Coming, Mrs. Troi?",84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+411,MRS. TROI,   Not just yet. Tell William I'm   sorry... but Rex and I are   getting married.,84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+412,PICARD,"   Mrs. Troi, your government expects   us to deliver you to the   conference and I intend to do   that!",84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+413,MRS. TROI,"   Duty calls, darling. I'll be back   for you later.",84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+414,PICARD,   There is something about Rex I   think you had better know...,84   INT. REX'S BAR,REX'S BAR,INT.,"""Manhunt""",1989-03-29,The Next Generation
+415,MRS. TROI,   Imagine -- allowing me to go on   like that with a simple bartender   who doesn't even exist!,88   INT. CORRIDOR AT THE TURBOLIFT,CORRIDOR AT THE TURBOLIFT,INT.,"""Manhunt""",1989-03-29,The Next Generation
+416,TROI,"       Mother, you always say you like   new experiences.",88   INT. CORRIDOR AT THE TURBOLIFT,CORRIDOR AT THE TURBOLIFT,INT.,"""Manhunt""",1989-03-29,The Next Generation
+417,MRS. TROI,   Why are they still here?,89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+418,RIKER,"   We thought that since you're going   to the same conference, you might   like to beam down with the other   delegates.",89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+419,MRS. TROI,       They're not delegates. Those two   are assassins.,89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+420,ANTEDIAN FEMALE,   That is... an outrage!... Lies!   We demand you... transport at   once!,89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+421,MRS. TROI,"   Oh honey, don't bother to deny   it. Your minds are so   unsophisticated -- I can read your   thoughts in my sleep.       The inside of their robes are   lined with ultritium. Highly   explosive and virtually   undetectable by your transporter.",89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+422,DATA,"       She is correct, sir. I am   detecting large amounts of   ultritium.",89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+423,MRS. TROI,   Of course you are. They planned   to blow up the entire conference.,89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+424,PICARD,   Take them to level five. Disarm   them and hold for questioning.,89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+425,MRS. TROI,"       Oh well, I didn't find a mate but   I saved the conference as well   as your reputations. All in a   day's work I suppose.",89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+426,PICARD,   Good-bye Mrs. Troi... and thank   you.,89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation
+427,MRS. TROI,       Jean-Luc! Shame on you for   thinking such a thing!,89   INT. TRANSPORTER ROOM - THE TROI ENTOURAGE (OPTICAL),TRANSPORTER ROOM - THE TROI ENTOURAGE,INT.,"""Manhunt""",1989-03-29,The Next Generation

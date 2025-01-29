@@ -1,0 +1,376 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's log, Stardate 43489.2.   We have arrived at Angosia, a   planet that is eager for   membership in the Federation.",1    EXT. ANGOSIAN CAPITOL - ESTABLISHING (MATTE),ANGOSIAN CAPITOL - ESTABLISHING,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+1,PICARD,"   I'm greatly impressed with what   I've seen so far, Prime Minister.",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+2,NAYROK,"   Then I hope it will reflect   favorably in your report, Captain.",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+3,RIKER,   It's a tribute to your people to   have recovered so rapidly from   the Tarsian War.,2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+4,NAYROK,   It is indeed.       We are not warriors. We believe   reason can settle disputes. But   not every culture agrees with our   position.,2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+5,PICARD,   An unfortunate reality.,2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+6,NAYROK,"   The development of the mind, the   cultivation of the intellect --   these are the pursuits to which   the Angosians have dedicated   themselves for centuries.",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+7,ZAYNAR,"   I'm sorry to interrupt, Prime   Minister. There's a problem.   May I see you a moment?",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+8,NAYROK,"   Excuse me, gentlemen.",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+9,PICARD,"   I think they'll make a fine   addition to the Federation, Number   One...",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+10,RIKER,   I'm not sure I'd want to live   here. A little stuffy for my   taste.,2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+11,NAYROK,   A prisoner has escaped from the   penal colony on Lunar Five.       Two guards are dead. The prisoner   has taken a transport vessel.,2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+12,RIKER,   Do you have means of pursuit?,2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+13,NAYROK,"   The tracking station was   sabotaged. The entire base is   in chaos. We have ordered ships   from the surface to follow him,   but to be honest, our civilian   pilots are not trained to handle   this...",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+14,RIKER,"   With your permission, sir... ?",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+15,RIKER,"       Mister Data, a stolen transport   vessel has departed from Lunar   Five. Have you picked it up on   sensors?",2    EXT. ANGOSIAN SENATE,ANGOSIAN SENATE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+16,DATA,"       Yes, Commander.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+17,RIKER,   Good. Detain the vessel and   quarantine the pilot.       Is he armed?,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+18,NAYROK,"   Yes. And he's very dangerous,   Captain. Lunar Five is our   maximum security facility.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+19,RIKER,"   Did you hear that, Data?",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+20,DATA,"   Yes, Commander, we will use   extreme caution.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+21,RIKER,   Keep us informed. Riker out.,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+22,WORF,"   On screen, sir...",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+23,DATA,"   Specifications on the vessel,   Mister Worf.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+24,WORF,   No warp drive. Minimal weaponry.,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+25,DATA,"   Heading, Ensign Crusher.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+26,WESLEY,   Three-one-nine mark   two-five-zero.,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+27,GEORDI,"   Vessel's speed increasing to   point-two impulse. He's seen us,   Data.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+28,GEORDI,       The ship's drive section...,8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+29,WESLEY,   What happened to the rest of his   ship?,8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+30,DATA,   Scan the drive section for life   form readings.,8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+31,WORF,   None.,8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+32,DATA,"   Mister Crusher, bring us around   to the back side of the asteroid.",8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+33,GEORDI,   Sensors indicate wreckage on the   asteroid's surface.,8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+34,WORF,   No life signs.,8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+35,DATA,"   Apparently, he did not survive.",8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+36,WESLEY,"   Data, the drive section...   where'd it go?",8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+37,WESLEY,   There's no sign of it on its   previous heading. Someone must   be at the helm.,8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+38,RIKER,"   Status report, Mister Data?",8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+39,DATA,"       I am afraid the prisoner has eluded   us, sir.",8    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+40,DATA,   We followed procedures precisely.   Scanners indicated no life forms   present in the drive section.   I cannot explain how he escaped.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+41,WORF,   Incoming message from the Angosian   prime minister.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+42,PICARD,    (settling into the     Command Chair)   On screen.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+43,NAYROK,"   We've identified the prisoner,   Captain. His name is Roga Danar.   His criminal record is too long   to go into. But you must be aware   that he is given to bouts of   uncontrollable violence.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+44,PICARD,"   We appreciate the warning, Prime   Minister. We will keep you posted   on our progress.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+45,RIKER,"   Mister La Forge, how far and how   fast can that transport ship   travel?",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+46,GEORDI,"   Without warp drive, there's no   way it could be outside our range   by now.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+47,WESLEY,"   We've been sweeping the area   constantly, Commander. There's   nothing within sensor range.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+48,PICARD,   A cloaking device?,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+49,WORF,   The Angosians have no cloaking   technology...,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+50,RIKER,"       Unless he's borrowing one...       If he's hanging over the planet's   pole, its magnetic field could   confuse the sensors.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+51,DATA,"   I believe I can recalibrate our   sensors to read through the   electromagnetic interference over   the poles, Commander.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+52,RIKER,       Realign for polar orbit.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+53,WESLEY,"   Aye, sir.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+54,DATA,"   There he is, Commander. You were   correct.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+55,RIKER,"   The fellow knows all the tricks,   doesn't he...",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+56,DATA,   There are still no life form   readings coming from the vessel.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+57,GEORDI,"   It could be the magnetic   interference, Data.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+58,DATA,   I have compensated. There are no   readings.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+59,PICARD,"   We'll have our answer shortly.   Lock on tractor beam, Mister La   Forge.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+60,GEORDI,   Tractor beam locking on.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+61,DATA,"   Sir, the vessel is coming about.",14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+62,RIKER,    (looking over his     shoulder)   Is he out of his mind?,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+63,WORF,   Sensors detect a massive power   build up in his aft thrusters.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+64,PICARD,"   On Main Viewer, Mister Worf.",14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+65,GEORDI,   He's making a suicide run.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+66,DATA,   Shields have been automatically   activated. Tractor beam   disengaged.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+67,WESLEY,       He's bounced off our shields.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+68,RIKER,   That's one trick I didn't even   know about...,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+69,PICARD,"   Ensign Crusher, fix coordinates   of that vessel. We'll transport   the whole thing to a shuttlebay   if we have to.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+70,DATA,"   I do not think that will be   necessary, Captain. He is no   longer in the drive section.     ",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+71,DATA ,       I anticipated this diversionary   tactic based on his pattern to   date. We are picking up a   cylindrical object approximately   seven meters in length and three   meters in diameter.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+72,WORF,"   On screen, Captain.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+73,WESLEY,   An escape pod.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+74,GEORDI,   This guy is incredible.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+75,DATA,       Yet there are still no life form   readings.,19   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+76,PICARD,"   Transporter Room Four, prepare   to beam aboard anything that's   large enough to be a humanoid   adult from inside that pod.",19   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+77,WORF,   Security to Transporter Room Four.,19   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+78,O'BRIEN,"   We are holding the contents in   stasis pending arrival of   security. An illicit weapon has   been detected in the transport   beam, sir. It's been rendered   inoperable.",19   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+79,RIKER,       Let's greet our guest.,19   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+80,SECURITY MAN,   Just stay where you are.,20   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+81,RIKER,   What the hell...,23   INT. TRANSPORTER CORRIDOR,TRANSPORTER CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+82,RIKER,   Take him to the detention cell.   Set phasers on kill.,23   INT. TRANSPORTER CORRIDOR,TRANSPORTER CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+83,NAYROK,   We need a few hours to get the   containment field on Lunar Five   operational before we pick him   up. The damage he caused during   his escape was considerable.,26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+84,PICARD,   We will await your signal.,26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+85,NAYROK,   I appreciate your patience. Our   prison psychologist has   recommended you keep Danar fully   sedated until he's ready for   transport.,26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+86,PICARD,   He's in our highest security   detention area... there shouldn't   be any more problems...,26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+87,NAYROK,"   Do not relax your security for   one moment, Captain. He is   extremely violent and cunning,   as you already know, Commander   Riker. I'm so pleased to learn   your injuries are not serious.   My most sincere apologies...",26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+88,RIKER,"   None required, Prime Minister.",26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+89,NAYROK,   I will send a transport vessel   to retrieve him as soon as   possible. Nayrok out.,26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+90,RIKER,"   Have you run a diagnostic on the   sensors, Data?",26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+91,DATA,"   Yes, Commander. There is nothing   wrong with the ship's sensors.   The reason that we did not sense   any life signs aboard the escape   vessel is because the prisoner   has no life signs.",26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+92,RIKER,"   Computer, identify the occupant   in the detention cell.",26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+93,COMPUTER,   The detention cell is vacant at   this time.,26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+94,PICARD,   Can he be some sort of android?,26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+95,DATA,"   Our sensors can identify   artificial lifeforms, Captain.   Apparently, he is capable of   deceiving the sensors.",26A  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+96,TROI,   Are you all right?,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+97,ROGA,   What is this ship?,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+98,TROI,   You are on board the USS   Enterprise.,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+99,ROGA,   A war vessel?,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+100,TROI,   A Federation starship.,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+101,ROGA,       Federation...,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+102,TROI,   We were orbiting Angosia when you   escaped from Lunar Five.,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+103,ROGA,   It seems I am a victim of my own   bad timing.       And you are the keeper of this   jail?,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+104,TROI,   I am Deanna Troi. Ship's   counselor.,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+105,ROGA,"   ""Counselor"". Too bad. I'd rather   you were a jailer to keep me   company during my return trip.",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+106,ROGA,       I assume that we are returning   to Lunar Five...,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+107,TROI,"   That terrifies you, doesn't it?",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+108,ROGA,"   I have just killed two men to get   out of there, Counselor.       I am fully capable of killing you   too. A terrifying thought, isn't   it? Even to me.",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+109,TROI,   Do they mistreat you there?,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+110,ROGA,"   Not at all. I am comfortable,   well fed and housed.       The Angosians take good care of   their... prisoners. I am simply   not allowed to ever leave.",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+111,ROGA,"       Do you visit all the prisoners,   Counselor? Are you a specialist   in criminal behavior? Or am I   just an interesting specimen that   landed on your ship like an insect   to be studied under your   microscope...",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+112,TROI,   Why do you have such anger toward   me?,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+113,ROGA,"       A girl with long dark hair broke   my heart long ago... out of   bitterness and rejection, I   turned to crime...",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+114,ROGA,   How about this one -- my mother   abandoned me when I was born and   I never had the guidance a wild   young man needs...,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+115,TROI,   Why are you doing this?,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+116,ROGA,"   Playing games? Isn't that what   you do, Counselor? Isn't that   what all of you mind control   experts do?",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+117,TROI,   I am not a mind control expert.   I came because I sensed you were   in pain.,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+118,ROGA,"   And now, what do you sense?",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+119,TROI,       The pain is gone.,31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+120,ROGA,"   Interesting, isn't it?",31   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+121,TROI,"   There is a duality in the man...   hard to describe... he is aware   of his crimes... in fact, they   deeply trouble him...",31A  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+122,PICARD,       Counselor...,31A  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+123,TROI,"   He is intelligent... a thoughtful   man. Typically Angosian. I know   what he's done, but when I am   with him, I cannot believe he is   randomly and deliberately   violent... in fact, inherantly,   he has a non-violent   personality...",31A  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+124,PICARD,"   Counselor, it took five men to   restrain him... and he took apart   half of the Transporter Room in   the process.",31A  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+125,TROI,"   I am not opening the door for him,   Captain.",31A  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+126,TROI,   I can only tell you I sense   something very unusual about this   man. Something that is not   inherent to a criminal   personality...,31A  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+127,PICARD,"   Your dedication to helping others   in pain is admirable, Counselor.   But in a few hours, I will turn   him over to the Angosians... and   be glad to do so.",31A  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+128,TROI,   I understand.,31A  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+129,TROI,"   Data, do we have a link up to the   Angosian central computer?",32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+130,DATA,"   Yes, Counselor... we are copying   records for Federation inspection   pursuant to their application for   admittance.",32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+131,TROI,   Can I see a police record on Roga   Danar?,32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+132,DATA,"   There is no police record,   Counselor.",32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+133,TROI,   But that's impossible. He's been   in prison.,32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+134,DATA,   Lunar Five is a military prison   facility...,32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+135,TROI,   Military... he's a soldier... ?,32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+136,DATA,   That may provide an explanation   for the tactics he was able to   use against us when we tried to   capture him...,32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+137,TROI,    (looking over his     shoulder)   It doesn't say what he was   arrested for. Call up his   military record.,32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+138,DATA ,"   He served in many campaigns during   the Tarsian War, received two   promotions, to the rank of   Subhadar... a very honorable tour   of duty...",32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+139,TROI,   What was this man's crime?,32   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+140,TROI,   I've learned you are a soldier.,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+141,ROGA,   I was a soldier.,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+142,TROI,   Why were you put in prison?,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+143,ROGA,"   Obviously, because I am a threat   to society.",38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+144,TROI,   There is no police record. What   did you do?,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+145,ROGA,       Everything they asked me to do.   That's why I became such a   threat.,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+146,TROI,   I don't understand.,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+147,ROGA,"   Why are you bothering to try,   Counselor?",38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+148,TROI,   I want to help if I can.,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+149,ROGA,    (if you really want     to help)   Unlock the door.,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+150,TROI,   Why does a non-violent man commit   acts of excessive violence?,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+151,ROGA,   You can learn to do it if you have   to.,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+152,TROI,   Did you have to?,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+153,ROGA,   It was war.,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+154,TROI,   This started in the war...,38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+155,ROGA,"   It started the day I volunteered,   Counselor... the day training   began... the day I met my first   instructor. He called himself   a ""counselor"" too.",38   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+156,TROI,   Roga Danar was an idealistic young   man who answered his people's call   to service. He joined the   military to fight for the Angosian   way of life. He didn't realize   that by doing so... he would   forever have to give up that way   of life. He's not the same man   who left home to go to war. He's   been through intense psychological   manipulation as well as   biochemical modifications.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+157,BEVERLY,"   At Troi's request I examined   him... his cellular structure   has been been significantly   altered... They used a   combination of cryptobiolin,   triclenidil, macrospentol... and   a few things I don't even   recognize.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+158,RIKER,   Was he a prisoner of war? Who   did this to him?,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+159,TROI,   His own government.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+160,TROI,"   He has been programmed to be the   perfect soldier. He can be   absolutely normal, but whenever   a danger is perceived, the   programming clicks in and takes   over. Intelligence, memory,   strength, reflexes -- all become   enhanced. He is conditioned to   survive at any cost.",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+161,BEVERLY,   One of the new substances in his   cellular structure even shields   electrical impulses.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+162,DATA,   That would explain why our sensors   did not detect him.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+163,PICARD,   Why was this man assigned to the   Lunar Five facility?,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+164,TROI,   He committed no crime. He says   he was ordered there... with   others like him. The first   soldiers who had returned to   Angosia had trouble. The rules   changed too quickly. A lost   temper could result in murder.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+165,DATA,"   Counselor, did no one try to   adjust their progam?",39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+166,TROI,       They were simply exiled to Lunar   Five.,39   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+167,ROGA,   What do you want...,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+168,DATA,   Am I disturbing you?,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+169,ROGA,   Yes.,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+170,DATA,   Then I will leave.,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+171,ROGA,   Wait. I'd rather talk to someone.   I'm sorry.,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+172,ROGA,   Why do you have yellow eyes?,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+173,DATA,   Simply a lack of pigmentation.   I am an android. You and I have   something in common.,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+174,ROGA,   We do?,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+175,DATA,   Yes. We have both been   programmed.,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+176,ROGA,"       Ah, you have been talking with   Counselor Troi.       It is not at all the same,   android.",40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+177,DATA,   I do not mean to belittle your   condition. I understand your   dilemma. But I am curious. My   program can be altered and   changed. Yours cannot?,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+178,ROGA,   The man I once was is still inside   me... but this conditioning has   been imposed... woven together   with my thoughts and feelings and   responses. How do you separate   the program from the man?,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+179,DATA,"   Without further analysis of your   condition by Counselor Troi or   Doctor Crusher, I cannot say.   But it would seem possible.",40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+180,ROGA,"       Doctors. Angosian doctors did   this to me. If it could be   undone, wouldn't they undo it?",40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+181,DATA,   I cannot answer that.,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+182,ROGA,   Nor can I... and I ask the   question every moment of every   day.,40   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+183,NAYROK,"   Captain, what he is telling you   is full of half-truths... he is   a prisoner, what do you expect   him to say about us?",43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+184,PICARD,"   Then, perhaps you'd clarify it   for me...",43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+185,NAYROK,   These soldiers were resettled on   Lunar Five... it was to be their   colony...,43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+186,PICARD,   Their Gulag...,43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+187,NAYROK,   I beg your pardon?,43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+188,PICARD,"   Was it a forced ""resettlement""?",43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+189,NAYROK,   It was for their own protection   as well as that of others. Most   of them are quite happy there...     ,43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+190,NAYROK ,   we have gone to great lengths to   give them a fine quality of   life...,43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+191,PICARD,"   Even the most comfortable prison   is a prison, Prime Minister.",43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+192,NAYROK,   A few agitators like Danar forced   us to add security...,43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+193,PICARD,"   Prime Minister, my medical team   has suggested there may be   treatment alternatives...",43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+194,NAYROK,"   Captain, I assure you all   alternatives have been explored.   And this discussion is now   treading upon matters of Angosian   security. This is not your   concern.",43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+195,NAYROK,"       I have dispatched a ship to   rendezvous with you and transport   the prisoner back to Lunar Five.   On behalf of Angosia, I thank the   Federation for its assistance in   retrieving our citizen.",43   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+196,ROGA,"   Were you built for combat,   android?",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+197,DATA,   No. But my program does include   military strategy... that is how   I was finally able to anticipate   your last tactic and capture you.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+198,ROGA,   You did that? Perhaps you would   be better at combat than you   think.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+199,DATA,   I am not programmed to kill.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+200,ROGA,   My improved reflexes have allowed   me to kill eighty-four times.   And my improved memory lets me   remember the face of each of those   eighty-four. Can you understand   how that feels?,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+201,DATA,   I am incapable of any feeling.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+202,ROGA,       Then I envy you.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+203,TROI,"   Roga, this is Captain Picard",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+204,ROGA,   Captain...,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+205,PICARD,"   Mister Danar, I am going to   transfer you back to Angosian   security. They are en route and   will arrive shortly. I came to   tell you that I have no choice.   The prime minister has insisted   and we have no right to refuse.",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+206,ROGA,"       And you would be foolish if you   even considered it, Captain...   because they are very correct.   I am dangerous. I have no place   in a civilized society.",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+207,TROI,   I do not believe that.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+208,DATA,   Nor do I.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+209,PICARD,"   I respect my officers' judgement,   Danar. I wish I could help   further. If a way appears to me,   I will.",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+210,ROGA,   I appreciate your telling me   face-to-face.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+211,PICARD,   I felt you deserved that much.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+212,ROGA,       You deserve to know that I must   use whatever means I can to   escape.,44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+213,WORF,"   Captain, the Angosian transport   vessel has arrived.",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+214,PICARD,"   Inform them the transfer will take   place shortly. Picard out.   Mister Data, to the bridge   please...",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+215,ROGA,"   Take care of yourself, android.   I enjoyed our talk.",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+216,DATA,"   Good-bye, Roga.",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+217,TROI,"   Perhaps when this planet becomes   a member of the Federation, we   will be able...",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+218,ROGA,"   I will not be here to see it,   Counselor. Because even with this   overwhelming demand to survive   that they've built into my soul...   I would rather die than return   to Lunar Five.",44   INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+219,WAGNOR,"   Captain Picard, we're ready to   receive the prisoner. Now   transmitting the coordinates of   our holding cell.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+220,DATA,"       Coordinates received, sir.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+221,PICARD,       Stand by for transport. Picard   out.,46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+222,PICARD,"       Mister Worf, have all security   precautions been taken?",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+223,WORF,"   Release of the force field and   activation of the transporter   will be virtually simultaneous,   Captain... There will only be   a point-one second interval   between them.",46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+224,RIKER,   Even Danar can't move that fast.,46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+225,WORF,   There will be a full security   contingent present. Phasers will   be set on kill.,46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+226,PICARD,       Proceed.,46   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+227,O'BRIEN,   Transporter Room One to Lieutenant   Worf. We're ready.,47   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+228,WORF,   Proceed.,47   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+229,O'BRIEN,   Energizing...,47   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+230,TROI,"   Roga, don't, you'll be killed...",47   INT. DETENTION CELL (OPTICAL),DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+231,O'BRIEN,       I'm losing him... what the   hell... ?,47A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""The Hunted""",1989-10-25,The Next Generation
+232,RIKER,"       Security personnel, full alert.   Shut down all shuttlebays,   transporters, and turbolifts.",49   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+233,WORF,"   Captain, a phaser is missing.   We must assume that he's armed.",49A  INT. DETENTION CELL,DETENTION CELL,INT.,"""The Hunted""",1989-10-25,The Next Generation
+234,PICARD,       Sound general quarters. Clear   corridors of all non-essential   personnel. I don't want him   taking any hostages.,49B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+235,DATA,"   General quarters sounded, sir.",49B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+236,PICARD,"   Raise security containment fields   immediately on decks thirty-four,   thirty-five, and thirty-six.",49B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+237,RIKER,"   Data... put the turbolifts back   on line. If Danar sees they're   operating, he may try to use one.     ",49B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+238,RIKER ,"       Soon as he does, we have him.",49B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+239,DATA,"   Sir, unauthorized access of   turbolift dive on deck thirty-four.",51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+240,RIKER,   He took the bait.,51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+241,PICARD,   Data -- override its destination   and divert that turbolift to a   position near Lieutenant Worf's   current location.,51   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+242,WORF,   We're in position.,52   INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+243,DATA,   Four seconds to arrival.,52   INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+244,WORF,   Phaser on overload! Seal this   deck --,52   INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+245,WORF ,"   Captain, the overload's been   averted.",52   INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+246,WORF ,   Ingenious.,52   INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+247,ROGA,       Drop force field on deck   thirty-six.,52AA	INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+248,DATA,"   Sir, containment field down on   deck thirty-six.",52A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+249,RIKER,   How the hell did he manage that?,52A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+250,PICARD,   He's headed for Engineering.,52A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+251,RIKER,       Riker to La Forge.,52A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+252,RIKER ,   Engineering -- respond.,52A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+253,DATA,   Sir -- someone in Engineering is   attempting to override the   security system lockout.,54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+254,RIKER,   Riker to Worf. He's in   Engineering...,54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+255,WORF,"   Acknowledged, Commander.",54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+256,PICARD,   Data -- I want you to stall   Danar. Allow him to think he's   succeeding.,54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+257,DATA,"       As he bypasses each subsystem,   I can reroute it without his   knowledge.",54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+258,PICARD,   Make it so.,54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+259,DATA,"   Danar is extremely adept, sir.   I am not certain which security   measure he is attempting to   circumvent.       Sir, Danar has succeeded in   restoring power to Shuttlebay Two.",54C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+260,DATA,   I have overridden Danar's bypass;   Shuttlebay Two is once again   inactive.,55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+261,PICARD,"   Very good, Mister Data. And now   we know where he's headed.",55A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+262,GEORDI,   He surprised us... came out of   nowhere. I didn't know anyone   could move that fast...,58   INT. ENGINEERING,ENGINEERING,INT.,"""The Hunted""",1989-10-25,The Next Generation
+263,DATA,"   Lieutenant, I am reading an open   access panel... K-twelve, deck   thirty.",58   INT. ENGINEERING,ENGINEERING,INT.,"""The Hunted""",1989-10-25,The Next Generation
+264,WORF,   Acknowledged.,58   INT. ENGINEERING,ENGINEERING,INT.,"""The Hunted""",1989-10-25,The Next Generation
+265,GEORDI,   Danar must have climbed the   reactor core and gotten into a   Jefferies tube. He could be   anywhere.,58   INT. ENGINEERING,ENGINEERING,INT.,"""The Hunted""",1989-10-25,The Next Generation
+266,WORF,   We believe he is attempting to   reach Shuttlebay Two.,58   INT. ENGINEERING,ENGINEERING,INT.,"""The Hunted""",1989-10-25,The Next Generation
+267,GEORDI,       That's twenty-five decks up from   here... quite a climb... but I   wouldn't put it past him...,58   INT. ENGINEERING,ENGINEERING,INT.,"""The Hunted""",1989-10-25,The Next Generation
+268,WORF,   There is a full contingent of   security waiting at all   shuttlebays.,58   INT. ENGINEERING,ENGINEERING,INT.,"""The Hunted""",1989-10-25,The Next Generation
+269,GEORDI,   You want my advice... double it.,58   INT. ENGINEERING,ENGINEERING,INT.,"""The Hunted""",1989-10-25,The Next Generation
+270,DATA,   Reading another open access   panel...,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+271,PICARD,"       Security team to Jefferies tube   J-four, deck fifteen.",61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+272,SECURITY GUARD COM,   Security acknowledges. On our   way.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+273,RIKER,   Deck fifteen. Only a few decks   below the shuttlebay.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+274,DATA,"   Captain, I find it highly unlikely   that Danar is attempting to reach   Shuttlebay Two.",61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+275,PICARD,   Explain.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+276,DATA,"   In our previous encounter, Danar   employed a strategy of   misdirection in an attempt to gain   his objective.",61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+277,PICARD,   And you believe he's using the   same tactic now.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+278,DATA,   He is aware that our sensors are   unable to track him. Yet he seems   to be purposely leaving a trail   for us to follow.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+279,RIKER,   And where do you think he's   headed.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+280,DATA,   I am afraid his true destination   remains a mystery.,61   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+281,DATA,"   Captain, readings now indicate   an open access panel... Jeffries   tube N-eleven, deck thirty-eight.",61B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+282,PICARD,   He doubled back on us.,61B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+283,RIKER,   The cargo bays?,61B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+284,PICARD,       Advise personnel on deck   thirty-eight to stay out of all   Cargo Bays.,61B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+285,DATA,"       They would appear to be empty,   sir.",61B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+286,PICARD,   Good. I want you to flood them   with Anastazine.,61B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+287,DATA,       Sensors show Anestazine   concentration of seventy parts   per million within the cargo   bays.,63A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+288,RIKER,   That should have put our boy to   sleep.,63A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+289,PICARD,"   Restore normal environmental   conditions, Mister Data.",63A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+290,PICARD,"   Move in security teams, Mister   Worf.",63B  INT. DECK THIRTY-EIGHT CORRIDOR,DECK THIRT,INT.,"""The Hunted""",1989-10-25,The Next Generation
+291,WORF,   Acknowledged.,63B  INT. DECK THIRTY-EIGHT CORRIDOR,DECK THIRT,INT.,"""The Hunted""",1989-10-25,The Next Generation
+292,WORF,   Worf to bridge. We have found no   sign of the intruder. But there is   a pressure suit missing from Cargo   Bay Three.,63C  INT. CARGO BAY,CARGO BAY,INT.,"""The Hunted""",1989-10-25,The Next Generation
+293,PICARD,   A pressure suit...,64A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+294,RIKER,   Could be he's planning to enter   Shuttlebay Two from outside the   Enterprise... bypassing the   security guards.,64A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+295,PICARD,   Mister Worf --,64A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+296,PICARD,   Post security guards at all   emergency airlocks on decks   thirty-seven through thirty-nine...,69   INT. CARGO BAY,CARGO BAY,INT.,"""The Hunted""",1989-10-25,The Next Generation
+297,WORF ,"   Aye, sir. I'll also cover the   photon torpedo launchers... Danar   may attempt to leave the ship that   way. Worf out.",69   INT. CARGO BAY,CARGO BAY,INT.,"""The Hunted""",1989-10-25,The Next Generation
+298,WORF,"   You are cunning, Danar... you must   have Klingon blood. But the   battle is over.",69   INT. CARGO BAY,CARGO BAY,INT.,"""The Hunted""",1989-10-25,The Next Generation
+299,ROGA,   My battle is never over.,69   INT. CARGO BAY,CARGO BAY,INT.,"""The Hunted""",1989-10-25,The Next Generation
+300,WORF,       Worf to bridge. I have Danar...,69   INT. CARGO BAY,CARGO BAY,INT.,"""The Hunted""",1989-10-25,The Next Generation
+301,DATA,   Explosion in Jefferies Tube   section T-nine-five. All external   sensors are inoperative.,80A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+302,RIKER,   Go to backup systems.,80A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+303,DATA,   Unable to transfer control...,80A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+304,WORF,   Worf to bridge. Danar has   escaped. He used a phaser to   power the cargo transporter.       Coordinates indicate he beamed   aboard the Angosian transport   ship.,84   INT. CARGO BAY,CARGO BAY,INT.,"""The Hunted""",1989-10-25,The Next Generation
+305,PICARD,"   Data, can you verify that?",84A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+306,DATA,   Negative. External sensors are   still nonfunctioning.,84A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+307,PICARD,   Then we have no way to track him.,84A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+308,RIKER,   That was his plan all along.,84A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+309,RIKER ,"   First officer's log, supplemental.   We are continuing to repair damage   to the ship's sensors following   the escape of the Angosian   prisoner Danar. He is still at   large.",91   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Hunted""",1989-10-25,The Next Generation
+310,RIKER,"       Engineering, I'm getting readings   at Tactical, are we back up...",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+311,GEORDI,"   That's affirmative, Commander.",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+312,PICARD,"   Sweep the area, Mister Worf...",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+313,DATA,"   Captain, the prime minister is   hailing us, priority one...",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+314,PICARD,   On screen.,91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+315,PICARD,"   Yes, Prime Minister.",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+316,NAYROK,"   Captain, I've just been informed   that Roga Danar has attacked the   penal colony on Lunar Five...",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+317,PICARD,   Attacked it... ?,91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+318,NAYROK,"       In our own police shuttle.   Several of my people are wounded.   Hundreds of prisoners are rioting.   Some of them have escaped with   Danar. We have reports they are   headed for the capitol city...       Captain, we are not suited to   handle situations like this...   that's why we created them...",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+319,PICARD,"   We'll send an away team, Prime   Minister... Picard out.",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+320,PICARD,"   Counselor Troi, Mister Data,   Lieutenant Worf... you will   accompany me to the planet...",91A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+321,PICARD,"   My understanding is that these   men were programmed to survive,   is that correct?",91D  INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+322,TROI,"   Yes, Captain.",91D  INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+323,PICARD,   And they will not kill unless   their survival is at stake?,91D  INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+324,DATA,"   It is against their nature to do   so, Captain.",91D  INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+325,PICARD,       Then let us hope they do not   believe their survival is at   stake.,91D  INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+326,RIKER,"   Mister Worf, you are personally   responsible for the captain's   safety.",91D  INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+327,WORF,"   I understand, Commander.",91D  INT. CORRIDOR,CORRIDOR,INT.,"""The Hunted""",1989-10-25,The Next Generation
+328,NAYROK,"    (addressing the     senators)   I do not expect them to listen   to reason... I loathe the idea   of a violent confrontation, but   we must be prepared...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+329,NAYROK,       This is all you've brought... ?   Where are your security men... ?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+330,PICARD,"   We're not here to fight your wars,   Prime Minister...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+331,NAYROK,"   They've been seen moving toward   the center of the city... people   are scared, Captain... don't you   understand... ? They're dangerous.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+332,PICARD,   You are dangerous. They are only   victims.       You made them what they are. You   asked them to defend your way of   life... then you discarded them.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+333,ZAYNAR,   They were not happy here...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+334,TROI,   They were not welcome here.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+335,ZAYNAR,   It was the will of the people to   resettle them...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+336,NAYROK,"   Nobody was pleased with the   solution, Captain... but we had   to act for the greater good...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+337,DATA,"   Prime Minister, if you have the   skills to create a master   soldier, can you not contradict   the effect... ?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+338,NAYROK,   The chemicals can be removed from   their systems. But we're not   convinced the psychological   conditioning can be entirely   reversed.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+339,DATA,   Have you tried?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+340,NAYROK,"   We've studied it thoroughly...   even before the training began,   we knew there would be problems   reversing it. It was a risk we   had to take.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+341,WORF,"   Did you reveal that ""risk"" to the   men who volunteered for service?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+342,NAYROK,"   We were helping them to survive the,   war, don't you understand? They   needed these skills...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+343,PICARD,"   They are your sons, your brothers.   And you have turned your backs on   them.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+344,TROI,"   There are methods of treatment...   until you try them, you can't know   if they will work. Even a partial   recovery would give them some   peace...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+345,ZAYNAR,       It was the will of the people...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+346,TROI,    (losing patience with     this guy)   To allow them to suffer?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+347,NAYROK,   There was a referendum. The   people weighed the costs involved.   They chose the resettlement   solution.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+348,ZAYNAR,"   Besides, we may need to use them   again some day.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+349,PICARD,"   Unless you are prepared to die,   I'd suggest you put that down.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+350,NAYROK,       Do as he says.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+351,ROGA,"   Shoot us. Destroy us. Do what   you have to do. But, by God, you   will no longer ignore us.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+352,PICARD,"   Danar, it appears to me that you   are deliberately attempting to   provoke a response... so you may   justify your own attack on men   who do not wish to fight...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+353,ROGA,   Cowards...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+354,PICARD,"   Yes...       But you are not programmed to   murder cowards... and if they will   not fight back, what will you   do?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+355,ROGA,   We will not go back...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+356,NAYROCK,   You are programmed to survive...   you can survive at the Lunar Five   settlement...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+357,ROGA,   Survival is not enough... to exist   is not enough...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+358,TROI,"   Roga, tell them what you want.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+359,ROGA,   We want our lives back. We want   to come home.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+360,NAYROK,"       I'm not prepared to negotiate   under a threat, Danar... but if   you will put down your arms and   return peacefully to Lunar Five...   I would be willing...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+361,ROGA,"   Mister Prime Minister. Our   respects, sir. But you'll have   to force us... or try to.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+362,NAYROK,"       Captain, you must do something,   call your ship...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+363,PICARD,"   You're quite right, Prime   Minister.       Enterprise, prepare to beam the   away team back.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+364,RIKER,"   At your command, Captain.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+365,NAYROK,"   You can't leave us like this,   Picard.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+366,PICARD,"   We have everything we need for   our report. Your prisoner has   been returned to you. You have   a decision to make... either try   to force them back or welcome them   home. In your own words, this   is not our affair. We cannot   interfere with the natural course   of your society's development and   I'd say it's likely to develop   significantly during the next   several minutes.       It's been an interesting stay.   When you are ready for membership   in the Federation, we will be   pleased to reconsider your   application.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+367,PICARD,"   Four to beam up, Mister Riker.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+368,RIKER,"   Success, Captain?",102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+369,PICARD,"   Number One, note in your report   that if the government of Angosia   survives the night, we will offer   Federation assistance in the   efforts to reprogram their   veterans.",102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+370,RIKER,   And if the government doesn't   survive?,102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+371,PICARD,   I have a feeling they will choose   to.,102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+372,PICARD,"   Mister Crusher, set coordinates   for the starbase at Lya Three.",102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+373,WESLEY,"   Coordinates set, Captain.",102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation
+374,PICARD,   Engage.,102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Hunted""",1989-10-25,The Next Generation

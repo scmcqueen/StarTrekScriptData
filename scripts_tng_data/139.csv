@@ -1,0 +1,404 @@
+,character,quote,scene,location,view,episode,date,series
+0,RIKER,   Come in.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+1,RIKER,       Excellent. Exactly what I need.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+2,RIKER,"       Well, Doctor, and bearing gifts?",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+3,PULASKI,   Ale from Ennan Six... your omelets   deserve no less.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+4,DATA,   This is not an efficient method   for the preparation of sustenance.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+5,RIKER,"   You're right, Data. The ship's   computer is much more efficient,   but it lacks the subtlety needed   for great cooking. It mixes the   ingredients to precise   measurements. There's no flair,   no individuality, and Data, as   we both know... inspiration and   flair are the difference between   artistry and mere competence.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+6,PULASKI,"   For much of the history of   mankind, the breaking of bread   was a sign of friendship and   community. Something we have   gotten away from in the   twenty-fourth century.    (re: Riker and the     whisk)   You have a practiced hand,   Commander.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+7,RIKER,   I have my father to thank for   that.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+8,PULASKI,"   Oh, your father liked to cook?",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+9,RIKER,"   No, he hated it. It was a chore   left to me.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+10,WORF,"   It is my understanding that in   most human families, the woman   shares in the cooking.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+11,RIKER,   There were only the two of us.   I never knew my mother. She died   when I was very young.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+12,GEORDI,   Where did you get the eggs?,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+13,RIKER,   During our last stop.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+14,GEORDI,       At Starbase seventy-three?,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+15,RIKER,   Yes.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+16,GEORDI,   What kind of eggs did you say   these are?,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+17,RIKER,   'Owon.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+18,RIKER,       A cook's only as good as his   ingredients.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+19,WORF,   Delicious.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+20,PICARD,   Commander Riker...,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+21,RIKER,"   Yes, Captain.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+22,PICARD,   Would you join me on the bridge?,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+23,RIKER,   On my way.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+24,PICARD,   We have picked up an automated   signal from a Federation   shuttlecraft.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+25,RIKER,   A shuttle? Out here?! How is   that possible? We're the first   manned Federation vessel to enter   this area.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+26,PICARD,   Apparently not.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+27,RIKER,   So what's a shuttle doing out this   far? And where's the mother ship?,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+28,PICARD,   I don't know.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+29,WORF,   Sensors indicate there is at least   one life-form on board the   shuttle. Humanoid.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+30,PICARD,"   Perhaps someone to answer your   questions, Number One. Open   hailing frequencies.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+31,WORF,"   Captain, the shuttle is without   power. Communication is not   possible.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+32,RIKER,   Set course to intercept.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+33,DATA,   Estimate intercept in three   minutes.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+34,PICARD ,"   Captain's log, stardate 42679.2.   While traversing an unexplored   section of the galaxy en route   to the Endicor system, a   Federation shuttlecraft has quite   suddenly appeared -- virtually out   of nowhere. There are no other   ships in the vicinity -- and no   indications whence it came nor   how it got out here.",10   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+35,WORF,   We are closing on shuttlecraft.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+36,PICARD,   On screen.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+37,RIKER,   Magnify.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+38,RIKER,       Prepare to lock tractor beam.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+39,DATA,   Target vehicle -- we will be within   tractor beam range in two zero   seconds.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+40,RIKER,   Set automatic locking device.   Alert Shuttle Bay Two.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+41,DATA,   Locking tractor beam.,16   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+42,DATA,   The tractor beam has been locked.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+43,PICARD,   Number One.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+44,RIKER,   Worf -- you're with me.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+45,PICARD,"   Doctor Pulaski, you are needed   in Shuttle Bay Two.",18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+46,PULASKI,   I have been monitoring. I am   on my way.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+47,RIKER,"   Well, it's a Federation shuttle   all right.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+48,WORF,"   Yet, there are no Federation   vessels or bases in this area.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+49,RIKER,"       NCC one-seven-zero-one-D -- USS   Enterprise, shuttle number   five.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+50,RIKER,       NCC one-seven-zero-one-D -- USS   Enterprise shuttle number   five.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+51,WORF,   How is this possible?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+52,PULASKI,   Commander! Come here!,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+53,RIKER,    (he touches his     communicator)   Captain?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+54,PICARD,"   What is it, Number One?",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+55,RIKER,"   Captain, are you on the bridge?",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+56,PICARD,       Where else would I be?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+57,RIKER,"   Right now, I think you had better   be in Shuttle Bay Two.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+58,PICARD,   Why? What is it?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+59,RIKER,"   This you had better see for   yourself and, Captain, bring   Commander Data.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+60,RIKER,"   We have been in a lot of bizarre   situations, but nothing like this.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+61,PICARD,   What's his condition?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+62,PULASKI,"   The life signs are confusing.   I get a strong heartbeat, but the   rhythm is off.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+63,PICARD,   Has he been injured?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+64,PULASKI,   No signs of trauma.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+65,PICARD,   Then why is he unconscious? What   happened to him?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+66,PULASKI,   I can't say.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+67,PULASKI,       The readings from his brain waves   are very... strange.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+68,PICARD,   Strange? In what way? Non-human?   Artificial?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+69,PULASKI,   No -- neither. They are just out   of phase.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+70,PICARD,   Can you revive him?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+71,PULASKI,"   I won't attempt it until he's in   Sickbay.    (she holds the look for     a beat, then:)   Let's get him there.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+72,PICARD,   Counselor.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+73,TROI,"   I have never felt anything quite   like this so it is difficult to   put into words.    (she pauses to gather     her thoughts)   That person is you. What I mean,   the person we are looking at is   as much Jean-Luc Picard as the   person I am standing next to;   beyond that there's very little   of which I am sure. I will have   to wait until he is conscious   before knowing more.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+74,PICARD,"   Data, we have to know what is on   the shuttle's logs.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+75,DATA,"   Yes, sir.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+76,DATA,   Both primary and reserve power   has been drained from the shuttle.   I am going to have to connect   to the Enterprise in order to   activate the shuttle's systems.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+77,RIKER,   Lieutenant La Forge -- report to   Shuttle Bay Two.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+78,GEORDI,   I'm on my way.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+79,PICARD,"   Number One, I'll be in Sickbay.   Keep me informed.",39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+80,RIKER,"    (indicating an unusual     burn on the skin of     the shuttle)   Did you see this, Captain?",39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+81,PICARD,   It looks like the kind of damage   caused by an antimatter explosion.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+82,RIKER,"   Yes, the shuttle must have been   just out of range.",39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+83,PICARD,"       Data, I need those logs.       Counselor.",39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+84,RIKER,   We'll be on the bridge.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+85,RIKER,   Resume course and speed.       Scanners at maximum range.,39A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+86,WORF,   Maximum range.,39A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+87,GEORDI,   You should have power now.,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+88,GEORDI,   What happened?,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+89,DATA,   The polarity was not   compatible.,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+90,GEORDI,"   Not possible, the connection is   idiot proof.",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+91,DATA,"   The power requirements of the   shuttle do not match the   Enterprise. We are going to need   a variable phase inverter, to   align the power from the   Enterprise to the circuits of the   shuttle.",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+92,GEORDI,"   Data, what do you think is going   on? I don't just mean about the   shuttle, I mean about all of this?",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+93,DATA,   I do not have enough information.,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+94,GEORDI,"   The captain here, the captain   there. This shuttle -- that   shuttle. Commander Riker is right -- this   is very strange.",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+95,PICARD,   This smells like a set-up.,44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+96,TROI,   A trap?,44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+97,PICARD,"       If it is me, me from where? And   why in a shuttle? There is   nothing about this which is random   or happenstance. Look beneath   the boards, Counselor; I expect   something foul and familiar to   crawl out.",44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+98,PULASKI,"   We have just started doing a   complete work-up. The vital signs   are distorted. Some of the   indicators are totally depressed,   others are fluctuating wildly.   I can't explain any of it. But   he is alive, and I don't think   he's in any immediate danger.",45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+99,PULASKI,       The restraints are for his own   protection.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+100,PICARD,   Have you been able to determine   why he is still unconscious?,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+101,PULASKI,   I have been able to rule out head   injury -- otherwise there is no   apparent cause.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+102,PICARD,   Wake him.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+103,PICARD,       What happened?,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+104,PULASKI,   Apparently a normal stimulant had   the opposite effect. I'll have   to try something else.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+105,GEORDI,"   There... that should give you   something. Making this power   adjustment is very tricky. By   all rights, this connection should   overload all the shuttle's   circuits.",46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+106,DATA,   Perhaps you had better step back   out of the way.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+107,GEORDI,   Remember you're not indestructible   yourself.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+108,DATA,   Increase the power.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+109,DATA,       Adjust the invert two percent   positive.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+110,GEORDI,"   That's the correct decision, but   it's having the opposite effect.",46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+111,DATA,   Yes.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+112,GEORDI,   There is nothing I can think of   which could cause such a radical   change in this circuit.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+113,DATA,   Adjust the invert two percent   negative.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+114,GEORDI,"   Got it. It shouldn't work, but   it does.",46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+115,GEORDI,"    (continuing;     stunned)   Data, take a look at the stardate.",46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+116,GEORDI,       Four-two-six-seven-nine-point-five.    (he touches his     communicator)   Captain.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+117,PICARD,   Go ahead.,48   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+118,GEORDI,"   Captain, we have been able to   activate the shuttle; the on-board   clock indicates that the shuttle   is six hours ahead of us.",48   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+119,GEORDI,"       Captain, did you read me? If the   shuttle is from six hours into   the future, so is the other   Captain Picard.",48   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+120,PICARD ,"   Captain's log, supplemental. Part   of the mystery has been solved.   The reason there are two NCC   one-seven-zero-one-D-five   shuttlecrafts is because one of   them is from the future... six   hours to be exact. And, so   presumably is the facsimile of   me.",50   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+121,PICARD,"   Try to wake him, again.",51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+122,PICARD,   No!,51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+123,PULASKI,   It's a only a sedative.,51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+124,PICARD,"   I know what it is... don't sedate   him. Let him be!    (then, changing his     tone)   Please... allow him to remain   conscious.",51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+125,PULASKI,   I have never seen anything like   this.,51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+126,PULASKI,"       Captain, you had better sit down.",51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+127,PICARD,"   I'm fine, Doctor... Save your   ministrations for the patient.   I want a staff meeting in five   minutes. Doctor, I assume you   will want to remain here.",51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+128,PULASKI,   I will monitor the conference   from here.,51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+129,PICARD,"   Keep me informed, Doctor -- of any   change no matter how small.",51   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+130,GEORDI,"   Captain, we have retrieved all   we are going to get from the   shuttle logs, including the last   visual records. Everything before   this is just a jumble.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+131,PICARD,   Proceed.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+132,GEORDI,   The distortion is because we had   to use a phase inverter to   retrieve the logs. It will   improve slightly.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+133,DATA,"   According to the shuttle log, the   Enterprise was destroyed three   hours, nineteen minutes from now.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+134,GEORDI,"   Captain, we have a portion of your   last log entry.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+135,PICARD,   Proceed.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+136,GEORDI,   It's audio only.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+137,PICARD ,"   Captain's personal log,   supplemental.       For the record... I have just   witnessed the total destruction   of the USS Enterprise with a loss   of all hands, save one. Me.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+138,DATA,   That last sound apparently   occurred when the shuttle was   thrown back in time.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+139,GEORDI,   All attempts to obtain additional   information from the shuttle's   logs have failed.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+140,RIKER,   At least now we have something   to go on.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+141,GEORDI,   I can't understand how you could   end up in a shuttlecraft while   the Enterprise is being destroyed.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+142,WORF,"   Nor I, the last thing you would   do is leave the bridge of the   Enterprise during an emergency.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+143,PICARD,"   Yes, but let's proceed on the   premise that what we have just   seen is factual and that somehow,   in less than four hours, the   Enterprise will be destroyed and   somehow -- although this is   unfathomable -- I, and I alone   escaped. Discussion.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+144,RIKER,"   Our destination is the Endicor   system. We are not due to arrive   for three days. The charts   indicate nothing of consequence,   certainly nothing which could   threaten the Enterprise, between   here and there.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+145,WORF,   Sensors indicated no other vessels   -- Federation or otherwise -- in   this area.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+146,PICARD,   Data?,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+147,DATA,   I have nothing to offer. There   is not enough information upon   which I can base a hypothesis.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+148,GEORDI,"   Well, the shuttle apparently came   from somewhere up ahead. Rather   than continuing on this course,   perhaps we should stop here and   let whatever is out there come   and find us.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+149,RIKER,   I think it's already too late for   that.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+150,GEORDI,"   Are you saying that stopping,   turning left, or right, or even   reversing course, is pointless?",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+151,RIKER,"   When we brought the shuttle and   the other Picard on board, we   committed ourselves to a sequence   of events which may be   unalterable.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+152,PICARD,"   Yes, this isn't a rock in the road   which once seen can be avoided.   It's much more complex.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+153,WORF,"   There is the theory of the   moebius, a twist in the fabric of   space where time becomes a loop   from which there is no escape.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+154,GEORDI,"   So, when we reach that moment --   whatever happened will happen   again... The Enterprise will be   destroyed, the ""other Picard"" sent   back to meet with us and do it   all over again.       That sounds like someone's   definition of hell.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+155,RIKER,   I know this much -- we can't avoid   the future.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+156,PICARD,"   Agreed. So let's continue on   course. Everyone return to your   duty stations. Somewhere out   there something will happen...   a decision will be made which   will cause me to become separated   from the Enterprise -- at the time   that decision will seem correct,   but it won't be. We have to   anticipate and not make the same   mistake once. Something is   waiting for us out there -- let's   determine what it is as quickly   as possible.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+157,GEORDI,       Data -- I think the molecular   structure of the shuttle has   changed!,73   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+158,DATA,   Your assessment is accurate.,73   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+159,GEORDI,   Why now?,73   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+160,DATA,   Perhaps it always was unstable   and it was only by leaving and   coming back that you were able   to see the change.,73   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+161,PICARD,   Doctor?,74   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+162,PULASKI,"   I am beginning to realize just   how much of the body is held   together by its own internal   clock. You -- he was thrown out   of time, which caused the body   systems to change their rhythms.   Slowly, as we move closer to the   time he left, the internal body   clocks are realigning.",74   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+163,PICARD,"   You're saying, when our time   intersects with the time he left,   at that instant he will be   functioning normally. And there   will be two of us.",74   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+164,PULASKI,"   Right now, that would be my guess.",74   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+165,PICARD,   I don't believe that is possible.,74   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+166,TROI,"   Captain, I am able to feel more   from him now. Much of his   emotions are still a jumble,   but...",74   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+167,PICARD,   What did you feel?,74   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+168,TROI,   Only that he wants desperately   to leave this ship.,74   INT. SICKBAY,SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+169,PICARD ,"   Captain's log, supplemental. We   continue on course to Endicor.   We are now less than two hours   away from our rendezvous with   ourselves.",75   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+170,RIKER,   Worf.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+171,WORF,   All sensors are on maximum scan.   There is nothing unusual to   report.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+172,RIKER,"   If the timetable is correct, we   should get an indication of   something very soon.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+173,PULASKI,"   Bridge, this is Sickbay.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+174,PICARD,"   Yes, Doctor.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+175,PULASKI,"   Captain, my patient is more   coherent.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+176,PICARD,   I'll be right there.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+177,PICARD,"       Number One, you have the bridge.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+178,PICARD,   How is he?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+179,PULASKI,"   His vital signs are more normal -- which   is to say, more like ours.   He is calmer.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+180,PICARD,   He is now aware of me.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+181,PULASKI,   In some fashion.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+182,PICARD,"    (sotto, almost to     himself)   But, does he know where he is,   and who's here with him?",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+183,PULASKI,   I doubt it.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+184,PICARD,       What went wrong?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+185,PICARD,       You know... don't you?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+186,PICARD,       What did you do? What happened?   Why did you leave the ship?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+187,PICARD,       Don't turn away. Look at me.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+188,PICARD,       Picard!,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+189,PICARD,       LOOK AT ME!,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+190,TROI,   He doesn't understand you.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+191,PICARD,   He knows I'm here.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+192,TROI,"   Yes, as part of a nightmare of   disjointed images, half-heard   voices. He is in another   dimension -- seeing us across a   great chasm -- and he's filled with   remorse at what he has witnessed,   and he's afraid.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+193,PICARD,   What is he afraid of?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+194,PICARD,    (continuing; back to     P2)   Damn you -- help me! Why did you   leave the ship?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+195,TROI,"   It's no use, Captain. He can't   answer.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+196,PULASKI,"   As we get closer to the time he   left, he may be able to.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+197,PICARD,       Are you still convinced he is me?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+198,TROI,   Yes -- but you're not.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+199,PICARD,   Not in the slightest. Except for   his features there is nothing   about him which I find familiar.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+200,PICARD,       I want you to stay with him. He   will be able to communicate with   you before any of the rest of us.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+201,PULASKI,   I don't know how long anyone can   take this kind of schizophrenia.   There has to be a breaking point.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+202,TROI,   He is handling it very well.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+203,PULASKI,   He has a lot of anger.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+204,TROI,   Yes. Because of what...       ... he represents.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+205,PULASKI,   And what is that?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+206,TROI,"   Doubt. Seeing him here and   knowing what happened to the   Enterprise could make him timid   or, worse, cause him to hesitate.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+207,PULASKI,   When he said -- that there is   nothing familiar about him...       ... except his features. It   sounded like a form of denial.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+208,TROI,   It's his accurate feelings.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+209,PULASKI,"   Part of my job is to anticipate   problems. I have a duty to the   captain, but first to the ship   and its crew.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+210,TROI,"   Doctor, the captain is fully   capable of command decisions.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+211,PULASKI,   Yes... for now. But... this   situation has put enormous   pressure -- of a unique and very   personal nature -- on Captain   Picard. And we both know that   pressure is going to increase.   You said he already has doubt.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+212,TROI,"   Yes, which is necessary and   healthy.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+213,PULASKI,"   But could potentially paralyze.   If we begin to see signs that he   is acting in an irrational manner,   then I have the authority and the   duty to relieve him.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+214,TROI,   I do not think that will be   necessary.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+215,PULASKI,   I hope you're right.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+216,PICARD,   What force or phenomenon could   cause a shuttle to be thrown back   in time?,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+217,RIKER,"   None that we have ever   encountered. In theory,   accelerating beyond warp ten.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+218,PICARD,"   Using the gravitational pull of   a star to ""slingshot"" back in   time. Is that what happened here?",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+219,RIKER,   The shuttle doesn't have warp   capability.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+220,PICARD,   No. Some external force was   needed.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+221,RIKER,   We have never encountered any   natural force that powerful. And   why only six hours? Why not a   day? A year?,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+222,PICARD,   Are you suggesting there is a   conscious mind at work here?,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+223,RIKER,   There is no evidence either way.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+224,PICARD,   The Traveler moved through time   with the power of his mind.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+225,RIKER,   I don't think that's the case   here.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+226,PICARD,"       No -- and Manheim's experiments   with gravity and time were   rudimentary, and uncontrollable.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+227,RIKER,"   Captain, this is one instant   where you must suppress your   natural tendencies.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+228,PICARD,   Explain.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+229,RIKER,"    (then more as a friend     than a subordinate,     or even a fellow     officer)   Your strength, Jean-Luc, is your   ability to evaluate the dynamics   of a situation, step in and make   the definitive, preemptive move.   You take charge. You're   frustrated now because, not only   can't you see the solution... you   can't even define the problem.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+230,PICARD,   Go on.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+231,RIKER,   This is not place or person we   are facing... at least not yet...   it's time.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+232,PICARD,   Are you telling me to just sit   down -- shut up and wait.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+233,RIKER,"   I wouldn't have used those exact   words... but, yes.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+234,PICARD,   I don't do that well.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+235,RIKER,   It's your Persian Flaw.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+236,PICARD,       Yes -- perhaps it is.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+237,WORF,   Captain to the bridge.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,"""Time Squared""",1989-01-25,The Next Generation
+238,PICARD,   Report.,89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+239,WORF,   This energy vortex appeared out   of nowhere. There was no warning.,89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+240,RIKER,"   Well, now at least the waiting   is over.",89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+241,PICARD ,"   Captain's log, supplemental. The   waiting is over. We have   apparently intersected with...   something.",92   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Time Squared""",1989-01-25,The Next Generation
+242,DATA,"   It is similar to our tractor beam,   only much more powerful.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+243,GEORDI,"   Bridge, this is Engineering.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+244,RIKER,   This is the bridge.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+245,GEORDI,"   The pull on the Enterprise is   steady. I am having to hold the   warp engines at thirty percent,   in order to maintain this   position.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+246,PICARD,   Transfer engine control to the   bridge.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+247,GEORDI,"   Aye, sir.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+248,TROI,"   There is a consciousness here,   Captain. Not thought -- it is more   like instinct.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+249,PICARD,"   What do you make of it, Number   One?",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+250,RIKER,   I would say we're being probed.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+251,DATA,   The beam is coming directly from   the center of the vortex. Sensors   show only massive amounts of   energy.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+252,PICARD,   What is it trying to learn?,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+253,TROI,   I think it is trying to determine   if we are a life force.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+254,PICARD,       We should stay and investigate.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+255,RIKER,   Agreed.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+256,PICARD,"   But, was that the mistake?",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+257,PICARD,       ... staying too long.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+258,RIKER,   Possibly.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+259,PICARD,   We should go now.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+260,RIKER,   Well...,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+261,PICARD,   It's the prudent move.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+262,PICARD,       I never thought I would hear   myself say something like that.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+263,RIKER,   Under the circumstances -- I think   you may be right.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+264,PICARD,   But you'd rather stay and find   out what it is? What is its   intent?,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+265,GEORDI,"   Engineering, transfer to bridge.",95   INT. BRIDGE ENGINEERING STATION,BRIDGE ENGINEERING STATION,INT.,"""Time Squared""",1989-01-25,The Next Generation
+266,PICARD,   Lieutenant La Forge.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+267,GEORDI,"   Yes, sir.",100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+268,PICARD,"   See if you can get us out of here,   Mister La Forge. Maximum warp.",100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+269,GEORDI,"   Aye, sir.",100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+270,GEORDI,   I have set velocity to warp nine.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+271,PICARD,   Engage.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+272,GEORDI,   The warp engines are at ninety-one   percent.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+273,PICARD,   Put it to the wall.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+274,GEORDI,"   Aye, sir.",100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+275,GEORDI,       I can't hold it.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+276,RIKER,   Captain! The engines can't take   this strain.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+277,PICARD,   All stop.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+278,PICARD,   Status.,106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+279,WORF,   All decks have reported... no   damage -- no injuries.,106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+280,GEORDI,"   The pull on the Enterprise is   steady, but much stronger than   before. I am at warp seven just   to hold this position.",106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+281,PICARD,   Everything we do tightens its   grip. Let's see what we can   learn. Launch a Class One probe.,106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+282,WORF,"   Aye, sir.",106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+283,PICARD,   That was personal.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+284,GEORDI,   Captain -- the power drain needed   to hold this position is enormous.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+285,PICARD,   How long can you maintain it?,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+286,GEORDI,"   A few minutes, then we are going   to have to shut down again.",114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+287,PULASKI,   Captain -- some kind of energy has   just surrounded my patient.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+288,PICARD,   Is he still alive?,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+289,PULASKI,   Yes...,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+290,RIKER,"   Arm photons, Mister Worf, and lock   them on the center of the vortex.",114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+291,WORF,   Photon torpedoes locked on   target.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+292,PICARD,   Hold.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+293,RIKER,   We're like a rag in a dog's mouth.,116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+294,GEORDI,   I am now at maximum warp.,116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+295,TROI,"   It's you, Captain. It was the   entire ship, but now it has turned   its attention completely on you.",116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+296,GEORDI,"   Captain, I can't hold it. If we   don't shut down, we are going to   explode.",116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+297,PICARD,"   Counselor, what if I were to leave   the Enterprise? Would its   attention stay focused on me?",116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+298,TROI,   Yes. I think it would.,116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+299,RIKER,   You'd never survive.,119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+300,PICARD,"   But, maybe in those few seconds -- the   Enterprise could break free.   In any case, that's what he...   the other Picard... must have   thought.",119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+301,RIKER,"   Captain, where are you going?",119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+302,PICARD,"   Prepare a shuttle, Number One.",119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+303,RIKER,   You're leaving the ship?!,119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+304,PICARD,   I have to make a stop in Sickbay.   We may be on a road which has no   turns.,119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+305,PULASKI,   He's very agitated.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+306,P2,   I must get to the shuttle.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+307,PICARD,   I know.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+308,PICARD,   Do you know where you are?,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+309,P2,   The Enterprise.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+310,PICARD,   But you're only vaguely aware of   it. And me -- do you know who I   am?,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+311,PICARD,       No. You don't.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+312,P2,   I must go.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+313,PICARD,   Release him.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+314,PULASKI,   Do you know what you are doing?,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+315,PICARD,   No -- release him!,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+316,PULASKI,    (touching her     communicator)   Security to Sickbay.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+317,PICARD,"   No. Security, this is the   captain -- disregard that order.   And clear all personnel -- repeat,   all personnel -- from Shuttle Bay   Two. I don't want any   distractions. You...    (meaning both Troi and     Pulaski)   ... stay here.",124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Time Squared""",1989-01-25,The Next Generation
+318,PICARD,   You have made the decision to   leave the ship?,127A INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+319,P2,   I must.,127A INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+320,PICARD,   Why?,127A INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+321,P2,   The energy in the vortex wants   me.,127A INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+322,PICARD,   You're certain.,127A INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+323,P2,"   Yes... it's an entity -- a   life-form which recognizes the   Enterprise as an entity with me   as the brain, and it wants me.",127A INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+324,P2,   Shuttle Bay Number Two.,127B INT. TURBOLIFT,TURBOLIFT,INT.,"""Time Squared""",1989-01-25,The Next Generation
+325,PICARD,   What's your other option?,127B INT. TURBOLIFT,TURBOLIFT,INT.,"""Time Squared""",1989-01-25,The Next Generation
+326,P2,"   This is our only chance. If I   leave, it might be distracted long   enough for the Enterprise to   escape.",127B INT. TURBOLIFT,TURBOLIFT,INT.,"""Time Squared""",1989-01-25,The Next Generation
+327,PICARD,   You are wrong. Leaving won't save   your ship. Don't you remember?   It was destroyed -- you saw it   happen.,127B INT. TURBOLIFT,TURBOLIFT,INT.,"""Time Squared""",1989-01-25,The Next Generation
+328,P2,"   If I don't leave the Enterprise,   the ship will be destroyed.",127B INT. TURBOLIFT,TURBOLIFT,INT.,"""Time Squared""",1989-01-25,The Next Generation
+329,PICARD,"   If that's true, then help me.   We want the same thing. We want   the Enterprise to be safe.   There has to be a piece of   information which I don't have.   What is it?",127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+330,P2,   It's me.,127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+331,PICARD,   You?,127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+332,RIKER,   Captain.,127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+333,PICARD,   Yes.,127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+334,RIKER,   We are about to lose warp drive.,127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+335,PICARD & P2,"    (in sync, they respond     to Riker)   Understood.",127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+336,PICARD,"       When you say it's ""you,"" do you   mean it's still you? And it's   not me -- just you. Has this   entity singled you out -- somehow   making a connection?",127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+337,P2,   You're confusing me. We're   almost out of time.,127BB	INT. CORRIDOR,CORRIDOR,INT.,"""Time Squared""",1989-01-25,The Next Generation
+338,P2,   I must get to the shuttle.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+339,PICARD,"   Wait. You can -- I'll let you,   hell, man, I'll go with you, but   first tell me. What is -- what   was, your other choice?",127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+340,P2,   Stand aside.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+341,PICARD,   You don't know what I'm talking   about. You're frozen with a   single thought -- unable to change -- unable   to alter any part of your   previous actions.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+342,P2,   I must leave -- there's no other   way.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+343,PICARD,   There must be.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+344,P2,   Only one -- but it would never   work.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+345,PICARD,   What is it? What would never   work?,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+346,P2,   Better to sacrifice myself than   destroy the Enterprise.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+347,PICARD,   Destroy the Enterprise -- how?,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+348,P2,   I have to leave.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+349,PICARD,"   Tell me -- what was your other   choice? We can't escape it -- we   can't fight it, we can't go   forward.",127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+350,P2,"   No -- no... We can't go forward,   it would destroy the Enterprise.",127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+351,PICARD,       Was that it... Was that the other   choice?,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+352,P2,   I must leave.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+353,PICARD,   No.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+354,PICARD,"       I can't allow it. Before we have   any chance of moving forward, the   cycle must end.",127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+355,PICARD,    (touching his     communicator)   Doctor Pulaski -- report to Shuttle   Bay Two.,130A INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,"""Time Squared""",1989-01-25,The Next Generation
+356,PICARD,   Bridge.,131  INT. TURBOLIFT,TURBOLIFT,INT.,"""Time Squared""",1989-01-25,The Next Generation
+357,PICARD,"   Number One, we have been wasting   our energy trying to escape. It   only weakens us.    (he moves to his Command     Chair)   Helm, set a course for the center   of the vortex. Lieutenant La   Forge, on my command -- I want all   the power you can muster.",132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+358,GEORDI,"   Yes, sir.",132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+359,RIKER,   We are going into it?,132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+360,PICARD,   Yes.,132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+361,DATA,   Course set.,132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+362,PICARD,   Everyone hold your position -- no   matter what. ENGAGE!,132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+363,PICARD,   What's our position?,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+364,DATA,   We are back on course to Endicor.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+365,RIKER,   Stand down from Red Alert.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+366,O'BRIEN,"   Bridge, this is Shuttle Bay Two.   The other Picard and the shuttle   are gone.",141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+367,PICARD,   Explain.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+368,O'BRIEN,   They just... vanished.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+369,WORF,   All decks have reported in. No   damage -- no casualties.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+370,RIKER,   I want a complete check -- all   systems.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+371,WORF,"   Yes, sir.",141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+372,PICARD,"   You have the bridge, Number One.",141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+373,PICARD,"   Lots of questions, Number One...",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+374,PICARD,       ... and damn few answers.,142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+375,RIKER,   Everything about it seemed a tick   off.,142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+376,PICARD,"   He certainly did not act like me,   at least not the way I think I   act.",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+377,RIKER,   Maybe none of it was real... we   could have just been part of a   shared illusion.,142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+378,PICARD,"   Or maybe ""he"" was thrown back in   time so that we would be able to   take another road... make another   choice?",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+379,RIKER,"   That suggests a moral force,   giving us the opportunity... or   specifically giving you the   opportunity to right a wrong.",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+380,PICARD,   It's said... if you travel far   enough you will eventually meet   yourself.,142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+381,PICARD,"       I will tell you this... it's a   very unnerving experience, one   I hope never to repeat.",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Time Squared""",1989-01-25,The Next Generation
+382,RIKER,   Come.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+383,RIKER,       I know you were all disappointed   with my last culinary effort.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+384,WORF,   Not all.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+385,RIKER,"   Thank you, Worf. Anyway,   considering the stress of the last   few days, I thought we could use   a little diversion and at the same   time I could make amends for the   'Owon omelet.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+386,PULASKI,   So what are you preparing?,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+387,RIKER,"   The specialty of the house,   Alaskan stew.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+388,GEORDI,   Not with ingredients you picked   up at Starbase seventy-three?,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+389,RIKER,"   No -- I had the computer fabricate   everything. The potatoes, the   onions, the flour, and the meat.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+390,WORF,   Meat? What kind of meat?,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+391,RIKER,"   Ahh... Well, to be authentic I   needed moose. But, I couldn't   find the specific molecular   pattern for moose, so I had to   improvise. The computer came   close...",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+392,RIKER,"       ... actually, it's somewhere   between venison -- musk ox -- and   Kobe beef.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+393,WORF,   I thought that humans had long ago   given up the practice of raising   animals for food.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+394,RIKER,   There were a couple of winters   when it was either starve or hunt.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+395,WORF,   How fortunate.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+396,PULASKI,   I'll give you this -- your stew   smells a lot better than the eggs.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+397,PULASKI,       This is quite good.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+398,GEORDI,   Agreed.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+399,RIKER,"   No good, Worf.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+400,WORF,"   I appreciate the effort, I would   have preferred another omelet.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+401,RIKER,   Sorry. I used the last of 'Owon   eggs.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation
+402,GEORDI,   Thank goodness.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Time Squared""",1989-01-25,The Next Generation

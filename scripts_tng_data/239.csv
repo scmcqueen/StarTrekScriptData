@@ -1,0 +1,341 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's Log, Stardate 46461.3.   The Enterprise has entered the   Ipai Sector, where we are   scheduled to deliver supplies to   a remote communication relay   station near the Klingon border.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Aquiel""",1992-11-05,The Next Generation
+1,WORF,"   Station forty-seven is still not   responding to our hails, Captain.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+2,RIKER,   Should be two people aboard.   Lieutenants Aquiel Uhnari... and   Keith Rocha.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+3,PICARD,   Life signs?,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+4,WORF,   It is difficult to scan through   the concentrated subspace signals.,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+5,RIKER,       Mister Worf...,4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+6,WORF,   What is that noise?,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+7,GEORDI,       They must've left the audio   monitoring system on! We're   hearing a few thousand subspace   messages! I'll try to shut it   off!,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+8,GEORDI,       Commander...,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+9,GEORDI,   It's coming from inside this   service duct... could be a loose   cover plate...,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+10,RIKER,       Here's your loose cover plate...,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+11,GEORDI,"   Hey there, pooch...",5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+12,WORF,   The shuttlecraft is gone. There   is no one aboard.,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+13,BEVERLY ,   Commander...,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+14,RIKER,       What is it?,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+15,BEVERLY,   Cellular residue... I think it's   the remains of one of our   Lieutenants.,5    INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+16,BEVERLY,   All of the blood traces I found   match Lieutenant Aquiel Uhnari.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+17,BEVERLY,   For now I'll assume these are her   remains... but I'll need to take   the deckplate back to Sickbay to   make sure.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+18,RIKER,   It would take a powerful weapon to   do this...,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+19,BEVERLY,   I'll have a better idea after I've   analyzed the deckplate.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+20,RIKER,   If that is Lieutenant Uhnari...   Where's Rocha?,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+21,BEVERLY,   The station's shuttle is gone.   Maybe he took it.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+22,RIKER,   Before Uhnari died... or after?,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+23,WORF,"       We're ready, Commander.",12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+24,RIKER,   Any luck downloading the station   logs?,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+25,GEORDI,   Not yet. I can't get past the   security lock-outs.       But I think I know why...,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+26,GEORDI,   All encrypted subspace messages   are sent through this channel.   Look at the signal notation...,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+27,RIKER,   It's out of sequence.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+28,GEORDI,       I'd say somebody tried to by-pass   the access protocol and break into   the coded messages. It caused the   security lock-outs to freeze up.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+29,RIKER,   Are there any messages missing?,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+30,GEORDI,   I won't know until I can get into   the files.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+31,GEORDI,   I'm going to try accessing the   logs from another console.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+32,RIKER,       Looks like you've made a friend.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+33,GEORDI,   Yeah...,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+34,RIKER,   We're going back to the ship. Let   me know as soon as you have   something.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+35,GEORDI,   Aye sir.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+36,RIKER,       Riker to Enterprise. Four to beam   back.,12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+37,GEORDI,"   Come on, girl...",12   INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+38,GEORDI,   All right... what do you say we   try repolarizing the interface...,16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+39,GEORDI,       This doesn't look like yours...,16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+40,GEORDI,       Is this what you're looking for?,16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+41,GEORDI,"   Computer, run station logs in   sequence.",16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+42,AQUIEL ,"   -- Log, Stardate 46458.3. Today   we configured the relay controller   grid. It was the last primary   system we had to overhaul. We are   scheduled to recalibrate and align   the antennae systems in the next   three days.",16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+43,GEORDI,"   Computer, access visual output.",16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+44,AQUIEL ,"   ... sent in my third request for a   message delay buffer. Until it   arrives, Lieutenant Rocha and I   have rigged a memory module to   compensate. It'd better work...   or about a half million subspace   messages are going to end up   drifting through space.       Computer, open Uhnari   correspondence file.",16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+45,GEORDI,   Computer... access correspondence   files... Lieutenant Aquiel Uhnari.,16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+46,AQUIEL ,"   Hello, Shianna. Sorry I haven't   talked to you in a while... but   I've been dealing with the new   Lieutenant, Rocha. So far he's   been rude, arrogant, and   condescending -- and he's only   been here two days. This might be   a long year...",16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+47,GEORDI,"   Come on, Lieutenant... stick with   me...",16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+48,AQUIEL ,   -- I had the dream again. Mother   is calling out my name... she's   somewhere in the house... I get to   the top of the hill all right...   but then the house is slanted...   I'm still walking uphill. I can't   find her... doors everywhere and   they all look the same...,16   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+49,BEVERLY,   The cellular residue is completely   fused with the metal of the   deckplate.       We're trying to micro-vaporize the   metal... so I can get a clean DNA   sample.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+50,PICARD,   Do you have any idea what killed   her?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+51,BEVERLY,"   Well... this is just a guess, but   from the molecular deposition on   the plating I'd say it was a highlevel   phaser blast.",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+52,RIKER,   Could it have been a Klingon   disruptor?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+53,BEVERLY,   Possibly.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+54,RIKER,   Geordi found evidence that the   encrypted messages might have been   tampered with.       We're pretty close to Klingon   space...,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+55,PICARD,   There hasn't been a Klingon raid   against the Federation in over   seven years.       I don't want to risk a diplomatic   incident until we have more   evidence.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+56,BEVERLY,   And there's still the question of   what happened to Lieutenant   Rocha...,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+57,PICARD,       Get Rocha's personnel file from   Starfleet Command. And ask   Starbase Two-Twelve to help search   for that shuttle.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+58,RIKER,   Aye sir.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+59,PICARD,       Keep me apprised.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+60,GEORDI,   Alright... let's try this again...,18A  INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+61,GEORDI,"   The phase inducers are aligned...   this should be working...       Come on, Lieutenant... I know   you're in there somewhere...",18A  INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+62,GEORDI,"       Computer -- run a subsystem   diagnostic, with a frequency range   of ten to one hundred megahertz.",18A  INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+63,COMPUTER,   Diagnostic cycle will be complete   in twenty seconds.,18A  INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+64,GEORDI,       Iced coffee.,18A  INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+65,GEORDI,"   What is it, girl?",18A  INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+66,AQUIEL,"   Hello, Shianna. By the time you   get this... the Batarael will be   over. This is the first year I   haven't been there... I've been   wondering who's singing the Horath   in my place...",23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+67,AQUIEL,"       ""Jomiael hahnalia ma marou nitalia      Rumael tavariel fatra di va      Jomiael Batarael... """,23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+68,AQUIEL,"       ""continues to sing song - TBD""",23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+69,AQUIEL,"       ""finishes song - TBD""",23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+70,AQUIEL,   I had the dream again... the one   where Mother is screaming... I   climb the hill to our house... but   I can't get to her...     ,23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+71,AQUIEL ,"       Shianna, this time I ran away. I   was so scared I ran back down the   hill...",23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+72,AQUIEL,   I think I know why I've been   having dreams about danger... it's   because of what's been happening   with that Klingon.,23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+73,AQUIEL,   He's getting more aggressive all   the time.,23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+74,AQUIEL,"   ... it's because of what's been   happening with that Klingon. He's   getting more aggressive all the   time. Not just the usual   threats... Morag actually locked   his disruptors on the station this   time.       I don't really think there'll be   any trouble... it just gives me   those panic feelings... wanting to   run, wanting to get away from   danger.       Shianna, I couldn't say this to   anyone but you... but... the   panic... is the same thing I used   to feel when Father got angry...   when I knew he was going to punish   me...     ",23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+75,AQUIEL ,       Only now I'm out here in space and   there's no place to run.,23   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+76,GEORDI,   There are at least three   references to a Commander Morag --   a Klingon officer who patrols this   section of the border. Apparently   he would pass the station every   few days and harass them.,24   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+77,PICARD,   Perhaps Morag was the one   interested in obtaining the   encrypted messages.,24   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+78,GEORDI,   Could be. She didn't say.       I still have several days worth of   logs left to watch. Maybe I'll   learn more.,24   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+79,PICARD,"   Very well. In the meantime, I'll   talk to the Klingon Governor about   Commander Morag.",24   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+80,GEORDI,       Computer -- access Aquiel Uhnari's   personal logs.       Begin playback.,26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+81,AQUIEL,"   Shianna, you always said I'd look   great with a wig. So here it is.       What do you think?",26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+82,GEORDI,   Definitely not you.,26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+83,AQUIEL,"   Okay... maybe I'm getting a little   crazy... you would, too, if you   were on a relay station in the   middle of nowhere with no one for   company except an egomaniac like   Keith Rocha.",26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+84,AQUIEL,   I took a big risk today... I   countermanded an order he gave...   I agreed to handle the com traffic   of Relay Station one-nine-four   while they shut down for   maintenance. Rocha said we   couldn't handle the additional   signal load... but I think he's   wrong.,26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+85,AQUIEL,       When he finds out... he'll be   furious.,26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+86,AQUIEL,   It's days like this that I wish I   was home. You know what I miss?       Muskan seed punch.       Real Muskan seed punch. I can get   it from the replicator... but it's   not the same. I'd give anything   for some of the punch Mother used   to make... with chunks of the   seeds still in it...,26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+87,AQUIEL,   I had the dream again.,26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+88,AQUIEL,   Keith? Is that you?,26   INT. GEORDI'S QUARTERS (OPTICAL),GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+89,WORF,   Commander... there are DNA traces   here. They are Klingon.,28   INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+90,RIKER,   So Klingons did board the   station...,28   INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+91,WORF,   I have only found DNA from one   Klingon so far. I will continue   to scan.,28   INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+92,GEORDI,       How could she read this stuff... ?,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+93,RIKER,   How's it going?,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+94,GEORDI,"   I've managed to access all of   Lieutenant Uhnari's logs. I'm   looking for Rocha's now. Whatever   happened to the encrypted messages   had a cascade effect on the whole   storage system, and I can't find   any of his files.",29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+95,RIKER,   Maybe Rocha didn't make the   official logs... Uhnari might have   been responsible for them.,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+96,GEORDI,   I don't think so. Aquiel was the   junior officer.,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+97,RIKER,"   ""Aquiel""?",29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+98,GEORDI,   Lieutenant Uhnari.       I was up all night watching her   personal logs... I guess I'm   starting to feel like I know her.,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+99,RIKER,   What was she like?,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+100,GEORDI,"   Well... she was Hahliian... she   had one sister, named Shianna...   she drank muskan seed punch... she   had a sense of humor that I could   only describe as... ""unique.""       She loved to sing... and read...       ... books of questionable taste.",29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+101,PICARD,   Enterprise to Commander Riker.,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+102,RIKER,   Riker here.,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+103,PICARD,   The Klingon ship Qu'Vat has   arrived with Governor Torak.   Please report to the Observation   Lounge.,29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+104,RIKER,"   On my way, sir.",29   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+105,PICARD,   Torak claims to be bringing   evidence that the Klingons had no   involvement in the murder of   Lieutenant Uhnari.,30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+106,RIKER,   Really. We just found evidence   that there was at least one   Klingon at the scene of the   murder.,30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+107,PICARD,   This should be an interesting   meeting.,30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+108,WORF,"   Governor Torak, sir.",30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+109,PICARD,   Governor. Welcome aboard...,30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+110,TORAK,   Do not bore me with your human   pleasantries. I told you we did   not kill the woman. Now I will   prove it to you...,30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+111,TORAK,   ghoS! ,30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+112,TORAK,   This is Lieutenant Aquiel Uhnari.,30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+113,AQUIEL,"   We were running a level two   diagnostic of the message   buffer... nothing special. Rocha   had been on edge all morning, but   he'd been irritable ever since he   got there, so I didn't think   anything of it...       We were mid-way through the   procedure... and suddenly... he   attacked me...",31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+114,AQUIEL,"       He grabbed me... and threw me   against the port bulkhead... I   yelled at him to stop, but he   wouldn't listen. He took me by   the throat... I broke free and   tried to get to the weapons   locker...       I'm not sure what happened next...   but somehow I got aboard the   shuttle and left...",31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+115,TORAK,   We found her on our side of the   border heading toward Sector Two   Five Two Zero. She is lucky my   patrol ship did not destroy her   vessel on sight.,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+116,PICARD,   Lieutenant... why didn't you   contact Starfleet and report what   happened aboard the Station?,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+117,AQUIEL,"   I... don't know, sir. Maybe I   passed out. I'm not even sure how   long I was in the shuttle before   the Klingons picked me up.",31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+118,GEORDI,   Forty-six hours.,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+119,GEORDI,   You've been gone forty-six hours.,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+120,BEVERLY,   We assumed you were dead. Your   blood stains were found at the   murder scene.,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+121,AQUIEL,   I think I cut my head when he   threw me against the bulkhead.,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+122,WORF,   Then the remains we found must be   Lieutenant Rocha.,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+123,BEVERLY,"   I can't confirm that.       Until we can separate the cellular   residue from the deckplate, I   won't be able to get a clear DNA   scan.",31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+124,RIKER,       You said you tried to get to the   weapons locker... is it possible   that you did?,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+125,AQUIEL,"   No, I... I didn't.",31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+126,RIKER,   You're sure?,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+127,AQUIEL,   I don't... exactly remember   everything after he attacked me...,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+128,AQUIEL,   I'm sorry. It's as if my memories   were... drained right out of me...,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+129,GEORDI,   Your logs said that a Commander   Morag had been harassing you...   did you ever let him or any other   Klingon aboard the station?,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+130,AQUIEL,   Absolutely not.,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+131,WORF,"       If that is true, then Morag or   some other Klingon boarded the   station after she left.       We found Klingon DNA traces aboard   the station.",31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+132,TORAK,   You still try to blame us!,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+133,WORF,   Have the courage to admit your   mistakes. Or are you a lo'Be Vos?,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+134,TORAK,       At least I do not wear the uniform   of a P'tak!,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+135,PICARD,   Governor Torak... we are merely   exploring all the possibilities.   Lieutenant Uhnari's logs said   Commander Morag was harassing the   station --,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+136,TORAK,   He was doing his job!,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+137,PICARD,"   If he was only doing his job, then   I'm sure you won't mind if we   speak with him.",31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+138,TORAK,"   Very well. In the interests of   diplomacy, I will allow you to   speak to Morag... but my patience   has limits.",31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+139,GEORDI,       Lieutenant... I know a friend of   yours who's very eager to see you.,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+140,AQUIEL,   Who?,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+141,GEORDI,   Come on...,31   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+142,AQUIEL,       Maura! I was worried about you...   good girl...,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+143,GEORDI,   Maura... so that's her name.,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+144,AQUIEL,"   Yes, it's from ""Cold Moon Over   Blackwater."" Have you read it?",33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+145,GEORDI,   No... I'm not much for gothic   fiction.,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+146,AQUIEL,   Most people aren't nowadays.,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+147,GEORDI,   Yeah... Maura got a little...   restless.,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+148,AQUIEL,"       Maura, shame on you. This isn't   like you...",33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+149,GEORDI,   It's alright...,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+150,GEORDI,       At least she's chewing them up in   pairs.,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+151,GEORDI,   I'll arrange quarters for you.   I'm sure you'd like some time   alone...,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+152,AQUIEL,   Actually... I've been stuck on   that station for over nine   months... I wouldn't mind going   someplace with some activity.,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+153,GEORDI,   I know just the place.,33   INT. GEORDI'S QUARTERS - CLOSE ON DOG,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+154,AQUIEL,       Have you ever tried Muskan seed   punch?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+155,GEORDI,   Yeah... it nearly made me sick.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+156,AQUIEL,   You have to be raised on it. It's   very nutritious... and the taste   grows on you.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+157,GEORDI,       Batar al nalia. ,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+158,AQUIEL,   You speak Hahliian?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+159,GEORDI,"       Nelo, nelo... ",34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+160,AQUIEL,   Your accent is wonderful... almost   flawless.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+161,GEORDI,   Thanks... I've always had a knack   for languages... probably because   my folks moved around so much...,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+162,AQUIEL,   We never travelled. My family has   lived in the same house for five   generations.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+163,GEORDI,   The one on the hill?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+164,AQUIEL,   How did you know about that... ?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+165,GEORDI,   Well... to be honest... when we   thought you were dead... I had to   review your logs... and your   personal correspondence... for any   possible clues about what   happened.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+166,AQUIEL,       All of it?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+167,GEORDI,   Most of it.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+168,GEORDI,   You have to remember... we thought   you'd been murdered. We needed   information.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+169,AQUIEL,   I'm sorry... it's just that... I   say things to my sister that I   wouldn't say to anyone else. I   guess I'm feeling a little...   exposed.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+170,GEORDI,   I'd feel the same way.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+171,AQUIEL,   Especially if I'd seen you in a    wig...,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+172,AQUIEL,   I'm curious... now that you've met   me... am I what you expected?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+173,GEORDI,"   I'm not sure. The woman I saw on   those logs is very complicated.       I think there's more to you than   meets the eye, Lieutenant.",34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+174,AQUIEL,   In what way... ?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+175,GEORDI,"   Your relationship with Rocha, for   example. He'd only been there   five days... but there was already   a lot of friction... and you   almost seemed to delight in doing   things that would upset him. Why   would you take on extra com   traffic... when you knew it would   make him angry?",34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+176,AQUIEL,   Is that a personal question? Or   part of a murder investigation?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+177,GEORDI,   I don't know. Maybe both.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+178,AQUIEL,   Keith Rocha was obnoxious from the   minute he reported for duty. He   treated me as though I were   beneath contempt.       I dealt with him the best way I   could. I felt like I had to   battle him just to hold my own.   But that doesn't mean I wanted him   dead.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+179,GEORDI,   Why do you think he attacked you?,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+180,AQUIEL,       I don't know.,34   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+181,RIKER,   Rocha's file is spotless. Two   decorations for valor... three   outstanding evaluations from his   previous commanders...       Doesn't sound like the same man   Lieutenant Uhnari described.,35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+182,PICARD,   What have you found out about   Uhnari?,35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+183,RIKER,"   I checked into her record, too.       Her last posting was on Deriben   Five. I spoke with her commanding   officer there. He said she's   argumentative... quick to take   offense. He told me that he   transferred Uhnari to this relay   station because she was hampering   their efforts.       To be honest, sir... I'm beginning   to have doubts about her story.",35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+184,PICARD,   Why?,35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+185,RIKER,   I had Worf check the weapons   locker on the relay station...   there's a phaser missing.,35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+186,PICARD,   You think she lied?,35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+187,RIKER,   Lied... conveniently forgot... I'm   not sure. I just think it's   something we have to consider.,35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+188,PICARD,"   As of now, we don't have   sufficient evidence one way or the   other... I want you to examine her   shuttle... perhaps there's   something there which will shed   some light on her story.",35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+189,RIKER,   Aye sir.,35   INT. READY ROOM,READY ROOM,INT.,"""Aquiel""",1992-11-05,The Next Generation
+190,AQUIEL,   How much longer do you think the   investigation will take?,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+191,GEORDI,   Hard to say. Maybe two or three   more days...,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+192,AQUIEL,   I know I'm a suspect in this   murder. Let me ask you   something...       You watched my logs... you know me   better than anyone here...       Do I seem like the kind of person   who could kill someone?,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+193,GEORDI,   No.,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+194,AQUIEL,   I don't think I realized how much   I needed to hear that...,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+195,GEORDI,   Aquiel... it's been a hard couple   of days... I think you need some   sleep.,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+196,AQUIEL,   You called me complicated...   you're right. And I don't make   friends easily...,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+197,AQUIEL,   Oumriel.,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+198,GEORDI,       Oumriel...,37   INT. CORRIDOR,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+199,BEVERLY,"   I've managed to isolate the   cellular residue from the metal of   the deckplate. We've begun a full   spectrum tissue scan...       But something destabilized the DNA   to such an extent, that I can't   get a clear scan of it.",37A  INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+200,PICARD,   Could a high level phaser blast   have caused this kind of DNA   disruption?,37A  INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+201,BEVERLY,   Possibly. But it would take a   continuous burst of thirty to   forty seconds to cause this kind   of damage.       I'm going to try to reform the DNA   with a resonance frequency   burst... see if I can reconstruct   it to get an accurate scan.,37A  INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+202,WORF,   Commander...,38A  INT. AQUIEL'S SHUTTLECRAFT,AQUIEL'S SHUTTLECRAFT,INT.,"""Aquiel""",1992-11-05,The Next Generation
+203,WORF,       It is set to kill.,38A  INT. AQUIEL'S SHUTTLECRAFT,AQUIEL'S SHUTTLECRAFT,INT.,"""Aquiel""",1992-11-05,The Next Generation
+204,RIKER,       We found a type two phaser in your   shuttlecraft. It was taken from   the weapons locker on the station.,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+205,AQUIEL,   I told you I don't remember what   happened. Maybe I did get to the   weapons locker...,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+206,RIKER,   The phaser was set to level ten.       Standard procedure requires that   all phasers are set to level one   when they're in storage.,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+207,WORF,   That means someone deliberately   changed the setting.       And there is the matter of your   conflict with Lieutenant Rocha.,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+208,AQUIEL,   Rocha and I had our   disagreements... but I would   never kill him...,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+209,RIKER,   Have you been able to remember   anything at all about what   happened after he attacked you?,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+210,AQUIEL,   No... nothing...       I... suppose it's possible...   maybe in self-defense I...,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+211,RIKER,"   Doctor Crusher tells me that in   order to inflict the kind of   molecular damage found in Rocha's   remains... it would take a   sustained phaser discharge of at   least thirty to forty seconds.       That doesn't sound like ""self-defense""   to me.",40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+212,GEORDI,"   Wait a minute. We haven't even   established this phaser as the   murder weapon yet.       And even at level ten... I don't   see how a phaser could do what the   medical evidence says it did. A   subspace disruptor like a Klingon   weapon, maybe...",40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+213,RIKER,   Look -- we're not here to make   accusations... Just to find out   what happened.       Commander Morag is due to arrive   in two hours. We'll see what he   has to say.,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+214,GEORDI,   I'd like to go back to the   station... and try accessing   Rocha's personal logs again.,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+215,RIKER,   Good idea.,40   INT. ENTERPRISE - AQUIEL'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+216,RIKER,   Geordi... wait a second.,40A  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+217,RIKER,"   This is off the record. I'm   saying this as your friend, not   your superior officer.       It might be best if you weren't   so... personally involved with   Aquiel right now. There's a lot   about her we don't know...",40A  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+218,GEORDI,   There's a lot about her that I do   know...       If she's innocent... I'd like to   help her prove it.,40A  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+219,RIKER,   I think you're letting your   personal feelings cloud your   judgement.,40A  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+220,GEORDI,       I'm not the one making judgements.,40A  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Aquiel""",1992-11-05,The Next Generation
+221,GEORDI,   Got it...       Computer -- display personal logs   of Lieutenant Rocha. Stardates   46455 to 46461.,41A  INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+222,GEORDI,   Computer -- what happened to the   log entries for Stardate 46460?,41A  INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+223,COMPUTER,   The logs have been deleted.,41A  INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+224,GEORDI,       Who deleted them?,41A  INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+225,COMPUTER,   Unknown.,41A  INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+226,GEORDI,   Computer -- access internal   records for Station forty-seven.   Authorization La Forge Theta Nine   Nine Two.       Perform a command function trace   on the instructions to delete the   log entries.,41A  INT. RELAY STATION - OPS (OPTICAL),RELAY STATION - OPS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+227,PICARD ,   Captain's Log: Supplemental. The   Qu'Vat has arrived with Commander   Morag. We are preparing to   question him regarding his   involvement in the murder of   Lieutenant Rocha.,"41A  EXT. SPACE - ENTERPRISE, BIRD OF PREY, & RELAY",SPACE,EXT.,"""Aquiel""",1992-11-05,The Next Generation
+228,MORAG,   I killed no one!,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+229,RIKER,"       We found your DNA on the consoles,   and on the bulkheads... we know   you were there.",41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+230,TORAK,   Answer their questions.,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+231,MORAG,"       Yes...       Yes, I was there. My patrol route   takes me near the station every   six days. Three days ago I hailed   them and there was no response.   I was... concerned.",41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+232,TROI,   Concerned... ?,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+233,MORAG,"       Yes. I went aboard to see what   had happened. No one was there,   so I left.",41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+234,RIKER,   And that's all?,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+235,MORAG,   That's all.,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+236,DATA,"   Commander Morag, we have   discovered that the encrypted   message bank on the station has   been tampered with. Our analysis   indicates that twenty-seven   priority Starfleet messages are   missing.",41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+237,MORAG,   What of it?,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+238,DATA,   Your DNA was also found on the   message control module.,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+239,MORAG,   This is outrageous! We will not   tolerate these accusations!,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+240,TORAK,"   This is a... diplomatic matter,   Morag.       Do not make me searcn your ship.",41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+241,MORAG,       Yes... I did take the messages...,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+242,PICARD,   Did you kill Lieutenant Rocha?,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+243,MORAG,"   No. There was no one there. I   saw blood... and signs of a   struggle. I took the codes, but   I killed no one.",41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+244,PICARD,"   Governor, we would like Commander   Morag to remain aboard the   Enterprise until our investigation   is complete.",41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+245,TORAK,   Take him.,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+246,WORF,   This way.,41A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+247,GEORDI,"   Last night, after I dropped you   off at your quarters...     ",41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+248,GEORDI ,   you established a subspace link   with this console...       You deleted some of Rocha's   personal file... didn't you?,41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+249,AQUIEL,   Yes... I did.,41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+250,GEORDI,   Why?,41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+251,AQUIEL,   I found... a letter Rocha was   planning to send to Starfleet   Command... about me.       The letter said I had become   belligerent... and insubordinate.   He was going to ask for a formal   hearing.,41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+252,AQUIEL,"   Geordi, I know how this looks...",41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+253,GEORDI,   Yeah -- it looks pretty bad.       I find out you've erased a letter   that contained a possible   motivation for murder --,41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+254,AQUIEL,       I didn't kill him.,41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+255,GEORDI,   Then explain this...,41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+256,AQUIEL,"   I was afraid if they found the   letter... I'd be blamed for the   murder.       I'm not a model officer, I realize   that. Sometimes I act on impulse   instead of thinking things   through...",41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+257,GEORDI,   Aquiel... this really complicates   things...,41D  INT. RELAY STATION - OPS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+258,GEORDI,   What are you doing?,42   INT. RELAY STATION - AQUIEL'S QUARTERS -,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+259,AQUIEL,   Getting out of here.,42   INT. RELAY STATION - AQUIEL'S QUARTERS -,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+260,GEORDI,       Aquiel... running away isn't going   to prove your innocence... facing   the situation will.,42   INT. RELAY STATION - AQUIEL'S QUARTERS -,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+261,AQUIEL,"   I'm scared, Geordi...",42   INT. RELAY STATION - AQUIEL'S QUARTERS -,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+262,GEORDI,   We'll get through this. I   promise...,42   INT. RELAY STATION - AQUIEL'S QUARTERS -,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+263,AQUIEL,   Then... you believe me?,42   INT. RELAY STATION - AQUIEL'S QUARTERS -,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+264,GEORDI,   Yes. I do.,42   INT. RELAY STATION - AQUIEL'S QUARTERS -,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+265,BEVERLY,   Alright. Initiate the resonance   frequency burst...,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+266,BEVERLY,   I'm starting to get a stable DNA   scan... this is odd...       The nucleotide sequences are   starting to fluctuate... the DNA   is becoming motile.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+267,BEVERLY,   Let's try another frequency burst --   increase the resonance level by   twenty percent --,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+268,AQUIEL,   What is it... ?,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+269,GEORDI,   We've... got a lot of work to   do...,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+270,AQUIEL,   I haven't felt this close to   someone in a long time... I don't   want to let go of it...,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+271,GEORDI,   Me neither...       But we've got over six hundred   logs to go through...,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+272,AQUIEL,   Alright. But first... there's   something I want to share with   you. A way that we can become...   more intimate.,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+273,AQUIEL,       My people are partially   telepathic... we use something   called the Canar to help us focus   our thoughts.,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+274,AQUIEL,       We also use the Canar to establish   a stronger emotional link   during... love.,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+275,GEORDI,   I was wondering what that was...,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+276,GEORDI,       Do both of us have to be...   telepathic for it to work?,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+277,AQUIEL,   Let's find out.,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+278,GEORDI,   Go ahead...,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+279,AQUIEL,   Think of me...,51   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+280,BEVERLY,       It's a perfect reproduction of my   hand -- all the way down to the   DNA structure.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+281,PICARD,       You said it was formed from the   organic matter found in the   deckplate?,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+282,BEVERLY,"   When I infused the matter with a   resonance frequency burst, it   activated the DNA. Then it   touched my hand... and started to   mimic my cellular structure...",52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+283,PICARD,       Doctor... what exactly is this?,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+284,BEVERLY,   It's going to sound pretty farfetched...,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+285,BEVERLY,   Have you ever heard of coalescent   organisms?,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+286,RIKER,   No...,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+287,BEVERLY,"   Rare microscopic lifeforms which   must absorb other organisms in   order to survive. Now, that's not   so unusual... but coalescents   become the organism they've   absorbed -- right down to the   cellular level.",52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+288,WORF,   Do you think that is what happened   with your hand?,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+289,BEVERLY,   There have been reports that these   organisms can exist on a larger   scale. What happened to my hand   seems to support that theory.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+290,RIKER,   Are you saying that Lieutenant   Rocha was killed by one of these --   organisms?,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+291,BEVERLY,   It's possible it happened before   he reported for duty on the relay   station.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+292,WORF,   I do not understand.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+293,BEVERLY,"   I've checked the records. Just   before he was posted to the relay   station, Rocha served on an   outpost in the Triona System...       That's in a remote sector... maybe   he was absorbed by a coalescent   during that mission...",52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+294,RIKER,"       Then... what came aboard the   station, was actually an organism   that looked and acted like   Rocha...",52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+295,WORF,   How often must they change bodies?,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+296,BEVERLY,"   The microscopic organisms have a   cycle of no more than five to ten   seconds. We can only assume a   larger, more complex coalescent   would have a cycle of at least   several days... or weeks.",52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+297,PICARD,   If what you're saying is true...   Rocha attacked Uhnari because he   needed a new body...,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+298,BEVERLY,   Right.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+299,RIKER,   But that means... Uhnari's now a   coalescent.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+300,WORF,   There was another person on the   station -- Morag. It is possible   he was the one who was...   absorbed.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+301,PICARD,       Computer -- locate Commander Morag   and Lieutenant Uhnari.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+302,COMPUTER,   Commander Morag is in his   quarters. Lieutenant Uhnari is   not aboard the Enterprise.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+303,WORF,       Where did she go?,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+304,COMPUTER,   Lieutenant Uhnari transported to   Relay Station Forty-Seven at   eighteen thirty hours.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+305,RIKER,       You get Morag. I'm going to the   station.,52   INT. SICKBAY,SICKBAY,INT.,"""Aquiel""",1992-11-05,The Next Generation
+306,AQUIEL,   Geordi... ?,53   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+307,GEORDI,   I can see you...,53   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+308,GEORDI,   And I can... feel you...,53   INT. RELAY STATION - AQUIEL'S QUARTERS (OPTICAL),RELAY STATION - AQUIEL'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+309,WORF,   Do not move.,54   INT. ENTERPRISE - MORAG'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+310,MORAG,   What is this -- ?,54   INT. ENTERPRISE - MORAG'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+311,WORF,   Come with us.,54   INT. ENTERPRISE - MORAG'S QUARTERS,ENTERPRISE,INT.,"""Aquiel""",1992-11-05,The Next Generation
+312,AQUIEL,       You've never been as close to   someone as you're about to be...   think of me...,55   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+313,RIKER,"       Step away from him, Lieutenant...   slowly.",57   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+314,GEORDI,"   What is it, Commander?",57   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+315,RIKER,   That might not be Lieutenant   Uhnari...,57   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+316,GEORDI,   What?,57   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+317,AQUIEL,   What are you saying?,57   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+318,RIKER,   Step away. Now.,57   INT. RELAY STATION - AQUIEL'S QUARTERS,RELAY STATION,INT.,"""Aquiel""",1992-11-05,The Next Generation
+319,BEVERLY ,"   Chief Medical Officer's Log,   supplemental. Commander Morag and   Lieutenant Uhnari are being kept   under close observation. So far,   no sign of coalescent behavior has   surfaced.",59   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Aquiel""",1992-11-05,The Next Generation
+320,RIKER,   Uhnari and Morag will be   transferred to a secure medical   facility at Starbase Two-twelve.   Maybe we'll know more by the time   we get there.,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+321,GEORDI,   Yeah... maybe...,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+322,RIKER,       It might be Morag... there's no   way to tell...,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+323,GEORDI,       Right...,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+324,RIKER,   Get some rest. This has been a   tough couple of days...,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+325,GEORDI,   Thanks...,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+326,GEORDI,       Computer -- display the   Engineering duty roster for the   next three days.,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+327,GEORDI,       Come on now... stop it...,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+328,GEORDI,   Maura... ?,60   INT. GEORDI'S QUARTERS,GEORDI'S QUARTERS,INT.,"""Aquiel""",1992-11-05,The Next Generation
+329,GEORDI,   Maybe the reason you don't   remember what happened after Rocha   attacked you... is that the   coalescing process had begun...   remember you felt like the   memories had been drained right   out of you? That's probably just   what happened...,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+330,AQUIEL,   Then... maybe I did take the   phaser...,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+331,GEORDI,"   Whatever happened, at least you   got away.",63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+332,AQUIEL,   So he turned on Maura.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+333,GEORDI,   Well. What now?,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+334,AQUIEL,   I guess I'll be going to Starbase   Two-Twelve for re-assignment.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+335,GEORDI,       You know... I had a talk with   Chief Pendleton in Communications.   There's an opening for a level two   specialist.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+336,AQUIEL,   Really?       I'm sure there's a waiting list so   long I'd be grey before I got   here.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+337,GEORDI,       I could put in a good word.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+338,AQUIEL,   It's an appealing offer...       But I think I'd rather get here on   my own merits.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation
+339,AQUIEL,   Don't be surprised if you see my   name at the end of that list.,63   INT. TEN FORWARD,TEN FORWARD,INT.,"""Aquiel""",1992-11-05,The Next Generation

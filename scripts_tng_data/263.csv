@@ -1,0 +1,391 @@
+,character,quote,scene,location,view,episode,date,series
+0,WORF,"       Personal log, Stardate 47391.2.   I am returning from the Bat'leth   competition on Forcas Three. The   conditions were difficult...   several contenders were maimed.   But I was triumphant...",2    INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+1,WORF,"       I won ""Champion Standing.""",2    INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+2,WORF,"       I look forward to resuming my   duties aboard the Enterprise.   However, I am anticipating a...   troubling situation.",2    INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+3,RIKER,   It looks like we're going to have   to head out to the Argus Array.   This is the third time in the last   year it's stopped relaying data.   Starfleet's beginning to think it   may be more than a simple   malfunction.,3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+4,RIKER,       I want you to start a long range   scan as soon as we enter the --,3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+5,RIKER,"   Are you listening to me,   Lieutenant?",3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+6,WORF,"   Oh... yes, sir.",3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+7,RIKER,   You seem pretty tense for a man   who just came back from vacation.,3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+8,WORF,   Today... is my birthday.,3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+9,RIKER,   What's the matter with you?,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+10,WORF,   Because it is my birthday... I   assumed that you or one of the   others would try to mount an   unexpected... social gathering.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+11,RIKER,"   You mean a surprise party? Worf,   I hate surprise parties. I would   never do that to you.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+12,WORF,"   I am... sorry, Commander.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+13,RIKER,   Why don't you settle in and I'll   meet you on the Bridge.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+14,WORF,   Aye sir.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+15,S,   SURPRISE!!,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+16,RIKER,"   Actually, Worf, I love surprise   parties.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+17,ALL,"    (sung to the tune of     ""For He's A Jolly Good     Fellow"")   ""Cha Worf Toh'gah-nah lo   Pre'tOk... Cha Worf Toh'gah-nah   lo Pre'tOk... Cha Worf Toh'gah-nah   lo Pre'tO-O-O-O-Ok... Tu Mak   Dagh Cha doh Borak!""",6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+18,WORF,   That was not a Klingon song.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+19,TROI,"   It wasn't easy to translate.   There doesn't seem to be a Klingon   word for ""jolly"".",6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+20,BEVERLY,   It's traditional for the birthday   boy to cut the cake.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+21,RIKER,   Captain Picard sends his birthday   wishes. He was needed on the   Bridge.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+22,DATA,"   Happy birthday, Worf.",6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+23,WORF,   Thank you....,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+24,WORF,   Ah... a painting.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+25,DATA,   Yes. I have entered my Abstract   Expressionistic phase. This is my   interpretation of the Battle of   HarOS.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+26,WORF,   The Battle of HarOS... ?,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+27,TROI,   I think it's wonderful. And I   know just where to hang it...,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+28,WORF,   What are you doing?,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+29,TROI,   I always thought this room could   use a little more color.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+30,GEORDI,"       Battle of HarOS, right?",6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+31,GEORDI,   You alright?,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+32,WORF,   I believe Commander Data's   painting is making me dizzy...,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+33,WORF,       I thought this cake was   chocolate...,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+34,TROI,   Don't I wish.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+35,TROI,       This is from Alexander. He gave   it to me before he left to visit   your parents.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+36,GEORDI,   What is it?,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+37,WORF,   Alexander's forehead.       The ridges of a warrior.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+38,TROI,"   He really wished he could've been   here when you got back from shore   leave. You should have seen him,   Worf... he stayed up all night   talking about how proud he was of   his father.",6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+39,WORF,   Thank you for watching him while   I was away.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+40,TROI,   It was my pleasure.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+41,PICARD,"   So... how old are you, Mister   Worf?",6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+42,WORF,   Captain -- I was told you couldn't   attend.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+43,PICARD,   I wouldn't miss this for the   world. How old are you?,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+44,WORF,   I am... old enough.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+45,PICARD,   Report.,9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+46,DATA,"       The Array appears to be   functioning normally, sir.",9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+47,RIKER,   That can't be right. We were told   it stopped relaying data six days   ago.,9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+48,DATA,"   The Array is still transmitting   data. However, it is no longer   sending that information to the   Federation.       It appears that someone has   redirected its imaging systems.",9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+49,PICARD,   Where is the information being   sent now?,9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+50,DATA,"       Sector One-nine-six-five-eight.   I am unable to access the Array's   main computer, so it is impossible   to determine the exact location.",9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+51,RIKER,   What's in that sector?,9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+52,WORF,"   It is uninhabited. But there   could easily be a ship, or a   subspace relay station receiving   the data.",9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+53,RIKER,   Captain. I suggest we beam a   repair crew aboard the Array. We   can download the imaging logs --   find out what the Array's been   observing for the past six days.,9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+54,PICARD,   Make it so.,9    INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+55,WORF,"   Excuse me, Counselor. Do you have   a moment?",10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+56,TROI,   Of course.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+57,WORF,   I have been meaning to speak with   you... about Alexander.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+58,TROI,   Oh?,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+59,WORF,   It has never been easy for me...   having Alexander on board. I have   always tried to be a good   father... to give him guidance...   but he seems to have his own mind   about some things.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+60,TROI,   Most children do.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+61,WORF,"   I could not have gotten this far   without your help. Alexander   looks up to you. At times, I have   felt that you are like a mother to   him.",10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+62,TROI,   Worf... that's one of the nicest   things anyone's ever said to me.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+63,WORF,"   Once, when I thought I was going   to die... I asked you to watch   over Alexander. I was   wondering... if you might consider   formalizing that arrangement.       I want you to be Alexander's SohchIm.",10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+64,TROI,"   His ""Soh-chIm""?",10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+65,WORF,"   You would become his surrogate   mother. In case anything ever   happened to me, you would be   responsible for him.",10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+66,TROI,"   Worf, I don't know what to say.   It's a great honor.       So this would make me your...",10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+67,WORF,   The closest analogy would be...   step-sister.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+68,TROI,   That would make my mother your   step-mother.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+69,WORF,   I had not considered that...       It is a risk I am willing to take.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+70,TROI,   I accept.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+71,DATA,"   Lieutenant Worf, please report to   Engineering.",10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+72,WORF,       On my way.,10   INT. TEN FORWARD,TEN FORWARD,INT.,"""Parallels""",1993-10-07,The Next Generation
+73,DATA,       We have analyzed the imaging logs.   It appears that the Array was   reprogrammed to observe several   Federation sites.,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+74,GEORDI,       This is Deep Space Five...   Starbase Forty-seven... the Iadara   Colony... and this is the Utopia   Planitia Shipyard.,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+75,PICARD,       The Utopia Planitia shipyard...   they're responsible for new   starship development...,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+76,WORF,       Someone is using the Array for   covert surveillance of the   Federation.,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+77,DATA,   That is our theory. We believe   that unauthorized access was made   six days ago. The imaging logs   from that day show a ship   approaching the Array...,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+78,WORF,   That's a Cardassian ship. Galor   Class.,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+79,GEORDI,   We're only three light years from   Cardassian space. They would've   had easy access to the Array.,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+80,PICARD,"   Mister Worf, start a long range   scan of the region... see if there   are any Cardassian ships nearby.",11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+81,WORF,   Aye sir.,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+82,GEORDI,       Here's a propulsion analysis of   the Cardassian ship. You might   try scanning for its energy   configuration.,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+83,DATA ,"   Are you alright, Lieutenant?",11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+84,WORF,   I feel... dizzy...,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+85,GEORDI,"   Worf, you don't look so good.   Maybe you should go to Sickbay...",11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+86,WORF,   Yes... perhaps I will.,11   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+87,BEVERLY,   Any nausea... or blurred vision?,15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+88,WORF,"   No. However, I did experience   dizziness earlier today... at my   birthday celebration.",15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+89,BEVERLY,       It sounds like you're having a few   side-effects from the concussion.   I'll give you vertazine for the   dizziness... but I want you to get   some rest.,15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+90,WORF,   Doctor... perhaps you are thinking   of another patient. I have no   concussion.,15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+91,BEVERLY,   Worf... you came in here this   morning complaining about a   ringing in your ears. I scanned   you... you had a concussion.,15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+92,BEVERLY,       Are you telling me you don't   remember any of this?,15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+93,WORF,   No...,15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+94,BEVERLY,   Temporary memory loss is common   with this kind of injury...       Do you remember telling me about   the Bat'leth tournament? You said   one of the competitors hit you in   the head... that's why you lost   the match...,15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+95,WORF,   I won that tournament. I can   prove it to you.,15   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+96,BEVERLY,   What's wrong?,16   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+97,WORF,"   It says... ""Ninth Place.""",16   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+98,WORF,   This is not the same trophy...       Someone is playing a trick on me.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+99,BEVERLY,"   Worf, try to calm down. Memory   loss can be very disorienting...",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+100,WORF,   The log... I recorded a personal   log on my way back to the   Enterprise.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+101,WORF,       Computer -- access personal logs   on Shuttlecraft Curie. Show my   log entry for Stardate 47391.2.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+102,WORF ON MONITOR,"   Personal log, Stardate 47391.2.   I am returning from the Bat'leth   competition on Forcas Three. The   conditions were difficult...   several contenders were maimed.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+103,WORF ON MONITOR,       One of the contenders used an   illegal T'gha maneuver against me.   The judges chose to ignore it...   and I was robbed of my rightful   standing.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+104,WORF ON MONITOR,"   I was awarded ""Ninth Place"".       I look forward to resuming my   duties aboard the Enterprise.   However, I am --",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+105,WORF,   I do not understand...,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+106,BEVERLY,   I'm sure this must be very   disturbing for you... but don't   worry. Your memories will   eventually return to normal.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+107,BEVERLY,       The best thing you can do right   now is settle back into your   normal routine... but slowly.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+108,WORF,"   Thank you, Doctor.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+109,BEVERLY,"   If you have any more problems with   dizziness, let me know.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+110,DATA,"   Lieutenant, have you completed the   metallurgical scan of the Array?",21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+111,WORF,   Sir?,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+112,DATA,   The metallurgical scan. Is it   complete?,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+113,WORF,   I do not remember you asking me to --,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+114,WORF,   Captain. There is a Cardassian   ship approaching. Galor Class.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+115,PICARD,   Open a channel.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+116,WORF,   On screen.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+117,PICARD,   This is Captain Jean-Luc Picard of   the Starship Enterprise. You are   in Federation territory. Please   explain your presence here.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+118,GUL NADOR,"   We were wondering the same thing   about you, Captain. Why would   Starfleet's flagship want to   venture so close to the Cardassian   border?",21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+119,PICARD,   We are repairing one of our   subspace telescopes.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+120,GUL NADOR,       I see. May we offer our   assistance?,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+121,PICARD,"   No, thank you. We have everything   under control.",21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+122,GUL NADOR,   If you don't mind my asking...   what exactly is this telescope of   yours designed to do?,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+123,PICARD,   It's a long range subspace   Array... it gathers data on   astronomical phenomena.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+124,GUL NADOR,"   I'm certain it would never be used   to... ""observe"" a neighboring   species.",21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+125,PICARD,   Certainly not.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+126,GUL NADOR,"   Well, then... best of luck with   your repairs.     ",21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+127,GUL NADOR ,"   Just try to make certain that your   studies are limited to...   ""astronomical phenomena"".",21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+128,RIKER,   Charming fellow.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+129,WORF,   Captain -- that ship was   responsible for reprogramming the   Array.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+130,PICARD,   What do you mean?,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+131,WORF,       It is the same Class and energy   configuration as the ship we saw   in the imaging logs.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+132,PICARD,   Imaging logs... Are you saying you   have evidence that the Cardassians   tampered with the Array?,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+133,WORF,   They have been using the Array as   a surveillance device.       You saw the logs yourself.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+134,PICARD,   I haven't heard anything about   this.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+135,RIKER,   Neither have I.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+136,WORF,   Commander Data -- show them the   imaging logs you downloaded from   the Array.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+137,DATA,"   I know of no such logs,   Lieutenant.",21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+138,PICARD,   Worf... are you feeling alright?,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+139,WORF,   Yes.,21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+140,PICARD,"   Mister Data, perhaps you should re-examine   the Array... see if you   can find anything to support   Worf's claims.       In the meantime, Lieutenant... I   think you should go to your   quarters.",21   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+141,WORF,   Doctor Crusher says I am   experiencing further memory   loss... but my instincts tell me   it is more than that...       I remember those imaging logs...   I could tell you every detail...   every word...,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+142,TROI,"   Worf, let's assume you're right   for a second -- that things did   happen as you remember them.     ",23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+143,TROI ,   Are you saying that everyone's   memory on this ship has been   altered but yours?       The only one of us who's had a   recent head injury or mental   stress is you. Isn't it more   logical that your concussion is   causing some memory problems?,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+144,WORF,   Enter.,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+145,GEORDI,"   Hi, Worf. I wanted you to know   that we re-examined the imaging   logs. They don't show a   Cardassian ship... or any   evidence that the Array was   reprogrammed.     ",23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+146,GEORDI ,"       From what we can tell, the Array   suffered a simple mechanical   failure.",23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+147,WORF,   That is not right. I am certain   that --,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+148,TROI,   What's wrong?,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+149,WORF,   The painting Commander Data gave   me...,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+150,WORF,       It has moved.,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+151,TROI,"   Worf, I hung that painting   there... at your birthday party.   Remember?",23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+152,WORF,   No...,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+153,WORF,   The painting has changed... don't   you see it?,23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+154,WORF,"   Your hair... and your clothing...   they have changed, as well...",23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+155,GEORDI,"   Worf, maybe you should --",23   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+156,PICARD,"       Now, Mister Worf!       Now!",27   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,"""Parallels""",1993-10-07,The Next Generation
+157,RIKER,"       Worf, what are you waiting for?   Raise shields.",28   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+158,WORF,"   This panel configuration has been   altered, sir. I do not know how   to --",28   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+159,DATA,"       Direct hit -- Engineering Section,   Deck Forty-two. Shield generators   are overloading.",28   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+160,PICARD,       Number One.,28   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+161,RIKER,"       Firing photon torpedoes, full   spread.",28   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+162,RIKER,       Direct hit on their main   reactor... they're returning   fire!,31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+163,DATA,"       Captain, we have sustained heavy   damage to our deflector systems.   Hull breaches on Decks Seventeen   and Thirty-six.",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+164,PICARD,"       Ensign, take us out of here,   maximum warp.",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+165,PICARD,   Are they pursuing?,31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+166,RIKER,"   No, sir.       But they're firing on the Argus   Array...       They've destroyed it, sir.",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+167,PICARD,"       Bridge to Engineering. Status,   Mister La Forge?",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+168,N.D. COM,"   This is Ensign Hayes, sir.   Commander La Forge has been taken   to Sickbay with plasma burns...       There's serious damage to the   secondary plasma conduit... but I   think we've got it under control.",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+169,RICARD,"       Acknowledged.       Ensign, lay in a course for   Starbase One-two-nine.",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+170,PICARD,"   What happened back there,   Lieutenant?",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+171,WORF,   I believe I had another... memory   loss.,31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+172,RIKER,"   ""Memory loss""... What are you   talking about?",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+173,WORF,"   I do not feel well, Captain.   Request to be temporarily relieved   of duty.",31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+174,PICARD,   Granted.,31   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+175,WORF,       Computer -- access personal logs   on Shuttlecraft Curie. Play log   entry for Stardate 47391.2.,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+176,COMPUTER,   There is no log entry for that   Stardate.,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+177,WORF,"       Computer, display any log entries   regarding the Bat'leth Tournament   on Forcas Three.",32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+178,WORF ON MONITOR,"   Personal log, Stardate 47391.2.   There has been a malfunction in   the ship's main deflector. It   will require two more days of   repairs.",32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+179,WORF ON MONITOR,"       As a result, I will not be able to   compete in the Bat'leth tournament   on Forcas Three. I have asked my   brother to take my place. He does   not have my prowess with the   blade, but --",32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+180,TROI,       Why'd you lock the door?,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+181,WORF,       Why shouldn't I?,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+182,TROI,   I heard about what happened on the   Bridge. Are you all right?,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+183,WORF,   I am not sure...,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+184,TROI,   Do you want to talk about it?,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+185,WORF,"   I would rather not, Counselor.",32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+186,TROI,"       Very well, Lieutenant.",32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+187,TROI,       Hot chocolate.,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+188,WORF,   Is there something I can do for   you?,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+189,TROI,"   Actually, there is...",32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+190,TROI,   I want you to sit down. Relax for   a minute.,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+191,TROI,   You're really tense.,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+192,TROI,"   Worf... I know you don't want to   talk about what happened on the   Bridge... but there are times when   it's best to open up...       Come on... if you can't talk to   me, who can you talk to?",32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+193,WORF,   I do not believe this is   appropriate behavior!,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+194,TROI,   Not even for your wife?,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+195,WORF,   Wife!,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+196,TROI,"   Worf, what's wrong?",32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+197,WORF,   I do not know... things are...   changing...,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+198,TROI,   What's changed?,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+199,WORF,   I do not remember us... you and   I... being mates...       It is as if events...   circumstances... continue to   change from moment to moment...   but I am the only one who seems to   be aware of it...,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+200,TROI,   So... are you saying you don't   remember the last three years?   You don't remember us falling in   love... and getting married?,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+201,WORF,   I do remember the last three   years... but they are different.   We did not have this relationship.   We were friends. The Enterprise   did not have a battle with the   Cardassians...,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+202,WORF,   No one believes me.,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+203,TROI,   Worf... whatever's wrong...   whatever's happened... I want you   to know that I believe you...       And that I love you. We'll find   out what's happening...,32   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+204,DATA,       I am initiating a subspace scan to   search for temporal anomalies on   or off the ship.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+205,OGAWA,"   Counselor Troi, please report to   Sickbay.",34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+206,TROI,       On my way.       Let me know if you find anything.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+207,WORF,   Commander... how long have I been   married to Counselor Troi?,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+208,DATA,"   Two years, one month and twelve   days.",34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+209,WORF,   And when did this... relationship   begin?,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+210,DATA,   It is my understanding that your   romantic affiliation began soon   after you recovered from your   spinal injury on Stardate 45587.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+211,WORF,   I remember that... A cargo   container fell on me.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+212,DATA,"   That is correct. After that, I   observed that you and the   Counselor began to spend more time   together.",34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+213,WORF,   When did it become... romantic?,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+214,DATA,   It was approximately six months   later that you asked Commander   Riker for his formal permission to   court Counselor Troi.       You felt that to do otherwise   would be dishonorable.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+215,WORF,   And then we mated.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+216,DATA,"   I am not privy to the exact   details of when, where and how the   first coupling took place. I   could investigate it if you --",34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+217,WORF,   No... that is alright.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+218,DATA,   I am detecting no temporal   anomalies in this system.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+219,DATA,       Perhaps we should try to pinpoint   the exact moment when events   became discontinuous. Do you   remember the first change?,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+220,WORF,   I went to Sickbay. Doctor Crusher   told me I had a concussion... but   I do not remember that happening.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+221,DATA,   Think back. Are you sure that was   the very first change? Perhaps   there was one before you entered   Sickbay?,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+222,WORF,   Before...,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+223,WORF,"   Yes... yes. In Engineering. I   felt a wave of dizziness... and   when I looked up, you and   Commander La Forge were on the   opposite side of the room.   Captain Picard was gone.     ",34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+224,WORF ,"   I thought I had blacked out for a   moment, and had not observed your   movements.",34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+225,WORF,"       And at my birthday party... the   cake was chocolate, then it was   yellow. And Commander Riker told   me the Captain was not going to   attend... then suddenly the   Captain was there.",34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+226,DATA,   We should try to find any   commonalties in these events.   Where were you each time?,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+227,WORF,       I was at the party... then I was   in Engineering... then in my   quarters...,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+228,DATA,   What about the people you were   with? Was there anyone who was   present at all three events?,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+229,WORF,"   Everyone was at my birthday   party... then I was with   Counselor Troi... then Commander   La Forge entered...       Geordi was in all three locations.   And he was near me in each case,   just before I noticed the   differences.       Do you think there is a   connection?",34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+230,DATA,   It is possible. We should speak   with Commander La Forge.,34   INT. ENGINEERING,ENGINEERING,INT.,"""Parallels""",1993-10-07,The Next Generation
+231,DATA,"   Doctor, is Geordi well enough to   answer some questions?",35   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+232,OGAWA,"   I'm afraid not, Data. Geordi's   dead.",35   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+233,DATA,       There do not appear to be any   unusual readings. Energy   residuals from the plasma burns...   the beginnings of cellular   decomposition...,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+234,DATA,       I see nothing that connects these   bio-readings to your recent sense   of discontinuity.,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+235,OGAWA,   What about his VISOR?,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+236,DATA,       I still see nothing unusual.,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+237,DATA,   Perhaps we should activate it.,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+238,OGAWA,   Hook it up to the diagnostic array   and I'll check it out.,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+239,DATA,   The VISOR is active.,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+240,BEVERLY,   Worf... are you alright?,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+241,DATA,"   Have you noticed another   discontinuity, Commander?",37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+242,WORF,"   A moment ago, Doctor Crusher was   not here. It was... Doctor Ogawa.",37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+243,BEVERLY,   Doctor Ogawa?,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+244,WORF,   And my uniform is different...   what is my rank and position?,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+245,TROI,   You're a Commander... and First   Officer.,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+246,WORF,       Are we still married?,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+247,TROI,   Yes...,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+248,DATA,       I am detecting a quantum flux in   your cellular RNA...,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+249,WORF,   What does it mean?,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+250,DATA,   I do not know. I will have to   analyze these readings...,37   INT. SICKBAY,SICKBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+251,DATA,"   I have found that the quantum flux   in Worf's cellular RNA extends to   the subatomic level. It is   asynchronous with normal matter.       In essence, Captain -- Mister Worf   does not belong in our universe.",40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+252,RIKER,       What?,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+253,DATA,   All matter in the universe   resonates on a quantum level with   a unique signature. This   signature is a constant. It   cannot be changed by any known   process. It is the basic   foundation of existence.,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+254,RIKER,   And you believe that Worf's   quantum signature is different   from ours...,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+255,DATA,"   Yes, sir. I cannot explain it.   It is as if he originates from a   different quantum universe.",40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+256,RIKER,   But he's standing right here in   front of us. He's been on the   ship for seven years.,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+257,DATA,"   I cannot explain that either.   According to my understanding of   physics, Worf should not exist.",40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+258,RIKER,       You say these discontinuities   started to occur after you   returned from a Bat'leth   tournament on Forcas Three.,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+259,WORF,   Yes sir.,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+260,RIKER,"   Now, I know for a fact that you   didn't attend that tournament...   and that no shuttlecraft has left   the Enterprise for over a month.",40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+261,WORF,"   I understand. But I also clearly   remember attending the tournament,   and returning to the ship in a   shuttlecraft.",40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+262,RIKER,   Do you remember the course you   took to return to the ship?,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+263,WORF,   I think so.,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+264,RIKER,   Let's backtrack that course... see   if there are any unusual readings   or anomalies.,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+265,DATA,"   Aye, sir.",40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+266,WORF,"   If I may inquire, sir... how long   have you been Captain?",40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+267,RIKER,"   Four years. Ever since Captain   Picard was killed during an   incident with the Borg.       You don't remember any of this, do   you?",40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+268,WORF,   I do remember. I just remember it   differently.,40   INT. READY ROOM,READY ROOM,INT.,"""Parallels""",1993-10-07,The Next Generation
+269,WESLEY,       Captain -- I'm picking up a minor   subspace disturbance off the port   bow.,42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+270,RIKER,"   Full stop.       Analysis, Data.",42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+271,DATA,   It appears to be a guantum fissure   in the space-time continuum.,42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+272,RIKER,   On screen.,42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+273,DATA,"   The anomaly cannot be seen.   However, I believe I can enhance   it with a warp field to make it   visible.",42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+274,RIKER,   Is it dangerous?,42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+275,DATA,"   Not at this distance, sir.       I am also detecting an ion trail   intersecting the phenomenon. I   believe it was left by a Starfleet   type-six shuttlecraft.",42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+276,WORF,   So I was here...,42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+277,DATA,"   I have an explanation, sir.",42   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+278,DATA,"   I believe the quantum fissure we   discovered is a fixed point across   the space-time continuum -- a   ""keyhole"" that intersects many   different quantum realities.",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+279,TROI,"   What do you mean by ""quantum   realities""?",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+280,DATA,"   For any event, there is an   infinite number of possible   outcomes. Our choices determine   which outcome will follow. But   there is a theory in quantum   physics that all possibilities   that could happen do happen in   alternate quantum realities.",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+281,DATA,"       For instance, in a different   quantum reality, Captain Riker may   have chosen to sit at the other   end of the table. While in   another reality, the Captain may   be standing.",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+282,BEVERLY,"       So at this moment, there are an   infinite number of Enterprises...   and an infinite number of Doctor   Crushers having this discussion.",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+283,DATA,"   Yes. Although on some of those   Enterprises, there may not be a   Doctor Crusher...",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+284,WORF,   And somehow I have been shifting   from one reality to another...,44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+285,DATA,   That is correct.,44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+286,TROI,   How did this happen?,44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+287,DATA,"       When Worf's shuttlecraft made   contact with the quantum fissure,   I believe its warp engines caused   a small break in the barriers   between quantum realties.       Worf was thrown into a state of   quantum flux.",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+288,DATA,       He immediately began to shift to   other realities.,44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+289,BEVERLY,       And Geordi's VISOR somehow   triggered that...,44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+290,DATA,"   Exactly. The VISOR uses a   subspace field pulse. I think   that whenever Geordi came near   Worf, the field pulse intensified   the quantum flux and pushed Worf   into another reality.",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+291,WORF,   How can we find my original   quantum state... and return me to   it?,44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+292,WESLEY,   Data... what if we scanned the   quantum fissure using a subspace   differential pulse? Maybe we   could locate the quantum state   that shares Worf's signature...   and find a way to get him back.,44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+293,DATA,"   An excellent idea, Lieutenant.",44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+294,RIKER,   Proceed.,44   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+295,TROI,   Worf...,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+296,TROI,"   From what I understand, there's a   good chance that my Worf won't   return...       And I guess it's just hard for me   to accept that there's a reality   out there where you never loved   me...",45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+297,WORF,   Deanna... I have always considered   you a close friend.,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+298,WORF ,   And although I have never   seriously considered a romantic   relationship... I am not opposed   to the possibility...,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+299,TROI,   And what about our children?,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+300,WORF,       Children...,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+301,TROI,   You didn't know?,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+302,WORF,"   When the last shift occurred in   Sickbay, we did not have   children...",45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+303,TROI,   We have a little girl... Shannara.   She's two years-old. And we have   a three year-old boy. Eric-Christopher.,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+304,WORF,   What about Alexander?,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+305,TROI,   Alexander?,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+306,WORF,   He was my son... in another   reality.,45   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+307,WESLEY,"       I've used a differential pulse to   analyze over ten million quantum   states within the fissure... but   I still haven't found the one with   your signature.       This may take some time, sir.",47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+308,DATA,   Captain -- there is a Bajoran ship   approaching.,47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+309,RIKER,   Red Alert.,47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+310,WORF,   Sir... the Bajorans?,47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+311,RIKER,"   Ever since the Bajorans overthrew   the Cardassian Empire, they've   been getting more and more   aggressive.     ",47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+312,RIKER ,       Yesterday they destroyed one of   our subspace telescopes... they   thought we were using it to spy on   them.,47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+313,WESLEY,"   They're charging their weapons,   sir...",47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+314,WORF,   Shields!,47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+315,RIKER,   Return fire!,47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+316,WESLEY,"   Captain, they've damaged our power   systems -- it's caused an energy   surge within the subspace   pulse....       The quantum fissure is beginning   to destabilize.",47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+317,RIKER,   Can you disengage the pulse?,47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+318,WESLEY,"       Too late, sir.",47   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+319,RIKER,   What the hell's happening?,49   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+320,DATA,       The barriers between quantum   realties are breaking down. Other   realties are emerging into our   own.,49   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+321,WESLEY,       The Bajoran ship is disengaging.,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+322,DATA,"   The rate of quantum incursions is   increasing exponentially.       At this rate, the sector will be   completely filled with Enterprises   within three days.",51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+323,WESLEY,       Sir -- we are receiving two   hundred eighty-five thousand hails   from other ships.,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+324,RIKER,   I wish I knew what to tell them...       Data -- can we stop these   incursions?,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+325,DATA,   Perhaps -- if we find the ship   which matches Commander Worf's   quantum signature.,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+326,RIKER,   How would that help?,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+327,DATA,"   It was Worf's shuttlecraft which   traversed the fissure and weakened   the barriers between quantum   realities. If he re-enters the   fissure in his original shuttle,   and emits a broad-spectrum warp   field -- it may be enough to seal   the fissure and stop additional   realities from emerging into our   own.",51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+328,RIKER,   Then what? How do we get the   Enterprises that are already here   back to where they belong?,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+329,DATA,"   In theory, the act of sealing the   fissure should also restore the   barriers between quantum states.       The ships would return to their   own realities.",51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+330,RIKER,"   Lieutenant Crusher, send out a   general hail to all ships.       This is Captain Riker of the   Enterprise... that is, the   Enterprise which is indigenous to   this universe. We have all   encountered a quantum anomaly. We   think we have a way to return all   of us to our proper realities. We   need to find the ship which   exhibits a particular quantum   signature. Our Mister Data will   transmit the signature to you now.",51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+331,RIKER,   Anything?,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+332,WESLEY,"       There's too much com traffic,   sir... it's tough to isolate   who's talking to who...       Wait. Here it is... one ship is   responding...",51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+333,RIKER,   Onscreen.,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+334,PICARD,   Captain... we appear to have the   quantum signature you're looking   for.,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+335,RIKER,"   Data believes that by sending Worf   through the fissure again, it   would send all of us to our own   realities.",51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+336,PICARD,   Our Data has said the same thing.,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+337,RIKER,   We need you to send us your   shuttlecraft Borges.,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+338,PICARD,       We'll prepare to launch it now.,51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+339,RIKER,"   It's... good to see you again,   Captain. It's been a long time.",51   INT. BRIDGE,BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+340,RIKER,       Did they send the right shuttle?,54   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+341,DATA,   Yes. Its quantum signature   matches Commander Worf's   precisely.       I have re-modulated the shuttle's   engines to emit an inverse warp   field. You will need to activate   the field at the precise moment   you enter the fissure.,54   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+342,WORF,   Assuming it works... what will   happen? Will I find myself near   my own ship?,54   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+343,DATA,"   That is one possibility. However,   the uncertainty principle dictates   that time is a variable in this   equation. You may end up several   days before this event -- or   several days after it. There is   no way to tell.",54   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+344,WORF,   I understand.,54   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+345,RIKER,   Good luck.,54   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+346,WORF,"       Goodbye, Deanna.",54   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,"""Parallels""",1993-10-07,The Next Generation
+347,WORF,       Setting course for the fissure...,56   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+348,RIKER,   Acknowledged.,56   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+349,WESLEY,   Captain -- the shuttle is under   attack!,57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+350,RIKER,   The Bajorans again?,57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+351,WESLEY,   No sir -- it's one of the   Enterprises.       They're hailing us.,57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+352,RIKER,   On screen.,57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+353,RIKER ON VIEWSCREEN,"       We won't go back! You don't know   what it's like in our universe.   The Federation is gone -- the Borg   are everywhere! We're one of the   last ships left! Please, you've   got to help us!",57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+354,RIKER,"   I'm sorry. There's no choice. If   this works, everything will return   to --",57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+355,RIKER ON VIEWSCREEN,   No! We won't go!,57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+356,WESLEY,   They're firing on the shuttle!,57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+357,RIKER,   Open fire! Try to disable them!,57   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+358,WESLEY,       Direct hit... their shields have   collapsed... their engine core's   overloading --,59   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+359,RIKER,   What happened?,59   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+360,WESLEY,       It looks like their ship had   already taken heavy damage --   their warp containment field must   have been weak.,59   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+361,RIKER,   Probably from fighting the Borg...,59   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+362,DATA,       Captain -- Worf is entering the   fissure.,59   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Parallels""",1993-10-07,The Next Generation
+363,WORF,       Charging primary systems...   initiating inverse warp field...,60   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+364,WORF,       Worf to Enterprise.,64   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+365,PICARD,   Enterprise here.,64   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+366,WORF,   Captain -- is everything alright?,64   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+367,PICARD,"   Yes, Lieutenant. Is there a   problem?",64   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+368,WORF,   I do not believe so. But I will   explain when I arrive.,64   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+369,PICARD,   How was the Bat'leth tournament?,64   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+370,WORF,"   I won... ""Champion Standing.""",64   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,"""Parallels""",1993-10-07,The Next Generation
+371,RIKER,   So you don't think this... quantum   fissure is anything we have to   worry about?,66   INT. CORRIDOR,CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+372,WORF,   No. I believe the inverse warp   field resealed it.,66   INT. CORRIDOR,CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+373,RIKER,   I look forward to reading your   report.,66   INT. CORRIDOR,CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+374,RIKER,   Something wrong?,66   INT. CORRIDOR,CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+375,WORF,   I know what you are planning.       I will not be surprised.,66   INT. CORRIDOR,CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+376,RIKER,   Surprised? I don't know what   you're talking about.,66   INT. CORRIDOR,CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+377,WORF,       Of course you don't.,66   INT. CORRIDOR,CORRIDOR,INT.,"""Parallels""",1993-10-07,The Next Generation
+378,TROI,   Worf... welcome home.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+379,TROI,   I hope you don't mind I let myself   in. I promised Alexander I'd feed   his Dalvin hissing beetle while   you were both away.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+380,WORF,   So... you do not live here?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+381,TROI,   What is that supposed to mean?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+382,WORF,   It is a... long story.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+383,TROI,"   Happy birthday.       Wil wanted to give you a surprise   party, but I knew you'd hate it...   so I talked him out of it.",67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+384,WORF,   Thank you.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+385,TROI,"   Well... I know Klingons like to be   alone on their birthdays.       I'm sure you have to meditate, or   hit yourself with a pain stick or   something.",67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+386,WORF,   Deanna... you do not have to   leave.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+387,TROI,   Oh?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+388,WORF,   I have not had dinner. Would you   care to... join me?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation
+389,TROI,   I'd love to.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,"""Parallels""",1993-10-07,The Next Generation

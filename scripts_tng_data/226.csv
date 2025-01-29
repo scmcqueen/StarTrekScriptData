@@ -1,0 +1,424 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's log, stardate 45959.1.   The Enterprise has been recalled   to sector zero zero one on a   priority mission.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+1,PICARD ,       All we've been told is that   evidence has been discovered   indicating the presence of   extraterrestrials on Earth...   five centuries ago.,2    EXT. 24TH CENTURY SAN FRANCISCO - DAY - ESTABLISHING,24TH CENTURY SAN FRANCISCO,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+2,SCIENTIST,   Work crews were down here   installing seismic regulators when   they found some remarkable   artifacts...,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+3,PICARD,   And it's been determined that they   date back to the late nineteenth   century... ?,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+4,DATA,       The biofocal vision aide is   typical of the era... the weapon   is a forty-five caliber single   action cavalry pistol invented   by Colt Firearms in 1873.,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+5,SCIENTIST,       Look inside the watch.,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+6,PICARD,   What makes you think   extraterrestrials are related to   this discovery...,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+7,SCIENTIST,"   The crew was having a problem with   the regulators... something in   the cavern was interfering with   the phase conditioners... it   turned out to be the cavern   itself... do you have a tricorder,   Commander?",3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+8,DATA,   The composition of the exposed   rockface has been altered by   exposure to triolic waves...,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+9,SCIENTIST,   Which you're not going to find   on Earth... in either the   nineteenth or twenty-fourth   century...,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+10,PICARD,   Triolic waves?,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+11,DATA,   The byproduct of an energy   source employed by very few   species because of its deleterious   effects on living tissue...,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+12,SCIENTIST,   We've confirmed that no one has   been in or out of this cavern in   centuries... so we're left with   a five-hundred-year-old mystery.,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+13,PICARD,"   I'm curious, Doctor. There are   far greater experts on Earth who   could investigate your mystery.   Why bring the Enterprise all the   way home?",3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+14,SCIENTIST,"   As we continued our excavation,   we found one other thing I haven't   shown you yet...",3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+15,SCIENTIST,   We've tried to leave everything   as we found it...,3    INT. UNDERGROUND CAVERN,UNDERGROUND CAVERN,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+16,PICARD ,"   Captain's log, stardate 45960.2.   We have transported the materials   discovered in the cavern back to   the ship for analysis. I wish I   could be as dispassionate about   the implications as my second   officer...",7    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+17,DATA,   Interesting... there has been a   twelve percent decomposition of   the bitanium in the neural pathway   links... it suggests the alloys   are vulnerable to...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+18,RIKER,   Data...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+19,DATA,   Yessir... ?,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+20,RIKER,   How can you look inside that...   and analyze the decomposition...   without... without...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+21,DATA,"   Emotion, sir?",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+22,RIKER,"   ... without, I don't know...",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+23,DATA,   I am simply trying to make an   objective assessment.,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+24,PICARD,"   Is it... yours, Data?",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+25,DATA,"   I am quite certain that it is,   Captain.",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+26,PICARD,   Could it be Lore?,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+27,DATA,   My brother's positronic brain had   a type L phase-discriminating   amplifier... mine is type R.,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+28,PICARD,       Type R?,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+29,DATA,       Yessir.,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+30,PICARD,   Can you determine how long it has   been in the cavern?,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+31,DATA,"       As I was going to say, the   decomposition strongly indicates   that life was terminated   approximately five hundred years   ago. That would be consistent   with the other artifacts recovered.",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+32,RIKER,   Your head is not an artifact.,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+33,DATA,"   In relative terms, perhaps not.   Nevertheless, it seems clear that   my life is to end in the late   nineteenth century.",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+34,RIKER,   Not if we can help it.,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+35,DATA,"       There is nothing anyone can do   to prevent it, sir.     ",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+36,DATA ,"   At some future date, I will be   transported back to nineteenth   century Earth... where I will die.   It has occurred. It will occur.",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+37,GEORDI,   I can't tell you exactly who the   aliens were... but I have found   out a few things...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+38,GEORDI,   The triolicized rock face tells   us we're probably dealing with   a species with microcentrum cell   membranes. Triolic waves   wouldn't harm them. Also might   mean they're shape shifters of   some kind...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+39,RIKER,   So they could have appeared as   Humans on Earth...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+40,GEORDI,       I don't think it's anyone we've   run into before... nothing we   found matches up with any known   lifeform...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+41,GEORDI,   What does match up... is a   cellular fossil that might have   just come along for the ride...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+42,PICARD,   Cellular fossil... ?,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+43,GEORDI,   A microscopic ciliated   lifeform... not that different   from a thousand other single cell   lifeforms that you'd find on any   planet surface... except this   particular one is   L-B-one-zero-four-four-five...   and L-B-one-zero-four-four-five   is only known to exist on one   planet... Devidia Two in the   Marrab sector...,8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+44,PICARD,"   Number One, lay in a course...",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+45,RIKER,"   Aye, sir...",8    INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+46,GEORDI,   So?,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+47,DATA,   I have no reference point by which   your question can be answered.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+48,GEORDI,   So... do you feel like talking   about it?,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+49,DATA,   Are you referring to the   foreknowledge of my death?,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+50,GEORDI,   Yeah.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+51,DATA,   I have no particular desire to   discuss the matter.       Do you feel like talking about   it?,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+52,GEORDI,   Yeah.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+53,DATA,   Why?,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+54,GEORDI,   Data... it's gotta bother you   a little...,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+55,DATA,"   On the contrary, I find it   rather... comforting.",11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+56,GEORDI,       Comforting...,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+57,DATA,"   I have often wondered about my   own mortality as I have seen   others age around me... Until now,   it has been theoretically possible   that I would live an unlimited   period of time. And although   some might find this attractive,   to me it only reinforces the fact   that I am... artificial.",11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+58,GEORDI,   I never realized... how tough all   this must be for you...,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+59,DATA,"   ""Tough""?",11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+60,GEORDI,   Knowing that you would outlive   all your friends.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+61,DATA,       I expected to make new friends.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+62,GEORDI,   True.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+63,DATA,   And then outlive them as well.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+64,GEORDI,   Now that you know you might not...,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+65,DATA,"   ... it provides a sense of   completion to my future. In a   way, I am not so different from   anyone else. I can now look   forward to death.",11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+66,GEORDI,   I never thought of it that way.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+67,DATA,   One might even conclude that it   brings me one step closer to being   Human. I am mortal.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+68,PICARD,   Picard to bridge officers...   we're approaching the Devidia   system... report to your   stations...,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+69,GEORDI,"   See you later... let's get   together for a game of chess or   something, okay?",11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+70,GUINAN ,   Looked like quite an intense   discussion.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+71,GEORDI,"   Yeah... talking about life, death,   the future...",11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+72,GUINAN,   Somebody getting married?,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+73,GEORDI,   Naw. Somebody's gonna die.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+74,GUINAN,   Die?,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+75,GEORDI,   They found Data's head a mile   below San Francisco... been down   there for five centuries...,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+76,GUINAN,   That's why the Enterprise was sent   back to Earth... I didn't   realize...,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+77,GEORDI,"   Yeah, something, isn't it?",11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+78,GEORDI,       He seems fine about it... better   than I am...       I better get to engineering...,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+79,GUINAN,   Full circle.,11   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+80,TROI,   I heard about Data.,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+81,RIKER,   Yeah.,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+82,TROI,   It's having an unusually traumatic   effect on everyone.,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+83,RIKER,   Yeah.,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+84,TROI,"   If you don't want to talk about   it, it's okay.",12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+85,RIKER,   I'm fine. I'm just...,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+86,TROI,   ...angry.,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+87,RIKER,"   No not angry.    (beat, realizing she's     right)   Yeah, angry. Why should I be   angry?",12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+88,TROI,   Maybe it reminds us all of our   own mortality.,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+89,RIKER,   I just don't want to believe it.,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+90,TROI,       Have you ever heard Data define   friendship?,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+91,RIKER,   No...,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+92,TROI,"   How did he put it... something   like...       ""As I experience certain sensory   input patterns my mental pathways   become accustomed to them. The   inputs eventually are anticipated   and even 'missed' when absent.""",12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+93,RIKER,       You do that very well. So what's   the point?,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+94,TROI,"   He's ""used"" to us... and we're   ""used"" to him... it's like finding   out someone you love has a terminal   illness and...",12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+95,RIKER,       Data...,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+96,DATA,       Counselor. Commander.,12A  INT. CORRIDOR,CORRIDOR,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+97,DATA,   Would either of you mind if I made   a personal inquiry?,12B  INT. TURBOLIFT - CONTINUOUS ACTION,TURBOLIFT,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+98,TROI,"   Personal inquiry? No, go right   ahead.",12B  INT. TURBOLIFT - CONTINUOUS ACTION,TURBOLIFT,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+99,DATA,"   I am perceiving an apparent change   in the way that others act toward   me. For example, people abruptly   end their conversations when I   appear... as you did when the   turbolift doors opened. Is this   an accurate observation?",12B  INT. TURBOLIFT - CONTINUOUS ACTION,TURBOLIFT,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+100,RIKER,       Yes.,12B  INT. TURBOLIFT - CONTINUOUS ACTION,TURBOLIFT,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+101,TROI,"   You're right, Data. And it's not   a very nice thing to do.",12B  INT. TURBOLIFT - CONTINUOUS ACTION,TURBOLIFT,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+102,RIKER,       It's just that our mental pathways   have... become accustomed to your...   sensory input patterns...,12B  INT. TURBOLIFT - CONTINUOUS ACTION,TURBOLIFT,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+103,DATA,"   I understand. I am fond of you   too, Commander.",12B  INT. TURBOLIFT - CONTINUOUS ACTION,TURBOLIFT,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+104,RIKER,   We're in orbit.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+105,PICARD,   Any sign of life?,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+106,WORF,   Negative.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+107,DATA,"   Sir, sensors are picking up   unusual temporal disturbances on   a small area of the planet's   surface... forty-two degrees,   seven minutes north by eighty-eight   degrees declination east.",14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+108,RIKER,    (exchanges a glance with     Picard)   Temporal disturbances...,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+109,PICARD,   Take us into a standard orbit   above those coordinates...,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+110,DATA,   Spectral analysis shows a high   level of triolic waves emanating   from the same location.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+111,RIKER,"   Do they correlate with your   readings from Earth, Data?",14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+112,DATA,"   Affirmative, sir... the magnetic   signature is identical to the one   found in the cavern.",14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+113,PICARD,   Would these triolic waves be   dangerous to humanoids?,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+114,DATA,   Only with longterm exposure.   There is no immediate threat.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+115,PICARD,       Take an away team.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+116,RIKER,   Worf...,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+117,RIKER,       Riker to La Forge. Meet the away   team in transporter room three...,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+118,GEORDI,"   Aye, sir...",14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+119,DATA,   Commander...,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+120,PICARD,"       Mister Data, I'll need you on the   bridge to monitor the sensor   readings during this   investigation...",14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+121,DATA,"   Captain, may I speak to you alone?",14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+122,DATA,"   Sir, it is established procedure   that the second officer   accompanies the away...",15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+123,PICARD,"   Yes, yes I am aware of that...",15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+124,DATA,   Then I must assume that this   decision is related to the   discovery on Earth of...,15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+125,PICARD,   I see no reason why we shouldn't   take reasonable precautions...,15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+126,DATA,"   Captain, no disrespect intended,   but there is no rational   justification for such a course...",15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+127,PICARD,"   Then, I shall be irrational.",15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+128,DATA,"   It is possible, sir, that the   events leading to my death may   not begin for years... even   centuries.",15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+129,PICARD,"   I hope that's true, Data.   Nevertheless, this investigation   began with your death... I am   simply trying to see that it   doesn't end the same way.",15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+130,DATA,"       While I appreciate your concern,   sir, if I may employ an   aphorism, one cannot cheat fate.",15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+131,PICARD,"   Cheat fate... ? Perhaps we can't,   Mister Data. But, to be honest,   I don't think I could forgive   myself... if we didn't at least   give it a try.",15   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+132,GEORDI,   The concentration of triolic waves   falls off about here...    (walking into the     rockface))   It increases exponentially the   closer in we go...,16   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+133,RIKER,   What's the source? Is there   something underground?,16   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+134,GEORDI,"   Negative, Commander.",16   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+135,RIKER,   Then what's the explanation?,16   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+136,GEORDI,   Don't have one yet.       LaForge to Enterprise.,16   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+137,DATA,   Go ahead.,16   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+138,GEORDI,   Run a spectral field correlation   for me... see if these triolic   readings are directly related to   the temporal distortions...,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+139,DATA,   Acknowledged.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+140,RIKER,       Deanna...,18   EXT. PLANET SURFACE,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+141,TROI,   There is life here... a child...   an old woman... dozens more...   dozens... hundreds... terrified...,18   EXT. PLANET SURFACE,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+142,RIKER,   Terrified... ?,18   EXT. PLANET SURFACE,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+143,TROI,   My God... they're Human.,18   EXT. PLANET SURFACE,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+144,RIKER,   Troi's convinced they're human...   they may be trapped somehow...   we're not sure...,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+145,DATA,"   Captain, the results of my   temporal analysis may be   pertinent...",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+146,DATA,   It indicates a synchronic   distortion in the areas emanating   triolic waves...,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+147,GEORDI,"   That explains a few things. How   much, Data?",21   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+148,DATA,   A positive displacement of point   zero-zero-four percent.,21   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+149,GEORDI,       Whatever or whoever's there...   is out of phase with us... But   we're only talking about a   fraction of a second...,21   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+150,WORF,   A fraction of a second would make   them invisible?,21   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+151,GEORDI,"   A millisecond, a year... it   wouldn't make any difference...   If what we're reading is accurate,   we're occupying the same space...   but in a different time...",21   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+152,RIKER,   How do we compensate?,21   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+153,DATA,"   Commander, we might be able to   manipulate the synchronic   distortion...",22   INT. MAIN BRIDGE (INTERCUT CONTINUING),MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+154,GEORDI,"       Maybe. If we created a contained   subspace forcefield. But to get a   point zero-zero-four variance,   we'd need an incredibly sensitive   phase discriminator, Data... I   don't think we've got one that   would come close...",22   INT. MAIN BRIDGE (INTERCUT CONTINUING),MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+155,DATA,"   Yes, we do. It is built into my   positronic decompiler.",22   INT. MAIN BRIDGE (INTERCUT CONTINUING),MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+156,DATA,"   It would be necessary for me to   join the away team, Captain.",22   INT. MAIN BRIDGE (INTERCUT CONTINUING),MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+157,PICARD,       Proceed.,22   INT. MAIN BRIDGE (INTERCUT CONTINUING),MAIN BRIDGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+158,RIKER,       Mister Data...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+159,DATA,   Sir.,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+160,GEORDI,"   Let me give you a hand here,   Data...",23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+161,DATA,"       Once I have adjusted the   forcefield, I will no longer be   visible, Commander... however,   I have taken steps to ensure that   you will still be able to hear   me. If you would assist me in   a test of the com system...",23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+162,DATA,       My voice will be transmitted on   a delay correlated to the phase   adjustment... it should allow me   to maintain verbal contact...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+163,RIKER,   Will we be able to talk to you?,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+164,DATA,"   Nossir, that will not be possible.",23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+165,GEORDI,   You're ready to go...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+166,GEORDI,   Subspace field is established...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+167,DATA,   Adjusting for synchronic   distortion... point zero-zero-one...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+168,DATA,   Point zero-zero-two... point   zero-zero-three... point zero-zero   four...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+169,DATA,   I have made visual contact...       There are lifeforms here...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+170,DATA,   They are either unaware of me or   choosing to ignore me... I am   moving approximately ten meters   north of my starting position   to observe more closely...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+171,DATA,   They range from two to three   meters in height... silver-gray   in color... they have four   limbs... no eyes or ears   are noticeable...     ,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+172,DATA ,   ... there is a single orifice where   a humanoid forehead would   ordinarily be. They are reclined   against the rockface... surrounding   an apparatus of some sort...   approximately one-point-five meters   in height...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+173,RIKER,       An apparatus?,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+174,DATA,   It is releasing what appear to   be energy fragments... which   are then ingested by the entities   through their orifice... perhaps   some sort of nourishment...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+175,DATA,"   The upper portion of the   apparatus seems to be a holding   facility for the energy   segments... there are hundreds,   perhaps thousands of these   fragments inside.       I have resumed a northern   direction... There is no evidence   yet of Humans...",23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+176,GEORDI,"       Okay, enough, Data... come on   back now...",23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+177,DATA,   I have encountered another   lifeform... an ophidian...   it seems to be restricted   by a forcefield...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+178,DATA,   Two of the silver-gray entities   are approaching it... they have   released the forcefield...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+179,DATA,       ...temporal... massive... the   ophidian is capable of...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+180,DATA,       ...Caught... attempting to...,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+181,TROI,   Data!,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+182,PICARD,"   Commander Riker, report!",23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+183,RIKER,       We've lost him.,23   EXT. PLANET SURFACT - NIGHT (OPTICAL),PLANET SURFACT - NIGHT,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+184,DATA,   Pardon me. I am searching for   two individuals with an ophidian.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+185,DATA,       I beg your pardon -- a snake.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+186,ROUGHNECK,       Frenchman.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+187,BEGGAR ,   Could you help out a Forty-Niner?,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+188,BEGGAR,       I fell down a shaft...,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+189,BEGGAR,       And got blown up in a tunnel...,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+190,DATA,   That is unfortunate.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+191,BEGGAR,   Most unfortunate. I require large   quantites of whiskey as a   linament.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+192,DATA,   I am sorry but I have no whiskey   to give you.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+193,BEGGAR,   I'll take a dime.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+194,DATA,   I am sorry. But I have no form   of legal tender.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+195,BEGGER,"   We're both in the same boat, eh?       This is my corner. Go find your   own.",51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+196,DATA,"   I would be happy to do so.   However, I am presently in need   of information.",51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+197,BEGGAR,"       The stockbrokers are cheap as hell   -- don't even ask 'em. Best   handout is a young man with his   lady. You give him a chance to   impress her by bein' generous.   But stay clear of the sailors --   likely as not, you'll get a fist   across the jaw for your trouble.",51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+198,DATA,"   Thank you for the advice, but I   am trying to find two individuals   with a snake.",51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+199,BEGGAR,"       A snake? You're an odd fellow,   aren't you? Best not be too   particular about who you're   requesting funds from --",51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+200,DATA,   You require medical attention.   I will find a doctor --,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+201,BEGGAR,   No.       It's too late for that...,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+202,BEGGAR,       Help a Forty-Niner...,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+203,BELLBOY,   Put it on Gentleman Jim. K.O.   in the fifth.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+204,DATA,   I require temporary lodging.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+205,BELLBOY,    (indicates Data's     clothes)   Looks like the missus booted you   out in the middle of the night.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+206,DATA,   I understand the source of your   misperception.       But this is not sleepware. And   I have no... missus.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+207,DATA,   I am a Frenchman.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+208,BELLBOY,   Everybody's from somewhere. That   doesn't matter at this hotel.   It's six bits a day or four   dollars a week.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+209,DATA,   I have no money.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+210,BELLBOY,   Now that matters...,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+211,DATA,   I am capable of performing a   significant range of tasks -- both   mental and physical. Perhaps your   hotel could offer me... a job.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+212,BELLBOY,"   Well, I don't know. We got a maid   we're pretty happy with. The   cook's decent. The dishwasher's   drunk all day but at least he   shows up on time. And then   there's me -- I do everything   else.       Sorry.",51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+213,BELLBOY,"       Lady Luck not with ya, tonight,   Mister Lane?",51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+214,BELLBOY,       Hasn't filled a straight in five   weeks.,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+215,DATA,   Poker?,51   EXT. SAN FRANCISCO STREET - CONTINUOUS,SAN FRANCISCO STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+216,GAMBLER,   Fold.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+217,SEAMAN,   Go to Blazes!,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+218,GAMBLER,   A poker face carved in marble.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+219,SEAMAN,   What'd ya have?,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+220,GAMBLER,"       Mind you, sir. It's a gentleman's   prerogative to divulge a bluff.       Our friend wishes to remain   cryptic. I believe it proper to   respect that wish...",54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+221,SEAMAN,    (taking his hand off     cards)   The devil take you all...,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+222,SEAMAN,    (continuing; toward     offscreen)   What in hell do you want?,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+223,DATA,   I would like to join your game.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+224,AMERICAN INDIAN,   Pale... face.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+225,SEAMAN,"       Don't like Easterners, personally.",54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+226,DATA,       I am a Frenchman.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+227,GAMBLER,   Ah. Mes parents sont originaires   de Bourgogne. Je suis ne a la   New Orleans.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+228,DATA,       Alors nous sommes presque freres.   Je suis heureux de vous connaitre.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+229,GAMBLER,"   Please, sir.",54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+230,GAMBLER,       The game is poker. The deal is   yours. The ante is four bits.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+231,GAMBLER,   Family heirloom?,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+232,DATA,"   In a manner of speaking. It is   a crystalline composite of   silicon, beryllium...",54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+233,DATA,"       Carbon-seventy, and --",54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+234,SEAMAN,       Gold.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+235,DATA,       Gold.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+236,GAMBLER,   I'll give you three bucks for it.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+237,DATA,   I accept.,54B  INT. POKER ROOM - DAY - ON THE DOOR,POKER ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+238,BELLBOY,   Did you see the looks on their   faces? I did everything I could   not to laugh.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+239,DATA,   To whom are you referring?,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+240,BELLBOY,"       Frederick La Rouque and Joe   Falling Hawk. Those two are card   sharks. Oh sure, they play it   easy at first so they don't scare   off the marks, but give 'em enough   time and they'll bleed a man dry   -- especially an out-of-towner.",57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+241,DATA,   What was the source of your   jocular reaction?,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+242,DATA,       What was it you found humorous?,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+243,BELLBOY,"   Don't you see? They had you   pegged for a sap.    (indicates Data's     appearance)   Those clothes you got on, the way   you talk -- it's like you were   born yesterday. You sure had them   fooled.",57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+244,DATA,   It was not my intention to   deceive.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+245,BELLBOY,   Have it your way.       This is the place. Breakfast is   from six to eight. Checkout's   at noon when you're ready to   leave.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+246,DATA,   Thank you.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+247,DATA,       It has been a pleasure.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+248,DATA,       It would be advisable to monitor   that cough. I have read that   there is currently an epidemic   of cholera in San Francisco...,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+249,BELLBOY,   Never felt better.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+250,DATA,   Of course. The gratuity.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+251,DATA,       Thank you for your assistance.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+252,BELLBOY,   A dollar!,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+253,DATA,   You are welcome.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+254,BELLBOY,   If there's anything you need --   it can get lonely in San   Francisco. You might want some   company. I can introduce you to   Lillian.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+255,DATA,"   I have no need for companionship.   However, I do require some...   supplies.",57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+256,BELLBOY,"   Anything you need, I can get it   for you wholesale... I can get   it for you less than wholesale   if you don't ask me where it came   from...",57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+257,BELLBOY,   What do you need all this stuff   for?,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+258,DATA,   I am an inventor...,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+259,BELLBOY,   No kidding... well this is gonna   take a while. I'll hafta go clear   cross town.     ,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+260,BELLBOY ,       And it's not gonna be cheap.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+261,DATA,   You may retain the surplus for   yourself.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+262,BELLBOY,   Keep the change?,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+263,DATA,   Exactly.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+264,BELLBOY,   Done.,57   INT. DATA'S HOTEL ROOM,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+265,BEGGAR ,       Help out a Forty-Niner...,58   EXT. STREET - DAY,STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+266,BEGGAR,       Fell down shaft... Forty-Niner...   Help me... Help me out...,58   EXT. STREET - DAY,STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+267,BEGGAR,   No...,58   EXT. STREET - DAY,STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+268,BEGGAR,   No...,58   EXT. STREET - DAY,STREET,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+269,PICARD ,"   Captain's log, supplemental.   Close-range sensor analysis has   yielded no further trace of   Commander Data. Despite the   emotional repercussions among my   crew, I must move this mission   forward.",62   EXT. ENTERPRISE,ENTERPRISE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+270,RIKER,   I'm not willing to accept that   he's dead and leave it at that...,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+271,PICARD,   Mister Data cannot be our   priority...,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+272,RIKER,   What's more important than Data?,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+273,TROI,   Look at what we have so far...   evidence that these aliens have   been travelling back in time to   Earth...,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+274,BEVERLY,   What if they're trying to   undermine our history for some   reason... ?,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+275,WORF,   Some kind of guerilla war...,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+276,PICARD,"       We have to operate on the   assumption that there is a   threat... if not to us then to   19th-century Earth. Our first   order of business is to determine   what that threat may be.       In order to do that, Mister La   Forge, we must find a way to   communicate with these   life-forms...",63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+277,GEORDI,   It's not going to be easy to   reproduce what Data did. We can   create a contained subspace   field... but we'd need an   extraordinarily sensitive phase   discriminator to get that point   zero-zero-four variance.,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+278,PICARD,   Can you build one?,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+279,GEORDI,   It won't be as good as Data's...,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+280,RIKER,   Will it be good enough?,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+281,GEORDI,   I don't know. I can try... it's   going to take a while...,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+282,PICARD,   I don't want anyone else going   in alone.,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+283,GEORDI,   I should be able to create a   subspace field large enough to   encompass everyone. Adjusting   the phase inside the field will   be the hard part.,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+284,PICARD,   Make it so.,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+285,RIKER,"   There's one thing we have to   assume, Captain.",63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+286,RIKER,"   That wherever he is, Data's doing   the same thing we are... trying   to get to the bottom of this...   he may know a lot more about   what's going on than we do. It   might be in the best interests   of this mission to find him...",63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+287,PICARD,   Perhaps in the course of our   investigation we will. I hope   so.,63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+288,WORF,"       If we do find Commander Data, it   may be our fate to die with him...   in the past. If our remains are   in that cavern... they would have   turned to dust long ago.",63   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+289,PICARD ,       I'm afraid to interrupt.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+290,GUINAN,   Captain. You didn't have to come   to me. I would've been happy to   go to you.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+291,PICARD,       And let me miss all this? I   haven't seen such a complex   operation since the Academy lab   final in exochemistry.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+292,GUINAN,"   It's a Tzartak aperitif. Very,   very touchy.",64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+293,GUINAN,       The trick is to change the   evaporation point of the main   ingredient. You want the   temperature where the liquid goes   to vapor to be half a degree below   the body temperature of your   customer.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+294,GUINAN,"       That way, the moment the liquid   touches the tongue, it evaporates.   The flavor is carried entirely   by the vapor.",64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+295,GUINAN,       But it's a highly delicate affair.   A few molecules off and the vapor   point crashes. Poof. It's gone.   All of it.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+296,PICARD,   What did you want to see me about?,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+297,GUINAN,   I hear you're sending an away team   down to the surface.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+298,PICARD,   Yes.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+299,GUINAN,   Are you going along?,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+300,PICARD,   This is rather unusual... for you   to be curious about an away   mission...,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+301,GUINAN,   Maybe it's an unusual away   mission.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+302,PICARD,"   Guinan, if you have something to   tell me, I'm listening.",64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+303,GUINAN,   Starfleet captains usually don't   accompany away teams...,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+304,PICARD,       That's general policy...,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+305,GUINAN,   This time you have to...,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+306,PICARD,   Why?,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+307,GUINAN,   You just... do.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+308,GUINAN,   You remember when we first met?,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+309,PICARD,   Of course.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+310,GUINAN,   Don't be so sure.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+311,PICARD,   What do you mean?,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+312,GUINAN,   I mean... if you don't go on this   mission...,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+313,GUINAN,   ... we didn't.,64   INT. TEN FORWARD (OPTICAL),TEN FORWARD,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+314,BELLBOY,"   Sorry it took so long, Mister   Data.",67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+315,DATA,   An apology is not required.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+316,BELLBOY,   You alright?,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+317,DATA,   I appear to have overexerted   myself...,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+318,BELLBOY,   I'll say.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+319,BELLBOY,   You got it working.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+320,DATA,   Yes.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+321,BELLBOY,   Whatever it is.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+322,DATA,       This is for your trouble.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+323,BELLBOY,   What are you gonna do with the   anvil?,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+324,DATA,"   I require a low intensity,   magnetic field core. The   iron mass of the anvil will   provide that.",67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+325,BELLBOY,   What's it gonna be when it's   finished?,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+326,DATA,"   What do you think it is... ""gonna   be""... ?",67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+327,BELLBOY,   If I were to guess... maybe a new   kind of motor for one of those   horseless carriages...,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+328,DATA,   That is a good guess.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+329,BELLBOY,   No kiddin'. Damn. You really   think there's money in those   things?,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+330,DATA,       Perhaps.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+331,BELLBOY,   Isn't that what makes America   great?,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+332,DATA,   To what are you referring?,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+333,BELLBOY,   Man rides into town in his   pajamas... wins a grub stake at   a poker table and turns it into   a horseless carriage and makes   a million bucks. That's America.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+334,DATA,    (concerned at the     conclusion)   Perhaps I have given you an   erroneous impression...,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+335,BELLBOY,   Some day my ship's gonna come   in...,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+336,DATA,   You have a ship?,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+337,BELLBOY,"   Oh sure... and it's fulla gold...   I'm just biding my time til it   gets here... raising a stake any   way I can... I've been a newsie,   cut fish at a cannery, I've even   been an oyster pirate...",67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+338,DATA,   That is a considerable spectrum   of occupations.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+339,BELLBOY,"   Can't stay in one place too   long... I'm always looking for   the angle, you know... say, maybe   you and I could go into business   selling your horseless   carriage... you invent 'em, I   sell 'em... I can sell anybody   anything, whattaya say?",67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+340,DATA,   I believe your plan is a bit   premature.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+341,BELLBOY,"   Keep it in mind though. Well,   I better get back...",67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+342,BELLBOY,   I forgot! I got you something   at the bakery on Third.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+343,DATA,"   Thank you, Jack.",67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+344,BELLBOY,   It's on me... partner.,67   INT. DATA'S HOTEL ROOM - DAY,DATA'S HOTEL ROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+345,CLEMENS ,"   The eminent scientist, Alfred   Russell Wallace, has revived the   theory that Earth is at the center   of the stellar universe.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+346,CLEMENS,"    )   This distinguished natural   philosopher has reaffirmed our   planet as the only habitable globe   in the Heavens. A world   constructed, furthermore, for the   sole benefit of man.       He's gotten a lot of folks excited   about the notion.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+347,GUINAN,"   Mister Clemens, why do I suspect   you're not one of them?",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+348,CLEMENS,"       Your suspicions, Madam Guinan,   are undoubtedly based upon your   keen observational skills. Now   if you'll permit me, I'll continue   my character assassination   unimpeded.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+349,GUINAN,   Please do.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+350,CLEMENS,"   According to our best geologic   estimate, the earth is   approximately one hundred million   years of age. Perhaps it is less,   perhaps more.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+351,GUINAN,   Perhaps a great deal more.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+352,CLEMENS,"       Indeed. But regardless, it is   ancient in the extreme. Now,   geology also tells us that Man   himself has existed for but a   microscopic fraction of those   years.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+353,CLEMENS,"   Curious, isn't it, that the world   got by for such a great long while   with no Humans around to take up   space?     ",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+354,CLEMENS ,   I suppose Mister Wallace and his   supporters would say the world   needed all that time to prepare   everything for our illustrious   arrival.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+355,CLEMENS,       The oyster alone probably required   fifteen million years to come out   just right...,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+356,GUINAN,   And if the Earth isn't alone...   If there are millions of   inhabited planets in the   Heavens...,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+357,CLEMENS,"   Quite my point. Man becomes a   trivial creation, does he not?   Lost in the vastness of the cosmic   prairie, adrift on the deep ocean   of time. A single one among   countless others.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+358,GUINAN,"   Then again, someone might say a   diamond is still a diamond -- even   if it is one among millions. It   still shines as brightly.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+359,CLEMENS,"   Indeed, someone might say that,   Dear Lady. If someone thought   the Human race were akin to a   precious jewel.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+360,CLEMENS,       But this increasingly hypothetical   someone would not be me.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+361,DOORMAN ,"   Good afternoon, sir.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+362,DATA,   Good afternoon. I would like to   speak to Guinan.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+363,DOORMAN,       And you are... ?,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+364,DATA,   Data.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+365,DOORMAN,   Mister Data... Could it be under   another name?,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+366,DATA,   I do not know...,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+367,DOORMAN,"   I... can't seem to find you on   our guest list, sir.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+368,DATA,   I am a personal friend.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+369,DOORMAN,"   Madam Guinan has discovered many   personal friends since the   newspaper announcement. But if   you're not on the guest list,   there's nothing I can do.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+370,DATA,   It is urgent that I see her...,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+371,DOORMAN,"   -- Sir, if you don't leave this   house immediately, I will send   for the police.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+372,DATA,   That is an excellent idea. I will   wait for them inside.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+373,DOORMAN ,   Sir! Please!,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+374,DATA,"   Guinan, I must speak with you   immediately.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+375,DOORMAN,"       Forgive me, madam... He's stronger   than he looks.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+376,DATA,"       I am sorry about the disruption,   but he did not believe me when   I told him we were friends.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+377,GUINAN,"   ""We?"" Meaning you and me? Have   we met, Mister...",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+378,DATA,       Data.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+379,DATA,   Yes. We... were on a ship   together.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+380,GUINAN,   I've certainly done my share of   travelling. What ship?,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+381,DATA,   The Enterprise.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+382,GUINAN,   Is that a clipper ship?,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+383,DATA,   It is a starship.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+384,CLEMENS,       A starship? What registry would   that be?,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+385,GUINAN,"   Mister Data. Of course.       Excuse us, but we have so much   to catch up on...",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+386,GUINAN,"   Let me guess. My father sent you.   Well, you tell him I've still got   a lot more listening to do --",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+387,DATA,   -- I was not sent by your father.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+388,DATA,   Circumstances demand that I take   you into my confidence. I require   your assistance.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+389,DATA,       I am from the future.,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+390,GUINAN,   Is this some kind of a joke?,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+391,GUINAN,"       No, you don't look like the joking   type.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+392,DATA,"   That is correct. I am from the   twenty-fourth century, where you   and I serve together on the same   starship.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+393,GUINAN,   Why do you need my help?,73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+394,DATA,"   Our ship encountered a species   who appear to be threatening 19th-   century Earth. I investigated,   and was inadvertently pulled into   their temporal vortex.       When I saw your photograph in the   newspaper, I assumed you had   joined me from the future. I know   your species is long-lived --   but I did not realize you had   visited Earth so long ago.",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+395,CLEMENS,"   Eavesdropping is by no means a   proper activity for a gentleman.       Nonetheless, the deed is done...",73   INT. BALLROOM - DAY,BALLROOM,INT.,"""Time's Arrow""",1992-04-06,The Next Generation
+396,GEORDI,   Here...,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+397,BEVERLY,   The triolic waves end... right...   here...,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+398,GEORDI,"   That's fine, Counselor...",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+399,PICARD,   How soon will you be ready?,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+400,GEORDI,"   I think we are, Captain...",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+401,GEORDI,   The subspace field is established.,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+402,RIKER,"   I'd feel more comfortable if you'd   monitor us from the ship, captain.",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+403,PICARD,   I have reason to believe my   presence on this mission is   imperative.,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+404,RIKER,   Imperative?,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+405,PICARD,"   Yes.       Mister Worf, you will report to   the bridge.",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+406,WORF,"   Sir... as security officer, my   place is by your side.",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+407,PICARD,"   The security of the Enterprise   is of paramount importance,   Lieutenant.",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+408,WORF,"       Yes, sir.       Worf to Enterprise.",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+409,TRANSPORTER OFFICER COM,   Go ahead.,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+410,WORF,       Beam me up.,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+411,TRANSPORTER OFFICER COM,   Stand by.,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+412,PICARD,"   Proceed, Mister La Forge.",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+413,GEORDI,       I've modified this tricorder to   interface with the subspace   generator... It should allow me   to control the phase   discrimination... assuming it's   going to work at all...       I'll need everyone within the   field...,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+414,GEORDI,   Adjusting for synchronic   distortion... point-zero-zero-one...,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+415,GEORDI,       ...point-zero-zero-two...   point-zero-zero-three...,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+416,PICARD,   Why can we see them when they   can't see us?,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+417,GEORDI,   The phase displacement might not   bring us far enough into their   perceptual range.,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+418,BEVERLY,       These strands appear to be   biomagnetic... variable flux...   they must be organic in origin...,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+419,PICARD,   A life-form... ?,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+420,TROI,"   No. There is no life here...   what I have sensed is only an   imprint, an echo from the last   moment of life... Human life...   they all died in terror...",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+421,RIKER,   My God... they're delivering more   of them... for the others to...   ingest...,85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation
+422,TROI,"    (reacts with surprise     to something she sees)   Will, look at what he's   carrying...",85   EXT. PLANET SURFACE - NIGHT,PLANET SURFACE,EXT.,"""Time's Arrow""",1992-04-06,The Next Generation

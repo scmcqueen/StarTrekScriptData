@@ -1,0 +1,467 @@
+,character,quote,scene,location,view,episode,date,series
+0,RIKER,   Damage report!,2    INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+1,BEVERLY,   Casualty reports coming in from   all over the ship...,2    INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+2,DATA,       The starboard nacelle has   sustained a direct impact. We   are venting drive plasma.,2    INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+3,GEORDI,   Initiating emergency core   shutdown.,2    INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+4,RO,   Inertial dampers failing... we're   losing attitude control...,2    INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+5,RIKER,       This is the bridge. All hands   to emergency escape pods.,2    INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+6,DATA,       The core shutdown was   unsuccessful. We are losing   antimatter containment.,4    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+7,GEORDI,   We've gotta eject the engine   core!,4    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+8,DATA,   The ejection systems are   off-line. A core breach is   imminent...,4    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+9,PICARD,"       All hands abandon ship. Repeat,   all hands abandon --",4    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+10,PICARD ,"   Captain's log, stardate 45652.1.   The Enterprise has entered an area   of space known as the Typhon   Expanse. We are the first   Starfleet vessel to chart this   unexplored region.",6    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Cause and Effect""",1992-01-02,The Next Generation
+11,RIKER,       Sometimes I wonder if he's   stacking the deck.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+12,DATA,"   I assure you, Commander, the cards   have been sufficiently randomized.",7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+13,WORF,   I hope so.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+14,DATA,   An eight. An Ace. A Queen. The   dealer receives a four.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+15,WORF,   No bet.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+16,DATA,"   A ten. A seven -- no help there.   A pair of ""ladies"" for the Doctor.   The dealer receives a nine.       Doctor, may I remind you that   since you show the highest hand,   you control the next bet.",7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+17,BEVERLY,   I'll bet ten.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+18,DATA,   Jack. Four. Deuce. Six.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+19,BEVERLY,       Twenty.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+20,RIKER,   And I'll raise you fifty.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+21,WORF,   Fifty.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+22,BEVERLY,   I'm in.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+23,DATA,   I will also see the bet.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+24,DATA,       Seven... and a possible straight   for Commander Riker. Jack --   still no help for the Klingon.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+25,DATA,       Eight. Nine for the dealer.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+26,BEVERLY,   Twenty.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+27,DATA,"       ""Too rich for my blood.""",7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+28,RIKER,   I'll see your twenty -- and raise   you a hundred.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+29,WORF,   Fold.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+30,BEVERLY,   And two hundred more.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+31,RIKER,   Two. And another three hundred.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+32,WORF,   He does not have the straight.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+33,BEVERLY,"   We'll find out, won't we?",7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+34,BEVERLY,   Let's see what you've got.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+35,RIKER,   Take it.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+36,RIKER,       How'd you know I was bluffing?,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+37,BEVERLY,   I just had a feeling.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+38,RIKER,   I guess it's better to be lucky   than good.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+39,BEVERLY,   Or maybe it's the way your left   eyebrow raises slightly when you   bluff.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+40,BEVERLY,"   Just teasing, Commander.",7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+41,NURSE OGAWA,   Ogawa to Doctor Crusher.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+42,BEVERLY,   Go ahead.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+43,NURSE OGAWA,   Commander La Forge needs you in   sickbay.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+44,BEVERLY,   On my way.,7    INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+45,GEORDI,   At first I thought the catwalk   was spinning. Turns out it was   me.       I'm lucky Ensign Fletcher was   there to grab me -- it's a long   way down to the bottom of the warp   core.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+46,BEVERLY,   You have all the symptoms of an   inner-ear infection. That   would explain your dizziness...   and the headache.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+47,BEVERLY,   But I don't see any physical   evidence.       My guess is... you've been working   too hard.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+48,GEORDI,   I have been putting in extra hours   on the Typhon Expanse survey.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+49,BEVERLY,   I'll give you twenty cc's of   vertazine -- it'll clear up your   dizziness. But finding time to   relax is up to you...,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+50,GEORDI,       What is it?,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+51,BEVERLY,   Geordi... have you ever had these   symptoms before?,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+52,GEORDI,       Never.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+53,BEVERLY,   You're sure?,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+54,GEORDI,   Positive. Why?,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+55,BEVERLY,   It's funny... I get the feeling   that we've discussed these   complaints.       I remember giving you a hypospray   for dizziness.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+56,GEORDI,   I've never had these symptoms   before today. You must be   remembering some other patient.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+57,BEVERLY,   No. I'm sure it was you.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+58,BEVERLY,"   Try to get some rest. And stay   away from high places for a few   days, just in case.",8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+59,GEORDI,"   Thanks, Doc.",8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+60,BEVERLY,   Goodnight.,8    INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+61,GEORDI,"   The Typhon Expanse is huge. If   we want to chart the most remote   star system, we'll have to launch   a probe within the next few hours.",12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+62,RIKER,   Fine.       What about the luminosity studies?,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+63,GEORDI,   They may pose a problem...,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+64,PICARD,   How so?,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+65,GEORDI,   The flux spectrometers are still   down for realignment.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+66,RIKER,   I thought they were supposed to   be back on-line yesterday.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+67,GEORDI,"   They were, until the stellar   dynamics lab decided they needed   to install new modules.",12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+68,DATA,   I recommend we use the gravitron   polarimeter instead. It will   perform a similar function.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+69,PICARD,   Make it so.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+70,BEVERLY,   Captain... There's something I'd   like to report.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+71,PICARD,"   Yes, Doctor?",12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+72,BEVERLY,"   I heard... voices in my room last   night. I was alone... so at first   I thought I was imagining things.   But this morning, ten other people   reported hearing them at the same   time I did.",12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+73,TROI,   What were the voices saying?,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+74,BEVERLY,   I couldn't make them out...,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+75,RIKER,"   Data, did the sensors pick up   anything unusual last night?",12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+76,DATA,   No anomalous readings were   reported.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+77,RIKER,"   When we're through here,   double-check the sensor logs.",12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+78,DATA,   Aye sir.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+79,PICARD,   Counselor?,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+80,TROI,   I sensed nothing out of the   ordinary last night.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+81,GEORDI,   Maybe it's a problem with the com   system.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+82,WORF,   Bridge to Captain Picard.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+83,PICARD,   Go ahead.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+84,WORF,   We are getting unusual readings   -- twenty thousand kilometers off   the port bow.,12   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+85,PICARD,   Report.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+86,RO,"   Sensors didn't detect the   phenomenon until we were almost   on top of it, sir.",13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+87,WORF,       It is a highly localized   distortion in the space-time   continuum.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+88,RIKER,   On screen.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+89,PICARD,"   Back us off, Ensign. Nice and   slow.",13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+90,RO,   Aye sir.       Captain -- maneuvering thrusters   are not responding.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+91,DATA,       The distortion field is   fluctuating.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+92,GEORDI,   All main systems just went down.   Power levels dropping rapidly...,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+93,RIKER,   Red Alert.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+94,DATA,   There is an energy build-up in   the distortion field.       Something is emerging...,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+95,TROI,       Captain -- we have to get out of   here now.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+96,RIKER,   Shields up! Evasive maneuvers!,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+97,WORF,   Shields inoperative!,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+98,RO,   The helm's not responding!,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+99,DATA,   The vessel is on a collision   course. Impact in thirty-six   seconds...,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+100,PICARD,   Hail them.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+101,WORF,   No response.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+102,PICARD,   Suggestions?,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+103,RIKER,   Decompress the main shuttlebay   -- the explosive reaction might   kick us out of the way.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+104,DATA,   Captain -- I recommend we use the   tractor beam to alter the other   ship's trajectory.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+105,PICARD,   Mister Worf -- make it so.,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+106,WORF,       Engaging tractor beam...,13   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+107,RIKER,   Damage report!,17   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+108,BEVERLY,   Casualty reports coming in from   all over the ship...,17   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+109,DATA,   The starboard nacelle has   sustained a direct impact. We   are venting drive plasma.,17   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+110,GEORDI,   Initiating emergency core   shutdown.,17   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+111,RO,   Inertial dampers failing. We're   losing attitude control...,17   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+112,RIKER,       This is the bridge. All hands   to emergency escape pods.,17   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+113,DATA,       The core shutdown was   unsuccessful. We are losing   antimatter containment.,19   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+114,GEORDI,   We gotta eject the engine core!,19   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+115,DATA,   The ejection systems are   off-line. A core breach is   imminent...,19   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+116,PICARD,"       All hands abandon ship. Repeat,   all hands abandon --",19   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+117,PICARD ,"   Captain's log, stardate 45652.1.   The Enterprise has entered an area   of space known as the Typhon   Expanse. We are the first   Starfleet vessel to chart this   unexplored region.",21   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Cause and Effect""",1992-01-02,The Next Generation
+118,RIKER,       Sometimes I wonder if he's   stacking the deck.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+119,DATA,"   I assure you, Commander, the   cards have been sufficiently   randomized.",22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+120,WORF,   I hope so.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+121,DATA,   An eight. An Ace. A Queen. The   dealer receives a four.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+122,WORF,   No bet.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+123,DATA,"   A ten. A seven -- no help there.   A pair of ""ladies"" for the   Doctor. The dealer receives a   nine.       Doctor, may I remind you that   since you show the highest hand,   you control the next bet.",22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+124,WORF,"       Is there something wrong, Doctor?",22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+125,BEVERLY,   No... I bet ten.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+126,DATA,       Jack. Four. Deuce. Six.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+127,BEVERLY,       Twenty.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+128,RIKER,   And I'll raise you fifty.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+129,RIKER,"       You're going to call my bluff,   aren't you?",22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+130,RIKER,       I think I'll quit while I'm ahead.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+131,BEVERLY,   How did you know I was going to   call your bluff?,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+132,RIKER,   I just had a feeling.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+133,BEVERLY,   Me too...,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+134,NURSE OGAWA,   Ogawa to Doctor Crusher.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+135,BEVERLY,   Go ahead.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+136,NURSE OGAWA,   Commander La Forge needs you in   sickbay.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+137,BEVERLY,   On my way.,22   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+138,GEORDI,   At first I thought the catwalk   was spinning. Turns out it was   me.       I'm lucky Ensign Fletcher was   there to grab me -- it's a long   way down to the bottom of the warp   core.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+139,BEVERLY,   You have all the symptoms of an   inner-ear infection. That would   explain your dizziness... and the   headache.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+140,BEVERLY,   But I don't see any physical...,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+141,GEORDI,       What is it?,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+142,BEVERLY,   Geordi... have you ever had these   symptoms before?,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+143,GEORDI,       Now that you mention it... I think   I did.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+144,BEVERLY,   Do you recall when?,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+145,GEORDI,"   No, I don't.",24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+146,BEVERLY,       We've had this discussion. I   remember giving you this   examination...       Let's check the medical logs.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+147,BEVERLY,       You've been treated several times   for headaches related to your   VISOR... but I see no mention   of dizziness.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+148,GEORDI,       Must be deja-vu.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+149,BEVERLY,   Both of us -- about the same   thing?,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+150,BEVERLY,   Crusher to Captain Picard.,25   INT. BEVERLY'S QUARTERS,BEVERLY'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+151,PICARD,"   Yes, Doctor?",25   INT. BEVERLY'S QUARTERS,BEVERLY'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+152,BEVERLY,   Jean-Luc... do you have a minute?,25   INT. BEVERLY'S QUARTERS,BEVERLY'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+153,PICARD,       My Aunt Adele cured a lot of   sleepless nights with this steamed   milk.,27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+154,BEVERLY,   Thank you.,27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+155,BEVERLY,   Mmm... nutmeg.,27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+156,PICARD,"   Every time I get insomnia, I try   to perfect the recipe.",27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+157,BEVERLY,"   It was the eeriest feeling. When   the glass broke, it triggered the   same sensation even more intensely   -- that I had done it all before.",27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+158,PICARD,"   Earlier, when I was reading this   book... I had the distinct   feeling I'd read certain   paragraphs before.       I just assumed I'd read the book   years ago and forgotten.",27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+159,BEVERLY,   I've been having this feeling   for hours.       And then those voices...,27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+160,PICARD,   Do you feel like we've had this   conversation before?,27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+161,BEVERLY,   No. None of this seems familiar.,27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+162,PICARD,"   This could be nothing more than   a restless night. But let's be   sure... Call Geordi and Data.   I want you to run a shipwide   diagnostic, concentrating on the   time and place you heard the   voices.       We'll discuss the results tomorrow   at oh seven hundred hours.",27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+163,BEVERLY,"   Thank you, Jean-Luc.       For everything.",27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+164,PICARD,   Thank Aunt Adele.,27   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+165,DATA,   The internal scans were negative.   There was no evidence of auditory   anomalies anywhere on the ship.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+166,GEORDI,"   As far as the sensors are   concerned, nothing unusual   happened last night.",29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+167,BEVERLY,"   Before I came up here, ten other   people reported hearing voices   at the same time I did.",29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+168,WORF,   Bridge to Captain Picard.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+169,PICARD,   Go ahead.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+170,WORF,   We are getting unusual readings   -- twenty thousand kilometers off   the port bow.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+171,PICARD,   Report.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+172,RO,"   Sensors didn't detect the   phenomenon until we were almost   on top of it, sir.",	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+173,WORF,       It is a highly localized   distortion in the space-time   continuum.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+174,RIKER,   On screen.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+175,PICARD,"   Back us off, Ensign. Nice and   slow.",	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+176,RO,   Aye sir.       Captain -- maneuvering thrusters   are not responding.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+177,DATA,   The distortion field is   fluctuating.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+178,GEORDI,   All main systems just went down.   Power levels dropping rapidly...,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+179,RIKER,   Red Alert.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+180,DATA,   There is an energy build-up in   the distortion field.       Something is emerging...,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+181,TROI,       Captain -- we have to get out of   here now.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+182,RIKER,   Shields up! Evasive maneuvers!,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+183,WORF,   Shields inoperative!,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+184,RO,   The helm's not responding!,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+185,DATA,   The vessel is on a collision   course. Impact in thirty-six   seconds...,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+186,PICARD,   Hail them.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+187,WORF,   No response.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+188,PICARD,   Suggestions?,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+189,RIKER,   Decompress the main shuttlebay   -- the explosive reaction might   kick us out of the way.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+190,DATA,   Captain -- I recommend we use the   tractor beam to alter the other   ship's trajectory.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+191,PICARD,   Mister Worf -- make it so.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+192,WORF,   Engaging tractor beam...,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+193,RIKER,   Damage report!,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+194,BEVERLY,   Casualty reports coming in from   all over the ship...,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+195,DATA,   The starboard nacelle has   sustained a direct impact. We   are venting drive plasma.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+196,GEORDI,   Initiating emergency core   shutdown.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+197,RO,   Inertial dampers failing. We're   losing attitude control...,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+198,RIKER,       This is the bridge. All hands   to emergency escape pods.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+199,DATA,   The core shutdown was   unsuccessful. We are losing   antimatter containment.,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+200,GEORDI,   We've gotta eject the engine   core!,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+201,DATA,   The ejection systems are   off-line. A core breach is   imminent...,	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+202,PICARD,"       All hands abandon ship. Repeat,   all hands abandon --",	INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+203,PICARD ,"   Captain's log, stardate 45652.1.   The Enterprise has entered an area   of space known as the Typhon   Expanse. We are the first   Starfleet vessel to chart this   unexplored region.",32   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Cause and Effect""",1992-01-02,The Next Generation
+204,RIKER,       Sometimes I wonder if he's   stacking the deck.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+205,DATA,"   I assure you, Commander, the cards   have been sufficiently randomized.",33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+206,WORF,   I hope so.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+207,RIKER,"       Something wrong, Worf?",33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+208,WORF,   I am experiencing nIb'poH.       The feeling I have done this   before.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+209,RIKER,       Yeah -- last Tuesday night.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+210,WORF,   That is not what I mean.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+211,BEVERLY,       I've been feeling the same way...,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+212,BEVERLY,   Data.... keep dealing.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+213,DATA,   An eight. An Ace...,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+214,BEVERLY,       A Queen. I'm going to get a   Queen.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+215,BEVERLY,   And you're going to get a four...,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+216,BEVERLY,   Deal the cards.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+217,DATA,   But nobody has bet.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+218,BEVERLY,   Forget the bet. Deal.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+219,BEVERLY,   Ten... Seven... Queen...,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+220,WORF,   Nine... Jack... Four...,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+221,RIKER,   Deuce... Six...,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+222,DATA,   This is highly improbable.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+223,RIKER,   How did we know...,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+224,BEVERLY,   Wait.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+225,BEVERLY,       Crusher to sickbay.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+226,NURSE OGAWA,   Sickbay here.,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+227,BEVERLY,   Is Commander La Forge there?,33   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+228,NURSE OGAWA,"   No, Doctor, he's not.",34   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+229,NURSE OGAWA,   Wait a minute -- he just came in.,34   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+230,PICARD,"       You wanted to see me, Doctor?",36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+231,BEVERLY,   Yes...,36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+232,BEVERLY,   Captain... have you been getting   the feeling that you've   experienced certain things before?   A sense of... repetition?,36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+233,PICARD,   Yes... recently. While I was   reading. Why do you ask?,36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+234,BEVERLY,   There have been similar incidents   reported all over the ship.   Feelings of deja-vu.       And now this...,36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+235,BEVERLY,"   I had a premonition Geordi was   going to come in to sickbay. A   few seconds later, he did -- with   the symptoms of an ear infection.       I was going to run all the   standard tests... but somehow I   knew they were going to be   negative. So I ran an optical   diagnostic... which traced the   problem to Geordi's VISOR...",36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+236,BEVERLY,   His dizziness is being caused by   a phase-shift in his visual   receptors. It's causing him to   see images that aren't there...,36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+237,GEORDI,   They're like... blurry   afterimages.,36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+238,BEVERLY,"   I ran a scan to see if I could   detect what he was seeing. I   picked up miniscule distortions   in the surrounding dekyon   field.       Somehow, his VISOR seems to be   translating those distortions   into visual impulses.",36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+239,GEORDI,   It could be a malfunction in the   ship's warp field generator. I'll   check it out.,36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+240,PICARD,"   While you're at it, run a   localized subspace scan to look   for anything unusual.",36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+241,GEORDI,"   Aye, sir.",36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+242,PICARD,   Keep me advised.,36   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+243,BEVERLY,       Crusher to Commander La Forge.,37   INT. BEVERLY'S QUARTERS,BEVERLY'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+244,GEORDI,   La Forge here.,37   INT. BEVERLY'S QUARTERS,BEVERLY'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+245,BEVERLY,   I just heard what sounded like...   voices in my room. But there's   no one here.,37   INT. BEVERLY'S QUARTERS,BEVERLY'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+246,GEORDI,"   Sensors just picked up something   strange, too. We're checking it   out...",37   INT. BEVERLY'S QUARTERS,BEVERLY'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+247,BEVERLY,   I'm on my way down.,37   INT. BEVERLY'S QUARTERS,BEVERLY'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+248,GEORDI,       Looks like you managed to record   six point two seconds worth.       Let's see if we can filter the   signal and clear it up a little.,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+249,BEVERLY,   So I wasn't just hearing things?,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+250,DATA,"   The sound itself appears to have   been real. However the acoustic   energy does not correspond to   any ship's system, nor to any   voice communications sent at the   time you heard it.",39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+251,BEVERLY,   Then where did the sound come   from?,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+252,GEORDI,   You heard the voices at the same   time our localized subspace scan   picked up a another dekyon field   distortion. The two may be related.,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+253,GEORDI,   Let's take another listen...,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+254,DATA,   Computer -- perform a narrow   bandwidth analysis. Eliminate   all nonvocal waveform components.,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+255,BEVERLY,   Can we isolate the voices... find   out what they're saying?,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+256,DATA,   I will attempt to distinguish the   individual voices.       Computer -- continuous playback.,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+257,DATA,       There seem to be approximately   one thousand human voices   overlapping.       The voices are those of the   Enterprise crew.       Our voices.,39   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+258,BEVERLY,       I'm sorry to call you here so   early. But we couldn't wait until   oh seven hundred hours.       We think we may have an   explanation for the odd   occurrences around here...,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+259,GEORDI,"   This is going to sound pretty   wild...       Somehow, we've entered what seems   to be a temporal causality loop.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+260,GEORDI,       We think we're stuck in a   particular fragment of time. And   we've been experiencing that same   fragment over and over again.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+261,TROI,       Is this what's causing our   deja-vu?,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+262,BEVERLY,"   Yes, but it's more than that.   In deja-vu, you only think you're   repeating events. We actually   are.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+263,GEORDI,"   Our theory is this -- every time   the loop begins again, everything   resets itself, and starts all   over. We don't remember anything   that happened before... so each   time through the loop, we think   it's the first.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+264,RIKER,"   You mean, maybe we've come into   this room, sat at this table and   had this conversation a dozen   times already?",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+265,GEORDI,   A dozen... a hundred... It's   impossible to tell. Maybe we've   been trapped here for hours...   days... maybe years.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+266,BEVERLY,"   If what we're saying is true --   those voices I heard might've   been ""echoes"" from previous loops.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+267,GEORDI,   The same thing with the   phase-shift in my VISOR --   afterimages in time.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+268,PICARD,   If you are correct... how did it   happen? How did we get here?,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+269,DATA,"   I have a hypothesis which may   explain that, Captain.       I have analyzed the recording   Doctor Crusher made.     ",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+270,DATA ,"   Most of it is quite ordinary.   One hundred twenty-five   discussions about ship operations,   two hundred fifty-seven   conversations of a personal   nature, five couples engaged in   romantic encounters...",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+271,PICARD,"   Your point, Mister Data?",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+272,DATA,   There is evidence of some sort   of disaster involving the   Enterprise -- severe enough that   the captain would order all hands   to abandon ship. I have isolated   three segments of the recording   which are crucial.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+273,WORF ,   ... a highly localized   distortion...,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+274,DATA ,   ... collision course. Impact in   thirty-six seconds...,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+275,PICARD ,"   ... hands abandon ship. Repeat,   all hands abandon...",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+276,TROI,"   The phrase ""collision course""   suggests we collided with   something.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+277,GEORDI,"       Worf refers to a ""distortion.""   If this were a temporal   distortion, and if we were close   enough to it... it's possible   that a large enough explosion   might've ruptured the space-time   continuum.       We collided... exploded... and   got stuck in this repeating loop   of time.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+278,PICARD,   If you're right about this...   perhaps we could escape the loop   by avoiding the collision...,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+279,GEORDI,   That's our guess.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+280,WORF,   Maybe we should reverse course.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+281,RIKER,"   For all we know, reversing course   might be what leads us into the   crash.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+282,PICARD,"   We can't afford to start   second-guessing ourselves. We'll   stay on our present course until   we have reason to change it.       In the meantime, let's do   everything we can to avoid a   collision.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+283,GEORDI,   Captain... We may not find out   how to avoid this accident until   it's too late. And if the loop   begins again -- we'll forget   everything we've learned this time   around.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+284,PICARD,   What do you suggest?,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+285,GEORDI,   If we do find a way to avoid the   collision... we should try to   send that information into the   next loop.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+286,RIKER,   Is that possible?,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+287,DATA,"   We have seen that echoes, or   afterimages, from previous loops   appear as distortions in the   dekyon field. We may be able to   send a deliberate echo into the   next loop.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+288,TROI,   Like a message in a bottle...,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+289,GEORDI,   Exactly. We could enhance a   dekyon emission to create a   specific pattern... and send   ourselves a message. Not a long   one -- probably only a few   characters... maybe one word...,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+290,RIKER,   How do we know we'll pick up that   word the next time through?,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+291,DATA,"   If the dekyon emission is   modulated correctly, it would set   up a resonance in my positronic   subprocessors. I would receive   the information -- on what you   would call a subconscious level.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+292,GEORDI,   That's the catch. We're not sure   how the information will be   perceived by Data... it might   be almost like a posthypnotic   suggestion.,41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+293,PICARD,"   Even with all these uncertainties,   we've got to try.       Take whatever steps are   necessary to send a message.       Dismissed.",41   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+294,GEORDI,   It's possible we've tried this   a thousand times and it's never   worked.,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+295,BEVERLY,   Do you have the feeling you've   done it before?,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+296,GEORDI,"       No, I don't.",42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+297,BEVERLY,   Neither do I. Maybe that's a good   sign.,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+298,GEORDI,       Let's test the emitter.,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+299,DATA,   Particle accelerators to full   power.,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+300,GEORDI,   Dekyon field active... particle   flux nominal...       We're in business.,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+301,BEVERLY,   All we need now is a message.,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+302,RIKER,   Senior staff report to the bridge.,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+303,BEVERLY,   On our way.,42   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+304,RIKER,   How do you think we might've   handled this before?,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+305,PICARD,"   Back us off, Ensign. Nice and   slow.",43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+306,RO,   Aye sir.       Captain -- maneuvering thrusters   are not responding.,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+307,DATA,       The distortion field is   fluctuating.,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+308,GEORDI,   All main systems just went down.   Power levels dropping rapidly...,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+309,DATA,   There is an energy build-up in   the distortion field.       Something is emerging...,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+310,TROI,       Captain -- we have to get out of   here now.,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+311,RIKER,   Shields up! Evasive maneuvers!,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+312,WORF,   Shields inoperative!,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+313,RO,   The helm's not responding!,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+314,DATA,   The vessel is on a collision   course. Impact in thirty-six   seconds...,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+315,PICARD,   Hail them.,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+316,WORF,   No response.,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+317,PICARD,   Suggestions?,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+318,RIKER,   Decompress the main shuttlebay   -- the explosive reaction might   kick us out of the way.,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+319,DATA,   Captain -- I recommend we use the   tractor beam to alter the other   ship's trajectory.,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+320,PICARD,   Mister Worf -- make it so.,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+321,WORF,   Engaging tractor beam...,43   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+322,RIKER,   Damage report!,45   INT. BRIDGE - CLOSE ON DATA,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+323,BEVERLY,   Casualty reports coming in from   all over the ship...,45   INT. BRIDGE - CLOSE ON DATA,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+324,DATA,   The starboard nacelle has   sustained a direct impact. We   are venting drive plasma.,45   INT. BRIDGE - CLOSE ON DATA,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+325,GEORDI,   Initiating emergency core   shutdown.,45   INT. BRIDGE - CLOSE ON DATA,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+326,RO,   Inertial dampers failing. We're   losing attitude control...,45   INT. BRIDGE - CLOSE ON DATA,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+327,RIKER,       This is the bridge. All hands   to emergency escape pods.,45   INT. BRIDGE - CLOSE ON DATA,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+328,DATA,   The core shutdown was   unsuccessful. We are losing   antimatter containment.,47   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+329,GEORDI,   We gotta eject the engine core!,47   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+330,DATA,   The ejection systems are off-line.   A core breach is imminent...,47   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+331,PICARD ,"       All hands abandon ship. Repeat,   all hands abandon --",47   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+332,PICARD ,"   Captain's log, stardate 45652.1.   The Enterprise has entered an area   of space known as the Typhon   Expanse. We are the first   Starfleet vessel to chart this   unexplored region.",50   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Cause and Effect""",1992-01-02,The Next Generation
+333,RIKER,   Sometimes I wonder if he's   stacking the deck.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+334,DATA,"   I assure you, Commander, the cards   have been sufficiently randomized.",51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+335,WORF,   I hope so.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+336,RIKER,"   Something wrong, Worf?",51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+337,WORF,   I am experiencing nIb'poH.       The feeling I have done this   before.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+338,RIKER,       Yeah -- last Tuesday night.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+339,WORF,   That is not what I mean.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+340,BEVERLY,       I've been feeling the same   way...,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+341,BEVERLY,   Wait.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+342,BEVERLY,"   An eight... an Ace... a Queen...   a four...       Deal the cards, Data.",51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+343,BEVERLY,   I was positive I knew what cards   were going to be dealt...,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+344,WORF,   I was also sure.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+345,RIKER,"   Finish the deal, Data.",51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+346,BEVERLY,   We all got three's... then   three-of-a-kind?,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+347,NURSE OGAWA,   Ogawa to Doctor Crusher.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+348,BEVERLY,   Go ahead.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+349,NURSE OGAWA,   Commander La Forge needs you in   sickbay.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+350,BEVERLY,   On my way.,51   INT. RIKER'S QUARTERS - POKER TABLE,RIKER'S QUARTERS,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+351,GEORDI,   At first I thought the catwalk   was spinning. Turns out it was   me.       I'm lucky Ensign Fletcher was   there to grab me -- it's a long   way down to the bottom of the warp   core.,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+352,BEVERLY,   You have all the symptoms of an   inner-ear infection. That would   explain your dizziness... and the   headache.,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+353,BEVERLY,   But I don't see any physical...,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+354,GEORDI,       What is it?,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+355,BEVERLY,   Geordi... have you ever had these   symptoms before?,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+356,GEORDI,       Now that you mention it... I think   I did.,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+357,BEVERLY,   Do you recall when?,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+358,GEORDI,"   No, I don't.",51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+359,BEVERLY,       We've had this discussion. I   remember giving you this   examination...       Let's check the medical logs.,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+360,BEVERLY,       You've been treated several times   for headaches related to your   VISOR... but I see no mention   of dizziness.,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+361,GEORDI,       Must be deja-vu.,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+362,BEVERLY,   Both of us -- about the same   thing?,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+363,BEVERLY,   Let's run an optical diagnostic.,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+364,GEORDI,   For an ear infection?,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+365,BEVERLY,   I've got a hunch...,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+366,BEVERLY,   Hold still... this pulse may be   a little bright...,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+367,BEVERLY,       That's odd...       Have you made any changes to your   VISOR lately?,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+368,GEORDI,   No. Why?,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+369,BEVERLY,   I'm detecting a slight phase-shift   in your visual receptors...,51A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+370,BEVERLY,   Crusher to Captain Picard.,52   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+371,PICARD,"   Yes, Doctor?",52   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+372,BEVERLY,   Can you come to sickbay   immediately? It's urgent.,52   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+373,PICARD,   On my way.,52   INT. READY ROOM,READY ROOM,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+374,BEVERLY,       His dizziness is being caused by   a phase-shift in his visual   receptors. It's causing him to   see images that aren't there...,53   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+375,GEORDI,   They're like... blurry   afterimages.,53   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+376,BEVERLY,   I ran a scan to see if I could   detect what he was seeing.     ,53   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+377,BEVERLY ,"   I picked up miniscule distortions   in the surrounding dekyon field.       Somehow, his VISOR seems to be   translating those distortions into   visual impulses.",53   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+378,GEORDI,   It could be a malfunction in the   ship's warp field generator.   I'll check it out.,53   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+379,PICARD,"   While you're at it, run a   localized subspace scan to look   for anything unusual.",53   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+380,GEORDI,"   Aye, sir.",53   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+381,PICARD,   Keep me advised.,53   INT. SICKBAY,SICKBAY,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+382,GEORDI,"   Lateral sensors on-line --   subspace scanners active...       Data, will you run a level two   diagnostic on the warp subsystems?",54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+383,DATA,   Certainly.,54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+384,GEORDI,   All three's... that can't be   right.,54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+385,DATA,"   I have encountered the numeral   ""three"" an inordinate number of   times over the last two hours.",54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+386,GEORDI,"   We've got a dekyon field   fluctuation on deck nine, section   twenty-eight...",54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+387,BEVERLY,   Crusher to Commander La Forge.,54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+388,GEORDI,   La Forge here.,54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+389,BEVERLY,   I just heard what sounded like...   voices in my room. But there's   no one here.,54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+390,GEORDI,"   Sensors just picked up something   strange, too. We're checking it   out...",54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+391,BEVERLY,   I'm on my way down.,54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+392,GEORDI,"   Are you alright, Doctor?",54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+393,BEVERLY,   I'm fine.,54   INT. ENGINEERING,ENGINEERING,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+394,WORF ,   ... a highly localized   distortion...,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+395,DATA ,   ... collision course. Impact in   thirty-six seconds...,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+396,PICARD ,"   ... hands abandon ship. Repeat,   all hands abandon...",58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+397,TROI,"   The phrase ""collision course""   suggests we collided with   something.",58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+398,GEORDI,"       Worf refers to a ""distortion.""   If this were a temporal   distortion, and if we were close   enough to it... it's possible that   a large enough explosion might've   ruptured the space-time continuum.       We collided... exploded... and   got stuck in this repeating loop   of time.",58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+399,PICARD,   If you're right about this...   Perhaps we could escape the loop   by avoiding the collision.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+400,GEORDI,   That's our guess.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+401,WORF,   Maybe we should reverse course.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+402,RIKER,"   For all we know, reversing course   might be what leads us into the   crash.",58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+403,PICARD,"   We can't afford to start   second-guessing ourselves. We'll   stay on our present course until   we have reason to change it.       In the meantime, let's do   everything we can to avoid a   collision.",58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+404,GEORDI,   Captain... We've been seeing the   number three all over the ship.   On consoles... in a poker game...,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+405,DATA,"   In total, we have encountered two   thousand eighty-five conspicuous   examples of the number ""three.""",58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+406,GEORDI,"   All these ""threes"" can't be coming   up by accident.",58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+407,RIKER,   Maybe somebody's trying to tell   us something.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+408,GEORDI,   We came to the same conclusion...   so we ran a shipwide diagnostic   -- the only unusual thing we found   was a dekyon field modulation in   Data's positronic subprocessors.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+409,BEVERLY,   What could be causing it?,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+410,GEORDI,   I don't know. But if I wanted   to send information from one loop   to the next... I might have used   a method like a dekyon emission.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+411,TROI,   You think we sent ourselves a   message?,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+412,GEORDI,   It would make sense. Maybe we   were trying to tell ourselves   something...,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+413,PICARD,"   If that were true... what could   ""three"" indicate?",58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+414,RIKER,   Maybe we should run a level three   diagnostic on all key systems.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+415,GEORDI,   Good idea. And I'll have the   computer run a pattern-matching   algorithm based on the number   three.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+416,RO,   Bridge to Captain Picard.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+417,PICARD,   Go ahead.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+418,RO,   We are getting unusual readings   -- twenty thousand kilometers off   the port bow.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+419,PICARD,   Red Alert.,58   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+420,PICARD,   Report.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+421,RO,"   Sensors didn't detect the   phenomenon until we were almost   on top of it, sir.",59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+422,WORF,       It is a highly localized   distortion in the space-time   continuum.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+423,RIKER,   On screen.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+424,RIKER,   How do you think we might've   handled this before?,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+425,PICARD,"   Back us off, Ensign. Nice and   slow.",59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+426,RO,   Aye sir.       Captain -- maneuvering thrusters   are not responding.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+427,DATA,       The distortion field is   fluctuating.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+428,GEORDI,   All main systems just went down.   Power levels dropping rapidly...,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+429,DATA,   There is an energy build-up in   the distortion field.       Something is emerging...,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+430,TROI,       Captain -- we have to get out of   here now.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+431,RIKER,   Shields up! Evasive maneuvers!,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+432,WORF,   Shields inoperative!,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+433,RO,   The helm's not responding!,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+434,DATA,   The vessel is on a collision   course. Impact in thirty-six   seconds...,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+435,PICARD,   Hail them.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+436,WORF,   No response.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+437,PICARD,   Suggestions?,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+438,RIKER,   Decompress the main shuttlebay   -- the explosive reaction might   kick us out of the way.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+439,DATA,   Captain -- I recommend we use the   tractor beam to alter the other   ship's trajectory.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+440,PICARD,   Mister Worf -- make it so.,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+441,WORF,   Engaging tractor beam...,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+442,DATA,   The tractor beam will not be   successful. I am decompressing   the main shuttlebay...,59   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+443,WORF,"   We are clear of the distortion,   Captain.",67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+444,PICARD,   Data -- what happened?,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+445,DATA,"   At the last moment, I speculated   that ""three"" might refer to the   number of rank insignia on   Commander Riker's uniform.       This indicated to me that his   suggestion was the correct course   of action.",67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+446,GEORDI,       You must've picked up a message   we sent from the last loop...   and stacked the deck in the poker   game without realizing it.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+447,DATA,"   That is possible, Commander. I   may also have been inadvertently   responsible for the unexplained   appearances of the number   ""three.""",67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+448,PICARD,"   Mister Worf, end Red Alert. See   if you can access a Federation   time-base beacon. Find out how   long we've been in this causality   loop.",67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+449,WORF,"   Aye, sir.",67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+450,WORF,       Time-base confirms that our   chronometers are off by seventeen   point four days.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+451,PICARD,"   Reset them, Mister Data.",67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+452,DATA,"   Aye, sir.",67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+453,WORF,"   Captain -- we are being hailed   by the other vessel.       The computer identifies it as the   U.S.S. Bozeman. A Federation   starship, Soyuz class.",67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+454,GEORDI,       Soyuz Class... they haven't been   in service for over eighty years.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+455,PICARD,   Open a channel.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+456,BATESON,   This is Captain Morgan Bateson of   the Federation Starship Bozeman.   Can we render assistance?,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+457,PICARD,   Captain Jean-Luc Picard of the   Federation Starship Enterprise.   We were just going to ask you the   same thing.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+458,BATESON,   Captain Picard... your ship is   unfamiliar to us.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+459,PICARD,   Have you any idea what just   happened?,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+460,BATESON,   Our sensors detected a temporal   distortion. Then your ship   appeared... we nearly hit you.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+461,PICARD,   The Enterprise has been caught   in temporal causality loop. And   I suspect something similar   happened to you.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+462,BATESON,   You must be mistaken. We only   left starbase three weeks ago.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+463,PICARD,   Captain Bateson... do you know   what year it is?,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+464,BATESON,   Of course I do -- it's twenty-two   seventy-eight.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation
+465,PICARD,   Captain... perhaps you should beam   aboard our ship.       There's something we need to   discuss.,67   INT. BRIDGE,BRIDGE,INT.,"""Cause and Effect""",1992-01-02,The Next Generation

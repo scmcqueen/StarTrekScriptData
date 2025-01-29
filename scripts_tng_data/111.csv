@@ -1,0 +1,313 @@
+,character,quote,scene,location,view,episode,date,series
+0,BEVERLY,"   Include a burn unit with each   kit. On arrival, identify the   most critically injured and   beam them up to Cargo Bay Six...",2    INT. ND CORRIDOR,ND CORRIDOR,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+1,PICARD,"       Doctor Crusher, this is the   Captain.",2    INT. ND CORRIDOR,ND CORRIDOR,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+2,BEVERLY,       Doctor Crusher here.,2    INT. ND CORRIDOR,ND CORRIDOR,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+3,PICARD,   Additional information. The   number of colonists at the site   is five hundred-four - including   thirty-eight children.,2    INT. ND CORRIDOR,ND CORRIDOR,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+4,PICARD,"   So far nothing more than the   initial message. Explosion -   cause unknown - many injured.   Are you prepared, Doctor?",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+5,BEVERLY,"   We believe so, sir.",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+6,GEORDI,"   Captain, we are now at warp nine   point one.",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+7,DATA,   Which will bring us into the   Quadra Sigma System in three   point two hours.,4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+8,RIKER,"   Captain, I have a schematic of   the explosion site. It suggests   the cause as a methane-like gas   seeping in underground...",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+9,TROI,"       Captain, I am...",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+10,TROI,   I am sensing what we encountered   months ago...,4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+11,DATA,"   The ""Q"" Entity, sir? It is   identical to the grid we   encountered when...",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+12,WORF,"   It reads solid, sir. If we hit   it... !",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+13,PICARD,"   Not now, damn it, ""Q""...       Emergency full stop!",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+14,GEORDI,"   Yes, sir.",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+15,TASHA,"   Shields and deflectors, up, sir.",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+16,GEORDI,"   Now reading full stop, sir.",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+17,"""Q"" ","       Humans, I thought by now you   would have scampered back to your   own little star system.",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+18,PICARD,"       If this is ""Q"" I'm addressing,   our vessel and crew are on a   mission of rescue where a group   of badly injured...",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+19,"""Q"" ","       We of the ""Q"" have studied our   recent contact with you... and   are impressed. We have much to   discuss, including perhaps the   realization of your most   impossible dreams.",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+20,PICARD,"       However intriguing we may find   that to be, we are now in the   midst of an urgent journey. Once   we have completed that...",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+21,"""Q"" ","       You will abandon that mission,   Captain. My business with you   takes precedence!",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+22,"""Q"" ","   If my magnificence blinds you,   then perhaps something more   familiar...",9    INT. MAIN BRIDGE - ANGLE ON BRIDGE CREW,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+23,WORF,"   Damn, the phasers are useless!",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+24,PICARD ,"   ""Q"", STOP THIS!",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+25,PICARD,   Stop this and we agree to talk   for a moment!,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+26,"""Q"" ","   Starfleet Admiral ""Q"" at your   service!",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+27,PICARD,"   You are not a Starfleet admiral,   ""Q""...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+28,"""Q"" ","   Neither am I an Aldebaran serpent,   Captain. But you accepted me as   such.",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+29,RIKER,"   He's got us there, Captain.",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+30,"""Q"" ",       The redoubtable Commander Riker   whom I noticed before. You seem   to find this amusing.,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+31,RIKER,"   I might, if we weren't trying   to rescue a group of suffering   and dying humans who...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+32,"""Q"" ",   Your species is always suffering   and dying...,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+33,PICARD,"       No, Lieutenant Worf... !",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+34,PICARD,   You'll make no move against him   unless I order it.,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+35,"""Q"" ","   Pity. You might have learned   an interesting lesson. Tsk, a   macro head, a micro brain.",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+36,PICARD,"   ""Q"", you said you had the   realization of ""some impossible   dreams"" to offer us. Once this   rescue is complete, I'll listen   seriously to whatever proposal   you wish to make and then, subject   to it being acceptable...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+37,"""Q"" ","   ""... subject to"" your foolish   human values? Picard, why do   you people distrust me so?",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+38,DATA,"   Sir, if...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+39,"""Q"" ","   Yes, Captain, it is best they   don't answer that. But you... you,   Picard, I grant the freedom to   answer me honestly. Why do you   distrust me so?",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+40,PICARD,"   ""Q"", right now humans may be   dying because you...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+41,"""Q"" ",       SPEAK! Why do you distrust me?,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+42,PICARD,"       Why? On our first meeting, ""Q"",   you seized my vessel, condemned   all humans as savages and on that   charge, you tried us in a   post-atomic twenty-first century   court of horrors where you   attacked my people... then you   again seized my vessel...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+43,"""Q"" ","   How that angers you: ""Seized my   vessel, seized my vessel... """,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+44,PICARD,"    (without pause, ignoring     this)   ... and then proceeded to interfere   with our Farpoint mission,   threatening to convict us as   ignorant savages if, in dealing   with complex and powerful   life-forms, we made the slightest   error... and when you failed even   there...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+45,"""Q"" ","       At that point, the ""Q"" became   interested in you.    (turns to include bridge     crew)   Cannot some of you understand your   incredible good fortune?!       ""Seized my vessel, seized my   vessel... "" The complaint of a   closed mind too accustomed to   military privileges.       But you, Riker, and I remember   you well, what do you make of my   offer?",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+46,RIKER,   I stand with my Captain.,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+47,"""Q"" ","       Of course, you do. Commendable   loyalty.    (indicating bridge crew;     to Riker)   And what of these others? Since   humanity now interests us, how   shall we come to know them better?",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+48,RIKER,   We don't have time for these   games.,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+49,"""Q"" ","   Ah, yes! A game... for interest's   sake, a deadly game. To the game!",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+50,DATA,"   Obviously a Class-M world, gravity   and oxygen within our limits...",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+51,GEORDI,   ... but a twin sun? Where are   we?,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+52,DATA,"   Considering the power   demonstrated by ""Q"" the last   time... Anywhere! Assuming this   place even exists.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+53,RIKER,"   But this won't be boring. If   ""Q""'s anything, he's imaginative.       Apparently the captain wasn't   meant to be with us here.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+54,TASHA,       Sir! Over here... !,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+55,"""Q"" ","   Join me, Riker. A good game   needs rules and planning...",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+56,"""Q"" ","       Wasn't it your own Hartley who   said ""Nothing reveals humanity   so well as the games it plays?""       Almost right. Actually, you   reveal yourselves best in how you   play.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+57,DATA,"   Sir, what he has in mind could   provide us with vital information.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+58,TROI,"       What I sense is... pleasure, sir.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+59,RIKER,   Incredible. I was just thinking   of an old-fashioned lemonade...,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+60,"""Q"" ",   ... and so it became that. An   excellent thirst quencher; it   becomes quite hot out on this   plane.,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+61,RIKER,   What about my people?,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+62,"""Q"" ","   Whatever they want, of course!",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+63,"""Q"" ",   The rigid Klingon code! Drink   not with thine enemy!       Which explains something of why   you defeated them.,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+64,RIKER,   Still arguing the human past?   Perhaps you're not that original.,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+65,"""Q"" ","   Au contraire! It is the human   future that now intrigues us... and   should concern you most. Of all   species, yours cannot abide   stagnation... change is at the   heart of what you are. But   change into what? That's the   question!",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+66,DATA,   That is what humans call a truism.,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+67,"""Q"" ","       Meaning ""hardly original""...",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+68,RIKER,"       You're the one who said it. And   while we're at it...    (indicating ""Q""'s     uniform, tent)   ... this isn't part of any human   future...",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+69,"""Q"" ","   True, I borrowed this from your   stodgy captain's mind. It is   dressing for the game we will play   and games require boundaries,   dangers, rewards, familiar   settings, that sort of thing.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+70,RIKER,   It's not that familiar to me...       Data?,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+71,DATA,"       It is from Europe's Napoleonic   Era, sir, late eighteenth, early   nineteenth centuries. This is   a campaign headquarters tent, his   uniform is that of a French Army   marshal, the...",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+72,RIKER,       And a marshal outranks even an   admiral...,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+73,"""Q"" ",   Would I go from a Starfleet   admiral to anything less?,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+74,RIKER,"       Of course, you wouldn't.       But Napoleonic equipment on an   alien planet with dual suns... ?",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+75,"""Q"" ","   As you've said, I'm nothing if   not imaginative. And the game   should reflect that. Shall it   be a test of strength?   Meaningless, since you have none.   A test of intelligence? Equally   meaningless...       A game needs risk... Something   to win; something to lose.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+76,RIKER,"   If we must play a game, what would   we win?",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+77,"""Q"" ","   The greatest possible future you   can imagine!       Which, of course, requires   something totally disastrous if   you lose!       The point of this game will be   whether any of you can stay   alive.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+78,WORF,"   If your ""game"" is fair, we will.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+79,"""Q"" ","   For shame, Lieutenant Worf.   Fairness is a human concept.       Think imaginatively! It will,   in fact, be completely unfair...",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+80,TASHA,   You've gone too far.,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+81,"""Q"" ",   Game penalty!,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+82,RIKER,"   Where is she, ""Q""? You can forget   your game if...",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+83,"""Q"" ","   To use a twentieth century term,   Commander, she's in a... a ""penalty   box."" Where she can remain   unharmed unless one of you merits   a penalty.       Unfortunately, there is only one   penalty box. If any of you should   be sent there... dear Tasha must   give up the box to you.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+84,GEORDI,   And... where does she go?,20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+85,"""Q"" ","       Into ""nothingness.""    (looking to the Others,     individually)   I entreat you to carefully obey   the rules of the game. The only   one who can destroy your Tasha   now... is you.",20   BACK TO EXT. PLAIN (OPTICAL),PLAIN,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+86,PICARD,"   Turbolift Control, do you read?   This is the captain.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+87,PICARD,"       Engineering, this is the bridge.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+88,PICARD,       Security -- this is the Captain.,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+89,PICARD,       Computer?       Computer on!,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+90,PICARD,       Captain's log...,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+91,PICARD,       Damn... I can't even make a log   entry.,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+92,TASHA ,"   I wish I could help you, Captain.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+93,PICARD,   What... what are you doing here?,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+94,TASHA,"   I... well, this sounds strange,   but... I'm in the penalty box.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+95,PICARD,   You're what?!,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+96,TASHA,"       In ""Q""'s penalty box. As I said,   it sounds strange but it   definitely isn't. Somehow I know   that one more penalty... by me or   anyone... and I'm gone.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+97,PICARD,   Gone?,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+98,TASHA,       Please do not keep reminding   me...,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+99,PICARD,   I'm sorry...,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+100,TASHA,"       No, I'm sorry. It's so   frustrating to be controlled like   this...",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+101,PICARD,   Lieutenant...Tasha... it's all   right...,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+102,TASHA,       What the hell am I doing? Crying?,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+103,PICARD,"   Don't worry. There's a new ship's   standing order.       When in a penalty box, some tears   are permitted.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+104,TASHA,   Captain... if you weren't a   captain...,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+105,"""Q""  ","       Consorting with lower rank   females, Captain?",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+106,"""Q"" ","   Destructive to discipline, they   say. But you are, after all, only   human, eh?",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+107,PICARD,   A marshal of France? Ridiculous!,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+108,"""Q"" ","   One takes what jobs he can get.   For example, your log entries.     ",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+109,"""Q"" ","       Starship log, stardate today...   This is ""Q"", speaking for Captain   Jean-Luc Picard, who we consider   too bound by Starfleet custom and   tradition to be useful in this   activity.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+110,PICARD,   But who proved himself a   resourceful opponent when he   defeated you at Farpoint.,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+111,"""Q"" ","       The Enterprise is now helpless,   stuck like an Earth insect in   amber while its bridge crew plays   out a game whose real intent...       ... is to test if their first   officer is worthy of the greatest   gift the ""Q"" can offer.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+112,PICARD,"   So, you're taking on Riker this   time.       Excellent! He'll defeat you just   as I did!",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+113,"""Q"" ","   A wager on that, Captain? Your   command of this starship   against... ?",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+114,PICARD,   Against your staying out of   humanity's path... forever! Done?,26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+115,"""Q"" ","   Done!       And you've already lost, Picard.   You see, Riker is to be offered   something impossible to reject.",26   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+116,RIKER,"   Geordi, can you still see Worf?",29   EXT. THE PLANET,THE PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+117,GEORDI,"       I'd see the freckles on his nose,   if he had them, sir. He's at the   third ridge now...",29   EXT. THE PLANET,THE PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+118,TROI,   The third ridge... ?,29   EXT. THE PLANET,THE PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+119,GEORDI,"   Moving well.       Oh, oh!       Good, he sees them. They look   like sentries, sir.",29   EXT. THE PLANET,THE PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+120,PICARD,"   ""Q"", listen to me. You seem to   have some need of humans...",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+121,"""Q"" ",   Or concern regarding them.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+122,PICARD,"   Whichever it is, why try to solve   it through this confrontation   with us? Why not a simple direct   explanation, a statement of what   you seek? Why these games?",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+123,"""Q"" ",   I'm surprised you have to ask when   your human Shakespeare has   already explained it so well.,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+124,PICARD,"   Indeed he did, ""Q"". But careful   you don't depend too much on any   single viewpoint he...",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+125,"""Q"" ","    (ignoring this;     interrupting)   Why these games I require of you?   A pity you're not familiar with   the contents of your own library.   Hear this, Picard, and reflect.    (lifts book, quotes from     it)   ""All the galaxy's a stage, and... """,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+126,PICARD,"       ""All the galaxy?"" ""All the   world's a stage... """,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+127,"""Q"". ","   Oh, you know that one? Then how   about, ""... Life's but a walking   shadow, a poor player that struts   and frets his hour upon the stage,   and then is heard no more. It   is a tale told by an idiot, full   of sound and fury, signifying   nothing.""",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+128,PICARD,"   And so you say, how we respond   to a game tells you more about   us than our real life, a ""tale   told by an idiot.""       Interesting, ""Q"".",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+129,"""Q"" ",       Shall I quote from Hamlet?,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+130,PICARD,"   No. I know Hamlet. And what   he said with irony I prefer to   say with conviction.       ""What a piece of work is man!   How noble in reason! How infinite   in faculty. In form, in moving,   how express and admirable. In   action, how like an angel. In   apprehension, how like a god... """,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+131,"""Q"" ",       You don't really see your species   like that?!,35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+132,PICARD,"   I see us one day becoming that,   ""Q"". Is that what concerns you?",35   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+133,RIKER,   Can you still see Worf?,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+134,GEORDI,"       It's hard to keep him in sight,   sir. But the soldiers there...   they've formed a ""skirmishing   line,"" I think you'd call it... and   they're headed this way.",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+135,RIKER,   Carrying ancient powder and ball   muskets?,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+136,GEORDI,"   That's what their weapons look   like, sir.",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+137,DATA,"   Muskets are appropriate to the   1790 - 1800 French army uniform.       But it is hardly a ""weapon"" by our   standards, sir. A lead ball   propelled by gunpowder -- one-hundred   meters at most with any accuracy...",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+138,GEORDI,   Against phasers? Just one of our   hand phasers could finish off   an entire regiment of them.,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+139,RIKER,"   Except for one thing...       That hardly sounds like ""Q"",   giving us an advantage like that.    (puzzling; then     REACTING)   Unless...",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+140,WORF,       DROP YOUR WEAPONS!,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+141,RIKER,"       I'm afraid it was me, Worf.   Making certain our phasers still   operate.",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+142,WORF,   A warrior's reaction.,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+143,GEORDI,"   Incredible, Worf! You came out   of nowhere!",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+144,RIKER,       Report. What did you find?,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+145,WORF,"   Sir... what they're wearing may   be old Earth uniforms, but what's   inside those uniforms isn't human   at all. More like vicious animal   things.",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+146,GEORDI,"   Oh, oh! Good old ""Q"". But how   can even the most savage animal   forms threaten us if they're armed   with the equivalent of popguns?",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+147,GEORDI,"   They're moving in fast, sir.",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+148,RIKER,"   Data, if you've got a theory on   what's happening...",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+149,"""Q"" ","   Think fast, Commander Riker.       And move fast... !",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+150,RIKER,"   That's no ""musket!""",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+151,RIKER,"       Troi, Geordi, Worf... !",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+152,"""Q"" ","   You have only one chance to save   them, now. Send them to your   ship!",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+153,RIKER,   You'll let me beam them?,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+154,"""Q"" ",       Send them the same way as I do.   I've given you that power.,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+155,"""Q"" ","       Do you understand? I've given   you the power of the ""Q"".    (demonstrates with     sweeping gesture)   Use it!",36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+156,"""Q"" ",       Use your power!,36   EXT. PLANET,PLANET,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+157,PICARD,"   Take the Conn, Lieutenant.",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+158,PICARD,   Engineering -- this is the bridge.,43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+159,ENGINEER,"   Engineering here, sir.",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+160,PICARD,   Are all systems back on line?,43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+161,ENGINEER,"   Back on line, sir? They were   never off.",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+162,TASHA,"   Captain, you had better look at   this.",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+163,TASHA,   There has been no interruption   in course or speed. Both have   remained constant. Captain -- it's   as though we never stopped.,43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+164,PICARD,"   We never did. ""Q"" suspended time.",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+165,TASHA,   Where's Commander Riker?,43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+166,WORF,   He was with us.,43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+167,GEORDI,   He must still be on the planet.       We were under attack by... by   animal things...,43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+168,PICARD,   Animal things?,43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+169,GEORDI,"   Animal things in uniform, sir...    (quails at Picard's     expression)   Which I think Data could probably   explain better, sir.",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+170,DATA,"   You may find it aesthetically   displeasing, sir. I could just   file a computer report on that...",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+171,TROI,"       Sir, the important thing right   now is why is Commander Riker   missing?",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+172,PICARD,"   Understood, Counselor, but Will   is almost certainly safe...       ... at least ""safe"" in a physical   sense. ""Q"" has an interest in   him... in fact, ""Q""'s entire visit   has something to do with our   first officer.",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+173,DATA,"   And the reason for that, sir... ?",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+174,PICARD,"   I wish I knew. ""Q"" became   interested in him at Farpoint.       I've no idea what it means.       Meanwhile, we must proceed with our   rescue mission...",43   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+175,"""Q"" ",   Something amuses you?,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+176,"""Q"" ",   Perhaps you would share the joke   with me?,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+177,RIKER,"   The joke is you, you silly son   of a bitch.",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+178,"""Q"" ","   Strange gratitude from one who   has been granted a gift beyond   any human dream. How can you not   appreciate being able to send your   friends back to their ship...       ... or sending the soldiers back to   the ""nothingness"" from which they   came?",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+179,"""Q"" ","       Certainly, you understand that   at this moment you can send   yourself back to your ship... or   to Earth, or change your shape   and become anything else you   want to be...",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+180,RIKER,"    (interrupting;     strongly)   What do you need, ""Q""?",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+181,"""Q"" ","   ""Need?""",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+182,RIKER,"   You want something from us, ""Q"".   Desperately! What is it?",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+183,"""Q"" ","   Want something from you foolish,   fragile, non-entities? Careful,   Riker, you're beginning to sound   like your captain.",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+184,RIKER,"       Now that's a compliment, ""Q"".   But it's not an answer.",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+185,"""Q"" ",       Riker... we have tried to offer   you a gift beyond all other   gifts... !,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+186,RIKER,"   ... Out of the ""goodness"" of your   heart?",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+187,"""Q"" ","   After Farpoint, I returned to   where we exist... the ""Q   Continuum.""",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+188,RIKER,   Which means exactly what?,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+189,"""Q"" ","       The limitless dimensions of the   galaxy in which we exist. We   could hardly be capable of acting   in ways that seem so astonishing   to you... if we were limited to   the primitive dimensions in which   you live, dimensions which would   make us prisoners of time and   space.",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+190,RIKER,       What do you mean by we?,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+191,"""Q"" ",       In our Continuum the terms we   and I mean much the same.,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+192,RIKER,   I don't understand...,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+193,"""Q"" ","   Of course you don't, and you never   will until you become one of us.",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+194,RIKER,       Until?... Would you mind going   over that again?,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+195,"""Q"" ",       If you'll stop interrupting me.   This really isn't the time to   teach you the true nature of the   universe.     ,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+196,"""Q"" ","       At Farpoint, we saw you as savages   only, and thought to frighten you   into scurrying back to your   system. We discovered instead,   that you are an unusual creature   in your own limited ways... ways   which in time may not be so   limited.",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+197,RIKER,"       We're growing. Something about   us compels us to learn,   explore...",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+198,"""Q"" ","       The human compulsion. And,   unfortunately, for us, a force   that will grow stronger century   after century, eon after eon...",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+199,RIKER,   Eons! Have you any idea how far   we'll advance?,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+200,"""Q"" ","   Perhaps in a future you cannot   yet conceive... even beyond us.   And so, we must know more about   the human condition. We have   selected you, Riker, to become   part of the ""Q""... to bring that   human need and hunger to us so   that we may understand it.",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+201,RIKER,"       I... suppose you mean that as a   compliment, ""Q""... or maybe it's   my limited mind...       ... but... to become part of you?!   I don't even like you!",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+202,"""Q"" ",   You're going to miss me!,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+203,TROI,"   Oh, no!",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+204,GEORDI,"   Come on, not again!",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+205,WESLEY,"       What's happening, Commander Riker?   I was sitting in school...",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+206,TASHA,"       My phaser's gone. Worf, are you   armed?",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+207,PICARD,"   Where is ""Q""? If you have any   answer to this, Number One...",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+208,WESLEY,   Worf!,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+209,RIKER,"   NO! DAMN IT, DAMN IT TO HELL... !",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+210,PICARD,"   Riker, you... you did that?!",53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+211,RIKER,   And that's not all!!,53   EXT. DESERT,DESERT,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+212,PICARD,"   That grid, their wounds... only   the ""Q"" could do that...",63   INT. MAIN BRIDGE - TIGHT ANGLE ON WESLEY (OPTICAL),MAIN BRIDGE - TIGHT ANGLE ON WESLEY,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+213,PICARD ,"   Captain's log, stardate 41591.4.   Twelve minutes out from Quadra   Sigma III where the survivors of   an underground disaster   desperately need our help. Aboard   the Enterprise...",65   EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,"Hide And ""Q""",1987-09-25,The Next Generation
+214,PICARD ,       ... First Officer William T. Riker   needs help nearly as badly. But   this is a subject so far out of   my experience... out of any human's   experience.,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+215,PICARD,"   Will, how the hell do I advise   you what to do?!",67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+216,RIKER,"   No one has ever offered to   turn you into ""God?""",67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+217,PICARD,"       Don't joke with me! What the   ""Q"" has offered you has got to   be close to ""immortality,"" Will.   They're not lying about   controlling space and time; we've   seen it in what they can do.   But...",67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+218,RIKER,   You've also seen it in what I can   do.,67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+219,PICARD,"   Of all things, that troubles me   most, Will. Are you strong enough   to refuse to use that power?",67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+220,RIKER,   Certainly!,67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+221,PICARD,"   No matter how tempted? No matter   how difficult ""Q"" makes it?",67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+222,RIKER,       You have my word.,67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+223,DATA,"   In orbit of Quadra Sigma III, sir.   Ready to beam down rescue team   to underground emergency area.",67   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+224,DATA,   This way.,70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+225,BEVERLY,"   You are going to be all right,   now.",70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+226,RIKER,   Where are the others?,70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+227,WOMAN,   Gone. It's just us.,70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+228,GEORDI,       Commander!,70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+229,GEORDI,   There's someone there!,70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+230,BEVERLY,   She's dead. If we'd only gotten   here a little sooner... !,70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+231,DATA,"   Sir, if you indeed have ""Q""'s   power...",70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+232,BEVERLY,   I don't understand. Can you   bring her back to life?,70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+233,RIKER,       No!,70   INT. PLANET DISASTER AREA,PLANET DISASTER AREA,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+234,RIKER,"   As soon as it's convenient   Captain, I insist on a meeting   with you and your staff.",88   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+235,PICARD,"   As soon as we are secure from the   rescue operation, we'll meet in   the Conference Room.",88   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+236,RIKER,   Thank you.,88   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+237,PICARD,   Counselor?,88   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+238,TROI,   Power -- immense. Frightening.   I can't read the intent -- but   there is terrible anger in him.,88   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+239,PICARD,   We'll confer on the bridge here   if no one...,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+240,RIKER,   The bridge is fine since I've   called the entire staff...,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+241,PICARD,"       Correction, Number One; knowing   the decision you face, I've   permitted you this gathering.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+242,RIKER,"   Of course, Jean-Luc.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+243,RIKER,"       This meeting isn't for you,   Wesley!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+244,WESLEY,"   Why not, sir? You helped make   me a bridge officer...       ... an acting ensign.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+245,RIKER,"   All right, he stays. The first   thing he'll hear is... because I've   been given unusual powers, I'm   not suddenly a monster. Except   for those abilities, and I don't   yet know how far they go... I'm   the same William T. Riker you've   always known.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+246,RIKER,       Well? Everyone still looks   uncomfortable.,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+247,PICARD,"   Perhaps we're all remembering the   old saying... ""power corrupts... """,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+248,RIKER,"   ... ""and absolute power corrupts   absolutely."" Do you believe I   haven't thought of that, Jean-Luc?",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+249,PICARD,   And have you noticed that you and   I are now on a first-name basis?,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+250,PICARD,"       Will, something has happened to   you already...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+251,RIKER,"   In what way? Haven't you seen   how much I've regretted not saving   that child? Captain, using the   ""Q"" power to save her might not   have been wrong!       No more than it was wrong to save   the rest of you from those soldier   things.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+252,PICARD,"   Let's keep in mind that particular   danger was invented by ""Q"".",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+253,TROI,"   What we represent to the ""Q"",   Will, are lowly animals, tormented   into performing for their   amusement...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+254,RIKER,"   Actually, they think highly of   us, Troi. We have a quality   of... of growth which they   admire...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+255,GEORDI,   Or fear?,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+256,PICARD,"   Number One, we've learned that   the ""Q"" power does not admire   us... ""Q"" has muddled your mind   somehow.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+257,RIKER,"   It's your mind that troubles me,   Captain. Don't you understand   his incredible gift to me?",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+258,"""Q""  ","   Are these truly your ""friends,""   Brother?",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+259,"""Q"" ","   Let us pray for understanding,   for compassion, for...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+260,PICARD,       Let us do no such damned thing!       What is this need of yours for   costumes? Have you no identity   of your own?,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+261,"""Q"" ",       I come in search of truth.,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+262,PICARD,   You come in search of what   humanity is!,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+263,"""Q"" ",   I forgive your blasphemy...,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+264,PICARD,"       Can't you see it, Number One?   He's nothing but a flim-flam man!   That's what he's been since his   first appearance at Farpoint!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+265,WORF,       Flim-flam?,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+266,"""Q"" ",       You offer Riker jealousy! What   I offer him is clearly beyond your   comprehension!    (turning to the others     one by one)   How can you claim friendship for   Riker while obstructing his way   to the greatest adventure ever   offered a human?!,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+267,PICARD,"       ""Obstruct him?"" Then it's not   yet certain? He's not yet   committed?",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+268,"""Q"" ","    (quickly, loudly;    overlapping last line)   The truly evil part of this is   your jealousy, Captain.       You love each one of your people!   Demonstrate it! You have the   power to leave each of them with   a gift proving your affection.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+269,RIKER,"   There'd be no... harm, would there,   if I, if I gave them something   I know they'd like?",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+270,"""Q"" ","   How touching. A plea to his   former captain.       ""May I please give some happiness   to my friends, sir? Please sir?""",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+271,PICARD,"       In fact... I authorize and support   that idea, Riker.       And please cooperate with him,   if you wish.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+272,TROI,"       Are you certain, sir? If...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+273,PICARD,"   I'm quite certain, Counselor.       By all means, demonstrate your   gifts of affection.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+274,"""Q"" ",       Remarkable! He rises now above   jealousy.,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+275,RIKER,   Don't be frightened. There is   no way I could harm any one of   you. Shall I guess your dreams?,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+276,BEVERLY,"       Leave now, Wesley!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+277,RIKER,"   No! Wesley, I may know best of   all.       Our friendship, our long talks...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+278,BEVERLY,"   No, please... !",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+279,RIKER,"       Have your favorite wish, my young   friend!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+280,GEORDI,"   Hey Wes, you've grown into a very   good looking guy!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+281,RIKER,   Data...,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+282,DATA,    (forcefully shaking     head)   No!,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+283,RIKER,"   It's what you've always wanted,   Data to become human!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+284,DATA,"   Yes, sir, that is true. But I   never wanted to compound one   illusion with another. It might   seem real to ""Q"" -- even you,   sir... but it would not be so to   me. Was it not one of the   Captain's favorite authors who   wrote, ""This above all, to thine   own self be true?""       Sorry, Commander, I must decline.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+285,RIKER,"   Well, my friend, I know what you   want. Welcome to the wonderful   world of vision.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+286,GEORDI,"   You're as beautiful as I imagined,   and more.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+287,RIKER,   Then we can throw the VISOR away?,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+288,GEORDI,"   I think not, sir. The price is   a little high for me. I don't   like who I would have to thank.   I can still steer the ship with   this.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+289,BEVERLY,"   If you accept this new you,   Wesley, you'll lose wonderful   times, so many important   experiences...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+290,RIKER,"   And Worf, who wants nothing...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+291,WORF,   Except honor and my duty   fulfilled.,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+292,RIKER,"       Proud warrior Worf, without a   single tie to his own kind...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+293,WORF,       No! She is from a world now alien   to me. I have no place in my life   for this now!,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+294,WESLEY,   Mister Riker...       ... it's too soon for this...,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+295,RIKER,   If it's because your mother   objects...,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+296,WESLEY,"   No, I'd just like to get there   on my own. Honest!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+297,RIKER,"   How did you know, sir? I feel   like such... such an idiot!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+298,PICARD,"   Quite right, you should!",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+299,RIKER,   But it was... such a pleasure to   have been able to do those things.,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+300,PICARD,"   It's all over ""Q"". You have no   further business here.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+301,"""Q"" ","   Human, you have just destroyed   yourself... !",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+302,PICARD,"   But only after you've paid off   your wager, ""Q"".",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+303,"""Q"" ",   I recall no wager!,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+304,PICARD,"   I'm sure your fellow ""Q"" remember   you agreed to never trouble our   species again. Just as they're   aware you've failed to tempt a   human to join you. So, ""Q"", I   strongly suspect you have some   explaining of your own to do...",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+305,PICARD,"   Extraordinary! ""Q"" sought to   discover the distinguishing   characteristic of humanity and   never learned what Coleridge   said: ""It must be the possession   of a soul within us that makes   the difference.""",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+306,GEORDI,"   Sir... we show the same ""hole"" in   time again. Our instruments say   we've just now beamed up from our   rescue mission.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+307,DATA,"   How can the ""Q"" handle time and   space so well, and us so badly?",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+308,PICARD,"   Perhaps we'll discover some day   that time and space are simpler   than the human equation.       No coordinates laid in, Number   One?",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+309,RIKER,"   Uh... yes, sir.       You have my coordinates, Mister   La Forge.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+310,WESLEY,"   Zero-zero-eight, Mark,   three-three-nine, sir.",91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation
+311,PICARD,       Engage!,91   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Hide And ""Q""",1987-09-25,The Next Generation

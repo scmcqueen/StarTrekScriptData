@@ -1,0 +1,364 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD,"   Good evening, Mister Data.",1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+1,DATA,"   Actually, good morning, sir.",1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+2,DATA,   Ship status is --,1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+3,PICARD,   No need to report. I'm just here   to do some work of my own.,1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+4,DATA,"   Yes, sir.",1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+5,PICARD,   I'd like to talk to Doctor Mowray   at his archaeological site on   Landris Two. Please put it   through to my Ready Room.,1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+6,DATA,"   I am sorry, sir, but Stellar   Cartography has requested a   communications blackout while they   run an experiment.",1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+7,PICARD,   How long will it be?,1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+8,DATA,"   Another three hours, twenty-two   minutes.",1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+9,DATA,   I can override it if necessary.,1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+10,PICARD,"   No, no... it's not important.",1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+11,DATA,"   Aye, sir.",1    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+12,PICARD,"   Computer, display the latest   excavation schematics from Landris   Two.",2    INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+13,COMPUTER,   Library computer is temporarily   off-line.,2    INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+14,PICARD,   Explain.,2    INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+15,COMPUTER,   Library Systems have been   allocated to Stellar Cartography.,2    INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+16,PICARD,"   Tea, Earl Grey. Hot.",2    INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+17,COMPUTER,   Replicator systems are off-line at   the request of --,2    INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+18,PICARD/COMPUTER,   Stellar Cartography...,2    INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+19,PICARD,       What could they possibly be doing   down there... ?,2    INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+20,WOMAN,"   In or out, but close that door.",4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+21,WOMAN,   Just try to stand still.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+22,WOMAN,"   It'll take a second for our eyes   to re-adjust...       Elevate to three-point-two.       Good... we can do this...       We're losing vertical alignment.   Compensate...       Gently, don't bump it.       No, no -- hit the...       Forget it. Lights.",4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+23,NELLA,"   Whoever you are, you just ruined   four hours of work.",4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+24,PICARD,   You might've taken the simple   precaution of locking the door.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+25,NELLA,   It's three o'clock in the morning --,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+26,NELLA,       Captain Picard...,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+27,PICARD,   You must be Lieutenant Commander   Daren.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+28,NELLA,"   Yes, sir. I'm sorry. It's just   we weren't expecting many people   to be up at this hour.",4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+29,PICARD,   You're new aboard the Enterprise.   I think you'll soon learn to start   expecting the unexpected.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+30,NELLA,   That's why I put in for this   assignment.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+31,PICARD,   Excellent. Now perhaps you could   tell me what was so important that   it required depriving the ship's   Captain of a cup of Earl Grey?,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+32,NELLA,   Earl Grey? No wonder you can't   sleep.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+33,NELLA,"   Computer, bring replicators back   on line and give me a cup of Daren   herbal tea blend number three,   hot.",4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+34,NELLA,   You shouldn't be drinking a   stimulant at this time of night.   I think you'll like this.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+35,NELLA,   I've programmed seven other blends   into the replicator...       You're bound to like one of them.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+36,PICARD,   I look forward to sampling them.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+37,NELLA,   I'm sorry if the system blackouts   we requested inconvenienced you.   We were taking very precise   gravimetric readings -- it   wouldn't have taken much to throw   them off.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+38,PICARD,       What are these readings for?,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+39,NELLA,"   I'm trying to construct a   mathematical model of an emerging   star system. If it works, we'll   be able to predict the   configuration of a system that   won't be formed for another two   million years.",4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+40,PICARD,       That's a long time to wait to find   out if you're right.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+41,NELLA,       I have a few things to do between   now and then.,4    INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+42,RIKER,"   We'll arrive at the Borgolis   Nebula in three hours, sir.",6    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+43,PICARD,   I understand it has unusual   radioactive emissions -- I'm sure   Stellar Sciences will find it an   interesting study.,6    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+44,RIKER,   Commander Daren has already   requested time on the main sensor   array.,6    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+45,PICARD,"   You have the Bridge, Number One.",6    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+46,DATA,"   Captain, I would like to remind   you about our concert this evening   in Ten-Forward.       We will be performing Chopin's   Trio in G minor.",6    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+47,PICARD,       I'll be there.,6    INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+48,PICARD,   ... the upshot is... we'll be close   enough for you to slip away for a   few days and see Wesley.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+49,BEVERLY,"   Wonderful, thank you, Jean-Luc.",7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+50,BEVERLY,   This is delicious; what is it?,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+51,PICARD,   It's an herbal tea blend...       I came across it in the replicator   files.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+52,PICARD,   Have you met any of the new   crewmembers we took on at Starbase   Two-eighteen?,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+53,BEVERLY,"       In fact, I have a new Nurse. His   name's Beck, he's an obstetrics   specialist.",7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+54,PICARD,       I met the new head of Stellar   Sciences last night. Lieutenant   Commander Daren.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+55,BEVERLY,   Yes... Nella Daren. She was in   Sickbay for a physical last week.   I liked her. Very forthright.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+56,PICARD,   Very.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+57,BEVERLY,"   Oh, I forgot to tell you... The   Exogenics Journal accepted my   paper for publication.",7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+58,PICARD,"       That's wonderful, Beverly.",7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+59,BEVERLY,   I'm hoping to get a response from   other scientists studying   ribosomal replication. There's   still no satisfying explanation   for the genetic drift.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+60,PICARD,       That journal is widely read.   You'll probably be swamped with   responses.       Did you know it's possible now to   predict the configuration of a   star system that won't be formed   for another two million years?,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+61,BEVERLY,"   Really? No, I didn't...",7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+62,PICARD,   It's quite intriguing. It's made   possible by a rather complex   mathematical construct based on   fractal particle motion. And of   course that's just the   foundation... the modeling itself   requires gravimetric wave inputs.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+63,BEVERLY,   I see.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+64,PICARD,"   Well, I'm sure it sounds dry.   Stellar cartography isn't   everyone's cup of tea...",7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+65,BEVERLY,   I'm sure it's fascinating.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+66,PICARD,   Well... we'd better get to Ten   Forward; we don't want to be late   for the concert.,7    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+67,PICARD,   Your playing was remarkable.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+68,NELLA,"       Thank you, sir.",14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+69,BEVERLY,   You're very talented.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+70,DATA,   I noticed that the applause   tonight exceeded average decibel   levels.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+71,NELLA,       I guess that means they enjoyed   themselves. I know I enjoyed   playing.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+72,PICARD,   That was obvious.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+73,DATA,   Excuse me. I have not yet   congratulated Ensign Cheney.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+74,BEVERLY,   I'll go with you.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+75,PICARD,   I played piano for a while when I   was young. But I never put in the   practice time it takes to become   truly proficient.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+76,NELLA,"   That was never my problem. In   fact, my parents had to make me go   out and play.",14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+77,PICARD,"   I wanted to ask you... during the   second arpeggio in the first   movement, I noticed you played an   F minor chord instead of a   diminished D.",14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+78,NELLA,   You're a musician. What's your   instrument? We should play some   time.,14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+79,PICARD,"   I'm very much an amateur. But I   must say, your choice in that   arpeggio was delightful. Not at   all what one expects to hear.",14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+80,NELLA,"   Well, Captain... now that I'm on   your ship, maybe you should start   expecting the unexpected.",14   INT. TEN FORWARD,TEN FORWARD,INT.,"""Lessons""",1993-01-25,The Next Generation
+81,NELLA,"   Excuse me, sir.",17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+82,NELLA,       I was hoping my people in Spectral   Analysis could have another few   hours on the main sensor array.,17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+83,RIKER,"   I'm sorry, the array's been   allocated to Engineering; they're   running some warp field tests.",17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+84,NELLA,"   If we go off-line now, we'll lose   the gas flow pattern we've been   tracking.",17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+85,RIKER,   I understand that. But we've got   other departments waiting to use   the array.,17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+86,NELLA,   We're at a critical juncture --,17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+87,RIKER,       Commander.,17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+88,RIKER,   I'll see what I can do about more   time tomorrow.,17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+89,NELLA,"   Tomorrow... but ---    (beat; she realizes this     is the best she can     get)   Thank you, sir.",17   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+90,PICARD,   End playback.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+91,PICARD,   Come.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+92,PICARD,       Commander Daren.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+93,NELLA,   I hope you don't mind me dropping   by like this?,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+94,PICARD,   I'm delighted. Come in.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+95,NELLA,   What kind of flute is that?,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+96,PICARD,   It's Ressikan.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+97,NELLA,   I never saw one before.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+98,PICARD,   They're not made anymore.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+99,NELLA,   How long have you been playing?,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+100,PICARD,   A long time...,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+101,NELLA,   I'd love to hear you play   sometime.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+102,PICARD,   I'm not very good.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+103,NELLA,"   It doesn't matter, as long as you   enjoy it.",18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+104,PICARD,"   Yes, but I wouldn't want to   inflict it on anyone else.",18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+105,NELLA,   May I try?,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+106,PICARD,   You're not holding it quite   right...,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+107,NELLA,   Show me.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+108,NELLA,   You're better than you think.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+109,PICARD,       Please...,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+110,NELLA,   Really. We should play together.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+111,PICARD,   There's... no piano here.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+112,NELLA,"   Oh, but there is.",18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+113,NELLA,   I picked it up on Mataline Two.   It's amazing.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+114,PICARD,   Remarkable...    (hoping to get out of     this)   Why don't you play something for   me?,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+115,NELLA,   You start... I'll jump in.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+116,PICARD,   What... shall we play?,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+117,NELLA,   What were you working on before I   came in?,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+118,PICARD,   Bach... the third Brandenburg.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+119,NELLA,   Perfect. Go ahead.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+120,PICARD,   Sorry...,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+121,NELLA,"   It's all right... you're not used   to playing with anyone, are you?",18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+122,PICARD,   Just the computer.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+123,NELLA,       Well... I may not be as precise as   a computer... but I think you'll   enjoy it more.     ,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+124,NELLA ,       Let's try something a little   simpler. How about...,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+125,NELLA,   Very good! Now... let's have a   little fun with it.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+126,NELLA,   Try it. Improvise on the melody --   anything you want.,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+127,NELLA,   That's wonderful! Keep going...,18   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+128,PICARD,   Number One... my sparring partner   cancelled for this afternoon. I   was wondering if you wanted to   join me?,20   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+129,RIKER,"   Fencing, sir? I'm really not very   good.",20   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+130,PICARD,   It doesn't matter... as long as   you enjoy it.,20   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+131,RIKER,   Why not?,20   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+132,PICARD,"       Excellent. Fourteen hundred   hours, then.",20   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+133,BEVERLY,   You have a mild strain.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+134,NELLA,   I've been playing the piano a   lot... I guess the Captain and I   overdid it a little last night.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+135,BEVERLY,   The Captain?,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+136,NELLA,"   He plays a kind of flute...   Ressikan, I think he said.",21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+137,BEVERLY,   Yes... but I didn't realize he   played... duets.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+138,NELLA,   He never did before. But he   seemed to enjoy it. He's actually   quite promising.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+139,BEVERLY,   I see.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+140,NELLA,   Tell me... have you known him   long?,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+141,BEVERLY,   Yes. A long time...,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+142,NELLA,   He seems... somewhat isolated.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+143,BEVERLY,   I'd say he's a private person...   but not isolated.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+144,BEVERLY,   There. That should help.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+145,NELLA,   It feels much better. Thank you.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+146,BEVERLY,   Good.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+147,NELLA,   I was afraid I'd have to cancel.,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+148,BEVERLY,       Another duet?,21   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+149,PICARD ,   Where are we going?,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+150,NELLA,   Keep climbing.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+151,PICARD,   I don't see why we can't just   practice in my quarters.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+152,NELLA,   We're almost there.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+153,NELLA,   Do you know where we are?,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+154,PICARD,       The fourth intersect of Jefferies   Tube twenty-five.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+155,NELLA,   No... this is the most   acoustically perfect spot on the   ship.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+156,NELLA,   The intersection acts as a   resonance chamber.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+157,PICARD,   How did you find it?,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+158,NELLA,   A little exploring.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+159,PICARD,   Don't tell me you climbed through   every tube on the ship?,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+160,NELLA,"       Well, not every one.       Try it. See how it sounds.",22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+161,NELLA,   That's beautiful. What is it?,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+162,PICARD,   Just an old folk melody.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+163,NELLA,   I've never heard you play with   such feeling.,22   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,"""Lessons""",1993-01-25,The Next Generation
+164,DATA,   Geordi. Is there a problem?,24   INT. ENGINEERING,ENGINEERING,INT.,"""Lessons""",1993-01-25,The Next Generation
+165,GEORDI,   I hear music.,24   INT. ENGINEERING,ENGINEERING,INT.,"""Lessons""",1993-01-25,The Next Generation
+166,DATA,   Music?,24   INT. ENGINEERING,ENGINEERING,INT.,"""Lessons""",1993-01-25,The Next Generation
+167,DATA,   I do not hear anything.,24   INT. ENGINEERING,ENGINEERING,INT.,"""Lessons""",1993-01-25,The Next Generation
+168,GEORDI,       Are you sure?,24   INT. ENGINEERING,ENGINEERING,INT.,"""Lessons""",1993-01-25,The Next Generation
+169,GEORDI,       I know I heard something.,24   INT. ENGINEERING,ENGINEERING,INT.,"""Lessons""",1993-01-25,The Next Generation
+170,GEORDI,   It's stopped.,24   INT. ENGINEERING,ENGINEERING,INT.,"""Lessons""",1993-01-25,The Next Generation
+171,NELLA,"   ... I'd heard about Kerelian   tenors all my life, but nothing   could've prepared me for that   man's voice. Soaring...   incredible range.",27   INT. TURBOLIFT,TURBOLIFT,INT.,"""Lessons""",1993-01-25,The Next Generation
+172,PICARD,   I'm told there are nuances only   Kerelians can hear -- we don't   have the ears for it.,27   INT. TURBOLIFT,TURBOLIFT,INT.,"""Lessons""",1993-01-25,The Next Generation
+173,NELLA,   I should be finished with my   survey by eleven hundred hours.,27   INT. TURBOLIFT,TURBOLIFT,INT.,"""Lessons""",1993-01-25,The Next Generation
+174,PICARD,"   Very good, Commander.",27   INT. TURBOLIFT,TURBOLIFT,INT.,"""Lessons""",1993-01-25,The Next Generation
+175,GEORDI,"   Commander, we've finished the warp   field test.",27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+176,RIKER,   You brought it in ahead of   schedule.,27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+177,GEORDI,   No problem. We got modulation   efficiency up point five percent.,27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+178,RIKER,   Good work.       Notify Spectral Analysis they can   have an hour on the main sensor   array.,27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+179,WORF,   Captain...       The Federation Outpost on   Bersallis Three reports that they   are entering a period of fire   storm activity.,27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+180,PICARD,   Is the outpost in any danger?,27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+181,WORF,"   No, sir. The storm is heading for   the northern continent, which is   not populated.",27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+182,GEORDI,   Bersallin fire storms come in   seven year cycles -- this might be   a good chance to study them.,27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+183,RIKER,   We have two days before our   rendezvous with the Havana...,27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+184,RIKER,"       Helm, set course for Bersallis   Three. Warp five.",27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+185,PICARD,"       Counselor, would you join me in my   Ready Room?",27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+186,PICARD,"   You have the Bridge, Number One.",27A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+187,PICARD,"   I wanted to talk to you about a   matter of... protocol.       I know there are no Starfleet   regulations about a Captain   becoming involved with a fellow   officer, but...",28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+188,TROI,   You'd like my opinion about you   and Commander Daren.,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+189,PICARD,   It's that obvious?,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+190,TROI,"   Obvious in way that pleases people   who care about your happiness?   Yes, it is.",28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+191,PICARD,   But I have to be concerned about   more than my own happiness.,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+192,TROI,   And you think that perhaps your   feelings toward Nella could change   the way you function as Captain...,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+193,PICARD,   Yes. Relationships with coworkers   can be fraught with   consequences.,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+194,TROI,   That's true. But cutting yourself   off from your feelings can carry   consequences that are just as   important.,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+195,PICARD,   I've always believed that becoming   involved with someone under my   command could compromise my   objectivity.       And yet...,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+196,TROI,   Captain... are you asking my   permission?,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+197,PICARD,   If I were... would you give it?,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+198,TROI,   Yes.,28   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+199,NELLA,   Come in.,31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+200,PICARD,   Nella...,31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+201,NELLA,"   Can I help you, sir?",31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+202,PICARD,   I'm sorry about what happened this   morning in the Turbolift.       When that crewman walked in I   felt... self-conscious. It might   take me a while to get used to the   idea of the crew seeing us   together.,31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+203,NELLA,   I understand...,31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+204,NELLA,   I'm glad you told me. For a   minute there I thought I'd misread   you...       One kiss and you're off to find   someone else.,31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+205,PICARD,   I promise you... I'm not one for   casual relationships.,31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+206,PICARD,   There's something I want to tell   you...,31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+207,PICARD,       But not here...,31   INT. CARTOGRAPHY LAB,CARTOGRAPHY LAB,INT.,"""Lessons""",1993-01-25,The Next Generation
+208,PICARD,   Do you remember that folk melody   I played for you this morning?,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+209,PICARD,   I learned it on a planet called   Kataan.,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+210,NELLA,   Never heard of it.,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+211,PICARD,   I'm not surprised. Its sun went   nova over a thousand years ago.,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+212,NELLA,   I don't understand.,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+213,PICARD,"   The Enterprise encountered a probe   sent from the planet before it was   destroyed. The probe scanned me --   I lost consciousness, and in the   space of twenty-five minutes... I   lived a lifetime there.",32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+214,PICARD,   I had a wife... children.,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+215,PICARD,   It was all very real to me.,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+216,PICARD,"       When I awoke, all that was left of   my life there... was the flute I'd   taught myself to play.",32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+217,NELLA,       Why are you telling me all this?,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+218,PICARD,   Because I want you to understand   what my music means to me.       And what it means for me to be   able to share it with someone.,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+219,NELLA,   Thank you.,32   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+220,NELLA,   Commander --,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+221,NELLA,       I was hoping to talk to you about   Ensign Cabot's transfer.,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+222,RIKER,   Quantum Mechanics didn't want to   give him up.,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+223,NELLA,   But he wants to come to my   department.,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+224,RIKER,   How do you know that?,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+225,NELLA,   I offered it to him.,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+226,RIKER,   Transfers have to be cleared   through me -- before an offer's   made.,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+227,NELLA,   I'm sorry. We were just talking   and --,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+228,RIKER,   It's okay. But Fontana should   stay where he is.,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+229,NELLA,"       Commander, please... don't make   that decision final.       I realize I shouldn't have made   the offer, but he's perfect for   the job. And quantum mechanics is   over-staffed anyway.",34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+230,RIKER,   Commander... do you realize the   position you're putting me in?,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+231,NELLA,   I think I'm just doing what any   good department head would do --   trying to build the best staff I   can.,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+232,RIKER,   Look... I'll review the situation   and let you know as soon as I can.,34   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+233,PICARD,   Come.,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+234,RIKER,   Can I have a minute?,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+235,PICARD,   Of course. Come in.,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+236,RIKER,"   It's about Lieutenant Commander   Daren...       As a department head, she comes to   me about systems allocation,   personnel transfers -- things like   that.",35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+237,RIKER,"   I have to say, I'm beginning to   feel... uncomfortable dealing with   her requests.",35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+238,PICARD,   Because of her relationship with   me.,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+239,RIKER,   Yes.,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+240,PICARD,   Number One... are her requests   unusual?,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+241,RIKER,"   No, sir.",35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+242,PICARD,   Would you say she's just trying to   do her job?,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+243,RIKER,   Yes.,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+244,PICARD,   Then let her.       And feel free to do yours.,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+245,PICARD,   Ship's resources are your   responsibility. I've always had   complete confidence in your   judgment.,35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+246,RIKER,"   Thank you, sir.",35   INT. READY ROOM,READY ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+247,NELLA,   ... I can't believe I'm going to   get a chance to study the fire   storms on Bersallis. Did you know   they're generated by solar flare   activity? Apparently the   radiation --,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+248,NELLA,   I'm boring you.,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+249,PICARD,   It's not that.,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+250,PICARD,   Commander Riker came to talk to me   this afternoon.       About you.,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+251,NELLA,   About the personnel transfer?,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+252,NELLA,   I thought he felt uncomfortable.       Did he think I was asking for   special treatment?,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+253,NELLA,   I was just doing what I thought   was best for my department.,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+254,PICARD,   That's what I told him. But we   have to be very careful.   Obviously it's easy for people to   misunderstand.,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+255,NELLA,"   I don't like the thought of having   to second-guess people all the   time. If I have to worry about   what people are thinking about me,   I'll be concentrating on the wrong   thing. And I won't be as   effective an officer.",35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+256,PICARD,"   All I'm saying is that it's   something we have to be aware of.   But don't compromise yourself, do   what you have to do.",35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+257,PICARD,"   Because if I find out that the   head of Stellar Sciences isn't   effective anymore, I'll do what I   have to do...       I'll replace her.",35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+258,NELLA,"   Noted, sir.",35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+259,PICARD,   I suggest we forget about this and   enjoy the evening.,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+260,NELLA,   What about that dessert you   promised me?,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+261,PICARD,"   Ah, yes.       A concoction I first sampled on   Thelka Four...",35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+262,WORF,   Bridge to Captain. Bersallis   Three reports that the storm has   changed its speed and heading.   They are predicting it will hit   the outpost within eight hours and   are requesting evacuation.,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+263,PICARD,   On my way.,35A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+264,PICARD,"   Captain's Log, Stardate 46693.1.   We have entered the Bersallis star   system and are making preparations   to evacuate the Federation Outpost   on the third planet.",36   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Lessons""",1993-01-25,The Next Generation
+265,GEORDI,   The fire storms can kick up winds   of over two hundred kilometers per   hour -- and temperatures as high   as three hundred degrees C.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+266,BEVERLY,   Incredible... what causes them?,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+267,NELLA,   They form when solar flare   radiation from the Bersallin sun   reacts with high energy plasma   present in the planet's   atmosphere.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+268,BEVERLY,   Wasn't the outpost built to   withstand the conditions?,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+269,GEORDI,   Yes; the structure is reinforced   and insulated. But this is no   ordinary storm; it's twice as big   as any they've ever had. The   outpost won't withstand it.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+270,RIKER,   We'll be arriving a little over an   hour before the storm hits.       It'll take at least two hours to   transport all the colonists off   the surface.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+271,NELLA,   I led a team of geologists to   study the plasma geyser on Taurus   Four -- we cross-connected a few   thermal deflector units to create   a protective shield against the   heat.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+272,GEORDI,   A fire wall...,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+273,NELLA,   Could something like that work   here?,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+274,GEORDI,   It might.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+275,GEORDI,"   The storm is approaching the   outpost from this direction.       If we set up a series of thermal   deflector units along the northern   perimeter, we could create a fire   wall to deflect some of the heat --   the outpost's insulation could   probably handle the rest.",37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+276,DATA,   Thermal deflectors generate a   field approximately four hundred   meters wide. We would need to   cross-connect six units and align   them so their fields overlap.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+277,RIKER,   How many people would it take to   set it up?,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+278,GEORDI,"   Twelve, two per team. Cross-connecting   that many units will be   tricky; once they're set up we'll   have to leave them in place and   transport our people out -- no one   could survive very long outside   the outpost.",37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+279,PICARD,   Let's do it.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+280,RIKER,   The storm's going to interfere   with communications --   everything'll have to be   coordinated from the surface.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+281,RIKER,"       Mister Data, you'll coordinate the   evacuation of the colonists.       Doctor, they have nine patients in   the outpost infirmary. Your   priority will be getting them to   Sickbay -- after that you'll stay   aboard the Enterprise and be ready   to receive casualties.       Marquez, you'll take some people   down to track the storm -- you'll   need to keep all teams apprised of   its heading.       Commander, you'll coordinate the   deployment of the deflectors.",37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+282,RIKER,   Let's go.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+283,PICARD,   Commander Daren... ?,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+284,PICARD,       About these thermal deflectors...,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+285,PICARD,       It seems to me that any one of a   number of people could coordinate   their deployment.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+286,NELLA,   I assume Commander Riker chose me   because I'm the best person for   the job.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+287,NELLA,   Didn't we agree not to let our   relationship get in the way of our   work?,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+288,NELLA,   I'll be all right.,37   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+289,RIKER,   Lieutenant Marquez is already set   up on the surface. Apparently the   storm is still gaining speed --   he's estimating it'll hit the   colony in less than fifty minutes.,39   INT. CORRIDOR,CORRIDOR,INT.,"""Lessons""",1993-01-25,The Next Generation
+290,PICARD,   Energize.,40   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+291,PICARD,   How long before the storm reaches   the outpost?,42   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+292,WORF,   Seventeen minutes.,42   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+293,GEORDI,   La Forge to Bridge.,42   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+294,PICARD,   Go ahead.,42   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+295,GEORDI,"   The ionization from the storm is   interfering with the transporters.   I'm compensating, but it's slowing   things down.",43   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+296,PICARD,"   Keep at it, Mister La Forge.",43   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+297,RIKER,   Riker to Daren.,45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+298,NELLA,"       Daren, here. Go ahead, Commander.",45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+299,RIKER,   You've got less than nine minutes   before the storm reaches the   northern perimeter.,45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+300,NELLA,"   I'm with team six right now, sir.   We're about to bring the   deflectors on-line.",45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+301,RIKER,   Whenever you're ready.,45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+302,NELLA,       Daren to perimeter teams. Stand   by to cross-connect deflectors...,45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+303,NELLA,   Activate.,45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+304,NELLA,"   Team three, increase your output   by point two percent.       Good...       Deng, decrease nutation by point   four percent.",45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+305,NELLA,       Good... we've almost got it.,45   EXT. PLANET'S SURFACE - NIGHT (OPTICAL),PLANET'S SURFACE - NIGHT,EXT.,"""Lessons""",1993-01-25,The Next Generation
+306,BEVERLY,   Crusher to Bridge.,46   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+307,PICARD,"   Go ahead, Doctor.",46   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+308,BEVERLY,   I've just brought aboard the last   of the infirmary patients and   they're on their way to Sickbay.   But we still have over a hundred   colonists down there.,47   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Lessons""",1993-01-25,The Next Generation
+309,PICARD,"   Understood, Doctor.",48   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+310,NELLA,   Daren to Commander Riker.,48   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+311,RIKER,"   Riker, here. Go ahead.",48   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+312,NELLA,   We've got a problem --,48   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+313,NELLA,   ... we're having trouble keeping   the deflectors cross-connected.   The only way this is going to work   is if we calibrate them manually.,49   EXT. PLANET'S SURFACE - NIGHT,PLANET'S SURFACE,EXT.,"""Lessons""",1993-01-25,The Next Generation
+314,RIKER,"   If you stay with the deflectors,   will they protect you when the   storm hits?",49   EXT. PLANET'S SURFACE - NIGHT,PLANET'S SURFACE,EXT.,"""Lessons""",1993-01-25,The Next Generation
+315,NELLA,"   I don't know, sir. For a few   minutes... maybe.",50   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+316,PICARD,"   Number One, how many colonists are   left to transport?",50   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+317,RIKER,"   Seventy three, sir.",50   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+318,PICARD,   How long do you need?,50   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+319,RIKER,   At least ten more minutes.,50   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+320,WORF,"   Captain, the storm will reach the   northern perimeter in four   minutes.",50   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+321,PICARD,   Picard to perimeter teams.,50   INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+322,PICARD,   ... It is imperative that you hold   your positions until we finish the   evacuation of the colony. Picard   out.,51   EXT. THE PLANET'S SURFACE,THE PLANET'S SURFACE,EXT.,"""Lessons""",1993-01-25,The Next Generation
+323,PICARD,   Picard to La Forge.,51A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+324,GEORDI,   La Forge here.,51A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+325,PICARD,   Keep a signal lock on all   perimeter team members.,51A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+326,GEORDI,"   Captain, the storm's interference   won't --",51A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+327,PICARD,   As soon as the last of the   colonists are evacuated I want   those perimeter teams out of   there. Is that understood?,51A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+328,GEORDI,"   Yes, sir.",51A  INT. BRIDGE,BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+329,NELLA,"       Daren to perimeter teams... the   storm's interference is going to   make our job harder than we   thought. We may lose   communication, so it's up to each   of you to keep your units   operational.       A lot of people are depending on   us. Daren, out.",51B  EXT. PLANET'S SURFACE - NIGHT,PLANET'S SURFACE,EXT.,"""Lessons""",1993-01-25,The Next Generation
+330,NELLA,"       Oh, my god.",51B  EXT. PLANET'S SURFACE - NIGHT,PLANET'S SURFACE,EXT.,"""Lessons""",1993-01-25,The Next Generation
+331,WORF,   The storm has reached the   perimeter.,54   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""Lessons""",1993-01-25,The Next Generation
+332,RIKER,"   I got out with the last of the   colonists. If it hadn't been for   the perimeter teams, we wouldn't   have made it.",57   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+333,RIKER,   We managed to get four of the   teams off the surface.       The interference kept us from   getting the other two... I don't   see how they could have survived.,57   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+334,PICARD,   Which teams are missing?,57   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+335,RIKER,   Three and six.,57   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+336,RIKER,"   The last I knew, Commander Daren   was with team six.",57   INT. SICKBAY,SICKBAY,INT.,"""Lessons""",1993-01-25,The Next Generation
+337,WORF,   Bridge to Captain.,58   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+338,PICARD,"   Go ahead, Mister Worf.",58   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+339,WORF,"   We've found survivors, sir..   They're beaming up now.",58   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+340,PICARD,   On my way.,58   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+341,PICARD ,"   Captain's Log, Stardate 46697.2.   Although we succeeded in rescuing   all six hundred forty-three   Bersallin colonists... we lost   eight crewmembers. Let the record   show that they gave their lives in   the performance of their duty.   Commendations will follow.",60   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Lessons""",1993-01-25,The Next Generation
+342,NELLA,"   ... when communications went out,   I knew we had to fend for   ourselves.     ",61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+343,NELLA ,   We modified our phasers to create   resonant disruptions in the   deflector field... the disruptions   formed small pockets inside the   plane of the field... and we each   stood inside one to wait out the   storm.       Richardson didn't make it... all   Deng and I could do was stand   there... and watch.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+344,PICARD,   Nella... you know I had to give   that order --,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+345,NELLA,   Don't... don't say you're sorry.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+346,PICARD,   It couldn't have been easy for   you... hearing me order you to   face death.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+347,NELLA,"   At first, when I heard you tell us   to hold our positions, I didn't   question it. Of course we   would... that was our job.       But when I saw that storm coming   toward us...",61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+348,PICARD,   Part of you must have... blamed   me.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+349,NELLA,"   A small part, maybe... But in the   end, I was more afraid that you   would blame yourself if I died.",61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+350,NELLA,   Would you have?,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+351,PICARD,   I've lost people under my   command... people I cared about   deeply... but never someone I've   been in love with.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+352,PICARD,"   When I thought you were dead, I   went into some kind of shutdown...   I didn't want to think, I didn't   want to feel. I was here, in my   quarters, and... the only thing I   could focus on was music... and   how it would never give me joy   again.",61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+353,NELLA,   Well... where do we go from here?,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+354,PICARD,   We could continue... hoping we   wouldn't face a situation like   that again... knowing that we   might... hoping the pressures on   us wouldn't begin to erode our   feelings for each other...       That's not what I want for us.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+355,NELLA,   I know. Neither do I.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+356,PICARD,       I don't think we can serve on the   same ship.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+357,NELLA,   It would be difficult... for both   of us.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+358,NELLA,   I'll put in for a transfer.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+359,PICARD,   We can arrange shore leave   together.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+360,NELLA,"   Yes, of course.",61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+361,NELLA,   Promise me something?,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation
+362,NELLA,       Don't give up your music.,61   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""Lessons""",1993-01-25,The Next Generation

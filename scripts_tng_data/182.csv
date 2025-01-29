@@ -1,0 +1,433 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's Log, Stardate 44286.5.   The Enterprise is conducting a   security survey of the Onias   Sector near the Neutral Zone.   Despite being close to Romulan   territory, our mission has been   quiet and uneventful.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Future Imperfect""",1990-09-13,The Next Generation
+1,GEORDI,"   Alright, Commander... you've got   until your next birthday to get   that right.",2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+2,TROI,   Many things improve with age...   maybe your trombone playing will   be one of them.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+3,BEVERLY,"   It's candle time, birthday boy.",2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+4,TROI,"   What did you wish for, Will?",2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+5,RIKER,   Music lessons.,2    INT. TEN FORWARD,TEN FORWARD,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+6,PICARD,"   Mister Data, we'd better hurry or   we'll miss Commander Riker's   party.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+7,DATA,"   Yes, sir.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+8,DATA,   I find it interesting how humans   place so much importance on   celebrating the day of their   birth... a day one cannot possibly   remember...,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+9,SUPERNUMERARY,   Captain... I am detecting some   unusual fluctuations in subspace   frequencies.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+10,PICARD,"   We had better take a look, Mister   Data.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+11,DATA,   It appears we are being probed.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+12,PICARD,   Source?,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+13,DATA,   The third planet of the Alpha   Onias system. Our reports list   it as presently uninhabited.   Perhaps the reports were   incorrect.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+14,PICARD,   Or perhaps the rumors of a secret   Romulan base in this sector are   true.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+15,PICARD,       Picard to Commander Riker.,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+16,PICARD,"       I apologize for interrupting your   celebration, but I need an Away   Team.",4    INT. TEN FORWARD,TEN FORWARD,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+17,DATA,"   Although Alpha Onias Three is a   Class M planet, our survey teams   have listed it as barren and   inhospitable.",5A   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+18,RIKER,   Any life signs?,5A   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+19,DATA,"   No, sir... but we have traced some   residual energy readings... to   a cavern two kilometers beneath   the surface.",5A   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+20,WORF,   Romulans?,5A   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+21,DATA,   It is possible. But I cannot be   certain.,5A   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+22,PICARD,   I suppose you'll just have to go   down there and find out.,5A   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+23,RIKER,"   Worf, Geordi... you're with me.",5A   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+24,PICARD,       Number One... Happy Birthday.,5A   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+25,GEORDI,"   I'm detecting high levels of   volcanic gases... sulphur dioxide,   methane, hydrogen sulphide...",6    INT. CAVERN - ONIAS THREE (MATTE/OPTICAL),CAVERN - ONIAS THREE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+26,RIKER,   Toxic?,6    INT. CAVERN - ONIAS THREE (MATTE/OPTICAL),CAVERN - ONIAS THREE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+27,GEORDI,   We're okay for now... But I   wouldn't want to spend my vacation   here.,6    INT. CAVERN - ONIAS THREE (MATTE/OPTICAL),CAVERN - ONIAS THREE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+28,RIKER,   What about energy readings?,6    INT. CAVERN - ONIAS THREE (MATTE/OPTICAL),CAVERN - ONIAS THREE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+29,WORF,   Magnetic clutter is increasing.   I cannot make an accurate   determination.,6    INT. CAVERN - ONIAS THREE (MATTE/OPTICAL),CAVERN - ONIAS THREE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+30,GEORDI,   Same here. I'm getting some very   confused readings...,6    INT. CAVERN - ONIAS THREE (MATTE/OPTICAL),CAVERN - ONIAS THREE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+31,PICARD,"    (breaking up, through     static)   Bridge to Riker. Report. Please   acknowledge.",6    INT. CAVERN - ONIAS THREE (MATTE/OPTICAL),CAVERN - ONIAS THREE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+32,RIKER,       This is Riker.,6    INT. CAVERN - ONIAS THREE (MATTE/OPTICAL),CAVERN - ONIAS THREE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+33,RIKER,"    (breaking up, through     static)   We're having trouble reading you.",8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+34,PICARD,"   And we are having similar   difficulties reading you, Number   One. I am advising you...",8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+35,PICARD,   ... and your team to transport   up... At once...,9    INT. CAVERN,CAVERN,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+36,GEORDI,"   Good advice, Commander. We've   got a sudden build-up of gases   here... especially methane.",9    INT. CAVERN,CAVERN,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+37,RIKER,"   Transporter Room, take us up.",9    INT. CAVERN,CAVERN,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+38,HUBBLE,"   I can't get a solid lock on you,   sir. Too much interference.",10   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+39,PICARD,   Transporter Room... What's   happening? Report!,13   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+40,HUBBLE,"   I'm trying again, sir.",14   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+41,N.D. NURSE,   Doctor Crusher... He's awake.,16   INT. RIKER'S SICKBAY ROOM,RIKER'S SICKBAY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+42,RIKER,   Beverly?,16   INT. RIKER'S SICKBAY ROOM,RIKER'S SICKBAY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+43,BEVERLY,"       You remember me... that's good.   What else can you remember,   Captain?",16   INT. RIKER'S SICKBAY ROOM,RIKER'S SICKBAY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+44,RIKER,       Captain?,16   INT. RIKER'S SICKBAY ROOM,RIKER'S SICKBAY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+45,BEVERLY,       Water. Three Celsius.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+46,BEVERLY,   How do you feel?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+47,RIKER,   Confused.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+48,BEVERLY,       Understandable... considering   what's happened.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+49,RIKER,   What has happened... to this   Sickbay... to you... to me?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+50,BEVERLY,"   Sit down, Captain.",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+51,RIKER,"   I am not ""Captain."" I'm   Commander... Commander Will   Riker. What's going on here?",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+52,BEVERLY,   Sit... Please.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+53,BEVERLY,   What is the last thing you   remember clearly?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+54,RIKER,"   Alpha Onias Three. The Enterprise   had been probed... Geordi, Worf,   and I transported down to track   the source.",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+55,BEVERLY,   But all you found was toxic gas.   They barely got the three of you   out in time.       Will... that happened sixteen   years ago.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+56,RIKER,   That's not possible!,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+57,BEVERLY,"   With an Altarian virus, anything   is possible. In fact, we expected   this.",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+58,RIKER,   Could you be more specific?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+59,BEVERLY,"   That day on Onias Three you were   infected with a strain of Altarian   encephalitis. A retrovirus that   incorporates its DNA directly into   the cells of its host. It can   lie dormant for years, then   suddenly become active, as it did   in your case ten days ago.       You've been in a coma,   delirious... Your fever finally   broke this morning...",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+60,RIKER,   But what happened to my memory?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+61,BEVERLY,"   This is a scan of your brain   tissue. When the encephalitis   became active... it caused   widespread synapse degradation,   interrupting the consolidation   of memory...",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+62,RIKER,       Doctor.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+63,BEVERLY,"   Will... this virus invariably   destroys all memory back to the   moment of the original infection.   In your case, all the way back   to Alpha Onias Three.",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+64,RIKER,   I can't believe this... it's a   dream... or...,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+65,BEVERLY,   Feel my hand... flesh and bone.   This is not a dream... and you   are Captain William T. Riker...   in command of the Enterprise.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+66,RIKER,       The Enterprise... for how long?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+67,BEVERLY,   Nine years.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+68,RIKER,   If I've lost my memory... how do   I find it again?,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+69,BEVERLY,"   Memory is formed out of   association. Smells, sounds, and   images in the present could   possibly trigger them.",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+70,RIKER,       Like the way a song can remind   you of... old friends...,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+71,BEVERLY,"   Exactly. In associational   therapy, we expose the patient   to familiar surroundings. This   could stimulate the brain's neural   synapses into regenerating.",17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+72,RIKER,   Then let's get started. There's   nothing more familiar to me than   the Enterprise. If anything's   going to bring back...,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+73,BEVERLY,   Will... I said your memory could   return. In many of these cases...   the damage is permanent.,17   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+74,RIKER,"   What about Geordi and Worf? Were   they infected, too?",18   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+75,BEVERLY,"   Thankfully, no. Geordi appears   to have been immune and the virus   has no effect on Klingons.",18   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+76,RIKER,   Speaking of Klingons...,18   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+77,BEVERLY,   There have been a lot of changes   on the Enterprise in the last   sixteen years.,18   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+78,BEVERLY,   Which is why we should begin the   associational therapy in your   quarters. Personal recollections   are always the most vivid.       Deck Eight.,19   INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+79,RIKER,   Belay that.,19   INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+80,RIKER,"   My life is on the Bridge, always   has been. If anything's going   to jog my memory...       Main Bridge.",19   INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+81,COMPUTER,   Repeat command.,19   INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+82,RIKER,"   I said, Main Bridge.",19   INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+83,BEVERLY,   The computer has been slow all   morning. A processing   accelerator is down.     ,19   INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+84,BEVERLY ,   Commander La Forge is running a   Level-1 diagnostic to isolate   the problem.,19   INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+85,RIKER,   Geordi...,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+86,GEORDI,"   Good to see you up and about   again, sir.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+87,RIKER,   Geordi... your eyes... what   happened to your VISOR... ?,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+88,GEORDI,"   My VISOR? I...       Sorry, sir. Doctor Crusher warned   us... you might not remember.       I don't need my VISOR, Captain...   not since I got these cloned   implants...",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+89,WORF,       Captain.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+90,DATA,"   Welcome back, Captain. We did   not expect to see you on the   Bridge so soon.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+91,RIKER,   Commander Data... You are my First   Officer?,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+92,DATA,"   You remember, sir?",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+93,RIKER,"       No, Data. Not a single day of   the last sixteen years.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+94,WORF,   Warbird Uncloaking.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+95,DATA,   On screen.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+96,RIKER,   Shields up. Go to Red Alert.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+97,DATA,   Captain... we have been expecting   the Decius. There is no need for   alarm.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+98,RIKER,"   Cancel Red Alert.       Clearly, I need to be... briefed.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+99,WORF,"   The Decius is hailing us, Captain.   The Admiral wishes to speak to   you.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+100,RIKER,   On screen.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+101,PICARD,   Will!,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+102,RIKER,    (what's one more     surprise?)   Admiral... Picard. Deanna.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+103,TROI,   How are you feeling?,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+104,RIKER,   I've felt better.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+105,PICARD,   Not surprising. Altarian Viruses   can be a nasty business.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+106,RIKER,   That's... an understatement...   I can't even...,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+107,PICARD,       We can discuss this... after we   transport over. Picard out.,20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+108,RIKER,   Transporter Room Six.,23A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+109,BEVERLY,   How are you holding up?,23A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+110,RIKER,       I could get used to the idea of   a Ferengi Ensign... but Admiral   Picard... on a Romulan Warbird?   What is that all about?,23A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+111,BEVERLY,   I think I should leave the   explanations to the Admiral.,23A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+112,RIKER,"   Whenever you're ready, Chief.",23B  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+113,PICARD,   Captain Riker... it's good to see   you have recovered.,23B  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+114,RIKER,"       I'm not exactly sure you can call   it a recovery, sir.",23B  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+115,TROI,   Then there was... a memory loss.,23B  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+116,PICARD,   How much?,23B  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+117,BEVERLY,       Everything... since Alpha Onias   Three.,23B  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+118,PICARD,   To lose sixteen years...,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+119,PICARD,       ... that is almost beyond belief.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+120,RIKER,"       I'm having trouble believing it   myself, Admiral.",24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+121,TROI,       It must be overwhelming to have   so much of your life...   missing...,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+122,PICARD,"   And it couldn't have happened at   a worse time. A few more days   of relatively simple negotiations,   and the treaty will be signed.",24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+123,RIKER,   What negotiations? What treaty?,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+124,PICARD,"   Sorry. I'll start at the   beginning, which was four years   ago. A Romulan battle cruiser   strayed into Federation space.   Its warp coils had collapsed, and   its life support was failing.",24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+125,TROI,"   You saved them, Will. You and   the Enterprise.",24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+126,PICARD,"   This impressed the Romulans, to   say the least. After years of   distrust and conflict, they   started to talk. You have been   our key spokesman...",24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+127,PICARD,   ... in securing an alliance with   the Romulans.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+128,RIKER,   How far have these negotiations   progressed?,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+129,PICARD,   The preliminaries are over. All   we need do now is escort the   Romulan Ambassador to the final   session.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+130,TROI,   Where you will help complete the   negotiations and sign the treaty.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+131,RIKER,"   Captain, excuse me, sir, I mean   Admiral... I am in no condition   to negotiate with the Romulans   or anyone else.",24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+132,PICARD,"   Will... you are of sound mind and   body. If you were properly   briefed, you could still fulfill   your duties.",24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+133,RIKER,   With a sixteen year gap in my   head?,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+134,PICARD,   I know this has all been... a   terrible shock... but we do need   you.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+135,RIKER,"       Sir, I'm not sure I'm... fit to   resume command...",24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+136,PICARD,       I appreciate your candor and your   concern. But despite your...   affliction... there is still no   one better equipped to deal with   these Romulans than you.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+137,RIKER,   When do we leave?,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+138,PICARD,       As soon as the Ambassador   transports over from the Decius.   I'll make the arrangements.       We will get through this. As we   have many times before.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+139,RIKER,   I hope so.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+140,TROI,   Let me take you to your quarters.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+141,RIKER,   Good idea... I've had enough   surprises for one day.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+142,JEAN-LUC,"   Hi, Dad.",26   INT. JEAN-LUC'S ROOM,JEA,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+143,JEAN-LUC,"   ... and then Mister Greenburg asked   me about the Fornax Disaster, and   I knew the Enterprise had saved   all the colonists. But I didn't   know...       Here it is!",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+144,JEAN-LUC,"       ... But I didn't know the exact   Stardate their sun went nova.   If you tell me, I'll write it   down. That way I won't forget.",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+145,JEAN-LUC,   You don't remember me... do you?,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+146,RIKER,       I'm... sorry.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+147,TROI,"   I need to talk to your father,   Jean-Luc. Could you leave us   alone... for just a moment?",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+148,RIKER,   Why didn't you warn me?,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+149,TROI,   Beverly hoped that meeting   Jean-Luc like this might have   an impact... help you remember.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+150,RIKER,   It had an impact alright...    ,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+151,TROI,   Give it time.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+152,RIKER,       Jean-Luc.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+153,TROI,       The Admiral was very pleased when   you chose that name. He is a   wonderful boy.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+154,RIKER,       Deanna... where's his mother?,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+155,TROI,"   She died two years ago... a   shuttle accident. I'm sorry,   Will.",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+156,RIKER,   I have absolutely no recollection   of her... what was she like?,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+157,TROI,"   'Min' was very beautiful, of   course. And strong, intelligent,   patient...",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+158,RIKER,"   She had to be patient, if she was   married to me.",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+159,TROI,"   She was an excellent Captain's   wife, and a very good ship's   counselor.       She took over after I left.",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+160,RIKER,   I can't imagine you leaving the   Enterprise.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+161,TROI,   Admiral Picard offered me a   position at Starfleet Command.   It was a tremendous opportunity...   I couldn't refuse.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+162,TROI,"   Will... What's important is that   today, right now, you have a son   who needs you. Spend time with   him... you may find part of what   you've lost.",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+163,JEAN-LUC,"   Pretty bad, huh?",28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+164,RIKER,   I've heard better.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+165,JEAN-LUC,   I've been practicing... but I   still can't get a good tone.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+166,RIKER,   You're putting too much pressure   on the mouthpiece. Relax. Just   use the muscles you need.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+167,JEAN-LUC,       Show me again.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+168,RIKER,   Okay. Left hand like this. Right   hand... like this.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+169,RIKER,   After sixteen years... you'd   think I could get that right...,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+170,JEAN-LUC,"   Come on, Dad... you always make   that mistake.",28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+171,RIKER,"   Computer. Summarize service   record. Riker, William T.,   Captain. Beginning with... the   Fornax Disaster.",29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+172,COMPUTER,   Please restate question.,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+173,RIKER,"   Service record. Riker, William   T.",29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+174,RIKER,   Damn it.,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+175,JEAN-LUC,       Dad... ?,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+176,RIKER,   That computer time lag. I can't   believe Geordi's still running   his diagnostic...,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+177,JEAN-LUC,   Is that what you wanted?,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+178,PICARD,   Picard to Captain Riker. The   Romulan Ambassador is ready to   transport over from the Decius.,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+179,RIKER,"   On my way.       I've got to go, Jean-Luc.",29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+180,JEAN-LUC,   Sure.       Dad...,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+181,JEAN-LUC,   Everything's going to be fine.,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+182,PICARD,       Troi tells me you met Jean-Luc.   How is my namesake holding up to   all this?,29B  INT. CORRIDOR TO TRANSPORTER ROOM,CORRIDOR TO TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+183,RIKER,   Better than I am.,29B  INT. CORRIDOR TO TRANSPORTER ROOM,CORRIDOR TO TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+184,TROI,   We did our best to prepare him.,29B  INT. CORRIDOR TO TRANSPORTER ROOM,CORRIDOR TO TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+185,RIKER,       I'm trying to catch up with all   this. I've still got a long way   to go. A long way.,29B  INT. CORRIDOR TO TRANSPORTER ROOM,CORRIDOR TO TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+186,PICARD,   Just follow my lead with the   Ambassador. You'll do fine.,29B  INT. CORRIDOR TO TRANSPORTER ROOM,CORRIDOR TO TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+187,N.D. TRANSPORTER CHIEF,   The Decius reports the Ambassador   is waiting to transport.,30   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+188,RIKER,"   Beam him aboard, chief.",30   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+189,N.D. TRANSPORTER CHIEF,       Enterprise to Decius... stand by   for transport.,30   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+190,TOMALAK,"   Admiral Picard, Captain Riker...   it's good to see you again.",30   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+191,PICARD,   Ambassador Tomalak... Welcome   aboard the Enterprise.,30   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+192,TOMALAK,"   Thank you, Admiral. It is an   honor to be the first Romulan to   freely walk about a Federation   Starship.",30   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+193,RIKER,"       Ambassador... Tomalak? At Nelvana   Three, he threatened to take the   hull of the Enterprise home as   a war trophy!",30   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+194,TROI,   That was a long time ago. Many   things have changed. Including   Tomalak.,30   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+195,TOMALAK,"   As soon as we arrive at your   Outpost Twenty-Three, the final   negotiations should go quickly.",32   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+196,PICARD,"   I agree, Ambassador. All of the   difficult issues have been   resolved.",32   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+197,TOMALAK,       After much debate. Your Captain   Riker is the kind of negotiator   even the Ferengi should avoid.,32   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+198,PICARD,   But we have come to an agreement   both sides can live with. Thanks   largely to Captain Riker.,32   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+199,TOMALAK,"   And we are grateful, Captain.   The new alliance will greatly   benefit my people.",32   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+200,RIKER,   As I hope it will benefit mine.,32   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+201,TOMALAK,"       It will, Captain. It will.",32   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+202,RIKER,   Main Bridge.,32A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+203,TOMALAK,"   The virus you contracted, Captain.   You have fully recovered?",32A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+204,PICARD,       I assure you Captain Riker is   quite well. He's looking forward   to attending the final   negotiations... as planned.,32A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+205,TOMALAK,"   Excellent.       The signing of this treaty will   be an historic occasion. You,   of all people, deserve to be   there.",32A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+206,RIKER,   Thank you... Ambassador.,32A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+207,TOMALAK,   So... this is the Bridge of the   Enterprise.,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+208,TOMALAK,"   And this, I assume, is your   Tactical position. Impressive.",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+209,RIKER,"   Admiral, Deanna... I need a moment   with you...       ... Commander Data, if you will,   please accompany the Ambassador   on his... tour.",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+210,DATA,"   Certainly, sir.",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+211,RIKER,"       Excuse us, Ambassador.",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+212,DATA,"   You may find this of interest,   Ambassador...     ",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+213,DATA ,    (points at tactical     board)   ... These newly refined sensors   are capable of pinpointing the   power emissions of...,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+214,RIKER,   Are you telling me you trust   Tomalak?,34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+215,PICARD,   I trust the process we have built   with the Romulans over the past   four years. They have nothing   to gain by betrayal.,34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+216,RIKER,"   Are you sure? You yourself have   said it's always like a chess game   with the Romulans. Move and   counter-move, guile and deceit   --",34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+217,TROI,       I sense no such dishonesty in   Tomalak. He is sincere in his   desire for peace. He wants this   alliance. There is no cause for   concern.,34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+218,RIKER,"   No cause for concern? We're   talking about revealing the   location of Outpost Twenty-Three,   the key to all our Neutral Zone   defenses.",34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+219,PICARD,"   Pardon my bluntness, Captain, but   your information is out of date.   The strategic importance of   Outpost Twenty-Three is minimal.   And has been for years.",34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+220,BEVERLY,"   Doctor Crusher to Riker. Are   you there, Captain?",34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+221,RIKER,"       What is it, Doctor?",34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+222,BEVERLY,   Your son has been injured. He's   been taken to Sickbay. You   better come down here right away.,34   INT. READY ROOM,READY ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+223,JEAN-LUC,   Dad!,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+224,RIKER,   Are you alright?,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+225,JEAN-LUC,   I'm fine.,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+226,RIKER,       What happened?,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+227,BEVERLY,   It's broken... But we'll have   it all taken care of in a minute.,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+228,BEVERLY,   Now just take it easy on that arm   for a while.,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+229,RIKER,       How did you do this?,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+230,JEAN-LUC,       I was in the gym... playing   Parrises Squares... I fell off   the ramp...,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+231,RIKER,       Parrises Squares... at your   age... ? You could have broken   your neck!,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+232,JEAN-LUC,       I'm sorry... I didn't mean to...,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+233,BEVERLY,   Continue the compression   attenuator for two more minutes.,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+234,N.D. NURSE,"   Yes, Doctor.",35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+235,BEVERLY,       Can I talk to you for a moment?,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+236,RIKER,       I'll be right back.,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+237,BEVERLY,   Will... how old were you when you   started playing Parrises Squares?,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+238,RIKER,       Alright... I was probably younger   than he is...,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+239,RIKER,"   It's just that... For all   practical purposes, this is my   first day as a father... my son   almost kills himself...",35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+240,BEVERLY,   He didn't almost kill himself...   he just broke a wrist... like a   lot of other boys who fall down.,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+241,RIKER,    (acknowledges his     over-reaction)   You're right... But it's...   difficult.,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+242,BEVERLY,"   Difficult for you? What about   Jean-Luc? Can you imagine how   he must feel?       You've lost sixteen years, but   Jean-Luc has lost a lot more...   his mother... and now his father.",35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+243,NURSE,"   Good as new, Captain. You can   take him home.",35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+244,RIKER,   Thanks.,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+245,RIKER,   How's the arm?,35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+246,JEAN-LUC,"   It's fine.       Dad, I'm really sorry... I know   you've got more important   things...",35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+247,RIKER,"   Nothing as important as this, son.",35   INT. SICKBAY,SICKBAY,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+248,JEAN-LUC,   Deck Eight.,35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+249,RIKER,   Halt.,35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+250,RIKER,   I know this must be... very hard   for you.,35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+251,JEAN-LUC,"   It's okay, Dad.",35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+252,RIKER,       Okay's not good enough.,35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+253,RIKER,   When I was your age... my own   father... he wasn't there for   me. And I needed him. I   really... needed him.       I always wondered what kind of   father I'd be. I never felt quite   ready. Maybe the idea even scared   me a little.,35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+254,JEAN-LUC,   Scared... you?,35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+255,RIKER,"   Yeah.       But I must have gotten over it,   huh? You're here.",35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+256,RIKER,       Resume.,35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+257,RIKER,"   It's just important to me... that   I don't... let you down, Jean-Luc.",35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+258,JEAN-LUC,"   You never have, Dad... you've   always been there for me.",35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+259,RIKER,"   I'll have to take your word for   that... because I don't remember   any of it... Not your first   tooth, your first step...   nothing... And I want to   remember.",35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+260,RIKER,   Guess there's only one thing to   do. We've got to make some new   memories...,35A  INT. TURBOLIFT,TURBOLIFT,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+261,RIKER,"   I don't know if it's still in the   memory banks, but I used to have   this great fishing program on the   Holodeck...",36   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+262,JEAN-LUC,   The Curtis Creek program?,36   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+263,RIKER,   You know it?,36   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+264,JEAN-LUC,   Sure. We've gone to Curtis Creek   lots of times.,36   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+265,RIKER,   Want to go again?,36   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+266,JEAN-LUC,   You bet!,36   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+267,RIKER,"   Then as soon as the negotiations   are out of the way, we're going   fishing.",36   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+268,JEAN-LUC,   Great!,36   INT. CORRIDOR,CORRIDOR,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+269,JEAN-LUC,"       ... Then Mom tried to net the fish,   and she fell in the creek, too.   And then you tried to pull us both   out, and you fell in!",37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+270,RIKER,   I'm almost glad I can't remember   that!,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+271,JEAN-LUC,   Mom really liked Curtis Creek.   We went there for picnics and   stuff lots of times.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+272,RIKER,       What was she like... your Mom.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+273,JEAN-LUC,       She was great... I think about   her a lot...,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+274,JEAN-LUC,   I better go change.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+275,RIKER,   Computer. Display family record.   Riker. William T. Limit to   visuals.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+276,RIKER,"   Computer. Display family record.   Riker, Mrs. William T.",37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+277,COMPUTER,   Please restate request.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+278,JEAN-LUC,"   What's wrong, Dad?",37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+279,RIKER,   The computer's still not acting   right. I'm having trouble finding   a visual record of your mother.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+280,JEAN-LUC,   But I know Mom's pictures are   there. Did you give a Stardate?,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+281,JEAN-LUC,"    (to desk console,     patiently)   Computer. Display family record.   Riker, Mrs. William T. Home file.   Stardate 58416.",37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+282,RIKER,       'Min... Minuet?',37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+283,JEAN-LUC,"   Mom was beautiful, wasn't she?",37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+284,RIKER,       Yes...,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+285,JEAN-LUC,   Dad... what's wrong?,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+286,GEORDI,   La Forge to Riker.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+287,RIKER,       Riker here.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+288,GEORDI,   Captain... please come to the   Bridge.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+289,RIKER,   On my way.,37   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+290,RIKER,   What's the problem?,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+291,GEORDI,"   I've had to shut down the warp   engines, Captain.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+292,RIKER,   Why?,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+293,GEORDI,"   The antimatter containment fields   were fluctuating. Nothing to   worry about, though.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+294,RIKER,"       We're on the edge of the Neutral   Zone on impulse power, and you're   not concerned?",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+295,GEORDI,"   I'll have the engines back on   line in no time, sir.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+296,RIKER,       As fast as you tracked down that   faulty processing accelerator?,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+297,GEORDI,       I'm running a Level One   diagnostic...,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+298,RIKER,"   ... for thirty hours... ? It's   never taken you more than four.   You're not capable of that kind of   incompetence, La Forge.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+299,GEORDI,"   But, sir...",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+300,RIKER,   Where did you get that scar?,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+301,WORF,"       In combat, sir.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+302,RIKER,"   What battle? When? Which unit,   which sector?",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+303,RIKER,"   If we left immediately, when would   we arrive at Outpost Twenty Three?",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+304,DATA,"   At Warp One, in three days, four   hours...",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+305,RIKER,"   How about at Warp Seven?       At Warp Eight? At Warp Nine?   What's wrong, Data? What happened   to all those millions of   calculations per second?",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+306,DATA,"   Pardon me, sir... but I am   receiving subspace interference   which limits my abilities. I   can't operate as quickly as...",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+307,RIKER,"   What did you say, Commander?",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+308,DATA,   I said I cannot operate --,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+309,RIKER,"   No. That's not what you said.   You said ""I can't."" You used a   contraction. Didn't you?",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+310,DATA,"   Sir, I can explain --",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+311,RIKER,   -- No you can't. Don't even try.,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+312,PICARD,"   Captain Riker, this is no way to   act in front of Ambassador...",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+313,RIKER,   Shut up!,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+314,PICARD,   What did you say?,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+315,RIKER,"       Shut up, as in close your mouth,   and stop talking.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+316,TROI,"   Will... I can sense how upset you   are. You're angry, impatient   --",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+317,RIKER,"   Back off, Deanna.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+318,RIKER,   Well... anyone else want to speak   up. Or can we end this...   charade?,41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+319,TOMALAK,"   As you wish, Commander Riker.   The charade is over.",41   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+320,RIKER,       The Enterprise... my son... you   created it all.,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+321,TOMALAK,   With the help of our neural   scanners... and what you would   call a Holodeck.,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+322,TOMALAK,   Now please tell me... how did you   discover the truth? The future we   constructed for you should have   been... convincing.,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+323,RIKER,"   It wasn't. There was the computer   time lag, for one thing.",43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+324,TOMALAK,   Unavoidable. Our scanners have   a limited response time. So   whenever you strayed from our...   expectations...       But surely that was not enough   to...,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+325,RIKER,"   To smash your house of cards?   No, it was the visual record of   my ""wife,"" Minuet. Bad move.",43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+326,TOMALAK,       But we chose someone from your   past who is still alive... a   woman you were extremely attracted   to...,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+327,RIKER,"   Your mistake, Tomalak. Minuet   was nothing more than a computer   generated fantasy I once   experienced on another Holodeck.",43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+328,TOMALAK,"   Impossible. In your mind, that   woman exists... physically. Your   feelings toward her remain   quite... passionate.",43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+329,RIKER,   She was part of a very special   program.,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+330,TOMALAK,   So much effort... so little   accomplished.,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+331,RIKER,   If Outpost Twenty-three is what   you're after... Why didn't you   just use your neural scanners to   probe my mind?,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+332,TOMALAK,"   Our scanners are calibrated for   Romulan brain patterns. When it   comes to human brains, they are   less efficient. There were gaps   in the information we gathered   from your memory.",43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+333,RIKER,"   Gaps? After what I've just seen,   I find that hard to believe.     ",43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+334,RIKER ,"   You recreated the Enterprise,   the crew... every nuance, every   sound, smell... perfectly   accurate. I sure didn't notice   any gaps...       I don't buy it, Tomalak.",43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+335,TOMALAK,   We are wasting time.,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+336,TOMALAK,   Bring him.,43   INT. ANTEROOM TO ROMULAN HOLODECK (OPTICAL),ANTEROOM TO ROMULAN HOLODECK,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+337,TOMALAK,"       When you and your colleagues   transported to this planet, you   were less than a kilometer from   this base. Your capture was a   simple matter.",44   INT. TUNNEL TO HOLDING CELL (OPTICAL),TUNNEL TO HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+338,RIKER,   My colleagues... ?,44   INT. TUNNEL TO HOLDING CELL (OPTICAL),TUNNEL TO HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+339,TOMALAK,   We allowed them to transport   safely back to the Enterprise.   But your signal was... diverted.,44   INT. TUNNEL TO HOLDING CELL (OPTICAL),TUNNEL TO HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+340,RIKER,"   My people won't stop looking for   me, Tomalak.",44   INT. TUNNEL TO HOLDING CELL (OPTICAL),TUNNEL TO HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+341,TOMALAK,   They already have.,44   INT. TUNNEL TO HOLDING CELL (OPTICAL),TUNNEL TO HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+342,TOMALAK,       Please say hello to your son.,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+343,RIKER,       Jean-Luc?,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+344,TOMALAK,"   That is not his name, of course.   Nor have you ever really met him.   We merely... used his image to   augment your program.",45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+345,RIKER,   What have you done to him?,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+346,TOMALAK,"   While I am gone, please give   careful thought to your situation.",45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+347,RIKER,       What's your name?,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+348,RIKER,"   Look... if we're going to get out   of here, you've got to trust me...",45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+349,RIKER,   Easy... I won't hurt you.,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+350,RIKER,   Who are you? How did you get   here?,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+351,RIKER,   My name is Will.,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+352,ETHAN/JEAN-LUC,   Ethan...,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+353,ETHAN,   They brought me here... with my   parents...,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+354,ETHAN,       We were at a research station on   Miridian Six.,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+355,RIKER,       Miridian Six... near the Neutral   Zone? I thought it was   uninhabited...,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+356,ETHAN,   The station was set up last year.       Then the Romulans came...,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+357,RIKER,   It's odd the Enterprise wasn't   advised...,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+358,RIKER,"   Where are your parents, now?",45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+359,ETHAN,       They took them away.,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+360,RIKER,   Do you know why the Romulans are   keeping you here?,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+361,ETHAN,   No...       ... I just want to get away.,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+362,RIKER,   Ethan... I'll get us out of   here...,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+363,ETHAN,"       How? Even if we do get away,   they'll find us.       They found me when I escaped   before.",45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+364,RIKER,   You escaped?,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+365,ETHAN,       I hid in a secret place... for   weeks... but they caught me when   I went out to find food.,45   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+366,TOMALAK,"   I want that information,   Commander. I want the location   of Outpost Twenty-Three.",49   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+367,TOMALAK,   Very well. I have been given   permission to use whatever means   are necessary...,49   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+368,RIKER,   Ethan... no!,49   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+369,TOMALAK,   Stop him!,49   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+370,ETHAN,   Let me go...,49   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+371,ETHAN,   Don't!,49   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+372,RIKER,   This secret hiding place of   yours... ?,50   INT. TUNNEL - OUTSIDE THE HOLDING CELL (OPTICAL)),TUNNEL - OUTSIDE THE HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+373,ETHAN,   This way...,50   INT. TUNNEL - OUTSIDE THE HOLDING CELL (OPTICAL)),TUNNEL - OUTSIDE THE HOLDING CELL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+374,ETHAN,   In here...,53   INT. ANOTHER TUNNEL,ANOTHER TUNNEL,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+375,RIKER,   Their sensors should have picked   us up...,63   INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+376,ETHAN,   They can't... I heard them say   there's something in these   rocks...,63   INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+377,RIKER,   Heavy metals?,63   INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+378,ETHAN,       Right...,63   INT. CRAWLSPACE,CRAWLSPACE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+379,RIKER,   When you escaped last time...   how'd you manage it?,63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPACE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+380,ETHAN,"   I acted like I was sick... when   the Romulans took me to the   infirmary, I ran away.",63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPACE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+381,ETHAN,   I was lucky... I found this place   the same day.,63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPACE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+382,ETHAN,   ... The Romulans forgot all about   this storeroom when they rebuilt   the tunnels.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+383,ETHAN,   After I got away last time...,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+384,ETHAN,       ... I mapped out all their tunnels.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+385,ETHAN,"   Supply depot, communications,   living quarters... and the shuttle   bay.",63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+386,RIKER,       How many guards at the shuttle   bay?,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+387,ETHAN,   Only two or three.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+388,RIKER,   Stealing a shuttle would get us   nowhere... too easy for the   Romulans to track one of their   own ships.     ,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+389,RIKER ,       But we could break into   communications. Send a message   to the Enterprise.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+390,ETHAN,   We can't do that... The   transmitter is on a   voice-activated security system!,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+391,RIKER,   Do you know whose voice it   accepts?,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+392,ETHAN,   Only Ambassador Tomalak.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+393,RIKER,       Who?,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+394,ETHAN,   Tomalak.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+395,RIKER,   Ambassador Tomalak.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+396,RIKER,"   Tomalak is a Romulan Captain.   The only time he was called   ""Ambassador"" was in their Holodeck   fantasy. How would you know about   that?",63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+397,ETHAN,   You... you told me about it.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+398,RIKER,   Who are you? What's your part   in all this?,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+399,ETHAN,   They've found us!,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+400,RIKER,       But you said their sensors didn't   work in this tunnel.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+401,ETHAN,   They must have fixed them. We've   got to go!,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+402,RIKER,"   And where will we go, Ethan?",63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+403,ETHAN,   To the shuttle bay! There's still   time.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+404,RIKER,   No... I've had enough.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+405,TOMALAK,   Commander... surrender your   weapon...,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+406,RIKER,   No more games. No more fantasies.   I'm not going to play anymore.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+407,RIKER,"   It was never the Romulans... it   was you all along, wasn't it?",63A  INT. SECRET ROOM,SECRET ROOM,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+408,DATA,"   There is no question about it,   sir. It is his signal.",68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+409,PICARD,       Picard to Riker... can you read   me?,68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+410,RIKER,       Riker to Picard. I'm here.,68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+411,PICARD,   Are you all right?,69   INT. ALIEN CHAMBER,ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+412,RIKER,   Yes... What about Worf and   Geordi?,69   INT. ALIEN CHAMBER,ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+413,PICARD,   We beamed them up an hour ago...   They're fine.,69   INT. ALIEN CHAMBER,ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+414,PICARD,   But we lost you in mid-transport.   Where have you been? What is   going on down there?,69A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+415,RIKER,"   I'm not sure, sir.",69A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+416,RIKER,   But I think I'm about to find   out... stand by.,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+417,RIKER,   What should I call you? Ethan...   Jean-Luc?,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+418,ETHAN,       It doesn't matter.,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+419,RIKER,"   This room... it's more than just   a Holodeck, isn't it?",69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+420,ETHAN,       Much more. The neural scanners   read my mind... give me anything   I want. Just like they tried   to give you everything you   wanted.,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+421,RIKER,   What I wanted? You probed the   Enterprise... lured us here...   so you could play games with me.   I didn't want any of that... you   did. Why?,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+422,ETHAN,   My world was invaded... my   people... killed. My mother   brought me here... so our enemies   would never find me.,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+423,RIKER,"   But they found her, didn't they?",69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+424,ETHAN,   She knew they would never stop   looking for her... So she made   sure I would be safe...,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+425,ETHAN,   She left the scanners to protect   me... and to give me everything   I wanted.,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+426,RIKER,   Everything... then why kidnap me?,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+427,ETHAN,       I wanted you to stay. It's been   so long... I just wanted   somebody... real. I... thought   you would be happy... I'm   sorry...,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+428,RIKER,   I have to return to my ship.       Come with me. You don't have   to stay here anymore... you don't   have to be alone anymore...,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+429,THE ALIEN,   My real name is Barash.,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+430,RIKER,"   To me, you'll always be Jean-Luc.",69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation
+431,RIKER,   Two to transport...,69B  INT. ALIEN CHAMBER (OPTICAL),ALIEN CHAMBER,INT.,"""Future Imperfect""",1990-09-13,The Next Generation

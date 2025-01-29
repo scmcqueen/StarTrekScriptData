@@ -38,9 +38,13 @@ def get_quotes(lines):
             j = j+1
             next_line = lines[j]
 
-        scene = lines[max([x for x in scenes_index if x < i])]
+        if quote!="":
+            try:
+                scene = lines[max([x for x in scenes_index if x < i])]
+            except:
+                scene='VOICE OVER'
 
-        data.append([name, quote,scene])
+            data.append([name, quote,scene])
 
     test_df = pd.DataFrame(data, columns=['character', 'quote','scene'])
     return (test_df)

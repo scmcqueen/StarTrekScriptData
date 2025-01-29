@@ -1,0 +1,379 @@
+,character,quote,scene,location,view,episode,date,series
+0,DATA,"       I have identified the signal,   Captain. It is from the U.S.S.   Jenolan, a Federation transport   ship reported missing in this   sector seventy-five years ago.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+1,RIKER,   Code one alpha zero. Ship in   distress.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+2,PICARD,"       Bring us out of warp, Ensign.   All stop.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+3,RAGER,"       Aye, sir.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+4,PICARD,   Report.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+5,WORF,   We have entered a massive   gravitational field.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+6,DATA,"       There are no stars or other   stellar bodies listed on our   navigational charts. However,   sensors indicate the presence of   an extremely strong gravitational   source in this vicinity.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+7,PICARD,       Can you localize the source of   the gravity field?,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+8,RIKER,   Sensors?,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+9,DATA,"   I am having difficulty scanning   the object. However, it would   appear to be approximately two   hundred million kilometers in   diameter.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+10,RIKER,   That's nearly the size of Earth's   orbit around the sun.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+11,PICARD,   Why didn't we detect it before   now?,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+12,DATA,   The object's enormous mass is   causing a great deal of   gravimetric interference. That   might have prevented our sensors   from detecting the object before   we dropped out of warp.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+13,PICARD,"   Mister Data, could this be a...   Dyson Sphere?",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+14,DATA,       This object does fit the general   parameters of Dyson's theory.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+15,RIKER,   A Dyson Sphere?,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+16,DATA,"       There is no comparative data,   Captain. However, this object   does fit the general parameters   of Dyson's theory.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+17,RIKER,   A Dyson Sphere?,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+18,PICARD,"   It's a very old theory, Number   One. I'm not surprised you   haven't heard of it. A twentieth   century physicist, Freeman Dyson,   postulated that an enormous hollow   sphere could be constructed around   a star. This would have the   advantage of harnessing all the   radiant energy of the star. A   population living on the interior   surface would therefore have a   virtually inexhaustible source   of power.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+19,RIKER,   Are you saying there might be   people living in there?,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+20,DATA,"   Possibly a great number of people,   Commander. The interior surface   area of a sphere this size would   be equivalent to more than two   hundred fifty million class M   planets.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+21,WORF,   Sir. I have located the distress   signal. It is coming from a point   on the northern hemisphere.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+22,PICARD,"   Ensign Rager, take us into   synchronous orbit above that   position.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+23,RAGER,   We are holding relative position   at thirty thousand kilometers   above the surface.,5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+24,DATA,"       I have found the Jenolan,   Captain. It has impacted on the   surface of the sphere.       There are no life signs.   However, there are several small   power emanations... and life   support is still functioning at   minimal levels.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+25,RIKER,"       Bridge to Engineering. Geordi,   meet me in Transporter Room Three.       Mister Worf.",5    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+26,RIKER,       The air's pretty stale.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+27,GEORDI,       Life support is barely operating.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+28,RIKER,       See if you can increase the oxygen   level.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+29,GEORDI,   Commander.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+30,GEORDI,   The Transporter is still   on-line... it's being fed power   from the auxiliary systems.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+31,RIKER,       The rematerialization subroutine   has been disabled.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+32,GEORDI,   That's not all... the phase   inducers are connected to the   emitter array... the override   is completely gone... and the   pattern buffer's been locked into   a continuous diagnostic cycle.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+33,RIKER,   This doesn't make any sense...   locking the unit in a diagnostic   mode just sends inert matter   through the pattern buffer. Why   would anyone want to --,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+34,GEORDI,   There's a pattern still in the   buffer.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+35,RIKER,       It's completely intact... less   than point zero zero three   percent signal degradation. How   is that possible?,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+36,GEORDI,   I don't know... but I've never   seen a transporter system   jury-rigged like this.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+37,RIKER,   Could someone... survive in a   Transporter buffer for   seventy-five years?,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+38,GEORDI,   I know a way to find out.,6    INT. JENOLAN (OPTICAL),JENOLAN,INT.,"""Relics""",1992-08-04,The Next Generation
+39,SCOTT,"   Thank you, Lads.",8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+40,SCOTT,       We've got to get Franklin out of   there.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+41,GEORDI,   Someone else's pattern is still   in the buffer?,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+42,SCOTT,   Aye. Matt Franklin. We went   in together.       Something's wrong... one of the   inducers has failed...       Boost the gain on the matter   stream.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+43,SCOTT,"       Come on, Franklin... I know   you're still in there...",8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+44,SCOTT,   It's no use... his pattern's been   degraded by fifty-three percent...   he's gone.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+45,RIKER,   I'm sorry.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+46,SCOTT,   So am I... he was a good lad...,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+47,RIKER,   I'm Commander William Riker from   the starship Enterprise.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+48,SCOTT,   The Enterprise... I shoulda known.   And I'll bet it was Jim Kirk   himself who hauled the old girl   out of mothballs to come looking   for me.       Captain Montgomery Scott. How   long have I been missing?,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+49,RIKER,   Well...,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+50,WORF,   Sir.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+51,WORF,       I have restored life support.   The oxygen levels will return   to normal shortly.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+52,RIKER,       Captain Scott... Lieutenant Worf.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+53,SCOTT,       Lieutenant?,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+54,WORF,       Yes.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+55,RIKER,       Captain Scott... perhaps there   are a few things we should talk   about.,8    INT. JENOLAN OPS CENTER,JENOLAN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+56,RIKER,    (on the move toward the     door)   We should probably get you to   Sickbay. Doctor Crusher will be   able to...,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+57,SCOTT,       You've changed the resonator   array... only three phase   inverters...,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+58,RIKER,"       Geordi, I think our guest is going   to have a lot of engineering   questions...",10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+59,GEORDI,"       I'll take care of him, sir.",10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+60,SCOTT,       What have ye done to the duotronic   enhancers?,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+61,GEORDI,   Those were replaced with isolinear   chips about forty years ago. It's   a lot more efficient now.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+62,GEORDI,   Uh... be careful there. That's   an EPS power tap.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+63,SCOTT,   Ah.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+64,GEORDI,       You were saying earlier that you   were on your way to the Norpin   Colony when you had a warp engine   failure...,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+65,SCOTT,"       That's right. We had an overload   in one of the plasma transfer   conduits. The Captain brought   us out of warp... we hit some   gravimetric interference and then   there it was, as big as life...    (points at something     on the wall)   Is that a conduit interface?",11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+66,GEORDI,"   Yeah. Uh, big as life... the   Dyson Sphere, right?",11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+67,SCOTT,       Aye. An actual Dyson Sphere.   Can you imagine the engineering   skills needed to even design such   a structure...,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+68,GEORDI,   I know... it's pretty amazing.   What happened when you first   approached it?,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+69,SCOTT,   We began a standard survey of the   surface. We were just completing   the initial orbital scan when our   aft power coils suddenly exploded.   The ship got caught in the   sphere's gravity well... and down   we went.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+70,SCOTT,   Franklin and I were the only ones   to survive the crash...,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+71,GEORDI,   What made you think of using the   Transporter pattern buffer to stay   alive?,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+72,SCOTT,   We didna have enough supplies to   wait for a rescue... so I had to   think of something.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+73,GEORDI,   But locking it into a diagnostic   cycle to keep the signal from   degrading... and cross connecting   the phase inducers to provide   a regenerative power source...   it's brilliant.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+74,SCOTT,       I'm afraid it was only fifty   percent brilliant... Ensign   Franklin deserved better.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+75,GEORDI,"   I think you're going to like the   twenty-fourth century, Mister   Scott. We've made some pretty   incredible advances in the last   eighty years.",11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+76,SCOTT,"       Aye... from what I can see you've   got a fine ship here, Mister La   Forge... a real beauty. In fact,   I must admit to being a little   overwhelmed.",11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+77,GEORDI,   Wait until you see the Holodeck.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+78,BEVERLY,"   You've had a hairline fracture   of the humerus.       It'll ache for a few days, but   it should be fine.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+79,SCOTT,"   Thank you.    (with a smile, to     Geordi)   Well, I'll say this for your   Enterprise... the doctors are a   fair sight prettier.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+80,PICARD,"   I'm Captain Jean-Luc Picard.   Welcome aboard the Enterprise,   Captain Scott.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+81,SCOTT,"   Thank you, sir -- and call me   Scotty.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+82,PICARD,   How are you feeling?,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+83,SCOTT,       I don't know. How am I feeling?,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+84,BEVERLY,"       Other than a couple of bumps and   bruises, I'd say you feel fine   for a man of a hundred and   forty-seven.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+85,SCOTT,       I don't feel a day over a hundred   and twenty.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+86,PICARD,   I must say I was more than a   little surprised when Commander   Riker informed me you were aboard   the Jenolan. Our records didn't   list you as one of their crew.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+87,SCOTT,   I wasn't actually a member of the   crew. I was just a... passenger.   I was heading for Norpin Five to   settle down and enjoy my...   retirement.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+88,PICARD,"   I see. Well, I would very much   enjoy the opportunity to discuss   your career at some point.   History is one of my hobbies and   I'm sure you have some fascinating   insights into the events of your   time.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+89,SCOTT,   I'd be happy to.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+90,PICARD,"   Good. I look forward to it.       Commander, we need to begin a full   spectrographic analysis of the   Dyson Sphere.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+91,GEORDI,"   I'll get right on it, sir.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+92,PICARD,"       Again, welcome aboard, Captain.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+93,GEORDI,       I have to get back to Engineering   to start that analysis.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+94,SCOTT,   Engineering. I thought you'd   never ask.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+95,BEVERLY,   Captain... The first thing   you're going to do is get some   rest. You've had quite a shock   to your system and I don't want   you to push yourself too hard.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+96,GEORDI,"   We're pretty busy right now,   anyway, Captain Scott. But I'd   be happy to give you a tour of   Engineering a little later, when   the doctor says it's okay.",12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+97,SCOTT,       Aye.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+98,BEVERLY,       I'll have someone show you to   your quarters.,12   INT. SICKBAY,SICKBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+99,KANE,       ... this is the food replicator...   and your computer terminal.,14   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+100,SCOTT,"   Good Lord, man... where have you   put me?",14   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+101,KANE,"       These are standard guest quarters,   sir. I can try to find something   bigger if you want.",14   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+102,SCOTT,"   Bigger? In my day, even an   Admiral wouldna had such quarters   on a starship. I remember a time   when we had to transport the   Dohlman of Elaas. You never heard   anyone whine and complain about   quarters like that...",14   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+103,KANE,"   The Holodecks, Ten Forward, and   the gymnasium are all at your   disposal. The computer can tell   you how to find them. Until we   issue you a combadge, just use   one of these panels if you need   anything.",14   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+104,SCOTT,"   You know... these quarters remind   me of a hotel room I once had on   Argelius... oh, now there was a   planet... everything a man could   want -- right at his fingertips.   'Course on my first visit, I ran   into a wee bit of trouble...",14   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+105,KANE,"   Uh, excuse me, sir... but I have   to return to duty.",14   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+106,SCOTT,   Ah... well then. Thank you.,14   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+107,GEORDI,       I want you to shut down the warp   engines and recalibrate the aft   sensors while I work on the   lateral array.,16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+108,BARTEL,"   Aye, sir.",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+109,BARTEL,"   Can I help you, sir?",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+110,SCOTT,"   I don't think so Lass, but I'll   let you know if you can.",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+111,BARTEL,"   Sir, this area is restricted to   authorized --",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+112,GEORDI,"   I'll handle it, Bartel.",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+113,GEORDI,"   Captain Scott, this... really   isn't a good time --",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+114,SCOTT,   We're in Engineering. Call me   Scotty.,16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+115,GEORDI,   Scotty... this really isn't a good   time for a tour. We're running   a phase seven survey of the Dyson   Sphere.,16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+116,SCOTT,"   I'm not here for a tour, Lad.   I'm here to help.",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+117,GEORDI,   That's... very kind. But I think   we can handle it...,16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+118,DATA,   Sensor readings indicate the   presence of a G-type star at the   center of the sphere. There also   appears to be a class-M atmosphere   clinging to the interior surface.,16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+119,PICARD,   Is there any indication that the   sphere is inhabited?,16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+120,DATA,"   Not as yet, sir. Our preliminary   data indicates it is still capable   of supporting life, but we have   been unable to find definite signs   of current habitation.",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+121,PICARD,   Send out a series of class four   probes to survey the far side of   the sphere. Perhaps we'll have   more luck with them.,16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+122,DATA,"   Aye, sir.",16   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+123,GEORDI,       Adjust the frequency   stabilization on the main   deflector dish. It's out of synch   with the aft sensors.,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+124,SCOTT,"       Laddie, ye need to phase-lock the   warp fields within three percent   or they'll become unstable.",18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+125,GEORDI,       What?,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+126,SCOTT,       Here. The warp field is --,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+127,GEORDI,   We use a multi-phase   auto-containment field now...   it's meant to operate above three   percent.,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+128,SCOTT,   Ah. Well... that would make all   the difference.,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+129,BARTEL,"   We can re-start the engines in   ten minutes, Commander.",18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+130,GEORDI,   Thank you.,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+131,SCOTT,   I remember a time when the old   Enterprise was spiralling in   toward Psi two thousand... the   Captain wanted to try a cold start   of the warp engines. I told him   that without a proper phase-lock   it would take at least thirty   minutes...,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+132,GEORDI,"       Huh? Oh, thanks.",18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+133,SCOTT,"       ""You canna change the laws of   physics"" I said... but of course   he wouldn't listen so we had to   come up with a new engine start-up   routine...",18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+134,SCOTT,       Do you know that your dilithium   crystals are about to fracture?,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+135,GEORDI,"       We recomposite the crystals while   they're still inside the   articulation frame. I'd like   to explain everything, but the   Captain wants this   spectrographic-analysis done by   thirteen hundred hours.",18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+136,SCOTT,   Would you mind a little advice?,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+137,SCOTT,"   Starship captains are like   children. They want everything   right now and they want it their   way... the secret is to give them   what they need, not what they   want.",18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+138,GEORDI,   I told him I'd have that analysis   done in an hour.,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+139,SCOTT,       And how long will it really take   you?,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+140,GEORDI,       An hour.,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+141,SCOTT,       Ye didna tell him how long it was   really going to take you?,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+142,GEORDI,       Of course I did.,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+143,SCOTT,   Oh... Laddie. You've got a lot   to learn if you want them to think   of you as a miracle worker.   You've got to --,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+144,GEORDI,"   Look, sir. I've tried to be   patient, I've tried to be polite.   But I've got a job to do here.   And you're... in the way.",18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+145,SCOTT,   I was driving starships while your   great grandfather was still in   diapers. I'd think you'd be   grateful for a little help.,18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+146,SCOTT,"   Then I'll leave ye to work, Mister   La Forge.",18   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Relics""",1992-08-04,The Next Generation
+147,SCOTT,"   ... ""in the way""... used to be   Engineers had a little respect   for each other... used to matter   if a man --",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+148,SCOTT,       What do you want?,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+149,TROI,   Is this a bad time?,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+150,SCOTT,"   Oh... uh, no.       Captain Montgomery Scott at your   service. What can I do for you?",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+151,TROI,"   Deanna Troi, ship's counselor...   and actually I'm here to see if   there's anything I can do for you.",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+152,SCOTT,"   Why... thank you, Lass. But I'm   set for now. The quarters are   more than adequate... the   replicator is a wonder...",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+153,TROI,   I'm glad you're comfortable.       But I was actually more interested   in how you feel.,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+154,SCOTT,   How I feel?,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+155,TROI,"   Yes. It would be perfectly normal   to feel disoriented, confused or   even frightened following the kind   of extraordinary experience you've   just had.",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+156,SCOTT,"   I suppose it's been... a little   bewildering, yes.",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+157,TROI,"   I'm sure you have a lot of   questions about what's happened   over the last seventy-five   years... if you'd like, I could   help you access some of our   historical records... maybe you   could discover what happened to   your family... or friends.",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+158,SCOTT,   I'm... not ready for that just   yet. It's a hard thing to realize   that everyone ye once knew is   probably...,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+159,SCOTT,   Pardon me for asking... but what   exactly is a... Ship's Counselor?,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+160,TROI,   I'm here to take care of the   emotional well-being of our crew.       And of our guests.,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+161,SCOTT,   And you're an officer?,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+162,TROI,   Yes. They started assigning   Counselors to starships about   forty years ago when they realized   that the pressures of extended   space travel --,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+163,SCOTT,   You're a psychologist.,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+164,TROI,   Among other things.,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+165,SCOTT,"   La Forge sent you here, didn't   he? I may be old, but I'm not   crazy.",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+166,TROI,   Geordi didn't send me and I know   you're not crazy.,20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+167,SCOTT,"   You're damned right I'm not. And   I don't need a ship's counselor,   or a psychologist, or whatever   else you are.       I know what I need and it's not   here.",20   INT. SCOTT'S QUARTERS,SCOTT'S QUARTERS,INT.,"""Relics""",1992-08-04,The Next Generation
+168,WAITER,"   May I help you, sir?",21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+169,SCOTT,"   Aye, Lad. Scotch. Neat.",21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+170,SCOTT,   Thank you.,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+171,SCOTT,       What in blazes is this?,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+172,WAITER,       Didn't you order Scotch?,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+173,SCOTT,"   Lad, I was drinking scotch about   a hundred years before you were   born and I can tell you that   whatever this is, it is definitely   not scotch.",21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+174,DATA,       I believe I may be of some   assistance. Captain Scott is   unaware of the existence of   synthehol.,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+175,SCOTT,   Synthehol?,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+176,DATA,"   Yes. It is an alcohol substitute   which is now normally served   aboard starships. It simulates   the appearance, smell, and taste   of alcohol, but the intoxicating   affects can be easily dismissed.",21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+177,SCOTT,   You're not quite... human are you?,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+178,DATA,"   No, sir. I am an android. My   name is Commander Data.",21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+179,SCOTT,       Synthetic scotch and synthetic   commanders...,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+180,DATA,   I believe Guinan does keep a   limited supply of non-syntheholic   products. Perhaps one of them   would be to your liking.,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+181,SCOTT,   What is it?,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+182,DATA,   It is green.,21   INT. TEN FORWARD,TEN FORWARD,INT.,"""Relics""",1992-08-04,The Next Generation
+183,COMPUTER,   Please enter program.,22   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+184,SCOTT,   The android at the bar said you   could show me my old ship... so   lemme see it.,22   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+185,COMPUTER,   Insufficient data. Please   specify parameters.,22   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+186,SCOTT,"   The Enterprise. Show me the   Bridge of the Enterprise, you   chattering piece of...",22   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+187,COMPUTER,   There have been five Federation   ships with that name. Please   specify by registry number.,22   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+188,SCOTT,"   NCC-One-Seven-Oh-One. No bloody   A, B, C, or, D.",22   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+189,COMPUTER,   Program complete. Enter when   ready.,22   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+190,SCOTT,"   Here's to you, Lads...",	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+191,PICARD,"   I hope I'm not interrupting, but   I was just coming off duty and   wanted to see how you were doing.",	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+192,SCOTT,"   Not at all, not at all. Have a   drink with me, Captain.",	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+193,SCOTT,"   I'm not sure what it is, exactly,   but I'd be careful if I were you.   It has a real...",	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+194,PICARD,   Aldeberan whiskey.    (off Scott's look of     surprise)   Who do you think gave it to   Guinan?,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+195,PICARD,   Constitution class...,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+196,SCOTT,   Aye. You're familiar with it?,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+197,PICARD,   There's one at the fleet museum.   This is your Enterprise?,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+198,SCOTT,   One of them... I actually served   on two. This was the first...   she was also the first ship I ever   served on as Chief Engineer.,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+199,SCOTT,"   You know, I served aboard eleven   ships in my career... freighters,   cruisers, starships,... but this   is the only one I ever think   about... the only one I miss.",	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+200,PICARD,"   The first ship I ever served   aboard as Captain was called the   Stargazer... it was an overworked,   underpowered vessel that was   always on the verge of flying   apart at the seams. In every   measurable way, my Enterprise is   a superior ship.       And yet... there are times I miss   that cramped little Bridge very   much.",	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+201,SCOTT,   It's like the first time you fall   in love... you don't ever love   a woman quite the way you did that   first one.,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+202,SCOTT,   To the Enterprise and the   Stargazer... old girlfriends we'll   never see again.,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+203,PICARD,   What do you think of the   Enterprise-D?,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+204,SCOTT,   She's a beauty... with a good   crew...,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+205,PICARD,   But... ?,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+206,SCOTT,"       When I was here, I could tell you   the speed we were traveling by   the feel of the deckplates. On   your ship... I'm in the way.",	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+207,PICARD,   Seventy-five years is a long time.   If you'd like to study some of   the technical --,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+208,SCOTT,   I'm not eighteen. I can't start   over again like a raw cadet.,	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+209,SCOTT,"   There comes a time when a man   finds that he can't fall in love   again... when he knows that it's   time to stop.       I don't belong on your ship...   I belong on this one. This was   my home. This is where I had a   purpose. But this isn't real...   it's just a computer-generated   fantasy. And I'm just an old man   trying to hide in it.       Computer, shut this bloody thing   off. It's time I acted my age.",	INT. OLD BRIDGE (OPTICAL),OLD BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+210,PICARD,   Come.,27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+211,PICARD,"   Mister La Forge, I understand that   the Jenolen conducted an extensive   survey of the Dyson sphere before   it crashed. Have we been able   to access those records?",27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+212,GEORDI,"   We tried to download their memory   core, but it was pretty heavily   damaged in the crash. We haven't   been able to get much out of it.",27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+213,PICARD,   Perhaps Captain Scott could be   of use in accessing that material.,27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+214,GEORDI,   It's possible. He would know   those systems better than any of   us. I'll have Lieutenant Bartel   beam down with him.,27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+215,PICARD,   Commander. I'd like you to   accompany Mister Scott.,27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+216,GEORDI,"   Me, sir?",27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+217,PICARD,"   This is not an order, Geordi, it   is a request... one which you are   free to decline.       One of the most important things   in a man's life is the need to   feel useful. Mister Scott is a   Starfleet officer... I would like   him to feel useful again.",27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+218,GEORDI,"   I'll go with him, Captain.",27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+219,PICARD,   Thank you.,27   INT. READY ROOM,READY ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+220,DATA,"   Commander, I believe I have found   something on the sphere which   could be a communications device.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+221,DATA,   There is an antenna array   approximately four hundred   thousand kilometers south of our   present position. It is emitting   low-intensity subspace signals.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+222,RIKER,   Can we open a channel?,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+223,DATA,"   Not from our present orbit,   Commander. The array is currently   directed away from us.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+224,RIKER,"    (to Rager, indicating     Data's console)   Prepare to take us to an orbit   above those coordinates.       Captain Picard to the Bridge,   please.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+225,GEORDI,   Are you feeling all right?,29   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+226,SCOTT,       Never get drunk unless you're   willing to pay for it the next   day. I'll manage.,29   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+227,GEORDI,   Okay.,29   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+228,GEORDI,    (to Transporter     Technician)   Energize.,29   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+229,DATA,"   Sensors indicate that the large   circle is a portal or airlock,   possibly leading to the interior   of the sphere.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+230,PICARD,   You said you found a   communications array?,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+231,DATA,"   Yes, sir. It is located on the   periphery of the hatch.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+232,RIKER,   This looks like the front door...   should we ring the bell?,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+233,PICARD,"   Mister Worf, open a channel to   that array.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+234,WORF,"   Aye, sir.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+235,RAGER,   Captain! I'm reading intense   graviton emissions on the surface   of --,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+236,DATA,       Some type of tractor beam has   locked onto us.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+237,RIKER,"   Helm, get us out of here!",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+238,RAGER,   We've lost main power... auxiliary   power down to twenty percent.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+239,WORF,       We are being pulled inside.,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+240,RAGER,   Auxiliary power failing.,34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+241,DATA,       The resonance frequency of the   tractor beams is incompatible with   our power systems. Warp and   impulse engine relays have been   overloaded. I am attempting to   compensate.,34   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+242,RAGER,"   The tractor beams have released   us, sir.",34B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+243,RIKER,       Hold position here until we can   get our bearings.,34B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+244,PICARD,"   Full sensor sweep, Mister Data.   Where are we?",34B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+245,DATA,   We are approximately ninety   million kilometers from the star's   photosphere.       I am reading a great deal of   surface instability. It may   be--,34B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+246,RAGER,       Sir. The inertial motion from   the tractor beams is still carrying   us forward. The impulse engines   are off-line and I can't stop   our momentum. We're falling   directly into the star.,34B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+247,SCOTT,   The primary computer database   should be on-line now. Give it   a try.,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+248,GEORDI,   Okay... I've got three access   lines to the central core...   still nothing.,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+249,SCOTT,"       Bunch of old useless, garbage...",35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+250,GEORDI,   What?,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+251,SCOTT,"   I said it's old, Mister La Forge.   It can't handle the interface of   your power converter.",35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+252,SCOTT,   This equipment was designed for   a different era... now it's just   a lot of junk.,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+253,GEORDI,   I don't know... looks like some   of it has held together pretty   well.,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+254,SCOTT,   It's a century out of date. It's   just...,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+255,SCOTT,   Obsolete.,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+256,GEORDI,   That's interesting... because I   was just thinking that a lot of   these systems haven't changed much   in seventy-five years.,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+257,GEORDI,"   This Transporter is almost   identical to the ones we use on   the Enterprise.    (gestures to other     consoles)   The subspace radio and sensors   operate on the same basic   principles, and impulse engine   design hasn't changed much in two   hundred years. If it weren't for   the structural damage, this ship   could still be in service today.",35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+258,SCOTT,"       Maybe so... but when they can   build a ship like your Enterprise,   who'd want to pilot an old bucket   like this?",35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+259,GEORDI,   I don't know... if this ship were   operational I bet it would   run circles around the Enterprise   at impulse speeds.       Just because something's old   doesn't mean you throw it away.,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+260,SCOTT,   We used to have something called   a dynamic mode converter... you   wouldna have something like that   on your Enterprise would ye?,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+261,GEORDI,"       I haven't seen one of those in   a long time... but I might have   something similar.       La Forge to Enterprise.       La Forge to Enterprise, come in   please.",35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+262,SCOTT,   Interference?,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+263,GEORDI,       No...       They're gone.,35   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+264,DATA,   We will enter the sun's   photosphere in three minutes.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+265,PICARD,   Maneuvering thrusters?,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+266,RIKER,   I've got thirty percent power...   it won't be enough to stop us.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+267,PICARD,   No. But it may be enough to turn   us into orbit and hold our   distance from the photosphere.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+268,PICARD,"       Port thrusters ahead full,   starboard back full.",37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+269,DATA,       Our flight path is changing...   right ten point seven degrees...   insufficient to clear the   photosphere.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+270,RIKER,"       Lieutenant Bartel, divert all   power from auxiliary relay systems   to the maneuvering thrusters.",37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+271,DATA,   Our angular deflection is   increasing. Now at fifteen   degrees... eighteen... turn   now twenty point one degrees.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+272,RAGER,"   We're in orbit, Captain. Our   altitude is one hundred fifty   thousand kilometers.",37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+273,RIKER,       I'll see about getting main power   back on-line.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+274,PICARD,   Very well.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+275,PICARD,"   Mister Data, begin a scan of the   interior surface for life forms.   I want to know who brought us in   here and why.",37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+276,DATA,"   Aye, sir.",37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+277,GEORDI,   I can't find them anywhere in   orbit.,40   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+278,SCOTT,   They could've crashed into the   sphere like the Jenolen.,40   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+279,GEORDI,"   No, we'd be picking up background   radiation if they'd gone down.",40   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+280,SCOTT,   There's another possibility...   they could be inside the sphere.,40   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+281,GEORDI,"   Maybe.       Whatever's happened, we've got   to find them. If we can get these   engines back on-line, we could   track them by their impulse ion   trail.",40   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+282,SCOTT,"       Are ye daft? The main drive   assembly's shot, the inducers   are melted, and the power   couplings are wrecked... we'd   need a week just to get started.",40   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+283,SCOTT,"   But we don't have a week, so   there's no sense crying about it.   Come on, let's see what we can   do with your power converter.",40   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+284,DATA,   The sphere appears to be   abandoned.,41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+285,DATA,   Our sensors show that the star   is extremely unstable. It is   experiencing severe bursts of   radiation and matter expulsions.,41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+286,PICARD,"   That would explain why they   abandoned it.       But if there's no one still   living here, how were we brought   inside?",41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+287,DATA,   I believe we triggered a series   of automatic piloting beams which   were designed to guide ships into   the sphere.,41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+288,WORF,       Sir. Sensors show a large   magnetic disturbance on the   star's surface.,41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+289,DATA,"   It is a solar flare, Captain.   Magnitude: twelve. Class: B.",41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+290,PICARD,       Shields?,41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+291,WORF,   Shields are up... but only at   twenty-three percent.,41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+292,DATA,"   The star has entered a period of   increased activity. Our sensors   indicate that solar flares will   continue to grow. In three hours,   our shields will no longer be   be sufficient to protect us.",41   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+293,SCOTT,   Shunt the deuterium from the main   cryo pump to the auxiliary tank.,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+294,GEORDI,   The tank can't handle that much   pressure.,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+295,SCOTT,   Where'd you get that idea?,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+296,GEORDI,   It's in the impulse engine   specifications.,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+297,SCOTT,"   Regulation forty-two slash   fifteen... ""Pressure Variances   in IRC Tank Storage""?",43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+298,GEORDI,   Right.,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+299,SCOTT,   Forget it. I wrote it.,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+300,SCOTT,   A good engineer is always a wee   bit conservative... at least on   paper. Just by-pass the secondary   cut-off valve and boost the   flow... it'll work.,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+301,SCOTT,"   Well, if we've done our jobs   properly, the engines should be   coming back on line... about...   now.",43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+302,GEORDI,   You were right... the auxiliary   tank is holding.,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+303,SCOTT,"   The Bridge is yours, Commander.",43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+304,GEORDI,"   Hey, you're the senior officer   here.",43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+305,SCOTT,"   I may be a captain by rank, but...   I've never wanted to be anything   else but an engineer. Take the   Conn, Geordi.",43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+306,GEORDI,   All right.,43   INT. JENOLEN OPS CENTER,JENOLEN OPS CENTER,INT.,"""Relics""",1992-08-04,The Next Generation
+307,WORF,   Shields still holding... but down   another fifteen percent.,45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+308,RIKER,   Riker to Captain.,45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+309,PICARD,   Go ahead Number One.,45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+310,RIKER,   We've restored helm control...   and you have partial impulse   power.,45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+311,PICARD,   Good. Stand-by.       Can we use the phasers to open   a hole in the sphere?,45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+312,WORF,"   No, sir. The exterior shell is   composed of carbon-neutronium.   Our weapons would be ineffective.",45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+313,PICARD,"   Mister Data, we need to find a   way out of here. Begin scanning   for another hatch or portal that   might still be open.",45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+314,DATA,   The interior surface area is over   ten to the sixteenth square   kilometers. It will take seven   hours to completely scan the   surface.,45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+315,DATA,   I will endeavor to speed up the   process.,45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+316,SCOTT,       The Enterprise ion trail leads   right to this point.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+317,GEORDI,   It looks like some kind of doorway.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+318,SCOTT,   I'll bet you two bottles of scotch   that they're inside the sphere...   and that they went in right   through that hatch.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+319,GEORDI,"   No bet here. The question is,   how?",47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+320,SCOTT,   Look at the momentum distribution   of the ions... it would take an   impulse engine at full reverse   to put out a signature like that.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+321,GEORDI,   So they didn't go in willingly.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+322,GEORDI,   This looks like some kind of   communications array.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+323,SCOTT,   Aye. We found hundreds of them   when we did our initial survey   seventy-five years ago.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+324,GEORDI,   Did you try hailing them?,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+325,SCOTT,   Sure. That was standard   procedure in my day. We did it   right before we crashed.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+326,GEORDI,"       Hailing is standard procedure   today, too...",47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+327,GEORDI,"   Scotty, what if these aren't   communications arrays... what   if they're access terminals...   which are triggered by subspace   signals on certain frequencies...",47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+328,SCOTT,   Frequencies like our standard   ship's hail.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+329,GEORDI,   Exactly. When the Enterprise   saw this terminal they probably   did the same thing you did   seventy-five years ago -- opened   a channel. Only this time it   triggered something which   activated that hatch and pulled   the ship inside the sphere.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+330,SCOTT,"   A nice bit of reasoning, Lad...   very nice indeed.",47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+331,GEORDI,"   We could trigger the hatch, but   we'd probably be pulled in like   they were.",47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+332,SCOTT,   Maybe all we need to do is get   our foot in the door.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+333,SCOTT,"   If we trigger the hatch with a   subspace transmission, we might   not be pulled inside if we keep   our distance from the sphere --   say a half million kilometers.   Then, when the hatch starts to   close again, we move in, and use   the Jenolen to jam the hatch open   and hope the Enterprise can   escape.",47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+334,GEORDI,   You can't be serious. That hatch   is huge. It could crush this ship   like an egg.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+335,SCOTT,"   The shields will hold Lad, don't   you worry about that. I know how   to get a few extra gigawatts out   of these babies.",47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+336,GEORDI,       Scotty. This is crazy. I am not   going to let you---,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+337,SCOTT,   Geordi. I've spent my whole life   figuring out how to make crazy   things work.       I'm telling you... one engineer   to another... I can do this.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+338,GEORDI,   All right. Let's do it.,47   INT. JENOLEN (OPTICAL),JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+339,GEORDI,   We're at five hundred thousand   kilometers.,49   INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+340,SCOTT,   Engines're ready.,49   INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+341,GEORDI,   Okay. Here we go.,49   INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+342,GEORDI,   Come on... there's nothing out   here... give it up.       I still can't open a channel to   the Enterprise... there's too much   interference. We'll have to to   wait until we're right in the   doorway.,51A  INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+343,GEORDI,       That's it. Let's go! Full   impulse.,53   INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+344,WORF,       Sir. There is an audio message   from Commander La Forge.,54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+345,GEORDI,"       This is La Forge, do you read me,   Enterprise?",54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+346,PICARD,"       We read you, go ahead Commander.",54A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+347,PICARD,   Understood.       Set a course.,55   INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+348,SCOTT,   The plasma intercooler's gone.   The engines are overheating.,55B  INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+349,GEORDI,"       I've lost helm control...       La Forge to Enterprise. Captain,   we won't be able to move this ship   out of the way when you get   here... you're going to have to   destroy it in order to escape.",55B  INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+350,PICARD,       How long will it take us to reach   them?,56   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+351,DATA,"   With impulse engines operating   at sixty percent power, it will   take one minute forty seconds.",56   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+352,SCOTT,   I can't hold her together much   longer... we've got about two   minutes before the engines go   critical.,56   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+353,PICARD,       Bridge to Transporter Room Three.   Stand by to beam two from the   Jenolen as soon as we're in range.,56   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+354,WORF,   Photon torpedoes loaded.,56B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+355,SCOTT,"       It's coming apart, Lad. I can't   do anything else.",57   INT. JENOLEN,JENOLEN,INT.,"""Relics""",1992-08-04,The Next Generation
+356,DATA,   We are within transporter range.,58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+357,PICARD,"       Bridge to Transporter Room.   Energize.    (a quick beat, then     to Worf)   Fire torpedoes.",58   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Relics""",1992-08-04,The Next Generation
+358,SCOTT,"       There now. That wasn't so bad,   was it?",61   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Relics""",1992-08-04,The Next Generation
+359,GEORDI,"   So, this alien space 'baby'--   which was about the size of a   four-story building -- really   thought the Enterprise was its   mother.",63   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+360,SCOTT,   You're pulling an old man's leg.,63   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+361,GEORDI,"   No, really. It was 'suckling'   power directly from the ship's   fusion reactors... so Doctor   Brahms and I changed the power   frequency from twenty-one   centimeters to point-oh-two   centimeters...",63   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+362,SCOTT,       You soured the milk.,63   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+363,GEORDI,   That's right.,63   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+364,SCOTT,"   Enjoy these times, Geordi. You're   the chief engineer of a   starship... it's a time of your   life that'll never come again...   and once it's gone... it's gone.",63   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+365,SCOTT,   I thought you were going to buy   me a drink in Ten Forward.,63   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+366,GEORDI,       I have a better idea.,63   INT. CORRIDOR,CORRIDOR,INT.,"""Relics""",1992-08-04,The Next Generation
+367,SCOTT,       You're giving me one of your   shuttles?,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+368,PICARD,"   Call it... an extended loan.   Since you lost your ship while   saving ours, it seemed only fair.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+369,RIKER,       It's not much to look at...,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+370,SCOTT,"   Lad, every woman has her own   charms... ye just have to know   where to look.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+371,GEORDI,"   It's a little slow, but it'll get   you to the Norpin colony... if   that's really where you want to   go.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+372,SCOTT,   The Norpin Colony is where old   men go to retire... maybe I'll   end up there someday... but not   just yet.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+373,PICARD,"       Bon voyage, Mister Scott.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+374,SCOTT,"   Thank you, sir. For everything.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+375,SCOTT,   They're a good crew.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+376,GEORDI,   Yeah.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation
+377,SCOTT,   And she's a fine ship... a credit   to her name.       But I've always found that a ship   is only as good as the Engineer   who takes care of her... and from   what I can see... the Enterprise   is in good hands.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,"""Relics""",1992-08-04,The Next Generation

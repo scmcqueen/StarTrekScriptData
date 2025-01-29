@@ -1,0 +1,397 @@
+,character,quote,scene,location,view,episode,date,series
+0,DATA,"   Away Team reporting in, Commander.   Lieutenant Worf standing by.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+1,RIKER,"   This is Riker, report Lieutenant.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+2,WORF,   The archeologists have identified   the markings in these caverns.   This planet was apparently once   home to a race known as the   Koinonians.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+3,PICARD,"   What do we know about them, Data?",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+4,DATA,   The Koinonians were an intelligent   culture which became embroiled   in a war that lasted several   generations. Our best evidence   indicates they destroyed   themselves.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+5,WORF,   We have completed our survey of   the third tunnel and will proceed   into the ceremonial chamber.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+6,RIKER,   Affirmative. Enterprise out.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+7,PICARD,"   Destroyed themselves, Data?",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+8,DATA,   According to historical records.   This will be the first   opportunity for a Federation   team...,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+9,TROI,   Captain! Beam them up quickly!   They---,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+10,WORF,"   Emergency beam-up! Enterprise,   emergency! Injuries. Away---",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+11,PICARD,   Transporter Room!,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+12,O'BRIEN,"   I've got them, Captain.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+13,PICARD,"   Beam them straight to Sickbay.   Doctor Crusher, incoming wounded.",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+14,BEVERLY,"   Away Team is aboard, Captain.       One dead on arrival.",4    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+15,PICARD ,   Captain's Log: Stardate 43506.5   The Enterprise remains in standard   orbit while we investigate the   tragedy which has struck the Away   Team.,5    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Bonding""",1989-08-23,The Next Generation
+16,PICARD ,"       Lieutenant Marla Aster, ship's   archaeologist has been killed in   what should have been a routine   mission. Whatever the   explanation, it will not bring   back a valued and trusted officer.",6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+17,WORF,   We had completed our investigation   of the third tunnel. Our scans   had indicated no weapons or traps   of any kind. Lieutenant Aster   was three meters behind me. An   explosive device went off. There   was no warning. Lieutenant Aster   bore the full brunt of the   detonation.       I was in command. I bear full   responsibility.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+18,PICARD,   Lieutenant. I have the utmost   faith that you acted properly and   in the best traditions of   Starfleet.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+19,BEVERLY,   Let's take a look at that   shoulder...,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+20,TROI,"   Lieutenant Aster is survived by   a son, Jeremy. Twelve years old.",6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+21,PICARD,   What about his father?,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+22,TROI,"   He is also deceased, Captain.",6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+23,TROI,       His only living relatives are an   aunt and uncle residing on Earth.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+24,PICARD,   Where is the boy now?,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+25,TROI,   In class. I've alerted the   teacher to expect us.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+26,WORF,   Captain.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+27,WORF,       I must accompany you. I commanded   the Away Team.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+28,PICARD,   I appreciate the offer but this   is my responsibility.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+29,BEVERLY,   Go to your quarters. Rest.   You're relieved of duty for   twenty-four hours.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+30,BEVERLY,       That's an order.,6    INT. SICKBAY,SICKBAY,INT.,"""The Bonding""",1989-08-23,The Next Generation
+31,PICARD,   Picard to Bridge.,6A   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+32,RIKER,"   Yes, Captain.",6A   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+33,PICARD,   Assign Commander La Forge to lead   another Away Team to the digsite.   I want to know why this   happened...,6A   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+34,RIKER,"   Yes, Captain.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+35,PICARD,   I will be with Counselor Troi and   young Jeremy Aster.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+36,RIKER,       I understand. Riker out.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+37,WESLEY,   He had to do the same thing for   me.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+38,RIKER,   Do you know Jeremy well?,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+39,WESLEY,       But I know what it'll be like for   him.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+40,RIKER,"   It's part of life in Starfleet,   Wesley.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+41,WESLEY,       They're very careful to prepare   us for... anything. Still...,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+42,RIKER,   I know.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+43,WESLEY,   How can you ever get used to   it... to telling them... ?,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+44,RIKER,       You hope you never do.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+45,TROI,"   I sense the weight of this duty   on you, Captain...",10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+46,PICARD,   I really wonder...,10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+47,PICARD,       Halt.,10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+48,PICARD,   I've always believed that carrying   children on a starship... it's a   questionable policy.,10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+49,PICARD,       Serving on a starship means   accepting certain risks and   dangers. But did Jeremy Aster   make that choice?,10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+50,TROI,   Death and loss are an integral   part of life everywhere. Leaving   the boy on Earth would not have   protected him from that.,10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+51,PICARD,"   No, but Earth is not likely to   be ordered to the Neutral Zone   to repel a Romulan attack...       It was my command which sent his   mother to her death. She   understood her mission and my   duty. Will he?",10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+52,TROI,   In time. With help.       Ensign Crusher does.,10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+53,TROI,"       Yes, he does. And so will Jeremy.",10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+54,PICARD,       Resume.,10A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+55,TEACHER,"   Jeremy, the Captain needs to talk   with you.",12   INT. CLASSROOM,CLASSROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+56,JEREMY,"   I'm Jeremy, sir.",12   INT. CLASSROOM,CLASSROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+57,TEACHER,"       My office is over there,   Captain...",12   INT. CLASSROOM,CLASSROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+58,PICARD,"   Jeremy, it is my sad duty to tell   you that your mother has died.",13A  INT. TEACHER'S OFFICE (FROM SCENE 13),TEACHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+59,JEREMY,"   How, sir?",13A  INT. TEACHER'S OFFICE (FROM SCENE 13),TEACHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+60,PICARD,   An explosive device at the mission   site. She died instantly.,13A  INT. TEACHER'S OFFICE (FROM SCENE 13),TEACHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+61,JEREMY,   I understand.,13A  INT. TEACHER'S OFFICE (FROM SCENE 13),TEACHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+62,TROI,"   I know your mother loved you very   much, Jeremy.",13A  INT. TEACHER'S OFFICE (FROM SCENE 13),TEACHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+63,PICARD,   I've been told... you've also lost   your father.,13A  INT. TEACHER'S OFFICE (FROM SCENE 13),TEACHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+64,JEREMY,"   Yessir. Five years ago. From   a Rushton Infection. I'm alone   now, sir.",13A  INT. TEACHER'S OFFICE (FROM SCENE 13),TEACHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+65,PICARD,"       No one is alone on the starship   Enterprise, Jeremy. No one.",13A  INT. TEACHER'S OFFICE (FROM SCENE 13),TEACHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+66,JEREMY,   I really ought to get back to   class... if I get behind...,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+67,TROI,   I'm sure your mom wanted you to   do well in school. Wasn't she   a teacher on Earth?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+68,JEREMY,       She taught exo-archeology.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+69,TROI,   Why did she sign on the   Enterprise?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+70,JEREMY,   She said she wanted to see the   galaxy with her own eyes.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+71,TROI,   Was she happy doing that?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+72,JEREMY,       Yeah. Real happy.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+73,TROI,   Did she ever tell you there was   a chance this might happen   someday?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+74,JEREMY,   Yes.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+75,TROI,   It might help if we talked about   how you're feeling.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+76,JEREMY,   You're a Betazoid. You know how   I feel.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+77,TROI,"       When my father died we were living   on Betazed. My mother and all   her people are telepathic. I kept   wanting to talk about my father,   and they kept pulling my thoughts   out of my head before I could say   the words. It made me very angry.",16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+78,JEREMY,    (curious despite     himself)   Why?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+79,TROI,   I needed to say them out loud.   I was confused about why he went   away. Was it me -- something I   had done. I felt that if I could   just say the words he would   somehow know how much I loved him   and missed him.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+80,TROI,       I thought you might feel the same   way.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+81,JEREMY,    (avoiding his     feelings)   She just had to do her job. I   understand that.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+82,TROI,   Did she talk to you about her   mission before she left?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+83,JEREMY,   She told me about the ruins.       She always made it like a story   book.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+84,TROI,   Why do you keep going over to the   terminal?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+85,JEREMY,       No reason.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+86,JEREMY,       It's nothing. I broke it   yesterday.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+87,TROI,       Was your mother angry when you   broke it?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+88,TROI,       Was she still angry when she left?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+89,TROI,"       Jeremy, did that broken terminal   cause the accident?",16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+90,JEREMY,   No.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+91,TROI,   Did you cause the accident?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+92,JEREMY,   No. I just never had a chance   to tell her I fixed it.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+93,TROI,"   Jeremy, if your mother were here   right now, would she forgive you?",16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+94,TROI,       I want you to have some time   alone for a little while. I'll   come back when you're ready to   talk again.,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+95,JEREMY,   How will you know?,16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+96,TROI,"   This time I will use my Betazoid   sense, and I'll know.",16   INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+97,DATA,   Excuse me. Am I intruding?,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+98,RIKER,"   No, sit down.",17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+99,DATA,   How well did you know Lieutenant   Aster?,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+100,RIKER,   We spent some time together. Not   very well.,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+101,RIKER,   How well did you know her?,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+102,DATA,   Why do you ask?,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+103,RIKER,       Well... I mean you just asked me...,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+104,DATA,   But why do you ask the question?   I have been asked several times   to define 'how well I knew   Lieutenant Aster' since her death.   And I heard you ask Wesley on the   Bridge if he knew Jeremy well.       Does the question of familiarity   have some bearing on death?,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+105,RIKER,       Do you remember how we all felt   when Tasha died?,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+106,DATA,   I do not sense the same feelings   of... absence... that I associate   with Lieutenant Yar... although   I cannot say precisely why...,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+107,RIKER,"   That's just human nature, Data.",17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+108,DATA,"   Human nature, sir?",17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+109,RIKER,   We feel a loss more intensely   when it's a friend.,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+110,DATA,   But should not the feelings be   just as deep regardless of who   has died?,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+111,RIKER,"   Maybe they should, Data. Maybe   if we felt the loss of any life   as keenly as we felt the death   of those close to us, our history   would've been a lot less bloody.",17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+112,GEORDI,   La Forge to Riker...,17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+113,RIKER,"   You're back, Geordi...",17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+114,GEORDI,"   Yessir, and we've brought back   a souvenier...",17C  INT. TEN-FORWARD,TE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+115,GEORDI,   Five more just like it... all   identical to the one that killed   Lieutenant Aster...,17D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+116,DATA,   They employ a subspace proximity   detonator. A normal tricorder   would never detect it.,17D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+117,PICARD,"   How long would you say they've   been there, Data?",17D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+118,DATA,"   It comes from the time of the   Koinonian Wars, Captain...",17D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+119,RIKER,"   Did you find them all, Geordi?",17D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+120,GEORDI,"   Yeah. But...       Well, they were all sort of...   left there to be found.",17D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+121,PICARD,   Left by whom? There are no   indications of life on this   planet.,17D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+122,GEORDI,"   I don't know, Captain... but it   was pretty obvious that they'd   been recently pulled out of the   ground and defused.",17D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+123,TROI,   Worf!,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+124,WORF,       Counselor.,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+125,TROI,   I can understand that you don't   want to talk about what happened.,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+126,WORF,   I have made my report to the   Captain.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+127,TROI,   I'm more interested in how you   feel about what happened.       And right now I sense great anger.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+128,WORF,   I cannot seek revenge against   an enemy who turned to dust   centuries ago.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+129,WORF,       Her death was senseless. The last   victim of a forgotten war.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+130,TROI,   Go on.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+131,WORF,   There is no more to be said.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+132,TROI,"   A person has died while under your   command. It may happen again.   If you cannot learn to release   the anger and the guilt, to talk   about it...",19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+133,WORF,   A leader must stand alone. As   Captain Picard does.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+134,TROI,       Captain Picard talks to me.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+135,WORF,   Then may I seek your counsel about   my plan to make the R'uustai with   the boy...,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+136,TROI,   The Bonding.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+137,WORF,   It is my right.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+138,TROI,"   It's a very generous offer, but   he's not a Klingon child. He has   different sensibilities.",19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+139,WORF,   He is an orphan. I am an orphan.   He will understand.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+140,TROI,"   Right now, there isn't much he   can understand, Worf. He's   holding all his feelings inside...       Children often feel they must be   true to the memory of a lost   parent.     ",19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+141,TROI ,   If you offer affection to them   too soon they can feel guilty   returning that affection. As   if they're betraying the love they   feel for the parent.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+142,WORF,   I only wish to honor his mother.,19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+143,TROI,"   I know. And I understand this   means a great deal to you. But   you must be prepared, Worf... he   is very angry too, but his anger   is deep inside him... When he   finally touches it, it will strike   out in many directions...   including yours.       Talk with him. Be with him. But   do not rush this. When he is   ready, we will know.",19   INT. COMPUTER ROOM,COMPUTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+144,WORF,"   Jeremy Aster, I am Lieutenant   Worf. May I enter?",22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+145,JEREMY,   You were in command of the Away   Team.,22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+146,WORF,"   Yes. I was with Lieutenant Aster,   your mother, when she died.       Her death lies between us. It   is my hope...that...someday...   it can also bind us.",22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+147,JEREMY,"       You're a Klingon, aren't you?",22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+148,WORF,   Yes.,22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+149,JEREMY,   We studied Klingons in school.,22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+150,WORF,   What do they teach you about us?,22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+151,JEREMY,   You used to be our enemies.,22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+152,WORF,   Do they teach you that every   Klingon hopes to die in the line   of duty as your mother did?,22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+153,WORF,"   In my tradition, we do not grieve   the loss of the body... we   celebrate the releasing of the   spirit.",22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+154,JEREMY,   I understand death. They teach   us all about it.,22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+155,WORF,"   Jeremy Aster, we may both   understand it, but we must bring   meaning to your mother's death.       Perhaps we can do it together.",22A  INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+156,PICARD,   Come.,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+157,PICARD,   Counselor. How is the boy?,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+158,TROI,   He is being very brave.,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+159,PICARD,   Good.,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+160,TROI,   No. He'll have to get past brave.   He is a very angry boy... He   must learn to express that anger   before he can really say good-bye   to his mother.,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+161,PICARD,   How can we help?,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+162,TROI,   I've asked Beverly if we might   get Wesley to talk to Jeremy about   his father's death...,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+163,TROI,   The one unusual element is Worf.,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+164,PICARD,   Oh?,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+165,TROI,   In many ways he is suffering as   badly as the boy. He wishes to   involve Jeremy in a Klingon   ceremony called the R'uustai...   the bonding...,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+166,PICARD,"   I know it.       Perhaps it would be a comfort to   both your patients, Counselor.",22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+167,TROI,"   I don't think the boy would accept   Worf right now. Later, perhaps.   But it will have to be handled   most delicately.",22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+168,PICARD,   As you always do.,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+169,PICARD,       I break the unpleasant news and   my responsibility ends. You have   to stay with them through the   entire grieving process.,22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+170,TROI,"   We find many different ways to   deal with our pain, but over the   years, I've discovered it is in   our joy that the uniqueness of   each individual is revealed. If   I can help a person back to a   state of joy... well, my role has   its rewards.",22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+171,RIKER,"   Captain, we're picking up an   energy field on the planet's   surface...",22D  INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+172,PICARD,   Location?,22E  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+173,RIKER,   Two kilometers north of the Away   Team's beamdown point.,22E  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+174,PICARD,   Indeed.       Full scan.,22E  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+175,DATA,"   Inconclusive, Captain.",22E  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+176,TROI,"   Sir, I sense a... presence on the   planet. Very vague.",22E  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+177,PICARD,   A life form?,22E  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+178,TROI,   I can't be sure... the emotions   of the crew are particularly   strong right now and it's   difficult to filter them out.,22E  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+179,PICARD,"   Data, scan analysis on Main   Viewer...",22E  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+180,BEVERLY,   Hi.,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+181,WESLEY,       Hi.,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+182,BEVERLY,   Troi stopped by a little while   ago. She was wondering if you   might be willing to talk to Jeremy   Aster at some point.,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+183,WESLEY,       Me? What for?,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+184,BEVERLY,   Because of your Dad.,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+185,WESLEY,   What would I tell him?,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+186,BEVERLY,   It would help him to talk with   someone who's gone through this.,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+187,BEVERLY,"   We had each other, Wes... he   doesn't have anyone to lean on   now... and he might be more   comfortable talking about it with   someone who's not much older...",22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+188,WESLEY,"    (interrupting, don't     bug me)   Okay. Let me think about it.",22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+189,BEVERLY,       Okay.,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+190,WESLEY,"   You ever think about him, Mom?",22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+191,BEVERLY,"   Your father?       Sure, I do.",22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+192,WESLEY,   Sometimes I can't quite remember   his face... it scares me.,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+193,BEVERLY,"   That happens to all of us, Wes...       Sometimes I can't get his face out   of my mind.",22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+194,WESLEY,       Today... it's like I can see it   all as clearly as if it were   yesterday... the way he looked   when he hugged me good-bye...   Captain Picard's eyes when he   came to tell us...,22F  INT. DOCTOR CRUSHER'S OFFICE,DOCTOR CRUSHER'S OFFICE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+195,RIKER,"   Data, run comparison with known   phenomena.",22G  INT. MAIN BRIDGE - (OPTICAL) (PREVIOUSLY 22A),MAIN BRIDGE -,INT.,"""The Bonding""",1989-08-23,The Next Generation
+196,DATA,       The pattern has no exact match   in Federation records.,22G  INT. MAIN BRIDGE - (OPTICAL) (PREVIOUSLY 22A),MAIN BRIDGE -,INT.,"""The Bonding""",1989-08-23,The Next Generation
+197,PICARD,   Is it alive?,22G  INT. MAIN BRIDGE - (OPTICAL) (PREVIOUSLY 22A),MAIN BRIDGE -,INT.,"""The Bonding""",1989-08-23,The Next Generation
+198,DATA,   A possibility.,22G  INT. MAIN BRIDGE - (OPTICAL) (PREVIOUSLY 22A),MAIN BRIDGE -,INT.,"""The Bonding""",1989-08-23,The Next Generation
+199,GEORDI,"   Captain, I'm getting an unusual   magnetic flux reading from the   anti-matter containment pods.",22G  INT. MAIN BRIDGE - (OPTICAL) (PREVIOUSLY 22A),MAIN BRIDGE -,INT.,"""The Bonding""",1989-08-23,The Next Generation
+200,TROI,   My God.,22G  INT. MAIN BRIDGE - (OPTICAL) (PREVIOUSLY 22A),MAIN BRIDGE -,INT.,"""The Bonding""",1989-08-23,The Next Generation
+201,JEREMY,   Mom!,23   INT. ASTER QUARTERS (OPTICAL),ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+202,GEORDI,"   All systems are functioning   normally -- still, there's a   fluctuation in the containment   field. I can't account for it.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+203,RIKER,"   Data, is it related in some way   to the energy field on the planet?",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+204,TROI,       Captain...,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+205,DATA,   There is a beam of highly charged   particles emanating from the   planet...,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+206,TROI,"   Captain, there is a presence   aboard the Enterprise.",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+207,PICARD,   An alien presence... ?,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+208,RIKER,"   No intruder noted by the ship's   sensors, Captain...",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+209,TROI,   A presence...,31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+210,RIKER,"   Security, all decks... yellow   alert... possible intruder...",31   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+211,JEREMY,   They said you were dead.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+212,MARLA,   There was a mistake. It's okay.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+213,JEREMY,   But there was an explosion... you   were hurt.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+214,MARLA,"   Jeremy, I'm not hurt. I'm fine.   You mustn't think any more about   it.",31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+215,MARLA,"   The important thing is, I'll never   leave you again.",31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+216,MARLA,"       Oh, I see you fixed the terminal.",31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+217,JEREMY,   Just after you. you left.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+218,MARLA,   I'm sorry I got so angry about   that. I'm really proud of you   -- you fixed it without even   being asked.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+219,MARLA,       I think somebody needs a hug.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+220,MARLA,   We have to go now.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+221,JEREMY,   Where?,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+222,MARLA,   To the planet. That's where we're   going to live now.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+223,JEREMY,       We're not going to stay on the   Enterprise any more?,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+224,MARLA,   No.       We're going to live in a home just   like we used to on Earth.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+225,MARLA,       You'll see. I promise.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+226,JEREMY,   Lieutenant Worf... did they tell   you? It was a mistake.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+227,JEREMY,       She didn't die. She's alive.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+228,WORF,"   Jeremy, come here...",31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+229,MARLA,"   Lieutenant Worf, it's all right.   I'm here for the boy.",31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+230,WORF,   Lieutenant Worf to Captain Picard.,31A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+231,PICARD,   Go ahead.,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+232,WORF,   Lieutenant Aster is in her   quarters.,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+233,RIKER,"   Repeat, Worf... ?",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+234,WORF,   Lieutenant Aster. She's here.   In her quarters. With the boy.,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+235,PICARD,   Do not provoke her or interfere   in any way until I arrive.   Picard out.       Have security moving that way but   tell them to keep their distance.   You have the Bridge. Counselor...,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+236,MARLA,   There's nothing to worry about.   I'm going to take care of Jeremy   and make him happy.       It's time to go.,33A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+237,WORF,   Where are you taking the child?,33A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+238,JEREMY,   To the planet.,33A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+239,MARLA,"   Come on, Jeremy.",33A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+240,WORF,"   Worf to Picard, they're leaving   their quarters...",33A  INT. ASTER QUARTERS,ASTER QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+241,WORF,"       Captain, I believe we're headed   for Transporter Room Three.",36   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+242,PICARD,   We're on our way.,36A  INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+243,MARLA,"   Chief O'Brien, Jeremy and I are   going down to the surface.",38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+244,PICARD,   Who are you?,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+245,MARLA,   I'm Marla Aster...,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+246,JEREMY,"       It's my mother, Captain... She's   alive.",38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+247,PICARD,       What do you want?,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+248,MARLA,   To take my child down to the   planet.,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+249,PICARD,   I cannot permit that. This child   is my responsibility.,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+250,MARLA,   I'm here to care for him. He   needs me. Why do you resist?,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+251,PICARD,   Because I don't know who -- or   what -- you are.,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+252,JEREMY,   Can't you see who she is?,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+253,PICARD,"   Jeremy, she appears to be your   mother, but she is not.",38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+254,JEREMY,   What do you mean?,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+255,MARLA,   You're confusing the boy...,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+256,JEREMY,   Wait...,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+257,JEREMY,       No...stop...,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+258,JEREMY,   Mon...Mom...,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+259,TROI,   Jeremy...,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+260,JEREMY,   NO...,38   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+261,JEREMY,   What did you do to her?,42   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+262,TROI,"   Jeremy, I don't know what that   was, but it was not your mother.",42   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+263,JEREMY,   You saw her... She was here...,42   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+264,TROI,   Your mother is dead.,42   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+265,JEREMY,   I touched her. She was real.,42   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+266,TROI,   Why would your real mother want   you to go to the planet. There's   nothing there but rocks and   dust...,42   INT. CORRIDOR,CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+267,JEREMY,   It's my house. My house on Earth.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+268,MARLA,"   Exactly the way it was... remember,   Jeremy?",43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+269,JEREMY,   But how did you do it?,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+270,MARLA,   Does it matter?,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+271,TROI,   Yes. It matters.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+272,MARLA,   I am trying to understand your   resistance. You spoke of rocks   and dust on the planet? I decided   to show what awaits us there.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+273,TROI,   Why would you create this fantasy?,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+274,MARLA,"       It's his home.    (holding out a hand to     Jeremy)   And it makes you happy, doesn't   it?",43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+275,TROI,   But it's not real.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+276,MARLA,"   Isn't it? Jeremy, isn't that   really Patches?",43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+277,JEREMY,   He knows me. It's him.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+278,MARLA,   Look -- your blanket...,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+279,JEREMY,   It's real. It's all real.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+280,TROI,"   Jeremy, it's not. Could your   real mother make all this appear?",43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+281,TROI,       You must not stay here.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+282,TROI,   Come with me.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+283,JEREMY,       I can't.,43   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+284,PICARD,   Is the boy in any danger?,43A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+285,TROI,   I don't think so. She seems to   want to help Jeremy.,43A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+286,PICARD,   Help him?,43A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+287,PICARD,"   Troi, would it be wise to remove   Jeremy from his quarters?",44A  INT. EARTH HOME (INTERCUT WITH SCENE 44B),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+288,TROI,   He does not want to leave. I   would not recommend taking him   by force.,44A  INT. EARTH HOME (INTERCUT WITH SCENE 44B),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+289,RIKER,   She offers him everything. All   we offer is the cold reality of   his mother's death.,44A  INT. EARTH HOME (INTERCUT WITH SCENE 44B),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+290,BEVERLY,   What would you choose? If someone   came along and offered to give   you back your mother...       ... your father...     ,44A  INT. EARTH HOME (INTERCUT WITH SCENE 44B),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+291,BEVERLY ,   ... your... husband... would any   of us say no so easily?,44A  INT. EARTH HOME (INTERCUT WITH SCENE 44B),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+292,PICARD,"   Remain in the cabin with them,   Counselor. We're going to try   to put an end to this from here...",44A  INT. EARTH HOME (INTERCUT WITH SCENE 44B),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+293,TROI,   Understood.,44A  INT. EARTH HOME (INTERCUT WITH SCENE 44B),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+294,PICARD,"   Mister Data, can we determine for   certain the energy source from   the planet is powering this   creation?",44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+295,DATA,"   The beam from the planet is   clearly tapping into the ship's   anti-matter, Captain...",44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+296,GEORDI,   I'd say it's running the   manifestation off our own energy.,44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+297,PICARD,   So there are limits to her   power...,44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+298,RIKER,       That's why she needs the   Transporter to get the boy off   the ship.,44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+299,PICARD,   So how do we cut the puppet's   strings?,44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+300,GEORDI,"   By increasing the shield harmonics   to match our antimatter   containment fields, it is almost   certain that the beam would be   severed.",44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+301,PICARD,   Proceed.,44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+302,RIKER,"       Troi, stand by...",44B  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+303,TROI,"   Jeremy, it's time for this to   end... You know it's not real   and it is over now...",46   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+304,MARLA,"   I'm not going to leave you,   Jeremy. Ever again.",46   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+305,TROI,"   Jeremy, I won't lie to you or   trick you.",46   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+306,MARLA,   Jeremy we'll be happy together   as soon as...,46   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+307,JEREMY,   No...,46   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+308,GEORDI,   Anti-matter containment pods   reading nominal...,47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+309,DATA,   The shields have severed the beam.,47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+310,DATA,"   Captain, the energy field...",47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+311,PICARD,"   Mister Crusher, take us out of...",47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+312,O'BRIEN,   Alien intruder. Transporter Room   Three. Security alert. Alien...,53A  INT. TRANSPORTER ROOM - (OPTICAL),TRANSPORTER ROOM -,INT.,"""The Bonding""",1989-08-23,The Next Generation
+313,WORF,       Security to Transporter Room   Three...,53C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+314,PICARD,"   Lieutenant Worf, Commander La   Forge with me... Number One you   have the Bridge.",53C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+315,MARLA,"   Come, Jeremy, we will not let them   separate us again. We are going   home.",53E  INT. ASTER QUARTERS/EARTH HOME (OPTICAL),ASTER QUARTERS/EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+316,TROI,"       Captain, the image is back --   she's trying to take Jeremy off   the ship again.",67   INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+317,PICARD,       Acknowledged.,67   INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+318,GEORDI,"       Engineering, this is La Forge.   Shut down power to all   Transporters. I'm on my way...",67   INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+319,PICARD,"   Lieutenant Worf, to Transporter   Room Three.",67   INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+320,PICARD,"       Bridge, seal off deck eight,   corridors A and B.",67   INT. TURBOLIFT,TURBOLIFT,INT.,"""The Bonding""",1989-08-23,The Next Generation
+321,DATA,"   Engaging force fields, Captain.   Transporters are down.",68   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+322,WORF,"   Energy force has left Transporter   Room Three... security alert, all   decks...",69   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+323,RIKER,"   La Forge, the intruder may try   to reinstate Transporter power.",69A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+324,GEORDI,"   Understood, Commander...",69A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+325,PICARD,"   Bridge, release security   forcefield eight - B.",70   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+326,PICARD,"   How are you, Jeremy? Are you   frightened?",70   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+327,JEREMY,"   -- no.       A little, sir.",70   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+328,PICARD,"   Of course. These are frightening   things that are happening. We   won't let anyone harm you.       Counselor, why don't you take the   child to my quarters.",70   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+329,MARLA,   No.,70   INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,"""The Bonding""",1989-08-23,The Next Generation
+330,GEORDI,"       It's looking over everything,   Commander... going to school...   Let's hope it doesn't blow us   to Kingdom Come while it's   figuring out how to blow us to   Kingdom Come.",72   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,"""The Bonding""",1989-08-23,The Next Generation
+331,WORF,   Power's back in Transporter Room   Three...,73   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+332,GEORDI,   By-passing to manual override...   shutting it down...,73A  INT. ENGINEERING,ENGINEERING,INT.,"""The Bonding""",1989-08-23,The Next Generation
+333,WORF,   Transporter is down again.,73AB	INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""The Bonding""",1989-08-23,The Next Generation
+334,RIKER,"   Keep it down, Geordi... for as   long as you can...",73A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Bonding""",1989-08-23,The Next Generation
+335,MARLA,"   It is only a matter of time,   Captain, before we can power the   Transporters ourselves...",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+336,PICARD,   We? For whom else do you speak?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+337,MARLA,"   The accident on the surface was   caused by a remnant of an old and   tragic era. Two species once   shared this world... one of   energy... and one of matter. The   physical beings you call the   Koinonians destroyed themselves   in unending, bitter wars. The   surviving lifeforms on this world   will not tolerate any further   suffering from that dishonorable   past. So they have made this   possible... they have made me   possible.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+338,PICARD,   I appreciate your motives. But   his mother is dead. He must learn   to live with that.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+339,MARLA,   I will be every bit his mother.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+340,PICARD,   But not his mother.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+341,PICARD,   Picard to Lieutenant Worf.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+342,WORF,"   Go ahead, Captain.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+343,PICARD,   Please escort Ensign Crusher to   the Aster quarters. Picard out.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+344,MARLA,"   Your philosophy is curious,   Captain. What is so noble about   sorrow? I can provide him an   existance where he will feel no   pain, no anguish...",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+345,PICARD,   It is at the heart of our very   nature... to feel pain... and   joy... that is what makes us what   we are.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+346,MARLA,   He is alone now in your world.   A child alone. How can you know   he won't be happier with me?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+347,PICARD,   For a brief moment in time... he   surely would be. Any of us in   his place would be.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+348,TROI,   What would Jeremy do for friends   in your world?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+349,MARLA,   He will have any friends he needs.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+350,TROI,"   And then will you provide for his   education, his health, his growth?   A career? A wife?",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+351,PICARD,"   Yes, it is quite an undertaking   you're proposing, isn't it?",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+352,MARLA,   It is our duty to make him happy   again.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+353,PICARD,   Do you honestly believe he will   be happy in this total fiction   you wish to create?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+354,PICARD,   What will be his reason to live?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+355,PICARD,"   What you offer is a memory... to   cherish... but not to live in.       It is part of our life cycle to   accept the death of those we love.   He must deal with grief, not cover   it or hide from it. We are   mortal. Our time in this universe   is finite. It is the lesson every   human must learn.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+356,WESLEY,"   Ensign Crusher reporting as   ordered, sir.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+357,PICARD,"   Come in, Wesley.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+358,PICARD,"   ... No, stay, Lieutenant.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+359,PICARD,   Wesley lost his father on a   Starfleet mission when he was   even younger than you are.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+360,TROI,   Your mother told me you were   finding it difficult to talk to   Jeremy. Why?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+361,WESLEY,"   I don't know. I guess... I just   didn't want to think about it any   more, you know... all this has   reminded me so much of that day...",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+362,PICARD,   The day I told you your father   had been killed.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+363,PICARD,"   As I recall, you handled the news   very well.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+364,WESLEY,   My parents taught me about the   dangers of starfleet missions.   I knew it could happen.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+365,PICARD,       So you were prepared.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+366,WESLEY,"       No, I don't think I was. Not   really. How could anyone be...   prepared to hear that his dad   is... never coming home again.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+367,WESLEY,   I just tried to be what everybody   expected me to be. Brave.   Mature.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+368,PICARD,"   Are you saying you didn't want   anybody to see how you really   felt, Wesley?",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+369,PICARD,   So how did you really feel?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+370,WESLEY,       Like somebody kicked me right in   the brain.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+371,PICARD,       Somebody?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+372,TROI,"   Go ahead, Wesley. You've wanted   to tell him for a long time...",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+373,WESLEY,   I was angry.       At you.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+374,PICARD,"   Why, Wesley? Why were you angry   with me?",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+375,PICARD,   Were you angry because I was the   one who told you he was dead?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+376,WESLEY,       No.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+377,PICARD,   Then why?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+378,WESLEY,   Because you led the mission. You   came back. My father didn't.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+379,TROI,"   How long were you angry with   Captain Picard, Wesley?",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+380,WESLEY,"   A long time.       But not any more. Not even a   little, sir.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+381,TROI,   And you Jeremy... must be very   angry with Lieutenant Worf.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+382,TROI,"   He was in charge of your mother's   mission. Just as Captain Picard   was in command when Wesley's father   was killed. Isn't that right,   Jeremy",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+383,WORF,   She was my responsibility.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+384,TROI,   Worf came back. Your mother   didn't.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+385,JEREMY,   Why? Why weren't you the one who   died? Why did it have to be her?,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+386,TROI,"   He can't answer that, Jeremy.       None of us can.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+387,PICARD,"   Lieutenant Worf also lost his   parents, Jeremy.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+388,WORF,       They were killed in battle when   I was six.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+389,WORF,"   When I was alone, humans helped   me. Let me help you.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+390,WORF,   The Marla Aster I knew and honored   is not in this room. Nor does   she await you on the planet. Now   she lives only here...       And here.,74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+391,WORF,"       Join with me in the R'uustai, the   Bonding. You will become part   of my family now and for all time.   We will be brothers.",74   INT. EARTH HOME (OPTICAL),EARTH HOME,INT.,"""The Bonding""",1989-08-23,The Next Generation
+392,WORF,   SoS jIH batlh SoH.,81   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+393,JEREMY,   What does that mean?,81   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+394,WORF,   It honors the memory of our   mothers. We have bonded and our   families are stronger.,81   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation
+395,JEREMY,       SoS jIH balth SoH.,81   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,"""The Bonding""",1989-08-23,The Next Generation

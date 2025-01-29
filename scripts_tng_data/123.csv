@@ -1,0 +1,448 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD,"   All hands, this is the captain.   The sun in the Delos system is   undergoing large-scale magnetic   field changes, producing violent,   gigantic flares.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Symbiosis""",1988-02-17,The Next Generation
+1,PICARD,"       We will be studying this star   at close range. Even though we   will be running with full   deflectors, the closeness of the   event and its severity are going   to create problems.",2    INT. ENTERPRISE - VARIOUS SHOTS,ENTERPRISE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+2,PICARD,"   Intense magnetic fields have a   disruptive effect on electrical   systems. We can therefore expect   an interruption of communications,   and potential temporary loss of   other systems. As a precaution,   we are now going to Yellow   Alert...",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+3,PICARD,"       Stay sharp, everyone.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+4,DATA,"   Engineering, this is Ops. Bring   all systems on line and direct   full power to the shields.",5    INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+5,DATA,   All sections secure.,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+6,PICARD,   Lieutenant La Forge?,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+7,GEORDI,   Course set.,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+8,PICARD,   Half impulse.,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+9,GEORDI,"   Half impulse, aye.",6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+10,PICARD,   On Main Viewer.,8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+11,PICARD,   Mask out the photosphere.,8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+12,PICARD,"   Magnify. Quadrant one-seven,   sector four-zero-three.",8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+13,RIKER,   I've never seen anything like   this before. The violence of   these eruptions is awesome.,8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+14,PICARD,"   And humbling, Number One.",8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+15,DATA,"   Reading an unusual number of   sunspots and eruptive prominences,   sir. The magnetic field is   extremely irregular.",8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+16,WESLEY,"   Captain, deflectors are being hit   by a huge burst of X-rays.",12   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+17,WESLEY,"       Wow -- look!       Sir, my console seems to be   overloading.",12   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+18,WORF,"   The X-ray burst is disrupting   systems, Captain. I'm adjusting   deflectors to compensate.",12   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+19,WORF,   Increase power to forward deflectors.,13   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+20,PICARD,   Status report.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+21,WORF,"   All systems operational, sir.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+22,TROI,   Captain. The level of tension   on the ship is mounting.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+23,PICARD,   Understandable. Data?,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+24,DATA,   If we are to investigate this   unusual solar activity -- we must   get closer.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+25,PICARD,"   Mister La Forge, move us closer.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+26,PICARD,"       We'll be pushing our deflectors   to the limit, but we'll get a good   look at this phenomenon.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+27,WORF,"   Captain, I have intercepted what   seems to be a distress signal.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+28,PICARD,   Let me hear it.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+29,,   This...  -- this is   ...  -- on the freighter   Sanction...  ... and   unable to...  .... Need   help.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+30,DATA,"   The transmission is from a   freighter in orbit around the   fourth planet of the system.   However, the receiving station   is on the third planet.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+31,PICARD,   Open hailing frequency.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+32,TASHA,   Hailing frequencies open.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+33,PICARD,"   Unidentified freighter, this is   the USS Enterprise. May we be   of assistance?",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+34,T'JON ,"       Whoever you are, YES!    .... cannot maintain...    ... if you can help...",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+35,PICARD,   Can't you enhance the image?,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+36,TASHA,   Too much interference.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+37,PICARD,   Set a course to intersect with   the freighter. Warp two.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+38,GEORDI,"   Aye, sir.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+39,PICARD,   Maintain Yellow Alert.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+40,T'JON ,"   Can't control...  ... ship   is losing orbit...  ...   heading into atmosphere...   without help, we'll burn up.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+41,WORF,   It is a freighter -- very old.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+42,DATA,"   Captain, our sensors are being   severely affected by the sun   flares.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+43,PICARD,   Helm -- get us in as close as   possible to the freighter's   orbit.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+44,GEORDI,"   Aye, sir.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+45,DATA,   There are six life forms aboard   the freighter.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+46,WORF,"   Captain, the freighter's orbit   is decaying.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+47,PICARD,   How long until it loses integrity?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+48,WORF,   A matter of minutes.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+49,PICARD,"    (he touches his     arm-panel)   Unidentified freighter, this is   the USS Enterprise.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+50,,"   Enterprise, this is the Aurelian   freighter... Sanction.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+51,PICARD,   Put this on the Main Viewer.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+52,TASHA,   The visual transmission is still   breaking up.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+53,PICARD,"   Freighter, this is the Enterprise.   What is your situation?",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+54,T'JON ,   ...  ... We are...,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+55,SOBI ,   Get us off here.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+56,LANGOR ,       Please -- help us.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+57,PICARD,   This is the Enterprise -- with   all this interference it is   difficult to copy your   transmission -- if you all talk   at once... it is impossible. Now   -- please -- say again. What is   your situation?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+58,T'JON,   I am T'Jon -- the captain of the   Sanction.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+59,PICARD,       At last.       How can we help?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+60,T'JON,"   We have lost -- I don't know...   something -- and I am no longer   able to maintain this orbit, nor   am I able to use main thrusters.   Everything's just kind of... you   know... dead, I guess. It's   all... you know... shut down.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+61,PICARD,   That's very vague. What's the   computer analysis?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+62,T'JON,   The computer's not working very   well.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+63,PICARD,   Data... can you tap into their   computer and clarify the   situation?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+64,DATA,   I will attempt it.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+65,TASHA,"   Captain, the tractor beam is   available, if you want it.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+66,RIKER,   At least we can pull them out of   orbit before they enter the   atmosphere.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+67,PICARD,   Yes. Captain T'Jon -- we are   going to lock on our tractor beam   and pull you out of orbit.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+68,T'JON,   Hey -- that's great.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+69,TASHA,"   The solar flares are interfering   with the tractor beam, Captain.   I am unable to lock on.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+70,WORF,"   Captain, the freighter's orbit   continues to deteriorate.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+71,PICARD,"   Captain T'Jon, we are unable to   attach our tractor beam because   of the intense solar activity.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+72,T'JON ,       I understand.       Thanks for trying.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+73,DATA,"   Captain, I have determined what   is malfunctioning on the   freighter.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+74,PICARD,   Enterprise to Sanction. We have   analyzed your problem.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+75,T'JON,   Great.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+76,DATA,   Your ship's design uses an   electromagnetic coil to constrict   the exhaust flow. That coil is   misaligned.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+77,PICARD,   Have you the necessary tools to   realign the coil?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+78,T'JON,   I don't think so.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+79,DATA,"   Captain, I believe we can provide   the freighter with a temporary   substitute. Ship's stores contain   a coil of the proper type.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+80,RIKER,       Can we beam it over?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+81,TASHA,   Yes.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+82,PICARD,"   Captain T'Jon, we will beam over   a replacement coil.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+83,T'JON,   That's great... and that will fix   us up?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+84,PICARD,"   Well, once it's installed.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+85,T'JON,   Right.       ... And how do we do that?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+86,PICARD,   What's the matter with these   people? How can he be the captain   of the vessel and be ignorant of   its simplest functions?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+87,RIKER,   If this weren't so serious it   would make you laugh.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+88,PICARD,   Captain T'Jon -- how long have   you been in command of the   freighter?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+89,T'JON,   Seven years. This is my   twenty-sixth voyage to Brekka.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+90,PICARD,   And you don't know how to align   a control coil?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+91,T'JON,   It's never come up.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+92,RIKER,   Is there anyone on board who can   do it?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+93,T'JON,   Hold on a minute... I'll ask.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+94,T'JON,       Sorry -- nobody here knows   anything about it.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+95,RIKER,   I'll beam over with a team.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+96,TASHA,   Captain -- I strongly recommend   against anyone from this ship   beaming over. The solar   interference is too great.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+97,WORF,   The freighter has entered the   planet's atmosphere.   Disintegration is imminent.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+98,RIKER,   We are running out of options.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+99,PICARD,    (nods to Tasha and     Riker)   Let's get them off there.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+100,PICARD,   Captain T'Jon. Prepare to beam   over.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+101,T'JON,   If you think that's best.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+102,PICARD,"   Unless you have another option   -- yes, I ""think that's best.""",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+103,T'JON,       Whatever you say.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+104,TASHA,   I can't maintain a positive lock.,22   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+105,WESLEY,   An unusual E-M burst. Readings   off scale.,23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+106,RIKER,"   Freighter Sanction, this is the   Enterprise. We are having   difficulty getting a fix.",24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+107,TASHA,"       Have them go to their own   Transporter Room. It will be   tricky, but perhaps I can link   the two transporters in series   and get them over with the   increased power.",24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+108,RIKER,   It's worth a try.       Captain T'Jon -- go immediately   to your Transporter Room.   Contact me from there.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+109,T'JON,"       Right, Enterprise -- we'll call   you from there... but, if you   can't get us with your   transporter, what makes you think   ours will do the job?",24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+110,TASHA,   I'm going to interconnect them.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+111,T'JON,   I didn't know you could do that.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+112,TASHA,   Hurry -- we're running out of   time.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+113,T'JON,   We're on the way.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+114,TASHA,   I don't think they're going to   make it.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+115,RIKER,   Captain T'Jon doesn't seem to   care one way or the other.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+116,TASHA,       Worf -- how much time do we have?,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+117,WORF,"   One minute, twenty-eight seconds.",24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+118,TASHA,   Captain T'Jon -- are you there?,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+119,T'JON,   Yeah. We're in the transporter   room.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+120,TASHA,   Great. Activate your transporter.   Set coordinates nine -- seven --   zero -- three... mark two...   six... eight.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+121,T'JON,   Did you say... two -- eight --   six... or eight -- eight -- six.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+122,TASHA,    (frustrated almost to     the point of anger)   TWO -- SIX -- EIGHT.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+123,T'JON,   Got it.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+124,WORF,   The hull temperature of the   freighter is passing three   thousand degrees.,25   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+125,PICARD,"   What's the holdup, Number One?",25   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+126,RIKER,   We are establishing the link now.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+127,T'JON,   We are ready.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+128,TASHA,"   Then all six of you get on the   transporter platform -- on my   signal, energize.",26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+129,TASHA,       I've got their initial transporter   signal. Interlock complete.       Energize on my mark. Four --   three -- two -- one -- energize.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+130,PICARD,   Did you get them off?,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+131,RIKER,   No. They stayed on the freighter   -- and sent their cargo.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+132,PICARD,   Cargo!? Are those people crazy?       What could possibly be that   important?,31   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+133,WORF,   Sir -- the freighter is   disintegrating.,31   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+134,GEORDI,"   Captain, the freighter is entering   the atmosphere. Her hull   temperature is building.",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+135,PICARD,   Number One -- I don't understand   these people. Their lives are   in danger and they're sending over   cargo?,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+136,RIKER,   Unbelievable.,34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+137,PICARD,   We're losing the freighter.   You've got to beam those people   over now.,34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+138,RIKER,       Clear that cargo. Beam it to a   hold.,34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+139,TASHA,"   Aye, sir.",34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+140,RIKER,"       Freighter Sanction... this is the   Enterprise, get on the transporter   pad and...       Forget it. Just lock on to any   life forms you can find and get   them over.",34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+141,TASHA,"   Trying, sir.",34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+142,GEORDI,   The freighter is going down.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+143,PICARD,   Transporter Room! You're out of   time.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+144,TASHA,   Reading six life forms...       But I can't get a solid lock.,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+145,RIKER,   We've no choice. Energize.,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+146,RIKER,   You said SIX - where are...       ... the other two?,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+147,TASHA,"       The lock didn't hold, sir.",36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+148,RIKER,   Re-establish.,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+149,TASHA,   It's too late.,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+150,PICARD,   Number One!?,37A  INT. MAIN BRIDGE - ANGLE ON MAIN VIEWER (OPTICAL),MAIN BRIDGE - ANGLE ON MAIN VIEWER,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+151,RIKER,"   Two are lost, sir. But we saved   four.",39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+152,RIKER,   I am Commander William Riker of   the USS Enterprise.       I'm sorry. We were unable to   rescue the other two.,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+153,RIKER,   Were they with you...    (then indicating the     other pair)   ... or with you?,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+154,T'JON,       With us.,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+155,RIKER,"   We did everything we could, if   you had come instead of the cargo,   you could have all made it.",39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+156,T'JON,   The cargo... Where is it?,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+157,ROMAS,"       You did save it, didn't you?",39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+158,RIKER,"       Yes, we did. It's in one of our   cargo holds. You act like it's   more important than your comrades.",39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+159,T'JON,   May we see it?,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+160,T'JON,   Thank you. It's just we thought   we had lost it.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+161,SOBI,"       Careful with your choice of words,   T'Jon. It's ours, not yours.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+162,T'JON,       We paid a fair price for it!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+163,LANGOR,"   You offered a fair price, but we   have not received it.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+164,ROMAS,   You accepted our goods in trade!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+165,SOBI,   Then where are they? Tell me!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+166,T'JON,   That's not our problem!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+167,LANGOR,   No more than the barrel is your   property. It's as simple as this.   The goods were never delivered;   they were destroyed with your   ship.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+168,SOBI,   Hence the deal was incomplete;   hence possession of the Felicium   remains ours!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+169,ROMAS,       We need it.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+170,SOBI,"       Commander, I request you transport   my associate --       -- and myself down to our planet,   with our merchandise.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+171,T'JON,"   Yes, get them out of here! But   the barrel stays.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+172,LANGOR,       There's no reasoning with you.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+173,SOBI,"       Langor, you expect too much from   them. You always have and you   are always disappointed.    (then to T'Jon with a     hard edge)   You didn't pay -- so it's not   yours.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+174,T'JON,"   Damn you, Sobi --",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+175,TASHA,       Stop this! Now!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+176,RIKER,   Security to Cargo Bay Eleven!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+177,TASHA,"   Behave yourselves, Gentlemen.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+178,TASHA,"       Escort our ""visitors"" to the   Observation Lounge.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+179,TASHA,       A natural electrical charge... ?,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+180,RIKER,   Formidable.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+181,TASHA,"   Yes, and a difficult weapon to   confiscate.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+182,T'JON,   We have to resolve this. There   isn't much time.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+183,SOBI,   What can you offer?,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+184,T'JON,   Everything we had went down with   the Sanction.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+185,SOBI,   Then it is going to be difficult   to accommodate you.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+186,GEORDI,"   Solar flares are increasing in   magnitude, sir. Deflectors are   shaky, but holding.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+187,PICARD,"   Maintain.       And our rather combative guests,   Number One?",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+188,RIKER,"   Waiting for you in the   Observation Lounge, sir.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+189,PICARD,"   Data, what can you tell me about   the inhabitants of this system?",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+190,DATA,"   Not very much, sir. The only   recorded contact with the Delos   system was over two hundred years   ago. A scout ship reported two   inhabited planets, both   technologically just on the edge   of acquiring space travel.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+191,GEORDI,"   Odd that in two centuries, neither   civilization advanced further.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+192,TROI,"   Sir, I find it strange that none   of our visitors feel much remorse   about the two freighter passengers   who perished... yet their barrel   of cargo is a source of great   anxiety to them.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+193,PICARD,"   Yes, let us pay a call and get   some answers. Counselor, Number   One, Mister Data...",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+194,RIKER,"   Captain, may I present Sobi and   Langor from the planet Brekka,   which we are now orbiting. And   T'Jon and Romas... from the   neighboring planet, Ornara.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+195,PICARD,   I am sorry we could not save your   ship.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+196,T'JON,   You could have repaired it.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+197,PICARD,   Yes.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+198,T'JON,   We have only two left. Neither   works. They are critical to our   survival. Could you fix them?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+199,PICARD,   Mister Data?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+200,DATA,"   Our computer downloaded the   specifications for the magnetic   coils the freighters depend on,   sir. Assuming the malfunction   is similar... suitable   replacements can be fabricated.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+201,PICARD,       Instruct Engineering to proceed.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+202,DATA,"   Aye, sir.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+203,T'JON,"   Now, as for our cargo...",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+204,SOBI,"   Our cargo, Captain.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+205,ROMAS,"   Wrong, Sobi --",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+206,PICARD,   My first officer has said   ownership of the cargo is in   dispute. This is a question which   must be settled by whatever legal   mechanisms exist between your   societies.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+207,T'JON,"   Captain Picard, you don't   understand. This is a matter of   life and death.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+208,PICARD,   Why is that? What is the cargo?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+209,T'JON,   Medicine.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+210,PICARD,   Indeed.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+211,ROMAS,"   Our home planet is in desperate   need, Captain. Ornara suffers   from a lethal plague.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+212,T'JON,   The cargo you have impounded   represents the only hope of life   for our people.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+213,PICARD,   Is that right?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+214,SOBI,   Yes.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+215,LANGOR,"   You must think us heartless   brutes, Captain, but look at our   side of it. The plant which   yields the medicine Felicium grows   only in remote areas of our home   planet Brekka.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+216,SOBI,"   It must be painstakingly   cultivated, harvested, and   purified... a complex and   expensive process.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+217,LANGOR,   That single shipment of Felicium   represents an enormous investment.   We can't just give it away!,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+218,T'JON,   We paid for it.       We are asking only for what is   ours.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+219,LANGOR,"   That is your viewpoint. Ours,   of course, differs.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+220,ROMAS,   You are going to hold to that   position.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+221,SOBI,   I am constrained to abide by the   terms of our agreement.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+222,ROMAS,       Then you condemn us to death!,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+223,T'JON,   Romas --,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+224,ROMAS,"       You disgust me! If you saw the   suffering the plague has brought,   would you still be so heartless?",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+225,ROMAS,"       We are going to get to find out,   when you see what the plague does   to us.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+226,PICARD,   Romas -- you and T'Jon carry the   disease?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+227,ROMAS,       Yes. Every Ornaran does.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+228,PICARD,   Then you may have brought it   aboard my ship!       Was there a medical scan during   transport?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+229,RIKER,   Unverified -- the solar flares may   have caused a malfunction in the   biofilters --,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+230,PICARD,   Red Alert! Medical emergency --   decks twelve and thirteen. Doctor   Crusher to the Observation Lounge   immediately!,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+231,SOBI,"   You find us well, I trust?",45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+232,BEVERLY,   As far as I can tell. Your   physiology is somewhat different   but I detect no dangerous virus   or bacteria.,45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+233,LANGOR,   I assure you we are in perfect   health.,45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+234,T'JON,       We're not! We need our medicine.,45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+235,SOBI,       Our medicine.,45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+236,T'JON,   We paid for it -- it's ours now!,45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+237,BEVERLY,   Enough!,45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+238,SOBI,"       Of course you are right, Doctor.   Could we leave now?",45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+239,BEVERLY,   I see no reason why not.       Escort them to their quarters.,45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+240,LANGOR,"   Captain, could I talk with you   please... in private.",45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+241,PICARD,   Not right now.,45   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+242,PICARD,   What have you learned?,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+243,BEVERLY,   The Brekkians are free of   infection. The Ornarans have all   the symptoms of a disease -- but   I can't find a cause.,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+244,PICARD,   Perhaps the transporter filtered   it out when they were beamed   aboard?,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+245,BEVERLY,"       There's no record of it. Then   again, the solar flare activity   may have caused a transporter   malfunction.",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+246,PICARD,   Are they going to die?,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+247,BEVERLY,"   The physiology is somewhat   different from ours, so I need   to check further, but... my   instinct says no.",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+248,PICARD,   Do you think we are in danger from   this plague?,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+249,BEVERLY,"   Again, I don't think so, but I   need more time to know for sure.",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+250,PICARD,"   There are some missing pieces to   the puzzle, don't you feel that   too?",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+251,BEVERLY,   What's missing here is a little   humanity.,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+252,PICARD,"       Are we losing our professional   detachment, Doctor?",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+253,BEVERLY,"   Perhaps. As Captain, I think you   should know that I am developing   a very active dislike of the   Brekkians.",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+254,PICARD,   Understandable.,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+255,T'JON,"   Captain, you must give us back   our cargo.",45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+256,PICARD,   I can't do that.,45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+257,T'JON,   Why not? It belongs to us.,45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+258,PICARD,   And the Brekkians insist it is   theirs.,45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+259,ROMAS,   They lie!,45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+260,PICARD,"   Maybe so, but it's not for me to   decide.",45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+261,ROMAS,       We need some now... NOW! I don't   care if it's your 'decision' or   not... get us some!,45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+262,T'JON,"   Captain, what's happening to us,   is happening to thousands more   on Ornara. Please understand the   magnitude of the problem.",45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+263,ROMAS,       Your people don't need it --    (indicating the     Brekkians)   -- they don't need it... our   people do!,45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+264,T'JON,"   If you don't give it to us, you   will be party to murder... not   only us, but an entire   civilization!",45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+265,T'JON,"       Sorry, I did not mean to insult   you. I'm feeling very shaky.",45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+266,ROMAS,   We cannot hold out much longer!,45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+267,BEVERLY,"   No, Captain -- I think they should   have it. They believe it will   help them. That in itself might   control their symptoms.",45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+268,PICARD,   I'll talk with the Brekkians.,45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+269,T'JON,"   Thank you, Captain. I appreciate   anything you can do.",45B  INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+270,SOBI,"   May I say, Captain, how impressed   we are with your ship and its   facilities.",46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+271,PICARD,   Thank you.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+272,LANGOR,   And its crew. Everyone is so   efficient and professional.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+273,PICARD,   I am glad you are comfortable.   I've come to seek your agreement   to an Ornaran request.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+274,SOBI,   We cannot --,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+275,LANGOR,       Wait. Let the Captain speak.   We want to be reasonable.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+276,PICARD,   The Ornarans are quite ill and   are insistent that they need   Felicium.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+277,SOBI,   That is not surprising.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+278,PICARD,   Then would you object to allowing   them enough Felicium for their   immediate needs?,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+279,SOBI,"   Captain, we Brekkians are in   business -- we are not in the   habit of giving away what has not   been paid for.",46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+280,PICARD,   You would let them die rather than   share the medicine?,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+281,LANGOR,"   We want to be fair, Captain. We   agree to permitting them two   dosages for immediate use.",46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+282,SOBI,       No charge.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+283,PICARD,   I'll have our medical officer   handle it.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+284,LANGOR,"   I trust you won't mind if we are   present while you open the cargo,   Captain.",46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+285,LANGOR,   Point-zero-one milliliters is the   proper individual dosage.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+286,PICARD,       A very potent substance.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+287,SOBI,"   We've perfected our distillation   process over the years. In my   grandfather's day, the same amount   of Felicium would have filled five   rooms this size, Captain.",47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+288,DATA,   No doubt you have applied your   technology from other industries   to the refinement of this product.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+289,SOBI,   We have no other industry.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+290,PICARD,   None at all?,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+291,LANGOR,   We don't need any. The Ornarans   provide us everything we need --   in exchange for this.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+292,DATA,   Fascinating. Your society   dedicated exclusively to the   production of a single product.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+293,PICARD,"   A product for which you have no   use for, but which the Ornarans   can't live without.",47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+294,LANGOR,"   One of the little ironies of life,   Captain.",47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+295,SOBI,   But one we'd be fools not to take   advantage of. It is mutually   beneficial.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+296,LANGOR,   The Ornarans provide us with the   necessities of life and we provide   them with the necessities of   living. It is a fair exchange.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+297,PICARD,       A most interesting relationship.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+298,BEVERLY,   Excuse me... I'll take this to   Sickbay.,47   INT. CARGO BAY,CARGO BAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+299,BEVERLY,   Can I help?,48   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+300,T'Jon,   No.,48   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+301,ROMAS,       Hurry up!,48   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+302,BEVERLY,   You are feeling better?,48   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+303,T'JON,   Yes. Thank you. I'm fine now.,48   INT. SICKBAY,SICKBAY,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+304,PICARD,"   Report, Doctor Crusher.",49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+305,BEVERLY,   I may not know Felicium's full   effect on Ornaran physiology.   But I know how to interpret   physical reactions.,49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+306,PICARD,   Are the Ornarans recovering?,49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+307,BEVERLY,"   Both T'Jon and Romas are fine...   in fact, too fine.       Felicium is a narcotic.",49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+308,PICARD,"   Then T'Jon, Romas -- indeed every   Ornaran --",49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+309,BEVERLY,   -- is a drug addict.,49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+310,RIKER,   It's a fascinating little tale   we've run into of disease -- rescue   -- commerce -- and interdependence   between two worlds.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+311,PICARD,"   You have piqued my interest,   Number One -- please continue.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+312,RIKER,   Mister Data.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+313,DATA,"   Beginning several thousand years   ago, the two worlds took different   paths. Ornara became technically   sophisticated, Brekka did not.   Then two hundred years ago Ornara   was stricken by a devastating   plague.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+314,RIKER,   Their advanced technology could   offer no solution.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+315,DATA,"   Somehow, and there is limited   information on this point, the   cure was found in a plant which   is indigenous to only Brekka, and   which resisted all attempts at   cultivation on Ornara.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+316,RIKER,"   In any case a trading situation   quickly developed, which still   exists.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+317,DATA,"   The Ornarans acquire the Felicium   from the Brekkians, and in   exchange, the Ornarans provide   the Brekkians with foods and   staples.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+318,BEVERLY ,   A nice arrangement for the   Brekkians.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+319,RIKER,   And for the Ornarans -- without   the medicine they would all die.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+320,BEVERLY,"   No they wouldn't. Captain, here   are the results of my analysis.   Felicium is definitely a powerful   and addictive narcotic. What's   more, despite what the Ornarans   have been saying, it's not a   medicine. It was a medicine, and   it did cure the plague, two   hundred years ago.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+321,PICARD,   And they no longer need it.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+322,BEVERLY,   The plague is irrelevant now: it   doesn't exist... and it's not   going to recur.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+323,PICARD,   The Ornarans have no medical need   for Felicium.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+324,BEVERLY,"   No, but their physical and   psychological need is very real.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+325,BEVERLY,   What are you going to do?,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+326,PICARD,   Based on what we know so far...   there is nothing I can do.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+327,BEVERLY,   And you don't think drug addiction   and exploitation is sufficient   cause?,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+328,PICARD,   This situation has existed for   a very long time. Those two   societies are intertwined in a   symbiotic relationship.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+329,BEVERLY,   With one society profiting at the   expense of the other.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+330,PICARD,   That's how you see it.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+331,BEVERLY,   I can synthesize a non-addictive   substitute which will ease their   withdrawal symptoms.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+332,PICARD,   No. We can't do that either.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+333,BEVERLY,   I know this. You can't let them   have the Felicium.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+334,PICARD,   Why? Because it goes against our   moral sensibilities? Our mission   is not to force Federation or   Earth values on others in the   galaxy.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+335,BEVERLY,"   In this case... you're wrong,   Captain. One hundred percent   wrong.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+336,TASHA,"   Captain, I am receiving a call   from Ornara.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+337,PICARD,   Patch it in here.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+338,TASHA,"   The signal's ragged, but I think   I can put it on the Viewscreen.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+339,MARGAN,   I am Margan. Are my people on   board your ship?,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+340,PICARD,"   Some of them, yes.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+341,MARGAN,   May I speak with them?,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+342,PICARD,"   Yes.       Lieutenant Yar, have the Ornarans   brought in... no, wait, I don't   want them to have access to the   bridge.       We will contact you in a few   minutes.       I will take this in the guest   quarters.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+343,WESLEY,       I can understand how this could   happen to the Ornarans... What   I can't understand is why anyone   would voluntarily become dependent   upon a chemical.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+344,DATA,"       Yet, the voluntary addiction to   drugs is a recurrent theme in many   cultures.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+345,WESLEY,       As in the twenty-first century...   when Earth governments used   narcotics to control the military.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+346,DATA,"   Or look at the twentieth century.   The dangers of drug abuse were   well known, yet their use was   commonplace.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+347,WESLEY,   Why?,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+348,DATA,   That is what I do not understand.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+349,TASHA,   No one wants to become dependent.   That happens later.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+350,WESLEY,   But it does happen. So why do   people even start?,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+351,TASHA,"   Oh, lots of reasons... My home   planet was a place of great   poverty and violence. For some,   the only escape was through drugs.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+352,DATA,   I fail to comprehend how a   chemical substance can provide   an escape.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+353,TASHA,   It doesn't. But it makes you   think it does.       You have to understand -- drugs   can make you feel good.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+354,TASHA,       They put you on top of the world.   You're happy... Sure of yourself.   In control. A lot of people never   feel that otherwise.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+355,DATA,   But it is artificial.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+356,TASHA,"   It doesn't feel artificial. It   feels natural, good, and mind   expanding.       Until the drug wears off. Then   you pay the price. Once you come   down, you're lower than when you   started. So you take the drug   again -- and it kicks you back   up. But not as high this time.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+357,WESLEY,       So you take more.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+358,TASHA,   But each peak gets lower and   the valleys get deeper. Before   you know it -- you're taking the   drug not to feel good but to keep   from feeling bad.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+359,WESLEY,   And that's the trap.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+360,TASHA,   You think the drug expands your   universe -- but it actually   shrinks it. Shrinks it to where   you and the drug are all that's   left.     ,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+361,TASHA ,"       Pretty soon, all you care about   is getting your next dosage.   You'll lie, cheat, steal --   anything to get that fix.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+362,DATA,   Certainly by then you would   realize the danger.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+363,TASHA,   That's the worst of it. You don't   care. The drug is your salvation   -- your survival. Nothing else   is important.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+364,WESLEY,   I guess I just don't understand.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+365,TASHA,"   Wesley, I hope you never do.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+366,PICARD,"   Lieutenant Yar, we are ready in   the guest quarters.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+367,MARGAN,   T'Jon. Have you got it?,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+368,T'JON,"   Well, it's here, but...",56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+369,MARGAN,   You've got to get it to us.   T'Jon... please... We're dying   here. You don't know... this is   the worst it's ever been.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+370,T'JON,   I'm doing everything I can.   See... what happened was...,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+371,MARGAN,"       Stop. I can't listen. T'Jon...   we need the medicine. So, many   people... so much suffering.   You've got to get it to us. I   can't... I can't go on. Help,   T'Jon... please.",56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+372,PICARD,   I'm sorry.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+373,T'JON,   Take us to our planet - leave us   there with our medicine or this   person dies.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+374,T'JON,       Don't you see -- I have no choice.   We were sent to bring back the   Felicium. The suffering on my   planet is too great. People are   dying. It doesn't matter any more   whether we are entitled to the   Felicium... we have to have it.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+375,PICARD,   Let him go.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+376,T'JON,"   Take us there now -- or give us   a shuttle -- but we must have the   medicine... if you refuse, this   person dies.",56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+377,PICARD,   I will not be coerced.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+378,T'JON,   I'll do it. I'll kill him.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+379,PICARD,       No you won't. You're not a killer   and neither am I.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+380,T'JON,   Help us... please... help us.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+381,PICARD,   I'm not sure that I can.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+382,LANGOR,"   Captain Picard, we couldn't help   overhearing. Could I see you for   a moment?",62A  INT. ORNARAN GUEST QUARTERS,ORNARAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+383,PICARD,"   Come with me, Doctor. This could   be interesting.",62A  INT. ORNARAN GUEST QUARTERS,ORNARAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+384,LANGOR,   We have thought about this a great   deal.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+385,SOBI,   Both of us feel deeply about what   is happening on Ornara.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+386,LANGOR,"   Although this is going to cause   hardship to us and to our people,   we have decided to give the   Felicium to them.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+387,SOBI,   They can pay for it when they are   able.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+388,LANGOR,   We don't want to cause any   suffering.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+389,PICARD,       I wonder why I expected this.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+390,LANGOR,   Pardon?,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+391,PICARD,   It's the other shoe.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+392,BEVERLY,"       The Ornarans are not aware, are   they?",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+393,LANGOR,   Of what?,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+394,BEVERLY,   That the plague which nearly   destroyed Ornara... infected your   world as well.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+395,LANGOR,   You don't know that for sure.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+396,BEVERLY,   It had to.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+397,PICARD,"   But somehow, one of your ancestors   realized that your desire for the   drug continued after the disease   had been cured. They made the   connection and were able to end   their addiction.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+398,BEVERLY,       But these same wonderful people   also realized that their neighbors   never found out. Their need for   the drug grew to the point it is   now. Your sole source of support   comes from providing the narcotic.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+399,PICARD,   And the refinement process of   which you are so proud was a way   to make Felicium even more   addicting... and tighten your   grip on the Ornarans even further.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+400,LANGOR,   Are you going to tell them?,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+401,PICARD,"   No. I can't tell them. You see,   I am bound by the rules of the   United Federation of Planets,   which say I am not to interfere   in other worlds, other cultures.   To tell them any of this would   be interfering and would violate   the Prime Directive.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+402,SOBI,       You're talking to us about it...,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+403,PICARD,   Telling you things you already   know... which changes nothing.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+404,BEVERLY,   Jean-Luc. I can synthesize   something which will alleviate   their suffering and make   withdrawal painless.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+405,LANGOR,"   That won't be necessary, because   if I understand the captain, he   is going to allow the Ornarans   to have the Felicium.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+406,PICARD,"   Yes, I am.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+407,BEVERLY,"   You can't do that. Some things   go beyond words on a page. These   Brekkians have knowingly enslaved   others. They have caused untold   suffering and hardship, just so   their pitiful lives could be   easier. At least don't give the   Ornarans more drugs.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+408,PICARD,   It is not for me to make any of   these decisions.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+409,LANGOR,"   You are absolutely right, Captain.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+410,GEORDI,"   Captain, we've arrived at Ornara   and assumed standard orbit.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+411,PICARD,       Acknowledged. Thank you.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+412,PICARD,       Forgive me for doing what I must.       I'm beaming you down to your   world... with your Felicium.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+413,T'JON,   Good. I knew it would work out   this way.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+414,ROMAS,"   You've made the only humanitarian   decision, Captain.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+415,SOBI,       Langor and I will beam down to   Ornara with you.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+416,LANGOR,   We'll work out payment terms for   the Felicium.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+417,T'JON,"   On behalf of my people, I extend   thanks for your benevolent   attitude.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+418,T'JON,"       And I also thank you, Captain,   for doing the right thing.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+419,ROMAS,   Your gift of these coils will   ensure that our freighters will   continue to work.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+420,PICARD,       No.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+421,T'JON,       No.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+422,PICARD,"   I will not supply you with spare   parts for your freighters. If   you want them repaired, you'll   have to do that yourself.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+423,ROMAS,   In a short time our freighters   will be inoperable.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+424,PICARD,   Quite possibly.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+425,T'JON,   But we depend on those freighters!   We must have those parts.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+426,SOBI,"   If you withhold those coils,   you're disrupting the stability   of both our planets --",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+427,LANGOR,   -- and interfering with a trade   arrangement that has lasted for   generations! What of this Prime   Directive of yours?,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+428,PICARD,   Nothing in the Prime Directive   compels me to help you.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+429,ROMAS,"   You're an executioner, Captain.   You want our world to perish.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+430,PICARD,   No. That's not what I want.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+431,T'JON,"   But without our freighters, there   will be no more shipments of   Felicium! We will die!",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+432,BEVERLY,   You must trust in yourselves.   There are... other options.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+433,PICARD,   And you must understand that my   oath as a Starfleet officer gives   me no choice in the matter.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+434,PICARD,       Transporter Room. Lock onto our   guests and their cargo and beam   them down to Ornara.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+435,T'JON,"       Captain, I hope you realize what   you've done to us.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+436,PICARD,"   Of that, you can be sure.       Good luck.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+437,BEVERLY,"   When the Felicium runs out, the   people of Ornara will suffer   horrible withdrawal pains.",68B  INT. TURBOLIFT,TURBOLIFT,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+438,PICARD,   No doubt.,68B  INT. TURBOLIFT,TURBOLIFT,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+439,BEVERLY,   We could have made their burden   easier.,68B  INT. TURBOLIFT,TURBOLIFT,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+440,PICARD,"   Only in the short run. Painful   as it will be, the people of   Ornara -- and the people of Brekka   -- must shape their own destinies.",68B  INT. TURBOLIFT,TURBOLIFT,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+441,BEVERLY,   It sounds so... heartless.,68B  INT. TURBOLIFT,TURBOLIFT,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+442,PICARD,"   Doctor, it was not an easy   decision.",68B  INT. TURBOLIFT,TURBOLIFT,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+443,BEVERLY,   I just hope it was the right one.,68B  INT. TURBOLIFT,TURBOLIFT,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+444,PICARD,"   Mister La Forge, take us out of   orbit.",68C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+445,GEORDI,"   Aye, sir. Course laid in.",68C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation
+446,PICARD,   Engage.,68C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""Symbiosis""",1988-02-17,The Next Generation

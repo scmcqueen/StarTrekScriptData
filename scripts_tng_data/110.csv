@@ -1,0 +1,439 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's log, stardate 41723.9.   In response to a Starfleet order   we are in the Xendi Sabu star   system having rendezvoused with   a Ferengi vessel which has   requested a meeting. Although...",1    EXT. SPACE - ENTERPRISE AND FERENGI VESSEL (OPTICAL),SPACE - ENTERPRISE AND FERENGI VESSEL,EXT.,"""The Battle""",1987-09-14,The Next Generation
+1,PICARD ,"       ... we arrived here and made   appropriate signals to the Ferengi   three days ago, they have so far   responded only with the message:   ""Stand by, Enterprise.""",1    EXT. SPACE - ENTERPRISE AND FERENGI VESSEL (OPTICAL),SPACE - ENTERPRISE AND FERENGI VESSEL,EXT.,"""The Battle""",1987-09-14,The Next Generation
+2,PICARD,   Come!,3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+3,BEVERLY,   You called for me?,3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+4,PICARD,"   Yes, Doctor. I've been feeling...   odd, lately. Fatigued. And now   I've got a headache.",3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+5,BEVERLY,   A what?,3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+6,PICARD,"   Certainly you know what a   ""headache"" is, Doctor.",3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+7,BEVERLY,   Of course. But I don't often   encounter one.,3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+8,PICARD,"   The reason for it seems fairly   obvious. What are these Ferengi   up to? ""Stand by, Enterprise.""   Stand by for what?",3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+9,BEVERLY,   I can't find a thing wrong.,3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+10,PICARD,   I can't either. But they could   be baiting some kind of trap...,3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+11,BEVERLY,"   With your head. I see nothing   physically wrong, but I want to   run additional scans in Sickbay.",3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+12,PICARD,"   Doctor, all I've got is...",3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+13,BEVERLY,       ... is an order to report to   Sickbay.       From the one person aboard who can   give you an order.,3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+14,RIKER,   Captain from first officer.   They're finally sending a message.,3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+15,PICARD,"   On my way, Number One.       Sorry, Doctor. Duty calls.",3    INT. CAPTAIN'S QUARTERS (OPTICAL),CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+16,RIKER,"   They're prepared to talk, sir.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+17,PICARD,   Have they given any hint what   they've been waiting for?,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+18,TASHA,"   Negative on that, Captain. But   they have identified their Captain   as ""Bok,"" DaiMon Bok.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+19,TROI,"   If it's Bok I'm sensing, he seems   anxious to meet you, sir.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+20,PICARD,   Me? Why me? I've never heard   of him.,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+21,GEORDI,"   You'll be able to see him now,   sir. They're willing to   communicate on visual.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+22,DATA,"   A reminder of something we learned   the only other time we dealt with   Ferengi, sir -- their hearing is   very sensitive.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+23,WORF,"       Yes, they could pick up even a   whisper being transmitted.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+24,PICARD,   Consider ourselves reminded.       Open hailing frequencies.,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+25,TASHA,"   Hailing frequencies open, sir.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+26,PICARD,   Ferengi vessel! This is Captain   Jean-Luc Picard of the Enterprise.   We are transmitting visually.,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+27,BOK,   Is this THE Captain Picard?,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+28,PICARD,   Do we know each other?,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+29,BOK,"   I know you, Picard.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+30,PICARD,   I'm afraid you have the advantage.   Is this... Bok?,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+31,BOK,"   I am Bok, DaiMon of the Ferengi.   I have asked you here to discuss   a mutual problem, Captain.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+32,PICARD,"   What problem is that, DaiMon Bok?",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+33,BOK,   I insist on speaking of that   matter in person. Shall we meet   on your vessel or mine?,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+34,TASHA,   Hailing frequencies closed.,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+35,TROI,"   Captain, I sense considerable   deception on Bok's part. And   danger!",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+36,RIKER,"   Then definitely, sir, you should   meet with him here. Keep him   under our control.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+37,TASHA,"   Now open, sir.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+38,PICARD,"       I appreciate your offer, DaiMon   Bok, and ask you to be our guests.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+39,BOK,"       As you wish, Picard. Perhaps this   will begin a new era of   cooperation for both our peoples.   In one Earth hour, then?",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+40,PICARD,"   One hour, Bok. End transmission.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+41,WORF,   I can't believe they're coming   here!,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+42,PICARD,       They agreed a bit too easily.,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+43,PICARD,"       Then, in one hour we'll know why.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+44,PICARD,"   Are you accustomed to always   getting your way, Doctor?",5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+45,BEVERLY,"       When my way makes sense, Captain.   There are still forty minutes   before the Ferengi beam over; I'll   have these scans done in ten.",5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+46,PICARD,   A lot of effort for something as   simple as a headache.,5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+47,BEVERLY,"   ""As simple?"" It is my job to know   your condition intimately. You   should not have a headache unless   something is wrong.",5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+48,BEVERLY,       It may be true that headaches were   once quite common... but this was   in the days before the brain was   charted...    (very puzzled; a new     setting)   ... before we understood the nature   of pain... when we were suffering   from such things as the common   cold.,5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+49,PICARD,"   And so why do I have a headache,   Doctor?",5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+50,BEVERLY,   I haven't the slightest damned   idea!,5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+51,PICARD,   What's that?,5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+52,BEVERLY,   Something doctors use when they   feel foolish over being proven   wrong.       Feel better?,5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+53,PICARD,       The pain's gone.,5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+54,BEVERLY,"   Medical fakery -- the pain's   actually still there, just   cloaked. I'll want further exams   when this Ferengi matter is   settled.",5    INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+55,WESLEY,   Sir! You'll soon be getting an   intruder alert!,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+56,RIKER,"   What? Wesley, if you've something   to report...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+57,WESLEY,"       If you'll scan heading four-four   mark one-six-three, Lieutenant,   you'll find...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+58,TASHA,"   Intruder alert, sir...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+59,GEORDI,"       I've got something, sir... very   distant.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+60,WESLEY,"   It's an old style starship,   Constitution Class, heading this   way under impulse power, sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+61,RIKER,   Says who?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+62,PICARD,   Carry on.       Answer the first officer's   question.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+63,WESLEY,"   Uh... says the long distance   sensors, sir. I was in   Engineering, playing around with   boosting sensor output...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+64,DATA,       Very interesting. Boosting it   how?    (seeing Picard's look;     to Wesley)   We will discuss it later.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+65,GEORDI,"       I read it now, sir, as... a   Constitution Class starship...   coming this way under impulse   power.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+66,RIKER,   Sir? What's wrong?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+67,PICARD,"       Nothing, just... a mild headache.       The correct procedure, Ensign,   would have been to signal your   finding to the bridge immediately.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+68,WESLEY,"   Yes, sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+69,RIKER,   Bringing it here personally...       ... perhaps with the idea of being   on hand for the Ferengi beam   over... might have imperiled our   ship had something hostile been   approaching.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+70,WESLEY,"   Yes, sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+71,WORF,"   We are receiving no signal at all   from the approaching starship,   sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+72,DATA,"       Time, sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+73,PICARD,"   Time? Oh, for the Ferengi to beam   over.       Do you see any problems connected   with this old starship coming in?",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+74,RIKER,"   Suggest we'll be safer, sir, with   the Ferengi over here whatever   is happening.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+75,PICARD,   Concur.       Stand by!       Let's bring them on visually.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+76,TASHA,"   Hailing frequencies open, sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+77,PICARD,   Enterprise to Ferengi vessel.   We are standing by to receive you.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+78,BOK,"   Ready to transfer ourselves over,   my dear Captain Picard.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+79,PICARD,   Question... where shall we receive   you?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+80,BOK,"   On your own bridge, of course.   Ferengi efficiency!",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+81,PICARD,   Data? What do you read?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+82,DATA,"   Nothing, sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+83,WESLEY,"   It could take a few moments,   Captain. If they build up their   beaming energy through capacitors   as seems likely...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+84,PICARD,"   We welcome you in peace to the   Enterprise, DaiMon Bok.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+85,BOK,"       It is our pleasure, Captain   Picard. Might I introduce my   first officer, Kazago, and my   second, Rata?",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+86,PICARD,"       This is my first officer,   Commander Riker...       And Counselor Troi. Second   Officer Data; Lieutenant La Forge;   security officers, Lieutenant Yar   and Lieutenant Worf; Ensign   Crusher.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+87,BOK,"   Yes, we have heard you use   females...       Clothed females. Most   interesting.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+88,RIKER,"       They are that, sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+89,KAZAGO,   And the android was mentioned too.       What is its price? We should like   to purchase it.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+90,PICARD,   It... he is not for sale.   Commander Data is...is...,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+91,RIKER,"   You wouldn't want him, Kazago.   He's second-hand merchandise.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+92,DATA,"       Second-hand, sir?    (then sees Riker's     smile)   Oh, of course! A human joke...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+93,TASHA,"   Excuse, Captain, but the   unidentified starship is   continuing in, still no signal   at all...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+94,BOK,   Think nothing of it.. It is under   our control.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+95,PICARD,       One of our starships under your   control?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+96,BOK,"       Do not be alarmed. It is a gift   from us.       With which we honor the ""Hero of   Maxia.""",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+97,PICARD,   Who?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+98,BOK,"       Why you, Picard, of course! Don't   you remember the Battle of Maxia?",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+99,PICARD,"   I'm sorry, I'm afraid I do not.   Data?",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+100,DATA,"   Captain, he may refer to an   incident which occurred seven   years ago in the Maxia Zeta star   system, where an unidentified   starship...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+101,BOK,       Unidentified?! That fine vessel   was Ferengi!,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+102,DATA,"       Which you destroyed, sir.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+103,PICARD,"       My sincere regrets, Bok, but that   ship did not identify itself.   It simply attacked; we defended   ourselves...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+104,BOK,       Such mistakes happen in space.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+105,DATA,"       Hardly a ""mistake,"" sir. Your   report showed it deliberately   attacked...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+106,TASHA,"       Do you want the arriving vessel   on Main Viewer, sir? It is only   a thousand kilometers away now...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+107,BOK,   Put it on your viewer.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+108,PICARD,       Main Viewer.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+109,KAZAGO,   We have set its controls to   automatically take station in   space next to your Enterprise.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+110,BOK,       There is no one aboard it.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+111,RATA,"       When, with your permission, its   log will be downloaded into this   ship's records.       At a price...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+112,BOK,       No price!,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+113,KAZAGO,       No price?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+114,PICARD,   For what purpose? What is this   all...,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+115,TROI,"   I felt something too, Captain.   What is it?",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+116,RIKER,   Sir... ?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+117,BOK,   Perhaps it is... his conscience?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+118,TROI,       Why do you say that?!,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+119,RIKER,   Bridge to Sickbay...,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+120,PICARD,"       No... no, I'm fine...",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+121,TROI,       It seemed as if... as if it were...   something from your past?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+122,PICARD,   I'm all right now; I'm fine.    (to Bok; indicating     viewer)   What is this all about?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+123,BOK,"   It is about the battle I   mentioned, Captain. A gift in   honor of that occasion. Look at   that ship closely.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+124,PICARD,"       Enlarge please, La Forge.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+125,PICARD,"   It... it is the Stargazer. My old   ship, but how... where did you find   it?",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+126,BOK,"   It was a derelict, adrift in space   on the far side of this star   system. How it got there...       ... is none of my business,   Captain. But now that vessel is   yours, if you wish to have it.",6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+127,KAZAGO,       We are not selling it to him?,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+128,BOK,   Call it an act of friendship.,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+129,RATA,   At no cost!? Ugly. Very ugly!,6    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+130,PICARD ,"   Captain's log, stardate 41724.1.   Bok and his officers have returned   to their vessel, inviting us now   to officially take possession of   the Stargazer. They will stand   by while completing the   downloading of its log to us.",10   EXT. SPACE - THREE VESSELS (OPTICAL),SPACE - THREE VESSELS,EXT.,"""The Battle""",1987-09-14,The Next Generation
+131,BEVERLY,   Like before?,11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+132,PICARD,   Perhaps... it hit with more impact.,11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+133,TROI,"   ""Hit?""       Sorry, but anything could be   important.",11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+134,BEVERLY,"   You say you ""felt"" something   yourself?",11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+135,TROI,"   I... believe so. Like... well, a   thought...       But rather... ""mechanical"" in   nature.",11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+136,PICARD,"   Are you sure it wasn't one of my   thoughts? At that moment, I was   remembering being at the helm of   the Stargazer, a maneuver being   made. We were hit...       Something's burning... I smell   smoke!       Don't you smell it?",11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+137,BEVERLY,"   There's nothing burning, Jean-Luc.",11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+138,PICARD,"   Ah... no, of course. It was... the   memory I was calling up.    (finds a smile for     Beverly)   Sorry.",11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+139,TROI,"   Memory or... ""nightmare?""",11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+140,PICARD,"       Well, it was strong, whatever it   was.       Ready, Number One.",11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+141,RIKER,   Staff's waiting if Doctor Crusher   approves.,11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+142,BEVERLY,   I'll do better than that -- I'll   go along.,11   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+143,WORF,"   But if they don't know what the   Ferengi are up to, what good is   it to sit there guessing?",12   INT. MAIN BRIDGE - MINIMUM CREW,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+144,WESLEY,   Well... sometimes it determines   exactly what you don't know.,12   INT. MAIN BRIDGE - MINIMUM CREW,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+145,GEORDI,"   Dead on target, my friend. Would   you like to go up and listen to   them?",12   INT. MAIN BRIDGE - MINIMUM CREW,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+146,WESLEY,       Some day. Right now I'm happy to   be here.,12   INT. MAIN BRIDGE - MINIMUM CREW,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+147,PICARD,   We were traveling at warp two   through the Maxia Zeta star system   when an unidentified starship   suddenly appeared and fired on   us! From close range.,13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+148,RIKER,   Where did it come from?,13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+149,PICARD,"   It must've been lying in a deep   moon crater nearby. The first   attack damaged our shields, and   in the confusion it hit us a   second time.",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+150,RIKER,   No clue who they were?,13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+151,PICARD,"   No name, no reason...       Can you identify them, Vigo? Our   shields are failing; if they come   in again... ?",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+152,TROI,       Sir? Who's Vigo?,13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+153,PICARD,   Ah... my weapons officer on the   Stargazer.       I was getting caught up in this.,13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+154,RIKER,"       Then, with your shields failing,   sir...",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+155,PICARD,"   I improvised. With the other ship   coming in for the kill...    (describes with his     hands)   ... I ordered a sensor bearing,   and when it went into its return   arc...",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+156,DATA,"   ... you performed what Starfleet   textbooks now call ""The Picard   Maneuver.""",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+157,PICARD,   What any good helmsman could have   done. I dropped into high warp...       ... then stopped right off the   target vessel's bow...       ... and fired everything I had.,13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+158,RIKER,"   By blowing into warp speed, you   appeared for an instant to be in   two places at once...",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+159,PICARD,   And our attacker fired on the   wrong one.,13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+160,RIKER,"   As you say, ""what any good   helmsman could have done.""       But you did it first...",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+161,PICARD,"   A ""save our skins"" maneuver. The   Stargazer was on fire, finished.   We had to abandon ship, and limp   through space in shuttlecraft for   weeks before being picked up.       I haven't thought about it in   years...",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+162,DATA,"   The Ferengi are standing by for   us to take possession of the   Stargazer, sir.",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+163,PICARD,       I want to go over to her.,13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+164,RIKER,"       I understand, sir.       Once my people make certain she's   safe.",13   INT. CONFERENCE ROOM,CONFERENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+165,DATA,   USS Stargazer. Constitution   Class. Starfleet Registry NCC   2893...,16   INT. STARGAZER BRIDGE (REDRESS BATTLE BRIDGE),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+166,GEORDI,   I activated the emergency power   cells...       Amazing they still work.,16   INT. STARGAZER BRIDGE (REDRESS BATTLE BRIDGE),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+167,WORF,"   The rest of the ship is all clear   of surprises, Lieutenant Yar.",16   INT. STARGAZER BRIDGE (REDRESS BATTLE BRIDGE),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+168,GEORDI,"   When I read about this ship at   the Academy, I never dreamed I'd   ever be on her.",16   INT. STARGAZER BRIDGE (REDRESS BATTLE BRIDGE),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+169,TASHA,"       Yar to Enterprise. All clear,   sir.",16   INT. STARGAZER BRIDGE (REDRESS BATTLE BRIDGE),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+170,RIKER,"   Thank you, Lieutenant. Captain?",17   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,"""The Battle""",1987-09-14,The Next Generation
+171,PICARD,"   Yes, Commander",18   INT. TRANSPORTER ROOM #1 (OPTICAL),TRANSPORTER ROOM #1,INT.,"""The Battle""",1987-09-14,The Next Generation
+172,RIKER,"   Stargazer searched and secured,   sir. Give her my best.",18   INT. TRANSPORTER ROOM #1 (OPTICAL),TRANSPORTER ROOM #1,INT.,"""The Battle""",1987-09-14,The Next Generation
+173,PICARD,"   I will that, Number One.       Energize!",18   INT. TRANSPORTER ROOM #1 (OPTICAL),TRANSPORTER ROOM #1,INT.,"""The Battle""",1987-09-14,The Next Generation
+174,PICARD,"   Hello, old friend...",19   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+175,DATA,"   You'll find this intriguing,   Captain.",19   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+176,PICARD,"   What do you find, Data?",19   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+177,DATA,"   Last entry was dated seven years   ago, sir. By you...       ""We are forced to abandon our   starship. May she find her way   without us.""       Apparently, she did.",19   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+178,BEVERLY,"   How are you feeling, Captain?",19   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+179,PICARD,"   Fine, Doctor.       Lieutenant Yar, run a structural   analysis on the Stargazer for   impulse tow.       Data, download all computers to   the Enterprise and file...       I'm going to my old cabin.",19   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+180,BOK,"       Try this, ""Hero of Maxia.""",24   INT. FERENGI STARSHIP - SCIENCE ROOM (INTERCUT AS,FERENGI STARSHIP - SCIENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+181,PICARD,   DAMNNNN!,25   INT. STARGAZER - CAPTAIN'S QUARTERS,STARGAZER,INT.,"""The Battle""",1987-09-14,The Next Generation
+182,PICARD,       OHHHH!,25   INT. STARGAZER - CAPTAIN'S QUARTERS,STARGAZER,INT.,"""The Battle""",1987-09-14,The Next Generation
+183,BEVERLY ,   Captain?,25   INT. STARGAZER - CAPTAIN'S QUARTERS,STARGAZER,INT.,"""The Battle""",1987-09-14,The Next Generation
+184,BEVERLY,"   Another headache, sir?!       That worries me. I want you back   on the Enterprise.",25   INT. STARGAZER - CAPTAIN'S QUARTERS,STARGAZER,INT.,"""The Battle""",1987-09-14,The Next Generation
+185,PICARD,"   Yes, but... my things here...",25   INT. STARGAZER - CAPTAIN'S QUARTERS,STARGAZER,INT.,"""The Battle""",1987-09-14,The Next Generation
+186,BEVERLY,   I'll see they're sent to your   Enterprise quarters.,25   INT. STARGAZER - CAPTAIN'S QUARTERS,STARGAZER,INT.,"""The Battle""",1987-09-14,The Next Generation
+187,RIKER,"   Enterprise now taking possession   of Stargazer, Kazago.",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+188,KAZAGO,"   Permission granted, Riker.",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+189,RIKER,"   Actually it was quite a bargain,   Kazago. I thought the Ferengi   always made a profit on things.",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+190,RIKER,"   Set sub-warp speed for towing,   La Forge.",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+191,DATA,"   Starfleet has responded to our   request, sir. A tug will   rendezvous with us and tow the   Stargazer back to Xendi Starbase   Nine.",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+192,RIKER,"   Very well, Data.       How was it, Captain?",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+193,PICARD,"       Strange, Number One. Like   visiting the house you grew up   in, but no one's home, except the   phantoms of the past...",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+194,TROI,   It has troubled you?,27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+195,PICARD,"   Not as much as this damn headache,   Counselor. Take over, Number One.",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+196,RIKER,"   Aye, sir.",27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+197,RIKER,       What's wrong?,27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+198,TROI,   I wish I could say.,27   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+199,S ,"   ... shields weakening, Captain!   Torpedoes armed! Where are they?   Ohmygod, sir!       Fire! Fire!!",28   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+200,RIKER,"   What is it, Data? Why all the   mystery?",30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+201,DATA,"   It is the records of the Stargazer,   sir. What the Ferengi call the   ""Battle of Maxia""...       It seems the Captain's personal   log contains a much different   version of that conflict than the   official historic account.",30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+202,RIKER,   What are you saying?,30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+203,DATA,"   It would appear that the starship   which Captain Picard attacked,   had in fact, been under a flag   of truce...",30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+204,RIKER,   What?!,30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+205,DATA,"   And apparently, the captain   destroyed the ship without notice   or provocation.",30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+206,RIKER,   Impossible. What about the fire   aboard the Stargazer?,30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+207,DATA,   An accident in Engineering.,30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+208,RIKER,   And the proof?,30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+209,DATA,   It is logged in his own voice.   Would you care to hear it?       Sir? Sir?,30   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+210,RIKER ,"   First officer's personal log,   stardate 41724.2. An unexpected   discovery made by Commander Data   in the downloaded log of the   Stargazer...","31   EXT. SPACE - ENTERPRISE, STARGAZER AND FERENGI VESSEL",SPACE,EXT.,"""The Battle""",1987-09-14,The Next Generation
+211,RIKER ,       ... appears to indicate Captain   Picard was guilty of falsifying   the report he made to Starfleet   concerning the Stargazer's last   voyage.,"31   EXT. SPACE - ENTERPRISE, STARGAZER AND FERENGI VESSEL",SPACE,EXT.,"""The Battle""",1987-09-14,The Next Generation
+212,PICARD,   What does this mean?,33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+213,RIKER,"   I don't know, sir. That sounds   like your voice.",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+214,PICARD,"   Don't you know it is, Number One?",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+215,RIKER,"   No, sir, I don't. I refuse to   believe you could have said that.",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+216,PICARD RECORDED,"   ... and I admit I must have   mistaken their subspace antenna   for a weapons cluster.   Unfortunately, I fired our main   phasers...",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+217,PICARD RECORDED,       ... and our direct hit destroyed   the unknown vessel instantly.,33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+218,RIKER,"   I recognize, of course, your voice   has been simulated somehow. I've   already put Data to work on it.",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+219,PICARD,"   Thank you, Will.       I never made that log entry, of   course. But it still creates a   duty for you to perform.",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+220,RIKER,"   Yes, sir, I must report it to   Starfleet. But at this distance,   it will take at least a full day   for subspace communications to   reach there...",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+221,PICARD,   ... and another full day for their   answer to return. I'd like the   truth on this by then.,33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+222,RIKER,"   Sir, you can't believe they'd   relieve you from command...",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+223,PICARD,   Why shouldn't they? Better safe   than sorry with the Ferengi now   making friendship overtures.,33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+224,RIKER,"   And it's certain that the Ferengi   are behind this faked log. No   wonder they're still out there,   waiting...",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+225,RIKER,"       Headache back, sir?",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+226,PICARD,   Damn!       I'll call the doctor again.,33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+227,RIKER,"   It's no wonder you have one, with   all this going on, sir.       Try to relax. I've got things in   hand.",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+228,PICARD,   Once again...,33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+229,PICARD RECORDED,"   This is a confession, given by   me, Jean-Luc Picard, commanding   USS Stargazer, in the hopes that   my belated honesty will be taken   into account by Starfleet when   judging...",33   INT. CAPTAIN'S QUARTERS,CAPTAIN'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+230,RIKER,"   La Forge, open hailing frequencies.",36   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+231,GEORDI,"   Open, sir.",36   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+232,RIKER,"   I'll take it in the Ready Room.       A secure channel, Geordi.",36   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+233,GEORDI,"   Secure, Commander.",36   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+234,RIKER,   Starship Ferengi! This is   Commander Riker here. I'd like   to speak to First Officer Kazago.,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+235,KAZAGO,"   A problem, Riker?",37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+236,RIKER,   Is our channel secure on your end?,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+237,KAZAGO,       It is now.,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+238,RIKER,   Are you aware of the details of   the Battle of Maxia?,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+239,KAZAGO,"   Captain Bok has just made me aware   of it, Riker. The infamy of your   Picard is now fully known.",37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+240,RIKER,   Infamy?!,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+241,KAZAGO,   I would call the wanton   destruction of an unarmed vessel   infamy.,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+242,RIKER,   And if I produce evidence that   Captain Picard's log entry was   falsified to indicate that... ?,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+243,KAZAGO,   What else would your decadent   culture say to defend such   disgrace?! But I can hardly   imagine you contacted me to   discuss an ancient battle.       What do you want of me?,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+244,RIKER,   Just one question.,37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+245,KAZAGO,"   As you humans say, I'm all ears.",37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+246,RIKER,"   First officer to first officer,   Kazago, if your Captain Bok knew   of that, why this peaceful meeting   to present us with the Stargazer?",37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+247,KAZAGO,"   We freely give YOU back your   derelict warship and now you   accuse US of crime, Riker?!       I can bear NO more insults!",37   INT. READY ROOM (OPTICAL),READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+248,PICARD,   Who the hell is it?!,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+249,BEVERLY,"   Not resting, Captain?",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+250,PICARD,"   More like dying, Doctor. What's   wrong with me?!",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+251,BEVERLY,"   I wish to hell I knew, Captain.   But something unusual has   definitely happened to you.",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+252,PICARD,   Why do doctors always state the   obvious like it's a revelation?,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+253,BEVERLY,   Why do captains always think   they're immortal?       Better now?,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+254,PICARD,   Aghhh! My head!,41   INT. PICARD'S' QUARTERS - BACK TO SCENE,PICARD'S' QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+255,BEVERLY,       Now that has to do it right?,41   INT. PICARD'S' QUARTERS - BACK TO SCENE,PICARD'S' QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+256,PICARD,   No!,41   INT. PICARD'S' QUARTERS - BACK TO SCENE,PICARD'S' QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+257,BEVERLY,   You didn't say it's been this bad!,41   INT. PICARD'S' QUARTERS - BACK TO SCENE,PICARD'S' QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+258,PICARD,"   It hasn't been! But it is getting   worse, Doctor...",41   INT. PICARD'S' QUARTERS - BACK TO SCENE,PICARD'S' QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+259,BEVERLY,   It has to be some kind of   emotional pressure connected with   the Stargazer...,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+260,PICARD,   I got the damn headache before   I even knew my old ship still   existed...       But maybe you're partly right...,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+261,BEVERLY,   Want to talk to Counselor Troi   about it?,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+262,PICARD,       What I need now is a friend...,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+263,BEVERLY,       I'm here.,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+264,PICARD,"       The Stargazer was an exploration   vessel. The fight at Maxia was   not my first action, but it was   the first time I ever killed   anyone.",43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+265,BEVERLY,   You had no choice...,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+266,PICARD,   Didn't I? I don't know   anymore... I just don't know.,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+267,BEVERLY,"   Commander Riker told me about the   altered log, sir. If that's   troubling you...",43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+268,PICARD,"       The last three nights, I... hear   voices. I'm standing on the   bridge, fire all around me... the   klaxons, smoke, and I give the   order...       And now the Stargazer is really   here!       And that log... Am I going crazy?   How do I know if I was in my right   mind at Maxia? How do I know if   I'm in my right mind now?",43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+269,PICARD,   What was... that?,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+270,BEVERLY,   Just something to let you sleep.,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+271,PICARD,       Yes... sleep... I need sl...,43   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+272,S ,"   ... shields weakening, Captain!   Torpedoes armed!       Where are they?",45   INT. ENTERPRISE - CAPTAIN'S QUARTERS,ENTERPRISE,INT.,"""The Battle""",1987-09-14,The Next Generation
+273,BOK,"       And now, dear captain, you are   ready to live the past!",46   INT. FERENGI SHIP - SCIENCE ROOM (OPTICAL),FERENGI SHIP - SCIENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+274,S ,"   Where did they... come from?       Phasers, sir? Sir?       SIR?",47   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+275,S ,"       What should we do, sir?       Should we fire back?",47   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+276,S ,"       Fire, Captain, FIRE!",47   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+277,BOK,       You will injure yourself as once   you injured me!,48   INT. FERENGI VESSEL SCIENCE ROOM - ON BOK,FERENGI VESSEL SCIENCE ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+278,S ,   SIR?!,49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+279,PICARD,       Damage report!,49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+280,S ,"       Fusion generator under surge   control, sir!       Power systems failing!",49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+281,PICARD,   Sensor bearing on hostile ship!,49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+282,S ,"   Seven, seven mark nineteen, sir!   Fire in Engineering...",49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+283,PICARD,"   Ready phasers, and lock!       Stand by for warp nine, heading   seven, seven mark twenty...       And ENGAGE!",49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+284,PICARD,   Steady. NOW reverse and stop!       Phasers FIRE! Torpedoes AWAY!,49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+285,PICARD,   Fire!,49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+286,PICARD,   FIRE!!,49   INT. PICARD'S QUARTERS - BACK TO SCENE,PICARD'S QUARTERS,INT.,"""The Battle""",1987-09-14,The Next Generation
+287,DATA,"   By comparing the main Stargazer   computer log with Captain Picard's   personal log, I have found   ""checksum"" discrepancies, sir.",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+288,RIKER,   What does that mean?,54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+289,DATA,"   All information is time-coded by   entry, and the bits when totaled   produce an aggregate amount   which...",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+290,RIKER,       I don't want a lesson in computer   science! Bottom line?,54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+291,DATA,   One of these two logs is a   forgery.,54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+292,GEORDI,       Correction -- the log just found   aboard the Stargazer is a forgery.,54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+293,DATA,"   As I said. That is one of them,   isn't it?",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+294,GEORDI,"   You're looking better, Captain.",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+295,PICARD,"   A little sleep, thanks to the   doctor, works wonders. Any report   on the logs?",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+296,DATA,"   Yes, sir. Whoever tampered with   your personal log was clever...",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+297,GEORDI,   ... but slightly clumsy. There's   no doubt it is a fabrication.,54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+298,BEVERLY,"   Number One, we think you should   see this brain scan graph which...       What are you doing here?!",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+299,PICARD,"       I thought I was captain of this   starship, Doctor.",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+300,BEVERLY,"   Of course you are, but I...",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+301,PICARD,"   Thank you for your confirmation   of that.       But now, except for Commander   Riker, I want you all back at your   stations...       Is that clear?",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+302,BEVERLY,"       I have some business concerning   your health, sir...",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+303,PICARD,"       I mean you too, Doctor. I have   business with Riker.",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+304,BEVERLY,"   Under protest, Captain.",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+305,RIKER,"   You have orders for me, sir?",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+306,PICARD,"   Release the Stargazer from the   tractor beam, Number One.",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+307,RIKER,   Sir?,54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+308,PICARD,   The tractor beam.,54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+309,RIKER,"   Sir, are you abandoning...",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+310,PICARD,       No. Her inertia will carry the   Stargazer along on this heading   with us. Or did you sleep through   the Academy lecture on conserving   tractor beam power?,54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+311,RIKER,"   No, sir. I'll release her, or   course.",54   INT. READY ROOM,READY ROOM,INT.,"""The Battle""",1987-09-14,The Next Generation
+312,BEVERLY,"   Obviously, there is some thought   process disorder here but I cannot   find any physical reason for it.       Anything?",56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+313,TROI,"   I'm puzzled too. I keep sensing   random thoughts... but two sets   of them. As if they were his,   but intermixed with his from   another source.",56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+314,BEVERLY,"   I'm busy at the moment, Wesley...",56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+315,WESLEY,"   I know you're busy, Mom, but when   I went back to the main sensors   in Engineering to try some more   sensitivity experiments...",56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+316,BEVERLY,       Wes! I'll be glad to hear about   it when I'm through with...,56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+317,WESLEY,"       But, Mom, this is important!",56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+318,TROI,   Does it have something to do with   Captain Picard?,56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+319,WESLEY,"   Yes, ma'am...       ... if that's what you're talking   about there. I don't know   anything about brain scans but   I glanced at these when you were   studying them, Mom, and I   noticed...     ",56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+320,WESLEY ,    (pointing at scan     graphs)   ... these patterns here were like   patterns of the low-intensity   transmissions picked up from the   Ferengi ship.       I just went back and checked and   they're exactly the same.,56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+321,TROI,       What kind of transmissions?,56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+322,WESLEY,   I don't know. Engineering has   nothing like it on record.,56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+323,TROI,       Let's get to the captain...,56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+324,BEVERLY,"   No, they might be affecting the   captain. To Riker!",56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+325,WESLEY,"   You're welcome, ladies.       Adults!",56   INT. SICKBAY,SICKBAY,INT.,"""The Battle""",1987-09-14,The Next Generation
+326,BEVERLY,"   The captain, Commander?",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+327,RIKER,   Resting in his quarters...       ... after ordering both of you   to your duty stations.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+328,TROI,   This is more important!,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+329,RIKER,       Than the captain's orders?,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+330,BEVERLY,"   Yes, when we have reason to   believe his judgment is being   affected.",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+331,RIKER,"   Well then, why not let everyone   in on it?",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+332,TROI,"   It affects them too. There have   been some strange...       Did he say ""low intensity... ?""       ... unusual low intensity   transmissions from the Ferengi   vessel...",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+333,RIKER,   Did who say?,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+334,BEVERLY,   My son!,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+335,BEVERLY,       ... transmissions which exactly   match certain anomalies found in   the captain's brain scans.       Something over there is affecting   Captain Picard's thought patterns.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+336,RIKER,"   Computer, tell me Captain Picard's   location!",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+337,COMPUTER,   Captain Picard is in Transporter   Room Three.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+338,RIKER,"   What? Computer, emergency order   to Transporter Room Three...",57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+339,COMPUTER,       New information. Captain Picard   is no longer aboard the   Enterprise.,57   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+340,BOK ,"   Welcome back, Captain.",59   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+341,PICARD,       What is happening?,59   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+342,BOK,"       Shields up, computer.",59   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+343,COMPUTER,   Shields in place.,59   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+344,PICARD,   What are you doing?,59   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+345,BOK,       Collecting on an old debt...,59   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+346,PICARD,       AGHHH-H-H!!,59   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+347,RIKER,"   Stargazer! Respond, Captain!",60   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+348,TASHA,"       Shields up, sir. No way to beam   over help.",60   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+349,GEORDI,   I am reading something very   strange. A low intensity beam   of intermittent pulse inside this   starship.,60   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+350,DATA,   I have a fix on it...       Inside Captain Picard's quarters.,60   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+351,TASHA,       You transferred some of his   belongings from the Stargazer... ?,60   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+352,WORF,       Including a fairly heavy chest... !,60   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+353,RIKER,"   Go take a look, fast!",60   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+354,GEORDI,       The Stargazer is powering up!,60   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+355,BOK,"   I have been waiting a long seven   years for this, Picard!",61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+356,PICARD,   I have no idea what you're talking   about...,61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+357,BOK,"   Do you not, hu-man? Can you not   remember the crime you committed   against my very blood?       You murdered my only son!",61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+358,PICARD,   Your son?,61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+359,BOK,   He was the commander of the ship   you destroyed!)       On his first voyage as DaiMon.,61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+360,PICARD,   The ship... ? The... the Ferengi   ship that attacked me...       ... or is it about to attack me?,61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+361,BOK,   And I have spent these years   searching... seeking... a proper   blood revenge. And I found it!,61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+362,PICARD,   OHHHHH... ! OHHHHH... !,61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+363,BOK,"       From a distant world which hu-man   evil has not yet reached. May   you never secure these! I am rich,   yet two of these cost me the   profits of an entire life.",61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+364,PICARD,   You cannot... control me like...,61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+365,BOK,"   Die well, Picard.",61   INT. STARGAZER BRIDGE (REDRESS) (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+366,RIKER ,"   First officer's log, stardate   41724.3. Captain Picard, without   explanation, has beamed himself   to the Stargazer which is now   moving away from us...",62   EXT. SPACE - ENTERPRISE AND STARGAZER (OPTICAL),SPACE - ENTERPRISE AND STARGAZER,EXT.,"""The Battle""",1987-09-14,The Next Generation
+367,RIKER ,       ... under its own power.,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+368,TASHA,"   Hailing frequencies open, sir.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+369,RIKER,"   Enterprise to Stargazer, please   respond.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+370,RIKER,"       Enterprise to Stargazer... to   Captain Picard aboard Stargazer,   please answer.       Mister Data, what was Stargazer's   condition?",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+371,DATA,"   Considerable fire damage to   interior surface as reported, sir.   But none of her main systems are   crippled.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+372,RIKER,"       Armaments, Lieutenant Yar?",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+373,TASHA,"   Six photon torpedoes short, sir,   probably used when the Captain   destroyed his Ferengi attacker   seven years ago. Otherwise fully   armed.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+374,RIKER,"   Where in the Captain's quarters   was it, Mister Worf?",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+375,WORF,"   His chest from the Stargazer, sir.   Just where I had left it -- he   hadn't yet unpacked.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+376,BEVERLY,"   So, he may not have even known   it was there. And if this is able   to pick up or magnify a   thought-altering transmission...",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+377,TROI,       ... it could have prepared him for   whatever's happening now.,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+378,RIKER,"   Let's find out... or try to.       Contact the Ferengi vessel,   Lieutenant.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+379,TASHA,"       Hailing frequencies open, sir.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+380,RIKER,"   Enterprise to Ferengi vessel, we   transmit visually. Do you   respond?",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+381,KAZAGO,"   Why is our gift to you under   power, hu-man?",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+382,RIKER,   I'll discuss that with your   captain.,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+383,KAZAGO,   He is working in our ship's   laboratory. Where is your   captain?,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+384,RIKER,"       He's beamed himself aboard the   Stargazer, and I'm wondering...    (brings sphere up into     view)   ... if this has anything to do with   it?",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+385,KAZAGO,   How do you have possession of   that?,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+386,RIKER,"   It was found in our captain's   belongings, brought over from the   Stargazer.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+387,KAZAGO,   It... is a forbidden device. A   Thought Maker. If your captain   is... criminal enough to own one...,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+388,RIKER,"       Kazago, I ask again, first officer   to first officer... what is going   on? Something is happening that   neither of us seems to know about.",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+389,KAZAGO,"       It... is not seemly to question   one's own DaiMon, Riker. I... am   not prepared to do that...",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+390,TASHA,       Sir... I have the Stargazer.,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+391,RIKER,   Switch now!,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+392,RIKER,"   Captain Picard, this is the   Enterprise, sir...",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+393,PICARD,       Do not attack again! We are on   a peaceful...,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+394,TROI,"   He's living a delusion, sir. He's   seeing things we don't...",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+395,PICARD,   Give your identity! You force   us to defend ourselves!       Phasers full up! Arm torpedoes!   Why aren't shields at full   power... ?,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+396,TASHA,"   We've lost him, sir...",63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+397,GEORDI,   When he put the shields up...,63   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+398,PICARD,"   Damn, I said...       ... put fusion generators on surge   control.       You're moving too slowly. Arm   the torpedoes, man!",64   INT. STARGAZER BRIDGE - FULL ON PICARD,STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+399,PICARD,       Vigo! Get a fire control party   up here!,64   INT. STARGAZER BRIDGE - FULL ON PICARD,STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+400,FIRST  ,"   Shields weakening, Captain!",64   INT. STARGAZER BRIDGE - FULL ON PICARD,STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+401,PICARD,   Weapons report!,64   INT. STARGAZER BRIDGE - FULL ON PICARD,STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+402,SECOND  ,"   Phasers coming to full charge,   sir. Torpedoes armed!",64   INT. STARGAZER BRIDGE - FULL ON PICARD,STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+403,PICARD,   Who are they? Identify them!,64   INT. STARGAZER BRIDGE - FULL ON PICARD,STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+404,FIRST  ,"   They're turning for a third pass   at us, sir!",64   INT. STARGAZER BRIDGE - FULL ON PICARD,STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+405,THIRD  ,"   We can't take another hit,   Captain!",64   INT. STARGAZER BRIDGE - FULL ON PICARD,STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+406,TROI,"   I can now feel anger from our   captain, first officer.   Frustration over whatever he   is re-living...",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+407,GEORDI,"   The Battle of Maxia, sir! That's   all it can be.",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+408,RIKER,   Mister Data?,66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+409,BEVERLY,"   What is that ""maneuver"" he became   famous for... ?",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+410,RIKER,"       The Picard Maneuver!       Mister Data, what is the defense   against that?",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+411,DATA,"   There is no defense, sir.",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+412,RIKER,   Then devise one! Fast!,66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+413,KAZAGO,   First Officer Kazago to hu-man   Riker.,66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+414,RIKER,"   Not now, Kazago!",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+415,KAZAGO,   We do not wish to become involved   in what has become clearly a   Federation matter...,66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+416,RIKER,"   Fine, fine, Enterprise out!",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+417,KAZAGO,"   But you should also know that   DaiMon Bok no longer commands this   vessel, Riker. His first officer   has confined him for engaging in   this unprofitable adventure.       Good luck, First Officer Riker.",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+418,DATA,"   I have computed a possibility,   Commander. Since even deep space   contains trace gases, sir, a   vessel in the Picard maneuver   might seem to disappear, but our   sensors could locate any sudden   compression of those gases...",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+419,RIKER,       And use it as an aiming point?   Blast our own captain to bits?,66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+420,DATA,"   Aim our tractor beam at it, sir!   Seize it! This class starship has   enough power for that.",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+421,RIKER,"       In our captain's words... make   it so! Set sensors, tractor   beam...       I hope you're right, Data...",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+422,DATA,"   No question of it, sir...",66   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+423,RIKER,   Stand by!,68   INT. ENTERPRISE MAIN BRIDGE (OPTICAL),ENTERPRISE MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+424,RIKER,   Lock on tractor beam!,68   INT. ENTERPRISE MAIN BRIDGE (OPTICAL),ENTERPRISE MAIN BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+425,PICARD,   Ready phasers!,69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+426,RIKER ,"   Captain Picard, listen to me!",69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+427,PICARD,"   Is that you, Vigo?",69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+428,RIKER ,"   It's Commander Riker, sir!",69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+429,RIKER,"       Captain, hear me! Look around   you, the Ferengi are using a   thought device on you...",69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+430,PICARD,   Stand by for warp...       Who are you?!,69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+431,RIKER,"   It's Riker, sir. Your Number One.   Look for a silver sphere...",69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+432,RIKER,"    (continuing; sees it     too)   There it is! Destroy it with   your phaser, Captain!",69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+433,PICARD,"   Phaser...       Yes, a sphere... Bok used it...",69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+434,RIKER,   Destory it!,69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+435,PICARD,       Phaser... destroy the sphere.,69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+436,RIKER,   Captain! Are you all right?,69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation
+437,PICARD,"   Enterprise, lock on. Beam me   home, Riker.",69   INT. STARGAZER BRIDGE (OPTICAL),STARGAZER BRIDGE,INT.,"""The Battle""",1987-09-14,The Next Generation

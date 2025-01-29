@@ -1,0 +1,335 @@
+,character,quote,scene,location,view,episode,date,series
+0,BASHIR,"   Another three centimeters to the    right and you would've severed the    brachial artery.        Auto-suture.    (she hands him the     device)    And if that had happened, you    would've bled to death right there    in the holosuite.",1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+1,MARTOK,"   The human fascination with ""what    might have been"" is tiresome,    doctor. The artery was not    severed and I am not dead.",1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+2,BASHIR,   Oh. Well. Forgive me for boring    you. Let me get right to the    point.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+3,BASHIR,        You're acting like a fool.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+4,MARTOK,   Your... observation is noted. But    spending two years in a Dominion    prison camp has dulled my    reflexes. This...       ... only proves that I need    further training.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+5,BASHIR,"   Turning off the holosuite safety    protocols during a battle    simulation is a dubious idea    at best. For a man with only one eye    it's idiotic. Now, if you'd like    to consider an ocular    replacement...",1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+6,MARTOK,   I do not want an artificial eye.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+7,BASHIR,   Then accept the fact you have a    disability and stop acting like --,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+8,MARTOK,        There are limits to how far I will    indulge you.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+9,COM,"   General Martok, there is a    priority message for you from the    Klingon High Council.",1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+10,BASHIR,   You're done here.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+11,MARTOK,        Route the message to my quarters.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+12,COM,   Acknowledged.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+13,MARTOK,   Doctor... thank you.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+14,BASHIR,   If you really want to thank me...    don't walk in here dripping blood    anymore.       It takes days to get it out of the    carpet.,1    INT. INFIRMARY,INFIRMARY,INT.,,1997-02-13,Deep Space Nine
+15,WORF,   Check it now.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+16,NOG,"        Still no increase in phaser relay    efficiency, sir. The through-put    reading is steady at one four    eight point seven.",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+17,WORF,   Have you initialized the interface    program?,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+18,NOG,"   Yes, and then I charged the pre-   fire chamber and recalibrated the    emitter stage. This thing just    doesn't work!",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+19,NOG,        Sir.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+20,WORF,   Very well. We will start over.    Go to the Engine Room and download    the operating system into the    computer core one file at a time.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+21,NOG,"   Aye, sir.",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+22,NOG,"        Good evening, general.",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+23,MARTOK,   Cadet.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+24,WORF,   General. I did not expect you    until twenty-two hundred hours.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+25,MARTOK,   I must cancel our appointment. I    have received new orders from the    High Council -- a mission of some    importance... I must prepare.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+26,WORF,   Of course. May glory and honor    follow you on your journey.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+27,NOG,"   Excuse me, sirs?",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+28,NOG,       If I could just... slip by... ?,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+29,WORF,   How is your shoulder?,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+30,MARTOK,   Doctor Bashir has made the    necessary repairs -- and I told    him it was a holosuite accident.    He would not understand the need    to draw blood in a warrior's    training exercise.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+31,WORF,"   Few humans would. However, I do    apologize again for the    inconvenience. I did not intend    to cause so much damage.",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+32,MARTOK,   I am the one who did not parry the    blow in time. A simple and    foolish mistake -- one that I    would not have made two years ago.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+33,WORF,   You have made great progress.    Your fighting skills will return    in time.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+34,MARTOK,   Yes...,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+35,WORF,   Can you discuss your mission?,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+36,MARTOK,"   Three days ago, the battle cruiser    B'Moth began a patrol near the    Cardassian border. They have not    been heard from since and have    been reported as missing.",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+37,WORF,   It is possible she was destroyed    by the Dominion. The Jem'Hadar    attacked a Federation starship    near the border less than a week    ago.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+38,MARTOK,"   That is our assumption as well,    but we must be certain. So I am    being given command of a Bird of    Prey -- the Rotarran -- to conduct    a search for the B'Moth.         This will be the first time I have    led troops in the field since    my... confinement by the    Dominion.",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+39,WORF,   It must be... an exciting    prospect.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+40,MARTOK,"   I tell you, Worf -- without shame --    that there were days in that    prison camp... when the thought    that I would never again set foot    on a Klingon vessel... made me    weep like an old woman.",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+41,WORF,   I envy you the days ahead. It    will be a glorious adventure.,3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+42,MARTOK,"   An adventure that we could share,   my friend. I need someone who I    can trust at my side. Someone    whose loyalty I can count on.        Worf, son of Mogh... I ask you to   join me on this mission as my    friend... and as my first    officer.",3    INT. DEFIANT - BRIDGE,DEFIANT,INT.,,1997-02-13,Deep Space Nine
+43,SISKO,"   I told the General I'm inclined to    grant his request for your    services, commander. I can    certainly understand why he'd want    you along -- you're a fine    officer. But I'm not sure why you    want to go on this mission.",5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+44,WORF,   It is... a great honor to be asked    to serve under General Martok.         And... he saved my life in the    Dominion prison camp.,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+45,SISKO,   Oh? You didn't put that in your    mission report.,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+46,WORF,   It was a personal matter -- not    something that belongs in an    official report.,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+47,WORF,"        You... know that I was forced to   fight the Jem'Hadar guards in the    camp...        Each day they would call me to the    ring and each day I would fight.    But then, there came a day when    I... wavered.",5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+48,SISKO,   You mean you didn't want to go    back into the ring?,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+49,WORF,"   No. I mean that I considered    letting them kill me. It seemed    like the only way out.        Just before I went into the ring,    Martok turned to wish me    success... and then he saw what    I was planning -- saw it in my    eyes. It was a moment of    Tova'dok.",5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+50,SISKO,   Of what?,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+51,WORF,"   There is no human word for it. It    is a moment of... clarity between    two warriors on the field of    battle. Much is said without the    need for words. In that moment,    Martok knew what was in my mind.        Once I realized that he saw my    intention to give up, I could no    longer go through with it. I went    back into the ring... and fought    once more.",5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+52,WORF,   Perhaps it is something that a    human cannot understand...,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+53,SISKO,   As of this moment you will be    relieved of all Starfleet    obligations and will be placed on    detached service to the Imperial    Klingon Defense Forces.,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+54,WORF,"   Thank you, sir.",5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+55,SISKO,   Mister Worf...        Q'apla!,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+56,WORF,        Q'apla!,5    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,,1997-02-13,Deep Space Nine
+57,KIRA,        The revised duty roster -- read it    and weep.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+58,O'BRIEN,   Small arms recalibration? You    don't mean all the arms on the    station?,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+59,KIRA,   'Fraid so. And I need an    experienced combat officer to do    it. Worf has already set up the    parameters... all you have to do is    make sure it gets done.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+60,BASHIR,   I'm the new Intelligence officer?,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+61,KIRA,"   It has to be a Starfleet officer    with a level four security    clearance. That means either you    or Dax, and I need Dax to take    over as Fleet Liaison Officer.",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+62,O'BRIEN,   It beats retuning phaser rifles.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+63,BASHIR,"   Well, I certainly hope Worf enjoys    himself while we're stuck here    taking over his duties.",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+64,DAX,"   Julian, have you ever been on a    Klingon ship? If you think the    Defiant is cramped and    uncomfortable, try spending a week    on a bird of prey. Worf isn't    exactly taking a luxury cruise.",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+65,O'BRIEN,"   I've heard that serving on a    Klingon ship is like being with a    gang of ancient sea pirates. You    advance in rank by killing the    people above you, so everywhere    you turn you're surrounded by    potential assassins.",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+66,KIRA,   That's crazy. How can a ship    function like that?,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+67,DAX,   It's not quite that chaotic. The    social and military hierarchy on    a Klingon vessel is very strictly    enforced. A subordinate can only    challenge his direct superior and    only under certain conditions.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+68,BASHIR,"   What sort of ""conditions?""",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+69,DAX,"   Dereliction of duty, dishonorable    conduct, cowardice...",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+70,O'BRIEN,   Cowardice? A Klingon?,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+71,DAX,"   It's been known to happen. The    Klingons are as diverse a people    as any other. Some of them are    strong, and some of them are weak.",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+72,BASHIR,"   Well, I'd say that those two    definitely fall into the ""strong""    category.",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+73,KIRA,   Trouble?,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+74,ODO,   Not yet.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+75,KIRA,   I can see why they caught your    attention.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+76,O'BRIEN,   They're off Martok's new ship?,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+77,O'BRIEN,   They seem quiet enough.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+78,ODO,"   For the moment, maybe. But do you    see the necklace the one on the    left is wearing?",7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+79,BASHIR,        Yes.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+80,ODO,   Those are neckbones -- Cardassian    neckbones.,7    INT. QUARK'S,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+81,DAX,   Decided not to wear the sash after    all?,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+82,WORF,"   Officially, there is no House of    Mogh in the Empire, so I saw    little point in wearing its emblem    on a Klingon ship.",9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+83,DAX,   How do you think the crew's going    to feel about serving under a man    without a House?,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+84,WORF,   How they feel is unimportant. All    I require is their obedience.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+85,DAX,"   Spoken like an uncaring, hard-   nosed, autocrat -- the    quintessential first officer.",9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+86,WORF,   I... do not wish to have a lengthy    good-bye.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+87,DAX,   I wasn't planning on having one.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+88,WORF,   Good.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+89,WORF,   Jadzia.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+90,DAX,   Yes.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+91,WORF,   I think it would be better to part    company here on the station.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+92,DAX,"   Oh, I'm coming with you.",9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+93,WORF,   What?,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+94,DAX,   The Rotarran's short-handed and I    still have four month's leave    coming. I've already cleared it    with Martok and Benjamin. I'm    your new Science Officer.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+95,WORF,   Why didn't you tell me?,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+96,DAX,   It was more fun this way.        And after getting a good look at    a couple members of the Rotarran's    crew... I don't think we're going    to be having a lot of fun on this    mission.,9    INT. CORRIDOR/AIRLOCK,CORRIDOR/AIRLOCK,INT.,,1997-02-13,Deep Space Nine
+97,DAX,   BOO!!!,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+98,TAVANA,        Ros-te-ka cha'Domak ootha Trill?   (Did you think her spots were    going to bite you?),11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+99,TAVANA,"        I am Tavana, Engineering Officer.",11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+100,DAX,"   Jadzia Dax, Science Officer.",11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+101,TAVANA,   Dax... ? Are you related to the    great Curzon Dax?,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+102,DAX,   Curzon was the last host for my    symbiont. I still carry his    memories.,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+103,TAVANA,   My mother met Curzon once on the    Homeworld... she said he was very    taken with her.,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+104,DAX,"        He was ""very taken"" with a lot of    people.",11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+105,TAVANA,   So was my mother.,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+106,WORF,"        I am Worf, son of Mogh. I now    take my place as first officer.    I serve the captain, but I stand    for the crew.        Who brings the record of battle    for this ship?",11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+107,KORNAN,"        I, Kornan son of Shovak, weapons    officer of the ship Rotarran    present the glorious record of our    honor and hope that you find us    worthy of your leadership.",11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+108,LESKIT,"   If you're looking for our    victories, you won't find any.    Not for the last seven months.",11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+109,WORF,        I do not need help in recognizing    a list of failures.,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+110,WORF,        It is clear to me that none of you    are worthy of my blood or my life.    But I will stand for you    nonetheless... and together we    will restore this ship's honor and    bring glory to the Empire!,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+111,WORF,        I have accepted the crew's record    of battle. On their behalf I    pledge you our lives and ask you    to lead us as commander of this    ship.,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+112,MARTOK,   I accept your lives into my hands.        De-lak DOH! ,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+113,WORF,   Clear all moorings. Release    docking clamps. Bow thrusters    ahead one half.,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+114,LESKIT,   We have cleared the Docking Ring.,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+115,MARTOK,   Ahead one quarter impulse.,11   INT. KLINGON BRIDGE ,KLINGON BRIDGE ,INT.,,1997-02-13,Deep Space Nine
+116,WORF,"        Helmsman, plot a direct course for    the last known position of the    B'Moth, maximum warp.",14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+117,MARTOK,        No. That would take us through    the Tong Beak Nebula. I want to    go around the nebula.,14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+118,WORF,"   General, that will add a full day    to our journey.",14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+119,MARTOK,"   I am aware of that. But there are    reports of Dominion ships    operating in the Nebula, and I    want to avoid a fight with the    Jem'Hadar.",14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+120,LESKIT,   You wish to... avoid a fight?,14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+121,MARTOK,"        Your tone does not sit well with    me, helmsman. Our mission is to    find the B'Moth, not satisfy your    warrior's pride.",14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+122,LESKIT,"   My apologies, sir. I meant no    disrespect.",14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+123,WORF,        Then carry out your orders and lay   in the course. Maximum warp.,14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+124,LESKIT,"       Yes, commander. Maximum warp.   Around the Nebula.       Helm ready.",14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+125,MARTOK,   Mahk-cha! ,14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+126,WORF,       Koi Keh Less Pook Load...,14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+127,WORF/DAX,      Koi Pook Beh Poo   Yoch Bow Math Bow Je... Shuv Weee...,14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+128,WORF/DAX/LESKIT,   Say Moach Chu May... Ew...,14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+129,WORF/DAX/LESKIT/ALL,   Mah Shoov... Mah Nong... Ej Ma Choch Chew    Nee Beh Yin Mahj... Ach Wov... Coo    Bath Ma Cheth Bejj... Ej Yo... Keej... Dahk    Vav Poo Ma Dee Muv... Pa Rech Ma Shoov Tach Koo    Ma Mev Ko Ma Shoov Tach Ma Ov.,14   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+130,DAX,"        Maybe you didn't read the crew    roster, but my name is Dax and I'm   the new science officer on this    garbage scow. And you were in my    seat.",17   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+131,DAX,        I'm glad we understand each other.    Now get down to the other end    where you belong.,17   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+132,TAVANA,   Stewed bok-rat liver.,17   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+133,DAX,"        Not very fresh. With enough    bloodwine, it might be    acceptable...",17   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+134,LESKIT,        There's been no bloodwine on this    ship for six months.,17   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+135,DAX,   Really? Then I'm glad I brought   three barrels aboard just before    we left Deep Space Nine.,17   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+136,KORNAN,    Three... barrels?,17   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+137,MARTOK,"   ""Dishonorable conduct""... ""lack of    respect""... ""dereliction of    duty""... ""inattention to    orders""... ""unmotivated""...    ""insufficiently aggressive""...    These personnel reports read like    prison records.",18   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+138,WORF,   We should remember that the    Rotarran has been beaten again and    again by the Jem'Hadar. It is not    surprising that crew morale has    suffered.,18   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+139,MARTOK,"   It is more than a case of low    morale. This crew has been beaten    so many times, that they expect    defeat. And that... is dangerous.",18   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+140,WORF,   They need a victory. A decisive    battle against the Jem'Hadar would    do much to lift their spirits.,18   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+141,MARTOK,   And mine. No one hungers for a    victory over the Jem'Hadar more    than I do. But we must be    cautious. We cannot risk taking   this crew into combat before    they're ready.,18   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+142,WORF,   They will be ready -- I will make   certain of it.,18   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+143,MARTOK,"   I know you will, my friend.    Together, we will make the    Rotarran an honorable ship once    again -- a ship worthy of the    Empire.",18   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+144,MARTOK,   You may return to your station.,18   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+145,TAVANA,"   ... the Cardassians were trapped    between us and the asteroid field.    It was perfect -- their power was    failing, they had no other ships    nearby and our weapons were fully    charged.",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+146,KORNAN,        And we were still denied the    victory.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+147,TAVANA,   Three Jem'Hadar ships appeared out    of the asteroid field.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+148,DAX,   Three to one are long odds. I'd    say you did well just getting away    with your ship in one piece.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+149,LESKIT,   Getting away is something we've    become very good at. The Rotarran    can run from battle faster than    any ship in the quadrant.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+150,TAVANA,"   You never could handle your    bloodwine, Leskit. You sound like    a sniveling Ferengi crying about    lost profit.",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+151,LESKIT,"        That's supposed to wound my pride,    but Tavana has forgotten that no    one serving on the Rotarran has    any pride left.",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+152,DAX,   Does that include me?,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+153,LESKIT,"   I do not wish to insult someone    who brought me wine, but... one    does wonder why the successor to    the great Curzon Dax would consent    to serve on a ship like this.",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+154,ORTAKIN,   There's no mystery. She is the    parMach'kai of our new First    Officer. I heard it on the space    station before we left.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+155,DAX,   Worf is only part of the reason    I'm here. I think it's an honor    to serve under General Martok.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+156,LESKIT,        You mean the one-eyed giant?,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+157,DAX,   I wouldn't let him hear you say that.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+158,LESKIT,   He won't.        Unless Worf isn't the only one    sharing your bed on this trip.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+159,DAX,"   On this trip, my bed's as empty as    yours, Leskit. Except mine's    empty by choice.",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+160,TAVANA,   Now that's a sound I haven't heard    on this ship for a long time.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+161,KORNAN,"   It won't last. This ship is made    for tears, not laughter.",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+162,DAX,"   You're really not much fun at    parties are you, Kornan?",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+163,KORNAN,   Make your jokes. Hold off fate    for another day if you can... but    this ship and all the souls within    its hull... are cursed.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+164,DAX,        What are you saying -- someone    cast a spell on you?,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+165,KORNAN,"   Some one, some thing, who knows    what guides the fury of the    universe?",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+166,KORNAN ,   But that fury has been loosed upon    us. Death and dishonor walk these    decks like members of the crew.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+167,TAVANA,"   You talk too much, Kornan.",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+168,KORNAN,   Tell me you don't believe it too.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+169,LESKIT,   We've cloaked.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+170,WORF,   Alert status one. A Jem'Hadar    patrol ship is directly ahead.    Prepare for combat operations.,19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+171,KORNAN,"   Now you will see -- either death    or dishonor will visit us this    day... and there is nothing you,    or I, or any of us can do about    it.",19   INT. KLINGON MESS HALL ,KLINGON MESS HALL ,INT.,,1997-02-13,Deep Space Nine
+172,MARTOK,"   What are they doing out here, this    far from the Cardassian border?",20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+173,DAX,       They're conducting active polaron    scans of this sector -- it's    likely they're on some kind of    reconnaissance mission.,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+174,MARTOK,   Can their scans penetrate our    cloak?,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+175,DAX,   I'd say there's less than a three    percent chance of detection.,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+176,MARTOK,   What's our weapons status?,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+177,KORNAN,"   All torpedo bays are loaded, and    the warheads are armed.    Disruptors are locked on target.",20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+178,LESKIT,        They've increased speed. They're    beginning to pull away from us.   Shall I match velocity?,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+179,MARTOK,   No. Take us back to our original    course.,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+180,LESKIT,   Forgive this unworthy officer's    poor hearing. But what was your    order?,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+181,MARTOK,        Take us back to our original    course. Our priority is to find    the B'Moth.,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+182,WORF,        Sir -- we have them in our sights.    They cannot escape if we attack    before --,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+183,MARTOK,"       No, Worf ",20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+184,WORF,       But letting this ship go --,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+185,MARTOK,       Do not question me!       Is the course laid in?,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+186,LESKIT,"   Yes, captain. I await your next   command.",20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+187,MARTOK,   Engage.,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+188,MARTOK,   Stand down from Alert Status.       You have the bridge.,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+189,KORNAN,   Now do you believe?,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+190,DAX,   That was a mistake. We shouldn't    have let them go.,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+191,WORF,"   Our orders are to find the B'Moth,    not seek combat. It was a...    prudent decision.",20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+192,DAX,"   To hell with prudence. This isn't    a Federation starship, this is a    Klingon bird of prey. We could've    had an easy victory, and in case    you haven't noticed, this crew    could use a victory.",20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+193,WORF,"        Enough. You may be my    parMach'kai, but that does not    give you the right --",20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+194,DAX,        I am an officer on this ship and    I am trying to warn my superior    that a dangerous situation is    developing and that he'd better do    something about it.,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+195,WORF,   What do you mean by dangerous?,20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+196,DAX,"        Take a good look around you,    commander. Maybe it's just me...    but I think we're in trouble.",20   INT. KLINGON BRIDGE (OPTICAL) ,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+197,MARTOK,"   I brought you here to support me,    not to undermine my authority!",21   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+198,WORF,   I am simply trying to point out    that we had an opportunity to    destroy an enemy ship with little    risk to ourselves.,21   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+199,MARTOK,"   ""Little risk?"" What if they had    gotten off a distress call before    we destroyed them? They could've    given away our position and called    in reinforcements! We would've    spent the next three days avoiding    Jem'Hadar ships instead of    carrying out our mission!         No. It was not the right time for    battle, my friend.",21   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+200,MARTOK,        Do you question my judgment on    this matter?,21   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+201,WORF,   No.,21   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+202,MARTOK,   Good. Without your support I    cannot command this ship. Tell me    I have not made an error by making    you first officer.,21   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+203,WORF,"   You have my full support, general.",21   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+204,MARTOK,"   I knew you would not fail me,    Worf. And you can rest assured    that I will not fail you.",21   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+205,LESKIT,       ... two years I've spent on the    Cardassian border. Two years of    fighting guls and legates and    glinns. They were cunning    enemies... always had us chasing    sensor ghosts and holo-   projections... everything was a    game with them... a plan within a    plan within a plan leading into a    trap.    (he fingers his     necklace)    It was an honor to kill them.,23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+206,ORTAKIN,   The Cardassians.,23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+207,LESKIT,"   Ah, but you can respect a    Cardassian.",23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+208,LESKIT ,   ... because he fights for his    people... and he follows a    code... just like we do.         But not the soldiers of the    Dominion... not the Jem'Hadar.    They don't fight for anything...    they fight because they've been    designed that way... programmed    to fight.,23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+209,ORTAKIN,   They have no honor.,23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+210,LESKIT,        You're right. And that's why    they're better than us.,23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+211,DAX,"   That's enough. You're on duty in    an hour, you'd better --",23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+212,LESKIT,"        The Trill doesn't want you to know    the truth, my young friend. Well,    you deserve to know -- the    Jem'Hadar are smarter, faster, and    stronger than we are!",23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+213,ORTAKIN,   Why do you say these things?,23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+214,DAX,"   He's drunk, ignore him.",23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+215,LESKIT,"   No, listen! Listen and maybe    learn something. The Jem'Hadar    are the future!",23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+216,DAX,"   Shut up, Leskit!",23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+217,DAX,   That's enough!,23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+218,LESKIT,   She doesn't want you to hear the    truth -- that Martok fears them!    That's why we didn't attack!    (at the top of his     lungs)    MARTOK FEARS THEM!!,23   INT. KLINGON MESS HALL,KLINGON MESS HALL,INT.,,1997-02-13,Deep Space Nine
+219,WORF,   What happened? Are you all right?,INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+220,DAX,        I had to take Ortakin to Surgery.    Kornan almost killed him.,INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+221,WORF,   Why?,INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+222,DAX,   Because Leskit was drunk.,INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+223,WORF,   I do not understand.,INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+224,DAX,"        No, you don't understand because    you're too busy worrying about    Martok, while the crew is falling    apart!",INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+225,DAX,   Kornan needed to attack someone    and he lost control. But this is    only the beginning. This crew has    lost half a dozen separate actions    against the Jem'Hadar. The    casualty list is as long as my    arm. And now they're serving    under a man who seems to have left    behind more than just an eye in    that prison camp.,INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+226,WORF,"   Do not speak of the captain in    that manner, not while I am first    officer.",INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+227,DAX,"   Look, I like Martok. But this    crew needs a leader -- someone    who'll remind them of their duty    as soldiers of the Empire. And    they need that leader right now.    Or I promise you, they will    explode.",INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+228,WORF,"   It will not come to that. I know    Martok -- he is a great man. He    will not fail us, but we must give    him time.",INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+229,DAX,"   Time may be the one thing we don't    have, Worf. What happened in the    mess hall could happen all over    the ship. And if you think the    blood on my uniform looks bad...    wait until the decks are dripping    with it.",INT. KLINGON CORRIDOR ,KLINGON CORRIDOR ,INT.,,1997-02-13,Deep Space Nine
+230,DAX,"        Commander, I'm picking up a    Klingon distress call... it's very    faint but I might be able --        It's from the B'Moth.",27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+231,DAX,        They were attacked... by the    Jem'Hadar and lost main power...    heavy casualties... but there are    at least thirty survivors... need    assistance... emergency power    failing. The message repeats.,27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+232,WORF,   Location?,27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+233,DAX,        The signal is coming from zero    five five mark three four two.    Distance... at least seven light    years.,27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+234,WORF,"   Helm, alter course to zero five    five mark three four two.",27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+235,LESKIT,   Understood.,27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+236,TAVANA,        I want to thank you for what you    did in the mess hall.,27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+237,DAX,        Is Ortakin your parMach'kai?,27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+238,TAVANA,"        Things are coming to a head on    this ship. When the fighting    breaks out, stay with me. I'll    protect you.",27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+239,DAX,   I'm still hoping there won't be    any fighting.,27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+240,TAVANA,        Station!,27   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+241,MARTOK,"   Something is wrong here, Worf. I    can feel it. If the B'Moth was    attacked by the Jem'Hadar... why    would there be survivors?",28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+242,WORF,   Since we do not know any details    of the battle it is difficult to    speculate.,28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+243,MARTOK,"   We both know that the Jem'Hadar do    not leave a task half-finished.    If they left the ship intact and    part of the crew alive, they did    it for a reason.",28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+244,WORF,"   There could be many other    explanations: the B'Moth could've    inflicted heavy damage on the    Jem'Hadar vessels, forcing them to    withdraw; the Jem'Hadar ships may    have been recalled during --",28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+245,MARTOK,"        How is it I have only one eye, but    I can see more clearly than anyone    around me? They deliberately left    survivors on that ship. Why?    Because they want someone to try    to rescue them.",28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+246,MARTOK,"        Do not take this personally, my    friend. I spent two years with    the Jem'Hadar; I don't expect you    to have the same insight into them    that I do.",28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+247,MARTOK,"        They are soulless creatures...    fighting for no goal, no purpose    except to serve the Founders.    They take no pleasure in what they    do... nothing is glorified,    nothing affirmed. To the    Jem'Hadar, we are nothing more    than targets to be destroyed...        I must not allow them to destroy    us, Worf. I must not...",28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+248,WORF,"   General, with all due respect, we    don't know what the B'Moth's    tactical situation is yet. We    should guard against making any    premature judgements.",28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+249,MARTOK,        Of course.        Dismissed.,28   INT. KLINGON READY ROOM,KLINGON READY ROOM,INT.,,1997-02-13,Deep Space Nine
+250,WORF ,   Rotarran Combat Log: The fifty-   third day in the year of Kahless    nine ninety-nine. We have reached    the Cardassian border and begun    our search for the B'Moth.,29   EXT. SPACE - BIRD OF PREY (OPTICAL),SPACE - BIRD OF PREY,EXT.,,1997-02-13,Deep Space Nine
+251,MARTOK,"   Helm, keep us at least five    million kellicams from the border.",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+252,LESKIT,   Understood.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+253,DAX,"        I think I've got something... it's    hard to make out through all the    interference, but the thermal    signature looks like a ship. It's    bearing directly to starboard, at    an elevation of twenty-five    degrees... it's coming into visual    range.",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+254,WORF,   On screen.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+255,TAVANA,   The B'Moth.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+256,DAX,        Confirmed.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+257,WORF,"   Helm, lay in a course to bring us    alongside.",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+258,TAVANA,"        Bridge to Medical Ward, prepare to    receive casualties.",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+259,WORF,        Assemble an armed boarding party    in Transporter Room One. Make a    complete search of the habitable    areas before --,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+260,MARTOK,        Hold!,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+261,MARTOK,   Commander Dax... what side of the    border are they on?,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+262,DAX,"        They're five hundred thousand    kellicams inside Cardassian    territory, sir. They must've    drifted across a few days ago.",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+263,MARTOK,   There are probably five Jem'Hadar    warships out there right now...    just waiting for us to cross the    border...,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+264,WORF,"   General, if they are nearby, they    won't care which side of the    border we're on -- they'll simply    attack.",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+265,MARTOK,   I have explicit orders from the    High Council not to enter    Cardassian territory.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+266,WORF,   I am certain the Council would not    object under these circumstances.    There are survivors still aboard the    B'Moth.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+267,MARTOK,   We don't know that! All we know    is that there is an automated    distress call -- they could all be    dead by now.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+268,WORF,   And if they are not?,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+269,MARTOK,   Then there is nothing we can do    for them.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+270,TAVANA,   You don't intend to just... leave    them there?,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+271,MARTOK,   I will not throw away the lives of    this crew in a futile rescue    attempt.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+272,WORF,"   General, they are Klingon    warriors, we cannot --",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+273,MARTOK,"   I have made my decision! We will    not cross the border! From this    moment, anyone who questions that    will be charged with treasonable    disobedience to orders!",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+274,MARTOK,"   Worf, you have the Bridge.",30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+275,WORF,        Stations.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+276,WORF,        Stations!,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+277,DAX,        We can't just leave those men out    there to die.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+278,DAX,   So what're you going to do?,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+279,WORF,   The only thing I can do: challenge    Martok for command of the ship.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+280,DAX,   I agree. But you realize... he    may not step aside willingly.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+281,WORF,   I know. But if the general won't    step aside... then I will have to    kill him.,30   INT. KLINGON BRIDGE (OPTICAL),KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+282,KORNAN,        Martok must die.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+283,WORF,        That is not your decision.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+284,LESKIT,"   He's a coward. While he commands,    he dishonors us all.",32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+285,WORF,"        I shed no tears for your    ""dishonor"" Leskit.",32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+286,LESKIT,"   Today... would be a bad day to    die, Son of Mogh. Take your Trill    and go.",32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+287,WORF,   Unlikely.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+288,LESKIT,   I was hoping you would say    something like that.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+289,WORF,   Alert status one. All hands to    battle stations. We're going to    rescue the B'Moth survivors.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+290,MARTOK,   Who gave the order to--         What's going on?,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+291,WORF,"   As first officer, I say... you are    unfit to serve as captain.",32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+292,MARTOK,        You... what?,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+293,WORF,   You are... a coward and I    challenge you for command of this    ship.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+294,MARTOK,"   I never would've expected this    from you, Worf.",32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+295,CROWD,   Q'apla! Kill him! First blood!    Bosh to-KA achee! Mok-KRA! Kill    him! First Blood! etc.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+296,CROWD,"   Take him, Worf! The one-eyed    giant will fall! Go for his blind    side! Cho-ee-GAK! Kill him!    Kill him! Kill him! etc.",32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+297,KORNAN,   Martok... Martok... Martok...,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+298,ALL,   MARTOK! MARTOK! MARTOK!!   MARTOK!!,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+299,ALL,       MARTOK! MARTOK! MARTOK!,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+300,TAVANA,        Tactical alert! Tactical alert!,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+301,TAVANA,        There is a Jem'Hadar warship    bearing one eight zero mark two    one five... they will be within    weapons' range in nine minutes.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+302,MARTOK,   The Jem'Hadar... will soon learn    to regret this day.        WHO IS WITH ME?!!!,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+303,DAX,        Sometimes I think I know why I    love you. Let's get to the    Medical Ward.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+304,WORF,   Wait.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+305,KORNAN,       Shields and weapons ready.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+306,LESKIT,       Intercept course laid in.,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+307,TAVANA/ALL,       Koi Keh Less Pook Load...   Koi Pook Beh Poo   Yoch Bow Math Bow Je... Shuv Weee...   Say Moach Chu May... Ew,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+308,MARTOK,       MAHK-CHA! ,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+309,ALL,   Mah Shoov... Mah Nong... Ej Ma Choch Chew   Nee Beh Yin Mahj... Ach Wov... Coo   Bath Ma Cheth Bejj... Ej Yo... Keej... Dahk,32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+310,DAX,"        Now, we go below.",32   INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,,1997-02-13,Deep Space Nine
+311,ALL ,   Vav Poo Ma Dee Muv... Pa Rech Ma Shoov Tach Koo    Ma Mev Ko Ma Shoov Tach Ma Ov.,54   EXT. SPACE - BIRD OF PREY (OPTICAL),SPACE - BIRD OF PREY,EXT.,,1997-02-13,Deep Space Nine
+312,O'BRIEN,   How's the Intelligence business?,55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+313,BASHIR,"   I can't talk about it. All I can    do is read these fascinating    reports and analyses, and analyses    of analyses and then keep it all    to myself. Because no one else    has a ""need to know."" So I have    to walk around this station    feeling like--        You don't really care, do you?",55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+314,O'BRIEN,   No.,55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+315,O'BRIEN,        A vessel's decloaking fifteen    kilometers off the station -- it's    the Rotarran.,55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+316,KIRA,   Martok's ship?,55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+317,O'BRIEN,"   Yes, sir. And there's an incoming    transmission.",55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+318,MARTOK,   Major -- we have rescued thirty-   five survivors from a disabled    Klingon battle cruiser. Request    permission to beam them directly    to your Infirmary.,55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+319,KIRA,"   Permission granted, General.    You're also cleared to dock at Bay    Four.",55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+320,MARTOK,   We'll need an engineering team to    repair our battle damage. And one    other thing: arrange to have    fifteen barrels of bloodwine    waiting for us at the airlock so    we can celebrate the first victory    of the Rotarran over the    Jem'Hadar!,55   INT.  DEEP SPACE NINE - OPS (OPTICAL), DEEP SPACE NINE - OPS,INT.,,1997-02-13,Deep Space Nine
+321,MARTOK,   Worf.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+322,WORF,   General.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+323,MARTOK,   The High Council has issued a    commendation to the entire crew of    the Rotarran. It would seem you    were right. They view the    destruction of a Jem'Hadar ship    and the rescue of thirty-five    warriors as ample justification    for crossing the Cardassian    border.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+324,MARTOK,   Your actions on the Rotarran... at    the time I thought they were...    disloyal. But I have come to    realize that your intention was to    remind me of my duty as a    soldier of the Empire... and as a warrior.    For that I am grateful.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+325,WORF,   You did the same for me once.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+326,MARTOK,       Yes...,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+327,MARTOK,"   On the bridge... during the fight,    when you dropped your guard. How    did you know I wouldn't kill you?",57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+328,WORF,   I didn't.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+329,MARTOK,   I see you still wear the crest of    the House of Mogh.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+330,WORF,   Yes. Jadzia calls it a...    sentimental gesture.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+331,MARTOK,   Perhaps you would consider    replacing sentiment with... the    symbol of a new beginning.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+332,MARTOK,        The House of Martok would be    honored to welcome the Son of Mogh    into our family... as a warrior...    and a brother.,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine
+333,WORF/MARTOK,   Q'APLA!!,57   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,,1997-02-13,Deep Space Nine

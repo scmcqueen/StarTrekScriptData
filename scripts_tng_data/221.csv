@@ -1,0 +1,400 @@
+,character,quote,scene,location,view,episode,date,series
+0,PICARD ,"   Captain's log, stardate 45761.3.   In an effort to bring an end to   their centuries-long war, Krios   and Valt Minor have agreed to   a Ceremony of Reconciliation, to   be held aboard the Enterprise at   a point mid-way between their   two systems.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+1,PICARD,   I apologize for the delay in our   arrival; we had to stop at Harod   Four and pick up a group of   stranded miners.,2    INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+2,BRIAM,"   Please, Captain. We are grateful   that the Federation has taken as   much interest as it has in this   matter.",2    INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+3,PICARD,   Was Mister La Forge able to   provide the special cargo handling   provisions you requested?,2    INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+4,BRIAM,"   Indeed he was. However... until   we reach our rendezvous with the   Valtese, may I ask that the cargo   bay be declared off-limits to all   but the most essential personnel?",2    INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+5,PICARD,"   I trust, Ambassador, that this   cargo is not in any way dangerous?",2    INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+6,BRIAM,"   Nothing of the sort. It is a   gift... for Alrik, the Valtese   leader. I am cautious only   because it is quite fragile...   and quite irreplaceable.",2    INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+7,RIKER's COM,   Bridge to Captain Picard...,2    INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+8,PICARD,   Go ahead.,2    INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+9,RIKER,       We've picked up a distress call   from a Ferengi shuttle...,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+10,PICARD,       Set a course to intercept...,3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+11,RIKER,"   Aye, sir...",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+12,BRIAM,"   Captain, the timing of our   ceremony with Alrik is critical.   It cannot be delayed...",4    INT. CAPT. READY ROOM,CAPT. READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+13,PICARD,"   We'll be at the rendezvous on   schedule, don't worry.",4    INT. CAPT. READY ROOM,CAPT. READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+14,DATA,   The Ferengi report their   containment field is collapsing...,6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+15,WORF,   We are within visual range.,6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+16,PICARD,   On screen.,6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+17,DATA,"   Their reactor core is unstable,   Captain...",6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+18,PICARD,   How many on board?,6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+19,DATA,"   Two, sir.",6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+20,RIKER,       Bridge to transporter room three.   Boost your output and lock on   to the two Ferengi on board the   shuttle. We may have to attempt   a long-range transport.,6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+21,TRANSPORTER OFFICER,   Standing by.,6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+22,PICARD,   Energize!,6    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+23,TRANSPORTER OFFICER,"   Got them, sir.",7    INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+24,RIKER,"   Mister Worf, escort our Ferengi   guests to quarters...       ... not too close to mine.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+25,WORF,   Understood.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+26,WORF,"   Unless you can arrange for your   own transport, you will have to   remain on the Enterprise until   we have completed our mission...",10   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+27,QOL,   That will not be a problem.,10   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+28,PAR LENOR,   We are in no hurry.,10   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+29,QOL,   We look forward to enjoying the   comforts of your fine ship.,10   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+30,QOL,"   Quite acceptable. Not what we're   used to, you understand... but   it will do.",11   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+31,PAR LENOR,   Perhaps your captain would care   to invite us to join him for   dinner this evening...,11   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+32,WORF,   The captain dines alone.,11   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+33,QOL,   A pity.,11   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+34,QOL,   That was too easy!,11   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+35,GEORDI,"   We've been working from your   drawings, Ambassador... I hope   we're in the ballpark...",13   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+36,BRIAM,   Ball - park... ?,13   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+37,PICARD,   An old Human expression... Mister   LaForge hopes we've come close   to achieving what you wanted...,13   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+38,GEORDI,"   Computer, run holodeck program   Krios One.",13   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+39,COMPUTER,   Enter when ready.,13   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+40,BRIAM,   Astonishing. It is the ancient   Temple of Akadar.,13   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+41,BRIAM,"   It is this temple that bonds Krios   and Valt, gentlemen... two   brothers once ruled a vast empire   from this site... until they were   torn apart by their love for an   extraordinary woman. This is   where the wars began. And this   is where they shall end.",14   INT. HOLODECK - TEMPLE,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+42,BRIAM,   There are details of course to   be added...,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+43,PICARD,"   Mister La Forge is entirely at   your disposal, Ambassador...",18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+44,GEORDI,   Just let me know what you need...,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+45,BRIAM,"   Yes, of course... I must consult   several of the historical volumes   that I brought with me...   perhaps we can reconvene later   this...",18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+46,PAR LENOR,   Excuse me... excuse me... is it   true? Is a Kriosian ambassador   aboard this vessel?,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+47,BRIAM,   Yes. Can I help you?,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+48,PICARD,   The ambassador is very busy...,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+49,PAR LENOR,"   Ah, do you schedule his   appointments?",18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+50,PICARD,   I am the captain of this ship.,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+51,PICARD,       What is it you want?,18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+52,PAR LENOR,"   Allow me to present myself. Par   Lenor of the Ferengi Trade   Mission. We are pleased to hear   that you have at last negotiated   peace with the Valtese,   Ambassador. Peace is good for   trade... unless you happen to be   an arms merchant!",18   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+53,PAR LENOR,   ... in return for the exclusive   rights to transport all Kriosian   products to the Valt system...,20   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+54,PICARD,"   May I suggest that you arrange   to meet at another time, after   the ceremony?",20   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+55,BRIAM,   Perhaps that would be best.,20   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+56,PAR LENOR,   But...,20   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+57,GEORDI,       Listen... have you been down to   see the dolphins yet? You really   shouldn't miss them...,20   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+58,PICARD,       Deck seven.,20   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+59,PICARD,   Picard to Worf.,21   INT. TURBOLIFT,TURBOLIFT,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+60,WORF ,"   Worf, here.",21   INT. TURBOLIFT,TURBOLIFT,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+61,PICARD,"   One of the Ferengi just waylaid   Ambassador Briam. Keep a short   leash on them, Lieutenant.",21   INT. TURBOLIFT,TURBOLIFT,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+62,PICARD ,       I don't want them disrupting this   conference.,22   INT. BRIDGE,BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+63,WORF,"   Aye, sir.",22   INT. BRIDGE,BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+64,WORF,   Security to cargo bay one.,22   INT. BRIDGE,BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+65,RIKER,   Lieutenant?,22   INT. BRIDGE,BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+66,WORF,   One of the Ferengi.,22   INT. BRIDGE,BRIDGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+67,WORF,   You! What are you doing?,23   INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+68,QOL,   This is a misunderstanding... I   was looking for the barbershop...   Apparently I made an incorrect   turn -- and...,23   INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+69,BRIAM,   No...,23   INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+70,RIKER,"    (to Worf, re: the     Ferengi)   Get him out of here. Confine both   of them to their quarters and put   a guard on the door.",23   INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+71,PICARD,   What is happening?,23   INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+72,BRIAM,   Emergence...,23   INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+73,KAMALA,"   I am for you, Alrik of Valt.",23   INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+74,BRIAM,"   No, Kamala... this is not Alrik.   This is Captain Jean-Luc Picard   of the Federation Starship   Enterprise.",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+75,KAMALA,"       That explains why you don't look   at all like your holographs. I   apologize, Captain. As an empath,   I could sense your authority.   I assumed that you were   Chancellor Alrik...",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+76,PICARD,   I'm afraid I require an   explanation...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+77,KAMALA,"   As do I, Ambassador. Why have   I been brought out of stasis   prematurely?",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+78,BRIAM,"       There was an accident...       Captain, this is quite   complicated, perhaps we should...",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+79,KAMALA,"   It is not complicated at all,   Briam. And the Captain has no   tolerance for prevarication.       I am a gift to Alrik of Valt.",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+80,RIKER,       You've been using this ship to   transport a sentient being as   property?,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+81,BRIAM,   Not as property... as a gift...   I was concerned that you would   not entirely understand...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+82,PICARD,"   Your concern was justified,   Ambassador...",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+83,KAMALA,   You're angry. Why?,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+84,PICARD,   There is a provision within the   Federation Constitution that   protects an individual's   fundamental rights... once you   were brought aboard this   starship...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+85,KAMALA,"       You are coming to my rescue! What   a kind and generous purpose. But   Captain, I do not need to be   rescued...",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+86,BRIAM,   Kamala is the key to peace between   our two worlds...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+87,RIKER,   Why?,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+88,KAMALA,   In our history there was a woman   known as Garuth who was loved by   the brothers Krios and Valt with   such passion that an empire   fell...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+89,BRIAM,   The wars began when Krios   kidnapped Garuth and took her to   our planet...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+90,KAMALA,"   Like her, I am an empathic   metamorph. The first female   metamorph born on my world for   over a hundred years.",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+91,PICARD,"   A ""metamorph""?",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+92,KAMALA,"   A mutant. A biological curiosity,   if you will. With the ability   to sense what a potential mate   wants... what he needs... what   gives him the greatest pleasure...   and then to become that for him.",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+93,RIKER,       You mean... you change according   to whatever man you're with...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+94,KAMALA,   Until I reach the stage of   bonding... When I must imprint   upon myself the requirements of   one man... to serve as his perfect   partner in life.,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+95,BRIAM,"   Male metamorphs are somewhat   common but a female appears only   once in seven generations...   obviously, they are highly sought   after as mates...",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+96,RIKER,       Which explains our Ferengi's   interest...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+97,BRIAM,   This mating to Alrik was arranged   at her birth... by leaders of   both worlds; in the hopes of   restoring peace...,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+98,PICARD,   You do this of your own accord?,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+99,KAMALA,       It is my sole purpose in life.,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+100,PICARD,   Commander Riker will show you to   quarters. You need not travel   in a cargo bay.,29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+101,BRIAM,"   Kamala, remain in your room. I   will speak to you shortly.",29   INT. CARGO BAY,CARGO BAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+102,RIKER,   Why were you in stasis?,30   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+103,KAMALA,"   Metamorphs have a long and complex   sexual maturing process. I am   in the Finiis'ral, the third and   final stage. It can be an   uncomfortable transition... Not   only for me, but for the men   around me...",30   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+104,RIKER,   In what way?,30   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+105,KAMALA,   My body is producing an unusually   elevated level of what you would   call pheromones. The effect can   be quite... provocative. Perhaps   you sense it...,30   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+106,RIKER,"       Ah, unfortunately, I'm not an   empath...",30   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+107,KAMALA,"       Oh, I think you are more empathic   than you admit... at least when   it comes to women...",30   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+108,RIKER,   I think you have me at a   disadvantage...,30   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+109,RIKER,"   The replicator is here...   companel here... the sonic shower   is through there... you can adjust   the lights by verbal commands...   and if you have any questions,   just ask the...",31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+110,RIKER,       ...the... computer...,31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+111,RIKER,   I'm beginning to sense those   elevated pheromones you were   talking about...,31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+112,KAMALA,"   You were curious, weren't you?",31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+113,RIKER,   Curious isn't exactly the way I'd   describe it.,31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+114,KAMALA,   Do you know what is remarkable   about empathic metamorphs?,31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+115,RIKER,"   You mean, there's something even   more remarkable about you?",31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+116,KAMALA,   We learn so quickly what   stimulates a man... that the   second time is even better than   the first...,31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+117,RIKER,   Listen... this has been...   educational... but I've made it   a policy never to open another   man's gift...,31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+118,KAMALA,"   I know my role in history,   Commander... but it's going to   be a long voyage...",31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+119,RIKER,"       It certainly is.    (beat, ""get me out of     here"")   We'll try to make you as   comfortable as possible.",31   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+120,RIKER,"   Riker to bridge. If you need me,   I'll be in holodeck four.",34   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+121,BEVERLY,   How can you simply deliver her   like a courier into a life of   virtual prostitution...,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+122,PICARD,"   Beverly, arranged marriages have   been the basis of political   alliances in many cultures,   including our own...",36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+123,BEVERLY,   I'm surprised at you.,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+124,PICARD,   She knows exactly what she's   doing.,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+125,BEVERLY,   She has been conditioned since   the day she was born to believe   that it is perfectly acceptable   to exist only to please men...,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+126,PICARD,"   Beverly, she was born this way...",36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+127,BEVERLY,   ... and bred by those people to   seal a treaty with a seductive   coup de grace...,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+128,PICARD,"    (angry now, with     frustration and     sarcasm)   By all means, we should throw the   Prime Directive to the wind...   detain her against her will...   destroy any chance these worlds   have for peace... interefere with   their society, with their   customs...",36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+129,BEVERLY,       That slave trader who calls   himself an ambassador has confined   her to her quarters... she's a   virtual prisoner in there...,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+130,PICARD,   I didn't know that...,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+131,BEVERLY,   It's your ship. Maybe there are   a few things you should find out   about.,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+132,PICARD,   I'll speak with her.,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+133,BEVERLY,   Good. ... Lovely breakfast.,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+134,PICARD,   Indeed.,36   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+135,KAMALA,"   Captain Picard, what a delightful   surprise. Come in.",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+136,PICARD,   Are you comfortable?,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+137,KAMALA,   Reasonably. Under the   circumstances.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+138,PICARD,   It has come to my attention that   you have been told to remain   here...,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+139,KAMALA,"   That's true, I'm afraid.",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+140,PICARD,   Against your wishes.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+141,KAMALA,       At the request of the ambassador   who believes I might be...   disruptive to your crew.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+142,PICARD,   My crew's performance is not the   business of the ambassador.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+143,KAMALA,"   You care about my well-being.   Thank you, Captain.",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+144,PICARD,   I care about what happens on board   my ship.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+145,KAMALA,"       Yes, I know. This ship is very   important to you, isn't it... ?",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+146,PICARD,    (ready to change the     subject)   Yes...,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+147,KAMALA,   Are all captains' lives so...   solitary? Or just yours?,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+148,PICARD,   Don't.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+149,KAMALA,   What?,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+150,PICARD,   Do this.       What you do... with men.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+151,KAMALA,"   I'm afraid my premature emergence   from stasis has left me a   little... vulnerable to the   desires I sense from men.   Nevertheless, this is who I am,   Captain. You might as well ask   a Vulcan to forgo logic... or a   Klingon to be nonviolent. I   cannot change, and I don't want   to until it's time for me to   bond with my permanent mate.       Why does it bother you?",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+152,PICARD,"   Frankly, it is difficult for me...   for many of us... to easily accept   that a sentient being could live   only to be what someone else wants   them to be...",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+153,KAMALA,   But that's what gives a metamorph   pleasure...,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+154,PICARD,   What about your wishes? Your   needs?,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+155,KAMALA,   They are fulfilled by what I give   to others.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+156,PICARD,"   And what about when there are   no others, when you are   alone... ?",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+157,KAMALA,   I am incomplete.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+158,KAMALA,"   What curious questions, Captain...",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+159,PICARD,"       I'm sorry. Under the   circumstances, I felt it would   help to learn more about you.",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+160,KAMALA,   But you know me better than you   realize...,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+161,KAMALA,"   I am independent, forceful,   brilliant, and adventurous.       Exactly as you would have me be.",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+162,PICARD,   I will speak with the ambassador   about easing your restrictions.,37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+163,KAMALA,"   Thank you, Captain.",37   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+164,PICARD ,"   Captain's log, stardate 45780.3.   We have reached the designated   coordinates for the conference   and await the arrival of   Chancellor Alrik.",A38	EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+165,BRIAM,"       No, I forbid it.",38   INT. HOLODECK - THE CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+166,PICARD,"       ""Forbid"" it... ?",38   INT. HOLODECK - THE CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+167,BRIAM,   It is too dangerous. She must   remain in her quarters.,38   INT. HOLODECK - THE CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+168,PICARD,"       You cannot confine her against   her will, Ambassador... not on   board this ship...",38   INT. HOLODECK - THE CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+169,PICARD,       She is requesting some freedom   of movement... and I intend to   give it to her...,38   INT. HOLODECK - THE CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+170,BRIAM,"   She is still in the Finiis'ral...   the height of her sexual allure,   Captain... every man on the ship   will be fighting over her...",38   INT. HOLODECK - THE CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+171,PICARD,   Not every man...,38   INT. HOLODECK - THE CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+172,KAMALA,   A chaperone... ?,39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+173,DATA,   I would be pleased to escort you   around the ship.,39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+174,KAMALA,       What sort of man is this?,39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+175,DATA,   I am an artificial lifeform.,39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+176,KAMALA,   A blank page.,39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+177,DATA,   Your empathic powers do not   perceive anything because I have   no emotions.,39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+178,KAMALA,"       But I was hoping we might spend   more time together, Captain.",39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+179,PICARD,"   Unfortunately, I'm quite busy with   the arrangements for the   conference.",39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+180,KAMALA,   I am very knowledgeable about   Valt. I could be helpful.,39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+181,PICARD,   I think you should enjoy the   hospitality of our ship. Mister   Data will see to your every   comfort... if you will excuse   me...,39   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+182,DATA,"   Your empathic powers do not   perceive anything because as an   android, I have no emotions...",39   INT. CORRIDOR OUTSIDE TEN FORWARD,CORRIDOR OUTSIDE TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+183,KAMALA,   I can understand why Captain   Picard chose you to be my   chaperone...,39   INT. CORRIDOR OUTSIDE TEN FORWARD,CORRIDOR OUTSIDE TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+184,RIKER,       I'll... check in with you later.,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+185,MINER #1,"   Excuse me, but I'm absolutely   certain that we met once at   Paloris Colony...",40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+186,KAMALA,       I've never been to Paloris Colony.,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+187,MINER #1,   Neither have I. Why don't we find   out what else we have in common.,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+188,DATA,   Extremely rude behavior.,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+189,KAMALA,   He's just being playful.,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+190,DATA,   May I order you a drink?,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+191,KAMALA,    (to the group of     miners)   What are all of you having?,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+192,MINER #2,   Aldorian Ale's our drink...,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+193,KAMALA,"   Then, it's mine too.",40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+194,DATA,   There do not seem to be enough   waiters on duty.,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+195,MINER #3,   They're having a minor problem   with the replicator...,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+196,MINER #2,"   They could use a hand,   Commander...",40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+197,DATA,   Certainly...,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+198,DATA,"   No, I think I shall remain here...",40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+199,KAMALA,   Mister Data's protecting me   tonight...,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+200,MINER #2,   Protecting you from what?,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+201,KAMALA,"   From you, I guess.",40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+202,KAMALA,       I told the captain not to worry...   I just want to have a good time   like anybody else...,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+203,WORF,   Is there a problem here?,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+204,WORF,   Be quiet!,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+205,DATA,"   Thank you, Lieutenant Worf, I   believe the crowd has become a   little too ebullient for   comfort...       ... perhaps you'd enjoy a quiet   visit to the arboretum...",40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+206,WORF,       Stay here.,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+207,DATA,"   Thank you again, Lieutenant.",40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+208,WORF,   Ma'am.,40   INT. TEN FORWARD,TEN FORWARD,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+209,KAMALA,   Perhaps the ambassador is right.   Perhaps I should remain in my   quarters.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+210,PICARD,   I am confident of my crew's   self-control. But there are   civilians and guests on board...,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+211,KAMALA,   I understand. I will volunteer   to stay in my quarters under one   condition.       That you will visit me.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+212,KAMALA,"   There it is, again.",44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+213,PICARD,   What?,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+214,KAMALA,   The wall you put between us.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+215,PICARD,   You are a day away from an   arranged mating. Why would you   want me to visit you in your   quarters?,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+216,KAMALA,   I said a visit. I didn't ask you   to make love to me.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+217,KAMALA,"   A Ventanan thimble... early   Lapeongical period, isn't it?",44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+218,PICARD,   Yes...,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+219,KAMALA,   Have you seen the Ventanan woven   art recovered from the fourth   colony dig... ?,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+220,PICARD,       Woven art? Recovered intact?,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+221,KAMALA,   They say the colors are remarkably   vibrant for their age...,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+222,PICARD,"       I've read about them for years...   They were so delicate, no one   expected to find any preserved...   How did you hear about them?",44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+223,KAMALA,"   I stay informed on a wide variety   of subjects... after all, one   never knows when the conversation   might turn to Ventanan   archeology... or to the ""dark woman   of raven brows and mournful eyes""   in Shakespeare's sonnets... or   to the gardens of Les Eyries near   the village where you grew up...",44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+224,PICARD,   Your empathic powers can tell that   much about me?,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+225,KAMALA,   Not quite that much. Mister Data   helped a little.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+226,KAMALA,"   My empathic powers can only sense   a man of deep passion, and   conviction... so disciplined, so   controlled... I am simply curious   to know what lies beneath...",44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+227,PICARD,   Nothing. Nothing lies beneath.   I'm really quite dull. I fall   asleep each night with an old book   in my hands...,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+228,KAMALA,       When a metamorph finds you   interesting... do not take   it lightly.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+229,PICARD,   I don't take it lightly... I'm   only...       ... trying to be as dull as   possible.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+230,KAMALA,   Will you visit me?,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+231,PICARD,   It would be inappropriate.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+232,KAMALA,   Is that a yes or a no?,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+233,PICARD,   I'm sorry.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+234,KAMALA,"   Even the walls of Jericho fell,   Captain.",44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+235,PICARD,   Why are you doing this?,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+236,KAMALA,   There can be only one reason.   Because some part of you wants   me to.,44   INT. READY ROOM,READY ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+237,BRIAM,   What is the meaning of this?,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+238,PAR LENOR,"   Ah, I see you got our message...",45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+239,BRIAM,"   If this is some sort of bribe,   I am not amused...",45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+240,QOL,"   Oh no, Ambassador... your attitude   is quite understandable...",45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+241,PAR LENOR,   This is just a sample...,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+242,QOL,   The bribe is ten thousand more...,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+243,PAR LENOR,"   Ludugial gold, the purest in the   galaxy...",45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+244,QOL,   We know the lifestyle of a   Kriosian Ambassador is barely   comfortable...,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+245,PAR LENOR,   You deserve to live a life of   luxury...,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+246,BRIAM,   I am insulted. How dare you   suggest...,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+247,QOL,   You drive a hard bargain.,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+248,PAR LENOR,"   Twenty thousand, but not an ingot   more.",45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+249,QOL,   We must have the metamorph.,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+250,PAR LENOR,   She is the answer to a Ferengi   prayer.,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+251,QOL,   A ship is waiting to rendezvous   with us in three hours... we can   all transport off together...,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+252,BRIAM,   Thank you for that information.   I will pass it along to Captain   Picard.,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+253,PAR LENOR,   You can't do that...,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+254,BRIAM,   Let go of me...,45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+255,QOL,"   No, wait... let us discuss...",45   INT. FERENGI QUARTERS,FERENGI QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+256,PICARD ,"   Captain's log, supplemental.   The Ferengi have been dispatched   via shuttle to Starbase   One-one-seven; what charges will   be brought against them depends   on whether or not Ambassador   Briam recovers.",46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+257,BEVERLY,   We've been able to stabilize his   condition... If we're lucky he'll   regain consciousness in a few   days.,46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+258,BEVERLY,"    (continuing, to the     nurse)   I want a level one craniosacral   display set up...",46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+259,PICARD,   I'll advise the Valtese delegation   that the conference must be   postponed...,46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+260,KAMALA,   That won't be possible.       My ability to imprint on a mate   will only last a matter of hours   after the completion of the   Finiis'ral.     ,46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+261,KAMALA ,"   If I had not been removed from   stasis prematurely, a delay might   have been possible. But now, I   will have to bond with Alrik   within two days.",46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+262,PICARD,   But there are several points in   the negotiations that Briam has   to address...,46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+263,KAMALA,   You are familiar with the   issues...,46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+264,PICARD,"   Familiar, yes, but I cannot   represent your peoples'   interests...",46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+265,KAMALA,   You can represent the interests   of peace. My people will agree.   I'm certain of it.,46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+266,PICARD,   There are customs and rituals with   which I have no experience at   all...,46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+267,KAMALA,   I told you that I am extremely   knowledgeable about Valt. I will   help you prepare.,46   INT. SICKBAY,SICKBAY,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+268,PICARD,   This is impossible.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+269,KAMALA,    (directing him to a     note)   Torze-qua...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+270,KAMALA,   That's right...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+271,PICARD,   I am reminded of my piano lessons   as a child... preparing for some   dreaded recital...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+272,KAMALA,   Do you still play?,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+273,PICARD,   No. I regret that I gave it up.   It used to please my mother...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+274,PICARD,       I did not like to perform in front   of an audience.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+275,KAMALA,   Shy...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+276,PICARD,   No. Just not very good.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+277,KAMALA,   And shy.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+278,PICARD,   Dammit.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+279,PICARD,   Can we come back to this later?,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+280,KAMALA,   Of course.       Thank you.       For letting down your guard.   If only for a moment.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+281,PICARD,   You are going to have to help me   with the pronuniciations in this   scroll...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+282,KAMALA,   What is it about me you fear?,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+283,PICARD,   Kamala...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+284,KAMALA,   Do you find me unattractive?,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+285,PICARD,   I find you unavailable.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+286,KAMALA,   I am being terribly selfish.   I apologize.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+287,KAMALA,"   We have something in common,   Captain. When I was a child, I   took music lessons, too.",48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+288,PICARD,"   Really, what instrument?",48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+289,KAMALA,   All of them.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+290,PICARD,   The entire orchestra?,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+291,KAMALA,       Plus a few Valtese Horns that   sound like braying Targhee   Moonbeasts. They are said to   soothe the nerves of Valtese men.       My mother never even heard me   play. I was taken from her when   I was four... and sequestered   in a royal village... where I   was prepared to fulfill my   destiny.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+292,PICARD,   It sounds like it was a very   lonely time for you...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+293,KAMALA,"   On the contrary, I had servants   and tutors at my side   constantly... you once wanted   to know what I am like when I   am alone... I have never been.   There was always someone there...   to educate me in literature,   history, art, sex...       But I have been alone on this   journey and I've found myself   thinking about all the curious   questions you asked... you   wanted to know who I am. The   only answer that comes to me is,   ""I am for you, Alrik of Valt"".   Because that is the truth.       In a day, I will bond with a man   I've never met... and I will turn   myself into what he wants me to   be... for the rest of my life.",48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+294,PICARD,   I also once asked you if you were   doing this of your own accord...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+295,KAMALA,   I am honored to be chosen to serve   my people as an emissary of   peace...       But I find it ironic on the eve   of this ceremony... which I have   spent my entire life preparing   for... that I should meet a man   like you...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+296,RIKER,   Riker to Picard.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+297,PICARD,   Go ahead.,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+298,RIKER,   The Valtese ship has arrived.   Chancellor Alrik is ready to beam   aboard...,48   INT. HOLODECK - CEREMONIAL ROOM,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+299,ALRIK,   Captain Picard...,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+300,PICARD,"   Chancellor Alrik, welcome aboard   the Enterprise...",49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+301,ALRIK,   Your first officer has described   the details of the incident with   the Ferengi... how is the   Ambassador... ?,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+302,PICARD,   He hasn't regained consciousness   yet.,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+303,ALRIK,   A tragedy. Your willingness to   assist is appreciated by both   our peoples.,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+304,PICARD,   I will do my best... although I   have found some of the rituals   quite demanding...,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+305,ALRIK,       Rituals. I am more concerned   about the remaining provisions   in the treaty... the proposed   trade agreements are not   acceptable... We still must review   the uncommitted territories...   as well as discuss the schedule   for exchange of technology...,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+306,PICARD,   The Kriosians have authorized me   to make several compromises which   are favorable to your position...,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+307,ALRIK,"   Good.       Tomorrow, then.",49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+308,PICARD,   Briam has supervised a   reproduction of the ancient Temple   of Akadar on our holodeck...,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+309,ALRIK,"       Such a sentimental people, these   Kriosians... it is hard to believe   we have a common ancestry...       I suppose they've sent the   metamorph.",49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+310,PICARD,   Kamala? Yes. She is looking   forward to meeting you.,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+311,ALRIK,"       I'm sure she'll be satisfactory.   Between you and me, Captain, I'm   far more interested in the trade   agreements.",49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+312,KAMALA,"       So, tell me quickly... what is   he like?",50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+313,PICARD,   First impressions? A thoughtful   man... informed...,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+314,KAMALA,   Did he ask about me?,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+315,PICARD,   Yes.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+316,KAMALA,   What did you tell him?,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+317,PICARD,   That you were looking forward to   meeting him.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+318,KAMALA,   When am I to be presented?,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+319,PICARD,   It will be the first order of   business. Tomorrow. At ten.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+320,KAMALA,   Would you like some tea?,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+321,PICARD,   I should prepare for the ceremony.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+322,KAMALA,   Let me help you with   pronuniciations.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+323,PICARD,   I think I can muddle my way   through...,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+324,KAMALA,       Please. Don't leave.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+325,KAMALA,   Talk to me. I love the sound of   your voice. I'll turn out the   lights and just listen.       I don't want to be alone.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+326,PICARD,   The lights stay on.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+327,KAMALA,       Earl Grey Tea. Hot.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+328,PICARD,       Did you learn that from Mister   Data as well?,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+329,PICARD,   I shall have to have a talk with   him.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+330,PICARD,   Now that I know you're listening   to my voice... I can't seem to   think of a word to say...,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+331,KAMALA,   A starship captain must encounter   all sorts of lifeforms... am I   one of the most unique you've ever   met? Please say yes.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+332,PICARD,   Yes.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+333,KAMALA,   What a nice thing to say.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+334,PICARD,"       Kamala, have I not done everything   possible to discourage this?",50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+335,KAMALA,   Maybe that's the perfect way to   attract a metamorph.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+336,PICARD,   I don't wish to use you as other   men have.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+337,KAMALA,   But you are not other men. You   could never use me. That is the   very reason why I am with you   tonight.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+338,PICARD,   I really ought to go. You do have   an early appointment in the   morning.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+339,KAMALA,   Light years away.,50   INT. KAMALA'S QUARTERS - KAMALA'S FACE,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+340,BEVERLY,   Quiet this morning.,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+341,PICARD,   Sorry.,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+342,BEVERLY,   Penny?,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+343,PICARD,   What?,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+344,BEVERLY,   For your thoughts. Penny for your   thoughts.,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+345,PICARD,       You have one?,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+346,BEVERLY,   The replicator ought to have one   on file.,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+347,PICARD,   Do you mind if I take off the   uniform for a moment?,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+348,BEVERLY,       Captain... !,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+349,PICARD,   I just need to talk to a friend.,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+350,BEVERLY,   Of course.,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+351,PICARD,       Besides... it's all your fault.,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+352,BEVERLY,   Mine?,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+353,PICARD,   You insisted I look into her   situation...,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+354,BEVERLY,   The metamorph?,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+355,PICARD,"       The metamorph. Kamala. We have   spent a lot of time together the   last few days... you were right   about several things, Beverly...   her entire life has been   orchestrated for this moment...   but she intends to see it   through... to help her people end   this war...",52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+356,BEVERLY,"    (beat, perplexed by his     intensity)   Are you saying there's nothing   else that can be done... ?",52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+357,PICARD,   It's not that simple.,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+358,PICARD,"   I barely even know who she is   because who she is changes the   moment the next man walks in the   room.       But suddenly, I find myself   hoping... the next man doesn't   walk in.",52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+359,PICARD,"   But he will, of course. In a few   hours, the ceremony will begin...   she will mate with a man who cares   far more about trade agreements   than about her. And I think of   how she will be with him... how   she will change to accomodate   him... and...       ... I don't like it.",52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+360,PICARD,   I'm sorry to be bothering you with   this...,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+361,BEVERLY,   I wish I knew how to help you...,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+362,PICARD,       Perhaps I just needed a   shoulder...,52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+363,BEVERLY,"   It's there for you, Jean-Luc.   It always has been.",52   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+364,KAMALA,   Come in...,53   INT. CORRIDOR,CORRIDOR,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+365,KAMALA,   Is it time?,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+366,PICARD,   Soon.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+367,KAMALA,   Do you have any questions about   the ceremony?,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+368,PICARD,   Many.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+369,KAMALA,   I will never truly love him.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+370,PICARD,   You've not even met him.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+371,KAMALA,   It no longer matters.       I wish I could convey to you what   it's like to be a metamorph...   to feel the inner strength of   someone... to realize that being   with him is opening your mind and   heart to endless new   possibilities... to hear yourself   say: I like myself when I am with   him.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+372,PICARD,   Kamala...,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+373,KAMALA,"   For a metamorph, there is no   greater pleasure... and no greater   wish than to bond with that kind   of mate at the end of the   Finiis'ral...       ... as I have bonded with you.",54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+374,PICARD,   With me?,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+375,KAMALA,"   Who I am today, I will be forever.",54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+376,DATA,   Data to Captain Picard.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+377,PICARD,"   Not now, Data.",54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+378,DATA,"   But sir, Chancellor Alrik is   waiting to receive you in holodeck   seven.",54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+379,PICARD,   Acknowledged.       You can't go through with the   ceremony.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+380,KAMALA,   Would you ask me to stay? And   ask two armies to keep fighting?,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+381,KAMALA,       Having bonded with you I've   learned the meaning of duty.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+382,KAMALA,   He'll never know. I am still   empathic... I will be able to   please him.       I only hope he likes Shakespeare.,54   INT. KAMALA'S QUARTERS,KAMALA'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+383,KAMALA,   I am for you Alrik of Valt.,55   INT. HOLODECK - CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+384,PICARD,   I'm sorry. I cannot allow this   to proceed.,55   INT. HOLODECK - CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+385,ALRIK,   What did you say?,55   INT. HOLODECK - CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+386,PICARD,   Kamala will be remaining aboard   the Enterprise... with me...,55   INT. HOLODECK - CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+387,ALRIK,       With you?,55   INT. HOLODECK - CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+388,PICARD,"   Chancellor, the trade agreements   will be satisfactory... you   yourself told me that was your   priority. She is mine. Let us   begin the real work here of   establishing a long and just   peace...",55   INT. HOLODECK - CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+389,ALRIK,"   Very well, let us begin...",55   INT. HOLODECK - CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+390,KAMALA,   I am for you Alrik of Valt.,55   INT. HOLODECK - CEREMONIAL CHAMBER,HOLODECK,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+391,BRIAM,"   Your service to both our peoples   is greatly appreciated, Captain...",70   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+392,PICARD,"   Your preparation made the   negotiations simple, Ambassador...   and Kamala was able to guide me   through the rituals...",70   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+393,BRIAM,   I have to admit I'm curious...,70   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+394,PICARD,   Curious?,70   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+395,BRIAM,"   I was chosen for this mission for   a simple reason... I am two   hundred years old. The   temptations of a beautiful   metamorph do not reach me so   easily... and yet I would be lying   if I were to claim, that even at   my age, they did not reach me at   all. But you... you had to work   side by side with her for days...   how could you resist her... ?",70   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+396,PICARD,"       Ambassador, have a safe trip home.",70   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+397,BRIAM,   Energize.,70   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation
+398,PICARD,   Earl Grey. Hot.,71   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,"""The Perfect Mate""",1992-02-10,The Next Generation

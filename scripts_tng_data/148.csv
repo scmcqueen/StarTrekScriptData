@@ -1,0 +1,530 @@
+,character,quote,scene,location,view,episode,date,series
+0,GEORDI,   Commander?,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+1,RIKER ,"   I'm over here, Geordi.",2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+2,GEORDI,   What's wrong?,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+3,RIKER,   Something jabbed me in the   calf...,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+4,GEORDI,    (touches his     communicator)   O'Brien -- Commander Riker's been   injured -- lock on and bring him   up.,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+5,O'BRIEN,   Stand by.,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+6,RIKER,"   Geordi, it's just --",2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+7,GEORDI,"       A scratch. Right. Sorry,   Commander, but we can't take any   chances. We're the first survey   team to set foot on this planet...   we don't know what the risks are.",2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+8,GEORDI,"   What's the hold up, O'Brien?",5    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+9,O'BRIEN,   The transporter has detected   unidentified microbes in   Commander Riker's body.,6    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+10,GEORDI,   Can't the biofilters screen them   out?,6    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+11,O'BRIEN,   Apparently not.,6    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+12,O'BRIEN,   Doctor Pulaski has been notified.,7    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+13,GEORDI,   Acknowledged.,7    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+14,RIKER,"   I didn't want to leave just yet,   anyway.",7    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+15,O'BRIEN,   Here's the biofilter's analysis   of the microbes.,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+16,PULASKI,   Not much to go on...,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+17,O'BRIEN,   I can override and beam Commander   Riker aboard...,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+18,PULASKI,   No. I'd better go down and make   an evaluation there.,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+19,O'BRIEN,   Hmm... I hope these are the right   coordinates...,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+20,O'BRIEN ,"   Just kidding, Doctor. I know how   much you love the transporter...",8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+21,PULASKI,   About as much as I love comical   transporter chiefs...,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+22,PULASKI,   Fill me in.,10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+23,RIKER,"   I was walking along, minding my   own business, making a simple   geological sweep... and something   stuck me in the leg.",10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+24,PULASKI,   Any pain?,10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+25,RIKER,"   No -- a little numb, that's all.",10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+26,PULASKI,   Do you know what it was that stuck   you?,10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+27,GEORDI,"   We've been looking for it, but   no luck.",10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+28,PULASKI,"   Well, whatever it was, it left   something behind... I'm going   to bring you up to Sickbay.",10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+29,PULASKI,"   O'Brien, this is Doctor Pulaski.   Medical override is authorized.   Beam us directly to Sickbay.",10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+30,O'BRIEN,   Acknowledged.,10   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+31,RIKER,"   I can walk to the table, thank   you.",15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+32,PULASKI,"   Commander, don't start acting   heroic.",15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+33,RIKER,"   Doctor, for personal reasons, I'll   walk.",15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+34,PULASKI,   May I ask why?,15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+35,RIKER,   I've always had the notion that   if I was ever so injured that I   couldn't make it on my own two   feet... it would be over.,15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+36,PULASKI,"   Medically speaking, that's   ridiculous.",15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+37,RIKER,"   You'll get no argument from me,   but... that's how I feel.",15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+38,RIKER ,   Whoa --,15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+39,RIKER ,   This is the strangest feeling.   My whole leg just went -- dead.,15A  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+40,PICARD ,"   Captain's log, Stardate 42976.1.   During a geological survey of   Surata Four, Commander Riker has   become infected by an unidentified   microbe.",16   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+41,PICARD,   Number One.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+42,RIKER,   Captain.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+43,PICARD,"   Put your foot where it didn't   belong, did you?",20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+44,RIKER,       The doctor's been getting bored   lately. I thought I'd find her   a challenge...,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+45,PULASKI,   That you did.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+46,PULASKI,"   The commander's nervous system   has been invaded by an unknown   microorganism. Not a bacteria,   not a virus -- but with elements   of both.",20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+47,PULASKI,       There's the point of entry...,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+48,PULASKI,   The microbes have infected the   great sciatic nerve... they're   multiplying at an incredible   rate.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+49,PULASKI ,       There.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+50,PICARD,   Can you remove it?,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+51,PULASKI,"   Not surgically. The organisms   fuse to the nerve, intertwining   at the molecular level.",20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+52,RIKER,   That's why the transporter's   biofilters couldn't extract them.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+53,PULASKI,"   There's no evidence of nerve   damage, but the organisms are   impeding nervous function.",20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+54,RIKER,       My leg's still asleep.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+55,PICARD,       Your prognosis?,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+56,PULASKI,   The infection is spreading. It   will eventually reach the brain.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+57,PICARD,   And if it interfered with neural   activity there...,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+58,PULASKI,   Commander Riker could die.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+59,PICARD,   How can I help?,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+60,PULASKI,   I need to know more about its   composition.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+61,PICARD,"   And for that, you need a sample.",20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+62,PULASKI,   Exactly.,20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+63,PICARD,"   Mister Data, Mister La Forge -- prepare   to beam down to the planet.",20   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+64,DATA,   I must reiterate that it would   be better if I went alone.,27   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+65,GEORDI,   Don't like my company?,27   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+66,DATA,   Your company is not at issue.   Your vulnerability to this   microorganism is.,27   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+67,GEORDI,"   I'll watch where I step. Besides,   how do we know that this bug   doesn't like androids even more   than it likes humans?",27   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+68,DATA,"   Possible, but highly unlikely.   In any event, why risk both of   us?",27   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+69,GEORDI,   Because I know exactly where   Commander Riker was when it   happened.,27   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+70,GEORDI,   He was right over here.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+71,DATA,"   I detect no animal life within   fifty kilometers. Merely   vegetation.       However, I am reading extensive   animal remains -- mostly   fossilized.",29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+72,GEORDI,   A graveyard?,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+73,DATA,   I do not know.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+74,GEORDI,   Look at this.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+75,DATA,   The structure is rhizomatous.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+76,GEORDI,   Be careful.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+77,DATA,   I am always careful.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+78,DATA,   It appears to be dead.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+79,GEORDI,"   I'm not so sure. I can see   thermal variations...       Data, set it down. Let's try   something.",29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+80,GEORDI ,   Perhaps it likes humans more than   androids.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+81,DATA,"   If you are correct, you are   placing yourself in grave danger.",29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+82,GEORDI,   I'm counting on those great   android reflexes of yours...,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+83,GEORDI,   I'd say that's what we're looking   for.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+84,DATA,   I would tend to agree.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+85,GEORDI,       O'Brien! Stand by!       Hold it still.,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+86,GEORDI ,   Got it. Energize!,29   EXT. PLANET SURFACE - DAY (OPTICAL),PLANET SURFACE - DAY,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+87,GEORDI,"   Thanks, O'Brien. Another minute,   and we'd've been fossils   ourselves.",36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+88,DATA,"   Not precisely, Geordi. True   fossilization requires several   millennia.",36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+89,GEORDI,"   Captain, here's your sample.",36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+90,PICARD,   Get it to Sickbay right away.,36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+91,PICARD ,   Report.,36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+92,DATA,"   Captain, the commander's injury   was not accidental. Certain vines   on the planet evidently seek out   warm-blooded beings and   deliberately infect them.",36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+93,PICARD,   To what end?,36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+94,DATA,   Unknown. It is conceivable that   there is a symbiotic relationship   involved...,36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+95,PICARD,   Go on.,36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+96,DATA,"   There were numerous animal   remains in the area, leading me   to hypothesize that the vines   could be predatory.",36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+97,PICARD,   Then they infect animals in order   to kill them.,36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+98,DATA,"   It is possible.       For Commander Riker's sake, I hope   my hypothesis is in error.",36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+99,PICARD,"   Unfortunately, Mister Data, your   hypotheses rarely are.",36C  INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+100,PULASKI,   All negative.,38A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+101,PICARD,   There's nothing that will cure   this infection?,38A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+102,PULASKI,   This microorganism is very   mysterious. I can't even figure   out what's keeping it alive.,38A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+103,PICARD,   Or how to kill it.,38A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+104,PULASKI,"   Oh, I can kill it... but not   without destroying the nerves it's   inhabiting.",38A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+105,PICARD,   I know you're doing your best...,38A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+106,PULASKI,   My best may not be good enough.,38A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+107,PICARD,   Comfortable?,39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+108,RIKER,   How could I not be comfortable?   I'm being waited on hand and foot.,39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+109,RIKER ,   My only worry is that they'll find   out I'm faking it.,39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+110,PICARD,"   I wish you were faking it. I've   seen the thorn, Number One.",39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+111,RIKER,"   The doctor showed it to me, too.   Harmless-looking thing, isn't   it?",39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+112,PICARD,   But deadly.       I'm sorry.,39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+113,RIKER,   These things happen.,39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+114,PICARD,   When you least expect them.,39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+115,RIKER,"   I'm surprised they don't happen   more often. After all, we are   exploring the unknown.",39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+116,PICARD,   And now and then we are humbled...   reminded that the universe   contains much that is beautiful...   and much that is malevolent.,39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+117,RIKER,"   Captain, I hardly think the vine   that struck me did so out of   malice.       If I've learned anything aboard   this ship... from our voyages...   from you... it's that most life   forms act out of an instinct for   survival -- not out of evil.",39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+118,PICARD,"   A worthy lesson. I admire your   lack of rancor, Number One.",39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+119,RIKER,"   Captain, if you drop a hammer on   your foot, it's rather useless   to get mad at the hammer.",39   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+120,PICARD,   Anything?,39A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+121,PULASKI,   Not yet.,39A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+122,PICARD,"   Doctor, we're running out of time.",39A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+123,PICARD ,   You're right. I don't need to   remind you of your duties. I   didn't mean to give offense.,39A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+124,PULASKI,       None taken.,39A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+125,PULASKI ,   Now get out of my hair.,39A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+126,PICARD,"   Aye aye, Doctor.",39A  INT. PULASKI'S OFFICE,PULASKI'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+127,RIKER,"   This bug's persistent, I'll admit.   But I'm not worried. We Rikers   are ornery, too...",42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+128,RIKER ,"   In fact, my great-grandfather was   once bitten by a rattlesnake.   After three days of intense pain   -- the snake died.",42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+129,TROI,   You're a very entertaining   patient.,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+130,RIKER,   I try.,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+131,TROI,   Yes. You're making quite an   effort to be cheerful.,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+132,RIKER,   You of all people should know...,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+133,TROI,   You feel what anyone in your place   would feel.,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+134,RIKER,   But I'm the first officer of this   ship. I have to set an example.,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+135,TROI,   Even now?,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+136,RIKER,"   Now most of all. Deanna, facing   death is the ultimate test of   character. I don't want to die   -- but if I have to, I want to   do it with a little pride.",42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+137,TROI,   And a lot of impudence.,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+138,RIKER,       You bet. Dying is bad enough --   but losing my sense of humor?   Forget it.,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+139,TROI,   Imzadi...,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+140,RIKER,   I haven't given up yet. The best   medical team in Starfleet is on   the case... I'm sure they'll...,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+141,PULASKI,   It's spread to the spinal column.   It's weakening his autonomic   nervous system.,42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+142,PULASKI,"   Judging by its present rate of   growth and infiltration pattern,   the infection will reach his brain   within an hour.",42   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+143,PULASKI ,"   Medical log, Stardate 42976.2.   I can't keep the alien infection   from spreading to Commander   Riker's brain.",57   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+144,PULASKI ,"   Once there, it will kill him by   dampening neural impulses. The   only way I can keep him alive   is to force the neurons to stay   active -- by stimulating them   directly with electrical impulses.",58   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+145,PULASKI,   Let's proceed.,58   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+146,PULASKI,   Good...,58   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+147,PULASKI,   Stand by with five milligrams of   tricordrazine in case of seizure.       Here goes...,58   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+148,RIKER,   Tasha? Data? Geordi? Worf?!,71A  EXT. PLANET SURFACE (STOCK FROM #107 SCENES 34 TO 37),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+149,RIKER,   Anybody?!,71A  EXT. PLANET SURFACE (STOCK FROM #107 SCENES 34 TO 37),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+150,PULASKI,"   We've stimulated random wave   activity, but the patterns are   dangerously erratic.",71B  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+151,TROI,"       Hang on, Will...",71B  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+152,PULASKI,   The wave patterns are still too   irregular.,74A  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+153,TROI,   Why won't they stabilize?,74A  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+154,PULASKI,   Wait -- I've found the proper   amplitude --,74A  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+155,PULASKI ,   There. The patterns are steadier.,74A  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+156,TROI,   Is the stimulation preventing the   infection from taking hold?,74A  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+157,PULASKI,   For now.,74A  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+158,PULASKI ,   The vertex waves indicate a K-complex   corresponding to an R.E.M.   state.,74A  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+159,TROI,   He's dreaming.,74A  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+160,COMPUTER,"    (continuing; without     delay)   And if you care to enter,   Commander...","74C  INT. HOLODECK CORRIDOR (STOCK, #102 SC. 133-140)",HOLODECK CORRIDOR,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+161,RIKER,       I do.,"74C  INT. HOLODECK CORRIDOR (STOCK, #102 SC. 133-140)",HOLODECK CORRIDOR,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+162,RIKER,   Hello!,"74C  INT. HOLODECK CORRIDOR (STOCK, #102 SC. 133-140)",HOLODECK CORRIDOR,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+163,DATA,"   Marvelous how easily humans do   that, sir. I still need much   practice.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+164,RIKER,   There are some puzzles down on   the planet that Captain Picard   wants answered. He suggests I   take you on the away team I'll   be leading.,74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+165,DATA,"   I shall endeavor to function   adequately, sir.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+166,RIKER,"   Uh, yes. And when the captain   suggested you I, uh, looked up   your record...    ",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+167,DATA,"   Yes sir, a wise procedure always.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+168,RIKER,"   Then, your rank of lieutenant   commander is honorary.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+169,DATA,"   No, sir. Starfleet Class of '78;   honors in probability mechanics   and exobiology.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+170,RIKER,   But your files... they say you're   a...,74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+171,DATA,"       Machine? Correct, sir. Does that   trouble you?",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+172,RIKER,"       To be honest... yes, a little.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+173,DATA,"   Understood, sir. Prejudice is   very human.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+174,RIKER,   Now that troubles me. Do you   consider yourself superior to us?,74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+175,DATA,   I am superior in many ways. But   I would gladly give it up to be   human.,74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+176,RIKER,"       Nice to meet you, Pinocchio.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+177,RIKER,       A joke.,74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+178,DATA,       Ah! Intriguing.,74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+179,RIKER,"       You're going to be an interesting   companion, Mister Data.",74H  EXT. WOODLAND GLEN,WOODLAND GLEN,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+180,RIKER,"   All stations have reported,   Captain. There seems to be no   immediate threat to our ship or   crew.",79   INT. MAIN BRIDGE (STOCK FROM #128 SCENE 45),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+181,PICARD,"   In which case, let's hold position   for a while, Number One. This   is worth studying.",79   INT. MAIN BRIDGE (STOCK FROM #128 SCENE 45),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+182,RIKER,"   Incredible. It's like looking   off into... infinity, sir.       Remember the course in ancient   history at Starfleet Academy?   Back to the time when men still   believed the Earth was flat?",79   INT. MAIN BRIDGE (STOCK FROM #128 SCENE 45),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+183,PICARD,       And that the sun revolved around   the Earth...,79   INT. MAIN BRIDGE (STOCK FROM #128 SCENE 45),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+184,RIKER,   And if a ship sailed too far out   into the ocean it would fall off   the edge of the world...,79   INT. MAIN BRIDGE (STOCK FROM #128 SCENE 45),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+185,PICARD,"   ""Beyond this place there be   dragons... "" It was even said that   crews would threaten to hang their   captain from the yardarm if they   refused to turn back.",79   INT. MAIN BRIDGE (STOCK FROM #128 SCENE 45),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+186,RIKER,"   I'm sure no one here has that in   mind, sir.",79   INT. MAIN BRIDGE (STOCK FROM #128 SCENE 45),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+187,PICARD,"   How comforting, Number One.",79   INT. MAIN BRIDGE (STOCK FROM #128 SCENE 45),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+188,WESLEY,   But what do I say? How should   I act? What do I do?,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+189,RIKER,"   Guinan, I need your help. Could   you sit over there?",80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+190,GUINAN,   That seems simple enough.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+191,RIKER,"       The first words out of your mouth   are the most important. You could   start by saying something like...       ... ""you're the most beautiful   woman in the galaxy.""",80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+192,RIKER,       But that might not work.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+193,GUINAN,   Yes it would.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+194,RIKER,   If you only knew how much I wanted   to tell you that.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+195,GUINAN,   But you were afraid.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+196,RIKER,   Yes.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+197,GUINAN,   Of me?,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+198,RIKER,   Of us. Of what we could become...,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+199,WESLEY,   Commander Riker...,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+200,RIKER,   ... and that you might have   thought it was a line.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+201,GUINAN,   Maybe I do think it's a line.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+202,RIKER,   Then you think I'm not sincere?,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+203,GUINAN,   I didn't say that. There's   nothing wrong with a line. It's   like a knock on the door.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+204,RIKER,   Then you're inviting me in?,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+205,GUINAN,   I'm not sending you away.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+206,RIKER,   That's more than I expected.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+207,GUINAN,   But is it more than you hoped?,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+208,RIKER,   To hope is to recognize the   possibility. I had only dreams.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+209,GUINAN,   Dreams can be dangerous.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+210,RIKER,   Not these dreams.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+211,RIKER,       I dream of a galaxy where your   eyes are stars... And all the   universe worships night.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+212,GUINAN,"   Careful, if you place me too high   on a pedestal, you won't be able   to reach me.",80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+213,RIKER,   Then I'll learn to fly. You are   the heart in my day and the soul   in my night.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+214,WESLEY,   I don't think this is my style.,80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+215,GUINAN,"   Shut up, kid.       Now, tell me more about my eyes.",80A  INT. TEN-FORWARD (STOCK FROM #136 SCENE 28),TEN-FORWARD,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+216,TROI,   He's relaxed... experiencing   feelings of warmth. Friendship.,81   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+217,PULASKI,   He's reliving memories. That's   a natural side effect of the   neural stimulation.,81   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+218,PULASKI ,   Look at this! The organisms'   metabolism has changed. I wonder   if the stimulation is affecting   them somehow...,81   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+219,PULASKI ,   I'm going to refocus the impulse   pattern on the interpretative   cortex.,81   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+220,TROI,   Will that intensify the   commander's memories?,81   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+221,PULASKI,   Exactly. And we'll see if that has   an effect on the microbes...,81   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+222,RIVAN,   Everyone! We've brought the   visitors!,81C  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 12-13)),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+223,LIATOR,       Please enjoy what we have!,81C  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 12-13)),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+224,EDO MARBLE PLAYER,   This will please you. Join us!,81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+225,RIKER,       Another time. Thanks.,81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+226,EDO SPECTATOR,   Joy and happiness!,81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+227,RIKER,   Certainly is.,81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+228,RIKER,"   The good life, Worf.",81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+229,WORF,"   I am not concerned with pleasure,   Commander. I am a warrior.",81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+230,RIKER,   Even Klingons must need love now   and then.,81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+231,WORF,"   For what we consider love, sir,   I would need a Klingon woman.",81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+232,RIKER,       How about plain old basic sex?   You must have some need for that.,81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+233,WORF,"   Of course. But with the females   who are available to me... Earth   females... I must restrain myself   too much. They are quite fragile,   sir.",81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+234,RIKER,"       Worf, if anyone else said that,   I'd suspect he was bragging.",81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+235,WORF,"       ""Bragging,"" sir?",81E  INT. COUNCIL CHAMBERS (STOCK FROM #109 SCENES 31-31A),COUNCIL CHAMBERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+236,RIKER,"       Gentlemen, if this is what you   call ""enhancement"" you have a gift   for understatement.",81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+237,RIKER,"   What's your name, and tell me you   love jazz.",81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+238,MINUET,   My name is Minuet. I love all   jazz except Dixieland.,81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+239,RIKER,   Why not Dixieland?,81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+240,MINUET,   Because you can't dance to it.,81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+241,RIKER,   My girl.,81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+242,RIKER,       What's a knockout like you doing   in a computer-generated joint like   this?,81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+243,MINUET,   Waiting for you.,81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+244,RIKER,   Waiting for me?!! You can't be   serious?,81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+245,MINUET,"   Oh yes, Will -- I've never been   more serious in my life.",81G  INT. HOLODECK (STOCK FROM #116 SCENES 21 THRU 27),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+246,RIKER,   I am going to have to leave you   for a while and see to my duties.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+247,MINUET,   Your work is very important to   you.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+248,RIKER,   It is me -- it's what I am.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+249,MINUET,   Can we dance once before you   leave?,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+250,RIKER,"   Sure, why not.",81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+251,RIKER,   How did you learn to dance so   well?,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+252,MINUET,   From following you.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+253,MINUET,   I can anticipate your lead. Tell   me more about your work -- what   is it about it that consumes and   enthralls you?,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+254,RIKER,   What an interesting choice of   words. That's exactly what it   does.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+255,MINUET,   You are very fortunate.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+256,RIKER,   I know that.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+257,MINUET,   At this point in your life to be   exactly where you want to be...   And it's wonderful that you   realize it.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+258,RIKER,   I'd be a fool not to know how   lucky I am to be on this ship   serving with this group of people.   It's a dream come true.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+259,RIKER,       Just like this.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+260,MINUET,   A dream? Is that what this is?   Is that what I am?,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+261,RIKER,"   I know you are a computer-generated   image... but your smell,   the way you feel, your touch, even   the way you talk and think is so   real.",81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+262,MINUET,   Thank you.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+263,RIKER,"   How far can this relationship go?   I mean, how real are you?",81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+264,MINUET,   As real as you need me to be.,81K  INT. HOLODECK (STOCK FROM #116 SCENES 41 THRU 42),HOLODECK,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+265,PULASKI,   Something wrong?,82AA	INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+266,TROI,   No... it's just that... Commander   Riker's emotions are rather...   passionate.,82AA	INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+267,PULASKI,   As in -- erotic?,82AA	INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+268,TROI,       Very much so.,82AA	INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+269,BRENNA,"   William, is something wrong?",82B  INT. RIKER'S QUARTERS (STOCK FROM #144 SCENE 24A),RIKER'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+270,RIKER,   What do you mean?,82B  INT. RIKER'S QUARTERS (STOCK FROM #144 SCENE 24A),RIKER'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+271,BRENNA,   Do you not like girls?,82B  INT. RIKER'S QUARTERS (STOCK FROM #144 SCENE 24A),RIKER'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+272,RIKER,   Of course I like... Oh... is there   a technique to this foot washing?,82B  INT. RIKER'S QUARTERS (STOCK FROM #144 SCENE 24A),RIKER'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+273,BRENNA,   You generally start at the top...   and work your way down.,82B  INT. RIKER'S QUARTERS (STOCK FROM #144 SCENE 24A),RIKER'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+274,RIKER,   I think I can handle that.,82B  INT. RIKER'S QUARTERS (STOCK FROM #144 SCENE 24A),RIKER'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+275,BRENNA,   I was hoping you might.,82B  INT. RIKER'S QUARTERS (STOCK FROM #144 SCENE 24A),RIKER'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+276,BEATA,   I like the way your eyes pick up   the color of your tunic.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+277,RIKER,   It's not our place to interfere   in the domestic affairs of other   societies.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+278,BEATA,"   But you can interact, can't you?",83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+279,RIKER,"   Of course. Otherwise, how can   we learn?",83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+280,BEATA,"   And that's why you're here,   tonight, with me... to learn?",83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+281,RIKER,   Yes.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+282,BEATA,   ... About our society.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+283,RIKER,   Yes.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+284,BEATA,"   In our society, it's men who are   the fortunate ones, enjoying all   that life has to offer, while we   women devote ourselves to the   obligations of making life work.",83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+285,RIKER,   In our society we share the   responsibilities and the pleasures   equally.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+286,BEATA,   Don't be defensive. I'd be the   last to imply that men are   inferior.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+287,RIKER,"   Or I, that women are. That's why   I can be here with you while the   women on the away team go to find   Ramsey.",83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+288,BEATA,   I must remember to thank them when   they return for giving us this   time.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+289,BEATA,   You resist... Why? Do you not   find me attractive?,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+290,RIKER,   Oh... Yes I find you very   attractive.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+291,BEATA,   Don't you feel you know me well   enough?,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+292,BEATA,   You attract me like no man ever   has.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+293,RIKER,   I'm flattered. I don't know what   to say.,83   INT. EXECUTIVE OFFICE (STOCK FROM #115 SCENE 42),EXECUTIVE OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+294,PULASKI,"   The organisms responded, all right.   Their growth rate has doubled.",86   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+295,TROI,   Then all we've done is make things   worse...,86   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+296,PULASKI,   Now we know the organism's growth   rate is related to the memories   he's experiencing.,88   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+297,TROI,   Or the emotions they produce.,88   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+298,PULASKI,   Different mental processes   generate different chemicals.   Perhaps the organisms are   sensitive to brain endorphins.,88   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+299,TROI,   And if some types of endorphins   attract them...,88   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+300,PULASKI,       ... others will repel them.,88   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+301,PULASKI ,   I'm going to change the   differential current pattern and   see what happens.,88   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+302,DISSOLVE TO:,89Athru OMITTED89B,88   INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+303,RIKER,   I am Commander William Riker of   the USS Enterprise.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+304,ARMUS,   I am ARMUS. You are in my space.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+305,RIKER,   We mean you no harm. We have an   injured crew in that shuttlecraft.   We need to get to them. May we   pass?,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+306,ARMUS,   You haven't given me a good enough   reason yet.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+307,RIKER,   Preserving life -- all life --   is very important to us.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+308,ARMUS,   Why?,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+309,RIKER,   We believe that everything in the   Universe has a right to exist.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+310,ARMUS,   An interesting notion which I do   not share. You may now leave if   you wish.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+311,TASHA,   We won't go without the shuttle   crew.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+312,ARMUS,   I warn you. You will not like   it here.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+313,TASHA,   What are you saying -- that you   are going to deny us access to   our comrades?,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+314,ARMUS,   I told you what you can do. You   can leave. I have no interest   in any further discussion or   argument.,89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+315,TASHA,"   Enough. We have people who need   attention. We will not harm you,   but we must help them.",89C  EXT. PLANET SURFACE (STOCK FROM #122 SCENE C21-22),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+316,BEVERLY,   She's dead.,89D  EXT. PLANET SURFACE (STOCK FROM #122 SCENE 24C),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+317,PICARD,"   Status, Doctor?",89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+318,BEVERLY,   Unchanged.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+319,PICARD,   Can you bring her back?,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+320,BEVERLY,   I'm trying.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+321,RIKER,       You've saved people before. You   can save her.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+322,BEVERLY,   Neural stimulator.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+323,RIKER,   There. You did it.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+324,BEVERLY,   No. I've got her on total   support. There's no independent   brain activity.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+325,NURSE,"   She's not responding, Doctor.   Her synaptic network is breaking   down.",89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+326,BEVERLY,   No! Inject norep.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+327,BEVERLY,       We're going for direct reticular   stimulation.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+328,BEVERLY,       Doesn't matter! Do it!,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+329,NURSE,   Neurons are beginning to   depolarize.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+330,BEVERLY,   Increase to seventy microvolts.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+331,RIKER,       Doctor?,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+332,BEVERLY,   Eighty-five microvolts.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+333,BEVERLY,   She's gone.,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+334,PICARD,   Gone?,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+335,BEVERLY,   There's too much synaptic damage.   That thing just sucked all the   life out of her. There's nothing   I can do...,89E  INT. SICKBAY (STOCK FROM #122 SCENES 30 THRU 34),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+336,DATA,   This way.,"89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+337,BEVERLY,"   You are going to be all right,   now.","89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+338,RIKER,   Where are the others?,"89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+339,WOMAN,   Gone. It's just us.,"89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+340,GEORDI,       Commander!,"89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+341,GEORDI,   There's someone there!,"89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+342,BEVERLY,   She's dead. If we'd only gotten   here a little sooner... !,"89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+343,DATA,"   Sir, if you indeed have ""Q""'s   power...","89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+344,BEVERLY,       I don't understand. Certainly   you can't bring her back to life?,"89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+345,RIKER,       I'm prevented from that by a   promise.,"89F  INT. PLANET DISASTER AREA (STOCK, #111 SC. 70 TO 84)",PLANET DISASTER AREA,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+346,TROI,   It's Ian. Please... please hurry.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+347,TROI,"       Save him, you must save him.","89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+348,PULASKI,   What happened? Did he eat   anything? Did he fall?,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+349,TROI,   No.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+350,DATA,   The child is the source of the   unusual radiation.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+351,TROI,   He said he's the reason the ship   is in danger.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+352,DATA,   That analysis is correct.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+353,PULASKI,   I'm losing life signs.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+354,TROI,"   Oh, please. Please save him.","89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+355,PULASKI,   I'm sorry.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+356,GEORDI,       Captain. The containment field   has stabilized.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+357,PICARD,"   Thank you, Lieutenant.","89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+358,TROI,   Then Ian was right. He was the   cause.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+359,PICARD,   Apparently so.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+360,TROI,"   He is a life-force entity... as   we passed each other in space he   was curious and wanted to know   about us, and he thought the best   way to learn was to go through   the process. To be born, to live   as one of us and in that way to   understand us.","89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+361,TROI,"       Captain, he never meant any harm.","89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+362,RIKER,   There was a moment when you   smiled.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+363,TROI,       He said thank you.       I told him we will miss him -- and   I will.,"89R  INT. TROI'S QUARTERS (STOCK, #127 SC. 81 THRU 84)",TROI'S QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+364,PULASKI,   The growth rate has definitely   slowed. What is he feeling? Can   you tell?,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+365,TROI,   Sadness.,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+366,PULASKI,   Just the opposite of before --   and it's having the opposite   effect on the infection.,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+367,TROI,   Then your theory is correct. The   organisms are sensitive to   different types of endorphins.,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+368,PULASKI,   And negative emotions...,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+369,TROI,   Such as sadness...,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+370,PULASKI,   ... produce endorphins that inhibit   the organisms' growth.,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+371,TROI,   Then we've found a way to repel   the infection.,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+372,PULASKI,   Assuming we're not already too   late.,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+373,TROI,   How much time do we have?,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+374,PULASKI,   I'm not sure. His vital signs   are getting weaker. I don't want   to risk another dose of   tricordrazine unless I have to...,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+375,PULASKI ,   I'm refocusing the pattern again.   We need to isolate memories that   generate stronger negative   emotions.,95   INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+376,RIKER,   I am Commander William Riker of   the Starship Enterprise.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+377,KARGAN,   That is incorrect.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+378,RIKER,       I don't understand.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+379,KARGAN,"   You are Commander Riker, first   officer of the Klingon Cruiser   Pagh, or do you intend to   disobey Federation orders?","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+380,RIKER,"   I have no such intentions,   Captain.","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+381,KARGAN,"   Exactly where are your loyalties,   Commander?","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+382,RIKER,   I'm afraid I still don't   understand.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+383,KARGAN,   This ship is equipped with our   best weapons and our finest   warriors. Although we are on a   peaceful mission we are prepared   to go into battle instantly.     ,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+384,KARGAN ,"   I know I can count on every   Klingon warrior in this crew to   serve and die in that battle.   So I ask again Commander Riker,       where are your loyalties?","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+385,RIKER,   I have been assigned here to serve   this ship and to obey your orders.   I will do exactly that.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+386,KARGAN,   Will you take an oath to that   effect?,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+387,RIKER,       I just did.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+388,KLAG,   yI-Har-Qo! nep-we' ghaH! (Do   not believe him! He lies!),"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+389,KARGAN,"       Hol-chaj yI-jatlh. (Speak in   their language.)       This is your second officer,   Lieutenant Klag.","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+390,RIKER,"   Was there something you wanted   to say to me, Lieutenant?","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+391,KLAG,   Yes sir.       I don't believe you.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+392,RIKER,   Then I take it you challenge my   authority over you.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+393,KLAG,   Correct.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+394,RIKER,"       And your position in this,   Captain?","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+395,KARGAN,       I would call it your first command   decision.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+396,RIKER,   My oath is between Captain Kargan   and myself. Your only concern   is how to obey my orders.       Or do you prefer the rank of   prisoner over that of lieutenant?,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+397,KLAG,   I will take your orders.,"95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+398,KARGAN,"   And you, Commander Riker, will   obey my orders.","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+399,RIKER,"   Agreed, Captain Kargan.","95E  INT. PAGH - MAIN BRIDGE (STOCK, #134 SC. 33-33E)",PAGH - MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+400,RIKER,"   Ready for your tour, Admiral?","95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+401,QUINN,"   Quite ready, Commander.","95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+402,RIKER,   What's in the case?,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+403,QUINN,       Actually... I brought this for   Doctor Crusher. But perhaps you'd   like you to see it first?,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+404,RIKER,       What is it?,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+405,QUINN,   A form of life. Discovered quite   accidentally by a survey team on   a distant uncharted planet.,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+406,RIKER,   Why haven't we heard anything   about that?,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+407,QUINN,"   Oh, you'll be hearing more about   it shortly. But first there is   much scientific study to be done.   After all, this is a superior   life-form.","95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+408,RIKER,   Superior?,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+409,QUINN,"   Totally.       Now come, Riker. Take a good   look.","95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+410,RIKER,   I think I'll summon our science   officer --,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+411,QUINN,"   It won't like your science   officer. It likes you.    (rises, grabs Riker's     arm)   Now look!","95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+412,QUINN,       Vitamins. They do wonders for   the body.,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+413,QUINN,"       Ahh, your life is so painful now.   But soon you'll be one of us.","95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+414,RIKER,       Riker to security. Emergency --,"95K  INT. QUINN'S GUEST QUARTERS (STOCK, #125 SC. 71)",QUINN'S GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+415,ARMUS,       Touch him and he dies.,95L  EXT. PLANET SURFACE (STOCK FROM #122 SCENE 51C),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+416,DATA,"   Enterprise, ARMUS has enveloped   Commander Riker.",95L  EXT. PLANET SURFACE (STOCK FROM #122 SCENE 51C),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+417,PICARD,   I'm beaming you up!,95L  EXT. PLANET SURFACE (STOCK FROM #122 SCENE 51C),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+418,ARMUS,"   If any of you leave now, he dies.   And so do the survivors of the   crash.",95L  EXT. PLANET SURFACE (STOCK FROM #122 SCENE 51C),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+419,PULASKI,   We've reduced the growth rate   even further... but not enough.,107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+420,PULASKI,   And his vital signs are   deteriorating.,107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+421,TROI,   But we've isolated the specific   areas to stimulate. The feelings   were very primal... survival   emotions.,107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+422,PULASKI,   They must be producing a type of   endorphin that's poisonous to the   organisms.,107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+423,TROI,   Can you intensify those emotions?,107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+424,PULASKI,       I can refocus the impulse pattern   even tighter.,107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+425,PULASKI ,   But I don't know if he can   withstand it. He's extremely   weak.,107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+426,TROI,   Do we have a choice?,107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+427,PULASKI,"   No. If we don't neutralize the   infection within half an hour,   he'll be dead.",107  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+428,PULASKI ,"   Medical log, supplemental.   Commander Riker's condition is   still critical.",109A EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+429,PULASKI ,   I've discovered a way to reverse   the infection's growth rate --   but I may be too late.,110  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+430,TROI,"   He's getting weaker, isn't he?",110  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+431,PULASKI,"       Respiration shallow, heartbeat   extremely irregular.",110  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+432,PULASKI ,   But we can't delay any longer...,110  INT. SICKBAY,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+433,T'JON,   Take us to our planet -- leave us   there with our medicine or this   person dies.,111C INT. GUEST QUARTERS (STOCK FROM #123 SCENE 56B),GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+434,T'JON,       Don't you see -- I have no choice.   We were sent to bring back the   Felicium. The suffering on my   planet is too great. People are   dying. It doesn't matter any more   whether we are entitled to the   Felicium... we have to have it.,111C INT. GUEST QUARTERS (STOCK FROM #123 SCENE 56B),GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+435,PICARD,   Let him go.,111C INT. GUEST QUARTERS (STOCK FROM #123 SCENE 56B),GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+436,T'JON,"   Take us there now -- or give us   a shuttle -- but we must have the   medicine... if you refuse, this   person dies.",111C INT. GUEST QUARTERS (STOCK FROM #123 SCENE 56B),GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+437,PICARD,   I will not be coerced.,111C INT. GUEST QUARTERS (STOCK FROM #123 SCENE 56B),GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+438,T'JON,   I'll do it. I'll kill him.,111C INT. GUEST QUARTERS (STOCK FROM #123 SCENE 56B),GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+439,PICARD,       No you won't. You're not a   killer.,111C INT. GUEST QUARTERS (STOCK FROM #123 SCENE 56B),GUEST QUARTERS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+440,RICE,"   Commander Riker, those answers   make no sense.","111D EXT. PLANET SURFACE (STOCK, #121 SC. 13A-22)",PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+441,RIKER,"   You haven't used my first name   once, Paul.","111D EXT. PLANET SURFACE (STOCK, #121 SC. 13A-22)",PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+442,RIKER,"       You remember it, don't you?","111D EXT. PLANET SURFACE (STOCK, #121 SC. 13A-22)",PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+443,RIKER,"       You don't, because you don't even   exist. You're a fake -- an image   of the original! Aren't you?...   Answer me!","111D EXT. PLANET SURFACE (STOCK, #121 SC. 13A-22)",PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+444,PICARD,"   Report, Number One.","111D EXT. PLANET SURFACE (STOCK, #121 SC. 13A-22)",PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+445,RIKER,   The image of Rice has been   replaced by something which is   hovering several meters away.,"111D EXT. PLANET SURFACE (STOCK, #121 SC. 13A-22)",PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+446,RIKER,   Prepare to beam up.,111F EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+447,TASHA,   Commander.,111F EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+448,PICARD,       What just happened down there?   Number One! Report!,111H EXT. PLANET SURFACE - ANGLE ON TASHA (OPTICAL),PLANET SURFACE - ANGLE ON TASHA,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+449,PICARD,   Report! Report!,111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+450,TASHA,"   He can't answer you, Captain.",111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+451,DATA,   Commander Riker has been encased   in some kind of energy field.,111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+452,PICARD,   Is he alive?,111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+453,DATA,   Unknown.,111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+454,RIKER ,   Who are you?,111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+455,PULASKI,   The growth rate's down to seven   percent.,115  INT. SICKBAY - ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+456,PULASKI ,"   But the organisms are still   impairing his neural functions.   Respiration is erratic, pulse   grossly irregular, blood pressure   almost nil.",115  INT. SICKBAY - ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+457,PULASKI ,   Tricordrazine.,115  INT. SICKBAY - ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+458,TROI,   Can we tighten the pattern   further?,115  INT. SICKBAY - ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+459,COMPUTER,"   Recognize Picard, Jean-Luc,   Captain...       Recognize Riker, William T.,   Commander.",117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+460,PICARD,   Set auto-destruct sequence.,117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+461,COMPUTER,   Does the first officer concur?,117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+462,RIKER,   ... Yes. Set auto-destruct   sequence -- now!,117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+463,COMPUTER,   Auto-destruct will detonate in   four minutes and fifty-nine   seconds... four minutes and   fifty-eight seconds... four   minutes and fifty-seven seconds...,117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+464,PICARD,   Let's go. The only place we can   stop the count is from the bridge.,117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+465,COMPUTER,   Thirty seconds to auto-destruct.,117B INT. MAIN BRIDGE (STOCK FROM #128 SCENE 117A),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+466,DATA,"   Captain, we are clear of the void.   You may stop the auto-destruct.",117B INT. MAIN BRIDGE (STOCK FROM #128 SCENE 117A),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+467,PICARD,"   Data, on any heading -- warp six   -- now!",117B INT. MAIN BRIDGE (STOCK FROM #128 SCENE 117A),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+468,RIKER,   Captain.,117D INT. MAIN BRIDGE (STOCK FROM #128 SCENE 117E),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+469,PICARD,"   I don't believe it, Number One.   It could still be part of the   illusion. Data, report.",117D INT. MAIN BRIDGE (STOCK FROM #128 SCENE 117E),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+470,DATA,   All navigational systems confirm   -- we are at warp six -- on   course...,117D INT. MAIN BRIDGE (STOCK FROM #128 SCENE 117E),MAIN BRIDGE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+471,COMPUTER ,   Seventeen... sixteen...   fifteen... fourteen...,117E INT. MAIN BRIDGE - (STOCK FROM #143 SCENE 60B & 60D),MAIN BRIDGE -,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+472,WORF,"   Firing sequence proceeding, sir.",117E INT. MAIN BRIDGE - (STOCK FROM #143 SCENE 60B & 60D),MAIN BRIDGE -,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+473,RIKER,   Hold fast.,117E INT. MAIN BRIDGE - (STOCK FROM #143 SCENE 60B & 60D),MAIN BRIDGE -,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+474,COMPUTER ,   Eleven... ten... nine...,117E INT. MAIN BRIDGE - (STOCK FROM #143 SCENE 60B & 60D),MAIN BRIDGE -,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+475,COMPUTER ,   six... five... four... three...,117E INT. MAIN BRIDGE - (STOCK FROM #143 SCENE 60B & 60D),MAIN BRIDGE -,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+476,KORRIS,   I am Korris.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+477,RIKER,   We'll handle the formalities later   -- right now we have to get off this   ship. Are there any others still   alive?,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+478,KORRIS,   No.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+479,DATA,   I believe there is a quicker way   out of here.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+480,GEORDI,   Let's go.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+481,RIKER,   Check him Data.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+482,DATA,   He is alive -- but just barely.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+483,RIKER,   Pick him up and let's get out of   here.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+484,KORRIS,   No. I will carry him.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+485,DATA,   As you wish.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+486,GEORDI,"   We're out of time, Commander --   the ship's going to blow.",	INT. BATRIS - CORRIDOR,BATRIS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+487,RIKER,"   Transporter Room, have you got   a lock on us?",	INT. BATRIS - CORRIDOR,BATRIS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+488,TASHA,   Not yet. Too much interference.   You have to get farther away from   the Engineering section.,	INT. BATRIS - CORRIDOR,BATRIS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+489,RIKER,"   End of the line. Transporter   Room, we've gone as far as we can.   Get us off -- now!",	INT. BATRIS - CORRIDOR,BATRIS,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+490,RIKER,"   Ship's log, First Officer Riker.   The star has begun disintegrating.   Enterprise will be destroyed   unless it can be moved out of the   path of the star material   hurtling...","117G EXT. SPACE (STOCK, #103 SC. 108-130)",SPACE,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+491,RIKER,"       ... toward us. Our only hope is   for Lieutenant Commander Data in   the time we have left, to regain   his senses and reconnect engine   power to the bridge.",	EXT. SPACE - EXPLODED MASS OF MATERIAL (OPTICAL),SPACE - EXPLODED MASS OF MATERIAL,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+492,WESLEY,"   Hi, Mister Data.",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+493,DATA,"   Nice to see you, Wesley. What... ?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+494,RIKER,"    (overlapping; urgently     indicating)   Data! We need the engines on-line   in a hurry, remember?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+495,WESLEY,"   Oh yes, I remember too.       So, Data, if you don't mind...",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+496,RIKER,"       We've no time for courtesy!       Get those damned control chips   back in place, Data! In the   correct order!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+497,RIKER,       NOW!,	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+498,WESLEY,"       It's like a game of ""how fast can   you do it?""",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+499,DATA,"   Ah, a game!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+500,WESLEY,"   I think I can switch this to the   Main Viewer, sir...",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+501,RIKER,"   We've got eight or nine minutes,   at most, Data. Can you finish   by then?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+502,DATA,"   No. This will take slightly more   time than we have, sir.",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+503,RIKER,"   Dammit, NO! I can't afford to   get it!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+504,DATA,"   If we had just a minute more,   sir...",	EXT. SPACE - MASS OF MATERIAL FROM STAR (OPTICAL),SPACE - MASS OF MATERIAL FROM STAR,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+505,RIKER,"   We didn't make it, Captain. If   we had just a minute or so more...",	EXT. SPACE - MASS OF MATERIAL FROM STAR (OPTICAL),SPACE - MASS OF MATERIAL FROM STAR,EXT.,"""Shades of Gray""",1989-05-01,The Next Generation
+506,WESLEY,"   Yes, then reversing power leads,   back through the force   activator... repulser beam hard   against the Tsiolkovsky...",	INT. ENGINEER'S OFFICE - ON WESLEY,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+507,RIKER,   We're pushing away!,	INT. ENGINEER'S OFFICE - WIDE ANGLE,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+508,RIKER,"    (continuing; into     communicator)   Bridge, engage engines!",	INT. ENGINEER'S OFFICE - WIDE ANGLE,ENGINEER'S OFFICE,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+509,TROI,       The growth rate's almost zero.,121  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+510,PULASKI,   That's not good enough.,121  INT. SICKBAY (OPTICAL),SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+511,PULASKI,   Sickbay to bridge.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+512,PICARD,"   Go ahead, Doctor.",124  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+513,PULASKI,   We've eradicated the infection.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+514,PICARD,   I'm on my way.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+515,RIKER,   You still here?,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+516,TROI,       I could ask you the same question.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+517,PULASKI,   How do you feel?,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+518,RIKER,   Beat. You wouldn't believe the   dreams I've been having...,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+519,TROI,"   Yes, we would.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+520,PULASKI,   You'll be pleased to know that   we've terminated the infection.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+521,RIKER,"   Great work, Doctor.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+522,RIKER ,"   Now, if you'll let me get out of   here and back to work...",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+523,PULASKI,   Lie still. I have a few dozen   tests to run first.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+524,RIKER,   Why? I feel fine.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+525,PULASKI,   There may be some residual memory   loss. I just want to make sure   you still know who you are.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+526,RIKER,   Of course I know who I am. I'm   Captain Jean-Luc Picard of the   USS Enterprise.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+527,PICARD,"   Delighted you're feeling better,   Captain.       The admiral and I were worried   about you.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
+528,DATA,"   Sir, I do not believe you have   the authority to promote me to   the rank of admiral.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,"""Shades of Gray""",1989-05-01,The Next Generation
