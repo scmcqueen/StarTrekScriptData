@@ -10,8 +10,8 @@ def open_file(filename):
 
 
 def get_quotes(lines):
-    characters = [x for x in lines if '\t\t\t\t\t' in x]
     char_index = [i for i in range(len(lines)) if '\t\t\t\t\t' in lines[i]]
+    scenes_index = [j for j in range(len(lines)) if 'INT.' in lines[j] or 'EXT.' in lines[j]]
 
     data = []
 
@@ -31,9 +31,11 @@ def get_quotes(lines):
             j = j+1
             next_line = lines[j]
 
-        data.append([name, quote])
+        scene = lines[max([x for x in scenes_index if x < i])]
 
-    test_df = pd.DataFrame(data, columns=['character', 'quote'])
+        data.append([name, quote,scene])
+
+    test_df = pd.DataFrame(data, columns=['character', 'quote','scene'])
     return (test_df)
 
 
