@@ -98,7 +98,16 @@ def get_date(lines):
     try:
         date = str(lines[series_ind+2])
         date = date.strip()
-        final = datetime.strptime(date, '%B %d, %Y')
+        spaces = len(date.split())
+        if ',' not in date:
+            final = datetime.strptime(date, '%B %d %Y')
+        elif spaces ==3:
+            final = datetime.strptime(date, '%B %d, %Y')
+        elif spaces==2:
+            final = datetime.strptime(date, '%B %d,%Y')
+        else:
+            print(lines[series_ind+2])
+            final = "AHHH"
     except:
         print(lines[series_ind+2])
         final = "AHHH"
