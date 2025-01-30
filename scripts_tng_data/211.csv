@@ -39,7 +39,7 @@
 37,GEORDI,"   Exchange protocol verified.       The files seem to be intact. Some   of them, anyway.",5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 38,WEAK,   Is somebody there... ?,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 39,RIKER,       Stay here.       Data.,5    INT. VICO (OPTICAL),VICO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-40,TIMOTHY,   Are my parents alright?,6    INT. SCIENCE SHIP CHAMBER - ON TIMOTHY,SCIENCE SHIP CHAMBER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+40,TIMOTHY,   Are my parents alright?,6    INT. SCIENCE SHIP CHAMBER - ON TIMOTHY,SCIENCE SHIP CHAMBE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 41,PICARD ,"   Captain's log, supplemental. A   young boy, shielded from our   initial sensor scans, has been   discovered alive by the away team.   The degree of damage to the Vico   is making our rescue attempt   difficult...",8    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 42,PICARD,"       Transporter room one, can you lock   onto him?",9    INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 43,PICARD,   And transport directly to   sickbay?,10   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
@@ -169,12 +169,12 @@
 167,DATA,   That is correct.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 168,TIMOTHY,   Why not?,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 169,DATA,   My positronic brain is not capable   of generating those conditions.,35   INT. TIMOTHY'S QUARTERS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-170,TIMOTHY,   Can we build something else   later?,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-171,DATA,   That would be acceptable.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-172,TIMOTHY,   Bye.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-173,DATA,   Goodbye.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDOR,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-174,TIMOTHY,       I am designed to exceed human   capacity...,39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-175,TIMOTHY,       That is correct...,39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+170,TIMOTHY,   Can we build something else   later?,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDO,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+171,DATA,   That would be acceptable.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDO,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+172,TIMOTHY,   Bye.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDO,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+173,DATA,   Goodbye.,39A  EXT. CORRIDOR - CONTINUOUS,CORRIDO,EXT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+174,TIMOTHY,       I am designed to exceed human   capacity...,39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+175,TIMOTHY,       That is correct...,39B  INT. TIMOTHY'S QUARTERS - CONTINUOUS,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 176,DATA,   The Black Cluster was formed   almost nine billion years ago when   hundreds of protostars collapsed   in close proximity. The resulting   gravitational forces are violent   and highly unpredictable.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 177,GEORDI,"   To get anywhere near the center,   we'll have to push through the   gravitational wavefronts -- just   like the science vessel was   designed to do. I've adjusted   our shields accordingly.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 178,WORF,   The gravitational forces will   affect sensor accuracy. Detecting   an enemy vessel will be difficult.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
@@ -191,19 +191,19 @@
 189,TIMOTHY,       I am an android.,43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 190,TROI,"   I see... Well. Let's go for our   walk, shall we?",43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 191,TIMOTHY,   That would be acceptable.,43   INT. CORRIDOR,CORRIDOR,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-192,TIMOTHY,       Androids do not need to eat or   drink.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-193,TIMOTHY,"       However, sometimes we like to   taste things.       A Tamarin frost, please.",44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-194,TIMOTHY,"       Would you like anything,   Counselor?",44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-195,TROI,"   No, I'm fine, thank you.",44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-196,TIMOTHY,   As you wish.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-197,TROI,   So... you're no longer a Human?,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-198,TIMOTHY,   I'm an android.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-199,TROI,   When did this happen?,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-200,TIMOTHY,   I've always been an android.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-201,TROI,   What's it like... being an   android?,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-202,TIMOTHY,   I am designed to exceed human   capacity both mentally and   physically. But I do not   experience emotions.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-203,TROI,   You don't? No emotions at all?,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-204,TIMOTHY,   That is correct.,44   INT. TEN-FORWARD,TE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+192,TIMOTHY,       Androids do not need to eat or   drink.,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+193,TIMOTHY,"       However, sometimes we like to   taste things.       A Tamarin frost, please.",44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+194,TIMOTHY,"       Would you like anything,   Counselor?",44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+195,TROI,"   No, I'm fine, thank you.",44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+196,TIMOTHY,   As you wish.,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+197,TROI,   So... you're no longer a Human?,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+198,TIMOTHY,   I'm an android.,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+199,TROI,   When did this happen?,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+200,TIMOTHY,   I've always been an android.,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+201,TROI,   What's it like... being an   android?,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+202,TIMOTHY,   I am designed to exceed human   capacity both mentally and   physically. But I do not   experience emotions.,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+203,TROI,   You don't? No emotions at all?,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+204,TIMOTHY,   That is correct.,44   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 205,PICARD,   An android.,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 206,TROI,"   I know it sounds unusual - but   it is understandable.   Technically, it's called   enantiodromia. Conversion into   the opposite. Timothy went from   Human to machine. From being   emotional to being emotionless.   But the underlying trauma is still   there. He's just found a new way   to repress it.",46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 207,PICARD,   How long will this behavior last?,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
@@ -211,24 +211,24 @@
 209,PICARD,   I assume this is not a time to   confront him about what happened   to his ship.,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 210,TROI,   Not yet. The best thing we can   do right now is to let Timothy   take us where he wants to go.   We should support the process   -- even encourage it.,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 211,PICARD,   Mister Data -- I'd like you to   make Timothy the best android he   can possibly be.,46   INT. READY ROOM,READY ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-212,DATA,"   Timothy, your head movements   are... counterproductive. Can   you be still?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-213,TIMOTHY,   But you do it.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-214,DATA,   The servo-mechanisms in my neck   are designed to approximate Human   movements.       I did not realize the effect was   so... distracting.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-215,TIMOTHY,   I like it.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-216,TIMOTHY,"   Data, are there any other androids   in Starfleet?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-217,DATA,   No. I am the only one.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-218,TIMOTHY,   How come you're not captain?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-219,DATA,   My service experience does not   yet warrant such a position.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-220,TIMOTHY,"   Data, what's the scariest thing   that ever happened to you?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-221,DATA,   Fear is a quality that I do not   possess.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-222,TIMOTHY,   Because it's an emotion.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-223,DATA,   That is correct.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-224,TIMOTHY,   But what if you had a nightmare?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-225,DATA,   I have never had a nightmare.   I do not require sleep.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-226,DATA,"   Timothy, are you having...   disturbing dreams?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-227,TIMOTHY,   I do not require sleep.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-228,DATA,   Is it satisfactory?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-229,TIMOTHY,   It's perfect.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTERS,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+212,DATA,"   Timothy, your head movements   are... counterproductive. Can   you be still?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+213,TIMOTHY,   But you do it.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+214,DATA,   The servo-mechanisms in my neck   are designed to approximate Human   movements.       I did not realize the effect was   so... distracting.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+215,TIMOTHY,   I like it.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+216,TIMOTHY,"   Data, are there any other androids   in Starfleet?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+217,DATA,   No. I am the only one.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+218,TIMOTHY,   How come you're not captain?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+219,DATA,   My service experience does not   yet warrant such a position.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+220,TIMOTHY,"   Data, what's the scariest thing   that ever happened to you?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+221,DATA,   Fear is a quality that I do not   possess.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+222,TIMOTHY,   Because it's an emotion.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+223,DATA,   That is correct.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+224,TIMOTHY,   But what if you had a nightmare?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+225,DATA,   I have never had a nightmare.   I do not require sleep.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+226,DATA,"   Timothy, are you having...   disturbing dreams?",47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+227,TIMOTHY,   I do not require sleep.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+228,DATA,   Is it satisfactory?,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+229,TIMOTHY,   It's perfect.,47   INT. TIMOTHY'S QUARTERS - ON TIMOTHY,TIMOTHY'S QUARTER,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 230,BEVERLY,   Transfer circuits are functioning   properly.,55   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 231,TIMOTHY,   Within established parameters?,55   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 232,BEVERLY,       Absolutely.,55   INT. SICKBAY,SICKBAY,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
@@ -291,15 +291,15 @@
 289,WORF,   This formation is seven times more   massive than any previously   explored. That could explain the   difference.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 290,PICARD,       Resume previous course.,65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 291,ENSIGN FELTON,"   Yes, sir.",65   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-292,DATA,   He laughed.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-293,TROI,"   Yes. It's nice to see, isn't   it... ?",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-294,DATA,   It is certainly not consistent   with his android persona...,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-295,TROI,   I'd say he's beginning the process   of letting go of that fantasy...,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-296,DATA,   Then my work with him is complete?,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-297,TROI,"       No, I don't think it is, Data...   A laugh is one step in the right   direction... we need to help him   take a few more steps...",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-298,DATA,"   How, Counselor?",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-299,TROI,   I'd like you to talk to him...   about your own fascination with   humanity.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-300,TROI,   If you can explain the appeal that   humanity has for you... Timothy   might find it easier to become   a boy again.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+292,DATA,   He laughed.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+293,TROI,"   Yes. It's nice to see, isn't   it... ?",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+294,DATA,   It is certainly not consistent   with his android persona...,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+295,TROI,   I'd say he's beginning the process   of letting go of that fantasy...,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+296,DATA,   Then my work with him is complete?,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+297,TROI,"       No, I don't think it is, Data...   A laugh is one step in the right   direction... we need to help him   take a few more steps...",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+298,DATA,"   How, Counselor?",66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+299,TROI,   I'd like you to talk to him...   about your own fascination with   humanity.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+300,TROI,   If you can explain the appeal that   humanity has for you... Timothy   might find it easier to become   a boy again.,66   INT. CLASSROOM - ON TIMOTHY AND CHILDREN,CLASSROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 301,TIMOTHY,   This is great. How's yours?,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 302,DATA,"   The complex polysaccharides, in   reaction with the carbon dioxide,   produces an unusual combination   of texture and efforvescence.",69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 303,TIMOTHY,   But how does it taste? Is it   good?,69   INT. TEN FORWARD,TEN FORWARD,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
@@ -383,10 +383,10 @@
 381,DATA,       I want you to recall everything   you heard people say aboard the   Vico before it was destroyed...,80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 382,TIMOTHY,"   I don't know. Just that. Just   ""more shields""...",80B  INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 383,GEORDI,       I've transferred fusion reactors   four through nine into the shield   array.,82   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-384,GEORDI,   That should double the shield   strength.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-385,WORF,   Wavefront intensity has increased   by an order of magnitude. Impact   in three - two - one.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-386,WORF,       Wave front intensity is   continuing to increase.   Structural overpressure is   exceeding one hundred eighty   percent.,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-387,PICARD,       La Forge...,82A  INT. BRIDGE - COMMAND,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+384,GEORDI,   That should double the shield   strength.,82A  INT. BRIDGE - COMMAND,BRIDG,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+385,WORF,   Wavefront intensity has increased   by an order of magnitude. Impact   in three - two - one.,82A  INT. BRIDGE - COMMAND,BRIDG,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+386,WORF,       Wave front intensity is   continuing to increase.   Structural overpressure is   exceeding one hundred eighty   percent.,82A  INT. BRIDGE - COMMAND,BRIDG,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+387,PICARD,       La Forge...,82A  INT. BRIDGE - COMMAND,BRIDG,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 388,GEORDI,       I don't understand. That should   have been enough.,84   INT. ENGINEERING,ENGINEERING,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 389,GEORDI,   We could run the shield grid   directly off the warp drive.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 390,PICARD,       Make it so.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
@@ -409,21 +409,21 @@
 407,RIKER,"   Status, Ensign.",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 408,ENSIGN FELTON,   Navigation is coming back on line.,85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
 409,PICARD,"   Full about, one quarter impulse.   Take us out of here.",85   INT. BRIDGE,BRIDGE,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-410,TROI ,"   It would seem that our young   ""android"" is finding his way back   to humanity.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-411,DATA,"   It would appear so, Counselor.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-412,TROI,   It'll take a while for his   emotions to catch up. Timothy's   a boy feeling a great deal of   pain. But he is a boy again.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-413,TROI,"   Is this.. difficult for you, Data?",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-414,DATA,   Difficult?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-415,TROI,   To watch him... moving away from   being like you...,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-416,DATA,"   No, Counselor. That would require   an emotional context which I   cannot provide.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-417,DATA ,"   Hello, Timothy.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-418,TIMOTHY,"       How are you, Data?",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-419,DATA,   I am operating within established   parameters. How are you?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-420,TIMOTHY,   I'm fine.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-421,DATA,   Is something wrong?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-422,TIMOTHY,   You probably thought I was pretty   silly. When I had my hair like   yours and everything.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-423,DATA,"   On the contrary, it is said that   imitation is the highest form of   flattery. I was... flattered.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-424,TIMOTHY,   Can we still do things together   -- even if I'm not really an   android?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-425,DATA,   I have many Human friends. I   would be pleased to count you   among them.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-426,TIMOTHY,   That would be...,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
-427,TIMOTHY,       ...acceptable.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROOM,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+410,TROI ,"   It would seem that our young   ""android"" is finding his way back   to humanity.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+411,DATA,"   It would appear so, Counselor.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+412,TROI,   It'll take a while for his   emotions to catch up. Timothy's   a boy feeling a great deal of   pain. But he is a boy again.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+413,TROI,"   Is this.. difficult for you, Data?",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+414,DATA,   Difficult?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+415,TROI,   To watch him... moving away from   being like you...,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+416,DATA,"   No, Counselor. That would require   an emotional context which I   cannot provide.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+417,DATA ,"   Hello, Timothy.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+418,TIMOTHY,"       How are you, Data?",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+419,DATA,   I am operating within established   parameters. How are you?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+420,TIMOTHY,   I'm fine.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+421,DATA,   Is something wrong?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+422,TIMOTHY,   You probably thought I was pretty   silly. When I had my hair like   yours and everything.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+423,DATA,"   On the contrary, it is said that   imitation is the highest form of   flattery. I was... flattered.",98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+424,TIMOTHY,   Can we still do things together   -- even if I'm not really an   android?,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+425,DATA,   I have many Human friends. I   would be pleased to count you   among them.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+426,TIMOTHY,   That would be...,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt
+427,TIMOTHY,       ...acceptable.,98   INT. CLASS ROOM - ON TIMOTHY,CLASS ROO,INT.,Hero Worship,1991-10-08,The Next Generation,211.txt

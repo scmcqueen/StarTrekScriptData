@@ -19,25 +19,25 @@
 17,KIRA,"    (still not totally     convinced)   All right, we'll try it your way.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 18,SISKO,   Good.  Then you'll see to it that    the Valerian ship is cleared for    docking.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 19,KIRA,"    (still doesn't relish     the thought)   Yes, sir.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-20,DAX,"   Chief, I have a subspace message for    you from your wife.  They've arrived    safely on Bajor.",3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-21,O'BRIEN,"   Imagine, taking eleven bored    schoolkids on a visit to the grain    processing center at Lasuma.  I'm    glad it's not me.",3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-22,ODO,       Here's the information you wanted on    the captain of the Valerian ship.,3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-23,KIRA,   Let me know if you find anything    else.,3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-24,DAX,   Sensors are reading elevated neutrino    levels at the wormhole... Something's    coming through...,3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-25,KIRA,   On screen.,3    INT. OPS - CONTINUOUS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-26,,   The wormhole opens and a KLINGON    BIRD OF PREY comes blasting through.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-27,DAX,       It's the Klingon vessel Toh'Kaht.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-28,KIRA,   They're not due back for another    month.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-29,SISKO,   Open hailing frequencies.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-30,O'BRIEN,   I'm reading a transporter signal.     Someone must have beamed off the    ship just as it exploded.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-31,SISKO,   Mister O'Brien -- ?,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-32,O'BRIEN,   Something's interfering with the    rematerialization process.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-33,DAX,   Lock onto him with our Transporter    signal.  Try boosting the annular    containment field.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-34,O'BRIEN,   I'm already there...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-35,BASHIR,   He's been hit by weapons fire.  It's    severe.  We've got to get him into    cryo-stasis.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-36,KLINGON,   Victory...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-37,BASHIR,   He's dead.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-38,SISKO,"   Station log, Stardate 46922.3.  We    have identified the dead Klingon --    his name was Hon-Tihl, First Officer    of the Toh'Kaht.  Why he died, and    the cause of his ship's destruction,    is still unknown.",8    EXT. SPACE - DEEP SPACE NINE,SPACE,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+20,DAX,"   Chief, I have a subspace message for    you from your wife.  They've arrived    safely on Bajor.",3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+21,O'BRIEN,"   Imagine, taking eleven bored    schoolkids on a visit to the grain    processing center at Lasuma.  I'm    glad it's not me.",3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+22,ODO,       Here's the information you wanted on    the captain of the Valerian ship.,3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+23,KIRA,   Let me know if you find anything    else.,3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+24,DAX,   Sensors are reading elevated neutrino    levels at the wormhole... Something's    coming through...,3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+25,KIRA,   On screen.,3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+26,,   The wormhole opens and a KLINGON    BIRD OF PREY comes blasting through.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+27,DAX,       It's the Klingon vessel Toh'Kaht.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+28,KIRA,   They're not due back for another    month.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+29,SISKO,   Open hailing frequencies.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+30,O'BRIEN,   I'm reading a transporter signal.     Someone must have beamed off the    ship just as it exploded.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+31,SISKO,   Mister O'Brien -- ?,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+32,O'BRIEN,   Something's interfering with the    rematerialization process.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+33,DAX,   Lock onto him with our Transporter    signal.  Try boosting the annular    containment field.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+34,O'BRIEN,   I'm already there...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+35,BASHIR,   He's been hit by weapons fire.  It's    severe.  We've got to get him into    cryo-stasis.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+36,KLINGON,   Victory...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+37,BASHIR,   He's dead.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+38,SISKO,"   Station log, Stardate 46922.3.  We    have identified the dead Klingon --    his name was Hon-Tihl, First Officer    of the Toh'Kaht.  Why he died, and    the cause of his ship's destruction,    is still unknown.",8    EXT. SPACE - DEEP SPACE NINE,SPAC,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 39,BASHIR,"   I found tritanium alloy fragments in    his chest and upper arms.  If that    was all, we could have saved him.     But those weapon burns were too    severe.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 40,SISKO,   Is there any way to identify the    kind of weapon used?,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 41,BASHIR,       I'm running a microtissue analysis    right now.  We should have the results    in a couple of hours.,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
@@ -157,7 +157,7 @@
 155,ODO,"       You wanted me to go behind Sisko's    back, didn't you?",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 156,KIRA,       Forget it.  It was a bad idea.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 157,KIRA,       What if you had to choose sides?       Just remember who your friends are.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-158,O'BRIEN ,"   Personal log, Miles O'Brien.  Stardate    46923.1.  We've managed to retrieve    a portion of the Klingon Officer's    journal.  Of course, Major Kira heard    about it immediately.  She must have    spies everywhere.",22   EXT. SPACE - DEEP SPACE NINE,SPACE,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+158,O'BRIEN ,"   Personal log, Miles O'Brien.  Stardate    46923.1.  We've managed to retrieve    a portion of the Klingon Officer's    journal.  Of course, Major Kira heard    about it immediately.  She must have    spies everywhere.",22   EXT. SPACE - DEEP SPACE NINE,SPAC,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 159,KLINGON,"   I believe the Captain has gone insane.     He has executed two more crew members,    charging them with attempted mutiny.     Medical Officer Kee-Bhor came to my    quarters insisting the violence is    being caused by those telepathic    energy spheres we brought back from    Saltah'na.  Believing he's the    Captain's spy, I slit his throat.",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 160,SISKO,       I've seen enough.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 161,O'BRIEN,   There's more.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
@@ -212,8 +212,8 @@
 210,ODO,   I suppose you are.       It's time I had a talk with Sisko.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 211,QUARK,   Odo... wait!,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 212,QUARK,       Odo!  I want satisfaction.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-213,KLINGON,"   We have lost the battle for decks    five through twelve.  The armory    remains in the hands of Captain Tel-   Peh, who demands my death.  But I    remain confident that I can gain    control of this ship.",28A  INT. OPS - OPTICAL,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
-214,ODO,   Sisko... ?,28A  INT. OPS - OPTICAL,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+213,KLINGON,"   We have lost the battle for decks    five through twelve.  The armory    remains in the hands of Captain Tel-   Peh, who demands my death.  But I    remain confident that I can gain    control of this ship.",28A  INT. OPS - OPTICAL,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
+214,ODO,   Sisko... ?,28A  INT. OPS - OPTICAL,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 215,KLINGON,   First officer's mission journal...    day twenty-three...,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 216,O'BRIEN,   Come in.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt
 217,ODO,   Where's Commander Sisko?,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt

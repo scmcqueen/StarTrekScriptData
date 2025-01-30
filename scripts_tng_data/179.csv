@@ -85,15 +85,15 @@
 83,BEVERLY,   He was onboard. I met him in   Transporter Room Three myself.,12   INT. BRIDGE,BRIDGE,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 84,PICARD,"   Then it appears, for reasons   unknown, someone has gone to great   pains to erase all traces of this   man.",12   INT. BRIDGE,BRIDGE,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 85,RIKER,       Who was on transporter duty when   he came aboard?,12   INT. BRIDGE,BRIDGE,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-86,O'BRIEN,       Doctor Quaice? Was he part of   the regular crew rotation?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-87,RIKER,   No. He's a friend of Doctor   Crusher's.,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-88,O'BRIEN,   When did he arrive?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-89,BEVERLY,   Sixteen hundred hours yesterday.,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-90,O'BRIEN,       That was my watch. I beamed this   man onboard?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-91,BEVERLY,   Yes. I was here to greet him.   An elderly man? Not in the best   of health?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-92,O'BRIEN,   I'm sorry. I do remember you were   here for a short while. But you   were alone.,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-93,BEVERLY,   Was he invisible? Did I carry   on a conversation with thin air?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-94,O'BRIEN,"   No, Doctor. As far as I can   recall, you came in, looked around   for a few moments... I asked you   if I could help you with   anything... All you said was   ""Thank you."" I said ""My   pleasure,"" or something. That   was the end of it. There was no   one else here.",13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+86,O'BRIEN,       Doctor Quaice? Was he part of   the regular crew rotation?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+87,RIKER,   No. He's a friend of Doctor   Crusher's.,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+88,O'BRIEN,   When did he arrive?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+89,BEVERLY,   Sixteen hundred hours yesterday.,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+90,O'BRIEN,       That was my watch. I beamed this   man onboard?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+91,BEVERLY,   Yes. I was here to greet him.   An elderly man? Not in the best   of health?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+92,O'BRIEN,   I'm sorry. I do remember you were   here for a short while. But you   were alone.,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+93,BEVERLY,   Was he invisible? Did I carry   on a conversation with thin air?,13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+94,O'BRIEN,"   No, Doctor. As far as I can   recall, you came in, looked around   for a few moments... I asked you   if I could help you with   anything... All you said was   ""Thank you."" I said ""My   pleasure,"" or something. That   was the end of it. There was no   one else here.",13   INT. TRANSPORTER ROOM - O'BRIEN,TRANSPORTER ROO,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 95,BEVERLY,   I can't accept that Chief O'Brien   might be lying...,14   INT. TURBOLIFT,TURBOLIFT,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 96,RIKER,   He believes what he says. And   there is no trace imprint for   Doctor Quaice.,14   INT. TURBOLIFT,TURBOLIFT,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 97,BEVERLY,"   Will, I didn't conjure up one of   my best friends from a test tube.",14   INT. TURBOLIFT,TURBOLIFT,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
@@ -129,11 +129,11 @@
 127,PICARD,"   Go ahead, Ensign.",16   INT. READY ROOM,READY ROOM,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 128,WESLEY,"   I'm in Engineering, sir. I think   there's something here you'd   better see. It might be   connected to Doctor Quaice's   disappearance.",16A  INT. ENGINEERING,ENGINEERING,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 129,PICARD,   On my way.,16A  INT. ENGINEERING,ENGINEERING,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-130,PICARD,"       Number One, any progress?",17   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-131,RIKER,       No one's seen him. The replicator   in his quarters hasn't been used.,17   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-132,PICARD,       Check shield and hull integrity   for any sign of intruders...,17   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-133,WORF,   Yessir... but I have been closely   monitoring onboard sensors...   there has been no indication...,17   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
-134,PICARD,"       Then give me a Level One   diagnostic of all onboard sensors,   and run a manual sweep for any   anomalous airborne or   electromagnetic readings. I want   some answers.",17   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+130,PICARD,"       Number One, any progress?",17   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+131,RIKER,       No one's seen him. The replicator   in his quarters hasn't been used.,17   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+132,PICARD,       Check shield and hull integrity   for any sign of intruders...,17   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+133,WORF,   Yessir... but I have been closely   monitoring onboard sensors...   there has been no indication...,17   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
+134,PICARD,"       Then give me a Level One   diagnostic of all onboard sensors,   and run a manual sweep for any   anomalous airborne or   electromagnetic readings. I want   some answers.",17   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 135,WESLEY,   I've been experimenting with   Kosinski's warp field equations...   Trying to find a way to improve   engine efficiency.,18   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 136,PICARD,       I've read your reports.,18   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Remember Me,1990-08-09,The Next Generation,179.txt
 137,GEORDI,   We did a test run while we were   at the starbase.,18   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Remember Me,1990-08-09,The Next Generation,179.txt

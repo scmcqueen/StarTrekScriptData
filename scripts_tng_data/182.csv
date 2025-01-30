@@ -141,7 +141,7 @@
 139,RIKER,   I hope so.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 140,TROI,   Let me take you to your quarters.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 141,RIKER,   Good idea... I've had enough   surprises for one day.,24   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-142,JEAN-LUC,"   Hi, Dad.",26   INT. JEAN-LUC'S ROOM,JEA,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+142,JEAN-LUC,"   Hi, Dad.",26   INT. JEAN-LUC'S ROOM,JEAN-LUC'S ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 143,JEAN-LUC,"   ... and then Mister Greenburg asked   me about the Fornax Disaster, and   I knew the Enterprise had saved   all the colonists. But I didn't   know...       Here it is!",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 144,JEAN-LUC,"       ... But I didn't know the exact   Stardate their sun went nova.   If you tell me, I'll write it   down. That way I won't forget.",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 145,JEAN-LUC,   You don't remember me... do you?,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
@@ -162,14 +162,14 @@
 160,RIKER,   I can't imagine you leaving the   Enterprise.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 161,TROI,   Admiral Picard offered me a   position at Starfleet Command.   It was a tremendous opportunity...   I couldn't refuse.,27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 162,TROI,"   Will... What's important is that   today, right now, you have a son   who needs you. Spend time with   him... you may find part of what   you've lost.",27   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-163,JEAN-LUC,"   Pretty bad, huh?",28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-164,RIKER,   I've heard better.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-165,JEAN-LUC,   I've been practicing... but I   still can't get a good tone.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-166,RIKER,   You're putting too much pressure   on the mouthpiece. Relax. Just   use the muscles you need.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-167,JEAN-LUC,       Show me again.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-168,RIKER,   Okay. Left hand like this. Right   hand... like this.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-169,RIKER,   After sixteen years... you'd   think I could get that right...,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-170,JEAN-LUC,"   Come on, Dad... you always make   that mistake.",28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTERS,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+163,JEAN-LUC,"   Pretty bad, huh?",28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+164,RIKER,   I've heard better.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+165,JEAN-LUC,   I've been practicing... but I   still can't get a good tone.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+166,RIKER,   You're putting too much pressure   on the mouthpiece. Relax. Just   use the muscles you need.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+167,JEAN-LUC,       Show me again.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+168,RIKER,   Okay. Left hand like this. Right   hand... like this.,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+169,RIKER,   After sixteen years... you'd   think I could get that right...,28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+170,JEAN-LUC,"   Come on, Dad... you always make   that mistake.",28   INT. RIKER'S QUARTERS - JEAN-LUC'S ROOM,RIKER'S QUARTER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 171,RIKER,"   Computer. Summarize service   record. Riker, William T.,   Captain. Beginning with... the   Fornax Disaster.",29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 172,COMPUTER,   Please restate question.,29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 173,RIKER,"   Service record. Riker, William   T.",29   INT. RIKER'S QUARTERS - MAIN ROOM (OPTICAL),RIKER'S QUARTERS - MAIN ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
@@ -378,9 +378,9 @@
 376,ETHAN,   They can't... I heard them say   there's something in these   rocks...,63   INT. CRAWLSPACE,CRAWLSPACE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 377,RIKER,   Heavy metals?,63   INT. CRAWLSPACE,CRAWLSPACE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 378,ETHAN,       Right...,63   INT. CRAWLSPACE,CRAWLSPACE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-379,RIKER,   When you escaped last time...   how'd you manage it?,63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPACE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-380,ETHAN,"   I acted like I was sick... when   the Romulans took me to the   infirmary, I ran away.",63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPACE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-381,ETHAN,   I was lucky... I found this place   the same day.,63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPACE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+379,RIKER,   When you escaped last time...   how'd you manage it?,63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPAC,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+380,ETHAN,"   I acted like I was sick... when   the Romulans took me to the   infirmary, I ran away.",63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPAC,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+381,ETHAN,   I was lucky... I found this place   the same day.,63AA	INT. CRAWLSPACE - ANOTHER SECTION,CRAWLSPAC,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 382,ETHAN,   ... The Romulans forgot all about   this storeroom when they rebuilt   the tunnels.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 383,ETHAN,   After I got away last time...,63A  INT. SECRET ROOM,SECRET ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 384,ETHAN,       ... I mapped out all their tunnels.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
@@ -407,9 +407,9 @@
 405,TOMALAK,   Commander... surrender your   weapon...,63A  INT. SECRET ROOM,SECRET ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 406,RIKER,   No more games. No more fantasies.   I'm not going to play anymore.,63A  INT. SECRET ROOM,SECRET ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 407,RIKER,"   It was never the Romulans... it   was you all along, wasn't it?",63A  INT. SECRET ROOM,SECRET ROOM,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-408,DATA,"   There is no question about it,   sir. It is his signal.",68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDGE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-409,PICARD,       Picard to Riker... can you read   me?,68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDGE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
-410,RIKER,       Riker to Picard. I'm here.,68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDGE,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+408,DATA,"   There is no question about it,   sir. It is his signal.",68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDG,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+409,PICARD,       Picard to Riker... can you read   me?,68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDG,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
+410,RIKER,       Riker to Picard. I'm here.,68   INT. MAIN BRIDGE - THE REAL ENTERPRISE,MAIN BRIDG,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 411,PICARD,   Are you all right?,69   INT. ALIEN CHAMBER,ALIEN CHAMBER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 412,RIKER,   Yes... What about Worf and   Geordi?,69   INT. ALIEN CHAMBER,ALIEN CHAMBER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt
 413,PICARD,   We beamed them up an hour ago...   They're fine.,69   INT. ALIEN CHAMBER,ALIEN CHAMBER,INT.,Future Imperfect,1990-09-13,The Next Generation,182.txt

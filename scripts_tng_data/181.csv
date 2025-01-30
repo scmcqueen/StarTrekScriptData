@@ -30,15 +30,15 @@
 28,TECHNICIAN,"   Yes, sir.",10   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 29,WORF,   Energize.,10   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 30,K'EHLEYR,       I hope he'll be all right.   Alexander hasn't had much contact   with other children.,13A  INT. DAY CARE CENTER,DAY CARE CENTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-31,WORF,   Bridge.,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-32,K'EHLEYR,   Not even a bite on the cheek for   old time's sake?,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-33,WORF,   Perhaps you are not aware of my   dishonor. I have accepted...   discommendation.,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-34,K'EHLEYR,   I've heard. So now what? I have   to perform some ridiculous ritual   to talk to you?,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-35,WORF,   You may not respect our   traditions... I do!,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-36,K'EHLEYR,"       Sorry. I just thought you might   want to talk.       A few minutes ago, you looked like   someone with a question to ask.",14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-37,WORF,   Must I ask the question?,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-38,K'EHLEYR,   Yes. You must.,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-39,K'EHLEYR,       What should I tell Alexander...   that he has no father?,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+31,WORF,   Bridge.,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+32,K'EHLEYR,   Not even a bite on the cheek for   old time's sake?,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+33,WORF,   Perhaps you are not aware of my   dishonor. I have accepted...   discommendation.,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+34,K'EHLEYR,   I've heard. So now what? I have   to perform some ridiculous ritual   to talk to you?,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+35,WORF,   You may not respect our   traditions... I do!,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+36,K'EHLEYR,"       Sorry. I just thought you might   want to talk.       A few minutes ago, you looked like   someone with a question to ask.",14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+37,WORF,   Must I ask the question?,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+38,K'EHLEYR,   Yes. You must.,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+39,K'EHLEYR,       What should I tell Alexander...   that he has no father?,14A  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 40,K'EHLEYR,   The Klingon Empire is at a   critical juncture. We may be   facing civil war.,14B  INT. OBSERVATION LOUNGE (FORMERLY SCENE 12),OBSERVATION LOUNGE,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 41,RIKER,   War over what?,14B  INT. OBSERVATION LOUNGE (FORMERLY SCENE 12),OBSERVATION LOUNGE,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 42,K'EHLEYR,   The usual excuses... tradition...   duty...       honor...,14B  INT. OBSERVATION LOUNGE (FORMERLY SCENE 12),OBSERVATION LOUNGE,INT.,Reunion,1990-09-04,The Next Generation,181.txt
@@ -249,18 +249,18 @@
 247,PICARD,"   As Chief Security Officer, you   will accompany me to the next   transition proceeding.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 248,WORF,"       Captain, they will be incensed.   My presence will be...   disruptive.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 249,PICARD,       Yes. It will.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-250,WORF,   Deck Twenty-Three.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-251,K'EHLEYR,   Halt.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-252,K'EHLEYR,       You suspect Duras. Why?,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-253,WORF,   I cannot---,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-254,K'EHLEYR,   Don't tell me that again! I'm   trying to do my job while you   withhold vital information...,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-255,WORF,   I will not discuss this with you   or anyone else.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-256,K'EHLEYR,   Captain Picard seems well-   informed.       There's more at stake here than   your personal honor.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-257,WORF,   I am aware of what is at stake   here!,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-258,K'EHLEYR,   But you're still willing to hide   the truth!,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-259,WORF,   I am hiding nothing!,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-260,K'EHLEYR,"       You're hiding everything, just   like you always do... behind that   precious Klingon honor. Why?   Because you don't have the courage   to face life without clinging to   some archaic ritual?",42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-261,K'EHLEYR,   Exit.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+250,WORF,   Deck Twenty-Three.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+251,K'EHLEYR,   Halt.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+252,K'EHLEYR,       You suspect Duras. Why?,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+253,WORF,   I cannot---,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+254,K'EHLEYR,   Don't tell me that again! I'm   trying to do my job while you   withhold vital information...,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+255,WORF,   I will not discuss this with you   or anyone else.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+256,K'EHLEYR,   Captain Picard seems well-   informed.       There's more at stake here than   your personal honor.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+257,WORF,   I am aware of what is at stake   here!,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+258,K'EHLEYR,   But you're still willing to hide   the truth!,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+259,WORF,   I am hiding nothing!,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+260,K'EHLEYR,"       You're hiding everything, just   like you always do... behind that   precious Klingon honor. Why?   Because you don't have the courage   to face life without clinging to   some archaic ritual?",42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+261,K'EHLEYR,   Exit.,42   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 262,K'EHLEYR,"   Computer, list stardates of the   last Enterprise mission to the   Klingon home planet.",44   INT. K'EHLEYR'S QUARTERS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 263,COMPUTER,   Stardates 43685 through 43689.,44   INT. K'EHLEYR'S QUARTERS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 264,K'EHLEYR,   How many ship's logs during that   period?,44   INT. K'EHLEYR'S QUARTERS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
@@ -332,15 +332,15 @@
 330,RIKER,"   It is considered an honorable   way for a Klingon to die,   Doctor... a suicide that also   takes an enemy.       Which one of them was it?",52A  INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 331,BEVERLY,   Duras' man.,52A  INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 332,WORF,   When we have more time I will take   you to the holodeck and   demonstrate in more detail...,53   INT. CORRIDOR,CORRIDOR,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-333,WORF,"       Medical Emergency, Deck Eight,   Room one-four-two!",54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-334,WORF,   Gowron... ?,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-335,WORF,   Duras?,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-336,K'EHLEYR,   Alexander...,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-337,WORF,   You have never seen death?,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-338,WORF,   Then look...,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-339,WORF,   And always remember.,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-340,WORF,   Stay with the doctor.,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
-341,BEVERLY,"   Worf, when did you... ?",54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+333,WORF,"       Medical Emergency, Deck Eight,   Room one-four-two!",54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+334,WORF,   Gowron... ?,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+335,WORF,   Duras?,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+336,K'EHLEYR,   Alexander...,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+337,WORF,   You have never seen death?,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+338,WORF,   Then look...,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+339,WORF,   And always remember.,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+340,WORF,   Stay with the doctor.,54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
+341,BEVERLY,"   Worf, when did you... ?",54   INT. K'EHLEYR'S QUARTERS - CONTINUOUS,K'EHLEYR'S QUARTER,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 342,BEVERLY,   Multiple stab wounds to the chest   and abdomen... too much trauma   to the internal organs. There   wasn't enough time to get her into   stasis.,58   INT. K'EHLEYR'S QUARTERS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 343,PICARD,   Where's Worf?,58   INT. K'EHLEYR'S QUARTERS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt
 344,BEVERLY,   I don't know... he left just after   I got here.,58   INT. K'EHLEYR'S QUARTERS,K'EHLEYR'S QUARTERS,INT.,Reunion,1990-09-04,The Next Generation,181.txt

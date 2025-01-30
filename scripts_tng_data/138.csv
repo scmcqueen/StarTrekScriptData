@@ -1,15 +1,15 @@
 ,character,quote,scene,location,view,episode,date,series,file
 0,RIKER ,"   Ship's log, stardate 42625.4,   First Officer Riker reporting.   We have achieved orbit around   Theta Eight...",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Royale,1989-01-10,The Next Generation,138.txt
-1,RIKER ,"       ... the planet furthest from its   sun in this previously unmapped   solar system. It is a world of   ruthless realities: particularly   harsh, barren, and inhospitable...",2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-2,RIKER ,       Our reason for being here -- a   passing Klingon cruiser reported   discovering pieces of a strange   vessel in the upper atmosphere.   We've come to investigate...,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-3,GEORDI,       Nasty. Nitrogen... methane...   liquid neon. Surface temperature   minus two hundred and ninety-one   degrees Fahrenheit. Winds up to   three hundred and twelve meters   per second.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-4,RIKER,"   Not exactly a vacation planet,   eh?",2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-5,GEORDI,   Uh uh. Not unless you like   ammonia tornadoes. Or orange   lightning bolts for that matter.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-6,RIKER,       Not my cup of tea. Found anything   artificial in the atmosphere?,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-7,GEORDI,   Nothing so far. We're just coming   around to the night side now.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-8,RIKER,"   Keep me informed. The sooner we   identify what the Klingons think   they saw, the sooner we can get   the hell out of here.",2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-9,GEORDI,   Sounds good to me.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-10,GEORDI,       Nasty.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+1,RIKER ,"       ... the planet furthest from its   sun in this previously unmapped   solar system. It is a world of   ruthless realities: particularly   harsh, barren, and inhospitable...",2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+2,RIKER ,       Our reason for being here -- a   passing Klingon cruiser reported   discovering pieces of a strange   vessel in the upper atmosphere.   We've come to investigate...,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+3,GEORDI,       Nasty. Nitrogen... methane...   liquid neon. Surface temperature   minus two hundred and ninety-one   degrees Fahrenheit. Winds up to   three hundred and twelve meters   per second.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+4,RIKER,"   Not exactly a vacation planet,   eh?",2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+5,GEORDI,   Uh uh. Not unless you like   ammonia tornadoes. Or orange   lightning bolts for that matter.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+6,RIKER,       Not my cup of tea. Found anything   artificial in the atmosphere?,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+7,GEORDI,   Nothing so far. We're just coming   around to the night side now.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+8,RIKER,"   Keep me informed. The sooner we   identify what the Klingons think   they saw, the sooner we can get   the hell out of here.",2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+9,GEORDI,   Sounds good to me.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+10,GEORDI,       Nasty.,2    INT. MAIN BRIDGE - ON WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 11,PICARD,   Come.,6    INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 12,PICARD,       Fermat's last theorem. Familiar   with it?,6    INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 13,RIKER,   No. I'm afraid I spent too many   math classes daydreaming about   being on a starship.,6    INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,The Royale,1989-01-10,The Next Generation,138.txt
@@ -27,25 +27,25 @@
 25,PICARD,   There's something here.,7    INT. TRANSPORTER ROOM - PICARD (OPTICAL),TRANSPORTER ROOM - PICARD,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 26,PICARD,       That symbol... Do you recognize   it?,7    INT. TRANSPORTER ROOM - PICARD (OPTICAL),TRANSPORTER ROOM - PICARD,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 27,RIKER,       Yes sir. I -- I think I do.,7    INT. TRANSPORTER ROOM - PICARD (OPTICAL),TRANSPORTER ROOM - PICARD,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-28,DATA,   Metallic analysis bears out that   the object in question was   terrestrial in origin. Most   likely late twenty-first century.,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-29,PICARD,   But that's not possible. No ship   of that time period could have   come this far.,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-30,DATA,"   Nevertheless, that is what our   tests indicate. And the markings   we discovered are consistent with   this hypothesis.",11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-31,TROI,   Any idea what destroyed it? An   explosion of some sort?,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-32,DATA,   Unknown.,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-33,PICARD,"   The question is, how did it get   here?",11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-34,WESLEY,   Captain. We've detected a large   structure on the planet.,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-35,DATA,"   It is a building of some sort,   situated on a plane of frozen   methane, smack in the middle of   a tremendous storm belt. It is   incongruous; it simply should not   be there!",12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-36,PICARD,   Are you certain it's artificially   constructed?,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-37,DATA,   Absolutely. The structure is   surrounded by breathable air.,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-38,RIKER,   It's hard to accept...,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-39,PICARD,   Yet it does seem to be down there.   Is there a connection between the   structure and the ship?,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-40,PICARD,       Suggestions?,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-41,RIKER,"       Only one, sir. Suggest we go down   and have a look.",12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-42,PICARD,"   Form an away team, minimal   complement.",12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-43,PICARD,   Let's see if we can find the   architects.,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-44,O'BRIEN,"   Give me a moment, gents. We're   dealing with an extremely narrow   access point.",15   INT. TRANSPORTER ROOM - ON DATA AND WORF,TRANSPORTER ROOM,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-45,RIKER,   We're ready when you are...       Phasers on stun.,15   INT. TRANSPORTER ROOM - ON DATA AND WORF,TRANSPORTER ROOM,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-46,RIKER,       Energize.,15   INT. TRANSPORTER ROOM - ON DATA AND WORF,TRANSPORTER ROOM,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+28,DATA,   Metallic analysis bears out that   the object in question was   terrestrial in origin. Most   likely late twenty-first century.,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+29,PICARD,   But that's not possible. No ship   of that time period could have   come this far.,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+30,DATA,"   Nevertheless, that is what our   tests indicate. And the markings   we discovered are consistent with   this hypothesis.",11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+31,TROI,   Any idea what destroyed it? An   explosion of some sort?,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+32,DATA,   Unknown.,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+33,PICARD,"   The question is, how did it get   here?",11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+34,WESLEY,   Captain. We've detected a large   structure on the planet.,11   INT. OBSERVATION LOUNGE - PICARD,OBSERVATION LOUNG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+35,DATA,"   It is a building of some sort,   situated on a plane of frozen   methane, smack in the middle of   a tremendous storm belt. It is   incongruous; it simply should not   be there!",12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+36,PICARD,   Are you certain it's artificially   constructed?,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+37,DATA,   Absolutely. The structure is   surrounded by breathable air.,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+38,RIKER,   It's hard to accept...,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+39,PICARD,   Yet it does seem to be down there.   Is there a connection between the   structure and the ship?,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+40,PICARD,       Suggestions?,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+41,RIKER,"       Only one, sir. Suggest we go down   and have a look.",12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+42,PICARD,"   Form an away team, minimal   complement.",12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+43,PICARD,   Let's see if we can find the   architects.,12   INT. MAIN BRIDGE - CLOSE ON SCREEN,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+44,O'BRIEN,"   Give me a moment, gents. We're   dealing with an extremely narrow   access point.",15   INT. TRANSPORTER ROOM - ON DATA AND WORF,TRANSPORTER ROO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+45,RIKER,   We're ready when you are...       Phasers on stun.,15   INT. TRANSPORTER ROOM - ON DATA AND WORF,TRANSPORTER ROO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+46,RIKER,       Energize.,15   INT. TRANSPORTER ROOM - ON DATA AND WORF,TRANSPORTER ROO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 47,RIKER,       Where are we?,"18   EXT. PLANET SURFACE - DATA, WORF AND RIKER (OPTICAL)","PLANET SURFACE - DATA, WORF AND RIKER",EXT.,The Royale,1989-01-10,The Next Generation,138.txt
 48,DATA,   Exactly where Geordi said we would   be. The structure is directly   behind us.,"18   EXT. PLANET SURFACE - DATA, WORF AND RIKER (OPTICAL)","PLANET SURFACE - DATA, WORF AND RIKER",EXT.,The Royale,1989-01-10,The Next Generation,138.txt
 49,DATA,       I am detecting vast ammonia storms   raging mere kilometers away. Yet   they do not appear to penetrate   this breathable zone.,"18   EXT. PLANET SURFACE - DATA, WORF AND RIKER (OPTICAL)","PLANET SURFACE - DATA, WORF AND RIKER",EXT.,The Royale,1989-01-10,The Next Generation,138.txt
@@ -60,148 +60,148 @@
 58,RIKER,       I think it's a door. An antique.,"18   EXT. PLANET SURFACE - DATA, WORF AND RIKER (OPTICAL)","PLANET SURFACE - DATA, WORF AND RIKER",EXT.,The Royale,1989-01-10,The Next Generation,138.txt
 59,DATA,"   Judging by its location, it may   be an entrance to the structure   we seek.","18   EXT. PLANET SURFACE - DATA, WORF AND RIKER (OPTICAL)","PLANET SURFACE - DATA, WORF AND RIKER",EXT.,The Royale,1989-01-10,The Next Generation,138.txt
 60,RIKER,"   Well... this is what we came here   for.       Captain, we are entering the   structure.","18   EXT. PLANET SURFACE - DATA, WORF AND RIKER (OPTICAL)","PLANET SURFACE - DATA, WORF AND RIKER",EXT.,The Royale,1989-01-10,The Next Generation,138.txt
-61,RIKER,   Riker to Enterprise. We have   entered the structure.       We're not getting through.,20   INT. ROYALE LOBBY - DATA,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-62,PICARD,   Where's that interference   originating?,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-63,GEORDI,"   From the source, sir. Cause...   unknown.",22   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-64,PICARD,   Lock onto the landing party.   Have the Transporter Room prepare   to beam them up.,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-65,GEORDI,   We can't distinguish them as long   as they're inside that structure.,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-66,PICARD,   Can they hear us?,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-67,GEORDI,   We've got to recalibrate all   frequencies.,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-68,PICARD,   Make it so.,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-69,DATA,"   Without radio contact, we should   leave immediately.",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-70,RIKER,   Agreed. We'll make a preliminary   sweep of this environment and then   return.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-71,BELLBOY,"   Checking in, gentlemen? You'll   have to go to the front desk.",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-72,ASSISTANT MANAGER,"   Welcome, gentlemen. Have a nice   trip?",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-73,RIKER,   Uh... Do you know us?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-74,ASSISTANT MANAGER,   We've been expecting you. A trio   of foreign gentlemen.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-75,RIKER,   We're from the United Federation   of Planets --,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-76,ASSISTANT MANAGER,   Of course. Welcome to The Hotel   Royale...,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-77,BELLBOY,       Did Rita call?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-78,ASSISTANT MANAGER,   No -- and for your own good you   had better quit thinking about   Rita.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-79,BELLBOY,   I'm not afraid of him.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-80,ASSISTANT MANAGER,   Then you're a fool. Everybody   with any sense is afraid of Mikey   D.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-81,BELLBOY,    (waves off the thought     of Mikey D)   If Rita calls -- you let me know.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-82,ASSISTANT MANAGER,"    (confidentially to     Riker)   The kid's just askin' for trouble   -- Rita's too much for him to   handle, and Mikey D will plant   his face in the pavement.    (then, handing them     to Riker)   Now, here are your room keys and   some complimentary casino chips.   Enjoy!",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-83,WORF,   What is this place? How did a   being like you get here?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-84,ASSISTANT MANAGER,"   Why this is the Royale, of   course. And my personal life is   really none of your business,   thank you.",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-85,RIKER,"   What he means is, what planet   is this?",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-86,ASSISTANT MANAGER,   I beg your pardon?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-87,RIKER,   This planet. What do you call   it?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-88,ASSISTANT MANAGER,       Earth.       What do you call it?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-89,WORF,   We call it Theta Eight.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-90,ASSISTANT MANAGER,   How charming.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-91,DATA,   Commander...,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-92,RIKER,   Yes Data?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-93,DATA,    (reading from his     tricorder)   None of these people... are   emitting life signs.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-94,WORF,   You mean they're not alive?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-95,RIKER,       Then what are they?...,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-96,WORF,"       These beings... are they machines,       or mere illusions, designed to   deceive us?",26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-97,DATA,"       Not illusions, Lieutenant. They   do exist, but they do not register   as either man or machine.",26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-98,DATA,"       For example, this creature   exhibits no DNA structure.",26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-99,TEXAS,   Look who's talkin'.       He sounds just like my ex-wife.,26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-100,TEXAS,       Aaaaall right!! Time to get back   to business!,26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-101,DATA,   What sort of business do you   suppose he is getting down to?,26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+61,RIKER,   Riker to Enterprise. We have   entered the structure.       We're not getting through.,20   INT. ROYALE LOBBY - DATA,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+62,PICARD,   Where's that interference   originating?,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+63,GEORDI,"   From the source, sir. Cause...   unknown.",22   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+64,PICARD,   Lock onto the landing party.   Have the Transporter Room prepare   to beam them up.,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+65,GEORDI,   We can't distinguish them as long   as they're inside that structure.,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+66,PICARD,   Can they hear us?,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+67,GEORDI,   We've got to recalibrate all   frequencies.,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+68,PICARD,   Make it so.,22   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+69,DATA,"   Without radio contact, we should   leave immediately.",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+70,RIKER,   Agreed. We'll make a preliminary   sweep of this environment and then   return.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+71,BELLBOY,"   Checking in, gentlemen? You'll   have to go to the front desk.",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+72,ASSISTANT MANAGER,"   Welcome, gentlemen. Have a nice   trip?",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+73,RIKER,   Uh... Do you know us?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+74,ASSISTANT MANAGER,   We've been expecting you. A trio   of foreign gentlemen.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+75,RIKER,   We're from the United Federation   of Planets --,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+76,ASSISTANT MANAGER,   Of course. Welcome to The Hotel   Royale...,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+77,BELLBOY,       Did Rita call?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+78,ASSISTANT MANAGER,   No -- and for your own good you   had better quit thinking about   Rita.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+79,BELLBOY,   I'm not afraid of him.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+80,ASSISTANT MANAGER,   Then you're a fool. Everybody   with any sense is afraid of Mikey   D.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+81,BELLBOY,    (waves off the thought     of Mikey D)   If Rita calls -- you let me know.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+82,ASSISTANT MANAGER,"    (confidentially to     Riker)   The kid's just askin' for trouble   -- Rita's too much for him to   handle, and Mikey D will plant   his face in the pavement.    (then, handing them     to Riker)   Now, here are your room keys and   some complimentary casino chips.   Enjoy!",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+83,WORF,   What is this place? How did a   being like you get here?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+84,ASSISTANT MANAGER,"   Why this is the Royale, of   course. And my personal life is   really none of your business,   thank you.",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+85,RIKER,"   What he means is, what planet   is this?",23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+86,ASSISTANT MANAGER,   I beg your pardon?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+87,RIKER,   This planet. What do you call   it?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+88,ASSISTANT MANAGER,       Earth.       What do you call it?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+89,WORF,   We call it Theta Eight.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+90,ASSISTANT MANAGER,   How charming.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+91,DATA,   Commander...,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+92,RIKER,   Yes Data?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+93,DATA,    (reading from his     tricorder)   None of these people... are   emitting life signs.,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+94,WORF,   You mean they're not alive?,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+95,RIKER,       Then what are they?...,23   INT. ROYALE LOBBY - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+96,WORF,"       These beings... are they machines,       or mere illusions, designed to   deceive us?",26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+97,DATA,"       Not illusions, Lieutenant. They   do exist, but they do not register   as either man or machine.",26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+98,DATA,"       For example, this creature   exhibits no DNA structure.",26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+99,TEXAS,   Look who's talkin'.       He sounds just like my ex-wife.,26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+100,TEXAS,       Aaaaall right!! Time to get back   to business!,26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+101,DATA,   What sort of business do you   suppose he is getting down to?,26   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 102,PICARD,   Status report?,30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 103,WESLEY,   We're attempting to employ   alternate encoding schemes.,30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 104,GEORDI,"   There are hundreds of possible   combinations, Captain.",30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 105,PICARD,   Is there an intelligence causing   the interference?,30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 106,GEORDI,"   Impossible to tell, Captain.",30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-107,TEXAS,"   You're new around here, aren't   you?",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-108,DATA,"   Yes. I have certainly never   visited this place, or its true   counterpart, before.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-109,TEXAS,"       Sit down, boy. I'll show you how   this game is played.       Go ahead. Ante up.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-110,DATA,       It seems he expects something of   me.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-111,VANESSA,   He wants you to cut the cards.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-112,DATA,"   Ah, is this poker?",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-113,TEXAS,"   No, it's blackjack.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-114,DATA,"   Also known as twenty-one, a   number which defines the object   of the game. Tens and picture   cards are worth ten, ace -- one   or eleven -- the other cards face   value. The dealer must hit   seventeen -- five cards under pays   double.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-115,TEXAS,"   Not at this joint -       Run 'em, boy. And make 'em   friendly. There's no bread in   the house.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-116,TEXAS,       Aren't you going to look at your   hand?       Poor girl needs to win.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-117,VANESSA,"   Fifteen - do I hit, Texas, or   stand?",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-118,TEXAS,   If you've got to win -- then you've   got to hit.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-119,VANESSA,   Hit me.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-120,VANESSA,       Damn!,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-121,TEXAS,   Hit me.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-122,TEXAS,       Twenty-one -- a winner.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-123,RIKER ,"   Having fun, Data?",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-124,DATA,"   Fun, sir? While there is a   certain amount of enjoyment   involved I was mainly conducting   research into --",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-125,RIKER,"   -- Save it, Data. We're getting   out of here.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-126,DATA,"   Understood, sir.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-127,DEALER,"   Hey, you're holding up the game.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-128,RIKER,"   Our apologies. Come on, Data.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-129,RIKER,   Try it again.,40   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-130,DATA,"   Sir, there is no other exit point.   Unless we can find another way...   it seems we are trapped here.",40   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+107,TEXAS,"   You're new around here, aren't   you?",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+108,DATA,"   Yes. I have certainly never   visited this place, or its true   counterpart, before.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+109,TEXAS,"       Sit down, boy. I'll show you how   this game is played.       Go ahead. Ante up.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+110,DATA,       It seems he expects something of   me.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+111,VANESSA,   He wants you to cut the cards.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+112,DATA,"   Ah, is this poker?",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+113,TEXAS,"   No, it's blackjack.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+114,DATA,"   Also known as twenty-one, a   number which defines the object   of the game. Tens and picture   cards are worth ten, ace -- one   or eleven -- the other cards face   value. The dealer must hit   seventeen -- five cards under pays   double.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+115,TEXAS,"   Not at this joint -       Run 'em, boy. And make 'em   friendly. There's no bread in   the house.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+116,TEXAS,       Aren't you going to look at your   hand?       Poor girl needs to win.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+117,VANESSA,"   Fifteen - do I hit, Texas, or   stand?",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+118,TEXAS,   If you've got to win -- then you've   got to hit.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+119,VANESSA,   Hit me.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+120,VANESSA,       Damn!,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+121,TEXAS,   Hit me.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+122,TEXAS,       Twenty-one -- a winner.,31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+123,RIKER ,"   Having fun, Data?",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+124,DATA,"   Fun, sir? While there is a   certain amount of enjoyment   involved I was mainly conducting   research into --",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+125,RIKER,"   -- Save it, Data. We're getting   out of here.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+126,DATA,"   Understood, sir.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+127,DEALER,"   Hey, you're holding up the game.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+128,RIKER,"   Our apologies. Come on, Data.",31   INT. ROYALE CASINO - ENTRANCE - THE AWAY TEAM,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+129,RIKER,   Try it again.,40   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+130,DATA,"   Sir, there is no other exit point.   Unless we can find another way...   it seems we are trapped here.",40   INT. ROYALE LOBBY - THE AWAY TEAM,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 131,PICARD ,"   Captain's log, supplemental. We   remain in orbit around Theta   Eight, still out of contact with   the away team.",A42	EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Royale,1989-01-10,The Next Generation,138.txt
-132,WORF,   Phasers are totally ineffective   on all surfaces.,42   INT. ROYALE CASINO - RIKER AND DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-133,DATA,"    (to Riker, showing his     own variety of concern     now)   I am checking options... they   seem quite limited --",42   INT. ROYALE CASINO - RIKER AND DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-134,RIKER,"   We don't have any. If we're ever   going to get out of here, we'll   have to do it on our own.       I'm going to get some answers out   of that desk clerk...",42   INT. ROYALE CASINO - RIKER AND DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-135,ASSISTANT MANAGER,   Are you crazy?,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-136,BELLBOY,   Wrong. I'm finally getting some   smarts --,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-137,ASSISTANT MANAGER,   You think you're gonna scare Mikey   D with that thing?,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-138,BELLBOY,   I'm gonna make him leave Rita   alone.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-139,ASSISTANT MANAGER,"   Kid, she's a big girl... and she's   Mikey D's girl.",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-140,BELLBOY,   Not any more. Not after tonight.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-141,ASSISTANT MANAGER,   Look. I like you. I don't want   to see you get hurt... especially   over some dame --,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-142,BELLBOY,"       Don't call her that!    (then, eyes welling up     with anger)   You'll see! You'll see how tough   Mikey D is! He's nothin'!",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-143,RIKER,   I want some answers!,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-144,ASSISTANT MANAGER,   The concierge can help you with   any --,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-145,RIKER,   We want out of here. Now.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-146,ASSISTANT MANAGER,"   I'm afraid you've missed your   check-out time. We do have our   rules, you know.",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-147,RIKER,   I mean out of the building. We   want to get outside --,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-148,ASSISTANT MANAGER,   The Royale's exits are clearly   marked.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-149,RIKER,   That's not good enough.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-150,ASSISTANT MANAGER,"   If you have a complaint about the   service you've received during   your stay, you can always take   it up with the manager.",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-151,RIKER,   Fine! I'd like to see him   immediately!,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-152,ASSISTANT MANAGER,       I'm afraid the manager is very   busy.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-153,PICARD,"       ... Riker, can you read me?",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-154,RIKER,"   Yes, go ahead.",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-155,RIKER,       Enterprise?... Enterprise?...,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-156,RIKER,       ... Enterprise...,44   INT. MAIN BRIDGE - ON PICARD AND TROI,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-157,PICARD,"       Why haven't you left the   building, Number One?",44   INT. MAIN BRIDGE - ON PICARD AND TROI,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-158,RIKER,       ... Tried... Trapped here... No   immediate danger...,44   INT. MAIN BRIDGE - ON PICARD AND TROI,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-159,PICARD,   Something at your location is   interfering with our exchange...   Working on the problem...,45   INT. ROYALE LOBBY - NEAR ELEVATOR - RIKER,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-160,WESLEY,   These frequencies aren't   working.,46   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-161,PICARD,       Then find another.,46   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-162,WESLEY,   Yes sir.,46   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-163,PICARD,       What is going on down there?,46   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-164,DATA,       Commander... I am picking up   something most unusual in another   section of this structure.   Indications of DNA.,47   INT. ROYALE LOBBY - NEAR REGISTRATION DESK,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-165,RIKER,   Where?,47   INT. ROYALE LOBBY - NEAR REGISTRATION DESK,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-166,DATA,   Thirty-one point nine meters   above and to the right of us.,47   INT. ROYALE LOBBY - NEAR REGISTRATION DESK,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-167,WORF,       Perhaps those turbolifts could   take us there.,47   INT. ROYALE LOBBY - NEAR REGISTRATION DESK,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-168,DATA,   The reading I got is behind this   door.,48   INT. ROYALE - SEVENTH FLOOR HALLWAY - THE AWAY TEAM,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-169,DATA,   My reading is intensifying.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-170,RIKER,   Life signs?,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-171,DATA,   None.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-172,DATA,   Definitely human. Male.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-173,RIKER,   Looks like the poor devil died   in its sleep.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-174,WORF,   What a terrible way to go.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-175,DATA,   He has been dead for two hundred   eighty-three years. The lack of   any advanced decomposition is   attributable to the sterile   environment.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-176,WORF,"   Commander, look here.",50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-177,WORF,"   Is that... this ""Las Vegas"" you   spoke about?",50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-178,RIKER,   I believe that's what the   illusion is meant to be.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-179,RIKER,"    (moving, looking around     the room)   Why would anyone go to all this   trouble? It's all just... window   dressing for a dead man.",50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-180,DATA,"   Is this significant, sir?",50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-181,RIKER,   American. Fifty-two stars -- that   would date it between 2053 and   2079 A.D.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-182,RIKER,    (continuing;     reading name)   Colonel S. Richey.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-183,RIKER,"       Rest in peace, Colonel.",50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-184,PICARD,   Picard to Riker.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-185,RIKER,   Finally.       Riker. Go ahead.,50   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+132,WORF,   Phasers are totally ineffective   on all surfaces.,42   INT. ROYALE CASINO - RIKER AND DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+133,DATA,"    (to Riker, showing his     own variety of concern     now)   I am checking options... they   seem quite limited --",42   INT. ROYALE CASINO - RIKER AND DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+134,RIKER,"   We don't have any. If we're ever   going to get out of here, we'll   have to do it on our own.       I'm going to get some answers out   of that desk clerk...",42   INT. ROYALE CASINO - RIKER AND DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+135,ASSISTANT MANAGER,   Are you crazy?,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+136,BELLBOY,   Wrong. I'm finally getting some   smarts --,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+137,ASSISTANT MANAGER,   You think you're gonna scare Mikey   D with that thing?,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+138,BELLBOY,   I'm gonna make him leave Rita   alone.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+139,ASSISTANT MANAGER,"   Kid, she's a big girl... and she's   Mikey D's girl.",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+140,BELLBOY,   Not any more. Not after tonight.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+141,ASSISTANT MANAGER,   Look. I like you. I don't want   to see you get hurt... especially   over some dame --,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+142,BELLBOY,"       Don't call her that!    (then, eyes welling up     with anger)   You'll see! You'll see how tough   Mikey D is! He's nothin'!",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+143,RIKER,   I want some answers!,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+144,ASSISTANT MANAGER,   The concierge can help you with   any --,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+145,RIKER,   We want out of here. Now.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+146,ASSISTANT MANAGER,"   I'm afraid you've missed your   check-out time. We do have our   rules, you know.",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+147,RIKER,   I mean out of the building. We   want to get outside --,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+148,ASSISTANT MANAGER,   The Royale's exits are clearly   marked.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+149,RIKER,   That's not good enough.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+150,ASSISTANT MANAGER,"   If you have a complaint about the   service you've received during   your stay, you can always take   it up with the manager.",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+151,RIKER,   Fine! I'd like to see him   immediately!,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+152,ASSISTANT MANAGER,       I'm afraid the manager is very   busy.,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+153,PICARD,"       ... Riker, can you read me?",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+154,RIKER,"   Yes, go ahead.",43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+155,RIKER,       Enterprise?... Enterprise?...,43   INT. ROYALE LOBBY - FRONT DESK - THE BELLBOY,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+156,RIKER,       ... Enterprise...,44   INT. MAIN BRIDGE - ON PICARD AND TROI,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+157,PICARD,"       Why haven't you left the   building, Number One?",44   INT. MAIN BRIDGE - ON PICARD AND TROI,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+158,RIKER,       ... Tried... Trapped here... No   immediate danger...,44   INT. MAIN BRIDGE - ON PICARD AND TROI,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+159,PICARD,   Something at your location is   interfering with our exchange...   Working on the problem...,45   INT. ROYALE LOBBY - NEAR ELEVATOR - RIKER,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+160,WESLEY,   These frequencies aren't   working.,46   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+161,PICARD,       Then find another.,46   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+162,WESLEY,   Yes sir.,46   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+163,PICARD,       What is going on down there?,46   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+164,DATA,       Commander... I am picking up   something most unusual in another   section of this structure.   Indications of DNA.,47   INT. ROYALE LOBBY - NEAR REGISTRATION DESK,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+165,RIKER,   Where?,47   INT. ROYALE LOBBY - NEAR REGISTRATION DESK,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+166,DATA,   Thirty-one point nine meters   above and to the right of us.,47   INT. ROYALE LOBBY - NEAR REGISTRATION DESK,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+167,WORF,       Perhaps those turbolifts could   take us there.,47   INT. ROYALE LOBBY - NEAR REGISTRATION DESK,ROYALE LOBB,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+168,DATA,   The reading I got is behind this   door.,48   INT. ROYALE - SEVENTH FLOOR HALLWAY - THE AWAY TEAM,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+169,DATA,   My reading is intensifying.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+170,RIKER,   Life signs?,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+171,DATA,   None.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+172,DATA,   Definitely human. Male.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+173,RIKER,   Looks like the poor devil died   in its sleep.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+174,WORF,   What a terrible way to go.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+175,DATA,   He has been dead for two hundred   eighty-three years. The lack of   any advanced decomposition is   attributable to the sterile   environment.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+176,WORF,"   Commander, look here.",50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+177,WORF,"   Is that... this ""Las Vegas"" you   spoke about?",50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+178,RIKER,   I believe that's what the   illusion is meant to be.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+179,RIKER,"    (moving, looking around     the room)   Why would anyone go to all this   trouble? It's all just... window   dressing for a dead man.",50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+180,DATA,"   Is this significant, sir?",50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+181,RIKER,   American. Fifty-two stars -- that   would date it between 2053 and   2079 A.D.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+182,RIKER,    (continuing;     reading name)   Colonel S. Richey.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+183,RIKER,"       Rest in peace, Colonel.",50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+184,PICARD,   Picard to Riker.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+185,RIKER,   Finally.       Riker. Go ahead.,50   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 186,PICARD,   What's your situation?,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 187,RIKER,   We are locked in a structure made   to resemble twentieth century   Earth -- all efforts to exit have   failed.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 188,PICARD,   We can't transport.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 189,RIKER,"   I assumed as much. Captain, we   have located the remains of a   human.",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-190,RIKER,"   Request identity scan on a   Colonel Richey, American, first   initial S., roughly same time   period.",53   INT. ROYALE - RICHEY'S SUITE - ON RIKER,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-191,RIKER,"   We also need a computer library   check on hotel known as the   Royale; possible location, Las   Vegas, Nevada, circa twenty-first   century.",54   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-192,PICARD,   Get on it.,54   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-193,WESLEY,"   Information retrieved, Captain --",56   INT. MAIN BRIDGE - WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-194,PICARD,"   Colonel Stephen Richey was the   commanding officer of the   explorer ship Charybdis which   had a terrestrial launch date of   7-23-2067. It was the first   manned attempt to travel beyond   the confines of the Euclidian   solar system. Its telemetry   system failed and it was never   heard from again...       Why is this of interest, Number   One?",56   INT. MAIN BRIDGE - WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-195,GEORDI,"   The frequency scramble remains   unpredictable, sir...",56   INT. MAIN BRIDGE - WESLEY,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-196,WORF,   Commander? Some curiosities...,57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-197,RIKER,"       Books... A novel...       ""The Royale Hotel""...       Summarize.",57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-198,DATA,"   The story of a group of compulsive   gamblers caught up in the web of   crime, corruption and deceit spun   by nefarious lothario Mikey D who   appears only at the climax to be   brought to his knees by a   heartbroken bellboy. There is   a subplot about an older man   conspiring with a younger woman   to murder her husband while   squandering her inheritance. The   writing is elementary, the   plotting predictable, the   characters one-dimensional. The   only thing of interest, quite   honestly, is the intriguing   setting, that of a Las Vegas   gambling casino-hotel --",57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-199,RIKER,       This novel... and everyone in   it you've just described...   that's this hotel...,57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-200,RIKER,"       This... this appears to be a   diary... but with only one   entry...    (reading from it with     great interest now)   ""I write this in the hope that   it will someday be read by human   eyes... I can only surmise at this   point, but apparently our   exploratory shuttle was   contaminated by an alien life-form   which infected and killed all   personnel except myself. I   awakened to find myself here in   The Royale Hotel... and for the   last thirty-eight years I have   survived here.     ",57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-201,RIKER ,"   ""I have come to understand that   this place was created for me   out of some sense of guilt,   presuming that the novel we had   on board was in fact a guide to   our preferred lifestyle and social   habits. Obviously, they thought   this was the world from which I   came. I hold no malice toward   my benefactors... they could not   possibly know the hell they have   put me through, for it was such   a badly written book, filled with   endless cliche and shallow   characters. I shall welcome death   when it comes... """,57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-202,RIKER,   Then that is why... all of this   is here. But why can't we get   out?,57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+190,RIKER,"   Request identity scan on a   Colonel Richey, American, first   initial S., roughly same time   period.",53   INT. ROYALE - RICHEY'S SUITE - ON RIKER,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+191,RIKER,"   We also need a computer library   check on hotel known as the   Royale; possible location, Las   Vegas, Nevada, circa twenty-first   century.",54   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+192,PICARD,   Get on it.,54   INT. MAIN BRIDGE - SAME SETTING,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+193,WESLEY,"   Information retrieved, Captain --",56   INT. MAIN BRIDGE - WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+194,PICARD,"   Colonel Stephen Richey was the   commanding officer of the   explorer ship Charybdis which   had a terrestrial launch date of   7-23-2067. It was the first   manned attempt to travel beyond   the confines of the Euclidian   solar system. Its telemetry   system failed and it was never   heard from again...       Why is this of interest, Number   One?",56   INT. MAIN BRIDGE - WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+195,GEORDI,"   The frequency scramble remains   unpredictable, sir...",56   INT. MAIN BRIDGE - WESLEY,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+196,WORF,   Commander? Some curiosities...,57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+197,RIKER,"       Books... A novel...       ""The Royale Hotel""...       Summarize.",57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+198,DATA,"   The story of a group of compulsive   gamblers caught up in the web of   crime, corruption and deceit spun   by nefarious lothario Mikey D who   appears only at the climax to be   brought to his knees by a   heartbroken bellboy. There is   a subplot about an older man   conspiring with a younger woman   to murder her husband while   squandering her inheritance. The   writing is elementary, the   plotting predictable, the   characters one-dimensional. The   only thing of interest, quite   honestly, is the intriguing   setting, that of a Las Vegas   gambling casino-hotel --",57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+199,RIKER,       This novel... and everyone in   it you've just described...   that's this hotel...,57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+200,RIKER,"       This... this appears to be a   diary... but with only one   entry...    (reading from it with     great interest now)   ""I write this in the hope that   it will someday be read by human   eyes... I can only surmise at this   point, but apparently our   exploratory shuttle was   contaminated by an alien life-form   which infected and killed all   personnel except myself. I   awakened to find myself here in   The Royale Hotel... and for the   last thirty-eight years I have   survived here.     ",57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+201,RIKER ,"   ""I have come to understand that   this place was created for me   out of some sense of guilt,   presuming that the novel we had   on board was in fact a guide to   our preferred lifestyle and social   habits. Obviously, they thought   this was the world from which I   came. I hold no malice toward   my benefactors... they could not   possibly know the hell they have   put me through, for it was such   a badly written book, filled with   endless cliche and shallow   characters. I shall welcome death   when it comes... """,57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+202,RIKER,   Then that is why... all of this   is here. But why can't we get   out?,57   INT. ROYALE - RICHEY'S SUITE - RIKER AND DATA,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 203,PICARD,   Suppose we phaser a slice in the   field which surrounds the   structure?,59   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 204,GEORDI,   Yes...,59   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 205,PULASKI,   That would mean the atmosphere   of the planet would instantly rush   in.,59   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
@@ -211,38 +211,38 @@
 209,PULASKI,"   Well, that would depend on how   long they were exposed, how soon   I got to them, but Captain   realistically... I wouldn't give   them much of a chance. I'm a   doctor -- not a magician.",59   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 210,PICARD,"   I understand the risk, but I will   not warp off and leave them.       Make your preparations.",59   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 211,GEORDI,"   Yes, sir.",59   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-212,WORF,"       Yes?    (listens, frowns, turns     to others)   There is a female voice asking   if we want... ""room service.""",60   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-213,DATA,   I believe they are asking if we   want the room cleaned.,60   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-214,RIKER,   Tell them no.,60   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-215,WORF,       No.,60   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-216,RIKER,   What'd she say?,60   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-217,WORF,"   She said... ""The kitchen's open   twenty-four hours if we change   our minds.""",60   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-218,RIKER,"   I'm going to explore the other   floors; you two go down to the   lobby, see if we've missed   anything. Talk to the other   ""guests"" -- try and find out who   and what they are.",60   INT. ROYALE - RICHEY'S SUITE,ROYALE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-219,DATA,   I suggest we separate and blend   in with these beings. Casual   queries offered in an   inconspicuous manner might prove   most fruitful.,62   INT. ROYALE CASINO - BLACKJACK TABLE - THE DEALER,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-220,WORF,   What?,62   INT. ROYALE CASINO - BLACKJACK TABLE - THE DEALER,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-221,DATA,"   Mingle, Worf. Mingle.",62   INT. ROYALE CASINO - BLACKJACK TABLE - THE DEALER,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-222,VANESSA,   How much do I have left?,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-223,TEXAS,"   Honey, it's bad luck to count your   chips at the table...",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-224,DATA,"   If I might inquire, where are you   from, sir?",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-225,TEXAS,"   Lubbock, Texas.",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-226,DATA,   How did you get here?,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-227,TEXAS,   To Vegas? Drove. Got a   ninety-six caddy with only eighty   thousand miles on her.,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-228,DATA,   And where is your automobile now?,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-229,DEALER,   Hit?,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-230,TEXAS,"   It's out front, I suppose. What   the hell difference does it make?",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-231,DATA,   Could you take me there?,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-232,VANESSA,       I'm losing my shirt here --,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-233,TEXAS,"       Now son, why would I wanna do   that? Can't you see I'm tryin'   to to help this little lady?",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-234,DATA,"   I do not believe you could go to   your car, even if it truly exists.   You are trapped inside the Royale,   just as I am.",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-235,TEXAS,"       Sure does feel that way when   you're losin', doesn't it? But   right now we're tryin' to turn   this lady's wagon and win back   some lost change. Otherwise she's   goin' to be in a desperate   situation with nowhere to turn.       Well, almost nowhere.",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-236,VANESSA,"   I stay, right?",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-237,TEXAS,   I wouldn't.,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-238,DATA,   The odds favor standing pat.,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-239,VANESSA,   What do I do?,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-240,DEALER,   You want a card or what?,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-241,VANESSA,   Too many.,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-242,VANESSA,       That's everything I had. I've   lost it all. What am I going to   do?,64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-243,TEXAS,"   There, there...",64   INT. ROYALE CASINO - DATA,ROYALE CASINO,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+212,WORF,"       Yes?    (listens, frowns, turns     to others)   There is a female voice asking   if we want... ""room service.""",60   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+213,DATA,   I believe they are asking if we   want the room cleaned.,60   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+214,RIKER,   Tell them no.,60   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+215,WORF,       No.,60   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+216,RIKER,   What'd she say?,60   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+217,WORF,"   She said... ""The kitchen's open   twenty-four hours if we change   our minds.""",60   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+218,RIKER,"   I'm going to explore the other   floors; you two go down to the   lobby, see if we've missed   anything. Talk to the other   ""guests"" -- try and find out who   and what they are.",60   INT. ROYALE - RICHEY'S SUITE,ROYAL,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+219,DATA,   I suggest we separate and blend   in with these beings. Casual   queries offered in an   inconspicuous manner might prove   most fruitful.,62   INT. ROYALE CASINO - BLACKJACK TABLE - THE DEALER,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+220,WORF,   What?,62   INT. ROYALE CASINO - BLACKJACK TABLE - THE DEALER,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+221,DATA,"   Mingle, Worf. Mingle.",62   INT. ROYALE CASINO - BLACKJACK TABLE - THE DEALER,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+222,VANESSA,   How much do I have left?,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+223,TEXAS,"   Honey, it's bad luck to count your   chips at the table...",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+224,DATA,"   If I might inquire, where are you   from, sir?",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+225,TEXAS,"   Lubbock, Texas.",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+226,DATA,   How did you get here?,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+227,TEXAS,   To Vegas? Drove. Got a   ninety-six caddy with only eighty   thousand miles on her.,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+228,DATA,   And where is your automobile now?,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+229,DEALER,   Hit?,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+230,TEXAS,"   It's out front, I suppose. What   the hell difference does it make?",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+231,DATA,   Could you take me there?,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+232,VANESSA,       I'm losing my shirt here --,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+233,TEXAS,"       Now son, why would I wanna do   that? Can't you see I'm tryin'   to to help this little lady?",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+234,DATA,"   I do not believe you could go to   your car, even if it truly exists.   You are trapped inside the Royale,   just as I am.",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+235,TEXAS,"       Sure does feel that way when   you're losin', doesn't it? But   right now we're tryin' to turn   this lady's wagon and win back   some lost change. Otherwise she's   goin' to be in a desperate   situation with nowhere to turn.       Well, almost nowhere.",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+236,VANESSA,"   I stay, right?",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+237,TEXAS,   I wouldn't.,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+238,DATA,   The odds favor standing pat.,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+239,VANESSA,   What do I do?,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+240,DEALER,   You want a card or what?,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+241,VANESSA,   Too many.,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+242,VANESSA,       That's everything I had. I've   lost it all. What am I going to   do?,64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+243,TEXAS,"   There, there...",64   INT. ROYALE CASINO - DATA,ROYALE CASIN,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 244,MIKEY D,   You were told.,66   INT. ROYALE LOBBY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 245,BELLBOY,   It's not for you to make the   call... it's for Rita.,66   INT. ROYALE LOBBY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 246,MIKEY D,   She sent me to tell you.,66   INT. ROYALE LOBBY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
@@ -259,51 +259,51 @@
 257,RIKER,   The hotel gets bought? By whom?,66   INT. ROYALE LOBBY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 258,DATA,"       It is not very specific. The   acquiring party is simply referred   to as ""foreign investors."" Sale   price, twelve point five million.",66   INT. ROYALE LOBBY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
 259,RIKER,   That's how we're getting out.   We're buying this place.,66   INT. ROYALE LOBBY,ROYALE LOBBY,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-260,PICARD,"    (sighs with     frustration)   Number One... If we don't take   some action, make some attempt -- however   dangerous it may be -- to   rescue you, you may very   well be lost to the confines of   that conundrum for all eternity.   That is certain death for you   all... and that...       ... that is unacceptable! We   have set phaser focus with energy   ratios sufficient to penetrate   the structure --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-261,RIKER,   Hold on that. There may be   another way. I'll keep you   informed.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-262,DATA,"   It is a question of decimal   percentages. Quite simple, really   if one bets with any sequential   consistency.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-263,RIKER,   Can you do it?,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-264,DATA,   Certainly.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-265,TEXAS,"   C'mon, sugar, seven-come-eleven   and we're on easy street --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-266,CROUPIER ,   Snake eyes.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-267,VANESSA,   I'm almost broke!,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-268,TEXAS,"   Baby, relax! It's only money --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-269,VANESSA,"   But if I lose it all, I won't   even have a place to sleep.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-270,TEXAS,       Don't worry your pretty little   head. I'd never let that happen.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-271,CROUPIER,"   It's your roll, sir...",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-272,RIKER,   Go to work.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-273,TEXAS,   Maybe this turkey'll change our   luck --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-274,CROUPIER,   Six. The point is six --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-275,TEXAS,"   Six! Hell, my blind grandmother   can make a six! Let 'er rip, boy!",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-276,CROUPIER,   Seven. Seven and out...,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-277,VANESSA,   So much for your new turkey --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-278,DATA,   These cubes are improperly   balanced. I believe that their   final resting position is   adversely affected --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-279,RIKER,"   Loaded dice.       Can you... ""repair"" them?",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-280,DATA,   I believe so...,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-281,TEXAS ,   Seven! A winner!,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-282,TEXAS,   Attaboy! Just do that a few more   times and everybody's gonna get   well --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-283,ASSISTANT MANAGER,       Who has the dice?,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-284,VANESSA,"   Oh, Tex, darlin', you're   brilliant!",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-285,TEXAS,"   Yeah. An' good lookin' too, huh?",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-286,WORF,       Isn't that enough?,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-287,RIKER,"   Almost. I don't want to be short,   that's for sure...       You are keeping count?",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-288,DATA,   Eleven point three million.       Perhaps I will bet it all --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-289,RIKER,   No! Simply reach twelve million.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-290,DATA,   As you wish...,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-291,ASSISTANT MANAGER ,   The man has the touch.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-292,RIKER,   Now.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-293,DATA,"       I would like to cash out, please.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-294,ASSISTANT MANAGER,   I'm afraid you've broken the bank.   That's over twelve million --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-295,RIKER,   Twelve point five million to be   exact. The purchase price of   this hotel.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-296,ASSISTANT MANAGER,   That's impossible --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-297,RIKER,"   Wrong. We're the ""foreign   Investors"" on page 244. We're   buying you out, lock, stock, and   barrel.    (slides the chips toward     the pit boss)   Consider it a ""done deal.""",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-298,TEXAS,"   Hey, y'know what? Y'all got   style! I like that! Let me buy   y'all a drink --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-299,RIKER,"   Enjoy the game, friend. And don't   let 'em change the dice on you.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-300,ASSISTANT MANAGER,   Wait! You can't leave!,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-301,RIKER,"   Oh yeah? Watch us.    (then, wagging a finger     at him)   Don't forget, we own the joint.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-302,WORF,"   You're confident about this,   Commander?",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-303,RIKER,"   Focus. Concentrate. See only   where we want to BE, not where   we are.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-304,DATA,"   Ancient philosophical overtones   of thought process... ""Zen"", I   believe --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-305,RIKER,   We own the place... and we're   walking through that door...,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
-306,RIKER,   I think it's time to go home...,92   EXT. PLANET SURFACE - THE BLACK VOID,PLANET SURFACE,EXT.,The Royale,1989-01-10,The Next Generation,138.txt
-307,PICARD,"   Transporter Room, we have a fix   on our away team. Beam them up...   and please be quick about it!",93   INT. MAIN BRIDGE - PICARD,MAIN BRIDGE,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+260,PICARD,"    (sighs with     frustration)   Number One... If we don't take   some action, make some attempt -- however   dangerous it may be -- to   rescue you, you may very   well be lost to the confines of   that conundrum for all eternity.   That is certain death for you   all... and that...       ... that is unacceptable! We   have set phaser focus with energy   ratios sufficient to penetrate   the structure --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+261,RIKER,   Hold on that. There may be   another way. I'll keep you   informed.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+262,DATA,"   It is a question of decimal   percentages. Quite simple, really   if one bets with any sequential   consistency.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+263,RIKER,   Can you do it?,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+264,DATA,   Certainly.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+265,TEXAS,"   C'mon, sugar, seven-come-eleven   and we're on easy street --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+266,CROUPIER ,   Snake eyes.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+267,VANESSA,   I'm almost broke!,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+268,TEXAS,"   Baby, relax! It's only money --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+269,VANESSA,"   But if I lose it all, I won't   even have a place to sleep.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+270,TEXAS,       Don't worry your pretty little   head. I'd never let that happen.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+271,CROUPIER,"   It's your roll, sir...",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+272,RIKER,   Go to work.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+273,TEXAS,   Maybe this turkey'll change our   luck --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+274,CROUPIER,   Six. The point is six --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+275,TEXAS,"   Six! Hell, my blind grandmother   can make a six! Let 'er rip, boy!",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+276,CROUPIER,   Seven. Seven and out...,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+277,VANESSA,   So much for your new turkey --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+278,DATA,   These cubes are improperly   balanced. I believe that their   final resting position is   adversely affected --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+279,RIKER,"   Loaded dice.       Can you... ""repair"" them?",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+280,DATA,   I believe so...,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+281,TEXAS ,   Seven! A winner!,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+282,TEXAS,   Attaboy! Just do that a few more   times and everybody's gonna get   well --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+283,ASSISTANT MANAGER,       Who has the dice?,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+284,VANESSA,"   Oh, Tex, darlin', you're   brilliant!",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+285,TEXAS,"   Yeah. An' good lookin' too, huh?",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+286,WORF,       Isn't that enough?,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+287,RIKER,"   Almost. I don't want to be short,   that's for sure...       You are keeping count?",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+288,DATA,   Eleven point three million.       Perhaps I will bet it all --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+289,RIKER,   No! Simply reach twelve million.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+290,DATA,   As you wish...,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+291,ASSISTANT MANAGER ,   The man has the touch.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+292,RIKER,   Now.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+293,DATA,"       I would like to cash out, please.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+294,ASSISTANT MANAGER,   I'm afraid you've broken the bank.   That's over twelve million --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+295,RIKER,   Twelve point five million to be   exact. The purchase price of   this hotel.,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+296,ASSISTANT MANAGER,   That's impossible --,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+297,RIKER,"   Wrong. We're the ""foreign   Investors"" on page 244. We're   buying you out, lock, stock, and   barrel.    (slides the chips toward     the pit boss)   Consider it a ""done deal.""",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+298,TEXAS,"   Hey, y'know what? Y'all got   style! I like that! Let me buy   y'all a drink --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+299,RIKER,"   Enjoy the game, friend. And don't   let 'em change the dice on you.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+300,ASSISTANT MANAGER,   Wait! You can't leave!,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+301,RIKER,"   Oh yeah? Watch us.    (then, wagging a finger     at him)   Don't forget, we own the joint.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+302,WORF,"   You're confident about this,   Commander?",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+303,RIKER,"   Focus. Concentrate. See only   where we want to BE, not where   we are.",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+304,DATA,"   Ancient philosophical overtones   of thought process... ""Zen"", I   believe --",79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+305,RIKER,   We own the place... and we're   walking through that door...,79   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt
+306,RIKER,   I think it's time to go home...,92   EXT. PLANET SURFACE - THE BLACK VOID,PLANET SURFAC,EXT.,The Royale,1989-01-10,The Next Generation,138.txt
+307,PICARD,"   Transporter Room, we have a fix   on our away team. Beam them up...   and please be quick about it!",93   INT. MAIN BRIDGE - PICARD,MAIN BRIDG,INT.,The Royale,1989-01-10,The Next Generation,138.txt

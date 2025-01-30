@@ -28,13 +28,13 @@
 26,BASHIR,   He's dying.  Where's the manual    override...,4    INT. KOBLIAD TRANSPORT - CORRIDOR (OPTICAL),KOBLIAD TRANSPORT - CORRIDOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 27,KAJADA,   No...,4    INT. KOBLIAD TRANSPORT - CORRIDOR (OPTICAL),KOBLIAD TRANSPORT - CORRIDOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 28,KAJADA,   Don't...,4    INT. KOBLIAD TRANSPORT - CORRIDOR (OPTICAL),KOBLIAD TRANSPORT - CORRIDOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-29,KAJADA,   He's... dangerous.,5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPORT,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-30,BASHIR,"   I assure you, in this condition,    he's no threat to anyone.",5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPORT,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-31,KIRA,"   Power linkages are completely shot...    maneuvering subsystems are out...    I've managed to stabilize the    structural integrity field, but I    don't know how long that will last...    we'll have to tow it in...",5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPORT,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-32,BASHIR,   His synaptic fields are dissipating...    I can't get a neural reading... I    have to get him to the emergency    unit in the Runabout.,5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPORT,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-33,KIRA,"       Computer, four to transport...",5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPORT,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-34,VANTIKA,       ...make... me... live...,5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPORT,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-35,BASHIR,       This one I can't bring back.,5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPORT,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+29,KAJADA,   He's... dangerous.,5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+30,BASHIR,"   I assure you, in this condition,    he's no threat to anyone.",5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+31,KIRA,"   Power linkages are completely shot...    maneuvering subsystems are out...    I've managed to stabilize the    structural integrity field, but I    don't know how long that will last...    we'll have to tow it in...",5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+32,BASHIR,   His synaptic fields are dissipating...    I can't get a neural reading... I    have to get him to the emergency    unit in the Runabout.,5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+33,KIRA,"       Computer, four to transport...",5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+34,VANTIKA,       ...make... me... live...,5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+35,BASHIR,       This one I can't bring back.,5    INT. KOBLIAD TRANSPORT - HOLDING CELL,KOBLIAD TRANSPOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 36,KAJADA,       Where am I?,7    INT. INFIRMARY,INFIRMARY,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 37,BASHIR,   You're on Station D.S. Nine... I'm    Doctor Bashir...,7    INT. INFIRMARY,INFIRMARY,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 38,KAJADA,   Ty Kajada... Kobliad Security...       D.S. Nine... but that's where he was    going...,7    INT. INFIRMARY,INFIRMARY,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
@@ -88,12 +88,12 @@
 86,PRIMMIN,   Interesting technique.,10   INT. QUARK'S,QUARK'S,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 87,PRIMMIN,   Do you always get ready for an    important operation by leaking word    about it to the local black market?,10   INT. QUARK'S,QUARK'S,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 88,ODO,   The way I handle my business is none    of your concern.,10   INT. QUARK'S,QUARK'S,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-89,PRIMMIN,   I'm afraid it is.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENADE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-90,PRIMMIN,       Lieutenant George Primmin.  Starfleet    security.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENADE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-91,PRIMMIN,"   If you don't mind, I'd like to talk    to you about the deuridium shipment    from the Gamma Quadrant.",15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENADE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-92,ODO,   We have nothing to discuss.  Security    is already in place.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENADE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-93,PRIMMIN,   I'd appreciate it if we could go    over it anyway.  It took me three    weeks to get here.  I'd hate to think    it was for nothing.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENADE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-94,ODO,       If you insist.  Meet me in my office    at seventeen hundred hours.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENADE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+89,PRIMMIN,   I'm afraid it is.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENAD,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+90,PRIMMIN,       Lieutenant George Primmin.  Starfleet    security.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENAD,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+91,PRIMMIN,"   If you don't mind, I'd like to talk    to you about the deuridium shipment    from the Gamma Quadrant.",15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENAD,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+92,ODO,   We have nothing to discuss.  Security    is already in place.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENAD,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+93,PRIMMIN,   I'd appreciate it if we could go    over it anyway.  It took me three    weeks to get here.  I'd hate to think    it was for nothing.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENAD,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+94,ODO,       If you insist.  Meet me in my office    at seventeen hundred hours.,15   INT. PROMENADE - CONTINUOUS - MOVING WITH THEM,PROMENAD,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 95,BASHIR,"   The autopsy revealed nothing out of    the ordinary.  Fingerprints, cerebral    cortex scan, and retinal patterns    all match up perfectly with the    records Kajada provided.  Vantika    may have faked his death before, but    I don't think he's faking this time.",16   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 96,SISKO,   Why was he coming here?,16   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 97,BASHIR,       They're Kobliad.,16   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
@@ -110,17 +110,17 @@
 108,SISKO,"   Mister Primmin, good.  In my office.     I need to brief you on an unusual    security issue that's been raised...",16   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 109,KIRA,       I'll get Odo up here...,16   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 110,PRIMMIN,"       Ah... that's okay, Major.  I'll fill    him in later on anything he needs to    know.",16   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-111,SISKO,"   How are you getting on with Constable    Odo, Lieutenant?",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-112,PRIMMIN,   I'm sure he's good at keeping order    down there on the Promenade...    ,16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-113,SISKO,       But...,16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-114,PRIMMIN,"   Frankly, isn't the security of a    deuridium shipment a little over his    head... I mean he was chatting about    it in the bar with that Ferengi    Quark... if I could overhear it, so    could half-dozen others...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-115,SISKO,"   It's hard to keep a secret in a place    like this, Lieutenant.  It's not a    starship...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-116,PRIMMIN,"   I understand that, but...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-117,SISKO,   I'm sure almost everyone knows about    the shipment by now.  Odo was probably    making sure Quark knows we know he    knows.,16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-118,PRIMMIN,"    (too chummy for a     subordinate)   Well, it's not how we learned it at    the academy, is it, sir.  If you    want my opinion...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-119,SISKO,"   Actually, I don't.    (beat, off Primmin's     take)   You and I are guests of the Bajorans,    Lieutenant.  You don't have to forget    what you learned at the academy...    just don't throw it in anyone's face    here.  If you're really smart, you    might even learn a few new things    about station security from our    Constable.  Clear?",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-120,PRIMMIN,"   Very clear, sir.",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-121,SISKO ,"   Now, regarding the shipment, we've    been made aware of a possible Kobliad    plot to hijack the deuridium... you    and Odo ought to have a talk with    Kajada, the Kobliad security officer    who arrived yesterday...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+111,SISKO,"   How are you getting on with Constable    Odo, Lieutenant?",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+112,PRIMMIN,   I'm sure he's good at keeping order    down there on the Promenade...    ,16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+113,SISKO,       But...,16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+114,PRIMMIN,"   Frankly, isn't the security of a    deuridium shipment a little over his    head... I mean he was chatting about    it in the bar with that Ferengi    Quark... if I could overhear it, so    could half-dozen others...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+115,SISKO,"   It's hard to keep a secret in a place    like this, Lieutenant.  It's not a    starship...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+116,PRIMMIN,"   I understand that, but...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+117,SISKO,   I'm sure almost everyone knows about    the shipment by now.  Odo was probably    making sure Quark knows we know he    knows.,16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+118,PRIMMIN,"    (too chummy for a     subordinate)   Well, it's not how we learned it at    the academy, is it, sir.  If you    want my opinion...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+119,SISKO,"   Actually, I don't.    (beat, off Primmin's     take)   You and I are guests of the Bajorans,    Lieutenant.  You don't have to forget    what you learned at the academy...    just don't throw it in anyone's face    here.  If you're really smart, you    might even learn a few new things    about station security from our    Constable.  Clear?",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+120,PRIMMIN,"   Very clear, sir.",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+121,SISKO ,"   Now, regarding the shipment, we've    been made aware of a possible Kobliad    plot to hijack the deuridium... you    and Odo ought to have a talk with    Kajada, the Kobliad security officer    who arrived yesterday...",16A  INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 122,PRIMMIN,"   Before we get started, I want to    apologize for us getting off on the    wrong foot.",18   INT. ODO'S OFFICE,ODO'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 123,ODO,       Think nothing of it.,18   INT. ODO'S OFFICE,ODO'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 124,PRIMMIN,"   Listen, this is your bailiwick.  I    know that.  And I don't mean to be    throwing my weight around.  No hard    feelings.",18   INT. ODO'S OFFICE,ODO'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
@@ -163,26 +163,26 @@
 161,BASHIR,   I sent it to Starfleet Command    yesterday... they'll have to    coordinate with Kobliad security...    I'd guess another twelve hours.,22   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 162,SISKO,"       Until then, we'll operate under the    assumption that Vantika's alive.",22   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 163,ODO,   Commander... may I have a word with    you...,22   INT. OPS,OPS,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-164,SISKO,   What's on your mind.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-165,ODO,   My resignation.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-166,SISKO,   You're overreacting.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-167,ODO,"   Oh, so you already know about this.",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-168,SISKO,   Lieutenant Primmin mentioned to me    that...,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-169,ODO,   You asked me to stay in charge of    security when you took command of    this station... I didn't ask you...,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-170,SISKO,"       Constable, no one knows this station    like you do...",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-171,ODO,"   Yes, I've noticed that.  ""Constable.""     Very cute.",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-172,SISKO,   It's an expression of affection... I    believe Major Kira was the first    to...,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-173,ODO,       I don't need anyone's affection.  I    do need clear jurisdiction.  Or I'm    out.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-174,SISKO,"   I like you, Odo.  I like to know    where a man stands.  And there's    never any question of that with you.     I need you here.  No Starfleet officer    can do the job you do.",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-175,ODO,   You've got that straight.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-176,SISKO,   But you have to realize that Starfleet    is not going to take command of a    station in deep space without    assigning some security to protect    its interests.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-177,ODO,   Understandable.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-178,SISKO,   You're going to have to work with    Primmin.  The two of you have to    find a way to get along.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-179,ODO,   Tell that to him.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-180,SISKO,   I already have.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-181,ODO,   Who's in charge.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-182,SISKO,"       In joint operations like this one,    you are.",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-183,ODO,   I can live with that arrangement.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFICE,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+164,SISKO,   What's on your mind.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+165,ODO,   My resignation.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+166,SISKO,   You're overreacting.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+167,ODO,"   Oh, so you already know about this.",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+168,SISKO,   Lieutenant Primmin mentioned to me    that...,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+169,ODO,   You asked me to stay in charge of    security when you took command of    this station... I didn't ask you...,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+170,SISKO,"       Constable, no one knows this station    like you do...",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+171,ODO,"   Yes, I've noticed that.  ""Constable.""     Very cute.",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+172,SISKO,   It's an expression of affection... I    believe Major Kira was the first    to...,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+173,ODO,       I don't need anyone's affection.  I    do need clear jurisdiction.  Or I'm    out.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+174,SISKO,"   I like you, Odo.  I like to know    where a man stands.  And there's    never any question of that with you.     I need you here.  No Starfleet officer    can do the job you do.",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+175,ODO,   You've got that straight.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+176,SISKO,   But you have to realize that Starfleet    is not going to take command of a    station in deep space without    assigning some security to protect    its interests.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+177,ODO,   Understandable.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+178,SISKO,   You're going to have to work with    Primmin.  The two of you have to    find a way to get along.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+179,ODO,   Tell that to him.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+180,SISKO,   I already have.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+181,ODO,   Who's in charge.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+182,SISKO,"       In joint operations like this one,    you are.",23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+183,ODO,   I can live with that arrangement.,23   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 184,SISKO,"   What have you got, Dax?",24   INT. LAB (VPB),LAB,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 185,DAX,"   Not exactly sure, yet.  I finished    the sweep of Kajada's ship... no    anomalous readings but I did notice    one odd thing...",24   INT. LAB (VPB),LAB,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 186,SISKO,   What's that?,24   INT. LAB (VPB),LAB,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
@@ -194,16 +194,16 @@
 192,DAX,   I found it with Vantika's personal    belongings.,24   INT. LAB (VPB),LAB,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 193,SISKO,   What the hell is it?,24   INT. LAB (VPB),LAB,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 194,DAX,   A map.  Of a humanoid brain.,24   INT. LAB (VPB),LAB,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-195,QUARK,   You call this clean?,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-196,QUARK,"   I've already found three coins on    the floor up here... who knows what    else there might be... somebody might    have lost some valuable jewelry or    something... fine, never mind, I'll    do it myself... and I'll keep it    myself.  Leave...",25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-197,QUARK,   You just can't find good help any    more.,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-198,VANTIKA ,   Have you made the preparations?,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-199,QUARK,   Preparations?  What preparations?,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-200,VANTIKA ,   The deuridium shipment.  You were to    hire mercenaries to help me.,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-201,QUARK,   Help you...       But.  You can't be... Vantika...,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-202,VANTIKA ,   I told you to expect me on this date.,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-203,QUARK,"   Yes, and I contacted some very    reliable soldiers of fortune in    anticipation of your arrival... but    I was told you were dead...",25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
-204,VANTIKA ,   Almost.  But not quite.,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOOR,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+195,QUARK,   You call this clean?,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+196,QUARK,"   I've already found three coins on    the floor up here... who knows what    else there might be... somebody might    have lost some valuable jewelry or    something... fine, never mind, I'll    do it myself... and I'll keep it    myself.  Leave...",25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+197,QUARK,   You just can't find good help any    more.,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+198,VANTIKA ,   Have you made the preparations?,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+199,QUARK,   Preparations?  What preparations?,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+200,VANTIKA ,   The deuridium shipment.  You were to    hire mercenaries to help me.,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+201,QUARK,   Help you...       But.  You can't be... Vantika...,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+202,VANTIKA ,   I told you to expect me on this date.,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+203,QUARK,"   Yes, and I contacted some very    reliable soldiers of fortune in    anticipation of your arrival... but    I was told you were dead...",25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
+204,VANTIKA ,   Almost.  But not quite.,25   INT. QUARK'S SECOND FLOOR - NIGHT,QUARK'S SECOND FLOO,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 205,KAJADA,   You wanted to see me?,28   INT. INFIRMARY,INFIRMARY,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 206,BASHIR,   Kajada.  Be right with you.,28   INT. INFIRMARY,INFIRMARY,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt
 207,BASHIR,"       There, now remember, next time lift    with your back straight and use the    anti-gravity generator.",28   INT. INFIRMARY,INFIRMARY,INT.,The Passenger,1992-11-25,Deep Space Nine,409.txt

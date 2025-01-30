@@ -1,16 +1,16 @@
 ,character,quote,scene,location,view,episode,date,series,file
-0,COMPUTER,   Captain Sisko. The time is oh-six-   hundred.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-1,SISKO,   Acknowledged.         Lights.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-2,KASIDY,   Do you always get up at oh-six-   hundred?,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-3,SISKO,   I like to get an early start. But    you can sleep in if you want.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-4,KASIDY,"   Sleep in? I usually get up at    five.        When you're a freighter captain,    you don't have the luxury of lying    around in bed all day.",1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-5,SISKO,"   If you usually get up that early,    why do you look so sleepy?",1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-6,KASIDY,   I don't usually stay up until one    A.M.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-7,SISKO,       Sorry about that.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-8,KASIDY,        I'm not.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-9,SISKO,   I'd better get going. You free    tonight?,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-10,KASIDY,   I think I can fit you into my    schedule.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-11,SISKO,   I'm counting on it.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+0,COMPUTER,   Captain Sisko. The time is oh-six-   hundred.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+1,SISKO,   Acknowledged.         Lights.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+2,KASIDY,   Do you always get up at oh-six-   hundred?,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+3,SISKO,   I like to get an early start. But    you can sleep in if you want.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+4,KASIDY,"   Sleep in? I usually get up at    five.        When you're a freighter captain,    you don't have the luxury of lying    around in bed all day.",1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+5,SISKO,"   If you usually get up that early,    why do you look so sleepy?",1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+6,KASIDY,   I don't usually stay up until one    A.M.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+7,SISKO,       Sorry about that.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+8,KASIDY,        I'm not.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+9,SISKO,   I'd better get going. You free    tonight?,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+10,KASIDY,   I think I can fit you into my    schedule.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+11,SISKO,   I'm counting on it.,1    INT. SISKO'S QUARTERS - BEDROOM,SISKO'S QUARTER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 12,WORF,   Worf to Major Kira.,3A   INT. KIRA'S QUARTERS ,KIRA'S QUARTERS ,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 13,KIRA,       This is Kira.,3A   INT. KIRA'S QUARTERS ,KIRA'S QUARTERS ,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 14,WORF,"   Major, you've got an incoming   transmission from a Razka Karn.        He claims to be an old friend.",5    INT. OPS,OPS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
@@ -162,31 +162,31 @@
 160,DUKAT,"   Oh, that's right.  I forgot.   Compared to us, you Bajorans are   a bit... fragile.       Physiologically speaking, of   course.",32   EXT. DESERT (LOCATION) - DAY,DESERT,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 161,KIRA,   Don't worry about me.,32   EXT. DESERT (LOCATION) - DAY,DESERT,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 162,KIRA,   The Ravinok.,32   EXT. DESERT (LOCATION) - DAY,DESERT,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-163,DAX,"   ""It's a big step."" That's all you    said?",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-164,SISKO,   That's all.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-165,BASHIR,   You're sure?,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-166,SISKO,   Positive.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-167,DAX,"   What do you think, Julian?",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-168,BASHIR,"   It's ambiguous. Definitely open    to interpretation.    (trying to put things in     a positive light)    But it could've been worse. He    could've said, ""It's a very big    step.""",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-169,DAX,"        You didn't say that, did you?",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-170,SISKO,   I don't think so.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-171,BASHIR,"        That's good, anyway.        So what does he do now?",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-172,DAX,"   It's simple. He goes to Kasidy,    admits that everything was his    fault, and pledges his undying    love.",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-173,BASHIR,        I don't know. Sounds a little    extreme to me.        What if he just tells Kasidy he    made a mistake... that it was all    a misunderstanding. And he really    does want her to live on the    station.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-174,DAX,        That could work.        Assuming that's what you want.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-175,QUARK,"   Captain, I would think long and    hard before answering.",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-176,SISKO,"   I don't recall asking your    opinion, Quark.",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-177,QUARK,"   Maybe you should. I mean, who    knows more about women than me?",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-178,BASHIR,        Everyone.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-179,QUARK,"   Fah. You humans, all you want to     do is please your women. You want     them to be your friends. But we     Ferengi know better. Women are     the enemy. And we treat them     accordingly. The key is to never     let them get the upper hand. If     she says she doesn't see you     enough, threaten to see her even     less. If she wants more gifts,     take back the ones you've already     given her. It's all about control.",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-180,DAX,   And what if your woman leaves you?,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-181,QUARK,    That's what holosuites are for.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-182,BASHIR,         It's a wonder they manage to     reproduce at all.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-183,DAX,"         So, you never answered the     question. Do you want her to     stay, or not?",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-184,SISKO,   I appreciate all the advice. I'll     let you know how things turn out.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-185,BASHIR,"   So, just between you and me, what     do you really think about Kasidy     moving onto the station?",36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-186,DAX,       It's a big step.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-187,BASHIR,         A very big step.,36   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+163,DAX,"   ""It's a big step."" That's all you    said?",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+164,SISKO,   That's all.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+165,BASHIR,   You're sure?,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+166,SISKO,   Positive.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+167,DAX,"   What do you think, Julian?",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+168,BASHIR,"   It's ambiguous. Definitely open    to interpretation.    (trying to put things in     a positive light)    But it could've been worse. He    could've said, ""It's a very big    step.""",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+169,DAX,"        You didn't say that, did you?",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+170,SISKO,   I don't think so.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+171,BASHIR,"        That's good, anyway.        So what does he do now?",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+172,DAX,"   It's simple. He goes to Kasidy,    admits that everything was his    fault, and pledges his undying    love.",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+173,BASHIR,        I don't know. Sounds a little    extreme to me.        What if he just tells Kasidy he    made a mistake... that it was all    a misunderstanding. And he really    does want her to live on the    station.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+174,DAX,        That could work.        Assuming that's what you want.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+175,QUARK,"   Captain, I would think long and    hard before answering.",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+176,SISKO,"   I don't recall asking your    opinion, Quark.",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+177,QUARK,"   Maybe you should. I mean, who    knows more about women than me?",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+178,BASHIR,        Everyone.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+179,QUARK,"   Fah. You humans, all you want to     do is please your women. You want     them to be your friends. But we     Ferengi know better. Women are     the enemy. And we treat them     accordingly. The key is to never     let them get the upper hand. If     she says she doesn't see you     enough, threaten to see her even     less. If she wants more gifts,     take back the ones you've already     given her. It's all about control.",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+180,DAX,   And what if your woman leaves you?,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+181,QUARK,    That's what holosuites are for.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+182,BASHIR,         It's a wonder they manage to     reproduce at all.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+183,DAX,"         So, you never answered the     question. Do you want her to     stay, or not?",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+184,SISKO,   I appreciate all the advice. I'll     let you know how things turn out.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+185,BASHIR,"   So, just between you and me, what     do you really think about Kasidy     moving onto the station?",36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+186,DAX,       It's a big step.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+187,BASHIR,         A very big step.,36   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 188,KIRA,   They didn't just crash. These are    phaser hits.,39   EXT. CRASH SITE (LOCATION) - DAY,CRASH SITE,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 189,DUKAT,   Looks like she put up quite a    fight.,39   EXT. CRASH SITE (LOCATION) - DAY,CRASH SITE,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 190,KIRA,   And paid for it.,39   EXT. CRASH SITE (LOCATION) - DAY,CRASH SITE,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
@@ -232,32 +232,32 @@
 230,DUKAT,   Let's go.,43   EXT. CRASH SITE (LOCATION) - BY THE GRAVES - DAY,CRASH SITE,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 231,DUKAT,"   Major, please try to keep up.",48   EXT. DOZARIA DESERT (LOCATION) - DAY,DOZARIA DESERT,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 232,KIRA,   I'm right behind you.,48   EXT. DOZARIA DESERT (LOCATION) - DAY,DOZARIA DESERT,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-233,DUKAT,   I don't know why we have to stop.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-234,KIRA,"   For one thing, I can't see two    meters ahead of us, and besides,    we could both use the rest.        Now stop pacing and sit down.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-235,KIRA,   What is it?,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-236,DUKAT,        I don't know. I sat on something.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-237,KIRA,        Let me see.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-238,DUKAT,        Get it out.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-239,KIRA,   Hold still and I'll see what I can    do.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-240,KIRA,   This is going to hurt.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-241,DUKAT,   It already hurts. Just take it out.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-242,KIRA,       If you say so.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-243,KIRA,   Here. Run this dermal regenerator   over the wound.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-244,DUKAT,   It's not funny.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-245,KIRA,   It is from this angle.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-246,DUKAT,   You know what's even funnier...   It's not working.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-247,KIRA,   You have to activate it first.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-248,DUKAT,"   Ahh, much better.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-249,KIRA,"   When you're done, you should    probably eat one of these.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-250,DUKAT,   It's been a long time since I've    had field rations. I'm sure they    haven't improved a bit.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-251,KIRA,   They've actually gotten a little    worse.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-252,KIRA,   Tell me something... Who's Tora    Ziyal?,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-253,KIRA,"   When I reactivated the Ravinok's    computer, I downloaded the    manifest. There were two    civilians on board, in addition to    the prisoners and the crew.    Your... friend Tora Naprem and a    Tora Ziyal, a thirteen year-old    girl.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-254,DUKAT,   I suppose you wouldn't believe me    if I told you she was Naprem's    sister?,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-255,KIRA,"        Ziyal is a Cardassian name. The    way I see it, there's only one    explanation. Ziyal was Naprem's    daughter, and...",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-256,DUKAT,        And I was her father.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-257,KIRA,"   Now I know why you're in such a    hurry to find the survivors.    You're hoping she's still alive,    so you can rescue her.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-258,DUKAT,"   Not quite. You see... if my    daughter is still alive, I'll have    no choice, but to kill her.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARIA,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+233,DUKAT,   I don't know why we have to stop.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+234,KIRA,"   For one thing, I can't see two    meters ahead of us, and besides,    we could both use the rest.        Now stop pacing and sit down.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+235,KIRA,   What is it?,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+236,DUKAT,        I don't know. I sat on something.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+237,KIRA,        Let me see.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+238,DUKAT,        Get it out.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+239,KIRA,   Hold still and I'll see what I can    do.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+240,KIRA,   This is going to hurt.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+241,DUKAT,   It already hurts. Just take it out.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+242,KIRA,       If you say so.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+243,KIRA,   Here. Run this dermal regenerator   over the wound.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+244,DUKAT,   It's not funny.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+245,KIRA,   It is from this angle.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+246,DUKAT,   You know what's even funnier...   It's not working.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+247,KIRA,   You have to activate it first.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+248,DUKAT,"   Ahh, much better.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+249,KIRA,"   When you're done, you should    probably eat one of these.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+250,DUKAT,   It's been a long time since I've    had field rations. I'm sure they    haven't improved a bit.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+251,KIRA,   They've actually gotten a little    worse.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+252,KIRA,   Tell me something... Who's Tora    Ziyal?,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+253,KIRA,"   When I reactivated the Ravinok's    computer, I downloaded the    manifest. There were two    civilians on board, in addition to    the prisoners and the crew.    Your... friend Tora Naprem and a    Tora Ziyal, a thirteen year-old    girl.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+254,DUKAT,   I suppose you wouldn't believe me    if I told you she was Naprem's    sister?,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+255,KIRA,"        Ziyal is a Cardassian name. The    way I see it, there's only one    explanation. Ziyal was Naprem's    daughter, and...",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+256,DUKAT,        And I was her father.,50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+257,KIRA,"   Now I know why you're in such a    hurry to find the survivors.    You're hoping she's still alive,    so you can rescue her.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+258,DUKAT,"   Not quite. You see... if my    daughter is still alive, I'll have    no choice, but to kill her.",50   EXT. DOZARIA - CAMPSITE - NIGHT ,DOZARI,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 259,KIRA,   You know I'm not going to let you    do it.,54   EXT. DOZARIA DESERT (LOCATION) - DAY,DOZARIA DESERT,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 260,KIRA,"   I mean it, Dukat. You're not    going to kill that girl.",54   EXT. DOZARIA DESERT (LOCATION) - DAY,DOZARIA DESERT,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 261,DUKAT,"   Major, you worry about the other    survivors, and let me worry about    Ziyal. After all, she's my    daughter.",54   EXT. DOZARIA DESERT (LOCATION) - DAY,DOZARIA DESERT,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
@@ -291,58 +291,58 @@
 289,SISKO,   Have you told any of this to     Kasidy?,55   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 290,JAKE,   Nog and I thought about it. But     we decided it would be better if     you told her yourself.,55   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 291,JAKE,"       So, what's new with you?",55   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-292,KIRA,   Take a look.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-293,DUKAT,   The Breen? What are they doing    here?,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-294,KIRA,   My tricorder's picking up a large    concentration of dilithium in this    area. They must be using the    survivors from the Ravinok to mine    the ore.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-295,DUKAT,   It makes perfect sense. The Breen    homeworld is a frozen wasteland.    This place is about fifty degrees    too hot for them.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-296,KIRA,   Are you saying you approve of what    they're doing?,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-297,DUKAT,   Not at all. But I admire their    ingenuity.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-298,KIRA,   What is it?,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-299,KIRA ,   It's her.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-300,DUKAT,        My daughter.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAINS,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-301,KIRA,   We're going to need some help.    I'll stay here and keep an eye on    things while you go back to D.S.    Nine and get reinforcements.,A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATION,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-302,DUKAT,        I have a better idea. You go back    to the station and I'll stay here.,A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATION,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-303,KIRA,"   I'm sending you back, Dukat.    That's an order.",A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATION,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-304,DUKAT,   And I hate to refuse it. But I'm    afraid I have to. You're welcome    to file an official protest with    the Cardassian military when we    get back.,A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATION,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-305,KIRA,   There's no way I'm leaving you    alone here.,A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATION,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-306,DUKAT,"   Then I suggest we devise a plan to    rescue the prisoners. Together.    You need me, Major.",A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATION,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-307,KIRA,"   Maybe I do. But if you hurt that    girl... I promise, I'll kill you.",A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATION,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-308,KIRA,        Don't make any noise. We're here    to help.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-309,HELER,   You're Bajoran.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-310,DUKAT,   Gather as many prisoners as you    can. Have them meet us here.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-311,KIRA,   How many Breen guards are there?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-312,HELER,   I'm not sure. There are always at    least eight in the mines.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-313,KIRA,   How many prisoners?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-314,HELER,   There're only thirty-one of us   left.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-315,KIRA,   What about Lorit Akrem? Did he   make it?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-316,HELER,   He died in a cave-in. Two years   ago.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-317,HELER,   You knew him?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-318,KIRA,   He was a friend.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-319,DUKAT,"   My condolences, major. But we   don't have time for this.       Tell me where I can find Tora   Ziyal.",62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-320,KIRA,   Don't tell him anything.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-321,HELER,       A Cardassian.       I don't understand.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-322,KIRA,   There's a peace treaty.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-323,HELER,   You mean the Occupation is    over?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-324,DUKAT,   I need to find the girl. Tell me    where she is.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-325,KIRA,   Dukat.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-326,DUKAT,   Tora Ziyal. Where is she?,67   INT. DILITHIUM MINE - PASSAGEWAY,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+292,KIRA,   Take a look.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+293,DUKAT,   The Breen? What are they doing    here?,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+294,KIRA,   My tricorder's picking up a large    concentration of dilithium in this    area. They must be using the    survivors from the Ravinok to mine    the ore.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+295,DUKAT,   It makes perfect sense. The Breen    homeworld is a frozen wasteland.    This place is about fifty degrees    too hot for them.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+296,KIRA,   Are you saying you approve of what    they're doing?,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+297,DUKAT,   Not at all. But I admire their    ingenuity.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+298,KIRA,   What is it?,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+299,KIRA ,   It's her.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+300,DUKAT,        My daughter.,56   EXT. DOZARIA MOUNTAINS - DAY ,DOZARIA MOUNTAIN,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+301,KIRA,   We're going to need some help.    I'll stay here and keep an eye on    things while you go back to D.S.    Nine and get reinforcements.,A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATIO,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+302,DUKAT,        I have a better idea. You go back    to the station and I'll stay here.,A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATIO,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+303,KIRA,"   I'm sending you back, Dukat.    That's an order.",A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATIO,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+304,DUKAT,   And I hate to refuse it. But I'm    afraid I have to. You're welcome    to file an official protest with    the Cardassian military when we    get back.,A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATIO,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+305,KIRA,   There's no way I'm leaving you    alone here.,A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATIO,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+306,DUKAT,"   Then I suggest we devise a plan to    rescue the prisoners. Together.    You need me, Major.",A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATIO,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+307,KIRA,"   Maybe I do. But if you hurt that    girl... I promise, I'll kill you.",A62   EXT. DOZARIA MOUNTAINS LOCATION - DAY,DOZARIA MOUNTAINS LOCATIO,EXT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+308,KIRA,        Don't make any noise. We're here    to help.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+309,HELER,   You're Bajoran.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+310,DUKAT,   Gather as many prisoners as you    can. Have them meet us here.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+311,KIRA,   How many Breen guards are there?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+312,HELER,   I'm not sure. There are always at    least eight in the mines.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+313,KIRA,   How many prisoners?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+314,HELER,   There're only thirty-one of us   left.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+315,KIRA,   What about Lorit Akrem? Did he   make it?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+316,HELER,   He died in a cave-in. Two years   ago.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+317,HELER,   You knew him?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+318,KIRA,   He was a friend.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+319,DUKAT,"   My condolences, major. But we   don't have time for this.       Tell me where I can find Tora   Ziyal.",62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+320,KIRA,   Don't tell him anything.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+321,HELER,       A Cardassian.       I don't understand.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+322,KIRA,   There's a peace treaty.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+323,HELER,   You mean the Occupation is    over?,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+324,DUKAT,   I need to find the girl. Tell me    where she is.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+325,KIRA,   Dukat.,62   INT. DILITHIUM MINE - CHAMBER,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+326,DUKAT,   Tora Ziyal. Where is she?,67   INT. DILITHIUM MINE - PASSAGEWAY,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 327,KIRA,        Go get the rest of the prisoners.    I'll meet you at the entrance to    the mine.,68   INT. DILITHIUM MINE - CHAMBER (OPTICAL) ,DILITHIUM MINE - CHAMBER,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-328,DUKAT,   Ziyal.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-329,ZIYAL,   Father?,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-330,ZIYAL,   It's really you. Mother said    you'd come.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-331,KIRA ,"   Dukat, no.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-332,ZIYAL,"   Father, what's wrong?",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-333,KIRA,"   I'm warning you, Dukat. Don't do    it.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-334,DUKAT,   I have no choice.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-335,KIRA,"   There's always a choice. You    don't want to do this. If you    did, you never would've told me    about Ziyal.        Now put the rifle down.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-336,DUKAT,   No.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-337,ZIYAL,   The Cardassian prisoners... they    told me this would happen. ,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-338,ZIYAL ,   That you'd never let me go home.    But I didn't believe them.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-339,KIRA,"   Ziyal, run.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-340,ZIYAL,        I used to dream about you coming    to save me. It's what kept me    alive.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-341,DUKAT,       Ziyal...,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-342,ZIYAL,"   If I can't be with you, I'd rather    die.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-343,DUKAT,        Let's go home.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MINE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+328,DUKAT,   Ziyal.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+329,ZIYAL,   Father?,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+330,ZIYAL,   It's really you. Mother said    you'd come.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+331,KIRA ,"   Dukat, no.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+332,ZIYAL,"   Father, what's wrong?",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+333,KIRA,"   I'm warning you, Dukat. Don't do    it.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+334,DUKAT,   I have no choice.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+335,KIRA,"   There's always a choice. You    don't want to do this. If you    did, you never would've told me    about Ziyal.        Now put the rifle down.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+336,DUKAT,   No.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+337,ZIYAL,   The Cardassian prisoners... they    told me this would happen. ,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+338,ZIYAL ,   That you'd never let me go home.    But I didn't believe them.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+339,KIRA,"   Ziyal, run.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+340,ZIYAL,        I used to dream about you coming    to save me. It's what kept me    alive.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+341,DUKAT,       Ziyal...,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+342,ZIYAL,"   If I can't be with you, I'd rather    die.",71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+343,DUKAT,        Let's go home.,71   INT. DILITHIUM MINE - WELL ROOM ,DILITHIUM MIN,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 344,SISKO,   Kasidy.,82   INT. CARGO BAY,CARGO BAY,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 345,KASIDY,"   Hello, Ben. Hold this a second.",82   INT. CARGO BAY,CARGO BAY,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 346,SISKO,"   Listen, about that job with the    Bajoran Commerce Ministry...",82   INT. CARGO BAY,CARGO BAY,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
@@ -365,17 +365,17 @@
 363,KASIDY,"   You're a good man, Benjamin Sisko.    But you've got a lot to learn     about women... especially this     one.",82   INT. CARGO BAY,CARGO BAY,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 364,KASIDY,   I'll see you when I get back. You     can help me pick out quarters.,82   INT. CARGO BAY,CARGO BAY,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
 365,SISKO,   I'll be there.,82   INT. CARGO BAY,CARGO BAY,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-366,DAX,   So what was it like... all that     time alone with Dukat?,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-367,KIRA,   I've had better weeks.         But I'll never forget the look on     his face when he sat on that sand-    spine.,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-368,DAX,   I wish I'd been there.,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-369,DUKAT ,   Major...,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-370,KIRA,   Dukat. Where's Ziyal?,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-371,DUKAT,   Waiting for me aboard my ship.     We'll be leaving for Cardassia     shortly.,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-372,DAX,   I think I'll leave you two alone.,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-373,DUKAT,"   I just wanted to say... thank you,     major. For a most interesting     journey.",83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-374,KIRA,   You're taking Ziyal back to     Cardassia with you.,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-375,DUKAT,"   After six years, she deserves a     home... And a father.",83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-376,KIRA,         Won't that make things difficult     for you?,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-377,DUKAT,"   I wouldn't be surprised.         If I had to guess, I'd say my wife     will leave me, my family will     disown me, and I'll be stripped of     my rank and transferred to some     hellish backwater post.",83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-378,KIRA,         But it'll be worth it.,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
-379,DUKAT,   I'll let you know.,83   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+366,DAX,   So what was it like... all that     time alone with Dukat?,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+367,KIRA,   I've had better weeks.         But I'll never forget the look on     his face when he sat on that sand-    spine.,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+368,DAX,   I wish I'd been there.,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+369,DUKAT ,   Major...,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+370,KIRA,   Dukat. Where's Ziyal?,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+371,DUKAT,   Waiting for me aboard my ship.     We'll be leaving for Cardassia     shortly.,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+372,DAX,   I think I'll leave you two alone.,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+373,DUKAT,"   I just wanted to say... thank you,     major. For a most interesting     journey.",83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+374,KIRA,   You're taking Ziyal back to     Cardassia with you.,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+375,DUKAT,"   After six years, she deserves a     home... And a father.",83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+376,KIRA,         Won't that make things difficult     for you?,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+377,DUKAT,"   I wouldn't be surprised.         If I had to guess, I'd say my wife     will leave me, my family will     disown me, and I'll be stripped of     my rank and transferred to some     hellish backwater post.",83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+378,KIRA,         But it'll be worth it.,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt
+379,DUKAT,   I'll let you know.,83   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Indiscretion,1995-08-18,Deep Space Nine,477.txt

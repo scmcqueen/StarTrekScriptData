@@ -193,9 +193,9 @@
 191,WOMAN,   No... please... don't...,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 192,COMPUTER,   Plasma venting system will engage   in... eighty seconds.,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 193,TROI,   Worf... ?,28   INT. NACELLE CONTROL (OPTICAL),NACELLE CONTROL,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-194,TROI,"   Worf, where are you?",34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-195,WORF,   Counselor... are you all right --,34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-196,TROI,   Get me out of here...,34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTROL,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+194,TROI,"   Worf, where are you?",34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTRO,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+195,WORF,   Counselor... are you all right --,34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTRO,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+196,TROI,   Get me out of here...,34   INT. NACELLE CONTROL - CONTINUOUS,NACELLE CONTRO,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 197,PICARD,   Do you remember anything else?,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 198,TROI,   I saw a tool crate on the floor...   it was labeled Utopia Planitia.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 199,DATA,   The shipyard where the Enterprise   was built.,38   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
@@ -271,20 +271,20 @@
 269,TROI,   Yes. We should.,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 270,TROI,   See you in the morning...,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 271,WORF,   Yes...,44   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-272,WORF,   Deanna...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-273,TROI,   Hello...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-274,WORF,   Breakfast is ready...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-275,TROI,   Mmm... that sounds good...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-276,TROI,       But it can wait...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-277,TROI,       Why didn't we do this a long time   ago... ?,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-278,BEVERLY,   Crusher to Counselor Troi.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-279,TROI,"   Yes, Doctor.",45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-280,BEVERLY,   I've synthesized the inhibitor;   you can come to Sickbay whenever   you're ready.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-281,TROI,   Acknowledged.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-282,BEVERLY,   Crusher to Lieutenant Worf.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-283,WORF,"   Worf, here.",45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-284,BEVERLY,   The medical supplies are ready to   be taken to the cargo bay for   transport.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-285,WORF,   I will be there shortly.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+272,WORF,   Deanna...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+273,TROI,   Hello...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+274,WORF,   Breakfast is ready...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+275,TROI,   Mmm... that sounds good...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+276,TROI,       But it can wait...,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+277,TROI,       Why didn't we do this a long time   ago... ?,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+278,BEVERLY,   Crusher to Counselor Troi.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+279,TROI,"   Yes, Doctor.",45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+280,BEVERLY,   I've synthesized the inhibitor;   you can come to Sickbay whenever   you're ready.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+281,TROI,   Acknowledged.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+282,BEVERLY,   Crusher to Lieutenant Worf.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+283,WORF,"   Worf, here.",45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+284,BEVERLY,   The medical supplies are ready to   be taken to the cargo bay for   transport.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+285,WORF,   I will be there shortly.,45   INT. TROI'S QUARTERS - THE NEXT MORNING,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 286,BEVERLY,   There... you should start feeling   the effect immediately.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 287,TROI,   How completely will it suppress my   empathic abilities?,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 288,BEVERLY,   It's hard to say for sure... I can   raise the dosage if you find it's   not enough.,46   INT. SICKBAY,SICKBAY,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
@@ -362,16 +362,16 @@
 360,TROI,   I'll be waiting for you...,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 361,TROI,       Deck eight.,61   INT. TURBOLIFT,TURBOLIFT,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 362,TROI,   Come in.,62   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-363,TROI,   Security to Counselor Troi's   quarters.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-364,COM,   Acknowledged.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-365,PIERCE,   I don't understand... Lieutenant   Worf said you wanted to talk to me   about something.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-366,TROI,   Where is he?,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-367,PIERCE,   He said he had to go somewhere.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-368,TROI,       Troi to Worf.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-369,TROI,   Computer...,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-370,TROI,   Where is Lieutenant Worf?,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-371,COMPUTER,   Lieutenant Worf is in Ensign   Calloway's quarters.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
-372,TROI,   Take Lieutenant Pierce to his   quarters and hold him there.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+363,TROI,   Security to Counselor Troi's   quarters.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+364,COM,   Acknowledged.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+365,PIERCE,   I don't understand... Lieutenant   Worf said you wanted to talk to me   about something.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+366,TROI,   Where is he?,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+367,PIERCE,   He said he had to go somewhere.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+368,TROI,       Troi to Worf.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+369,TROI,   Computer...,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+370,TROI,   Where is Lieutenant Worf?,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+371,COMPUTER,   Lieutenant Worf is in Ensign   Calloway's quarters.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
+372,TROI,   Take Lieutenant Pierce to his   quarters and hold him there.,63   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 373,TROI,"   Security override, authorization   Troi Delta-two-nine.",64   INT. CORRIDOR,CORRIDOR,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 374,TROI,   Worf...,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt
 375,TROI,       Stop it --,65   INT. ENSIGN CALLOWAY'S QUARTERS (OPTICAL),ENSIGN CALLOWAY'S QUARTERS,INT.,Eye of the Beholder,1993-12-21,The Next Generation,270.txt

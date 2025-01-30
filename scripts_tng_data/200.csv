@@ -44,12 +44,12 @@
 42,GOWRON,   And if they attempt to block my   installation?,6	INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 43,PICARD,   I can only assure you that I will   deal with any challenge according   to Klingon law.,6	INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 44,GOWRON,   I fear that will not be enough.,6	INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-45,PICARD,"   Mister Worf, please escort our   guest to the transporter room.",7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-46,PICARD,"   Mister Data, begin monitoring   Romulan activity along the Neutral   Zone. Have the outpost stations   there start sending us their   tactical reports.",7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-47,DATA,"   Yes, sir.",7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-48,PICARD,   The Duras family is preparing to   move against Gowron.,7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-49,RIKER,   Backed by Romulans?,7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-50,PICARD,   I don't know. But there's too   much history between the Duras    and the Romulans   to discount the possibility.,7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+45,PICARD,"   Mister Worf, please escort our   guest to the transporter room.",7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+46,PICARD,"   Mister Data, begin monitoring   Romulan activity along the Neutral   Zone. Have the outpost stations   there start sending us their   tactical reports.",7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+47,DATA,"   Yes, sir.",7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+48,PICARD,   The Duras family is preparing to   move against Gowron.,7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+49,RIKER,   Backed by Romulans?,7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+50,PICARD,   I don't know. But there's too   much history between the Duras    and the Romulans   to discount the possibility.,7	INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 51,WORF,       Dismissed.,7A	INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 52,WORF,       I would speak with you.,7A	INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 53,GOWRON,   I do not hear the words of a   traitor.,7A	INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
@@ -101,26 +101,26 @@
 99,PICARD,   Mister Worf...       Qapla!,12	INT. READY ROOM,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 100,PICARD,       And good luck.,12	INT. READY ROOM,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 101,WORF ,"   Lieutenant Worf, personal log,   stardate 44996.1. I have located   the Klingon ship on which my   brother Kurn serves as captain   and have arranged to join him.",13	EXT. SPACE - BIRD OF PREY (OPTICAL),SPACE - BIRD OF PREY,EXT.,Redemption,1991-04-08,The Next Generation,200.txt
-102,KURN,"   It has been too long, my brother.",14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-103,WORF,       Too long.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-104,WORF,   There is much to discuss. I have   asked Gowron to restore our family   honor. He has refused.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-105,KURN,   No matter. Gowron will not live   to see the day he leads the   Council...,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-106,WORF,   What do you mean?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-107,KURN,"   He stands alone, surrounded by   his enemies. Lursa and B-Etor   will have him killed... and if   they don't, I will.",14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-108,WORF,   You will... ?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-109,KURN,   Gowron is weak... and the family   of Duras must never be allowed   to lead the Council. All of our   leaders... have failed us. They   no longer deserve our loyalty.       It is time to sweep away the old   Council... and put a new one in   its place.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-110,WORF,   How could this be done?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-111,KURN,"   I already have the support of four   squadron commanders in strategic   sectors. When the time comes,   they will follow me.       Join us, Worf... we will usher   in a new era, and regain our   family name.",14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-112,WORF,   No.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-113,KURN,   What?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-114,WORF,   Gowron has completed the rite of   succession... it is our duty to   support him.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-115,KURN,       Gowron spits in your face when   you ask him to give back what is   rightfully ours... and you would   support him?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-116,WORF,   We cannot regain honor by acting   dishonorably.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-117,KURN,       I will not support Gowron.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-118,WORF,"       I am the elder brother, Kurn...   I speak for our family.",14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-119,WORF,   We will back Gowron.       But not now. Not yet. We will   wait. Until Gowron feels the   grasp of his enemies around his   throat. Then we will offer him   our support. And the price will   be the restoration of our family   name.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-120,KURN,   It will be difficult to convince   my allies to back Gowron.       But I will try. I must go to the   Mempa sector and meet with the   other squadron commanders.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-121,WORF,   Contact me when you have gained   their support.       Then I will be ready for Gowron.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PREY,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+102,KURN,"   It has been too long, my brother.",14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+103,WORF,       Too long.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+104,WORF,   There is much to discuss. I have   asked Gowron to restore our family   honor. He has refused.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+105,KURN,   No matter. Gowron will not live   to see the day he leads the   Council...,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+106,WORF,   What do you mean?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+107,KURN,"   He stands alone, surrounded by   his enemies. Lursa and B-Etor   will have him killed... and if   they don't, I will.",14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+108,WORF,   You will... ?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+109,KURN,   Gowron is weak... and the family   of Duras must never be allowed   to lead the Council. All of our   leaders... have failed us. They   no longer deserve our loyalty.       It is time to sweep away the old   Council... and put a new one in   its place.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+110,WORF,   How could this be done?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+111,KURN,"   I already have the support of four   squadron commanders in strategic   sectors. When the time comes,   they will follow me.       Join us, Worf... we will usher   in a new era, and regain our   family name.",14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+112,WORF,   No.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+113,KURN,   What?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+114,WORF,   Gowron has completed the rite of   succession... it is our duty to   support him.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+115,KURN,       Gowron spits in your face when   you ask him to give back what is   rightfully ours... and you would   support him?,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+116,WORF,   We cannot regain honor by acting   dishonorably.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+117,KURN,       I will not support Gowron.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+118,WORF,"       I am the elder brother, Kurn...   I speak for our family.",14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+119,WORF,   We will back Gowron.       But not now. Not yet. We will   wait. Until Gowron feels the   grasp of his enemies around his   throat. Then we will offer him   our support. And the price will   be the restoration of our family   name.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+120,KURN,   It will be difficult to convince   my allies to back Gowron.       But I will try. I must go to the   Mempa sector and meet with the   other squadron commanders.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+121,WORF,   Contact me when you have gained   their support.       Then I will be ready for Gowron.,14	INT. BIRD OF PREY - READY ROOM,BIRD OF PRE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 122,K'TAL,       naDev ghoS! ,16	INT. GREAT HALL,GREAT HALL,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 123,K'TAL,   Have you reached a decision   regarding the succession of   power?,16	INT. GREAT HALL,GREAT HALL,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 124,PICARD,       Qaja plu d'itch jung. La woq you   ghir klas qimha. Gowron. Doj   hon. Doj hon.,16	INT. GREAT HALL,GREAT HALL,INT.,Redemption,1991-04-08,The Next Generation,200.txt
@@ -168,25 +168,25 @@
 166,PICARD,       Mister Worf... have you cancelled   your leave?,21	INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 167,WORF,"   No, sir.",21	INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 168,PICARD,   Lieutenant... join me in my ready   room.,21	INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-169,PICARD,   You are planning to use our files   on the Khitomer massacre as   evidence against Duras' father?,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-170,WORF,"   Yes, sir.",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-171,PICARD,   Mister Worf... do you not see an   inherent conflict of interest...,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-172,WORF,"   Sir, these records can help me   prove that my father was falsely   accused of treason.",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-173,PICARD,   You are using your position as   a Starfleet officer to affect   political change on your   planet... there could not be a   worse compromise of our   fundamental principles...,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-174,WORF,   Captain... you urged me to fight   this battle...,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-175,PICARD,"       Yes, I know. I understand your   motives, and you know I support   your goals, but...",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-176,WORF,   Do not tie my hands now... I   must be able to prove my father's   innocence. The Federation records   will do that.,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-177,PICARD,   Mister Worf... Mister Worf...       Mister Worf...,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-178,PICARD,"   Here I am lecturing you on a   conflict of interest while I'm   desperately trying to avoid one   of my own. Do you think I wish   to allow the Duras family to   solidify their hold on the   Council? Do you think I cannot   see the implications for the   Federation? And good Lord, Duras   tried to have me killed!       All of my instincts... my   training... my very being as a   Starfleet officer are at odds with   my responsibilities as arbiter   for the Klingon High Council.       We walk the same tightrope between   two worlds... you and I. We must   try our very best to keep those   worlds clearly separate... or we   shall certainly fall.",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-179,WORF,"   Yes, sir.",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-180,PICARD,   As far as these records from   Khitomer are concerned...,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-181,PICARD,"       I will make the Federation   records on the Khitomer massacre   available... to anyone who wants   them... the High Council, the   Duras family... anyone.",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-182,WORF,"       Thank you, sir.",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-183,PICARD,"   Mister Worf, this is as far as   I can go.",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-184,RIKER,   Riker to Captain Picard.,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-185,PICARD,"       Yes, Number One.",22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-186,RIKER,   There's a message coming in for   you from the surface. It's coded   personal.,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-187,PICARD,   Send it through.,22	INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+169,PICARD,   You are planning to use our files   on the Khitomer massacre as   evidence against Duras' father?,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+170,WORF,"   Yes, sir.",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+171,PICARD,   Mister Worf... do you not see an   inherent conflict of interest...,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+172,WORF,"   Sir, these records can help me   prove that my father was falsely   accused of treason.",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+173,PICARD,   You are using your position as   a Starfleet officer to affect   political change on your   planet... there could not be a   worse compromise of our   fundamental principles...,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+174,WORF,   Captain... you urged me to fight   this battle...,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+175,PICARD,"       Yes, I know. I understand your   motives, and you know I support   your goals, but...",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+176,WORF,   Do not tie my hands now... I   must be able to prove my father's   innocence. The Federation records   will do that.,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+177,PICARD,   Mister Worf... Mister Worf...       Mister Worf...,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+178,PICARD,"   Here I am lecturing you on a   conflict of interest while I'm   desperately trying to avoid one   of my own. Do you think I wish   to allow the Duras family to   solidify their hold on the   Council? Do you think I cannot   see the implications for the   Federation? And good Lord, Duras   tried to have me killed!       All of my instincts... my   training... my very being as a   Starfleet officer are at odds with   my responsibilities as arbiter   for the Klingon High Council.       We walk the same tightrope between   two worlds... you and I. We must   try our very best to keep those   worlds clearly separate... or we   shall certainly fall.",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+179,WORF,"   Yes, sir.",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+180,PICARD,   As far as these records from   Khitomer are concerned...,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+181,PICARD,"       I will make the Federation   records on the Khitomer massacre   available... to anyone who wants   them... the High Council, the   Duras family... anyone.",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+182,WORF,"       Thank you, sir.",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+183,PICARD,"   Mister Worf, this is as far as   I can go.",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+184,RIKER,   Riker to Captain Picard.,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+185,PICARD,"       Yes, Number One.",22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+186,RIKER,   There's a message coming in for   you from the surface. It's coded   personal.,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+187,PICARD,   Send it through.,22	INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 188,LURSA,"   Welcome, Captain.",24	INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 189,LURSA,"   Something to drink? Tea... Earl   Grey, perhaps?",24	INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 190,PICARD,   Yes... thank you.,24	INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,Redemption,1991-04-08,The Next Generation,200.txt
@@ -226,40 +226,40 @@
 224,GOWRON,   Can you not see what you are   doing... are you blind to what   they represent... are there so   few noble Klingons left?,27	INT. GREAT HALL,GREAT HALL,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 225,GOWRON,   Then go... your blood will paint   the way to the future.,27	INT. GREAT HALL,GREAT HALL,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 226,TORAL,   Remember this day.,27	INT. GREAT HALL,GREAT HALL,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-227,GOWRON,       Your message said it was urgent.   What do you want?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-228,WORF,"   Your forces are weak, Gowron...   you will need help to fight the   family of Duras.",29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-229,GOWRON,       From one dishonored Klingon...,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-230,WORF,   I offer you four Klingon   squadrons.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-231,GOWRON,   Why would they follow you... a   Starfleet officer?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-232,WORF,"   They are pledged to support...   my brother, Kurn.",29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-233,GOWRON,       Kurn is your brother?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-234,WORF,   His true bloodline was kept   hidden to protect him.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-235,GOWRON,   Kurn will follow me? He has   opposed me in the past.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-236,WORF,   I am the elder brother... he will   do as I say.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-237,GOWRON,   What is it you want in return?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-238,WORF,   You know my price.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-239,GOWRON,"   The return of your honor. For   the support of four squadrons... ?   No, that will not be enough.   The Duras family controls most   of the fleet.       We must have Federation help.",29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-240,WORF,   They will not intervene.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-241,GOWRON,   Perhaps not yet... but Starfleet   Command will listen to Picard...   and Picard listens to you.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-242,WORF,   I can ask nothing more of him in   this matter.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-243,GOWRON,   What?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-244,WORF,   My duty as a Starfleet officer---,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-245,GOWRON,       You come to me and demand the   restoration of your family   honor... and now you hide behind   Human excuses!,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-246,GOWRON,"       What are you, Worf? Do you   tremble and quake with fear at   the approach of combat... hoping   to talk your way out of a fight...   like a Human... or do you hear   the cry of the warrior... calling   you to battle... calling you to   glory... like a Klingon?       Are you one of us?",29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+227,GOWRON,       Your message said it was urgent.   What do you want?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+228,WORF,"   Your forces are weak, Gowron...   you will need help to fight the   family of Duras.",29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+229,GOWRON,       From one dishonored Klingon...,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+230,WORF,   I offer you four Klingon   squadrons.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+231,GOWRON,   Why would they follow you... a   Starfleet officer?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+232,WORF,"   They are pledged to support...   my brother, Kurn.",29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+233,GOWRON,       Kurn is your brother?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+234,WORF,   His true bloodline was kept   hidden to protect him.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+235,GOWRON,   Kurn will follow me? He has   opposed me in the past.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+236,WORF,   I am the elder brother... he will   do as I say.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+237,GOWRON,   What is it you want in return?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+238,WORF,   You know my price.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+239,GOWRON,"   The return of your honor. For   the support of four squadrons... ?   No, that will not be enough.   The Duras family controls most   of the fleet.       We must have Federation help.",29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+240,WORF,   They will not intervene.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+241,GOWRON,   Perhaps not yet... but Starfleet   Command will listen to Picard...   and Picard listens to you.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+242,WORF,   I can ask nothing more of him in   this matter.,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+243,GOWRON,   What?,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+244,WORF,   My duty as a Starfleet officer---,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+245,GOWRON,       You come to me and demand the   restoration of your family   honor... and now you hide behind   Human excuses!,29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+246,GOWRON,"       What are you, Worf? Do you   tremble and quake with fear at   the approach of combat... hoping   to talk your way out of a fight...   like a Human... or do you hear   the cry of the warrior... calling   you to battle... calling you to   glory... like a Klingon?       Are you one of us?",29	INT. KLINGON CRUISER - READY ROOM,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 247,GOWRON,   Status!,32	INT. KLINGON CRUISER - BRIDGE (OPTICAL),KLINGON CRUISER - BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 248,FIRST OFFICER,       Aft shields down...,32	INT. KLINGON CRUISER - BRIDGE (OPTICAL),KLINGON CRUISER - BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 249,HELMSMAN,   Warp coils damaged...,32	INT. KLINGON CRUISER - BRIDGE (OPTICAL),KLINGON CRUISER - BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-250,PICARD,   Report.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-251,RIKER,   We're still trying to sort it out.   A Klingon Bird of Prey just   decloaked and fired on the   Bortas. Neither ship is answering   our hail.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-252,PICARD,   Worf is still aboard the Bortas.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-253,DATA,   A second Bird of Prey is   decloaking bearing two-four-seven   mark three-one-nine.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-254,PICARD,   Go to Red Alert.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-255,DATA,   The second ship is joining the   attack on the Bortas.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-256,PICARD,   It's begun.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-257,GOWRON,       Send an emergency signal to any   loyal ships!,35	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-258,HELMSMAN,   Impulse engines not responding!,35	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-259,GOWRON,       Engage emergency override!,35	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-260,WORF,   Override engaged! Disruptors   still not responding!,35	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+250,PICARD,   Report.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+251,RIKER,   We're still trying to sort it out.   A Klingon Bird of Prey just   decloaked and fired on the   Bortas. Neither ship is answering   our hail.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+252,PICARD,   Worf is still aboard the Bortas.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+253,DATA,   A second Bird of Prey is   decloaking bearing two-four-seven   mark three-one-nine.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+254,PICARD,   Go to Red Alert.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+255,DATA,   The second ship is joining the   attack on the Bortas.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+256,PICARD,   It's begun.,33	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+257,GOWRON,       Send an emergency signal to any   loyal ships!,35	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+258,HELMSMAN,   Impulse engines not responding!,35	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+259,GOWRON,       Engage emergency override!,35	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+260,WORF,   Override engaged! Disruptors   still not responding!,35	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 261,DATA,"       The Bortas is sustaining heavy   damage, Captain. Her aft shields   have collapsed... life support   fluctuating...",36	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 262,PICARD,   The Bortas should have twice the   firepower of a Bird of Prey.,36	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 263,RIKER,       Her weapons systems were hit   pretty hard... they haven't   brought them back on-line yet.,36	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
@@ -270,25 +270,25 @@
 268,PICARD,   If we come to his aid... we'll   be dragging the Federation into   a Klingon civil war.,36	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 269,RIKER,       What about Worf?,36	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 270,PICARD,       Ensign... engage.,36	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-271,FIRST OFFICER,   The port shields are still down.,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-272,WORF,   Disruptors on-line!,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-273,GOWRON,    (moving to command     chair)   Lock on target.,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-274,WORF,   No!,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-275,WORF,"       Their sensors will detect the   weapons lock. If they think   we're helpless, they'll try to   board the ship.     ",38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-276,WORF ,   I can aim and fire disruptors   manually when they drop their   shields.,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-277,GOWRON,   GhoS! ,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-278,WORF,   Thirty-five thousand kellicams.       Twenty thousand kellicams... now   within transporter range.,40	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-279,GOWRON,       SuH... ,40	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-280,WORF,   They're dropping shields!,40	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-281,GOWRON,       BaH! ,40	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-282,WORF,       Engaging computer control...   firing on second target!,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-283,FIRST OFFICER,       They were able to raise shields   in time... minor damage only.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-284,WORF,   Disruptors off-line!,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-285,GOWRON,   All power to shields.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-286,FIRST OFFICER,   Shields failing!,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-287,WORF,   Incoming message.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-288,GOWRON,   On viewer.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-289,KURN,   This is Captain Kurn of the   Hegh'ta. We come to defend the   Empire... and to follow the banner   of Gowron.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+271,FIRST OFFICER,   The port shields are still down.,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+272,WORF,   Disruptors on-line!,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+273,GOWRON,    (moving to command     chair)   Lock on target.,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+274,WORF,   No!,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+275,WORF,"       Their sensors will detect the   weapons lock. If they think   we're helpless, they'll try to   board the ship.     ",38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+276,WORF ,   I can aim and fire disruptors   manually when they drop their   shields.,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+277,GOWRON,   GhoS! ,38	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+278,WORF,   Thirty-five thousand kellicams.       Twenty thousand kellicams... now   within transporter range.,40	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+279,GOWRON,       SuH... ,40	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+280,WORF,   They're dropping shields!,40	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+281,GOWRON,       BaH! ,40	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+282,WORF,       Engaging computer control...   firing on second target!,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+283,FIRST OFFICER,       They were able to raise shields   in time... minor damage only.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+284,WORF,   Disruptors off-line!,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+285,GOWRON,   All power to shields.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+286,FIRST OFFICER,   Shields failing!,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+287,WORF,   Incoming message.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+288,GOWRON,   On viewer.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+289,KURN,   This is Captain Kurn of the   Hegh'ta. We come to defend the   Empire... and to follow the banner   of Gowron.,44	INT. KLINGON CRUISER - BRIDGE,KLINGON CRUISE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 290,WORF,   The enemy has sustained major   damage to its life support   systems... They have disengaged.,44D	EXT. SPACE - KLINGON SHIPS (OPTICAL),SPACE - KLINGON SHIPS,EXT.,Redemption,1991-04-08,The Next Generation,200.txt
 291,GOWRON,"   You have done well, Commander   Kurn. Lursa and B'Etor have   moved more quickly than I   anticipated. We shall not   underestimate them again.       Meet us at the Great Hall.",44D	EXT. SPACE - KLINGON SHIPS (OPTICAL),SPACE - KLINGON SHIPS,EXT.,Redemption,1991-04-08,The Next Generation,200.txt
 292,GOWRON,"    (continuing, to First     Officer)   Advise the Enterprise that their   delegation is welcome to attend...   my installation as leader.",44D	EXT. SPACE - KLINGON SHIPS (OPTICAL),SPACE - KLINGON SHIPS,EXT.,Redemption,1991-04-08,The Next Generation,200.txt
@@ -318,25 +318,25 @@
 316,PICARD,   You are ordered to return to duty   immediately.,50	INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 317,WORF,   Then... I must resign my   commission as a Starfleet officer.,50	INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 318,GOWRON,   I will await you aboard the   Bortas.,50	INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-319,WORF,   Enter.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-320,PICARD,   Am I intruding?,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-321,WORF,"   No, sir.",53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-322,PICARD,   I understand... that you'll be   serving aboard the Bortas.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-323,WORF,   As weapons officer.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-324,PICARD,   Your tactical knowledge and   experience should serve them well.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-325,WORF,"   Thank you, sir.",53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-326,PICARD,"   Are you certain you've made the   right decision, Worf?",53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-327,WORF,   Yes.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-328,WORF,       I was rescued from Khitomer by   humans... raised and... loved by   human parents. I have lived among   humans for most of my life...   fought at their sides.       But I was born Klingon. My heart   is of that world. I do hear the   cry of the warrior...       I belong with my people.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-329,PICARD,   Being the only Klingon ever to   serve in Starfleet... gave you   a singular distinction.     ,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-330,PICARD ,   But I always felt that the most   unique thing about you was   your... humanity.       Compassion... generosity...   fairness... You took some of the   best qualities of humanity and   made them part of you. The   result... was a man I was proud   to call one of my officers.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-331,PICARD,       I'll have your belongings   transported to the Bortas.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-332,WORF,   Thank you...,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTERS,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-333,PICARD,   Attention on deck!,55	INT. CORRIDOR - ON TURBOLIFT DOORS,CORRIDOR,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-334,WORF,"   Permission to leave the ship, sir?",57	INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-335,PICARD,   Permission granted.       Qapla',57	INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-336,WORF,   Good-bye.,57	INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
-337,RIKER,   Dismissed.,57	INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROOM,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+319,WORF,   Enter.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+320,PICARD,   Am I intruding?,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+321,WORF,"   No, sir.",53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+322,PICARD,   I understand... that you'll be   serving aboard the Bortas.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+323,WORF,   As weapons officer.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+324,PICARD,   Your tactical knowledge and   experience should serve them well.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+325,WORF,"   Thank you, sir.",53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+326,PICARD,"   Are you certain you've made the   right decision, Worf?",53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+327,WORF,   Yes.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+328,WORF,       I was rescued from Khitomer by   humans... raised and... loved by   human parents. I have lived among   humans for most of my life...   fought at their sides.       But I was born Klingon. My heart   is of that world. I do hear the   cry of the warrior...       I belong with my people.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+329,PICARD,   Being the only Klingon ever to   serve in Starfleet... gave you   a singular distinction.     ,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+330,PICARD ,   But I always felt that the most   unique thing about you was   your... humanity.       Compassion... generosity...   fairness... You took some of the   best qualities of humanity and   made them part of you. The   result... was a man I was proud   to call one of my officers.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+331,PICARD,       I'll have your belongings   transported to the Bortas.,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+332,WORF,   Thank you...,53	INT. WORF'S QUARTERS - CLOSE ON WORF,WORF'S QUARTER,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+333,PICARD,   Attention on deck!,55	INT. CORRIDOR - ON TURBOLIFT DOORS,CORRIDO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+334,WORF,"   Permission to leave the ship, sir?",57	INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+335,PICARD,   Permission granted.       Qapla',57	INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+336,WORF,   Good-bye.,57	INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
+337,RIKER,   Dismissed.,57	INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROO,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 338,MOVAR,   Picard has rejected Gowron's plea   for help.       The Enterprise has left orbit.,61	INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 339,TORAL,       Coward! He didn't have the   courage to face us. The   Federation is---,61	INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,Redemption,1991-04-08,The Next Generation,200.txt
 340,WOMAN,"   Celebrate later, Toral.       We should not discount Jean-Luc   Picard yet. He is human...",61	INT. DURAS FAMILY HOME,DURAS FAMILY HOME,INT.,Redemption,1991-04-08,The Next Generation,200.txt

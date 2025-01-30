@@ -41,9 +41,9 @@
 39,BASHIR,   No...,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 40,EPRAN,   The Blight's quickened in her.    There's nothing you can do.,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 41,EPRAN,   You should leave here. Now. Go    back to where you came from and    forget about this place.,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-42,BASHIR,"   The painkiller I gave her isn't    having much effect.    (giving her another    hypo)   These people's neurophysiology is   so different from ours, I doubt   this ""blight"" is any danger to us.",13   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-43,DAX,       I got us transportation to the    hospital.,13   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-44,BASHIR,       How'd you manage that? These    aren't the friendliest people I've    ever met.,13   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+42,BASHIR,"   The painkiller I gave her isn't    having much effect.    (giving her another    hypo)   These people's neurophysiology is   so different from ours, I doubt   this ""blight"" is any danger to us.",13   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+43,DAX,       I got us transportation to the    hospital.,13   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+44,BASHIR,       How'd you manage that? These    aren't the friendliest people I've    ever met.,13   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 45,DAX,   This is a hospital... ?,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 46,ATTENDANT,   She's quickened...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 47,ATTENDANT,   Take her to Trevean.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
@@ -92,24 +92,24 @@
 90,BASHIR,   I thought this was a hospital...    that you were a healer...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 91,TREVEAN,   I am. I take away pain.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 92,TREVEAN,   You disrupted Tamar's death; it    was supposed to be a very special    moment for his family. I'm going    to have to ask you to leave.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-93,DAX,   I found the distress beacon in an    abandoned building not far from    here. It has its own power    source. My guess is that it's    been repeating the same message    for the last two hundred years.,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-94,BASHIR,       There's nothing for us to do    here... we should go...,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-95,A small voice from off-screen interrupts.EKORIA ,   Are you really a doctor?,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-96,BASHIR,   Yes.,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-97,EKORIA,   I've never met a doctor before.,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-98,DAX,   Now you have.        What do you think?,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-99,EKORIA,   They say there's a woman in    Nykalia who makes a potion that    numbs the nerves. She gives it to    people so they can withstand the    pain of quickening and live a    little longer. But Nykalia is so    far away.,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-100,BASHIR,       When are you due?,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-101,EKORIA,   Not for another two months.,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-102,DAX,       That's not so long...,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-103,EKORIA,   You never know when the quickening    will come to you.,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-104,BASHIR,   I'm Julian. What's your name?,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-105,EKORIA,   Ekoria...,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-106,DAX,   I'm Jadzia....,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-107,EKORIA,   Did you come here to help us?,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-108,BASHIR,   No one here seems to want our    help.,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-109,EKORIA,"   I do. And I know others who'd    welcome it, too.",15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-110,KIRA,   Kira to Away Team.,15   EXT. RUINED CITY - DAY,RUINED CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+93,DAX,   I found the distress beacon in an    abandoned building not far from    here. It has its own power    source. My guess is that it's    been repeating the same message    for the last two hundred years.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+94,BASHIR,       There's nothing for us to do    here... we should go...,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+95,A small voice from off-screen interrupts.EKORIA ,   Are you really a doctor?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+96,BASHIR,   Yes.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+97,EKORIA,   I've never met a doctor before.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+98,DAX,   Now you have.        What do you think?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+99,EKORIA,   They say there's a woman in    Nykalia who makes a potion that    numbs the nerves. She gives it to    people so they can withstand the    pain of quickening and live a    little longer. But Nykalia is so    far away.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+100,BASHIR,       When are you due?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+101,EKORIA,   Not for another two months.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+102,DAX,       That's not so long...,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+103,EKORIA,   You never know when the quickening    will come to you.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+104,BASHIR,   I'm Julian. What's your name?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+105,EKORIA,   Ekoria...,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+106,DAX,   I'm Jadzia....,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+107,EKORIA,   Did you come here to help us?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+108,BASHIR,   No one here seems to want our    help.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+109,EKORIA,"   I do. And I know others who'd    welcome it, too.",15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+110,KIRA,   Kira to Away Team.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 111,DAX,   Go ahead.,15A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 112,KIRA,   Sensors just picked up two   Jem'Hadar ships headed this way...,15A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 113,KIRA,       The Jem'Hadar are leaving the    Kendi system... looks like they're    heading for the Obatta cluster.,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
@@ -122,38 +122,38 @@
 120,DAX,   We might be able to do the same    thing here.,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 121,KIRA,   All right... it's worth a try.   But we can't risk the Jem'Hadar    detecting the runabout.       I'll take it to the Jenkata   Nebula...,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 122,BASHIR,"   Come back for us in a week. With    any luck, we'll have a cure by then.",16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-123,EKORIA,   I'm sorry I don't have more space    to offer you.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-124,BASHIR,   Don't be. This is fine.       Can I use this table for my    equipment?,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-125,EKORIA,   Whatever you need.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-126,DAX,   Did you do this?,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-127,EKORIA,   My husband did. He died last    winter.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-128,EKORIA,"   It's what he imagined our world    used to be like. He painted a    mural similar to it on the side of    a building near here.       He traded a good pair of boots for    the paint he needed.       He wanted to show people how    things were, he thought it might   give them something to work    toward...",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-129,DAX,       Maybe later you could take us to    see it...,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-130,EKORIA,       All right.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-131,DAX,   Well... looks like we have    ourselves a clinic.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-132,BASHIR,   The first thing I need to do is    run a complete biospectral    analysis on an asymptomatic    individual.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-133,DAX,"   Loosely translated, that means he    needs a volunteer.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-134,DAX,"   Great.       If you'll just have a seat, the    doctor will be with you in a    moment.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-135,DAX,"       They love to keep you waiting, it    makes them feel important.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-136,BASHIR,   There it is.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-137,DAX,       Let me see.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-138,EKORIA,   What's happened?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-139,DAX,       We've isolated the virus.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-140,EKORIA,   Is that a good thing?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-141,BASHIR,"   It means we can start analyzing    its molecular structure, look for    binding sites so we can tailor an    antigen.",18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-142,DAX,    (translating for Ekoria     with a smile)   It's a very good thing.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-143,BASHIR,       I'm going to start mapping the    nucleotides. Do you know how to    run a protein sequencer?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-144,DAX,   I think so.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-145,EKORIA,   I hope you two are hungry.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-146,BASHIR,       Starving.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-147,EKORIA,   Good.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-148,DAX,   Looks like a feast.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-149,EKORIA,   It was supposed to be.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-150,DAX,   What do you mean?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-151,EKORIA,   Nothing. Do you like Takana root    tea?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-152,DAX,"       Ekoria, where did you get all this    food?",18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-153,EKORIA,       I've been saving it for the    hospital... for my death.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-154,EKORIA,       Something tells me I'm not going    to need it anymore...,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+123,EKORIA,   I'm sorry I don't have more space    to offer you.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+124,BASHIR,   Don't be. This is fine.       Can I use this table for my    equipment?,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+125,EKORIA,   Whatever you need.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+126,DAX,   Did you do this?,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+127,EKORIA,   My husband did. He died last    winter.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+128,EKORIA,"   It's what he imagined our world    used to be like. He painted a    mural similar to it on the side of    a building near here.       He traded a good pair of boots for    the paint he needed.       He wanted to show people how    things were, he thought it might   give them something to work    toward...",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+129,DAX,       Maybe later you could take us to    see it...,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+130,EKORIA,       All right.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+131,DAX,   Well... looks like we have    ourselves a clinic.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+132,BASHIR,   The first thing I need to do is    run a complete biospectral    analysis on an asymptomatic    individual.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+133,DAX,"   Loosely translated, that means he    needs a volunteer.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+134,DAX,"   Great.       If you'll just have a seat, the    doctor will be with you in a    moment.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+135,DAX,"       They love to keep you waiting, it    makes them feel important.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+136,BASHIR,   There it is.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+137,DAX,       Let me see.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+138,EKORIA,   What's happened?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+139,DAX,       We've isolated the virus.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+140,EKORIA,   Is that a good thing?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+141,BASHIR,"   It means we can start analyzing    its molecular structure, look for    binding sites so we can tailor an    antigen.",18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+142,DAX,    (translating for Ekoria     with a smile)   It's a very good thing.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+143,BASHIR,       I'm going to start mapping the    nucleotides. Do you know how to    run a protein sequencer?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+144,DAX,   I think so.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+145,EKORIA,   I hope you two are hungry.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+146,BASHIR,       Starving.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+147,EKORIA,   Good.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+148,DAX,   Looks like a feast.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+149,EKORIA,   It was supposed to be.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+150,DAX,   What do you mean?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+151,EKORIA,   Nothing. Do you like Takana root    tea?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+152,DAX,"       Ekoria, where did you get all this    food?",18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+153,EKORIA,       I've been saving it for the    hospital... for my death.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+154,EKORIA,       Something tells me I'm not going    to need it anymore...,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 155,BASHIR,   She's not interested either.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 156,EKORIA,   I don't understand why you need    people who've quickened to make    your cure.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 157,BASHIR,       I need to study the progression of    the--,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
@@ -203,138 +203,138 @@
 201,EPRAN,   I suppose you're going to want to    bleed me?,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 202,BASHIR,   Just a little.,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 203,EPRAN,       I canceled my death for you... I    was really looking forward to it.,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-204,BASHIR,"   All right, everyone gets three   milligrams, including you.",21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-205,BASHIR,   Perfect.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-206,DAX,   There... this'll dull the pain.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-207,EPRAN,   I like your spots.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-208,DAX,   You told me that yesterday.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-209,EPRAN,       I still like them.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-210,DAX,   Epran has stopped responding to   the cordrazine... I had to put him   in an inhibitor field.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-211,BASHIR,       He's farther along than anyone    here. But I'm hoping he'll be the    first to respond to the antigen.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-212,BASHIR,       Think of it... she might very well    be holding the cure in her hand.    Do you think we should tell her    what she's giving them?,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-213,DAX,   She's nervous enough about using    that hypo. It's better to wait    till we're positive.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-214,BASHIR,   I suppose.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-215,DAX,   Why don't you take a break?    You've been working nonstop for    days.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-216,EKORIA,   Dax wanted me to tell you that    Epran's white blood cell count has    gone up another twelve percent.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-217,BASHIR,   That's great news.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-218,EKORIA,   It is?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-219,BASHIR,   Trust me.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-220,EKORIA,       I do. He turns and sees the admiring look on her face...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-221,EKORIA,   I did from the start. I don't    really know why.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-222,BASHIR,       I'd like to think it's my bedside    manner...       Doctors and nurses are supposed to    project an air of caring    competence.       You were doing it in there.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-223,EKORIA,       Me?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-224,BASHIR,   I've been watching you. You're    very good with the patients.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-225,EKORIA,   I'm just trying to be kind.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-226,BASHIR,   A lot of people don't want to be    around the sick. It reminds them    of their own mortality.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-227,EKORIA,   It doesn't bother you?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-228,BASHIR,"   Sometimes... but I think I'd    rather confront mortality than    hide from it. When you make    someone well, it's like you're   chasing Death off, making him wait    for another day.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-229,EKORIA,   But Death comes to everyone in the    end.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-230,BASHIR,   Not to Kukalaka.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-231,EKORIA,   Kuka-who?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-232,BASHIR,   My first patient. A teddy bear.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-233,EKORIA,   What's that?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-234,BASHIR,"   Sort of a soft puppet, stuffed    with wadded cotton. When I was a    boy, I took him everywhere I went.    After a few years, he started to    get a little threadbare, until one    day his leg tore open and his    insides spilled out and made a    mess. My mother was all set to    throw him out, but I wouldn't have    it. At the tender age of five, I    performed my first surgery. I re-   stuffed him, and stitched his leg    closed. From then on, I did    whatever it took to keep Kukalaka    together. I must've sewn,    stitched or patched every square    inch of him.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-235,EKORIA,   Why were you so determined to keep    him in one piece?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-236,BASHIR,"   I wouldn't be much of a doctor if    I gave up on a patient, would I?",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-237,EKORIA,   Where's Kukalaka now?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-238,BASHIR,       Some closet somewhere...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-239,BASHIR,       On a shelf in my room...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-240,DAX ,   Julian.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-241,DAX,"   Get in here, now.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-242,BASHIR,       Something's causing the virus to    mutate...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-243,DAX,   Could it be a reaction to the    antigen?,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-244,BASHIR,       I don't see how -- I need a micro-   cellular scanner.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-245,EPRAN,       Bashir...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-246,EKORIA,   He'll take care of you... you're    going to be all right...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-247,BASHIR,   My god... it's the EM fields from    our instruments.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-248,BASHIR,       Shut everything down -- now!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-249,DAX,"       All right, everything's off.",27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-250,BASHIR,   The mutation rate hasn't slowed...    the effect must be cumulative...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-251,LATIA,       Help me...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-252,BASHIR,       Give everyone four milligrams of    cordrazine...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-253,EKORIA,   His heart's stopped!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-254,BASHIR,   Come on... breathe...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-255,BASHIR,   Breathe.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-256,DAX,   Julian...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-257,DAX,   Julian.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-258,TREVEAN,       What have you done?,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-259,LATIA,   Help me...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-260,LATIA,"   Trevean, please...",27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-261,TREVEAN,   Get out of my way!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-262,LATIA,       Trevean...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-263,TREVEAN,   She's asking for me! You have no    right to interfere!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-264,LATIA,       Thank you...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-265,BASHIR,"   I remember running a hematology    scan on Epran the other day...    there were changes in the viral    base-pair sequence, and I didn't    know why...",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-266,DAX,   There's no way you could've known    it was because of our instruments.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-267,BASHIR,   I should've put it together... I    should've run more tests. But I    was so bent on finding a cure I    ignored the warning signs.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-268,DAX,   That's not fair and you know it.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-269,BASHIR,"       Isn't it?       I'm going to let you in on a    little secret, Jadzia. I was    looking forward to tomorrow: to    seeing Kira again and casually    asking, ""how was the Nebula?""    By the way, I cured that Blight    thing those people were having.",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-270,DAX,"   It's not a crime to believe in    yourself, Julian.",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-271,BASHIR,       They believed in me. Look what it    got them.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-272,BASHIR,"   Trevean was right... there is no    cure... the Dominion made sure of    that.       But I was so arrogant, I thought    I could find one in a week...",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-273,DAX,   Maybe it was arrogant to think    that. But it's even more arrogant    to think there isn't a cure just    because you couldn't find it.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-274,EKORIA ,   I'm glad you got a chance to see    it before you left.,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-275,BASHIR,       Ekoria...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-276,EKORIA,   I thought I was going to make    it... I really did...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-277,BASHIR,   I'm sorry...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-278,EKORIA,   Don't be... you gave me hope. I    hadn't felt that since my husband    died...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-279,EKORIA,   I'm going to see Trevean    tomorrow... I wish you could be    there...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-280,BASHIR,   I have to go...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-281,EKORIA,   I understand...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-282,EKORIA,   Good-bye...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-283,BASHIR,"   Ekoria, wait...",32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CITY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+204,BASHIR,"   All right, everyone gets three   milligrams, including you.",21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+205,BASHIR,   Perfect.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+206,DAX,   There... this'll dull the pain.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+207,EPRAN,   I like your spots.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+208,DAX,   You told me that yesterday.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+209,EPRAN,       I still like them.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+210,DAX,   Epran has stopped responding to   the cordrazine... I had to put him   in an inhibitor field.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+211,BASHIR,       He's farther along than anyone    here. But I'm hoping he'll be the    first to respond to the antigen.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+212,BASHIR,       Think of it... she might very well    be holding the cure in her hand.    Do you think we should tell her    what she's giving them?,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+213,DAX,   She's nervous enough about using    that hypo. It's better to wait    till we're positive.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+214,BASHIR,   I suppose.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+215,DAX,   Why don't you take a break?    You've been working nonstop for    days.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+216,EKORIA,   Dax wanted me to tell you that    Epran's white blood cell count has    gone up another twelve percent.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+217,BASHIR,   That's great news.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+218,EKORIA,   It is?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+219,BASHIR,   Trust me.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+220,EKORIA,       I do. He turns and sees the admiring look on her face...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+221,EKORIA,   I did from the start. I don't    really know why.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+222,BASHIR,       I'd like to think it's my bedside    manner...       Doctors and nurses are supposed to    project an air of caring    competence.       You were doing it in there.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+223,EKORIA,       Me?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+224,BASHIR,   I've been watching you. You're    very good with the patients.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+225,EKORIA,   I'm just trying to be kind.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+226,BASHIR,   A lot of people don't want to be    around the sick. It reminds them    of their own mortality.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+227,EKORIA,   It doesn't bother you?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+228,BASHIR,"   Sometimes... but I think I'd    rather confront mortality than    hide from it. When you make    someone well, it's like you're   chasing Death off, making him wait    for another day.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+229,EKORIA,   But Death comes to everyone in the    end.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+230,BASHIR,   Not to Kukalaka.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+231,EKORIA,   Kuka-who?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+232,BASHIR,   My first patient. A teddy bear.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+233,EKORIA,   What's that?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+234,BASHIR,"   Sort of a soft puppet, stuffed    with wadded cotton. When I was a    boy, I took him everywhere I went.    After a few years, he started to    get a little threadbare, until one    day his leg tore open and his    insides spilled out and made a    mess. My mother was all set to    throw him out, but I wouldn't have    it. At the tender age of five, I    performed my first surgery. I re-   stuffed him, and stitched his leg    closed. From then on, I did    whatever it took to keep Kukalaka    together. I must've sewn,    stitched or patched every square    inch of him.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+235,EKORIA,   Why were you so determined to keep    him in one piece?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+236,BASHIR,"   I wouldn't be much of a doctor if    I gave up on a patient, would I?",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+237,EKORIA,   Where's Kukalaka now?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+238,BASHIR,       Some closet somewhere...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+239,BASHIR,       On a shelf in my room...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+240,DAX ,   Julian.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+241,DAX,"   Get in here, now.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+242,BASHIR,       Something's causing the virus to    mutate...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+243,DAX,   Could it be a reaction to the    antigen?,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+244,BASHIR,       I don't see how -- I need a micro-   cellular scanner.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+245,EPRAN,       Bashir...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+246,EKORIA,   He'll take care of you... you're    going to be all right...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+247,BASHIR,   My god... it's the EM fields from    our instruments.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+248,BASHIR,       Shut everything down -- now!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+249,DAX,"       All right, everything's off.",27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+250,BASHIR,   The mutation rate hasn't slowed...    the effect must be cumulative...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+251,LATIA,       Help me...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+252,BASHIR,       Give everyone four milligrams of    cordrazine...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+253,EKORIA,   His heart's stopped!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+254,BASHIR,   Come on... breathe...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+255,BASHIR,   Breathe.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+256,DAX,   Julian...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+257,DAX,   Julian.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+258,TREVEAN,       What have you done?,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+259,LATIA,   Help me...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+260,LATIA,"   Trevean, please...",27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+261,TREVEAN,   Get out of my way!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+262,LATIA,       Trevean...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+263,TREVEAN,   She's asking for me! You have no    right to interfere!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+264,LATIA,       Thank you...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+265,BASHIR,"   I remember running a hematology    scan on Epran the other day...    there were changes in the viral    base-pair sequence, and I didn't    know why...",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+266,DAX,   There's no way you could've known    it was because of our instruments.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+267,BASHIR,   I should've put it together... I    should've run more tests. But I    was so bent on finding a cure I    ignored the warning signs.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+268,DAX,   That's not fair and you know it.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+269,BASHIR,"       Isn't it?       I'm going to let you in on a    little secret, Jadzia. I was    looking forward to tomorrow: to    seeing Kira again and casually    asking, ""how was the Nebula?""    By the way, I cured that Blight    thing those people were having.",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+270,DAX,"   It's not a crime to believe in    yourself, Julian.",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+271,BASHIR,       They believed in me. Look what it    got them.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+272,BASHIR,"   Trevean was right... there is no    cure... the Dominion made sure of    that.       But I was so arrogant, I thought    I could find one in a week...",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+273,DAX,   Maybe it was arrogant to think    that. But it's even more arrogant    to think there isn't a cure just    because you couldn't find it.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+274,EKORIA ,   I'm glad you got a chance to see    it before you left.,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+275,BASHIR,       Ekoria...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+276,EKORIA,   I thought I was going to make    it... I really did...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+277,BASHIR,   I'm sorry...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+278,EKORIA,   Don't be... you gave me hope. I    hadn't felt that since my husband    died...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+279,EKORIA,   I'm going to see Trevean    tomorrow... I wish you could be    there...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+280,BASHIR,   I have to go...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+281,EKORIA,   I understand...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+282,EKORIA,   Good-bye...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+283,BASHIR,"   Ekoria, wait...",32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 284,KIRA,   Are you sure about this?,35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 285,BASHIR,   I can't leave these people... not    now.,35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 286,KIRA,"   Whenever you're ready, contact the    station and we'll have a runabout    here within days.",35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 287,DAX,"   You know what really worries me,    Julian... ?       That without me, you won't have    anyone to translate for you...",35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 288,DAX,       Good luck...,35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-289,EKORIA,   What is it?,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-290,BASHIR,       There's not a trace of the antigen   I gave you in your bloodstream...    (unable to figure out     why)   Your immune system must've    rejected it...,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-291,BASHIR,   Is it bad?,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-292,BASHIR,"   I can give you another hypo, but    you've got a lot of cordrazine in    your system already. It might be   hard on the baby's metabolism.",37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-293,EKORIA,   I'll wait...,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-294,EKORIA ,   What is that smell?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-295,BASHIR,   I'm making a salve for your    lesions...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-296,EKORIA,       As long as I don't have to drink    it...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-297,BASHIR,   How do you feel?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-298,EKORIA,   I've been better...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-299,BASHIR,   Can you sit up for me?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-300,BASHIR,   Breathe...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-301,BASHIR,   Again...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-302,BASHIR,   Let's see how the baby's doing...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-303,BASHIR,   His head's over here now...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-304,EKORIA,   I'm not surprised... feels like    he's been turning somersaults in    there...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-305,BASHIR,   His heart's getting stronger every    day... I'd say another six    weeks...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-306,EKORIA,   I'll never make it that long...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-307,BASHIR,       I can induce labor in another two   weeks... the baby will be old   enough then.,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-308,EKORIA,   Two weeks... ,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-309,EKORIA,   Trevean...       Am I... dead?,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-310,TREVEAN,       Is that what you want?,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-311,TREVEAN,   I can end your suffering...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-312,TREVEAN,   Your child will die having known    nothing but peace...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-313,EKORIA,   No... he deserves a chance to    live...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-314,TREVEAN,   The Blight will take him in the    end.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-315,BASHIR ,   I thought you let people come    to you...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-316,BASHIR,   I didn't realize you made house    calls.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-317,TREVEAN,   I was concerned that she might be    too weak to come.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-318,BASHIR,"   I don't understand why you're so    obsessed with death, Trevean.    From what I've seen, you've lived    with the Blight longer than anyone else.",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-319,TREVEAN,   Yes... and I've seen more    suffering than anyone else.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-320,TREVEAN,"   Good-bye, Ekoria... I hope you    live to see your baby...",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-321,EKORIA,"   Trevean means well... he's a kind    man, in his own way...",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-322,BASHIR,   That's it... push.,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-323,BASHIR,   Good... now breathe...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-324,BASHIR,   I can see his head. I'm going to    turn it around... gather your    strength for one last push...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-325,BASHIR,   Ekoria... ,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-326,EKORIA,   He's beautiful...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-327,BASHIR,   My god...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-328,BASHIR,   He doesn't have any lesions...       The antigen must've been absorbed   through the placenta... he doesn't   have the Blight...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-329,EKORIA,   It's a miracle...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-330,TREVEAN,   I see that I misjudged you...,45   INT. HOSPITAL - DAWN,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-331,BASHIR,   Every pregnant woman should be    inoculated as soon as possible...    the antigen will protect their    babies...,45   INT. HOSPITAL - DAWN,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-332,TREVEAN,   I'll see that it's done...,45   INT. HOSPITAL - DAWN,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-333,BASHIR,   Ekoria had no family left...,45   INT. HOSPITAL - DAWN,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-334,TREVEAN,   I'd be happy to raise her son as    my own...,45   INT. HOSPITAL - DAWN,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
-335,BASHIR,       I think she'd have liked that...,45   INT. HOSPITAL - DAWN,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+289,EKORIA,   What is it?,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+290,BASHIR,       There's not a trace of the antigen   I gave you in your bloodstream...    (unable to figure out     why)   Your immune system must've    rejected it...,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+291,BASHIR,   Is it bad?,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+292,BASHIR,"   I can give you another hypo, but    you've got a lot of cordrazine in    your system already. It might be   hard on the baby's metabolism.",37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+293,EKORIA,   I'll wait...,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+294,EKORIA ,   What is that smell?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+295,BASHIR,   I'm making a salve for your    lesions...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+296,EKORIA,       As long as I don't have to drink    it...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+297,BASHIR,   How do you feel?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+298,EKORIA,   I've been better...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+299,BASHIR,   Can you sit up for me?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+300,BASHIR,   Breathe...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+301,BASHIR,   Again...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+302,BASHIR,   Let's see how the baby's doing...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+303,BASHIR,   His head's over here now...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+304,EKORIA,   I'm not surprised... feels like    he's been turning somersaults in    there...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+305,BASHIR,   His heart's getting stronger every    day... I'd say another six    weeks...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+306,EKORIA,   I'll never make it that long...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+307,BASHIR,       I can induce labor in another two   weeks... the baby will be old   enough then.,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+308,EKORIA,   Two weeks... ,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+309,EKORIA,   Trevean...       Am I... dead?,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+310,TREVEAN,       Is that what you want?,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+311,TREVEAN,   I can end your suffering...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+312,TREVEAN,   Your child will die having known    nothing but peace...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+313,EKORIA,   No... he deserves a chance to    live...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+314,TREVEAN,   The Blight will take him in the    end.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+315,BASHIR ,   I thought you let people come    to you...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+316,BASHIR,   I didn't realize you made house    calls.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+317,TREVEAN,   I was concerned that she might be    too weak to come.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+318,BASHIR,"   I don't understand why you're so    obsessed with death, Trevean.    From what I've seen, you've lived    with the Blight longer than anyone else.",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+319,TREVEAN,   Yes... and I've seen more    suffering than anyone else.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+320,TREVEAN,"   Good-bye, Ekoria... I hope you    live to see your baby...",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+321,EKORIA,"   Trevean means well... he's a kind    man, in his own way...",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+322,BASHIR,   That's it... push.,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+323,BASHIR,   Good... now breathe...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+324,BASHIR,   I can see his head. I'm going to    turn it around... gather your    strength for one last push...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+325,BASHIR,   Ekoria... ,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+326,EKORIA,   He's beautiful...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+327,BASHIR,   My god...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+328,BASHIR,   He doesn't have any lesions...       The antigen must've been absorbed   through the placenta... he doesn't   have the Blight...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+329,EKORIA,   It's a miracle...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+330,TREVEAN,   I see that I misjudged you...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+331,BASHIR,   Every pregnant woman should be    inoculated as soon as possible...    the antigen will protect their    babies...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+332,TREVEAN,   I'll see that it's done...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+333,BASHIR,   Ekoria had no family left...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+334,TREVEAN,   I'd be happy to raise her son as    my own...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
+335,BASHIR,       I think she'd have liked that...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 336,COMPUTER,   Nucleotide sequencing complete...    viral reproduction normal.,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 337,BASHIR,   Let's try an A-to-C base pair    reshuffling...,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt
 338,SISKO ,   Doctor...,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt

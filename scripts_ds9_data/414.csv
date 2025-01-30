@@ -26,11 +26,11 @@
 24,SISKO,   Relax Major.  This isn't my first    time up at the plate.,4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 25,KIRA,    (doesn't get the     baseball reference)   Sir...,4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 26,SISKO,"       Besides, I'll have you by my side to    help me avoid making mistakes.",4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-27,SISKO,   What can you tell me about the Paqu    Tetrarch?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVEN,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-28,KIRA,   Not much.  The Paqu choose to avoid    contact with outsiders.,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVEN,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-29,VARIS,   Commander Sisko?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVEN,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-30,SISKO,   Yes?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVEN,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-31,VARIS,"   I am Varis Sul, Tetrarch of the Paqu.",5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVEN,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+27,SISKO,   What can you tell me about the Paqu    Tetrarch?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+28,KIRA,   Not much.  The Paqu choose to avoid    contact with outsiders.,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+29,VARIS,   Commander Sisko?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+30,SISKO,   Yes?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+31,VARIS,"   I am Varis Sul, Tetrarch of the Paqu.",5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 32,BASHIR,"       Chief, may I ask you a question?",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 33,O'BRIEN,       Of course.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 34,BASHIR,   And I'd like an honest answer.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
@@ -72,39 +72,39 @@
 70,FAREN,   Others?,9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 71,O'BRIEN,   You said the entire village was in    jeopardy?,9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 72,FAREN,"   It is.    (looking down at the     old man)   If he dies, we all die.",9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-73,WOBAN,   I'll say this for the Cardassians.     Their replicators make a fine larish    pie.,11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-74,VARIS,"       I didn't come here to eat, Commander.",11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-75,SISKO,"   Then let's talk.  The official    negotiations won't begin until    tonight, but I thought it might be a    good idea for us to meet informally    to see where we all stand.",11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-76,SISKO,"   According to the treaty that has    existed between you for the past    ninety years...       ""... the border separating the Paqu    and the Navot shall forever be the    river Glyrhond.""",11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-77,WOBAN,   That's correct.,11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-78,KIRA,"       Well, at least we all agree on    something.",11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-79,SISKO,"   Now, as I understand it, during the    occupation the Cardassians diverted    the river for use in their mining    operations.  As a result the Glyrhond    now flows twenty kilometers west of    its former position.",11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-80,WOBAN,   Twenty kilometers into Navot    territory.,11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-81,VARIS,   It's Paqu territory now.       You read the treaty Commander.  The    river is our common border.,11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-82,WOBAN,   The treaty says nothing about stealing    land.  If your father was alive he'd    give us back what was ours.,11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-83,VARIS,"   My father would have done no such    thing.  Besides, I'm Tetrarch now.       I will not be pressured into betraying    my people.",11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-84,QUARK,"   Let's see, one glass of Gamzian wine,    two Bajoran synthales...       And a Trixian bubble juice for the    little lady.",11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-85,VARIS,   I'm not a little lady.,11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-86,QUARK,   I'm still charging her for that drink.,11   INT. QUARK'S - A BACK ROOM,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-87,JAKE,"   Nog, we've been sitting here over an    hour.  Let's go play some ball in    the Holosuite.",12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-88,NOG,   No.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-89,JAKE,   Why not?,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-90,NOG,   Because baseball is slow and boring...,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-91,JAKE,   And you can't hit my curve ball.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-92,NOG,   It's a stupid game that even humans    stopped playing hundreds of years    ago.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-93,JAKE,   Maybe.  But you still can't hit my    curve ball.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-94,ODO ,   Mister Sisko...,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-95,ODO,"   Nog, I thought I told you no dangling    over the Promenade.",12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-96,JAKE,"   We're not gonna fall, Odo.",12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-97,NOG,   We can see things better from down    here.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-98,ODO,"   And what, may I ask, is so important    to see?",12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-99,JAKE,   Nothing.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-100,ODO,"   In that case, you can see ""nothing""    just as well from up here.       Now, on your feet.",12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-101,ODO,   Thank you.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-102,JAKE,   Are you gonna come to the Holosuite    with me or not?  We can have Buck    Bokai hit a few out to us.  He was    the greatest hitter of all time.       I'll even let you use my glove.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-103,NOG,       I've never seen anything so beautiful.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-104,JAKE,       She's all right.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-105,NOG,   All right?       I have to meet her.,12   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+73,WOBAN,   I'll say this for the Cardassians.     Their replicators make a fine larish    pie.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+74,VARIS,"       I didn't come here to eat, Commander.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+75,SISKO,"   Then let's talk.  The official    negotiations won't begin until    tonight, but I thought it might be a    good idea for us to meet informally    to see where we all stand.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+76,SISKO,"   According to the treaty that has    existed between you for the past    ninety years...       ""... the border separating the Paqu    and the Navot shall forever be the    river Glyrhond.""",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+77,WOBAN,   That's correct.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+78,KIRA,"       Well, at least we all agree on    something.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+79,SISKO,"   Now, as I understand it, during the    occupation the Cardassians diverted    the river for use in their mining    operations.  As a result the Glyrhond    now flows twenty kilometers west of    its former position.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+80,WOBAN,   Twenty kilometers into Navot    territory.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+81,VARIS,   It's Paqu territory now.       You read the treaty Commander.  The    river is our common border.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+82,WOBAN,   The treaty says nothing about stealing    land.  If your father was alive he'd    give us back what was ours.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+83,VARIS,"   My father would have done no such    thing.  Besides, I'm Tetrarch now.       I will not be pressured into betraying    my people.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+84,QUARK,"   Let's see, one glass of Gamzian wine,    two Bajoran synthales...       And a Trixian bubble juice for the    little lady.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+85,VARIS,   I'm not a little lady.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+86,QUARK,   I'm still charging her for that drink.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+87,JAKE,"   Nog, we've been sitting here over an    hour.  Let's go play some ball in    the Holosuite.",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+88,NOG,   No.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+89,JAKE,   Why not?,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+90,NOG,   Because baseball is slow and boring...,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+91,JAKE,   And you can't hit my curve ball.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+92,NOG,   It's a stupid game that even humans    stopped playing hundreds of years    ago.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+93,JAKE,   Maybe.  But you still can't hit my    curve ball.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+94,ODO ,   Mister Sisko...,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+95,ODO,"   Nog, I thought I told you no dangling    over the Promenade.",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+96,JAKE,"   We're not gonna fall, Odo.",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+97,NOG,   We can see things better from down    here.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+98,ODO,"   And what, may I ask, is so important    to see?",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+99,JAKE,   Nothing.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+100,ODO,"   In that case, you can see ""nothing""    just as well from up here.       Now, on your feet.",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+101,ODO,   Thank you.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+102,JAKE,   Are you gonna come to the Holosuite    with me or not?  We can have Buck    Bokai hit a few out to us.  He was    the greatest hitter of all time.       I'll even let you use my glove.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+103,NOG,       I've never seen anything so beautiful.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+104,JAKE,       She's all right.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+105,NOG,   All right?       I have to meet her.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 106,SIRAH,   The Dal'Rok...,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 107,BASHIR,   Easy now.  Try not to exert yourself.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 108,SIRAH,"   Hovath, the time... ?",17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
@@ -124,17 +124,17 @@
 122,BASHIR,       See that he stays in bed.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 123,O'BRIEN,   What was that all about?,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 124,BASHIR,   I haven't a clue.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-125,FAREN,   The Sirah... how is he?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-126,BASHIR,   I wish I had better news.  He's    suffering from systemic organ failure    brought on by an accelerated rate of    cellular decay... his body is    surrendering to old age.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-127,FAREN,       Is there anything you can do?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-128,BASHIR,"   I can keep him comfortable and    relatively free of pain.  Other than    that, it's only a matter of time.       I'm sorry.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-129,FAREN,   But we need him.  The Dal'Rok will    be here soon.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-130,O'BRIEN,   What's the Dal'Rok?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-131,FAREN,   It's a terrible creature that lives    in the woods just north of the    village.  Every year at the end of    harvest it appears.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-132,BASHIR,   And you say it's coming tonight.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-133,FAREN,"       Yes, it always comes for five nights.     This will be the fourth.  And only    the Sirah is strong enough to defeat    it.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-134,BASHIR,"   Right now, the Sirah isn't strong    enough to get out of bed.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-135,FAREN,"   If what you say is true, this village    will be destroyed tonight.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+125,FAREN,   The Sirah... how is he?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+126,BASHIR,   I wish I had better news.  He's    suffering from systemic organ failure    brought on by an accelerated rate of    cellular decay... his body is    surrendering to old age.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+127,FAREN,       Is there anything you can do?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+128,BASHIR,"   I can keep him comfortable and    relatively free of pain.  Other than    that, it's only a matter of time.       I'm sorry.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+129,FAREN,   But we need him.  The Dal'Rok will    be here soon.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+130,O'BRIEN,   What's the Dal'Rok?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+131,FAREN,   It's a terrible creature that lives    in the woods just north of the    village.  Every year at the end of    harvest it appears.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+132,BASHIR,   And you say it's coming tonight.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+133,FAREN,"       Yes, it always comes for five nights.     This will be the fourth.  And only    the Sirah is strong enough to defeat    it.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+134,BASHIR,"   Right now, the Sirah isn't strong    enough to get out of bed.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+135,FAREN,"   If what you say is true, this village    will be destroyed tonight.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 136,JAKE,   You're sure this is the place?,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 137,NOG,"   You saw the readout.  There's only    one female her age visiting the    station, and these are her quarters.",20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 138,NOG,   Well go ahead.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
@@ -162,58 +162,58 @@
 160,JAKE,   Unless you're too busy or something...,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 161,VARIS,   Not at the moment.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 162,JAKE,   Then let's go.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-163,BASHIR,"   Listen to me, Sirah.  You must return    to bed.  To be out here... in your    condition...",23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-164,SIRAH,"   Your concern touches me, Doctor.       But I'm in the hands of the prophets.",23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-165,O'BRIEN,   Strange.  I'm not registering any    atmospheric disturbance...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-166,SIRAH,   The Dal'Rok wakes.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-167,CROWD,   The Dal'Rok... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-168,SIRAH,   We are ready.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-169,CROWD,   Yes... we're ready... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-170,SIRAH,   In the shadows of the night he    hungers... With the hatred of the    ancients he rages... From the twisted    pit of chaos he approaches...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-171,CROWD,       The Dal'Rok... the Dal'Rok... it's    here...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-172,BASHIR,   Is it alive?,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-173,O'BRIEN,   The tricorder's still not registering    anything.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-174,BASHIR,   Could it be some kind of holographic    image?,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-175,O'BRIEN,   I'm not picking up any power source.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-176,SIRAH,   The Dal'Rok's anger is like a wave    crashing down on the village.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-177,CROWD,   Yes... the anger... a wave... we    feel it.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-178,SIRAH,   The weight of its fury threatens to    crush us all.  The Dal'Rok thinks    the village is powerless to defend    itself.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-179,SIRAH,   But the Dal'Rok is mistaken.  The    village is strong.  Much stronger    than the Dal'Rok can ever imagine.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-180,CROWD,   Yes... the village... the village is    strong.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-181,SIRAH,   Our strength... our unity... shall    drive... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-182,CROWD,   The Sirah... Is he hurt... Look out...    The Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-183,O'BRIEN,   Bloody hell.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-184,BASHIR,"   Chief, help me get him down from    here.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-185,SIRAH,   Where is my successor?,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-186,HOVATH,   Sirah...,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-187,SIRAH,   The one the prophets sent.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-188,O'BRIEN,"   Wait a second, you've got the wrong    guy.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-189,SIRAH,       Say as I say... the village shall    not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-190,O'BRIEN,   What?,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-191,SIRAH,   Quickly.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-192,O'BRIEN,       The village shall not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-193,SIRAH,   Louder.  So they can all hear.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-194,O'BRIEN,       The village shall not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-195,SIRAH,"       Despite our fears, we stand our ground    and face the Dal'Rok.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-196,O'BRIEN,"       Despite our fears, we stand our ground    and face the Dal'Rok.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-197,CROWD,   Stand fast.  Face the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-198,O'BRIEN,   The village is strong.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-199,CROWD,   The village is strong.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-200,O'BRIEN,   More powerful than the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-201,CROWD,   More powerful than the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-202,O'BRIEN,   Together we use that power to drive    it away.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-203,CROWD,   Drive it away.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-204,O'BRIEN,   Drive it away!,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-205,CROWD,   Drive it away!,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-206,O'BRIEN ,   The Dal'Rok is defeated.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-207,O'BRIEN,   The village is safe.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-208,CROWD,   The village is safe.  All thanks to    the prophets.  The Sirah.  The Sirah.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-209,BASHIR,   He's dead.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-210,FAREN,   The Sirah has left us.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-211,FAREN,   But the prophets have sent us his    successor.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-212,FAREN,       A new Sirah to tell the story.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-213,CROWD,   A new Sirah... the story... All thanks    to the prophets.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-214,FAREN,   A new Sirah to protect the village.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+163,BASHIR,"   Listen to me, Sirah.  You must return    to bed.  To be out here... in your    condition...",23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+164,SIRAH,"   Your concern touches me, Doctor.       But I'm in the hands of the prophets.",23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+165,O'BRIEN,   Strange.  I'm not registering any    atmospheric disturbance...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+166,SIRAH,   The Dal'Rok wakes.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+167,CROWD,   The Dal'Rok... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+168,SIRAH,   We are ready.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+169,CROWD,   Yes... we're ready... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+170,SIRAH,   In the shadows of the night he    hungers... With the hatred of the    ancients he rages... From the twisted    pit of chaos he approaches...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+171,CROWD,       The Dal'Rok... the Dal'Rok... it's    here...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+172,BASHIR,   Is it alive?,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+173,O'BRIEN,   The tricorder's still not registering    anything.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+174,BASHIR,   Could it be some kind of holographic    image?,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+175,O'BRIEN,   I'm not picking up any power source.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+176,SIRAH,   The Dal'Rok's anger is like a wave    crashing down on the village.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+177,CROWD,   Yes... the anger... a wave... we    feel it.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+178,SIRAH,   The weight of its fury threatens to    crush us all.  The Dal'Rok thinks    the village is powerless to defend    itself.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+179,SIRAH,   But the Dal'Rok is mistaken.  The    village is strong.  Much stronger    than the Dal'Rok can ever imagine.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+180,CROWD,   Yes... the village... the village is    strong.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+181,SIRAH,   Our strength... our unity... shall    drive... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+182,CROWD,   The Sirah... Is he hurt... Look out...    The Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+183,O'BRIEN,   Bloody hell.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+184,BASHIR,"   Chief, help me get him down from    here.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+185,SIRAH,   Where is my successor?,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+186,HOVATH,   Sirah...,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+187,SIRAH,   The one the prophets sent.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+188,O'BRIEN,"   Wait a second, you've got the wrong    guy.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+189,SIRAH,       Say as I say... the village shall    not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+190,O'BRIEN,   What?,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+191,SIRAH,   Quickly.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+192,O'BRIEN,       The village shall not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+193,SIRAH,   Louder.  So they can all hear.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+194,O'BRIEN,       The village shall not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+195,SIRAH,"       Despite our fears, we stand our ground    and face the Dal'Rok.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+196,O'BRIEN,"       Despite our fears, we stand our ground    and face the Dal'Rok.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+197,CROWD,   Stand fast.  Face the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+198,O'BRIEN,   The village is strong.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+199,CROWD,   The village is strong.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+200,O'BRIEN,   More powerful than the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+201,CROWD,   More powerful than the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+202,O'BRIEN,   Together we use that power to drive    it away.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+203,CROWD,   Drive it away.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+204,O'BRIEN,   Drive it away!,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+205,CROWD,   Drive it away!,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+206,O'BRIEN ,   The Dal'Rok is defeated.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+207,O'BRIEN,   The village is safe.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+208,CROWD,   The village is safe.  All thanks to    the prophets.  The Sirah.  The Sirah.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+209,BASHIR,   He's dead.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+210,FAREN,   The Sirah has left us.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+211,FAREN,   But the prophets have sent us his    successor.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+212,FAREN,       A new Sirah to tell the story.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+213,CROWD,   A new Sirah... the story... All thanks    to the prophets.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+214,FAREN,   A new Sirah to protect the village.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 215,QUARK,"   Major, what a pleasant surprise.  I    always look forward to one of your    infrequent visits.",43   INT. QUARK'S,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 216,KIRA,   Spare me the small talk and get me a    star drifter.,43   INT. QUARK'S,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 217,QUARK,"   So, how are the negotiations coming    along?",43   INT. QUARK'S,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
@@ -236,11 +236,11 @@
 234,VARIS,"   What you ""hope"" is no concern of    mine.  Now, anything else you wish    to say to me can be said tomorrow    across the conference table.",44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 235,SISKO,   Varis...,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 236,SISKO,   Are you sure your people are as ready    as you are to die for that land?,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-237,NOG,   Where do you think she is?,44B  INT. PROMENADE - DAY TWO,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-238,JAKE,"   I guess if she's not here, we can    try again at her quarters.",44B  INT. PROMENADE - DAY TWO,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-239,NOG,"   When we find her, I want you to let    me do the talking.",44B  INT. PROMENADE - DAY TWO,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-240,JAKE,   She asks me questions... I answer    them.  What's wrong with that?,44B  INT. PROMENADE - DAY TWO,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-241,NOG,"   Just remember, I saw her first.       She's mine.",44B  INT. PROMENADE - DAY TWO,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+237,NOG,   Where do you think she is?,44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+238,JAKE,"   I guess if she's not here, we can    try again at her quarters.",44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+239,NOG,"   When we find her, I want you to let    me do the talking.",44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+240,JAKE,   She asks me questions... I answer    them.  What's wrong with that?,44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+241,NOG,"   Just remember, I saw her first.       She's mine.",44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 242,JAKE,"   Then, how come you can barely say    two words to her without getting    tongue-tied?",45   INT. PROMENADE STAIRS,PROMENADE STAIRS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 243,NOG,   That's a lie.,45   INT. PROMENADE STAIRS,PROMENADE STAIRS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 244,JAKE,   I've never seen you so nervous.  You    must really like her.,45   INT. PROMENADE STAIRS,PROMENADE STAIRS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
@@ -272,43 +272,43 @@
 270,ODO,   Mister Sisko...,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 271,NOG,       Odo...,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 272,JAKE,   We were just leaving.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-273,BASHIR,       I wonder what was controlling those    energy creatures.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-274,O'BRIEN,"   One thing's certain, it wasn't me.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-275,BASHIR,   Try telling that to the villagers.     They saw the Sirah choose you as his    successor.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-276,O'BRIEN,   He made a mistake.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-277,BASHIR,"   But you saw how he greeted you when    we arrived.  It was as if he were    expecting you.       I'll tell you, Chief, I'm glad you    came along on this mission.  If it    wasn't for you, I'd have just done    what I could for the Sirah and left.     Look at what I'd have missed.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-278,O'BRIEN,   I'm glad you're enjoying yourself...    Julian.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-279,BASHIR,"   Don't worry, Chief, I have faith in    you.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-280,O'BRIEN,       Do you?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-281,BASHIR,"       For all we know, you really were    sent by the prophets.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-282,O'BRIEN,   I was sent by Commander Sisko.       That Dal'Rok... or whatever... will    be returning tonight... and everyone's    counting on me to stop it... Only   trouble is I don't have the slightest    idea how I'm supposed to do that.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-283,FAREN,"   These gifts are for you, Sirah.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-284,O'BRIEN,   Well tell them I don't want...,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-285,BASHIR,       Bring them right in.  Put them    wherever you like.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-286,O'BRIEN,   Now look... Julian...,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-287,BASHIR,"   We're visitors here, Chief.  It    wouldn't be polite to refuse our    hosts.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-288,O'BRIEN,       How can I help you ladies?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-289,BASHIR,"       I think they're the ones offering    services, Chief.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-290,O'BRIEN,"       Now look here, there's been a serious    misunderstanding...",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-291,FAREN,"   Is there a problem, Sirah?",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-292,O'BRIEN,"   No, they're not... well, yes...    they're quite... Look, I have a wife    and daughter back at DS Nine.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-293,FAREN,       Of course.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-294,FAREN,       You must send for them.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-295,O'BRIEN,   Why?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-296,FAREN,   So they can live here with you.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-297,O'BRIEN,"       You're missing the point.  You see,    I'm not staying.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-298,FAREN,   Then who will tell the story?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-299,O'BRIEN,   You'll just have to find someone    else.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-300,FAREN,   But there is no one else.  The Sirah    chose you.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-301,BASHIR,   He made a mistake.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-302,FAREN,"   But what about the Dal'Rok?  Without    your protection, he'll kill us all.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-303,O'BRIEN,"   Look, Faren, I'd like to help, really    I would, but I don't know how.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-304,FAREN,   You must tell the story.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-305,O'BRIEN,"    (sees there's no point     in arguing)   As simple as that, is it?",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-306,FAREN,"   May the prophets grant you victory,    Sirah.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-307,O'BRIEN,   Let's hope so.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-308,BASHIR,   Now what do we do?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-309,O'BRIEN,"   The way I see it, there's only one    way out of this mess.  We have to    find out exactly what this Dal'Rok    is, and destroy it... before it    destroys us.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+273,BASHIR,       I wonder what was controlling those    energy creatures.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+274,O'BRIEN,"   One thing's certain, it wasn't me.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+275,BASHIR,   Try telling that to the villagers.     They saw the Sirah choose you as his    successor.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+276,O'BRIEN,   He made a mistake.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+277,BASHIR,"   But you saw how he greeted you when    we arrived.  It was as if he were    expecting you.       I'll tell you, Chief, I'm glad you    came along on this mission.  If it    wasn't for you, I'd have just done    what I could for the Sirah and left.     Look at what I'd have missed.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+278,O'BRIEN,   I'm glad you're enjoying yourself...    Julian.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+279,BASHIR,"   Don't worry, Chief, I have faith in    you.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+280,O'BRIEN,       Do you?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+281,BASHIR,"       For all we know, you really were    sent by the prophets.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+282,O'BRIEN,   I was sent by Commander Sisko.       That Dal'Rok... or whatever... will    be returning tonight... and everyone's    counting on me to stop it... Only   trouble is I don't have the slightest    idea how I'm supposed to do that.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+283,FAREN,"   These gifts are for you, Sirah.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+284,O'BRIEN,   Well tell them I don't want...,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+285,BASHIR,       Bring them right in.  Put them    wherever you like.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+286,O'BRIEN,   Now look... Julian...,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+287,BASHIR,"   We're visitors here, Chief.  It    wouldn't be polite to refuse our    hosts.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+288,O'BRIEN,       How can I help you ladies?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+289,BASHIR,"       I think they're the ones offering    services, Chief.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+290,O'BRIEN,"       Now look here, there's been a serious    misunderstanding...",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+291,FAREN,"   Is there a problem, Sirah?",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+292,O'BRIEN,"   No, they're not... well, yes...    they're quite... Look, I have a wife    and daughter back at DS Nine.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+293,FAREN,       Of course.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+294,FAREN,       You must send for them.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+295,O'BRIEN,   Why?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+296,FAREN,   So they can live here with you.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+297,O'BRIEN,"       You're missing the point.  You see,    I'm not staying.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+298,FAREN,   Then who will tell the story?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+299,O'BRIEN,   You'll just have to find someone    else.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+300,FAREN,   But there is no one else.  The Sirah    chose you.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+301,BASHIR,   He made a mistake.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+302,FAREN,"   But what about the Dal'Rok?  Without    your protection, he'll kill us all.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+303,O'BRIEN,"   Look, Faren, I'd like to help, really    I would, but I don't know how.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+304,FAREN,   You must tell the story.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+305,O'BRIEN,"    (sees there's no point     in arguing)   As simple as that, is it?",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+306,FAREN,"   May the prophets grant you victory,    Sirah.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+307,O'BRIEN,   Let's hope so.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+308,BASHIR,   Now what do we do?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+309,O'BRIEN,"   The way I see it, there's only one    way out of this mess.  We have to    find out exactly what this Dal'Rok    is, and destroy it... before it    destroys us.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 310,SISKO ,"   Station Log supplemental.  We have    completed a second day of talks    between the Paqu and the Navot.  So    far, we're no closer to finding a    solution than we were when    negotiations began.",55   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 311,VARIS,   Enter.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 312,JAKE,"   Hi, you want to do something?",56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
@@ -339,11 +339,11 @@
 337,NOG,   It'll be funny.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 338,JAKE,   But we can't just walk into    security...,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 339,NOG,   Watch me.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-340,VARIS,       I still don't understand what's so    funny about a bucket.,60   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-341,JAKE,   Odo lives in it.,60   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-342,JAKE,       He's a shape-shifter.  Every sixteen    hours he has to change back to his    original form.,60   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-343,VARIS,   Inside a bucket?,60   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-344,JAKE,   He turns into some kind of liquid.,60   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+340,VARIS,       I still don't understand what's so    funny about a bucket.,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+341,JAKE,   Odo lives in it.,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+342,JAKE,       He's a shape-shifter.  Every sixteen    hours he has to change back to his    original form.,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+343,VARIS,   Inside a bucket?,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+344,JAKE,   He turns into some kind of liquid.,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 345,JAKE,       Maybe this isn't such a good idea.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 346,NOG,       Watch the front door.  I'll be right    back.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 347,VARIS,"   Jake, you're sure this is all right?",61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
@@ -355,25 +355,25 @@
 353,NOG,   You should have seen your face!,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 354,ODO,   I believe that belongs to me.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 355,SISKO,   What's the rush?,63   INT. PROMENADE,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-356,O'BRIEN,   There's some residual neutrino levels    in the microstructure of the building    material.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-357,BASHIR,"   But if the Dal'Rok has no physical    substance, how can it leave a neutrino    trace?",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-358,O'BRIEN,   I didn't say it made sense.  But    this wall didn't just spontaneously    blow itself to pieces.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-359,BASHIR,"   Lucky for us, you were able to stop    it before it did anymore damage.",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-360,O'BRIEN,   All I did was repeat what the Sirah    told me.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-361,BASHIR,"   All right, then how did the Sirah stop    it?",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-362,O'BRIEN,   Good question.  Maybe there's some    kind of controlling mechanism hidden    somewhere.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-363,O'BRIEN,"   Excuse me, miss...",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-364,WOMAN,"   Please Sirah, for the baby...",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-365,O'BRIEN,   What about her?,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-366,BASHIR,   I think she wants you to bless the    child.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-367,O'BRIEN,   Me?,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-368,WOMAN,       It would mean so much.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-369,O'BRIEN,   I'm sure she'll make you very proud.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-370,WOMAN,   Thank you.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-371,O'BRIEN,   You're quite welcome.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-372,BASHIR,   Looks like some more of your followers    are requesting an audience,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-373,O'BRIEN,   This won't do.  You continue looking    around here.  I'll check the Sirah's    room.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-374,BASHIR,   I'm afraid the Sirah is busy at the    moment.  Perhaps I can be of service.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+356,O'BRIEN,   There's some residual neutrino levels    in the microstructure of the building    material.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+357,BASHIR,"   But if the Dal'Rok has no physical    substance, how can it leave a neutrino    trace?",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+358,O'BRIEN,   I didn't say it made sense.  But    this wall didn't just spontaneously    blow itself to pieces.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+359,BASHIR,"   Lucky for us, you were able to stop    it before it did anymore damage.",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+360,O'BRIEN,   All I did was repeat what the Sirah    told me.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+361,BASHIR,"   All right, then how did the Sirah stop    it?",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+362,O'BRIEN,   Good question.  Maybe there's some    kind of controlling mechanism hidden    somewhere.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+363,O'BRIEN,"   Excuse me, miss...",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+364,WOMAN,"   Please Sirah, for the baby...",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+365,O'BRIEN,   What about her?,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+366,BASHIR,   I think she wants you to bless the    child.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+367,O'BRIEN,   Me?,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+368,WOMAN,       It would mean so much.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+369,O'BRIEN,   I'm sure she'll make you very proud.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+370,WOMAN,   Thank you.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+371,O'BRIEN,   You're quite welcome.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+372,BASHIR,   Looks like some more of your followers    are requesting an audience,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+373,O'BRIEN,   This won't do.  You continue looking    around here.  I'll check the Sirah's    room.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+374,BASHIR,   I'm afraid the Sirah is busy at the    moment.  Perhaps I can be of service.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 375,O'BRIEN,"    (no time for     interruptions)   Look, I could use a little privacy.",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 376,HOVATH,   There are more gifts outside.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 377,O'BRIEN,"       All right, bring them in...",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
@@ -441,42 +441,42 @@
 439,VARIS,   You don't lose by saying no.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 440,SISKO,   Maybe.  But a great leader... like    your father... is one who's willing    to risk saying yes.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
 441,VARIS,"   Commander, I believe I know of an...    opportunity... that could allow both    sides to say yes.",77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-442,O'BRIEN,    (out of the side of     his mouth)   I thought you wanted this job.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-443,HOVATH,   I do.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-444,O'BRIEN,   Then why don't you fight for it.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-445,HOVATH,"   No, Faren is right.  The people will    never accept me as Sirah and without    their support, I could never control    the Dal'Rok.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-446,O'BRIEN,   And you think I can?,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-447,HOVATH,   You have to.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-448,BASHIR,   Good luck.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-449,CROWD,   Speak... The story... Speak... Tell    the story.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-450,O'BRIEN,"       Once upon a time, there was a Dal'Rok.     He lived there...       In the woods... and he hated the    village... and all of the villagers...    and wanted to see them destroyed.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-451,CROWD,   The Dal'Rok... it's here... the    Dal'Rok.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-452,O'BRIEN,   Yes... the Dal'Rok has arrived...    and it's... it's...,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-453,O'BRIEN,   ...hungry.  But... the village is    prepared to fight.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-454,HOVATH,   Something's wrong.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-455,BASHIR,   What's wrong is O'Brien's not the    Sirah.  You are.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-456,O'BRIEN,   The village is strong... and    powerful... and unafraid... to face    the Dal'Rok.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-457,BASHIR,   Did you ever think maybe the Sirah    planned all this?,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-458,BASHIR,"   He knew the villagers had lost    confidence in you, so he chose O'Brien    as his successor, knowing you'd have    to rescue him.       Don't you see?  This is your chance    to prove once and for all that you're    the true Sirah.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-459,O'BRIEN,"   All right, let's really focus on this    one and send the Dal'Rok a message...    Okay, let's send that message...       Where the hell are those lights?",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-460,HOVATH,"   Wait, there's no need to run.  A new    voice appears to challenge the    Dal'Rok.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-461,O'BRIEN,   It's about time.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-462,HOVATH,   The Dal'Rok is a fearsome enemy.     The mountains shake with its fury.     But our prosperity is its misery.     Our unity is its vulnerability.  Our    strength is its doom.       Look... the Dal'Rok trembles.  It    fears our strength.  It fears our    determination.  It knows it cannot    stand against us.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-463,HOVATH,"   There... see for yourselves, the    Dal'Rok is defeated.  The village is    safe for another year.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-464,CROWD,   The Sirah... Sirah.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-465,O'BRIEN,   Let's get out of here before they    change their minds.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUARE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-466,SISKO,   Nervous?,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-467,VARIS,   Not at all.       Maybe a little.  Do you think Woban    will accept my proposal?,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-468,SISKO,   It's very possible.  It does give    the Navot back their land.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-469,VARIS,   And free trade access to both sides    of the river would mean a lot to my    people.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-470,SISKO,       It's a reasonable compromise.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-471,JAKE,       We thought we'd wish you good luck    with your meeting.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-472,VARIS,       Thank you.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-473,VARIS,   For all your help.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-474,ODO,"   All right, let's go.  You two are going    to clean the Security office until    it shines.",102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-475,BASHIR,"   You know Chief, this is going to    make a fantastic story to tell around    the station.",102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-476,O'BRIEN,   No thanks.  I've had my fill of    storytelling for the time being.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-477,BASHIR,"   Well, I hope you won't mind if I    mention it.",102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-478,O'BRIEN,   Suit yourself... Julian.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-479,BASHIR,"   Oh, and Chief, on second thought,    you don't really have to call me    Julian.",102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
-480,O'BRIEN,       Right you are... Sir.,102A INT. PROMENADE - THE TURBOLIFT,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+442,O'BRIEN,    (out of the side of     his mouth)   I thought you wanted this job.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+443,HOVATH,   I do.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+444,O'BRIEN,   Then why don't you fight for it.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+445,HOVATH,"   No, Faren is right.  The people will    never accept me as Sirah and without    their support, I could never control    the Dal'Rok.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+446,O'BRIEN,   And you think I can?,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+447,HOVATH,   You have to.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+448,BASHIR,   Good luck.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+449,CROWD,   Speak... The story... Speak... Tell    the story.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+450,O'BRIEN,"       Once upon a time, there was a Dal'Rok.     He lived there...       In the woods... and he hated the    village... and all of the villagers...    and wanted to see them destroyed.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+451,CROWD,   The Dal'Rok... it's here... the    Dal'Rok.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+452,O'BRIEN,   Yes... the Dal'Rok has arrived...    and it's... it's...,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+453,O'BRIEN,   ...hungry.  But... the village is    prepared to fight.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+454,HOVATH,   Something's wrong.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+455,BASHIR,   What's wrong is O'Brien's not the    Sirah.  You are.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+456,O'BRIEN,   The village is strong... and    powerful... and unafraid... to face    the Dal'Rok.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+457,BASHIR,   Did you ever think maybe the Sirah    planned all this?,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+458,BASHIR,"   He knew the villagers had lost    confidence in you, so he chose O'Brien    as his successor, knowing you'd have    to rescue him.       Don't you see?  This is your chance    to prove once and for all that you're    the true Sirah.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+459,O'BRIEN,"   All right, let's really focus on this    one and send the Dal'Rok a message...    Okay, let's send that message...       Where the hell are those lights?",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+460,HOVATH,"   Wait, there's no need to run.  A new    voice appears to challenge the    Dal'Rok.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+461,O'BRIEN,   It's about time.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+462,HOVATH,   The Dal'Rok is a fearsome enemy.     The mountains shake with its fury.     But our prosperity is its misery.     Our unity is its vulnerability.  Our    strength is its doom.       Look... the Dal'Rok trembles.  It    fears our strength.  It fears our    determination.  It knows it cannot    stand against us.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+463,HOVATH,"   There... see for yourselves, the    Dal'Rok is defeated.  The village is    safe for another year.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+464,CROWD,   The Sirah... Sirah.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+465,O'BRIEN,   Let's get out of here before they    change their minds.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+466,SISKO,   Nervous?,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+467,VARIS,   Not at all.       Maybe a little.  Do you think Woban    will accept my proposal?,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+468,SISKO,   It's very possible.  It does give    the Navot back their land.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+469,VARIS,   And free trade access to both sides    of the river would mean a lot to my    people.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+470,SISKO,       It's a reasonable compromise.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+471,JAKE,       We thought we'd wish you good luck    with your meeting.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+472,VARIS,       Thank you.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+473,VARIS,   For all your help.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+474,ODO,"   All right, let's go.  You two are going    to clean the Security office until    it shines.",102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+475,BASHIR,"   You know Chief, this is going to    make a fantastic story to tell around    the station.",102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+476,O'BRIEN,   No thanks.  I've had my fill of    storytelling for the time being.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+477,BASHIR,"   Well, I hope you won't mind if I    mention it.",102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+478,O'BRIEN,   Suit yourself... Julian.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+479,BASHIR,"   Oh, and Chief, on second thought,    you don't really have to call me    Julian.",102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt
+480,O'BRIEN,       Right you are... Sir.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt

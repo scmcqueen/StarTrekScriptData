@@ -130,8 +130,8 @@
 128,DATA,   Rate exceeding critical levels.   Core density becoming unstable.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 129,RIKER,   Let's get the hell out of here.,42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 130,PICARD,"   Warp two, Ensign; now!",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
-131,GEORDI,   I'm sorry.,44   INT. ENGINEERING - CLOSE ON TIMICIN'S REACTION,ENGINEERING,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
-132,TIMICIN,       Captain Picard? Permit me...,44   INT. ENGINEERING - CLOSE ON TIMICIN'S REACTION,ENGINEERING,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
+131,GEORDI,   I'm sorry.,44   INT. ENGINEERING - CLOSE ON TIMICIN'S REACTION,ENGINEERIN,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
+132,TIMICIN,       Captain Picard? Permit me...,44   INT. ENGINEERING - CLOSE ON TIMICIN'S REACTION,ENGINEERIN,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 133,TIMICIN,       ... to express my appreciation to   you and your crew. I am...,48   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 134,TIMICIN,       ... most grateful.       Most grateful.,49   INT. ENGINEERING,ENGINEERING,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 135,PICARD,       Ensign... set a course for Kaelon   Two. Warp factor five.,50   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
@@ -303,7 +303,7 @@
 301,RIKER,   Bridge to Doctor Timicin...,82   INT. CORRIDOR,CORRIDOR,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 302,RIKER,       ... you have a visitor coming   aboard.,83   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 303,TIMICIN,       B'Tardat?,83   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
-304,RIKER,"   No, doctor... it's your daughter.",84   INT. CORRIDOR - LWAXANA AND TIMICIN,CORRIDOR,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
+304,RIKER,"   No, doctor... it's your daughter.",84   INT. CORRIDOR - LWAXANA AND TIMICIN,CORRIDO,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 305,DARA,   Father...,85   INT. TIMICIN'S QUARTERS,TIMICIN'S QUARTERS,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 306,TIMICIN,   Dara.,85   INT. TIMICIN'S QUARTERS,TIMICIN'S QUARTERS,INT.,Half a Life,1991-02-22,The Next Generation,196.txt
 307,TIMICIN,   You look... wonderful.,85   INT. TIMICIN'S QUARTERS,TIMICIN'S QUARTERS,INT.,Half a Life,1991-02-22,The Next Generation,196.txt

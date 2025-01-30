@@ -120,8 +120,8 @@
 118,ARRIDOR,   A distillation of your own blood   pyrocytes... harmless to you...     ,20   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
 119,ARRIDOR ,"   undetectable by the ship's   bio-filters... but when absorbed   through your victim's skin, it   will provoke an extreme allergic   reaction.",20   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
 120,GOSS,   I'd say it is time to extend the   hand of the Ferengi to the   representative of the Federation.,20   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-121,DEVINONI,   Much... better.,22   INT. CORRIDOR - AT TROI'S DOOR,CORRIDOR,INT.,The Price,1989-09-25,The Next Generation,156.txt
-122,TROI,   Thank you. Come in for a drink?,22   INT. CORRIDOR - AT TROI'S DOOR,CORRIDOR,INT.,The Price,1989-09-25,The Next Generation,156.txt
+121,DEVINONI,   Much... better.,22   INT. CORRIDOR - AT TROI'S DOOR,CORRIDO,INT.,The Price,1989-09-25,The Next Generation,156.txt
+122,TROI,   Thank you. Come in for a drink?,22   INT. CORRIDOR - AT TROI'S DOOR,CORRIDO,INT.,The Price,1989-09-25,The Next Generation,156.txt
 123,DEVINONI,"   Ah, Federation decor...",23   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
 124,TROI,   Not your style?,23   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
 125,DEVINONI,   Conformity is not my style.,23   INT. TROI'S QUARTERS (OPTICAL),TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
@@ -155,11 +155,11 @@
 153,PICARD,       Keep us advised.,33   INT. SICKBAY,SICKBAY,INT.,The Price,1989-09-25,The Next Generation,156.txt
 154,PICARD,   The Federation's top negotiator   taken out by a mysterious ailment.   Suspicions?,33   INT. SICKBAY,SICKBAY,INT.,The Price,1989-09-25,The Next Generation,156.txt
 155,RIKER,"   With the Ferengi around, always.",33   INT. SICKBAY,SICKBAY,INT.,The Price,1989-09-25,The Next Generation,156.txt
-156,PICARD,"   Well, I guess you'll have to fill   in for him, Number One.",34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Price,1989-09-25,The Next Generation,156.txt
-157,RIKER,   Me?,34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Price,1989-09-25,The Next Generation,156.txt
-158,PICARD,   I am the designated host. It   would be a most awkward   transition. The next likely   choice is you. Mister Mendoza   would agree. He was quite   impressed with your natural   instincts.,34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Price,1989-09-25,The Next Generation,156.txt
-159,RIKER,"   Excuse me, sir, but those weren't   natural instincts... they're poker   instincts... A parlor game   doesn't exactly prepare me for   this...",34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Price,1989-09-25,The Next Generation,156.txt
-160,PICARD,"   Yes, the stakes are higher. But   then... that's when the game gets   interesting, doesn't it,   Commander.",34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Price,1989-09-25,The Next Generation,156.txt
+156,PICARD,"   Well, I guess you'll have to fill   in for him, Number One.",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Price,1989-09-25,The Next Generation,156.txt
+157,RIKER,   Me?,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Price,1989-09-25,The Next Generation,156.txt
+158,PICARD,   I am the designated host. It   would be a most awkward   transition. The next likely   choice is you. Mister Mendoza   would agree. He was quite   impressed with your natural   instincts.,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Price,1989-09-25,The Next Generation,156.txt
+159,RIKER,"   Excuse me, sir, but those weren't   natural instincts... they're poker   instincts... A parlor game   doesn't exactly prepare me for   this...",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Price,1989-09-25,The Next Generation,156.txt
+160,PICARD,"   Yes, the stakes are higher. But   then... that's when the game gets   interesting, doesn't it,   Commander.",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Price,1989-09-25,The Next Generation,156.txt
 161,WESLEY,   The wormhole will reappear in   thirty seconds.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 162,PICARD,"   Shuttle nine, stand by...",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 163,WORF,"   Ferengi pod is moving into   position, Captain...",35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
@@ -189,39 +189,39 @@
 187,RIKER,"   Neutral. And uninvolved, sir,   in virtually all interstellar   matters of consequence.",45   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 188,DEVINONI,"       No one would claim that the   Chrysalians are as powerful as   the mighty Federation, but we have   resources and technology and   scientists too. We have also had   peace for ten generations.",45   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 189,DEVINONI,"   This is a fine proposal,   Commander.",45   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-190,DEVINONI ,   I was just thinking...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-191,TROI ,   Mmmm?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-192,DEVINONI ,   Maybe I could stretch out these   negotiations a few extra days.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-193,TROI ,   Mmmm.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-194,DEVINONI ,   Would you like that?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-195,TROI ,       Mmm-hmmm.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-196,TROI,"   Devinoni Ral, who are you?",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-197,DEVINONI,   What do your Betazoid senses tell   you about me?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-198,TROI,   Not very much...       My human physical response must   be blocking them out.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-199,DEVINONI,   Good.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-200,TROI,   It's never happened before.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-201,DEVINONI,   I rather like it that I'm more   difficult to read than your other   men...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-202,TROI,   I don't have any others...   currently.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-203,DEVINONI,   How about Commander Riker?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-204,TROI,   Who have you been talking to... ?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-205,DEVINONI,   No one. I just sensed something   when I saw the two of you   together.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-206,TROI,       Will Riker and I are good friends.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-207,DEVINONI,   Uh huh...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-208,TROI,   It was once a little more than   that.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-209,DEVINONI,   Mmmm-hmm...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-210,TROI,   And how come we're talking about   me and not you?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-211,DEVINONI,   Don't you have enough people   telling you about their lives?   Who counsels the counselor?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-212,TROI,"   Uh uh, I want to know about you   now...",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-213,DEVINONI,"   I am a man of commerce. And I'm   what you see right now. No games,   no strategies. Just me, wanting   to run away with you.       And knowing that if I asked you,   you'd never leave this damned   ship.",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-214,TROI,"   When I first saw you, I felt as   if I'd been waiting for you. I've   been trying to understand why or   how that's possible.",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-215,DEVINONI,   Does it matter?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-216,DEVINONI,   It will... when I tell you. But   you must promise never to tell   anyone else.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-217,TROI,   What?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-218,DEVINONI,   I am partly Betazoid too.       My mother was half... I am one   quarter.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-219,TROI,   You're empathic?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-220,DEVINONI,   The only one of five children.   I must admit I was never as   comfortable sensing emotions as   you seem to be...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-221,TROI,   That's why you left Earth...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-222,DEVINONI,"   I've learned to live with it, use   it... as you have... but still,   it isolates us, doesn't it... ?       I thought it would always be that   way for me. Now, all of a sudden   the rules I live by don't mean   anything any more. I had tucked   my heart away... didn't need it,   didn't want it. At the   negotiating table it can be fatal   to have a heart... but I never   realized how much I missed it   until I looked at you.",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
+190,DEVINONI ,   I was just thinking...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+191,TROI ,   Mmmm?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+192,DEVINONI ,   Maybe I could stretch out these   negotiations a few extra days.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+193,TROI ,   Mmmm.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+194,DEVINONI ,   Would you like that?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+195,TROI ,       Mmm-hmmm.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+196,TROI,"   Devinoni Ral, who are you?",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+197,DEVINONI,   What do your Betazoid senses tell   you about me?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+198,TROI,   Not very much...       My human physical response must   be blocking them out.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+199,DEVINONI,   Good.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+200,TROI,   It's never happened before.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+201,DEVINONI,   I rather like it that I'm more   difficult to read than your other   men...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+202,TROI,   I don't have any others...   currently.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+203,DEVINONI,   How about Commander Riker?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+204,TROI,   Who have you been talking to... ?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+205,DEVINONI,   No one. I just sensed something   when I saw the two of you   together.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+206,TROI,       Will Riker and I are good friends.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+207,DEVINONI,   Uh huh...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+208,TROI,   It was once a little more than   that.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+209,DEVINONI,   Mmmm-hmm...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+210,TROI,   And how come we're talking about   me and not you?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+211,DEVINONI,   Don't you have enough people   telling you about their lives?   Who counsels the counselor?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+212,TROI,"   Uh uh, I want to know about you   now...",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+213,DEVINONI,"   I am a man of commerce. And I'm   what you see right now. No games,   no strategies. Just me, wanting   to run away with you.       And knowing that if I asked you,   you'd never leave this damned   ship.",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+214,TROI,"   When I first saw you, I felt as   if I'd been waiting for you. I've   been trying to understand why or   how that's possible.",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+215,DEVINONI,   Does it matter?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+216,DEVINONI,   It will... when I tell you. But   you must promise never to tell   anyone else.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+217,TROI,   What?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+218,DEVINONI,   I am partly Betazoid too.       My mother was half... I am one   quarter.,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+219,TROI,   You're empathic?,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+220,DEVINONI,   The only one of five children.   I must admit I was never as   comfortable sensing emotions as   you seem to be...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+221,TROI,   That's why you left Earth...,47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
+222,DEVINONI,"   I've learned to live with it, use   it... as you have... but still,   it isolates us, doesn't it... ?       I thought it would always be that   way for me. Now, all of a sudden   the rules I live by don't mean   anything any more. I had tucked   my heart away... didn't need it,   didn't want it. At the   negotiating table it can be fatal   to have a heart... but I never   realized how much I missed it   until I looked at you.",47   INT. TROI'S QUARTERS - CLOSE ON HER FOOT,TROI'S QUARTER,INT.,The Price,1989-09-25,The Next Generation,156.txt
 223,GEORDI,   I'm picking up an increase in   accretion matter filtering in from   the terminus.,49   INT. SHUTTLE (OPTICAL),SHUTTLE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 224,GEORDI,   We made it...,51B  EXT. SHUTTLE (OPTICAL),SHUTTLE,EXT.,The Price,1989-09-25,The Next Generation,156.txt
 225,DATA,   Monitors are functioning normally   again.,51B  EXT. SHUTTLE (OPTICAL),SHUTTLE,EXT.,The Price,1989-09-25,The Next Generation,156.txt
@@ -251,14 +251,14 @@
 249,BEVERLY,"   No, it was another fellow. Fell   in love in a day. It lasted a   week. But what a week.       Then I met Jack... took months   to figure it out with Jack.",52   INT. EXERCISE ROOM,EXERCISE ROOM,INT.,The Price,1989-09-25,The Next Generation,156.txt
 250,TROI,"   Maybe I should slow down... catch   my breath, not let this get out   of control...",52   INT. EXERCISE ROOM,EXERCISE ROOM,INT.,The Price,1989-09-25,The Next Generation,156.txt
 251,BEVERLY & TROI,   Nah.,52   INT. EXERCISE ROOM,EXERCISE ROOM,INT.,The Price,1989-09-25,The Next Generation,156.txt
-252,DEVINONI,"   To be honest, I was surprised to   see the Caldonians here at all,   Leyor...",53   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-253,LEYOR,"   You must think Caldonia very   insular, Mister Ral.",53   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-254,DEVINONI,"   Not at all... on the contrary,   I've respected your world's   commitment to pure research. It's   just that, well...    ",53   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-255,LEYOR,"   Go ahead, please...",53   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-256,DEVINONI,"   Well, scholars don't always enjoy   administrative demands...",53   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-257,DEVINONI,   And certainly we've seen here that   the administration of the   wormhole...,53   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-258,LEYOR,   Yes... I must admit I have begun   to feel some trepidation about   that...,53   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-259,DEVINONI,"       I'm sure you have. I'm sure we   all have, Leyor...       Do you realize that during the   next century, the number of   ships...",53   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
+252,DEVINONI,"   To be honest, I was surprised to   see the Caldonians here at all,   Leyor...",53   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+253,LEYOR,"   You must think Caldonia very   insular, Mister Ral.",53   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+254,DEVINONI,"   Not at all... on the contrary,   I've respected your world's   commitment to pure research. It's   just that, well...    ",53   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+255,LEYOR,"   Go ahead, please...",53   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+256,DEVINONI,"   Well, scholars don't always enjoy   administrative demands...",53   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+257,DEVINONI,   And certainly we've seen here that   the administration of the   wormhole...,53   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+258,LEYOR,   Yes... I must admit I have begun   to feel some trepidation about   that...,53   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+259,DEVINONI,"       I'm sure you have. I'm sure we   all have, Leyor...       Do you realize that during the   next century, the number of   ships...",53   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
 260,BHAVANI,"   Gentlemen, this open session is   called by request of the Caldonian   delegation.",55   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 261,LEYOR,"   Madame Bhavani, Caldonia withdraws   from these proceedings.",55   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 262,BHAVANI,"   For what reasons, Leyor?",55   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
@@ -301,29 +301,29 @@
 299,DEVINONI,   You announce it to every alien   culture you encounter? Or do you   use it to give your side an   advantage. Do you tell the   Romulan in the ship about to   attack that you can feel that   he's bluffing or do you just tell   it to your captain?,61   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
 300,TROI,   That's different. It's a matter   of protection...,61   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
 301,DEVINONI,"   Your protection... your captain,   your crew... your edge.       Yes. It's a matter of life and   death when you take the advantage.   Me, I deal in property, in   exchange... no one gets hurt.       Which of us would you say has the   greater problem of ethics?",61   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
-302,DEVINONI,"   May I join you, Commander?",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-303,RIKER,"   Bought out the Ferengi yet, Ral?",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-304,DEVINONI,   Think I should try?,64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-305,RIKER,"   No. But I think you will. One   way or another, it'll come down   to you and me.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-306,DEVINONI,"   You know, you're very good at   this... better than you realize.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-307,RIKER,"   I hope I'm better than you   realize, Ral.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-308,DEVINONI,       The last mile of the marathon   is always the toughest. That's   when the winners are willing to   take the big risks... are you   ready to do that?,64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-309,RIKER,"   We'll see, won't we...",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-310,DEVINONI,"   Well, let's see right now... I'm   prepared to reach a firm agreement   with Bhavani before we learn the   results of your probe's   expedition. Are you?",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-311,DEVINONI,"   Mmmm, that would not be looked   upon favorably by the Federation,   I'd imagine.     ",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-312,DEVINONI ,"   See, you have to be willing to   take that last step alone...   or it isn't worth playing.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-313,RIKER,"   Your point of view, not mine.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-314,DEVINONI,"   Oh, I see that, Commander...   otherwise you wouldn't be second   in command of this ship.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-315,DEVINONI,"   You know, I feel responsible for   you in a way... related.       Deanna. We both love Deanna...   in different ways, of course.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-316,RIKER,   I'll remove the burden of that   responsibility right now. My   relationship with Deanna stands   on its own. Without help from   you.,64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-317,DEVINONI,"   Of course it does. She's an   extraordinary woman. Lovely,   brilliant --- very passionate.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-318,DEVINONI,"   She could have been yours, Will.   But you didn't do enough to keep   her, and now, I'm here and I'm   going to take her too.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-319,RIKER,"   You know, I think this is the   first bad play I've seen you   make...",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-320,RIKER,"   If you bring happiness into   Deanna's life, nothing would   please me more. You're not really   a bad sort, Ral, you just don't   have any values... beyond the   value of today's bid, that is.   She's just the one to give some   meaning to your sorry existence...   if you're smart enough to take   it. I doubt that you are.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-321,RIKER,   To the last mile.,64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-322,DEVINONI,"   Federation women have a game they   call ""playing hard to get"".",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-323,GOSS,"   Yes, I do not at all find it   amusing.",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-324,DEVINONI,"   On Chrysalia, the women outnumber   the men four to one. They   virtually throw themselves at your   feet...",64   INT. TEN-FORWARD,TE,INT.,The Price,1989-09-25,The Next Generation,156.txt
+302,DEVINONI,"   May I join you, Commander?",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+303,RIKER,"   Bought out the Ferengi yet, Ral?",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+304,DEVINONI,   Think I should try?,64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+305,RIKER,"   No. But I think you will. One   way or another, it'll come down   to you and me.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+306,DEVINONI,"   You know, you're very good at   this... better than you realize.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+307,RIKER,"   I hope I'm better than you   realize, Ral.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+308,DEVINONI,       The last mile of the marathon   is always the toughest. That's   when the winners are willing to   take the big risks... are you   ready to do that?,64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+309,RIKER,"   We'll see, won't we...",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+310,DEVINONI,"   Well, let's see right now... I'm   prepared to reach a firm agreement   with Bhavani before we learn the   results of your probe's   expedition. Are you?",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+311,DEVINONI,"   Mmmm, that would not be looked   upon favorably by the Federation,   I'd imagine.     ",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+312,DEVINONI ,"   See, you have to be willing to   take that last step alone...   or it isn't worth playing.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+313,RIKER,"   Your point of view, not mine.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+314,DEVINONI,"   Oh, I see that, Commander...   otherwise you wouldn't be second   in command of this ship.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+315,DEVINONI,"   You know, I feel responsible for   you in a way... related.       Deanna. We both love Deanna...   in different ways, of course.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+316,RIKER,   I'll remove the burden of that   responsibility right now. My   relationship with Deanna stands   on its own. Without help from   you.,64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+317,DEVINONI,"   Of course it does. She's an   extraordinary woman. Lovely,   brilliant --- very passionate.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+318,DEVINONI,"   She could have been yours, Will.   But you didn't do enough to keep   her, and now, I'm here and I'm   going to take her too.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+319,RIKER,"   You know, I think this is the   first bad play I've seen you   make...",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+320,RIKER,"   If you bring happiness into   Deanna's life, nothing would   please me more. You're not really   a bad sort, Ral, you just don't   have any values... beyond the   value of today's bid, that is.   She's just the one to give some   meaning to your sorry existence...   if you're smart enough to take   it. I doubt that you are.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+321,RIKER,   To the last mile.,64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+322,DEVINONI,"   Federation women have a game they   call ""playing hard to get"".",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+323,GOSS,"   Yes, I do not at all find it   amusing.",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
+324,DEVINONI,"   On Chrysalia, the women outnumber   the men four to one. They   virtually throw themselves at your   feet...",64   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Price,1989-09-25,The Next Generation,156.txt
 325,WORF,"   Sir, the Ferengi vessel is moving   out of orbit, impulse power...       They are approaching the entry   to the wormhole, sir.",75   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 326,PICARD,"       Computer, is the Ferengi Goss   still aboard the Enterprise?",75   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 327,COMPUTER,   DaiMon Goss departed the   Enterprise at fourteen hundred   hours.,75   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
@@ -394,7 +394,7 @@
 392,PICARD,"   Advise him to set his coordinates   for the Delta Quadrant,   Lieutenant... He might run into   them in eighty years or so.",84A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 393,RIKER,"   Mister Ral, I congratulate you   on winning the rights to the   Barzan wormhole...",84A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
 394,DEVINONI,       I take the risks. I stand by my   agreements.,84A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Price,1989-09-25,The Next Generation,156.txt
-395,TROI,   Come in...,86   INT. CORRIDOR - AT TROI'S QUARTERS,CORRIDOR,INT.,The Price,1989-09-25,The Next Generation,156.txt
+395,TROI,   Come in...,86   INT. CORRIDOR - AT TROI'S QUARTERS,CORRIDO,INT.,The Price,1989-09-25,The Next Generation,156.txt
 396,TROI,   When do you leave?,88   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
 397,DEVINONI,   Soon. I've... been recalled by   the Chrysalians... explanations   demanded and so forth.,88   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt
 398,TROI,   I'm sorry.,88   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Price,1989-09-25,The Next Generation,156.txt

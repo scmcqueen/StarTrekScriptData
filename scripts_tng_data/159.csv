@@ -289,8 +289,8 @@
 287,DATA,       Sensors show Anestazine   concentration of seventy parts   per million within the cargo   bays.,63A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 288,RIKER,   That should have put our boy to   sleep.,63A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 289,PICARD,"   Restore normal environmental   conditions, Mister Data.",63A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-290,PICARD,"   Move in security teams, Mister   Worf.",63B  INT. DECK THIRTY-EIGHT CORRIDOR,DECK THIRT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-291,WORF,   Acknowledged.,63B  INT. DECK THIRTY-EIGHT CORRIDOR,DECK THIRT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+290,PICARD,"   Move in security teams, Mister   Worf.",63B  INT. DECK THIRTY-EIGHT CORRIDOR,DECK THIRTY-EIGHT CORRIDOR,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+291,WORF,   Acknowledged.,63B  INT. DECK THIRTY-EIGHT CORRIDOR,DECK THIRTY-EIGHT CORRIDOR,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 292,WORF,   Worf to bridge. We have found no   sign of the intruder. But there is   a pressure suit missing from Cargo   Bay Three.,63C  INT. CARGO BAY,CARGO BAY,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 293,PICARD,   A pressure suit...,64A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 294,RIKER,   Could be he's planning to enter   Shuttlebay Two from outside the   Enterprise... bypassing the   security guards.,64A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
@@ -327,46 +327,46 @@
 325,PICARD,       Then let us hope they do not   believe their survival is at   stake.,91D  INT. CORRIDOR,CORRIDOR,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 326,RIKER,"   Mister Worf, you are personally   responsible for the captain's   safety.",91D  INT. CORRIDOR,CORRIDOR,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 327,WORF,"   I understand, Commander.",91D  INT. CORRIDOR,CORRIDOR,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-328,NAYROK,"    (addressing the     senators)   I do not expect them to listen   to reason... I loathe the idea   of a violent confrontation, but   we must be prepared...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-329,NAYROK,       This is all you've brought... ?   Where are your security men... ?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-330,PICARD,"   We're not here to fight your wars,   Prime Minister...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-331,NAYROK,"   They've been seen moving toward   the center of the city... people   are scared, Captain... don't you   understand... ? They're dangerous.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-332,PICARD,   You are dangerous. They are only   victims.       You made them what they are. You   asked them to defend your way of   life... then you discarded them.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-333,ZAYNAR,   They were not happy here...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-334,TROI,   They were not welcome here.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-335,ZAYNAR,   It was the will of the people to   resettle them...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-336,NAYROK,"   Nobody was pleased with the   solution, Captain... but we had   to act for the greater good...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-337,DATA,"   Prime Minister, if you have the   skills to create a master   soldier, can you not contradict   the effect... ?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-338,NAYROK,   The chemicals can be removed from   their systems. But we're not   convinced the psychological   conditioning can be entirely   reversed.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-339,DATA,   Have you tried?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-340,NAYROK,"   We've studied it thoroughly...   even before the training began,   we knew there would be problems   reversing it. It was a risk we   had to take.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-341,WORF,"   Did you reveal that ""risk"" to the   men who volunteered for service?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-342,NAYROK,"   We were helping them to survive the,   war, don't you understand? They   needed these skills...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-343,PICARD,"   They are your sons, your brothers.   And you have turned your backs on   them.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-344,TROI,"   There are methods of treatment...   until you try them, you can't know   if they will work. Even a partial   recovery would give them some   peace...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-345,ZAYNAR,       It was the will of the people...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-346,TROI,    (losing patience with     this guy)   To allow them to suffer?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-347,NAYROK,   There was a referendum. The   people weighed the costs involved.   They chose the resettlement   solution.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-348,ZAYNAR,"   Besides, we may need to use them   again some day.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-349,PICARD,"   Unless you are prepared to die,   I'd suggest you put that down.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-350,NAYROK,       Do as he says.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-351,ROGA,"   Shoot us. Destroy us. Do what   you have to do. But, by God, you   will no longer ignore us.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-352,PICARD,"   Danar, it appears to me that you   are deliberately attempting to   provoke a response... so you may   justify your own attack on men   who do not wish to fight...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-353,ROGA,   Cowards...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-354,PICARD,"   Yes...       But you are not programmed to   murder cowards... and if they will   not fight back, what will you   do?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-355,ROGA,   We will not go back...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-356,NAYROCK,   You are programmed to survive...   you can survive at the Lunar Five   settlement...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-357,ROGA,   Survival is not enough... to exist   is not enough...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-358,TROI,"   Roga, tell them what you want.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-359,ROGA,   We want our lives back. We want   to come home.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-360,NAYROK,"       I'm not prepared to negotiate   under a threat, Danar... but if   you will put down your arms and   return peacefully to Lunar Five...   I would be willing...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-361,ROGA,"   Mister Prime Minister. Our   respects, sir. But you'll have   to force us... or try to.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-362,NAYROK,"       Captain, you must do something,   call your ship...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-363,PICARD,"   You're quite right, Prime   Minister.       Enterprise, prepare to beam the   away team back.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-364,RIKER,"   At your command, Captain.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-365,NAYROK,"   You can't leave us like this,   Picard.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-366,PICARD,"   We have everything we need for   our report. Your prisoner has   been returned to you. You have   a decision to make... either try   to force them back or welcome them   home. In your own words, this   is not our affair. We cannot   interfere with the natural course   of your society's development and   I'd say it's likely to develop   significantly during the next   several minutes.       It's been an interesting stay.   When you are ready for membership   in the Federation, we will be   pleased to reconsider your   application.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
-367,PICARD,"   Four to beam up, Mister Riker.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENATE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+328,NAYROK,"    (addressing the     senators)   I do not expect them to listen   to reason... I loathe the idea   of a violent confrontation, but   we must be prepared...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+329,NAYROK,       This is all you've brought... ?   Where are your security men... ?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+330,PICARD,"   We're not here to fight your wars,   Prime Minister...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+331,NAYROK,"   They've been seen moving toward   the center of the city... people   are scared, Captain... don't you   understand... ? They're dangerous.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+332,PICARD,   You are dangerous. They are only   victims.       You made them what they are. You   asked them to defend your way of   life... then you discarded them.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+333,ZAYNAR,   They were not happy here...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+334,TROI,   They were not welcome here.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+335,ZAYNAR,   It was the will of the people to   resettle them...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+336,NAYROK,"   Nobody was pleased with the   solution, Captain... but we had   to act for the greater good...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+337,DATA,"   Prime Minister, if you have the   skills to create a master   soldier, can you not contradict   the effect... ?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+338,NAYROK,   The chemicals can be removed from   their systems. But we're not   convinced the psychological   conditioning can be entirely   reversed.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+339,DATA,   Have you tried?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+340,NAYROK,"   We've studied it thoroughly...   even before the training began,   we knew there would be problems   reversing it. It was a risk we   had to take.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+341,WORF,"   Did you reveal that ""risk"" to the   men who volunteered for service?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+342,NAYROK,"   We were helping them to survive the,   war, don't you understand? They   needed these skills...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+343,PICARD,"   They are your sons, your brothers.   And you have turned your backs on   them.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+344,TROI,"   There are methods of treatment...   until you try them, you can't know   if they will work. Even a partial   recovery would give them some   peace...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+345,ZAYNAR,       It was the will of the people...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+346,TROI,    (losing patience with     this guy)   To allow them to suffer?,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+347,NAYROK,   There was a referendum. The   people weighed the costs involved.   They chose the resettlement   solution.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+348,ZAYNAR,"   Besides, we may need to use them   again some day.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+349,PICARD,"   Unless you are prepared to die,   I'd suggest you put that down.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+350,NAYROK,       Do as he says.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+351,ROGA,"   Shoot us. Destroy us. Do what   you have to do. But, by God, you   will no longer ignore us.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+352,PICARD,"   Danar, it appears to me that you   are deliberately attempting to   provoke a response... so you may   justify your own attack on men   who do not wish to fight...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+353,ROGA,   Cowards...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+354,PICARD,"   Yes...       But you are not programmed to   murder cowards... and if they will   not fight back, what will you   do?",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+355,ROGA,   We will not go back...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+356,NAYROCK,   You are programmed to survive...   you can survive at the Lunar Five   settlement...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+357,ROGA,   Survival is not enough... to exist   is not enough...,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+358,TROI,"   Roga, tell them what you want.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+359,ROGA,   We want our lives back. We want   to come home.,94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+360,NAYROK,"       I'm not prepared to negotiate   under a threat, Danar... but if   you will put down your arms and   return peacefully to Lunar Five...   I would be willing...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+361,ROGA,"   Mister Prime Minister. Our   respects, sir. But you'll have   to force us... or try to.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+362,NAYROK,"       Captain, you must do something,   call your ship...",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+363,PICARD,"   You're quite right, Prime   Minister.       Enterprise, prepare to beam the   away team back.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+364,RIKER,"   At your command, Captain.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+365,NAYROK,"   You can't leave us like this,   Picard.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+366,PICARD,"   We have everything we need for   our report. Your prisoner has   been returned to you. You have   a decision to make... either try   to force them back or welcome them   home. In your own words, this   is not our affair. We cannot   interfere with the natural course   of your society's development and   I'd say it's likely to develop   significantly during the next   several minutes.       It's been an interesting stay.   When you are ready for membership   in the Federation, we will be   pleased to reconsider your   application.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
+367,PICARD,"   Four to beam up, Mister Riker.",94   INT. ANGOSIAN SENATE - NIGHT,ANGOSIAN SENAT,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 368,RIKER,"   Success, Captain?",102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 369,PICARD,"   Number One, note in your report   that if the government of Angosia   survives the night, we will offer   Federation assistance in the   efforts to reprogram their   veterans.",102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt
 370,RIKER,   And if the government doesn't   survive?,102  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Hunted,1989-10-25,The Next Generation,159.txt

@@ -1,11 +1,11 @@
 ,character,quote,scene,location,view,episode,date,series,file
-0,COMPUTER ,   Welcome to Risa. All that is ours   is yours.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVEN,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-1,AJUR,   We are looking for the lodging   chamber of Captain Jean-Luc   Picard.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVEN,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-2,COMPUTER ,   A file scan reveals no record of   a Captain Picard currently   visiting Risa.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVEN,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-3,AJUR,   When is he expected to arrive?,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVEN,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-4,COMPUTER ,   Where is no arrival date on file   for any such individual.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVEN,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-5,BORATUS,   Could we have been mistaken?,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVEN,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-6,AJUR,   He will come.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVEN,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+0,COMPUTER ,   Welcome to Risa. All that is ours   is yours.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+1,AJUR,   We are looking for the lodging   chamber of Captain Jean-Luc   Picard.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+2,COMPUTER ,   A file scan reveals no record of   a Captain Picard currently   visiting Risa.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+3,AJUR,   When is he expected to arrive?,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+4,COMPUTER ,   Where is no arrival date on file   for any such individual.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+5,BORATUS,   Could we have been mistaken?,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+6,AJUR,   He will come.,1    INT. RISIAN PLEASURE HAVEN - THE LOBBY,RISIAN PLEASURE HAVE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 7,RIKER ,"   First officer's log, Stardate   43745.2. We are in orbit of   Gemaris Five where, for the past   two weeks, Captain Picard has been   serving as mediator in a trade   dispute between the Gemarians and   their nearest neighbor, the   Dachlyds.",3    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 8,RIKER,"   Welcome back, Counselor.",4    INT. BRIDGE,BRIDGE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 9,TROI,   It's good to be back. It's been   a grueling two weeks.,4    INT. BRIDGE,BRIDGE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
@@ -350,46 +350,46 @@
 348,PICARD,"   There are other treasures to be   found, Vash.",45A  INT. VASH'S ROOM,VASH'S ROOM,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 349,VASH,   Not like the Uthat.       I hope you won't mind... but I   need to be alone for awhile.,45A  INT. VASH'S ROOM,VASH'S ROOM,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 350,PICARD,   I quite understand.,45A  INT. VASH'S ROOM,VASH'S ROOM,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-351,RIKER ,   Enterprise to Picard.,46   INT. PICARD'S ROOM - NIGHT,PICARD'S ROOM,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-352,PICARD,   Picard here.,46   INT. PICARD'S ROOM - NIGHT,PICARD'S ROOM,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+351,RIKER ,   Enterprise to Picard.,46   INT. PICARD'S ROOM - NIGHT,PICARD'S ROO,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+352,PICARD,   Picard here.,46   INT. PICARD'S ROOM - NIGHT,PICARD'S ROO,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 353,RIKER,"   I hope we're not interrupting   anything important, Captain. I   just wanted to inform you that   we have achieved orbit around Risa   and are ready to beam you up at   your convenience.",47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 354,PICARD,"   I will be returning shortly,   Commander. In the interim, stand   ready to initiate Transporter Code   Fourteen at my signal.",47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 355,RIKER,   Transporter Code Fourteen?,47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 356,PICARD,"   You heard me, Number One.",47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 357,RIKER,"   Yes, sir.",47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 358,PICARD,   Picard out.,47   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-359,PICARD ,   Leaving so soon?,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-360,VASH,   Jean-Luc -- I was just about to   come say good-bye.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-361,PICARD,"   Well then, I've saved you the   bother.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-362,VASH,   I want to put all this behind me   as soon as possible. You   understand.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-363,PICARD,"   Of course. However, there is one   last thing you can do for me.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-364,VASH,   Anything.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-365,PICARD,   Show me where you've hidden the   Tox Uthat.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-366,VASH,"   That's not funny, Jean-Luc.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-367,PICARD,"   You never intended to burn that   second disc. If you had, you   wouldn't have been so careless   as to allow Sovak to salvage any   of it. You wanted him to follow   us so he could see for himself   that the Uthat wasn't at the cave   site. It was the only way to   convince him your quest had been   futile.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-368,VASH,   But how could I have known the   Uthat wasn't there?,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-369,PICARD,   Because you had gone there once   before. Probably the moment you   arrived on the planet. That's   when you found it.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-370,VASH,"       You're a man of many talents,   Jean-Luc.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-371,VASH,   Open it.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-372,VASH,       A piece of the future.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-373,PICARD,   A very dangerous piece. Were you   really going to give it to the   Daystom Institute?,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-374,VASH,"   Well, maybe not give it.       Five years is a huge investment,   Jean-Luc. I deserve to make a   reasonable profit.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-375,AJUR,   Congratulations Picard. We knew   you would not fail us.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-376,VASH,   You're not going to just hand   it over are you?       You didn't trust me... what makes   you think you can trust them?,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-377,PICARD,   I assume the Vorgons have proof   to back up their claims.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-378,BORATUS,   Our being here is proof enough.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-379,VASH,"   Wait a second, Vorgons?     ",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-380,VASH ,"   According to the professor's   notes, it was two Vorgons... a   male and a female... who tried   to steal the Uthat in the first   place. For all we know it could   be them.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-381,PICARD,   You're going to have to prove   you are who you say you are.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-382,AJUR,"   As you yourself said, the Uthat   belongs to the future.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-383,PICARD,   But not necessarily to you.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-384,BORATUS,"   You will return what is ours,   Picard.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-385,VASH,   No!,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-386,PICARD,   Enterprise... Code Fourteen...   Lock on present coordinates...   three second delay... Mark!,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-387,PICARD,   Are you all right?,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-388,PICARD,       Go. Return to your own time.   There's nothing for you here.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-389,BORATUS,   History recorded that you   destroyed the Uthat.,48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
-390,AJUR,"   You have fulfilled your destiny   all too well, Picard.",48   INT. LOBBY - NIGHT,LOBBY,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+359,PICARD ,   Leaving so soon?,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+360,VASH,   Jean-Luc -- I was just about to   come say good-bye.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+361,PICARD,"   Well then, I've saved you the   bother.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+362,VASH,   I want to put all this behind me   as soon as possible. You   understand.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+363,PICARD,"   Of course. However, there is one   last thing you can do for me.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+364,VASH,   Anything.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+365,PICARD,   Show me where you've hidden the   Tox Uthat.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+366,VASH,"   That's not funny, Jean-Luc.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+367,PICARD,"   You never intended to burn that   second disc. If you had, you   wouldn't have been so careless   as to allow Sovak to salvage any   of it. You wanted him to follow   us so he could see for himself   that the Uthat wasn't at the cave   site. It was the only way to   convince him your quest had been   futile.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+368,VASH,   But how could I have known the   Uthat wasn't there?,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+369,PICARD,   Because you had gone there once   before. Probably the moment you   arrived on the planet. That's   when you found it.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+370,VASH,"       You're a man of many talents,   Jean-Luc.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+371,VASH,   Open it.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+372,VASH,       A piece of the future.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+373,PICARD,   A very dangerous piece. Were you   really going to give it to the   Daystom Institute?,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+374,VASH,"   Well, maybe not give it.       Five years is a huge investment,   Jean-Luc. I deserve to make a   reasonable profit.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+375,AJUR,   Congratulations Picard. We knew   you would not fail us.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+376,VASH,   You're not going to just hand   it over are you?       You didn't trust me... what makes   you think you can trust them?,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+377,PICARD,   I assume the Vorgons have proof   to back up their claims.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+378,BORATUS,   Our being here is proof enough.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+379,VASH,"   Wait a second, Vorgons?     ",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+380,VASH ,"   According to the professor's   notes, it was two Vorgons... a   male and a female... who tried   to steal the Uthat in the first   place. For all we know it could   be them.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+381,PICARD,   You're going to have to prove   you are who you say you are.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+382,AJUR,"   As you yourself said, the Uthat   belongs to the future.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+383,PICARD,   But not necessarily to you.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+384,BORATUS,"   You will return what is ours,   Picard.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+385,VASH,   No!,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+386,PICARD,   Enterprise... Code Fourteen...   Lock on present coordinates...   three second delay... Mark!,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+387,PICARD,   Are you all right?,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+388,PICARD,       Go. Return to your own time.   There's nothing for you here.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+389,BORATUS,   History recorded that you   destroyed the Uthat.,48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
+390,AJUR,"   You have fulfilled your destiny   all too well, Picard.",48   INT. LOBBY - NIGHT,LOBB,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 391,VASH,   I don't suppose there are any   openings for an archaeologist   aboard the Enterprise.,55   INT. PICARD'S ROOM - NIGHT (OPTICAL),PICARD'S ROOM - NIGHT,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 392,PICARD,       Somehow I doubt you'd find life   aboard a starship suitable to your   taste.,55   INT. PICARD'S ROOM - NIGHT (OPTICAL),PICARD'S ROOM - NIGHT,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt
 393,VASH,   Probably not. I could never   tolerate all that discipline.,55   INT. PICARD'S ROOM - NIGHT (OPTICAL),PICARD'S ROOM - NIGHT,INT.,Captain's Holiday,1990-01-21,The Next Generation,167.txt

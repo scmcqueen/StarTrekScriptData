@@ -8,14 +8,14 @@
 6,WORF,"   Oh... yes, sir.",3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 7,RIKER,   You seem pretty tense for a man   who just came back from vacation.,3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 8,WORF,   Today... is my birthday.,3    INT. ENTERPRISE CORRIDOR,ENTERPRISE CORRIDOR,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-9,RIKER,   What's the matter with you?,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-10,WORF,   Because it is my birthday... I   assumed that you or one of the   others would try to mount an   unexpected... social gathering.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-11,RIKER,"   You mean a surprise party? Worf,   I hate surprise parties. I would   never do that to you.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-12,WORF,"   I am... sorry, Commander.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-13,RIKER,   Why don't you settle in and I'll   meet you on the Bridge.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-14,WORF,   Aye sir.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-15,S,   SURPRISE!!,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-16,RIKER,"   Actually, Worf, I love surprise   parties.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+9,RIKER,   What's the matter with you?,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+10,WORF,   Because it is my birthday... I   assumed that you or one of the   others would try to mount an   unexpected... social gathering.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+11,RIKER,"   You mean a surprise party? Worf,   I hate surprise parties. I would   never do that to you.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+12,WORF,"   I am... sorry, Commander.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+13,RIKER,   Why don't you settle in and I'll   meet you on the Bridge.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+14,WORF,   Aye sir.,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+15,S,   SURPRISE!!,4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+16,RIKER,"   Actually, Worf, I love surprise   parties.",4    INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 17,ALL,"    (sung to the tune of     ""For He's A Jolly Good     Fellow"")   ""Cha Worf Toh'gah-nah lo   Pre'tOk... Cha Worf Toh'gah-nah   lo Pre'tOk... Cha Worf Toh'gah-nah   lo Pre'tO-O-O-O-Ok... Tu Mak   Dagh Cha doh Borak!""",6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 18,WORF,   That was not a Klingon song.,6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 19,TROI,"   It wasn't easy to translate.   There doesn't seem to be a Klingon   word for ""jolly"".",6    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
@@ -97,18 +97,18 @@
 95,WORF,   I won that tournament. I can   prove it to you.,15   INT. SICKBAY,SICKBAY,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 96,BEVERLY,   What's wrong?,16   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 97,WORF,"   It says... ""Ninth Place.""",16   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-98,WORF,   This is not the same trophy...       Someone is playing a trick on me.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-99,BEVERLY,"   Worf, try to calm down. Memory   loss can be very disorienting...",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-100,WORF,   The log... I recorded a personal   log on my way back to the   Enterprise.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-101,WORF,       Computer -- access personal logs   on Shuttlecraft Curie. Show my   log entry for Stardate 47391.2.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-102,WORF ON MONITOR,"   Personal log, Stardate 47391.2.   I am returning from the Bat'leth   competition on Forcas Three. The   conditions were difficult...   several contenders were maimed.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-103,WORF ON MONITOR,       One of the contenders used an   illegal T'gha maneuver against me.   The judges chose to ignore it...   and I was robbed of my rightful   standing.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-104,WORF ON MONITOR,"   I was awarded ""Ninth Place"".       I look forward to resuming my   duties aboard the Enterprise.   However, I am --",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-105,WORF,   I do not understand...,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-106,BEVERLY,   I'm sure this must be very   disturbing for you... but don't   worry. Your memories will   eventually return to normal.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-107,BEVERLY,       The best thing you can do right   now is settle back into your   normal routine... but slowly.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-108,WORF,"   Thank you, Doctor.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-109,BEVERLY,"   If you have any more problems with   dizziness, let me know.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+98,WORF,   This is not the same trophy...       Someone is playing a trick on me.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+99,BEVERLY,"   Worf, try to calm down. Memory   loss can be very disorienting...",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+100,WORF,   The log... I recorded a personal   log on my way back to the   Enterprise.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+101,WORF,       Computer -- access personal logs   on Shuttlecraft Curie. Show my   log entry for Stardate 47391.2.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+102,WORF ON MONITOR,"   Personal log, Stardate 47391.2.   I am returning from the Bat'leth   competition on Forcas Three. The   conditions were difficult...   several contenders were maimed.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+103,WORF ON MONITOR,       One of the contenders used an   illegal T'gha maneuver against me.   The judges chose to ignore it...   and I was robbed of my rightful   standing.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+104,WORF ON MONITOR,"   I was awarded ""Ninth Place"".       I look forward to resuming my   duties aboard the Enterprise.   However, I am --",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+105,WORF,   I do not understand...,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+106,BEVERLY,   I'm sure this must be very   disturbing for you... but don't   worry. Your memories will   eventually return to normal.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+107,BEVERLY,       The best thing you can do right   now is settle back into your   normal routine... but slowly.,18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+108,WORF,"   Thank you, Doctor.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+109,BEVERLY,"   If you have any more problems with   dizziness, let me know.",18   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 110,DATA,"   Lieutenant, have you completed the   metallurgical scan of the Array?",21   INT. BRIDGE,BRIDGE,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 111,WORF,   Sir?,21   INT. BRIDGE,BRIDGE,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 112,DATA,   The metallurgical scan. Is it   complete?,21   INT. BRIDGE,BRIDGE,INT.,Parallels,1993-10-07,The Next Generation,263.txt
@@ -377,15 +377,15 @@
 375,WORF,   I know what you are planning.       I will not be surprised.,66   INT. CORRIDOR,CORRIDOR,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 376,RIKER,   Surprised? I don't know what   you're talking about.,66   INT. CORRIDOR,CORRIDOR,INT.,Parallels,1993-10-07,The Next Generation,263.txt
 377,WORF,       Of course you don't.,66   INT. CORRIDOR,CORRIDOR,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-378,TROI,   Worf... welcome home.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-379,TROI,   I hope you don't mind I let myself   in. I promised Alexander I'd feed   his Dalvin hissing beetle while   you were both away.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-380,WORF,   So... you do not live here?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-381,TROI,   What is that supposed to mean?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-382,WORF,   It is a... long story.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-383,TROI,"   Happy birthday.       Wil wanted to give you a surprise   party, but I knew you'd hate it...   so I talked him out of it.",67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-384,WORF,   Thank you.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-385,TROI,"   Well... I know Klingons like to be   alone on their birthdays.       I'm sure you have to meditate, or   hit yourself with a pain stick or   something.",67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-386,WORF,   Deanna... you do not have to   leave.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-387,TROI,   Oh?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-388,WORF,   I have not had dinner. Would you   care to... join me?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
-389,TROI,   I'd love to.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTERS,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+378,TROI,   Worf... welcome home.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+379,TROI,   I hope you don't mind I let myself   in. I promised Alexander I'd feed   his Dalvin hissing beetle while   you were both away.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+380,WORF,   So... you do not live here?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+381,TROI,   What is that supposed to mean?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+382,WORF,   It is a... long story.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+383,TROI,"   Happy birthday.       Wil wanted to give you a surprise   party, but I knew you'd hate it...   so I talked him out of it.",67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+384,WORF,   Thank you.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+385,TROI,"   Well... I know Klingons like to be   alone on their birthdays.       I'm sure you have to meditate, or   hit yourself with a pain stick or   something.",67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+386,WORF,   Deanna... you do not have to   leave.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+387,TROI,   Oh?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+388,WORF,   I have not had dinner. Would you   care to... join me?,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt
+389,TROI,   I'd love to.,67   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Parallels,1993-10-07,The Next Generation,263.txt

@@ -78,18 +78,18 @@
 76,MCDOWELL,"   Aye, sir.",19   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 77,RO,"       Ensign Ro to bridge.       This is Ensign Ro, reporting in...   I'm in section twenty-three baker,   near sickbay.",20   INT. CORRIDOR,CORRIDOR,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 78,RO,       Sickbay...,20   INT. CORRIDOR,CORRIDOR,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-79,RO,   I need some help.,22   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-80,RO,       Excuse me?,22   INT. SICKBAY - CONTINUOUS,SICKBAY,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-81,BEVERLY,"   The transporter could've beamed   them somewhere else... the Romulan   ship, another deck of the   Enterprise...",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-82,PICARD,       We've already checked those   possibilities.       The preliminary findings indicate   there was a radiation surge from   the Romulan engine core which   disrupted the signal. They never   rematerialized.,23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-83,BEVERLY,"   We should check again, there might   be something we overlooked and---",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-84,PICARD,"       We've done all we can, Beverly.",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-85,BEVERLY,   You're right. I just... hate   making out death certificates.       Did Ensign Ro have any family?,23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-86,RO,"   Captain, I'm right here.",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-87,PICARD,"       None that I know of, but I'll   check with the Bajoran Liaison   Office.",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-88,RO,       I'm not dead!,23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-89,BEVERLY,       I'll have the official reports   ready within the hour.,23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-90,RO,"   Captain, I don't know what's going   on --",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+79,RO,   I need some help.,22   INT. SICKBAY - CONTINUOUS,SICKBA,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+80,RO,       Excuse me?,22   INT. SICKBAY - CONTINUOUS,SICKBA,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+81,BEVERLY,"   The transporter could've beamed   them somewhere else... the Romulan   ship, another deck of the   Enterprise...",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+82,PICARD,       We've already checked those   possibilities.       The preliminary findings indicate   there was a radiation surge from   the Romulan engine core which   disrupted the signal. They never   rematerialized.,23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+83,BEVERLY,"   We should check again, there might   be something we overlooked and---",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+84,PICARD,"       We've done all we can, Beverly.",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+85,BEVERLY,   You're right. I just... hate   making out death certificates.       Did Ensign Ro have any family?,23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+86,RO,"   Captain, I'm right here.",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+87,PICARD,"       None that I know of, but I'll   check with the Bajoran Liaison   Office.",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+88,RO,       I'm not dead!,23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+89,BEVERLY,       I'll have the official reports   ready within the hour.,23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+90,RO,"   Captain, I don't know what's going   on --",23   INT. BEVERLY'S OFFICE - CONTINUOUS,BEVERLY'S OFFIC,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 91,RO,   Doctor Crusher? Doctor?,25   INT. BEVERLY'S OFFICE (OPTICAL),BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 92,RO,   I'm right here...,25   INT. BEVERLY'S OFFICE (OPTICAL),BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 93,RO,"       Dammnit, Doctor!",25   INT. BEVERLY'S OFFICE (OPTICAL),BEVERLY'S OFFICE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
@@ -156,26 +156,26 @@
 154,RO,       Thanks for the ride.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 155,RO,   I'm here to say goodbye.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 156,RIKER,       There are a lot of what appear   to be experimental engine   components lying around over   there. I'd say they were testing   some new warp drive design and   it blew up in their faces.,37   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-157,PICARD,       That would explain why they're   this far away from Romulan   space... to avoid being picked   up on Federation long-range   scanners.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-158,RIKER,   We should have an engine core   ready for them by nineteen hundred   hours.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-159,PICARD,   Commander... there will be a   memorial service at twenty-three   hundred hours this evening.   Mister Data is making the   arrangements.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-160,RIKER,   I'll be there.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-161,RO,"   Me, too.",38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-162,RIKER,   In fact... I might like to say   a few words.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-163,PICARD,       You knew La Forge longer than   any of us.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-164,RIKER,"   Actually, I was thinking more   of Ensign Ro...",38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-165,RO,       Me?,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-166,PICARD,   Coordinate with Mister Data.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-167,RO,   Wait a minute... what are you   going to say about me?,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-168,RO,   Captain...,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-169,RO,   I don't believe this... I'm   dead... you can't hear me... and   I'm still intimidated by you.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-170,RO,   I just wanted to say... thank you.   For trusting me when no one else   would.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-171,GEORDI ,   There you are.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-172,GEORDI,"       Excuse me, Captain.       Data is taking the next shuttle   back to the Romulan ship and we've   got to be on it.",38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-173,RO,   Why?,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-174,GEORDI,   I think we'll find the answer to   what's happened to us over there.,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-175,RO,   Why can't you just accept---,38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
-176,GEORDI,"       Look, if you're right and we're   dead this won't make any   difference. But if I'm right,   then we're still alive... and I'm   going to need your help.",38   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+157,PICARD,       That would explain why they're   this far away from Romulan   space... to avoid being picked   up on Federation long-range   scanners.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+158,RIKER,   We should have an engine core   ready for them by nineteen hundred   hours.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+159,PICARD,   Commander... there will be a   memorial service at twenty-three   hundred hours this evening.   Mister Data is making the   arrangements.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+160,RIKER,   I'll be there.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+161,RO,"   Me, too.",38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+162,RIKER,   In fact... I might like to say   a few words.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+163,PICARD,       You knew La Forge longer than   any of us.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+164,RIKER,"   Actually, I was thinking more   of Ensign Ro...",38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+165,RO,       Me?,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+166,PICARD,   Coordinate with Mister Data.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+167,RO,   Wait a minute... what are you   going to say about me?,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+168,RO,   Captain...,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+169,RO,   I don't believe this... I'm   dead... you can't hear me... and   I'm still intimidated by you.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+170,RO,   I just wanted to say... thank you.   For trusting me when no one else   would.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+171,GEORDI ,   There you are.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+172,GEORDI,"       Excuse me, Captain.       Data is taking the next shuttle   back to the Romulan ship and we've   got to be on it.",38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+173,RO,   Why?,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+174,GEORDI,   I think we'll find the answer to   what's happened to us over there.,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+175,RO,   Why can't you just accept---,38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
+176,GEORDI,"       Look, if you're right and we're   dead this won't make any   difference. But if I'm right,   then we're still alive... and I'm   going to need your help.",38   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 177,DATA,"   Lieutenant, I am planning a   memorial service for Commander   La Forge and Ensign Ro. I would   like you to participate.",42   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 178,WORF,   What kind of service?,42   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt
 179,DATA,"   Captain Picard asked me to arrange   a ceremony that is appropriate.   I have given a great deal of   thought as to what is   ""appropriate"" in this instance.",42   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,The Next Phase,1992-03-15,The Next Generation,224.txt

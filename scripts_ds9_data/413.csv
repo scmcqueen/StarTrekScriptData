@@ -8,15 +8,15 @@
 6,KIRA,   Warn me about what?,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 7,SISKO,"   Oh, ah, Dax and Chief O'Brien    discovered some of the last Prefect's    personal files.  There's a file on    you, but you may find it...    disappointing.",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 8,KIRA,"   I'm a big girl, Commander.",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-9,BASHIR,   Bashir to Sisko!,2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-10,SISKO,   Sisko here.,2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-11,BASHIR,"       I'm at Airlock Fourteen, Commander.     I think you'd better get down here.",2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-12,SISKO,"   What's the problem, Doctor?",2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-13,BASHIR,   I was about to begin off-loading    some medical specimens from the    Bajoran transport... and... well...    The Kai is here!,2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-14,SISKO,       Kai... Opaka?  Why would she be here?,2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-15,BASHIR,   She says you once offered her a tour    of the station.,2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-16,KIRA,"   ""A minor operative whose activities    are limited to running errands for    the terrorist leaders.""",2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-17,SISKO,"       Tell her I'll be right there.       Major, when you're through feeling    underappreciated, perhaps you'd join    me in welcoming the Kai aboard.",2    INT. OPS - CONTINUOUS,OPS,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+9,BASHIR,   Bashir to Sisko!,2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+10,SISKO,   Sisko here.,2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+11,BASHIR,"       I'm at Airlock Fourteen, Commander.     I think you'd better get down here.",2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+12,SISKO,"   What's the problem, Doctor?",2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+13,BASHIR,   I was about to begin off-loading    some medical specimens from the    Bajoran transport... and... well...    The Kai is here!,2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+14,SISKO,       Kai... Opaka?  Why would she be here?,2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+15,BASHIR,   She says you once offered her a tour    of the station.,2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+16,KIRA,"   ""A minor operative whose activities    are limited to running errands for    the terrorist leaders.""",2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+17,SISKO,"       Tell her I'll be right there.       Major, when you're through feeling    underappreciated, perhaps you'd join    me in welcoming the Kai aboard.",2    INT. OPS - CONTINUOUS,OP,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 18,BASHIR,       You say she's never been here before?,3    INT. PROMENADE AT BAJORAN TEMPLE,PROMENADE AT BAJORAN TEMPLE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 19,SISKO,   She's never even left Bajor before.,3    INT. PROMENADE AT BAJORAN TEMPLE,PROMENADE AT BAJORAN TEMPLE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 20,BASHIR,"   Excuse me for saying so, Commander,    but she looks preoccupied.",3    INT. PROMENADE AT BAJORAN TEMPLE,PROMENADE AT BAJORAN TEMPLE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
@@ -34,12 +34,12 @@
 32,SISKO,"   I didn't want to keep you from your    duties, Doctor.",3    INT. PROMENADE AT BAJORAN TEMPLE,PROMENADE AT BAJORAN TEMPLE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 33,BASHIR,   It's a slow day.,3    INT. PROMENADE AT BAJORAN TEMPLE,PROMENADE AT BAJORAN TEMPLE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 34,SISKO,       All right.       This way --,3    INT. PROMENADE AT BAJORAN TEMPLE,PROMENADE AT BAJORAN TEMPLE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-35,SISKO,"   Is the ship ready, Chief?",6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOCK,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-36,O'BRIEN,"   Prepped and ready for departure,    Commander.       Ma'am --",6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOCK,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-37,SISKO,       After you.,6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOCK,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-38,OPAKA,"   You have a child, don't you?",6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOCK,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-39,O'BRIEN,"   I do.  I have a little girl, ma'am.",6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOCK,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-40,OPAKA,       Would you give her this for me.,6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOCK,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+35,SISKO,"   Is the ship ready, Chief?",6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOC,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+36,O'BRIEN,"   Prepped and ready for departure,    Commander.       Ma'am --",6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOC,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+37,SISKO,       After you.,6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOC,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+38,OPAKA,"   You have a child, don't you?",6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOC,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+39,O'BRIEN,"   I do.  I have a little girl, ma'am.",6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOC,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+40,OPAKA,       Would you give her this for me.,6    INT. DOCKING AIRLOCK - ON DOORS OF YANGTZEE KIANG,DOCKING AIRLOC,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 41,SISKO,       We'll be entering the wormhole in    about a minute.,9    INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 42,OPAKA,   Thank you again for indulging me.,9    INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 43,KIRA,"       Not at all, Opaka.  You honor us    with your presence.",9    INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
@@ -47,37 +47,37 @@
 45,DAX,   Logged in... We'll expect you then.,9    INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 46,KIRA,   Flight stabilization at maximum...,9    INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 47,SISKO,   Here we go.,9    INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-48,BASHIR,"   Spectacular, isn't it...",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-49,OPAKA,   More than I imagined...,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-50,SISKO,"   My smoothest ride yet, Major.",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-51,BASHIR,"   There's Idran, the closest system.     It's a ternary star.",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-52,OPAKA,       A doorway to the unknown...,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-53,SISKO,"   The other side of the galaxy, to be    precise.  The Gamma quadrant is    seventy thousand light years from    Bajor.  ",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-54,SISKO,   It would take our fastest starship    over sixty-seven years to get here.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-55,OPAKA,   I'm glad I got the chance to see it.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-56,SISKO,   You'll be seeing what this wormhole    means to Bajor in a few years.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-57,OPAKA,"   If that is to be my fate, Commander.",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-58,KIRA,       Should I reverse course?,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-59,OPAKA,   So soon?,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-60,SISKO,       There isn't much else to show you    yet.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-61,OPAKA,"   Prophecy is often vague, Commander,    that's why we must test it...",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-62,SISKO,"   I don't understand, Opaka.",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-63,OPAKA,   ... You may return.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-64,SISKO,"   Take us back to the wormhole, Major.",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-65,KIRA,   Coming about...,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-66,KIRA,   Sensors are picking up a narrow band    subspace signal...,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-67,SISKO,   What do you make of it?,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-68,KIRA,   Just a long stream of statistical    data followed by a request for    response... but I'm not reading a    reply.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-69,SISKO,   Launch a class two probe.  We'll    follow it up later.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-70,OPAKA,       You're not going to investigate it    now?,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-71,SISKO,   I'm not sure that's a good idea --,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-72,OPAKA,   Because of my presence?,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-73,KIRA,   There's no telling what it may be.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-74,OPAKA,"   Please, Commander... I don't get out    here often.",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-75,SISKO,"   Can you get a fix on the source,    Major?",13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-76,KIRA,   ... Point three-five light years.     Bearing... two-two-nine mark four-   one.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-77,SISKO,       I guess we'd better take a look.,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-78,KIRA,   Engaging warp...,13   INT. RUNABOUT - ON OPAKA,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+48,BASHIR,"   Spectacular, isn't it...",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+49,OPAKA,   More than I imagined...,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+50,SISKO,"   My smoothest ride yet, Major.",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+51,BASHIR,"   There's Idran, the closest system.     It's a ternary star.",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+52,OPAKA,       A doorway to the unknown...,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+53,SISKO,"   The other side of the galaxy, to be    precise.  The Gamma quadrant is    seventy thousand light years from    Bajor.  ",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+54,SISKO,   It would take our fastest starship    over sixty-seven years to get here.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+55,OPAKA,   I'm glad I got the chance to see it.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+56,SISKO,   You'll be seeing what this wormhole    means to Bajor in a few years.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+57,OPAKA,"   If that is to be my fate, Commander.",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+58,KIRA,       Should I reverse course?,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+59,OPAKA,   So soon?,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+60,SISKO,       There isn't much else to show you    yet.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+61,OPAKA,"   Prophecy is often vague, Commander,    that's why we must test it...",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+62,SISKO,"   I don't understand, Opaka.",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+63,OPAKA,   ... You may return.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+64,SISKO,"   Take us back to the wormhole, Major.",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+65,KIRA,   Coming about...,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+66,KIRA,   Sensors are picking up a narrow band    subspace signal...,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+67,SISKO,   What do you make of it?,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+68,KIRA,   Just a long stream of statistical    data followed by a request for    response... but I'm not reading a    reply.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+69,SISKO,   Launch a class two probe.  We'll    follow it up later.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+70,OPAKA,       You're not going to investigate it    now?,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+71,SISKO,   I'm not sure that's a good idea --,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+72,OPAKA,   Because of my presence?,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+73,KIRA,   There's no telling what it may be.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+74,OPAKA,"   Please, Commander... I don't get out    here often.",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+75,SISKO,"   Can you get a fix on the source,    Major?",13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+76,KIRA,   ... Point three-five light years.     Bearing... two-two-nine mark four-   one.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+77,SISKO,       I guess we'd better take a look.,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+78,KIRA,   Engaging warp...,13   INT. RUNABOUT - ON OPAKA,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 79,KIRA,"   This is definitely the origin of the    signal, but I'm having trouble    pinpointing the source... It isn't    coming from the surface...",16   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 80,SISKO ,   There's your answer: a network of    artificial satellites -- one of them    looks like it's malfunctioning --    its orbit is unstable...,16   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 81,SISKO,       I'd bet the signals we picked up    were from the system trying to repair    it...,16   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
@@ -250,7 +250,7 @@
 248,O'BRIEN,       Uh huh.,52   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 249,DAX,"   I've never heard of a differential    magnetomer, Chief.  How does it work?",52   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 250,O'BRIEN,   I'll let you know as soon as I've    finished making one...,52   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-251,BASHIR,"   Nice work, Julian... wait till O'Brien    hears about this...",54   INT. RUNABOUT - CLOSE ON FRONT PANEL,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+251,BASHIR,"   Nice work, Julian... wait till O'Brien    hears about this...",54   INT. RUNABOUT - CLOSE ON FRONT PANEL,RUNABOU,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 252,SHEL-LA,   I'm surprised.  Zlangco has agreed    to listen to your proposals...,55   INT. CAVE,CAVE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 253,SISKO,   Good.  When.,55   INT. CAVE,CAVE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 254,SHEL-LA,   Right away.  We'll meet them at a    neutral site near your vessel.  We've    both agreed to bring no firearms.,55   INT. CAVE,CAVE,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
@@ -278,45 +278,45 @@
 276,O'BRIEN,   It's the third planet...,58   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 277,DAX,"   No, look... it isn't... we're picking    up something from its moon...",58   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 278,O'BRIEN,   Laying in a new course... full    impulse...,58   INT. RUNABOUT,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-279,SISKO,"   Any progress, Doctor?",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-280,BASHIR,"   Yessir, I've got the computer up,    more or less... it's processing the    data now... but I've already confirmed    that these microbes are artificial...    rather like nanites in a way... I    should have a complete analysis from    the computer in a few minutes...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-281,BASHIR,"    (beat, re: the fire     poles)   What's going on?",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-282,SISKO,   Talks about a cease fire.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-283,BASHIR,   No kidding... how'd you manage that?,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-284,SISKO,   I told them we'd transport them off    this moon.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-285,BASHIR,"    (casual humor, looking     at the fire)   Isn't that a bit like assisting a    jailbreak?",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-286,SISKO,"       I don't need you to interpret the    prime directive for me, Doctor.",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-287,BASHIR,   I only meant...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-288,SISKO,   Whatever crimes they've committed    have been paid for a hundred times    over.  They've been altered somehow    and abandoned by their world... I    believe the Federation would recognize    them as separate and unique.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-289,BASHIR,   Yessir.  I... should be checking on    that analysis...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-290,ZLANGCO,   So you are the leader of the aliens...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-291,SISKO,"   Benjamin Sisko, Commander of a    Federation space station...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-292,ZLANGCO,   Federation?,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-293,SHEL-LA,"       What does it matter to us, Zlangco?",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-294,ZLANGCO,   It matters to me.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-295,SISKO,"   The Federation is made up of over a    hundred planets who have allied    themselves for mutual scientific,    cultural and defensive benefits.     The mission that my people and I are    on is to explore the galaxy.",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-296,ZLANGCO,"       Such a noble purpose... there will    be no reward for our release, you    know...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-297,SHEL-LA,   You're being a fool as usual...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-298,ZLANGCO,"   A fool who can always outwit you,    Shel-la... as I have proven over and    over again...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-299,SHEL-LA,"   If you care to die once more, all    you need to do is ask...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-300,SISKO,"   If you've had enough of this, then    make your leaders stop and listen...    you are fighting a war for the sake    of war... your only reason to live    is to make each other suffer.  If    you've suffered enough, then make    your leaders stop.",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-301,SISKO,   I'm not here to be a mediator... but    if you ask me for an alternative...    I'll give you one.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-302,ZLANGCO,   We're listening.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-303,SISKO,"   In a matter of days, when our rescue    party arrives, I can arrange to    transport you and your people off    this moon... if both sides can simply    cooperate until then...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-304,SHEL-LA,"   They will resettle us on different    planets, Zlangco...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-305,SISKO,   If that's what you wish...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-306,ZLANGCO,       The two of you seem to have discussed    this plan in detail...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-307,SHEL-LA,   Of course.  His crew has been with    us for two days...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-308,ZLANGCO,       Explain why you choose to ally    yourselves with the Ennis...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-309,SISKO,   We have allied ourselves with no    one...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-310,ZLANGCO,   One of your people fired some kind    of weapon at us...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-311,SISKO,   We were defending ourselves...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-312,ZLANGCO,   I think you're lying...       I don't know the alien.  But I know    Shel-la.  I know how his mind works.     I promise you this is an Ennis trick    to lure our entire population out of    hiding so they can be slaughtered...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-313,SISKO,   That's not...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-314,ZLANGCO,   Fine... then the Ennis will surely    be willing to make the first gesture    of peace... let them bring all of    their people out in the open first...    to prove their honorable intentions...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-315,SHEL-LA,   Do you honestly think I would let a    single Nol escape this moon alive?,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-316,ZLANGCO,   No more than I would let an Ennis go    free...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
-317,BASHIR,"   Sorry, Commander, but I've discovered    we can't afford to die here -- not    even once.",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFACE,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+279,SISKO,"   Any progress, Doctor?",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+280,BASHIR,"   Yessir, I've got the computer up,    more or less... it's processing the    data now... but I've already confirmed    that these microbes are artificial...    rather like nanites in a way... I    should have a complete analysis from    the computer in a few minutes...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+281,BASHIR,"    (beat, re: the fire     poles)   What's going on?",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+282,SISKO,   Talks about a cease fire.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+283,BASHIR,   No kidding... how'd you manage that?,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+284,SISKO,   I told them we'd transport them off    this moon.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+285,BASHIR,"    (casual humor, looking     at the fire)   Isn't that a bit like assisting a    jailbreak?",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+286,SISKO,"       I don't need you to interpret the    prime directive for me, Doctor.",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+287,BASHIR,   I only meant...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+288,SISKO,   Whatever crimes they've committed    have been paid for a hundred times    over.  They've been altered somehow    and abandoned by their world... I    believe the Federation would recognize    them as separate and unique.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+289,BASHIR,   Yessir.  I... should be checking on    that analysis...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+290,ZLANGCO,   So you are the leader of the aliens...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+291,SISKO,"   Benjamin Sisko, Commander of a    Federation space station...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+292,ZLANGCO,   Federation?,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+293,SHEL-LA,"       What does it matter to us, Zlangco?",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+294,ZLANGCO,   It matters to me.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+295,SISKO,"   The Federation is made up of over a    hundred planets who have allied    themselves for mutual scientific,    cultural and defensive benefits.     The mission that my people and I are    on is to explore the galaxy.",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+296,ZLANGCO,"       Such a noble purpose... there will    be no reward for our release, you    know...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+297,SHEL-LA,   You're being a fool as usual...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+298,ZLANGCO,"   A fool who can always outwit you,    Shel-la... as I have proven over and    over again...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+299,SHEL-LA,"   If you care to die once more, all    you need to do is ask...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+300,SISKO,"   If you've had enough of this, then    make your leaders stop and listen...    you are fighting a war for the sake    of war... your only reason to live    is to make each other suffer.  If    you've suffered enough, then make    your leaders stop.",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+301,SISKO,   I'm not here to be a mediator... but    if you ask me for an alternative...    I'll give you one.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+302,ZLANGCO,   We're listening.,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+303,SISKO,"   In a matter of days, when our rescue    party arrives, I can arrange to    transport you and your people off    this moon... if both sides can simply    cooperate until then...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+304,SHEL-LA,"   They will resettle us on different    planets, Zlangco...",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+305,SISKO,   If that's what you wish...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+306,ZLANGCO,       The two of you seem to have discussed    this plan in detail...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+307,SHEL-LA,   Of course.  His crew has been with    us for two days...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+308,ZLANGCO,       Explain why you choose to ally    yourselves with the Ennis...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+309,SISKO,   We have allied ourselves with no    one...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+310,ZLANGCO,   One of your people fired some kind    of weapon at us...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+311,SISKO,   We were defending ourselves...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+312,ZLANGCO,   I think you're lying...       I don't know the alien.  But I know    Shel-la.  I know how his mind works.     I promise you this is an Ennis trick    to lure our entire population out of    hiding so they can be slaughtered...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+313,SISKO,   That's not...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+314,ZLANGCO,   Fine... then the Ennis will surely    be willing to make the first gesture    of peace... let them bring all of    their people out in the open first...    to prove their honorable intentions...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+315,SHEL-LA,   Do you honestly think I would let a    single Nol escape this moon alive?,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+316,ZLANGCO,   No more than I would let an Ennis go    free...,60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
+317,BASHIR,"   Sorry, Commander, but I've discovered    we can't afford to die here -- not    even once.",60   EXT. MOON SURFACE - NEAR RUNABOUT CRASH SITE,MOON SURFAC,EXT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 318,O'BRIEN,       It's some kind of artificial satellite    system... that's what our probe must    have picked up...,64   INT. RUNABOUT (VPB) - CLOSE ON OKUDAGRAM,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 319,DAX,"       Our sensors are reading lifeforms on    the surface, Chief...       I think some of them are human...",64   INT. RUNABOUT (VPB) - CLOSE ON OKUDAGRAM,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt
 320,O'BRIEN,"       If the ship's down there, why wouldn't    the transponder be sending out a...",64   INT. RUNABOUT (VPB) - CLOSE ON OKUDAGRAM,RUNABOUT,INT.,Battle Lines,1993-01-21,Deep Space Nine,413.txt

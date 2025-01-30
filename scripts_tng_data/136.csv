@@ -32,17 +32,17 @@
 30,ANYA,   Excellent. Bring us aboard. That   is all.,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 31,RIKER,"   Friendly, isn't she?",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 32,PICARD,"   Whether they're friendly or not,   Salia has the rank of head of   state. We will treat both her   and Anya accordingly. Number   One, Mister Worf, let's greet our   visitors.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-33,PICARD,   Welcome aboard the Enterprise.   I am Captain Jean-Luc Picard.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-34,ANYA,       This is Salia of Daled Four.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-35,SALIA,"   I didn't feel a thing. Is that   normal when you are transported,   Captain?",5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-36,PICARD,   It is.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-37,SALIA,   Those must be the matter/energy   conversion controls. May I take   a look?,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-38,PICARD,   Of course.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-39,RIKER,"   If you like, I'll arrange a tour   of the ship.",5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-40,SALIA,   I'd love that.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-41,ANYA,       No.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-42,ANYA,"       That won't be necessary. Just   show us our quarters, Captain   Picard.",5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-43,PICARD,   Very well.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+33,PICARD,   Welcome aboard the Enterprise.   I am Captain Jean-Luc Picard.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+34,ANYA,       This is Salia of Daled Four.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+35,SALIA,"   I didn't feel a thing. Is that   normal when you are transported,   Captain?",5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+36,PICARD,   It is.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+37,SALIA,   Those must be the matter/energy   conversion controls. May I take   a look?,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+38,PICARD,   Of course.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+39,RIKER,"   If you like, I'll arrange a tour   of the ship.",5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+40,SALIA,   I'd love that.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+41,ANYA,       No.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+42,ANYA,"       That won't be necessary. Just   show us our quarters, Captain   Picard.",5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+43,PICARD,   Very well.,5    INT. TRANSPORTER ROOM - ANGLE ON TRANSPORTER PAD,TRANSPORTER ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 44,PICARD,   We are housing you in the quarters   normally reserved for Starfleet   admiralty. I'm sure you'll find   them quite comfortable.,7    INT. CORRIDOR,CORRIDOR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 45,SALIA,"   That's a superconducting magnet,   isn't it?",7    INT. CORRIDOR,CORRIDOR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 46,WESLEY,"   Yes... It's a... say, how did you   know that?",7    INT. CORRIDOR,CORRIDOR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
@@ -132,17 +132,17 @@
 130,WESLEY,   What if nothing occurs to me?,18   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 131,GEORDI,"   Wesley, I don't really have time   for this. You're going to have   to ask somebody else.",18   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 132,WESLEY,   Okay.,18   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-133,WORF,   That is how the Klingon lures a   mate.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-134,WESLEY,   Are you telling me to go yell at   Salia?,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-135,WORF,   No. Men do not roar. Women roar.   Then they hurl heavy objects.   And claw at you.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-136,WESLEY,   What does the man do?,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-137,WORF,   He reads love poetry. He ducks   a lot.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-138,WESLEY,"   Yes, well, that might work for   Klingons, but I think I should   try something less dangerous.",23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-139,WORF,   Then go to her door. Beg like   a human.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-140,DATA,"   It should be that simple, Wesley.   Judging by her appearance it is   likely you and Salia are   biologically compatible. Of   course, there may be a difference   in the histocompatibility complex   in the cell membrane.",23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-141,WESLEY,"   Data! I want to meet her, not   dissect her.",23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-142,PICARD,   Captain Picard to Salia's   quarters.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-143,SALIA,"   Yes, Captain?",23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+133,WORF,   That is how the Klingon lures a   mate.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+134,WESLEY,   Are you telling me to go yell at   Salia?,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+135,WORF,   No. Men do not roar. Women roar.   Then they hurl heavy objects.   And claw at you.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+136,WESLEY,   What does the man do?,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+137,WORF,   He reads love poetry. He ducks   a lot.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+138,WESLEY,"   Yes, well, that might work for   Klingons, but I think I should   try something less dangerous.",23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+139,WORF,   Then go to her door. Beg like   a human.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+140,DATA,"   It should be that simple, Wesley.   Judging by her appearance it is   likely you and Salia are   biologically compatible. Of   course, there may be a difference   in the histocompatibility complex   in the cell membrane.",23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+141,WESLEY,"   Data! I want to meet her, not   dissect her.",23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+142,PICARD,   Captain Picard to Salia's   quarters.,23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+143,SALIA,"   Yes, Captain?",23   INT. MAIN BRIDGE - ON WORF,MAIN BRIDG,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 144,PICARD,   May I activate the viewer?,25   INT. SALIA'S QUARTERS (OPTICAL),SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 145,SALIA,   Certainly.,25   INT. SALIA'S QUARTERS (OPTICAL),SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 146,PICARD,       I've arranged for Anya to have   a tour of the ship. Maybe you'd   like to go along.,25   INT. SALIA'S QUARTERS (OPTICAL),SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
@@ -157,34 +157,34 @@
 155,SALIA,       Yes. Come in.,27   INT. SALIA'S QUARTERS,SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 156,WORF,   I am here to escort you on a tour   of the Enterprise.,27   INT. SALIA'S QUARTERS,SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 157,ANYA,   I will be right there.       You are a leader. And I am older   than you could ever imagine.,27   INT. SALIA'S QUARTERS,SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-158,WESLEY,   But what do I say? How should   I act? What do I do?,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-159,RIKER,"   Guinan, I need your help. Could   you sit over there?",28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-160,GUINAN,   That seems simple enough.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-161,RIKER,"       The first words out of your mouth   are the most important. You could   start by saying something like...       ... ""you're the most beautiful   woman in the galaxy.""",28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-162,RIKER,       But that might not work.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-163,GUINAN,   Yes it would.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-164,RIKER,   If you only knew how much I wanted   to tell you that.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-165,GUINAN,   But you were afraid.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-166,RIKER,   Yes.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-167,GUINAN,   Of me?,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-168,RIKER,   Of us. Of what we could become...,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-169,WESLEY,   Commander Riker...,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-170,RIKER,   ... and that you might have   thought it was a line.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-171,GUINAN,   Maybe I do think it's a line.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-172,RIKER,   Then you think I'm not sincere?,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-173,GUINAN,   I didn't say that. There's   nothing wrong with a line. It's   like a knock on the door.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-174,RIKER,   Then you're inviting me in?,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-175,GUINAN,   I'm not sending you away.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-176,RIKER,   That's more than I expected.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-177,GUINAN,   But is it more than you hoped?,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-178,RIKER,   To hope is to recognize the   possibility. I had only dreams.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-179,GUINAN,   Dreams can be dangerous.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-180,RIKER,   Not these dreams.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-181,RIKER,       I dream of a galaxy where your   eyes are stars... And all the   universe worships night.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-182,GUINAN,"   Careful, if you place me too high   on a pedestal, you won't be able   to reach me.",28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-183,RIKER,   Then I'll learn to fly. You are   the heart in my day and the soul   of my night.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-184,WESLEY,   I don't think this is my style.,28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-185,GUINAN,"   Shut up, kid.       Now tell me more about my eyes.",28   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+158,WESLEY,   But what do I say? How should   I act? What do I do?,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+159,RIKER,"   Guinan, I need your help. Could   you sit over there?",28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+160,GUINAN,   That seems simple enough.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+161,RIKER,"       The first words out of your mouth   are the most important. You could   start by saying something like...       ... ""you're the most beautiful   woman in the galaxy.""",28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+162,RIKER,       But that might not work.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+163,GUINAN,   Yes it would.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+164,RIKER,   If you only knew how much I wanted   to tell you that.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+165,GUINAN,   But you were afraid.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+166,RIKER,   Yes.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+167,GUINAN,   Of me?,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+168,RIKER,   Of us. Of what we could become...,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+169,WESLEY,   Commander Riker...,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+170,RIKER,   ... and that you might have   thought it was a line.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+171,GUINAN,   Maybe I do think it's a line.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+172,RIKER,   Then you think I'm not sincere?,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+173,GUINAN,   I didn't say that. There's   nothing wrong with a line. It's   like a knock on the door.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+174,RIKER,   Then you're inviting me in?,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+175,GUINAN,   I'm not sending you away.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+176,RIKER,   That's more than I expected.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+177,GUINAN,   But is it more than you hoped?,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+178,RIKER,   To hope is to recognize the   possibility. I had only dreams.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+179,GUINAN,   Dreams can be dangerous.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+180,RIKER,   Not these dreams.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+181,RIKER,       I dream of a galaxy where your   eyes are stars... And all the   universe worships night.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+182,GUINAN,"   Careful, if you place me too high   on a pedestal, you won't be able   to reach me.",28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+183,RIKER,   Then I'll learn to fly. You are   the heart in my day and the soul   of my night.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+184,WESLEY,   I don't think this is my style.,28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+185,GUINAN,"   Shut up, kid.       Now tell me more about my eyes.",28   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 186,ANYA,       What is that? What are you doing?,30   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 187,GEORDI,   This is the Deuterium Control   Conduit. I'm probing it to find   a defocused area.,30   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 188,ANYA,   Is there a problem with the ship?,30   INT. MAIN ENGINEERING (OPTICAL),MAIN ENGINEERING,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
@@ -213,20 +213,20 @@
 211,WESLEY,   It's time we changed that.,32   INT. SALIA'S QUARTERS (OPTICAL),SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 212,SALIA,   How?,32   INT. SALIA'S QUARTERS (OPTICAL),SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 213,WESLEY,   Come with me.,32   INT. SALIA'S QUARTERS (OPTICAL),SALIA'S QUARTERS,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-214,PULASKI,       I'll be with you in a moment.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-215,ANYA,   What's wrong with him?,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-216,PULASKI,   Andronesian Encephalitis. He   contracted it when our transporter   filter was disrupted by a cosmic   ray burst.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-217,ANYA,   That disease is contagious.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-218,PULASKI,   Yes it is.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-219,ANYA,   Then we could all be infected.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-220,PULASKI,   Very unlikely. The air filtering   system can handle --,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-221,ANYA,   But there is a chance.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-222,PULASKI,"   If you mean mathematically... Yes,   the probability is not zero.",33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-223,ANYA,   I cannot rely on your primitive   technologies. Kill the patient!,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-224,PULASKI,   What?,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-225,ANYA,   Destroy the patient immediately!,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-226,PULASKI,   Calm down -- really there's no   risk.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-227,ANYA,"   If you won't take action, then   I will!",33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+214,PULASKI,       I'll be with you in a moment.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+215,ANYA,   What's wrong with him?,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+216,PULASKI,   Andronesian Encephalitis. He   contracted it when our transporter   filter was disrupted by a cosmic   ray burst.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+217,ANYA,   That disease is contagious.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+218,PULASKI,   Yes it is.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+219,ANYA,   Then we could all be infected.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+220,PULASKI,   Very unlikely. The air filtering   system can handle --,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+221,ANYA,   But there is a chance.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+222,PULASKI,"   If you mean mathematically... Yes,   the probability is not zero.",33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+223,ANYA,   I cannot rely on your primitive   technologies. Kill the patient!,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+224,PULASKI,   What?,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+225,ANYA,   Destroy the patient immediately!,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+226,PULASKI,   Calm down -- really there's no   risk.,33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+227,ANYA,"   If you won't take action, then   I will!",33   INT. SICKBAY - PATIENTS' QUARTERS - ON ANYA,SICKBA,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 228,PULASKI,   Security to Sickbay! Hurry!,37   INT. SICKBAY,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 229,PICARD,       Hold your fire.,37   INT. SICKBAY,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 230,PICARD,   Anya!,37   INT. SICKBAY,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
@@ -249,7 +249,7 @@
 247,PICARD,"   I want a security team stationed   outside Sickbay, Mister Worf.",37   INT. SICKBAY,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 248,WORF,"   Aye, sir. Captain... if Anya   transforms?",37   INT. SICKBAY,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 249,PICARD,   Stop her.,37   INT. SICKBAY,SICKBAY,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-250,WORF,       Remain here.       You are restricted to these   quarters for the remainder of this   voyage.,42   INT. CORRIDOR - OUTSIDE SALIA'S QUARTERS,CORRIDOR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+250,WORF,       Remain here.       You are restricted to these   quarters for the remainder of this   voyage.,42   INT. CORRIDOR - OUTSIDE SALIA'S QUARTERS,CORRIDO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 251,SALIA,   Can a place so remarkable truly   exist?,44   INT. HOLODECK (OPTICAL),HOLODECK,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 252,WESLEY,"   Oh, yes. And there are so many   more -- all special - -all so   different. And all the different   kinds of life-forms.",44   INT. HOLODECK (OPTICAL),HOLODECK,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 253,SALIA,"   I have learned about them. That   is all I did on Klavdia Three...   was learn. I know so much, but   I've seen so little.",44   INT. HOLODECK (OPTICAL),HOLODECK,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
@@ -271,34 +271,34 @@
 269,SALIA,   I don't think so.       Maybe we should go.,44   INT. HOLODECK (OPTICAL),HOLODECK,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 270,WESLEY,   How about something to drink?,44   INT. HOLODECK (OPTICAL),HOLODECK,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 271,SALIA,       How about some more of that   Thalian chocolate?,44   INT. HOLODECK (OPTICAL),HOLODECK,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-272,PICARD,   We have obviously brought a very   dangerous life-form aboard this   ship. I want to minimize the   chances of another incident.,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-273,TROI,"   Captain, whatever kind of   life-form Anya may be,   emotionally she is really Salia's   mother.",45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-274,PICARD,   And the most dangerous animal is   a mother protecting her young.,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-275,TROI,   Exactly.,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-276,ANYA,"   Captain, this is Anya.",45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-277,PICARD,   Yes?,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-278,ANYA,       Salia is gone. Where is she?,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROOM,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-279,SALIA,   This has all been so wonderful.   I'm not sure it's real.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-280,WESLEY,"   Believe me, the Ten-Forward room   is not an illusion.",46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-281,SALIA,   Not that. I mean the way I feel.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-282,GUINAN,       Tell her about her eyes.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-283,GUINAN,   You won't find a better dish of   chocolate on Thalos or Daled Four.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-284,SALIA,       I'm sure I won't...,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-285,WESLEY,   Is something wrong?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-286,SALIA,"   I've had a great time being with   you, Wesley.",46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-287,WESLEY,   That makes you sad?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-288,SALIA,   When I was on Klavdia Three all   I could think of was leaving that   isolation.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-289,WESLEY,   Is that what awaits you on Daled   Four?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-290,SALIA,   Yes.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-291,WESLEY,   But I thought you were going there   to unite two groups which have   been fighting.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-292,SALIA,    (a little surprised that     he knew that)   What else do you know?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-293,WESLEY,   Very little. There is almost   nothing in the ship's computer   about Daled Four. What will you   do there?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-294,SALIA,   Your language has no word for the   position I will hold. I only know   I will have a lot of duties when   I get there. In many ways I'll   have even less freedom than I did   on Klavdia Three.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-295,WESLEY,   You could stay.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-296,SALIA,   On the Enterprise?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-297,WESLEY,   Why not?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-298,SALIA,   Because...,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-299,GUINAN,"   Just because a girl runs out,   doesn't mean she's not hoping   you'll follow.",46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+272,PICARD,   We have obviously brought a very   dangerous life-form aboard this   ship. I want to minimize the   chances of another incident.,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+273,TROI,"   Captain, whatever kind of   life-form Anya may be,   emotionally she is really Salia's   mother.",45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+274,PICARD,   And the most dangerous animal is   a mother protecting her young.,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+275,TROI,   Exactly.,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+276,ANYA,"   Captain, this is Anya.",45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+277,PICARD,   Yes?,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+278,ANYA,       Salia is gone. Where is she?,45   INT. CAPTAIN'S READY ROOM - PICARD,CAPTAIN'S READY ROO,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+279,SALIA,   This has all been so wonderful.   I'm not sure it's real.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+280,WESLEY,"   Believe me, the Ten-Forward room   is not an illusion.",46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+281,SALIA,   Not that. I mean the way I feel.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+282,GUINAN,       Tell her about her eyes.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+283,GUINAN,   You won't find a better dish of   chocolate on Thalos or Daled Four.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+284,SALIA,       I'm sure I won't...,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+285,WESLEY,   Is something wrong?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+286,SALIA,"   I've had a great time being with   you, Wesley.",46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+287,WESLEY,   That makes you sad?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+288,SALIA,   When I was on Klavdia Three all   I could think of was leaving that   isolation.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+289,WESLEY,   Is that what awaits you on Daled   Four?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+290,SALIA,   Yes.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+291,WESLEY,   But I thought you were going there   to unite two groups which have   been fighting.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+292,SALIA,    (a little surprised that     he knew that)   What else do you know?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+293,WESLEY,   Very little. There is almost   nothing in the ship's computer   about Daled Four. What will you   do there?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+294,SALIA,   Your language has no word for the   position I will hold. I only know   I will have a lot of duties when   I get there. In many ways I'll   have even less freedom than I did   on Klavdia Three.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+295,WESLEY,   You could stay.,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+296,SALIA,   On the Enterprise?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+297,WESLEY,   Why not?,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+298,SALIA,   Because...,46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+299,GUINAN,"   Just because a girl runs out,   doesn't mean she's not hoping   you'll follow.",46   INT. TEN-FORWARD - ON WESLEY AND SALIA,TEN-FORWAR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 300,WESLEY,       What is it? What happened?,48   INT. CORRIDOR,CORRIDOR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 301,WESLEY,       Salia!,48   INT. CORRIDOR,CORRIDOR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 302,SALIA,   Stay away from me!,48   INT. CORRIDOR,CORRIDOR,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
@@ -436,16 +436,16 @@
 434,SALIA,   Because I cannot arrive on my   planet in this form and I want   you to remember me as I am now.,79   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 435,WESLEY,   We have had enough disguises   between us. It's time for the   truth.,79   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 436,WESLEY,       Energize.,79   INT. TRANSPORTER ROOM THREE,TRANSPORTER ROOM THREE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-437,WESLEY,   Seeing her on the transporter   pad was like seeing pure light.       I miss her. I feel so empty.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-438,GUINAN,   I know that sensation.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-439,WESLEY,   I'm never going to feel this way   about anyone else.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-440,GUINAN,   You're right.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-441,WESLEY,   I didn't expect you to say that.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-442,GUINAN,"   Oh, there will be others -- but,   the next time you feel love will   be different. Each time is   different.",83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-443,WESLEY,   Knowing that doesn't make it any   easier.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-444,GUINAN,   It isn't supposed to.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-445,WESLEY,   I better get back to my duties.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
-446,GUINAN,   Me too.,83   INT. TEN-FORWARD,TE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+437,WESLEY,   Seeing her on the transporter   pad was like seeing pure light.       I miss her. I feel so empty.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+438,GUINAN,   I know that sensation.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+439,WESLEY,   I'm never going to feel this way   about anyone else.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+440,GUINAN,   You're right.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+441,WESLEY,   I didn't expect you to say that.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+442,GUINAN,"   Oh, there will be others -- but,   the next time you feel love will   be different. Each time is   different.",83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+443,WESLEY,   Knowing that doesn't make it any   easier.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+444,GUINAN,   It isn't supposed to.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+445,WESLEY,   I better get back to my duties.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
+446,GUINAN,   Me too.,83   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 447,RIKER,"   We have the course set for   Aldebaran Zeta, Sir.",86   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 448,PICARD,"   Mister Crusher, set speed -- warp six   point five.",86   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt
 449,WESLEY,"   Done, Captain.",86   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,The Dauphin,1988-12-23,The Next Generation,136.txt

@@ -1,34 +1,34 @@
 ,character,quote,scene,location,view,episode,date,series,file
 0,PICARD ,"   Captain's log, stardate 41801.3.   We are crossing through the Zed   Lapis sector, where we will   rendezvous with Shuttlecraft   Thirteen carrying Deanna Troi,   who is returning from a   psychology conference.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-1,PICARD ,"       Because Engineering is taking this   opportunity to complete preventive   maintenance on dilithium   crystals, we are traveling on   impulse power.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-2,WORF,"   Routine deep sensor probe   indicates no obstacles, no vessels   within a range of three light   years.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-3,TASHA,   Short-range sub-space radar   confirms.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-4,WORF,   The martial arts competition is   in three days. Are you prepared?,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-5,TASHA,"   If you'll meet me on the Holodeck   later. I need your help on the   Mishiama wrist-lock and break.   If it works on you, I can use it   on anyone.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-6,WORF,   A valid assumption. Who is your   first competitor?,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-7,TASHA,   The aikido match is with Science   Officer Swenson.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-8,WORF,   You will defeat him easily.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-9,TASHA,       I'm more concerned with Lieutenant   Minnerly's kick-boxing.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-10,WORF,   You are favored in the ship's   pool.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-11,TASHA,   You bet on me.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-12,WORF,   A sure thing.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-13,GEORDI,"   Sir, estimated rendezvous with   the shuttle in one hour, ten   minutes.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-14,PICARD,"   Very good, Lieutenant.       It's not the same around here   without Counselor Troi, is it,   Number One?",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-15,RIKER,"   No, sir. It seems...",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-16,WORF,   ... Sir! I am receiving an   emergency transmission from the   shuttle!,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-17,PICARD,   Put it on the Main Viewer.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-18,GEORDI,   I can't. We are receiving audio   only.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-19,PICARD,   Then open the frequency.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-20,GEORDI,"   Aye, sir.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-21,BEN,       ... what a jolt!,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-22,PICARD,   Position report.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-23,BEN,"   Sir, I have an onboard systems   failure. You'll have to tell   me where I am.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-24,GEORDI,   I read coordinates three-zero-seven   mark one-two-six. Confirm!,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-25,BEN,   Can't confirm. My instruments   are haywire.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-26,PICARD,"   Lieutenant Prieto, is Counselor   Troi all right?",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-27,BEN,"   Yes, sir. Just a little shaken.   We're being buffeted a bit...",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-28,BEN,    (continuing; slightly     panicked; breaking up)   ... losing more power! My flight   control computer's fried.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-29,PICARD,   Main Engineering!,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+1,PICARD ,"       Because Engineering is taking this   opportunity to complete preventive   maintenance on dilithium   crystals, we are traveling on   impulse power.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+2,WORF,"   Routine deep sensor probe   indicates no obstacles, no vessels   within a range of three light   years.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+3,TASHA,   Short-range sub-space radar   confirms.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+4,WORF,   The martial arts competition is   in three days. Are you prepared?,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+5,TASHA,"   If you'll meet me on the Holodeck   later. I need your help on the   Mishiama wrist-lock and break.   If it works on you, I can use it   on anyone.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+6,WORF,   A valid assumption. Who is your   first competitor?,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+7,TASHA,   The aikido match is with Science   Officer Swenson.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+8,WORF,   You will defeat him easily.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+9,TASHA,       I'm more concerned with Lieutenant   Minnerly's kick-boxing.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+10,WORF,   You are favored in the ship's   pool.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+11,TASHA,   You bet on me.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+12,WORF,   A sure thing.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+13,GEORDI,"   Sir, estimated rendezvous with   the shuttle in one hour, ten   minutes.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+14,PICARD,"   Very good, Lieutenant.       It's not the same around here   without Counselor Troi, is it,   Number One?",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+15,RIKER,"   No, sir. It seems...",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+16,WORF,   ... Sir! I am receiving an   emergency transmission from the   shuttle!,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+17,PICARD,   Put it on the Main Viewer.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+18,GEORDI,   I can't. We are receiving audio   only.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+19,PICARD,   Then open the frequency.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+20,GEORDI,"   Aye, sir.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+21,BEN,       ... what a jolt!,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+22,PICARD,   Position report.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+23,BEN,"   Sir, I have an onboard systems   failure. You'll have to tell   me where I am.",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+24,GEORDI,   I read coordinates three-zero-seven   mark one-two-six. Confirm!,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+25,BEN,   Can't confirm. My instruments   are haywire.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+26,PICARD,"   Lieutenant Prieto, is Counselor   Troi all right?",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+27,BEN,"   Yes, sir. Just a little shaken.   We're being buffeted a bit...",2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+28,BEN,    (continuing; slightly     panicked; breaking up)   ... losing more power! My flight   control computer's fried.,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+29,PICARD,   Main Engineering!,2    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 30,LYNCH,"   Engineering. Lieutenant   Commander Leland T. Lynch   reporting, sir.",3    INT. MAIN ENGINEERING (INTERCUT WITH MAIN BRIDGE AS,MAIN ENGINEERING,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 31,PICARD,   How long will it take to return   to warp power?,3    INT. MAIN ENGINEERING (INTERCUT WITH MAIN BRIDGE AS,MAIN ENGINEERING,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 32,LYNCH,   Captain! I'm in the middle of   realigning the dilithium   crystals.,3    INT. MAIN ENGINEERING (INTERCUT WITH MAIN BRIDGE AS,MAIN ENGINEERING,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
@@ -267,27 +267,27 @@
 265,BEVERLY,   Deanna? Are you all right?,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 266,TROI,   Beverly...,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 267,BEVERLY,   Are you all right?,49   EXT. SHUTTLECRAFT,SHUTTLECRAFT,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-268,TROI,   I'm not sure. Ben's really bad   -- I can barely feel his pulse.,50   INT. SHUTTLECRAFT (INTERCUT AS NECESSARY WITH EXT.,,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-269,BEVERLY,   We have to get you out. It has   a forcefield preventing us from   transporting you.,50   INT. SHUTTLECRAFT (INTERCUT AS NECESSARY WITH EXT.,,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-270,TROI,   I know.,50   INT. SHUTTLECRAFT (INTERCUT AS NECESSARY WITH EXT.,,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-271,RIKER,   She needs our help.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-272,ARMUS,   You have no permission to pass.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-273,BEVERLY,"   There are people suffering a few   meters away, and you block our   path. Why?",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-274,ARMUS,   You asked to talk. I allowed it.   Wasn't that enough for you?,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-275,BEVERLY,   No. I need help to get to them.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-276,ARMUS,   You are ungrateful.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-277,BEVERLY,   You are evil and disgusting. What   are you made of?,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-278,DATA,"   It does not register on my   tricorder, Doctor.",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-279,ARMUS,"   ""It?"" Does that mean I am not   alive?",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-280,DATA,   No. Clearly you are some kind   of intelligent form.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-281,ARMUS,   Then your instrument lies. It   is useless. Perhaps all your   instruments are useless.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-282,ARMUS,       Don't help him.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-283,DATA,"   One meter to your left, Geordi.",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-284,DATA,       Behind you.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-285,ARMUS,"   Aren't you going to lead him to   his sight again, robot?",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-286,DATA,   No. You will just move it again.   I will not help you hurt him.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-287,RIKER,   None of us will help you.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-288,ARMUS,       Then give it to him. I will find   something else to do. Wait right   here.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+268,TROI,   I'm not sure. Ben's really bad   -- I can barely feel his pulse.,50   INT. SHUTTLECRAFT (INTERCUT AS NECESSARY WITH EXT.,SHUTTLECRAFT,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+269,BEVERLY,   We have to get you out. It has   a forcefield preventing us from   transporting you.,50   INT. SHUTTLECRAFT (INTERCUT AS NECESSARY WITH EXT.,SHUTTLECRAFT,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+270,TROI,   I know.,50   INT. SHUTTLECRAFT (INTERCUT AS NECESSARY WITH EXT.,SHUTTLECRAFT,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+271,RIKER,   She needs our help.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+272,ARMUS,   You have no permission to pass.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+273,BEVERLY,"   There are people suffering a few   meters away, and you block our   path. Why?",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+274,ARMUS,   You asked to talk. I allowed it.   Wasn't that enough for you?,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+275,BEVERLY,   No. I need help to get to them.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+276,ARMUS,   You are ungrateful.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+277,BEVERLY,   You are evil and disgusting. What   are you made of?,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+278,DATA,"   It does not register on my   tricorder, Doctor.",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+279,ARMUS,"   ""It?"" Does that mean I am not   alive?",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+280,DATA,   No. Clearly you are some kind   of intelligent form.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+281,ARMUS,   Then your instrument lies. It   is useless. Perhaps all your   instruments are useless.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+282,ARMUS,       Don't help him.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+283,DATA,"   One meter to your left, Geordi.",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+284,DATA,       Behind you.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+285,ARMUS,"   Aren't you going to lead him to   his sight again, robot?",51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+286,DATA,   No. You will just move it again.   I will not help you hurt him.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+287,RIKER,   None of us will help you.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+288,ARMUS,       Then give it to him. I will find   something else to do. Wait right   here.,51   EXT. VAGRA 2 - NEAR ARMUS,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 289,ARMUS ,   You said I wouldn't enjoy it.   You were wrong.,51B  INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 290,TROI,   Still the great emptiness remains.   You sound so alone.,51B  INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 291,ARMUS ,   I am alone. I am the discarded   skin of a creature whose beauty   dazzles all who see it. But I   am its refuse -- left here.,51B  INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
@@ -348,18 +348,18 @@
 346,PICARD,   I do care.,56   EXT. THE SHROUD (OPTICAL),THE SHROUD,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 347,PICARD,"       Shall I tell you what true evil   is? It is to submit to you. It   is when we surrender our freedom,   our dignity instead of defying   you. Do what you will. We will   take the consequences.",56   EXT. THE SHROUD (OPTICAL),THE SHROUD,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 348,ARMUS,   Wait!,56   EXT. THE SHROUD (OPTICAL),THE SHROUD,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-349,BEVERLY,   He's alive.,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-350,PICARD,   But is he all right?,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-351,BEVERLY,"   Don't move.       Everything shows normal, except   his skin sustained a mild form   of acid bath.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-352,RIKER,"       So much distortion, so   frustrated... it had to get rid   of me.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-353,PICARD,"   I want you all out of here.       Enterprise, beam up the away team --   immediately.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-354,ARMUS,   You need my permission.,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-355,PICARD,   Do I have it?,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-356,ARMUS,   Yes. Are you going?,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-357,PICARD,   No. Not yet.,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-358,PICARD,"   Enterprise, four to beam up.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-359,WORF,"   Aye, sir.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
-360,PICARD,   I want to see my people on the   shuttle.,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA 2,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+349,BEVERLY,   He's alive.,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+350,PICARD,   But is he all right?,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+351,BEVERLY,"   Don't move.       Everything shows normal, except   his skin sustained a mild form   of acid bath.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+352,RIKER,"       So much distortion, so   frustrated... it had to get rid   of me.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+353,PICARD,"   I want you all out of here.       Enterprise, beam up the away team --   immediately.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+354,ARMUS,   You need my permission.,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+355,PICARD,   Do I have it?,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+356,ARMUS,   Yes. Are you going?,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+357,PICARD,   No. Not yet.,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+358,PICARD,"   Enterprise, four to beam up.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+359,WORF,"   Aye, sir.",60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
+360,PICARD,   I want to see my people on the   shuttle.,60   EXT. VAGRA 2 - CONTINUOUS ACTION,VAGRA ,EXT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 361,PICARD,   Troi.,61   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 362,TROI,   Captain Picard.,61   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt
 363,PICARD,   We registered a weakening of   ARMUS' energy while he was talking   to you. What was going on?,61   INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,Skin of Evil,1988-02-01,The Next Generation,122.txt

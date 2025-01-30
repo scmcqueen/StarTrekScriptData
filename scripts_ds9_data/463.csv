@@ -34,10 +34,10 @@
 32,QUARK,       Now what if one of those darts had    gone into his eye?  Do you realize    I'd be liable for that?  Do you know    how much money an eye costs?,5    INT. QUARK'S,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 33,O'BRIEN,"   You're not supposed to throw them    like that, Quark.",5    INT. QUARK'S,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 34,O'BRIEN,   You throw them one at a time...    gently.  Like this.,5    INT. QUARK'S,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-35,QUARK,   Chief O'Brien?,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-36,QUARK,       The Klingons have destroyed two of    my holosuites.  I need a maintenance    crew immediately.,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-37,FUTURE O'BRIEN,"   Quark, we go through this every time    Klingons come aboard the station.     Why don't you just keep them out of    the holosuites?",8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-38,QUARK,"   Have you ever said no to a Klingon?     Besides, they're paying me double.",8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+35,QUARK,   Chief O'Brien?,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+36,QUARK,       The Klingons have destroyed two of    my holosuites.  I need a maintenance    crew immediately.,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+37,FUTURE O'BRIEN,"   Quark, we go through this every time    Klingons come aboard the station.     Why don't you just keep them out of    the holosuites?",8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+38,QUARK,"   Have you ever said no to a Klingon?     Besides, they're paying me double.",8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 39,BASHIR,   The pain you experienced appears to    be a muscle spasm caused by a sudden    decrease in your serum calcium levels --    it's a typical side effect of    radiation poisoning.,12   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 40,BASHIR,       I'm giving you some asinolyathin for    the pain.,12   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 41,O'BRIEN,   But what about... the vision I had?,12   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
@@ -72,10 +72,10 @@
 70,KARINA,   That includes any classified reports    you may have made to Starfleet    Command...,13   INT. WARDROOM,WARDROOM,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 71,SISKO,   I'll have to clear that with    Starfleet.,13   INT. WARDROOM,WARDROOM,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 72,RUWON,   Then do it.,13   INT. WARDROOM,WARDROOM,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-73,QUARK,   Chief O'Brien...,15   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-74,QUARK,       The Klingons have destroyed two of    my holosuites.  I need a maintenance    crew immediately.,15   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-75,O'BRIEN,"   Quark, we go through this every time    Klingons come aboard the station.     Why don't you just...",15   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-76,QUARK,   I think my holosuites can wait.  It    looks like you have bigger problems.,15   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+73,QUARK,   Chief O'Brien...,15   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+74,QUARK,       The Klingons have destroyed two of    my holosuites.  I need a maintenance    crew immediately.,15   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+75,O'BRIEN,"   Quark, we go through this every time    Klingons come aboard the station.     Why don't you just...",15   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+76,QUARK,   I think my holosuites can wait.  It    looks like you have bigger problems.,15   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 77,DAX,   I went over the internal sensor logs    and I did find evidence of a minor    temporal disturbance in Quark's...    and then another one later on the    Promenade.  Both disturbances happened    at about the same time as the Chief's    experiences.,20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 78,SISKO,       So it would seem that you did travel    into the future... and then returned    to the same moment you left.,20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 79,O'BRIEN,       Do you have any idea what caused    this... timeshift?,20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
@@ -97,16 +97,16 @@
 95,O'BRIEN,   Better.,25   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 96,KIRA,"   Good.       Can I see you for a moment, Commander?",25   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 97,SISKO,   Of course.,25   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-98,KIRA,   The Romulans want to debrief everyone    who was on the Defiant when it was    captured by the Founders.  They're    also still not happy with the sensor    information collected by the Defiant.     So they want unrestricted access to    the Defiant.  And they want complete    access to all our personal logs.,26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-99,SISKO,"   Personal logs are out of the question.     But they can have limited access to    the Defiant, and I'll let them debrief    us as well.",26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-100,SISKO,"       I know they're pushing us, Major.     But consider their position.  No    Romulan ships have ever been into    the Gamma Quadrant, much less    encountered the Dominion.  So they're    completely dependent on us for    information.",26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-101,KIRA,   Then maybe they should send their    own ships through the wormhole and    find out for themselves...,26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-102,SISKO,   The Romulans generally prefer to sit    back and pull the strings from a    distance if they can.,26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-103,KIRA,   Well this is one puppet who doesn't    like her strings pulled.,26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-104,SISKO,"   I know.  But like Ruwon said, they've    lived up to their end of the bargain.     And we have to do everything we can    to live up to ours.",26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-105,KIRA,   All right.  I'll draw up a schedule    of... interviews.  And I'll tell    everyone to cooperate.,26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-106,SISKO,"   And Major... when you're in with the    Romulans, try to be... diplomatic.",26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-107,KIRA,       I'm always diplomatic.,26   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+98,KIRA,   The Romulans want to debrief everyone    who was on the Defiant when it was    captured by the Founders.  They're    also still not happy with the sensor    information collected by the Defiant.     So they want unrestricted access to    the Defiant.  And they want complete    access to all our personal logs.,26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+99,SISKO,"   Personal logs are out of the question.     But they can have limited access to    the Defiant, and I'll let them debrief    us as well.",26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+100,SISKO,"       I know they're pushing us, Major.     But consider their position.  No    Romulan ships have ever been into    the Gamma Quadrant, much less    encountered the Dominion.  So they're    completely dependent on us for    information.",26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+101,KIRA,   Then maybe they should send their    own ships through the wormhole and    find out for themselves...,26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+102,SISKO,   The Romulans generally prefer to sit    back and pull the strings from a    distance if they can.,26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+103,KIRA,   Well this is one puppet who doesn't    like her strings pulled.,26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+104,SISKO,"   I know.  But like Ruwon said, they've    lived up to their end of the bargain.     And we have to do everything we can    to live up to ours.",26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+105,KIRA,   All right.  I'll draw up a schedule    of... interviews.  And I'll tell    everyone to cooperate.,26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+106,SISKO,"   And Major... when you're in with the    Romulans, try to be... diplomatic.",26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+107,KIRA,       I'm always diplomatic.,26   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 108,KIRA,"   That is the most ridiculous thing I    have ever heard, and I resent the    implication!",27   INT. WARDROOM,WARDROOM,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 109,RUWON,   You seem very agitated for someone    proclaiming her innocence.,27   INT. WARDROOM,WARDROOM,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 110,KARINA,"   Indeed, your emotional state would    seem to indicate that our theory is    correct and you did abandon the    Defiant prematurely when it was    attacked by the Jem'Hadar.",27   INT. WARDROOM,WARDROOM,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
@@ -151,21 +151,21 @@
 149,ODO,   That's enough!  Get back... come    on...,33   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 150,BASHIR,   Chief... it's all right.  You    collapsed in Quark's about an hour    ago... but you're going to be fine.,40   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 151,O'BRIEN,   No I'm not... in a few hours... I'm    going to be dead.,40   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-152,O'BRIEN,   This is the panel I saw myself open.     It looked like a phaser or a    high-energy laser came out of the    bulkhead.,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-153,ODO,   Nothing on the tricorder... just the    standard conduits and power juncture    ports...,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-154,SISKO,"   If there is something dangerous in    there, it could be cloaked or have    some kind of dampening field around    it.",41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-155,ODO,"   If the two of you will step down the    corridor, I'll open the panel and    take a look.       Don't worry... I'll be careful.",41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-156,ODO,       It's all right.,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-157,ODO,   Nothing.,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-158,SISKO,       You're sure this is the right panel?,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-159,SISKO,"   Well, since it appears that your    first two time jumps each moved you    about five hours into the future...    we could also assume that the incident    you saw in this corridor took place    about five hours into the future.",41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-160,ODO,   That means someone will plant a device    in this panel in the next few hours.,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-161,SISKO,   All of these quarters are vacant at    the moment.  There are no vital power    conduits in this area... no crucial    defense systems...       Why would someone booby-trap a wall    panel here?,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-162,ODO,"   I suggest we place surveillance    equipment in this corridor.  If anyone    does tamper with the panel, we'll be    able to detect it.",41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-163,DAX,   Dax to Sisko.,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-164,SISKO,"   Sisko here.  Go ahead, Lieutenant.",41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-165,DAX,"   Benjamin, can you come to Ops?  I    think I found a clue to Chief    O'Brien's timeshifting.",41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-166,SISKO,   On our way.       Keep me informed.,41   INT. HABITAT RING - CORRIDOR,HABITAT RING,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+152,O'BRIEN,   This is the panel I saw myself open.     It looked like a phaser or a    high-energy laser came out of the    bulkhead.,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+153,ODO,   Nothing on the tricorder... just the    standard conduits and power juncture    ports...,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+154,SISKO,"   If there is something dangerous in    there, it could be cloaked or have    some kind of dampening field around    it.",41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+155,ODO,"   If the two of you will step down the    corridor, I'll open the panel and    take a look.       Don't worry... I'll be careful.",41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+156,ODO,       It's all right.,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+157,ODO,   Nothing.,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+158,SISKO,       You're sure this is the right panel?,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+159,SISKO,"   Well, since it appears that your    first two time jumps each moved you    about five hours into the future...    we could also assume that the incident    you saw in this corridor took place    about five hours into the future.",41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+160,ODO,   That means someone will plant a device    in this panel in the next few hours.,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+161,SISKO,   All of these quarters are vacant at    the moment.  There are no vital power    conduits in this area... no crucial    defense systems...       Why would someone booby-trap a wall    panel here?,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+162,ODO,"   I suggest we place surveillance    equipment in this corridor.  If anyone    does tamper with the panel, we'll be    able to detect it.",41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+163,DAX,   Dax to Sisko.,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+164,SISKO,"   Sisko here.  Go ahead, Lieutenant.",41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+165,DAX,"   Benjamin, can you come to Ops?  I    think I found a clue to Chief    O'Brien's timeshifting.",41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+166,SISKO,   On our way.       Keep me informed.,41   INT. HABITAT RING - CORRIDOR,HABITAT RIN,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 167,DAX,   I've been scanning the area around    the station out to a radius of two    kilometers.  I didn't find anything    at first... then I started scanning    some of the lower subspace bandwidths.     I found traces of low-level tetrion    emissions.,42   INT. OPS,OPS,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 168,O'BRIEN,   I've never seen an emission pattern    like this anywhere outside of a    neutron star...,42   INT. OPS,OPS,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 169,DAX,   Or a quantum singularity.  And    singularities are known to send out    waves of temporal displacement.,42   INT. OPS,OPS,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
@@ -201,16 +201,16 @@
 199,ODO,"   Not yet.  But don't worry -- I plan    on investigating the Klingons, the    Bajorans, Quark, the visiting    Terrelians...",44   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 200,SISKO,   You think Quark had something to do    with this?,44   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 201,ODO,       I always investigate Quark.,44   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-202,BASHIR,"   Well, it looks like you're going to    cheat death after all.  It was just    about this time when you saw yourself    being killed.",45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-203,O'BRIEN,   I feel like someone just walked over    my grave.       I mean... I've had a lot of brushes    with death in my career.  But there    was something about watching myself    being killed... feeling my own neck    for a pulse that wasn't there...,45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-204,BASHIR,   It could've been worse.       It could've happened to me.,45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-205,QUARK,"   Here you are, Gentlemen.       How is D.S. Nine's most famous    fortuneteller?",45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-206,O'BRIEN,   Don't call me that.  I haven't told    anyone's fortune.,45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-207,QUARK,   It's just a figure of speech.,45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-208,QUARK,   On the other hand... if you should    find yourself in the future again...    and you find yourself passing by the    dabo table... would it really hurt    to take a look at the numbers coming    up on the wheel?  I could make it    worth your while.,45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-209,O'BRIEN,       Let's get out of here.,45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-210,QUARK,   It was just a thought.,45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-211,O'BRIEN,   Can you believe that?  I'm being    pulled into the future and all he    can think about is --,45   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+202,BASHIR,"   Well, it looks like you're going to    cheat death after all.  It was just    about this time when you saw yourself    being killed.",45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+203,O'BRIEN,   I feel like someone just walked over    my grave.       I mean... I've had a lot of brushes    with death in my career.  But there    was something about watching myself    being killed... feeling my own neck    for a pulse that wasn't there...,45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+204,BASHIR,   It could've been worse.       It could've happened to me.,45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+205,QUARK,"   Here you are, Gentlemen.       How is D.S. Nine's most famous    fortuneteller?",45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+206,O'BRIEN,   Don't call me that.  I haven't told    anyone's fortune.,45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+207,QUARK,   It's just a figure of speech.,45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+208,QUARK,   On the other hand... if you should    find yourself in the future again...    and you find yourself passing by the    dabo table... would it really hurt    to take a look at the numbers coming    up on the wheel?  I could make it    worth your while.,45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+209,O'BRIEN,       Let's get out of here.,45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+210,QUARK,   It was just a thought.,45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+211,O'BRIEN,   Can you believe that?  I'm being    pulled into the future and all he    can think about is --,45   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 212,BASHIR,   Chief!,49   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 213,O'BRIEN,"   What the hell happened to me, Julian?",49   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 214,BASHIR,   It was the... the radiation.  I didn't    realize it had damaged the basilar    arteries in your brain stem until it    was too late.,49   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
@@ -226,7 +226,7 @@
 224,O'BRIEN,   Gave up!,49   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 225,BASHIR,"   I'm sorry Chief, but there comes a    point when the human body simply...    gives up.",49   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 226,O'BRIEN,"   Well, maybe my doctor wasn't --",49   INT. INFIRMARY,INFIRMARY,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
-227,BASHIR,       Medical Emergency in Quark's.  I    need a nurse and a medkit immediately.,50   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
+227,BASHIR,       Medical Emergency in Quark's.  I    need a nurse and a medkit immediately.,50   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 228,ODO,   We finally were able to localize the    transporter beam and trace it back    to this location.,52   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 229,SISKO,   These quarters have been vacant for    weeks.,52   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt
 230,ODO,"   Somehow, they overrode the security    lock on the door to gain access.",52   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Visionary,1995-01-03,Deep Space Nine,463.txt

@@ -1,12 +1,12 @@
 ,character,quote,scene,location,view,episode,date,series,file
 0,PICARD ,"   Captain's log, stardate 41886.9.   We are en route to Sarona 8 for   much needed R and R. The entire   crew is looking forward to the   diversion. On a personal note,   I have allowed myself the luxury   of a head start.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-1,PICARD,   En garde.,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRISE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-2,RIKER,   I took advantage...,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRISE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-3,PICARD,"   No, no. The advantage was yours,   Number One. I'm out of   practice... too much time on the   bridge. En garde!",2    INT. ENTERPRISE - GYMNASIUM,ENTERPRISE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-4,RIKER,   Interesting move. What technique   was that?,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRISE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-5,PICARD,   The technique of a desperate man.   Shall we...,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRISE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-6,COMPUTER,   Yellow Alert.,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRISE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-7,PICARD,   Picard to bridge. Report.,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRISE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+1,PICARD,   En garde.,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRIS,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+2,RIKER,   I took advantage...,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRIS,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+3,PICARD,"   No, no. The advantage was yours,   Number One. I'm out of   practice... too much time on the   bridge. En garde!",2    INT. ENTERPRISE - GYMNASIUM,ENTERPRIS,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+4,RIKER,   Interesting move. What technique   was that?,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRIS,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+5,PICARD,   The technique of a desperate man.   Shall we...,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRIS,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+6,COMPUTER,   Yellow Alert.,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRIS,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+7,PICARD,   Picard to bridge. Report.,2    INT. ENTERPRISE - GYMNASIUM,ENTERPRIS,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 8,DATA,"   It is not an attack that we know   of, Captain. Origin unknown.   Sensors did not detect the force   until immediately prior to impact.   Shields did not have time to   respond. Damages unknown.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 9,PICARD,"   We're on our way, Mister Data.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 10,WORF,"   Damage reports from all decks   coming in, sir.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
@@ -36,57 +36,57 @@
 34,RIKER,"   Did you know him, Captain?",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 35,PICARD,"   No. He was teaching at the   University when I was in Paris,   but I never had the pleasure.   Number One, you have the Conn.   Inform me half an hour before we   reach the coordinates.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 36,RIKER,"   Aye, sir.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-37,PICARD,"   Computer, this is Captain Picard.",4    INT. CORRIDOR - OUTSIDE HOLODECK,CORRIDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-38,COMPUTER,"   What is your pleasure, Captain?",4    INT. CORRIDOR - OUTSIDE HOLODECK,CORRIDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-39,PICARD,   Paris. Twenty-two years ago.   A warm spring day. April ninth.   Eighteen hundred hours -- three   o'clock.,4    INT. CORRIDOR - OUTSIDE HOLODECK,CORRIDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+37,PICARD,"   Computer, this is Captain Picard.",4    INT. CORRIDOR - OUTSIDE HOLODECK,CORRIDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+38,COMPUTER,"   What is your pleasure, Captain?",4    INT. CORRIDOR - OUTSIDE HOLODECK,CORRIDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+39,PICARD,   Paris. Twenty-two years ago.   A warm spring day. April ninth.   Eighteen hundred hours -- three   o'clock.,4    INT. CORRIDOR - OUTSIDE HOLODECK,CORRIDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 40,EDOUARD,"   Monsieur, welcome to Cafe Des   Artistes. Is this your first time   in Paris?",5    INT. HOLODECK,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 41,PICARD,"   No, I've been here before.",5    INT. HOLODECK,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 42,PICARD,       That table.,5    INT. HOLODECK,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 43,EDOUARD,"   Mais oui, we are here to please   you.",5    INT. HOLODECK,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 44,PICARD,   I've been away far too long.,5    INT. HOLODECK,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-45,EDOUARD,"   Some wine, some cheese, a perfect   tarte tatin...",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-46,PICARD,   I'm afraid I'm not hungry. I   really came for the view.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-47,EDOUARD,   Perhaps what you hunger for is   not on the menu?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-48,PICARD,"   Perhaps not. It was many years   ago, I had a rendezvous -- I was   to meet someone, a young woman,   here, at this very table.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-49,EDOUARD,   She did not come?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-50,PICARD,"   I don't know, actually. I've   always imagined that she did.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-51,EDOUARD,"   You, however, did not. Trust   Edouard. I will bring something   special, just for you.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-52,FRANCINE,   I'm not staying if all you're   going to do is talk about him.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-53,GABRIELLE,   What is this for?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-54,FRANCINE,   My lunch. Feed it to the birds.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-55,GABRIELLE,   He will come. He will.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-56,PICARD,"   Yes, I'm sure he will.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-57,GABRIELLE,"   He's a military man, just like   you. We're going to get married   and he's going to stay here in   Paris and never leave me.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-58,PICARD,   He's stationed here?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-59,GABRIELLE,"   Not yet, but that's the way I've   got it planned. Last night, well,   after last night, he just couldn't   leave. He couldn't.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-60,PICARD,"   If he's as young as you are, maybe   he doesn't know yet exactly what   he wants to do.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-61,GABRIELLE,   You're an important Starfleet   officer -- what would you advise   my lover to do -- go off and   explore the galaxy or stay here   and explore something which has   no boundaries -- love?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-62,PICARD,   I would tell him that he must be   the person he is meant to be...   and that you deserve nothing less   than that.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-63,EDOUARD,"   Bordeaux, a very passionate year.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-64,PICARD,   A glass for the young lady.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-65,GABRIELLE,   Do I remind you of the girl you   left behind?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-66,PICARD,"   No. Yes, you do. It's hard to   say, it has been many years.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-67,GABRIELLE,   Then you have forgotten her face.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-68,PICARD,"   Not a single detail. I can see   every inch of her to this day and   being here -- I can feel the   softness of her in the breeze,   smell the fragrance of her in the   flowers. I have not forgotten.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-69,GABRIELLE,   What was her name?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-70,PICARD,   Laura.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODECK,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-71,PICARD,   You've been at that console twice   as long as you estimated.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-72,DATA,"   My estimation was incorrect,   Captain.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-73,DATA,       And I think it would be best if   what I am about to tell you were   also incorrect.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-74,PICARD,   Nonsense. Out with it.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-75,DATA,"   Someone, I would assume Professor   Manheim, opened up a window. A   window into another dimension.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-76,PICARD,   You don't know how?,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-77,RIKER,   You don't know what it is?,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-78,PICARD,   What came through this window?,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-79,PICARD,"       A window, that's all you know.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-80,DATA,"   Sir, the answers to your questions   will be the most important   scientific answers of the   twenty-fourth century.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-81,PICARD,   Manheim.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-82,GEORDI,"   Captain, we've reached the   coordinates specified. There's   nothing here.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-83,WORF,"   I am receiving new coordinates.   It's a relay signal, the same   source as the first one.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-84,PICARD,   Set course for the new   coordinates.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-85,GEORDI,"   Aye, sir.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-86,RIKER,   Why would someone make it this   difficult to find him if he truly   wants to be found?,7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-87,WORF,"   A failsafe, I would imagine.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+45,EDOUARD,"   Some wine, some cheese, a perfect   tarte tatin...",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+46,PICARD,   I'm afraid I'm not hungry. I   really came for the view.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+47,EDOUARD,   Perhaps what you hunger for is   not on the menu?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+48,PICARD,"   Perhaps not. It was many years   ago, I had a rendezvous -- I was   to meet someone, a young woman,   here, at this very table.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+49,EDOUARD,   She did not come?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+50,PICARD,"   I don't know, actually. I've   always imagined that she did.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+51,EDOUARD,"   You, however, did not. Trust   Edouard. I will bring something   special, just for you.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+52,FRANCINE,   I'm not staying if all you're   going to do is talk about him.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+53,GABRIELLE,   What is this for?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+54,FRANCINE,   My lunch. Feed it to the birds.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+55,GABRIELLE,   He will come. He will.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+56,PICARD,"   Yes, I'm sure he will.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+57,GABRIELLE,"   He's a military man, just like   you. We're going to get married   and he's going to stay here in   Paris and never leave me.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+58,PICARD,   He's stationed here?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+59,GABRIELLE,"   Not yet, but that's the way I've   got it planned. Last night, well,   after last night, he just couldn't   leave. He couldn't.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+60,PICARD,"   If he's as young as you are, maybe   he doesn't know yet exactly what   he wants to do.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+61,GABRIELLE,   You're an important Starfleet   officer -- what would you advise   my lover to do -- go off and   explore the galaxy or stay here   and explore something which has   no boundaries -- love?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+62,PICARD,   I would tell him that he must be   the person he is meant to be...   and that you deserve nothing less   than that.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+63,EDOUARD,"   Bordeaux, a very passionate year.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+64,PICARD,   A glass for the young lady.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+65,GABRIELLE,   Do I remind you of the girl you   left behind?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+66,PICARD,"   No. Yes, you do. It's hard to   say, it has been many years.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+67,GABRIELLE,   Then you have forgotten her face.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+68,PICARD,"   Not a single detail. I can see   every inch of her to this day and   being here -- I can feel the   softness of her in the breeze,   smell the fragrance of her in the   flowers. I have not forgotten.",6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+69,GABRIELLE,   What was her name?,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+70,PICARD,   Laura.,6    INT. HOLODECK - PARIS - CONTINUOUS ACTION - DAY,HOLODEC,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+71,PICARD,   You've been at that console twice   as long as you estimated.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+72,DATA,"   My estimation was incorrect,   Captain.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+73,DATA,       And I think it would be best if   what I am about to tell you were   also incorrect.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+74,PICARD,   Nonsense. Out with it.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+75,DATA,"   Someone, I would assume Professor   Manheim, opened up a window. A   window into another dimension.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+76,PICARD,   You don't know how?,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+77,RIKER,   You don't know what it is?,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+78,PICARD,   What came through this window?,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+79,PICARD,"       A window, that's all you know.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+80,DATA,"   Sir, the answers to your questions   will be the most important   scientific answers of the   twenty-fourth century.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+81,PICARD,   Manheim.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+82,GEORDI,"   Captain, we've reached the   coordinates specified. There's   nothing here.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+83,WORF,"   I am receiving new coordinates.   It's a relay signal, the same   source as the first one.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+84,PICARD,   Set course for the new   coordinates.,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+85,GEORDI,"   Aye, sir.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+86,RIKER,   Why would someone make it this   difficult to find him if he truly   wants to be found?,7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+87,WORF,"   A failsafe, I would imagine.",7    INT. MAIN BRIDGE - DAY,MAIN BRIDG,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 88,GEORDI,"   Captain, my sensors are picking   up what appears to be a small   planet.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 89,PICARD,"   Mister La Forge, standard orbit.   Give me a visual.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 90,GEORDI,"   Aye, sir.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
@@ -108,12 +108,12 @@
 106,PICARD,       Good.       Lock onto their coordinates and   beam them up.,9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 107,RIKER,"   I'd like extra decontamination   precautions, Captain.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 108,PICARD,"   Fine, Number One.",9    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-109,RIKER,   The professor seems to be going   in and out of consciousness.,12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION ARE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-110,PICARD,"   Well, the first time he's ""in""   be sure you find out what the hell   he was up to down there.",12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION ARE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-111,RIKER,"   Is anything wrong, sir?",12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION ARE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-112,PICARD,   No.,12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION ARE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-113,LAURA,   Jean-Luc?,12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION ARE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-114,PICARD,   Laura.,12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION ARE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+109,RIKER,   The professor seems to be going   in and out of consciousness.,12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION AREA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+110,PICARD,"   Well, the first time he's ""in""   be sure you find out what the hell   he was up to down there.",12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION AREA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+111,RIKER,"   Is anything wrong, sir?",12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION AREA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+112,PICARD,   No.,12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION AREA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+113,LAURA,   Jean-Luc?,12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION AREA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+114,PICARD,   Laura.,12   INT. - OUTSIDE THE DE-CONTAMINATION AREA,- OUTSIDE THE DE-CONTAMINATION AREA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 115,BEVERLY,   It's not good.,13   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 116,RIKER,   When will I be able to question   him?,13   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 117,BEVERLY,   I don't know.,13   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
@@ -123,50 +123,50 @@
 121,RIKER,"   Doctor, we need to talk to this   man as soon as we can.",13   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 122,BEVERLY,   I'll let you know as soon as he   regains consciousness.,13   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 123,LAURA,"   Thank you. Thank you, all.",13   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-124,PICARD,"   Bridge, Picard. Status report.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-125,WORF,"   Shields are holding, Captain.   Ten percent loss of power.   Minimal damage, all decks.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-126,PICARD,"   We can't wait for this man to wake   up to find out what's going on   here. Clearly, whatever this   window is, it's still open.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-127,RIKER,"   Agreed, Captain. I'll have Data   start immediately on a thorough   evaluation of all of Doctor   Manheim's theories.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-128,MANHEIM,   Head gone. Must fill up. It's   in the cross!,15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-129,PICARD,   When did this start?,15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-130,LAURA,"   Right before he sent out the   S.O.S. -- after he -- well, he'd   been in the lab for at least three   days.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-131,PICARD,"   Laura, I'm afraid I need to ask   you a number of questions - and   time is of the essence.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-132,BEVERLY,   You can use my office.,15   INT. SICKBAY - CONTINUOUS ACTION,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-133,LAURA,   This is not how I imagined it.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-134,PICARD,   Nor I.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-135,LAURA,   You've done well. Exactly as   you'd hoped.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-136,PICARD,"   Not exactly. Nothing works just   as you hope... Laura, I'm sorry   about your husband.       I need some information from you.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-137,LAURA,"   I don't know what I can tell you,   Jean-Luc. At best, I'm a   glorified laboratory assistant.   Paul's mental capabilities are   so far beyond yours and mine, he   couldn't discuss his work with   me.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-138,PICARD,   But you must know something of   the nature of his experiments.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-139,LAURA,"   He lectures me, he practices on   me, but he doesn't confide in me.   I stopped listening long ago.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-140,PICARD,   Why did he come here? Why Vandor?,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-141,LAURA,"   He said it was because it was far   enough away, no one would or could   steal his theories... or stop him   from trying to prove them.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-142,PICARD,   What he was working on is   unquestionably quite dangerous   as well as out of control.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-143,LAURA,"   He's a little like you, Jean-Luc.   He loves, he needs the challenges   of the unknown... all I do know   is that he's been very close to   a major breakthrough. He's been   excited and agitated and working   around the clock for the past few   months.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-144,PICARD,   Why weren't you affected?,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-145,LAURA,"   Every time he began an experiment,   he insisted I stay in what he said   was a protected room. I guess   he was right.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-146,PICARD,   Fifteen years here? By yourself?,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-147,LAURA,   There was no place left for Paul   to go -- and I am his wife.       Our destiny isn't always exactly   what we expect. Isn't that what   you just said?,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-148,PICARD,   I must send a team to the planet.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-149,LAURA,   You can't. It's protected.   Paul's made sure no one can get   in.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-150,BEVERLY,   Excuse me.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-151,LAURA,   Is he worse?,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-152,BEVERLY,   He's resting. I'd like to have   you undergo some tests as well.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-153,BEVERLY,       He'll start them.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-154,LAURA,"   Thank you for your kindness,   Doctor.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-155,PICARD,   She's an old friend.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-156,BEVERLY,   I gathered that. It's her husband   I'm more concerned with at the   moment.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-157,PICARD,   What's his prognosis?,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-158,BEVERLY,"   So far, he's dying and there's   nothing I can do about it. His   entire genetic structure is   altering -- constantly. I don't   know how or why. I've never   encountered anything like it   before.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-159,PICARD,   How long does he have?,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-160,BEVERLY,   Maybe a couple of days. It's not   predictable. All I can do is   attempt to maintain him until we   find out what's causing the   damage.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-161,PICARD,   Can I talk to him?,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-162,BEVERLY,   You may never be able to talk to   him. He may never be coherent   again.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-163,PICARD,   Doctor.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-164,PICARD,       I haven't seen Mrs. Manheim since   Paris.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-165,BEVERLY,"   You needn't explain, Captain.",16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-166,PICARD,   It was a very long time ago.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-167,BEVERLY,   Yes. She's a lovely woman.,16   INT. SICKBAY - OUTER OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+124,PICARD,"   Bridge, Picard. Status report.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+125,WORF,"   Shields are holding, Captain.   Ten percent loss of power.   Minimal damage, all decks.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+126,PICARD,"   We can't wait for this man to wake   up to find out what's going on   here. Clearly, whatever this   window is, it's still open.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+127,RIKER,"   Agreed, Captain. I'll have Data   start immediately on a thorough   evaluation of all of Doctor   Manheim's theories.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+128,MANHEIM,   Head gone. Must fill up. It's   in the cross!,15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+129,PICARD,   When did this start?,15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+130,LAURA,"   Right before he sent out the   S.O.S. -- after he -- well, he'd   been in the lab for at least three   days.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+131,PICARD,"   Laura, I'm afraid I need to ask   you a number of questions - and   time is of the essence.",15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+132,BEVERLY,   You can use my office.,15   INT. SICKBAY - CONTINUOUS ACTION,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+133,LAURA,   This is not how I imagined it.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+134,PICARD,   Nor I.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+135,LAURA,   You've done well. Exactly as   you'd hoped.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+136,PICARD,"   Not exactly. Nothing works just   as you hope... Laura, I'm sorry   about your husband.       I need some information from you.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+137,LAURA,"   I don't know what I can tell you,   Jean-Luc. At best, I'm a   glorified laboratory assistant.   Paul's mental capabilities are   so far beyond yours and mine, he   couldn't discuss his work with   me.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+138,PICARD,   But you must know something of   the nature of his experiments.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+139,LAURA,"   He lectures me, he practices on   me, but he doesn't confide in me.   I stopped listening long ago.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+140,PICARD,   Why did he come here? Why Vandor?,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+141,LAURA,"   He said it was because it was far   enough away, no one would or could   steal his theories... or stop him   from trying to prove them.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+142,PICARD,   What he was working on is   unquestionably quite dangerous   as well as out of control.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+143,LAURA,"   He's a little like you, Jean-Luc.   He loves, he needs the challenges   of the unknown... all I do know   is that he's been very close to   a major breakthrough. He's been   excited and agitated and working   around the clock for the past few   months.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+144,PICARD,   Why weren't you affected?,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+145,LAURA,"   Every time he began an experiment,   he insisted I stay in what he said   was a protected room. I guess   he was right.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+146,PICARD,   Fifteen years here? By yourself?,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+147,LAURA,   There was no place left for Paul   to go -- and I am his wife.       Our destiny isn't always exactly   what we expect. Isn't that what   you just said?,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+148,PICARD,   I must send a team to the planet.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+149,LAURA,   You can't. It's protected.   Paul's made sure no one can get   in.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+150,BEVERLY,   Excuse me.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+151,LAURA,   Is he worse?,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+152,BEVERLY,   He's resting. I'd like to have   you undergo some tests as well.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+153,BEVERLY,       He'll start them.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+154,LAURA,"   Thank you for your kindness,   Doctor.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+155,PICARD,   She's an old friend.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+156,BEVERLY,   I gathered that. It's her husband   I'm more concerned with at the   moment.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+157,PICARD,   What's his prognosis?,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+158,BEVERLY,"   So far, he's dying and there's   nothing I can do about it. His   entire genetic structure is   altering -- constantly. I don't   know how or why. I've never   encountered anything like it   before.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+159,PICARD,   How long does he have?,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+160,BEVERLY,   Maybe a couple of days. It's not   predictable. All I can do is   attempt to maintain him until we   find out what's causing the   damage.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+161,PICARD,   Can I talk to him?,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+162,BEVERLY,   You may never be able to talk to   him. He may never be coherent   again.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+163,PICARD,   Doctor.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+164,PICARD,       I haven't seen Mrs. Manheim since   Paris.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+165,BEVERLY,"   You needn't explain, Captain.",16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+166,PICARD,   It was a very long time ago.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+167,BEVERLY,   Yes. She's a lovely woman.,16   INT. SICKBAY - OUTER OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 168,RIKER,"   Were you able to get any   information, sir?",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 169,PICARD,   Mrs. Manheim is in the dark about   her husband's work. And he may   never come out of the state he's   in. What have you found out?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 170,DATA,   Sensors show there's an immense   volume of energy being reflected   from a small point on the planet's   surface... near the main   Laboratory.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
@@ -292,20 +292,20 @@
 290,BEVERLY,   The same. Nothing I do seems to   make any difference.,26   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 291,BEVERLY,   That's not why you're here.,26   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 292,TROI,   I'm supposed to be the empath.,26   INT. SICKBAY,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-293,TROI,   Are you all right?,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-294,BEVERLY,   Why wouldn't I be? I've got one   of the medical wonders of the   galaxy dying in my Sickbay.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-295,TROI,   That isn't what I meant.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-296,BEVERLY,   I don't think I want to talk about   what I think you mean.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-297,TROI,   You're not helping the situation   by pretending it doesn't exist.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-298,BEVERLY,   I'm making it worse?,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-299,TROI,   I didn't say that. I said you're   not helping it. Or yourself.   Or the captain.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-300,BEVERLY,   That's his problem.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-301,BEVERLY,   All right. I'm still not sure   how I feel about him. Now it   looks as if I'll never know...   are you happy? I said it.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-302,TROI,   Talk to him.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-303,BEVERLY,   No. I can't compete with a ghost   from his past. No one could.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-304,TROI,   She's not a ghost. She's here   right now.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-305,BEVERLY,"   She may be in the here and now,   but it's the ghost he sees. No   Deanna, he'll have to work it   through without my... input.",27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-306,BEVERLY,"   There. Now I feel better.   thanks, Deanna.",27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBAY,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+293,TROI,   Are you all right?,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+294,BEVERLY,   Why wouldn't I be? I've got one   of the medical wonders of the   galaxy dying in my Sickbay.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+295,TROI,   That isn't what I meant.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+296,BEVERLY,   I don't think I want to talk about   what I think you mean.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+297,TROI,   You're not helping the situation   by pretending it doesn't exist.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+298,BEVERLY,   I'm making it worse?,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+299,TROI,   I didn't say that. I said you're   not helping it. Or yourself.   Or the captain.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+300,BEVERLY,   That's his problem.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+301,BEVERLY,   All right. I'm still not sure   how I feel about him. Now it   looks as if I'll never know...   are you happy? I said it.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+302,TROI,   Talk to him.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+303,BEVERLY,   No. I can't compete with a ghost   from his past. No one could.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+304,TROI,   She's not a ghost. She's here   right now.,27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+305,BEVERLY,"   She may be in the here and now,   but it's the ghost he sees. No   Deanna, he'll have to work it   through without my... input.",27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+306,BEVERLY,"   There. Now I feel better.   thanks, Deanna.",27   INT. SICKBAY - DR. CRUSHER'S OFFICE,SICKBA,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 307,PICARD,"   How soon, Mister Data?",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 308,DATA,"   I am almost through comparing the   calculations, Captain.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 309,BEVERLY,"   Bridge, this is Sickbay. Doctor   Manheim is awake and asking to   speak with you, Captain. Alone.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
@@ -330,10 +330,10 @@
 328,RIKER,"   Frequency open, sir.",35   INT. VANDOR - CORRIDOR (OPTICAL),VANDOR - CORRIDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 329,WORF,   Look out!,35   INT. VANDOR - CORRIDOR (OPTICAL),VANDOR - CORRIDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 330,RIKER,   Manheim forgot to mention that   one.,35   INT. VANDOR - CORRIDOR (OPTICAL),VANDOR - CORRIDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-331,WORF,   What is it?,36   INT. VANDOR - MANHEIM'S LABORATORY - CONTINUOUS ACTION,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-332,DATA,"   Hopefully, an easily deactivated   alarm system.",36   INT. VANDOR - MANHEIM'S LABORATORY - CONTINUOUS ACTION,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-333,RIKER,   More surprises.,36   INT. VANDOR - MANHEIM'S LABORATORY - CONTINUOUS ACTION,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-334,RIKER,"   Captain, a problem with Manheim's   security. Any chance he's awake?",36   INT. VANDOR - MANHEIM'S LABORATORY - CONTINUOUS ACTION,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+331,WORF,   What is it?,36   INT. VANDOR - MANHEIM'S LABORATORY - CONTINUOUS ACTION,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+332,DATA,"   Hopefully, an easily deactivated   alarm system.",36   INT. VANDOR - MANHEIM'S LABORATORY - CONTINUOUS ACTION,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+333,RIKER,   More surprises.,36   INT. VANDOR - MANHEIM'S LABORATORY - CONTINUOUS ACTION,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+334,RIKER,"   Captain, a problem with Manheim's   security. Any chance he's awake?",36   INT. VANDOR - MANHEIM'S LABORATORY - CONTINUOUS ACTION,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 335,PICARD,"   No, Commander. Doctor Crusher   is under orders to inform me if   the professor regains   consciousness.       What's the problem?",37   INT. MAIN BRIDGE (INTERCUT AS NEEDED),MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 336,DATA,   Professor Manheim's state of   consciousness is of little use   to us.,37   INT. MAIN BRIDGE (INTERCUT AS NEEDED),MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 337,PICARD,   Explain.,37   INT. MAIN BRIDGE (INTERCUT AS NEEDED),MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
@@ -353,18 +353,18 @@
 351,PICARD,"   Are you saying it could   arbitrarily, or even with fine   methodology, change direction and   instead of blasting us, draw us   in... suck us through the window?",38   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 352,GEORDI,"   That would certainly be a viable   possibility, sir. One of   trillions.",38   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 353,TROI,"   With so much to fear, there is   truly nothing to do but remain   calm.",38   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-354,DATA,   It is the only chance we have.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-355,RIKER,   What is?,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-356,DATA,   A reversal of the same effect   Doctor Manheim has programmed into   the computer.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-357,WORF,   How?,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-358,DATA,   There is no time to reprogram.   You will need to physically change   microchips the same time I program   the correct instructions here.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-359,RIKER,"   Captain, we have a plan.",39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-360,PICARD,"   Proceed, and report at regular   intervals.",39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-361,DATA ,   Someone must climb to the top.   The circuits we need to change   are in that panel.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-362,DATA,   Whoever goes will be in more   danger than falling. A great heat   is generated in this chamber.   Enough to disintegrate any of us   in seconds.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-363,RIKER,"   What about the doors, the ones   we came in? If they stay open,   would the system short out? Heat   of that magnitude requires a seal   of some sort, doesn't it?",39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-364,DATA,   We cannot do it electronically.   I need to use full power to   reverse the effect.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
-365,WORF,   I will keep the doors from   closing.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDOR,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+354,DATA,   It is the only chance we have.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+355,RIKER,   What is?,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+356,DATA,   A reversal of the same effect   Doctor Manheim has programmed into   the computer.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+357,WORF,   How?,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+358,DATA,   There is no time to reprogram.   You will need to physically change   microchips the same time I program   the correct instructions here.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+359,RIKER,"   Captain, we have a plan.",39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+360,PICARD,"   Proceed, and report at regular   intervals.",39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+361,DATA ,   Someone must climb to the top.   The circuits we need to change   are in that panel.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+362,DATA,   Whoever goes will be in more   danger than falling. A great heat   is generated in this chamber.   Enough to disintegrate any of us   in seconds.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+363,RIKER,"   What about the doors, the ones   we came in? If they stay open,   would the system short out? Heat   of that magnitude requires a seal   of some sort, doesn't it?",39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+364,DATA,   We cannot do it electronically.   I need to use full power to   reverse the effect.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
+365,WORF,   I will keep the doors from   closing.,39   INT. VANDOR - MANHEIM'S LABORATORY,VANDO,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 366,PICARD,"   Away team, report.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 367,DATA,"   Sir, we are executing the plan.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt
 368,PICARD,"   You've got three minutes, no more.   Transporter Room, lock onto their   coordinates and be ready to beam   them up the instant of my command.",40   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,We'll Always Have Paris,1988-02-22,The Next Generation,124.txt

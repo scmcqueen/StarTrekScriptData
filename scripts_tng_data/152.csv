@@ -17,13 +17,13 @@
 15,PICARD,   Make it so.       We're on our way --,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 16,WORF,"   We've lost contact, sir.",4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 17,PICARD,   Increase to warp nine.,4    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-18,LIKO,   Why did we have to come so early?,8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-19,OJI,"   When the sun reaches its zenith,   I have to be ready to take the   measurements.",8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-20,LIKO,       You'll be ready. You've read   the sundial hundreds of times.,8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-21,OJI,"   Yes, father -- but never as the   appointed recordkeeper.",8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-22,LIKO,       You're taking your duties quite   seriously. Your mother would have   been proud of you.,8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-23,OJI,   What is that?,8A   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-24,LIKO,   I don't know...,8A   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+18,LIKO,   Why did we have to come so early?,8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+19,OJI,"   When the sun reaches its zenith,   I have to be ready to take the   measurements.",8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+20,LIKO,       You'll be ready. You've read   the sundial hundreds of times.,8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+21,OJI,"   Yes, father -- but never as the   appointed recordkeeper.",8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+22,LIKO,       You're taking your duties quite   seriously. Your mother would have   been proud of you.,8    EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+23,OJI,   What is that?,8A   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+24,LIKO,   I don't know...,8A   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 25,BARRON,       Keep work... Palmer... Warren...,10   INT. DUCK BLIND - DAY (OPTICAL),DUCK BLIND - DAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 26,DATA,   The hologram generator is now   functional.,10   INT. DUCK BLIND - DAY (OPTICAL),DUCK BLIND - DAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 27,RIKER,"   Or would be, if we had power...",10   INT. DUCK BLIND - DAY (OPTICAL),DUCK BLIND - DAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
@@ -31,7 +31,7 @@
 29,BEVERLY,   Enterprise -- beam Martinez and   his patient directly to Sickbay.,10AA	EXT. MINTAKA THREE - DUCK BLIND - DAY (OPTICAL),MINTAKA THREE - DUCK BLIND - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 30,DATA,   Doctor --,10AA	EXT. MINTAKA THREE - DUCK BLIND - DAY (OPTICAL),MINTAKA THREE - DUCK BLIND - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 31,BEVERLY,   Crusher to Enterprise. Medical   emergency. Two to beam directly   to Sickbay.,12   EXT. MINTAKA THREE - DUCK BLIND - DAY (OPTICAL),MINTAKA THREE - DUCK BLIND - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-32,GEORDI,   That should do it.,16   INT. DUCK BLIND - DAY,DUCK BLIND,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+32,GEORDI,   That should do it.,16   INT. DUCK BLIND - DAY,DUCK BLIN,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 33,BEVERLY,   Before you start quoting the Prime   Directive -- he'd already seen   us; the damage was done. It was   bring him aboard or let him die.,19   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 34,PICARD,   Then why didn't you let him die?,19   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 35,BEVERLY,   Because we were responsible for   his injuries!,19   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
@@ -60,15 +60,15 @@
 58,LIKO,       Picard?,19   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 59,BEVERLY,   Damn --,19   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 60,PICARD,"   Doctor, your next task is clear.",19   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-61,LIKO ,       Oji?,28   EXT. MINTAKA THREE - DUCK BLIND - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-62,OJI,   Father?,28   EXT. MINTAKA THREE - DUCK BLIND - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-63,LIKO,   Here...,29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-64,OJI,"   I thought I'd never see you again.   When you and the woman vanished,   I was sure you were dead.",29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-65,LIKO,   I think I was... but I was brought   back to life. I awoke in an   incredible place -- and my wounds   were gone. I had been healed.,29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-66,OJI,   How is that possible?,29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-67,LIKO,"   Long ago, our people believed in   beings with great powers. These   beings made the rains come, told   the sun when to rise, and caused   all life to be born, to grow,   to die.",29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-68,OJI,   But those are just tales -- old   superstitions.,29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-69,LIKO,"   Perhaps the beliefs of our   ancestors are true. Nothing else   can explain what's happened.       Everything's changed now, Oji.   We must tell the others...",29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+61,LIKO ,       Oji?,28   EXT. MINTAKA THREE - DUCK BLIND - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+62,OJI,   Father?,28   EXT. MINTAKA THREE - DUCK BLIND - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+63,LIKO,   Here...,29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+64,OJI,"   I thought I'd never see you again.   When you and the woman vanished,   I was sure you were dead.",29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+65,LIKO,   I think I was... but I was brought   back to life. I awoke in an   incredible place -- and my wounds   were gone. I had been healed.,29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+66,OJI,   How is that possible?,29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+67,LIKO,"   Long ago, our people believed in   beings with great powers. These   beings made the rains come, told   the sun when to rise, and caused   all life to be born, to grow,   to die.",29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+68,OJI,   But those are just tales -- old   superstitions.,29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+69,LIKO,"   Perhaps the beliefs of our   ancestors are true. Nothing else   can explain what's happened.       Everything's changed now, Oji.   We must tell the others...",29   EXT. MINTAKA THREE - SECLUDED AREA - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 70,BEVERLY,"   ... Barron is stable, but Warren   is still critical.",30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 71,RIKER,"   Palmer is missing, and scans of   the planet pick up Mintakan life   forms only -- no humans.   However...",30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 72,DATA,"   The area around the duck blind   exhibits Karst topography --   sinkholes, underground rivers,   and caverns. And the rock strata   contain a high concentration of   thallium compounds, which may be   obstructing our sensor beams.",30   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
@@ -89,33 +89,33 @@
 87,RIKER,"   What kinds of ""services?""",32   EXT. MINTAKA THREE - SECLUDED AREA - DAY (OPTICAL),MINTAKA THREE - SECLUDED AREA - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 88,TROI,   All kinds.,32   EXT. MINTAKA THREE - SECLUDED AREA - DAY (OPTICAL),MINTAKA THREE - SECLUDED AREA - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 89,RIKER,       Ah. They are a sensible race.,32   EXT. MINTAKA THREE - SECLUDED AREA - DAY (OPTICAL),MINTAKA THREE - SECLUDED AREA - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-90,LIKO,"   I understand your skepticism.   Had it not happened to me, I would   find it difficult to accept as   well.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-91,OJI ,"   But it did happen, just as we've   told you.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-92,LIKO,   Fento -- you know the legends   better than anyone. Don't they   speak of beings like the ones I've   seen --,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-93,OJI,   -- who could vanish like smoke?,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-94,FENTO,       There are the stories of the   Overseer... who could appear and   disappear at will...,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-95,LIKO,   And couldn't this Overseer heal   the dead?,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-96,FENTO,       He had supreme power -- or so our   ancestors believed.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-97,LIKO,   I believe I've seen the   Overseer...,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-98,RIKER,       Uh-oh...,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-99,LIKO,   He is called the Picard.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-100,TROI,   His memory is intact.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-101,RIKER,   The procedure didn't work.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-102,NURIA,"   Liko -- all this talk of a   supernatural being... No one's   believed that for countless   generations. Just as we no longer   believe the stars control our   fates, or that the spirits of the   dead haunt the living.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-103,LIKO,"   I'm not saying all the old beliefs   are true. But I did see the   Picard, and I was restored to   life.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-104,TROI,   We are visitors; we've come to   trade our cloth. May we speak?,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-105,NURIA,   Please do -- we welcome outsiders.   I am Nuria.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-106,TROI,   I am Troi; this is Riker.       You've had a very interesting   dream.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-107,LIKO,       Dream? It was real!,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-108,OJI,   My father and I both witnessed   these beings.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-109,TROI,"   If you are father and daughter,   you may have shared the same   dream.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-110,LIKO,   That is not reasonable.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-111,RIKER,"   Is it any less reasonable than   being magically propelled to a   strange place by ""the Picard?""",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-112,HALI ,   Nuria!,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-113,LIKO,   It has to be -- Palmer -- the one   the Picard wished to find.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-114,NURIA,       Remarkable. You were speaking   the truth.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-115,LIKO,   The Picard will be pleased.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-116,RIKER,   Riker to Picard.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+90,LIKO,"   I understand your skepticism.   Had it not happened to me, I would   find it difficult to accept as   well.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+91,OJI ,"   But it did happen, just as we've   told you.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+92,LIKO,   Fento -- you know the legends   better than anyone. Don't they   speak of beings like the ones I've   seen --,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+93,OJI,   -- who could vanish like smoke?,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+94,FENTO,       There are the stories of the   Overseer... who could appear and   disappear at will...,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+95,LIKO,   And couldn't this Overseer heal   the dead?,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+96,FENTO,       He had supreme power -- or so our   ancestors believed.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+97,LIKO,   I believe I've seen the   Overseer...,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+98,RIKER,       Uh-oh...,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+99,LIKO,   He is called the Picard.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+100,TROI,   His memory is intact.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+101,RIKER,   The procedure didn't work.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+102,NURIA,"   Liko -- all this talk of a   supernatural being... No one's   believed that for countless   generations. Just as we no longer   believe the stars control our   fates, or that the spirits of the   dead haunt the living.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+103,LIKO,"   I'm not saying all the old beliefs   are true. But I did see the   Picard, and I was restored to   life.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+104,TROI,   We are visitors; we've come to   trade our cloth. May we speak?,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+105,NURIA,   Please do -- we welcome outsiders.   I am Nuria.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+106,TROI,   I am Troi; this is Riker.       You've had a very interesting   dream.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+107,LIKO,       Dream? It was real!,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+108,OJI,   My father and I both witnessed   these beings.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+109,TROI,"   If you are father and daughter,   you may have shared the same   dream.",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+110,LIKO,   That is not reasonable.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+111,RIKER,"   Is it any less reasonable than   being magically propelled to a   strange place by ""the Picard?""",33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+112,HALI ,   Nuria!,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+113,LIKO,   It has to be -- Palmer -- the one   the Picard wished to find.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+114,NURIA,       Remarkable. You were speaking   the truth.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+115,LIKO,   The Picard will be pleased.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+116,RIKER,   Riker to Picard.,33   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 117,PICARD,"   Go ahead, Number One.",46   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 118,RIKER,   We have a problem.,46   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 119,PICARD,   The contamination?,46   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
@@ -128,46 +128,46 @@
 126,PICARD,   Try hard. Picard out.,48   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 127,BARRON,"   Picard, I must protest. You're   endangering Palmer with this   delay.",48   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 128,PICARD,"   I'm aware of that. But each of   us -- including Doctor Palmer --   took an oath to uphold the Prime   Directive... if necessary, with   our lives.",48   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-129,HALI,   We followed a hornbuck into a   cave. The stranger was there --   asleep.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-130,NURIA,   This Palmer is one of the   Overseer's servants?,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-131,LIKO,   Yes -- the Picard has many   servants.       Isn't that true?,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-132,FENTO,"       According to the legends. But   if Palmer is a servant of the   Overseer, what was he doing in   the cave?",51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-133,OJI,   Perhaps he ran away.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-134,HALI,   Or he failed the Picard somehow   and was hiding from him.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-135,LIKO,   We should bind him in case he   wakes and tries to escape.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-136,RIKER,   It's senseless to hold this   stranger captive. This Overseer   talk is nothing more than an old   superstition.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-137,NURIA,   I disagree. All the evidence   suggests the Overseer does exist.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-138,LIKO,   And I heard the Picard say he   wanted to find Palmer.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-139,OJI,"   Then by keeping Palmer safe, we   will please the Picard.",51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-140,LIKO,   And he'll grant us favors in return.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-141,NURIA,   Favors?,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-142,FENTO,"   The Overseer was said to be   all-powerful. He could provide   gentle winters, plentiful hunting,   fertile crops... anything.",51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-143,LIKO,       He could even bring back those   who have died.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-144,NURIA,   We will keep Palmer for the   Picard.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-145,TROI,   I've seen another one -- like   Palmer!,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-146,LIKO,   Another servant of the Picard?,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-147,TROI,       He's headed toward the caves!,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-148,NURIA,   Fento -- stay and bind Palmer.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-149,RIKER,   Excuse me... that knot won't hold.   If I may assist...,54   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-150,FENTO,   Please do.,54   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-151,RIKER,"   The trick is to make a knot that   tightens under pressure. Here,   I'll show you...",54   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-152,OJI,   Father -- the sun's reaching its   zenith. If I don't go to measure...,55   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-153,LIKO,   Go.,55   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-154,RIKER,"   Forgive me, friend... but the   stranger must be set free.",56   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-155,RIKER,"   Riker to Enterprise. Lock on and   prepare to beam us directly to   Sickbay, but wait for my signal.",57   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-156,DATA,"       Acknowledged, Commander.",57   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-157,OJI,   Riker?,57   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-158,OJI ,       Riker! Stop!,58   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-159,NURIA,   Oji?,58   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-160,OJI ,       It's Riker -- he's taking Palmer!,58   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-161,NURIA,   Yari -- don't let her escape.,58   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THREE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+129,HALI,   We followed a hornbuck into a   cave. The stranger was there --   asleep.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+130,NURIA,   This Palmer is one of the   Overseer's servants?,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+131,LIKO,   Yes -- the Picard has many   servants.       Isn't that true?,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+132,FENTO,"       According to the legends. But   if Palmer is a servant of the   Overseer, what was he doing in   the cave?",51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+133,OJI,   Perhaps he ran away.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+134,HALI,   Or he failed the Picard somehow   and was hiding from him.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+135,LIKO,   We should bind him in case he   wakes and tries to escape.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+136,RIKER,   It's senseless to hold this   stranger captive. This Overseer   talk is nothing more than an old   superstition.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+137,NURIA,   I disagree. All the evidence   suggests the Overseer does exist.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+138,LIKO,   And I heard the Picard say he   wanted to find Palmer.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+139,OJI,"   Then by keeping Palmer safe, we   will please the Picard.",51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+140,LIKO,   And he'll grant us favors in return.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+141,NURIA,   Favors?,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+142,FENTO,"   The Overseer was said to be   all-powerful. He could provide   gentle winters, plentiful hunting,   fertile crops... anything.",51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+143,LIKO,       He could even bring back those   who have died.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+144,NURIA,   We will keep Palmer for the   Picard.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+145,TROI,   I've seen another one -- like   Palmer!,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+146,LIKO,   Another servant of the Picard?,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+147,TROI,       He's headed toward the caves!,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+148,NURIA,   Fento -- stay and bind Palmer.,51   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+149,RIKER,   Excuse me... that knot won't hold.   If I may assist...,54   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+150,FENTO,   Please do.,54   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+151,RIKER,"   The trick is to make a knot that   tightens under pressure. Here,   I'll show you...",54   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+152,OJI,   Father -- the sun's reaching its   zenith. If I don't go to measure...,55   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+153,LIKO,   Go.,55   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+154,RIKER,"   Forgive me, friend... but the   stranger must be set free.",56   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+155,RIKER,"   Riker to Enterprise. Lock on and   prepare to beam us directly to   Sickbay, but wait for my signal.",57   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+156,DATA,"       Acknowledged, Commander.",57   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+157,OJI,   Riker?,57   EXT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+158,OJI ,       Riker! Stop!,58   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+159,NURIA,   Oji?,58   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+160,OJI ,       It's Riker -- he's taking Palmer!,58   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+161,NURIA,   Yari -- don't let her escape.,58   EXT. MINTAKA THREE - PATH - DAY,MINTAKA THRE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 162,RIKER,   I'm clear. Energize!,62   EXT. MINTAKA THREE - ANOTHER PATH - DAY (OPTICAL),MINTAKA THREE - ANOTHER PATH - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 163,RIKER,   Data. Has Counselor Troi beamed   up?,64   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 164,DATA,"   Negative, Commander. Sensors show   she's in the midst of a group of   Mintakans.",64   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 165,RIKER,   Damn.,64   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-166,NURIA,   Hali -- find Riker and Palmer.,65   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-167,LIKO,   Why? Why did you and Riker take   Palmer from us?,65   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-168,TROI,"   We did not ""take"" Palmer...",65   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+166,NURIA,   Hali -- find Riker and Palmer.,65   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+167,LIKO,   Why? Why did you and Riker take   Palmer from us?,65   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+168,TROI,"   We did not ""take"" Palmer...",65   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 169,TROI,   ... we set him free. Riker and   I don't believe these fables about   the Overseer.,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 170,LIKO,   Don't you realize what you've   done?,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 171,LIKO,   You've angered the Picard -- and   we may all suffer for it!       Weren't there stories of the   Overseer destroying those who   offended him?,66   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
@@ -201,9 +201,9 @@
 199,PICARD,   ... she might be able to persuade   the others.,69   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 200,BARRON,   And how do you propose to convince   her?,69   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 201,PICARD,   She sees the Picard as a magical   figure. I'm going to show her   how the magic works.       Bring her aboard.,69   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-202,DATA,"       Counselor, sensors indicate five   Mintakans in your immediate   vicinity.     ",70   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-203,DATA ,"   Four are motionless; the fifth   is eight meters away, proceeding   south. Is Nuria one of these   five?",70   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-204,TROI,       Mmm-hmm.,70   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+202,DATA,"       Counselor, sensors indicate five   Mintakans in your immediate   vicinity.     ",70   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+203,DATA ,"   Four are motionless; the fifth   is eight meters away, proceeding   south. Is Nuria one of these   five?",70   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+204,TROI,       Mmm-hmm.,70   INT. MINTAKA THREE - ASSEMBLY HALL - DAY,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 205,DATA,   Was that intended to be an   affirmative?,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 206,RIKER,"       Yes, Data, it was.",72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 207,DATA,   Is Nuria the closest of the five?,72   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
@@ -256,13 +256,13 @@
 254,PICARD,"   Good. My people once lived in   caves, too. We learned to build   huts... and, later, to build ships   such as this one.",83   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 255,NURIA,   Perhaps some day my people will   travel above the sky...,83   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 256,PICARD,"   Of that, I have absolutely no   doubt.",83   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-257,LIKO,   It's not the season for lightning.   It must be a warning...,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-258,FENTO,       We've had storms at this time of   year before.,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-259,OJI,   Not like this one...,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-260,LIKO,   It must mean something!       The Picard is angry with us. He   blames us for Palmer's escape.,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-261,FENTO,   Liko -- we don't know that the   Overseer is responsible for this   storm...,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-262,LIKO,       Will he also send floods? My wife   died in last year's floods -- will   we all die now?,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-263,LIKO ,   We must find Nuria.,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+257,LIKO,   It's not the season for lightning.   It must be a warning...,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+258,FENTO,       We've had storms at this time of   year before.,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+259,OJI,   Not like this one...,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+260,LIKO,   It must mean something!       The Picard is angry with us. He   blames us for Palmer's escape.,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+261,FENTO,   Liko -- we don't know that the   Overseer is responsible for this   storm...,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+262,LIKO,       Will he also send floods? My wife   died in last year's floods -- will   we all die now?,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+263,LIKO ,   We must find Nuria.,84   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 264,NURIA,   Picard... you have shown me   wonders I could never have   imagined... and I am grateful   beyond words... but might I   request something for my people?,85   INT. READY ROOM,READY ROOM,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 265,PICARD,   You are indeed a leader.,85   INT. READY ROOM,READY ROOM,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 266,NURIA,   You have shown me such generosity;   I wish my people could share in   it.       Six Mintakans died in a flood last   winter. Four of them were   children.,85   INT. READY ROOM,READY ROOM,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
@@ -270,13 +270,13 @@
 268,PICARD,   That is beyond my power.,85   INT. READY ROOM,READY ROOM,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 269,NURIA,   Why? You restored Liko's life.   Did the six who died offend you   in some way?       Or have I offended you? Should   I have ordered the death of Troi?   Please -- if there is anything   I can do to change your mind...,85   INT. READY ROOM,READY ROOM,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 270,PICARD,"       I've failed to get through to you,   haven't I? Despite all my   efforts...",85   INT. READY ROOM,READY ROOM,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-271,OJI,   Nuria can't be found. No one   knows where she's gone.,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-272,LIKO,   Hali! Any sign of Palmer or   Riker?,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-273,HALI,       They've escaped us. We searched   everywhere.,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-274,OJI,   What do we do now?,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-275,LIKO,   As the Picard wishes. Punish   those responsible.,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-276,FENTO,   Nuria would not allow --,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-277,LIKO,   Nuria isn't here -- and we can't   wait.,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+271,OJI,   Nuria can't be found. No one   knows where she's gone.,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+272,LIKO,   Hali! Any sign of Palmer or   Riker?,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+273,HALI,       They've escaped us. We searched   everywhere.,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+274,OJI,   What do we do now?,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+275,LIKO,   As the Picard wishes. Punish   those responsible.,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+276,FENTO,   Nuria would not allow --,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+277,LIKO,   Nuria isn't here -- and we can't   wait.,87   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 278,BEVERLY,   Crusher to Picard. I think   we're going to lose Warren.,91   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 279,PICARD,   On my way.,91   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 280,BARRON,"   I'm here, Mary.",91   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
@@ -288,35 +288,35 @@
 286,NURIA,   You do have limits. You are not   masters of life and death.,91   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 287,PICARD,"   No, we are not.       We can cure many diseases and   repair many injuries. We can   extend life... but despite all   our knowledge -- all our advances   -- we are just as mortal as you   are... just as powerless to   prevent the inevitable.",91   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 288,NURIA,   You are a remarkable people. But   you are not superior beings.       My people must be made to   understand that.,91   INT. SICKBAY,SICKBAY,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-289,TROI,   Liko -- you don't want to kill   me.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-290,LIKO,   I have no choice. I must do as   the Picard wishes.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-291,TROI,   Are you sure you know what he   wants?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-292,TROI ,    (after a beat; to the     others)   That's one problem with believing   in a supernatural being... trying   to determine what he wants.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-293,LIKO,   We must do something.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-294,OJI,   But what if we do the wrong thing?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-295,LIKO,   Picard. We need your guidance.   Is it your wish that this woman   should die?       Answer us! Speak!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-296,PICARD ,   Liko!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-297,LIKO,   The Picard! The Overseer has   come!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-298,PICARD,"   No, Liko -- I am not the Overseer.   I am a man... a traveller from   a faraway land. Nothing more.",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-299,LIKO,   But you restored my life! I am   your servant.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-300,PICARD,   You are no one's servant. I   deserve neither your obedience   nor your worship.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-301,LIKO,   Why are you trying to deceive me?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-302,NURIA,"   Picard speaks the truth. I've   visited his people... I've seen   how they live... how they die.   When death takes their loved ones,   they are as helpless as we are.",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-303,LIKO,   Then how was I brought back to   life?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-304,NURIA,   You were not dead. Picard's   people have knowledge we lack --   they can heal wounds that we   cannot.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-305,LIKO,"   You can bring people back from   the dead. Show them, Picard.   You can bring my wife back to me.",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-306,PICARD,   I can't.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-307,LIKO,   Why? Why won't you do this for   me? Have I failed you somehow?   Are you angry with me?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-308,PICARD,   I am not angry.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-309,LIKO,   Then I beg you -- bring her back   to life!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-310,LIKO ,   I will give you my life in   exchange! Please -- take back   what you've given me -- and give   it to her! Let her live!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-311,PICARD,   It is beyond my power.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-312,LIKO,   Nothing is beyond your power!   You are the Overseer -- I'll   prove it!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-313,NURIA,   Liko!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-314,PICARD,"   Go ahead, Liko. If I am   all-powerful, you can't hurt me.       If, however, I am telling the   truth and I am mortal... you will   kill me.",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-315,PICARD ,   But if the only proof you will   believe is my life -- then shoot.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-316,NURIA,"   Don't do it, Liko!",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
-317,OJI,   Father -- no!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THREE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+289,TROI,   Liko -- you don't want to kill   me.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+290,LIKO,   I have no choice. I must do as   the Picard wishes.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+291,TROI,   Are you sure you know what he   wants?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+292,TROI ,    (after a beat; to the     others)   That's one problem with believing   in a supernatural being... trying   to determine what he wants.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+293,LIKO,   We must do something.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+294,OJI,   But what if we do the wrong thing?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+295,LIKO,   Picard. We need your guidance.   Is it your wish that this woman   should die?       Answer us! Speak!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+296,PICARD ,   Liko!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+297,LIKO,   The Picard! The Overseer has   come!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+298,PICARD,"   No, Liko -- I am not the Overseer.   I am a man... a traveller from   a faraway land. Nothing more.",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+299,LIKO,   But you restored my life! I am   your servant.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+300,PICARD,   You are no one's servant. I   deserve neither your obedience   nor your worship.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+301,LIKO,   Why are you trying to deceive me?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+302,NURIA,"   Picard speaks the truth. I've   visited his people... I've seen   how they live... how they die.   When death takes their loved ones,   they are as helpless as we are.",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+303,LIKO,   Then how was I brought back to   life?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+304,NURIA,   You were not dead. Picard's   people have knowledge we lack --   they can heal wounds that we   cannot.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+305,LIKO,"   You can bring people back from   the dead. Show them, Picard.   You can bring my wife back to me.",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+306,PICARD,   I can't.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+307,LIKO,   Why? Why won't you do this for   me? Have I failed you somehow?   Are you angry with me?,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+308,PICARD,   I am not angry.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+309,LIKO,   Then I beg you -- bring her back   to life!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+310,LIKO ,   I will give you my life in   exchange! Please -- take back   what you've given me -- and give   it to her! Let her live!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+311,PICARD,   It is beyond my power.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+312,LIKO,   Nothing is beyond your power!   You are the Overseer -- I'll   prove it!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+313,NURIA,   Liko!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+314,PICARD,"   Go ahead, Liko. If I am   all-powerful, you can't hurt me.       If, however, I am telling the   truth and I am mortal... you will   kill me.",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+315,PICARD ,   But if the only proof you will   believe is my life -- then shoot.,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+316,NURIA,"   Don't do it, Liko!",94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
+317,OJI,   Father -- no!,94   INT. MINTAKA THREE - ASSEMBLY HALL - NIGHT,MINTAKA THRE,INT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 318,PICARD ,"   Captain's log, supplemental.   Before we dismantle the   observation post and depart, I   must make one last visit to   Mintaka Three.",102A EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 319,PICARD,"   Now, Mister La Forge.",103  EXT. MINTAKA THREE - DUCK BLIND - DAY (OPTICAL),MINTAKA THREE - DUCK BLIND - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt
 320,NURIA,   What is it?,103  EXT. MINTAKA THREE - DUCK BLIND - DAY (OPTICAL),MINTAKA THREE - DUCK BLIND - DAY,EXT.,Who Watches the Watchers,1989-08-07,The Next Generation,152.txt

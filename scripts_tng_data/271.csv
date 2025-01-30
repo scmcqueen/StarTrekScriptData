@@ -147,13 +147,13 @@
 145,RIKER,"   Oh, that's right...",18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 146,DERN,"       What should I tell them, sir?",18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 147,RIKER,   Tell them... we're not finished   yet...,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-148,TROI,   Worf... what are you doing in   here?,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-149,WORF,   I had to be with you...,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-150,TROI,"   Well, as you can see, I'm a little   busy right now. Please come back   later.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-151,TROI,"       Computer, increase water   temperature by five degrees.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-152,WORF,   Get out of the water. Now.,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-153,TROI,   Worf... what do you think you're --,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-154,TROI,"   Leave me alone, or I'm going to   call security.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+148,TROI,   Worf... what are you doing in   here?,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+149,WORF,   I had to be with you...,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+150,TROI,"   Well, as you can see, I'm a little   busy right now. Please come back   later.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+151,TROI,"       Computer, increase water   temperature by five degrees.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+152,WORF,   Get out of the water. Now.,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+153,TROI,   Worf... what do you think you're --,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+154,TROI,"   Leave me alone, or I'm going to   call security.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 155,TROI,"   It's just so cold in here...    (quickly, to passing     N.D.)   May I have a glass of water... ?",22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 156,BEVERLY,       Your temperature has dropped eight   degrees. I want to run a   hypothalamic series right away.,22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 157,OGAWA,"   Doctor, we've had three other   crewmembers complaining about the   temperature levels. Some feel   like they have fevers... others   are freezing, like Counselor Troi.",22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
@@ -199,27 +199,27 @@
 197,DATA,       I cannot access the internal   sensors from here. We will have   to go to the Bridge.,33   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 198,PICARD,   What's that smell?,33   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 199,DATA,"   It is a mixture of methane, uric   acid and ammonia. There is also   an abundance of pheromones in the   air.",33   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-200,PICARD,   That sounds like... animals.,34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-201,DATA,"   Yes, sir. I am able to discern   over three hundred different   vocalizations.",34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-202,PICARD,       Look at this...,34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-203,DATA,       It is composed of reptilian DNA...   I believe it is an epidermal layer   that has been cast off during   molting.,34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-204,PICARD,   But it seems to be humanoid...,34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-205,DATA,"   Yes, sir. I cannot explain it.   There are no species aboard the   Enterprise that shed their skin in   this fashion.",34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-206,PICARD,   This is Commander Troi's   quarters... can you tell if she's   inside?,34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-207,DATA,"   No, sir.",34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-208,PICARD,   I want to take a look inside.   Stand ready.,34   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-209,PICARD,   The environmental settings in this   room have been altered...,35   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-210,PICARD,   Deanna!,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-211,PICARD,       What's happened to her... ?,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-212,DATA,"       Her DNA is in a state of ribocyatic   flux... her genetic codes   are being re-sequenced... and her   cells are mutating as a result.       At a fundamental level, she is no   longer human.",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-213,PICARD,   What... is she?,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-214,DATA,"       Her respiratory tissue has become   capable of metabolizing water as   well as air... and her eyes have   developed nictitating membranes...       I believe she has become...   amphibian, sir.",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-215,PICARD,   She's been injured...,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-216,DATA,   There is Klingon DNA in the wound.   It is saliva.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-217,PICARD,"   You mean, she's been bitten?",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-218,DATA,   It would appear so.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-219,DATA,       I will need to run a full biospectral   analysis.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-220,PICARD,       First we've got to get the ship   under control... let's go to the   Bridge.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+200,PICARD,   That sounds like... animals.,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+201,DATA,"   Yes, sir. I am able to discern   over three hundred different   vocalizations.",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+202,PICARD,       Look at this...,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+203,DATA,       It is composed of reptilian DNA...   I believe it is an epidermal layer   that has been cast off during   molting.,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+204,PICARD,   But it seems to be humanoid...,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+205,DATA,"   Yes, sir. I cannot explain it.   There are no species aboard the   Enterprise that shed their skin in   this fashion.",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+206,PICARD,   This is Commander Troi's   quarters... can you tell if she's   inside?,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+207,DATA,"   No, sir.",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+208,PICARD,   I want to take a look inside.   Stand ready.,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+209,PICARD,   The environmental settings in this   room have been altered...,35   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+210,PICARD,   Deanna!,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+211,PICARD,       What's happened to her... ?,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+212,DATA,"       Her DNA is in a state of ribocyatic   flux... her genetic codes   are being re-sequenced... and her   cells are mutating as a result.       At a fundamental level, she is no   longer human.",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+213,PICARD,   What... is she?,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+214,DATA,"       Her respiratory tissue has become   capable of metabolizing water as   well as air... and her eyes have   developed nictitating membranes...       I believe she has become...   amphibian, sir.",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+215,PICARD,   She's been injured...,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+216,DATA,   There is Klingon DNA in the wound.   It is saliva.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+217,PICARD,"   You mean, she's been bitten?",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+218,DATA,   It would appear so.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+219,DATA,       I will need to run a full biospectral   analysis.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+220,PICARD,       First we've got to get the ship   under control... let's go to the   Bridge.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 221,DATA,   His upper spinal column has been   broken in three places.,38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 222,PICARD,"   It looks like he's been attacked   by some sort of animal...       Has his DNA changed, as well?",38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 223,DATA,"   Yes. However, the mutation was in   its initial stages when he died.",38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
@@ -227,14 +227,14 @@
 225,DATA,"       Captain, I am picking up one   thousand eleven individual life   readings within the ship. All   exhibit a genetic flux similar to   the one we observed in Counselor   Troi.",38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 226,PICARD,   Then the entire ship has been   affected...,38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 227,DATA,"       Most of the lifeforms are   scattered throughout ship's   quarters... but there are several   large concentrations in the   arboretum, and the aquatics lab.",38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-228,PICARD,   Commander Riker... ?,39   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-229,PICARD,       Wil... ?,39   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-230,DATA,"       His cranial plates have thickened   by twenty percent -- his brain is   much smaller, sir. I doubt he can   comprehend our language.",39   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-231,PICARD,   I think he's trying to   communicate...,39   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-232,PICARD,"       Wil, can you --",39   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-233,PICARD,   He looks almost... proto-human.,39   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-234,DATA,"   Yes, sir. His DNA would seem to   confirm that observation.",39   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-235,DATA,   Captain... I believe the crew is   de-evolving.,39   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+228,PICARD,   Commander Riker... ?,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+229,PICARD,       Wil... ?,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+230,DATA,"       His cranial plates have thickened   by twenty percent -- his brain is   much smaller, sir. I doubt he can   comprehend our language.",39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+231,PICARD,   I think he's trying to   communicate...,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+232,PICARD,"       Wil, can you --",39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+233,PICARD,   He looks almost... proto-human.,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+234,DATA,"   Yes, sir. His DNA would seem to   confirm that observation.",39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+235,DATA,   Captain... I believe the crew is   de-evolving.,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 236,PICARD,   This tranquilizer should keep him   unconscious for another seven   hours.       What have you found out?,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 237,DATA,   I have analyzed Commander Riker's   DNA structure. A synthetic T-cell   has invaded his genetic code.   This T-cell has begun to activate   his latent introns.,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 238,PICARD,   Introns?,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
@@ -317,7 +317,7 @@
 315,COMPUTER,   Main computer systems are inactive --   unable to comply.,55   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 316,DATA,"   Computer, bypass database system --   activate local subprocessors only.",55   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 317,COMPUTER,   Acknowledged.,55   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-318,PICARD,       Deck Seventeen.,61   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt
+318,PICARD,       Deck Seventeen.,61   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 319,DATA,"       Computer, display progress of   genetic re-sequencing.",62   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 320,COMPUTER,   Genetic re-sequencing in progress --   DNA to seventy percent normal.,67   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 321,DATA,"   Computer, increase nucleotide   substitution by thirty-two   percent.",67   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
@@ -328,7 +328,7 @@
 326,DATA,"   Are you all right, sir?",72   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 327,PICARD,"   I'm fine, Mister Data. Proceed...",72   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 328,PICARD,"       Well, Mister Worf... let's hope   you wake up feeling like a new   man.",72   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt
-329,PICARD ,"   Captain's log, supplemental.   Commander Data has succeeded in   returning the crew to normal.   Doctor Crusher has determined that   the synthetic T-cell she used to   cure Mister Barclay's Urodelan flu   initiated the intron virus which   swept through the ship.",73   EXT. SPACE - THE ENTERPRISE,SPACE,EXT.,Genesis,1994-01-07,The Next Generation,271.txt
+329,PICARD ,"   Captain's log, supplemental.   Commander Data has succeeded in   returning the crew to normal.   Doctor Crusher has determined that   the synthetic T-cell she used to   cure Mister Barclay's Urodelan flu   initiated the intron virus which   swept through the ship.",73   EXT. SPACE - THE ENTERPRISE,SPAC,EXT.,Genesis,1994-01-07,The Next Generation,271.txt
 330,BARCLAY,   So... this was my fault...,74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 331,BEVERLY,"   No... in a way, it was mine. I   didn't realize it at the time, but   there's an anomaly in your genetic   chemistry that caused the   synthetic T-cell to mutate...       Instead of just activating one   dormant gene, it started to   activate all of them -- including   your introns.",74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt
 332,BARCLAY,   And that... that caused me to devolve...,74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt

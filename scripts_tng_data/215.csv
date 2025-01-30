@@ -20,12 +20,12 @@
 18,TROI,   I'm not sure we have...,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 19,TROI,   Someone's down there... alive...,2    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 20,RIKER ,"   First officer's log, supplemental.   The electromagnetic interference   on the surface was judged too   dangerous for anyone to transport   down. So we have taken a   shuttle to investigate.",4    EXT. MOON - THE SHUTTLE (OPTICAL),MOON - THE SHUTTLE,EXT.,Power Play,1991-11-26,The Next Generation,215.txt
-21,DATA,   Shields are holding...,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-22,RIKER,"       Wind shear is incredible, Data...   keep an eye on the stabilizers...       If it's anything like this on the   ground, I don't see how anyone   could survive on this moon for   long.",5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-23,TROI,   Maybe they've been living   underground.,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-24,RIKER,       Question is where? I still can't   locate the source of the damn   signal... it's bouncing around   more than we are...,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-25,DATA,"   Sir, forward thrusters have   failed. We are losing power.",5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-26,RIKER,   Enterprise... ?,5    INT. SHUTTLE - IN FLIGHT,SHUTTLE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+21,DATA,   Shields are holding...,5    INT. SHUTTLE - IN FLIGHT,SHUTTL,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+22,RIKER,"       Wind shear is incredible, Data...   keep an eye on the stabilizers...       If it's anything like this on the   ground, I don't see how anyone   could survive on this moon for   long.",5    INT. SHUTTLE - IN FLIGHT,SHUTTL,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+23,TROI,   Maybe they've been living   underground.,5    INT. SHUTTLE - IN FLIGHT,SHUTTL,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+24,RIKER,       Question is where? I still can't   locate the source of the damn   signal... it's bouncing around   more than we are...,5    INT. SHUTTLE - IN FLIGHT,SHUTTL,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+25,DATA,"   Sir, forward thrusters have   failed. We are losing power.",5    INT. SHUTTLE - IN FLIGHT,SHUTTL,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+26,RIKER,   Enterprise... ?,5    INT. SHUTTLE - IN FLIGHT,SHUTTL,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 27,PICARD,   Go ahead.,6    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 28,RIKER COMM,   We've lost our thrusters...   attempting to compensate with   secondary boosters...,6    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 29,WORF,   Sir? The shuttle's impulse   generators have shut down...,6    INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
@@ -90,13 +90,13 @@
 88,PICARD,"   And how are you, Counselor?",26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 89,TROI,   Very glad to be here.,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 90,PICARD,       What happened down there?,26   INT. SICKBAY,SICKBAY,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-91,RIKER,   It was just one hell of a storm...   moved in on our position faster   than anything I've ever seen.,26A  INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-92,PICARD,   Did you find any evidence of   life?,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-93,RIKER,"   No, but if Troi was right, we   weren't far away from it...",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-94,PICARD,       Bridge.       How do you suggest we proceed?,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-95,RIKER,"   We're gonna have to find a way   to modify the scanners to   penetrate those storms. Got any   ideas, Data... ?",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-96,DATA,       It is p-p-possible we might be   able to employ virtual imaging   to interpolate missing data...,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-97,PICARD,"   Is there something wrong, Data?",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+91,RIKER,   It was just one hell of a storm...   moved in on our position faster   than anything I've ever seen.,26A  INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+92,PICARD,   Did you find any evidence of   life?,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+93,RIKER,"   No, but if Troi was right, we   weren't far away from it...",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+94,PICARD,       Bridge.       How do you suggest we proceed?,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+95,RIKER,"   We're gonna have to find a way   to modify the scanners to   penetrate those storms. Got any   ideas, Data... ?",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+96,DATA,       It is p-p-possible we might be   able to employ virtual imaging   to interpolate missing data...,26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+97,PICARD,"   Is there something wrong, Data?",26B  INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 98,DATA,   My apologies. It seems my primary   speech processors are experiencing   a minor fluctuation. I will have   it corrected in a... m-m-moment.,28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 99,TROI,   Captain... may I speak with you   a moment? In private?,28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 100,PICARD,"   Of course, Counselor.       Take the bridge, Number One.",28   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
@@ -153,14 +153,14 @@
 151,WORF,   Everyone down! Now!!,40   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 152,RIKER,       Multiple phaser shots in Ten   Forward.,43   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 153,PICARD,   Picard to Worf -- report.,43   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-154,PICARD,   Mister Worf... acknowledge.,44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-155,PICARD,"   Can you hear me, Lieutenant Worf?",44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-156,TROI,"   Yes, bridge. He can hear you.",44   INT. TEN FORWARD - ON WORF,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-157,RIKER,   Position security teams at both   entrances...,47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-158,RO,   Yes sir.,47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-159,PICARD,"   Mister La Forge, shut down all   computer access in Ten   Forward...",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-160,GEORDI,"       I can't, Captain. They've already   set up a remote security   lock-out... We'd have to shut down   all computer functions in the   saucer section...",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
-161,RIKER,"       Transporter room three, can you   get a pattern lock on Commander   Data, Counselor Troi and Chief   O'Brien in Ten Forward... ?",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRISE,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+154,PICARD,   Mister Worf... acknowledge.,44   INT. TEN FORWARD - ON WORF,TEN FORWAR,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+155,PICARD,"   Can you hear me, Lieutenant Worf?",44   INT. TEN FORWARD - ON WORF,TEN FORWAR,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+156,TROI,"   Yes, bridge. He can hear you.",44   INT. TEN FORWARD - ON WORF,TEN FORWAR,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+157,RIKER,   Position security teams at both   entrances...,47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRIS,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+158,RO,   Yes sir.,47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRIS,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+159,PICARD,"   Mister La Forge, shut down all   computer access in Ten   Forward...",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRIS,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+160,GEORDI,"       I can't, Captain. They've already   set up a remote security   lock-out... We'd have to shut down   all computer functions in the   saucer section...",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRIS,INT.,Power Play,1991-11-26,The Next Generation,215.txt
+161,RIKER,"       Transporter room three, can you   get a pattern lock on Commander   Data, Counselor Troi and Chief   O'Brien in Ten Forward... ?",47   INT. THE ENTERPRISE - BRIDGE,THE ENTERPRIS,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 162,TRANSPORTER OFFICER,"   Attempting to lock on, sir...",48   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 163,O'BRIEN,   You were correct. They are   attempting to engage their   transporters. But I know how to   shut them down.,49   INT. TEN FORWARD,TEN FORWARD,INT.,Power Play,1991-11-26,The Next Generation,215.txt
 164,TRANSPORTER OFFICER COM,"   Bridge, the entire transporter   array has been taken off-line and   placed in a diagnostic mode...   I can't override... it will take   a couple of hours to complete the   cycle...",50   INT. BRIDGE,BRIDGE,INT.,Power Play,1991-11-26,The Next Generation,215.txt

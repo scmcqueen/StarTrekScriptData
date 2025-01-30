@@ -93,17 +93,17 @@
 91,HOLO-TROI,   I knew you would.,8    INT. TROI'S OFFICE (HOLODECK),TROI'S OFFICE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 92,BARCLAY,"   Mmm, nice... but I'm in the mood   for someplace a little more...   unusual...       Computer. Run Barclay Program   Fifteen.",8    INT. TROI'S OFFICE (HOLODECK),TROI'S OFFICE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 93,HOLO-TROI,"   I am the Goddess of Empathy. Cast   off your inhibitions and embrace   love, truth, joy...",9    EXT. GLADE (HOLODECK),GLADE,EXT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-94,WESLEY,   But I thought that's the point   of the briefing... to discuss   different approaches...,10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-95,GEORDI,"   I'm not saying you did anything   wrong, Wes... it's just that   Barclay's... well, my new   project.",10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-96,DUFFY,"       Yeah, Broccoli's a real project   all right...",10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-97,GEORDI,       I just gotta draw him out more...,10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-98,WESLEY,   And I shut him down.       Poor Broccoli.,10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-99,DATA,"   Pardon me, but why is Lieutenant   Barclay being referred to   clandestinely as a vegetable?",10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-100,WESLEY,"   It's a joke, Data... you know,   a nickname.",10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-101,DATA,"   Nicknames generally denote   fondness, a diminutive shared   between friends. This does not   sound friendly.",10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-102,GEORDI,   Data's absolutely right. The   nickname stops here and now.   Captain's orders.,10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-103,DUFFY,   What the hell... ?,10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-104,WESLEY,   What happened to your glass?,10   INT. TEN-FORWARD,TE,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+94,WESLEY,   But I thought that's the point   of the briefing... to discuss   different approaches...,10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+95,GEORDI,"   I'm not saying you did anything   wrong, Wes... it's just that   Barclay's... well, my new   project.",10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+96,DUFFY,"       Yeah, Broccoli's a real project   all right...",10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+97,GEORDI,       I just gotta draw him out more...,10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+98,WESLEY,   And I shut him down.       Poor Broccoli.,10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+99,DATA,"   Pardon me, but why is Lieutenant   Barclay being referred to   clandestinely as a vegetable?",10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+100,WESLEY,"   It's a joke, Data... you know,   a nickname.",10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+101,DATA,"   Nicknames generally denote   fondness, a diminutive shared   between friends. This does not   sound friendly.",10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+102,GEORDI,   Data's absolutely right. The   nickname stops here and now.   Captain's orders.,10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+103,DUFFY,   What the hell... ?,10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+104,WESLEY,   What happened to your glass?,10   INT. TEN-FORWARD,TEN-FORWARD,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 105,DATA,   Nucleo-synthesis. The structure   of the glass has been altered at   the atomic level.,12   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 106,GEORDI,   A problem with the replicator?,12   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 107,DATA,   Unlikely. A problem with the   replicator would have affected   the contents as well as the glass.   But the liquid in the glass was   a perfect replication of a dark   ale of Earth origin which I   believe is what Lieutenant Duffy   ordered.,12   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
@@ -312,14 +312,14 @@
 310,TROI,   We have a lot to talk about.,37   INT. CORRIDOR,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 311,GEORDI,"       Sir, Barclay and I better get   to Engineering.",37   INT. CORRIDOR,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 312,RIKER,       Dismissed.,37   INT. CORRIDOR,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-313,BARCLAY,   I just couldn't keep my eyes   open... I'd worked twelve hours   on the power systems and then the   transporter went down and...,37A  INT. CORRIDOR - MOVING,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-314,GEORDI,   Reg... you had a chance to get   some help from the real Counselor   Troi... but instead you went back   in there...,37A  INT. CORRIDOR - MOVING,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-315,BARCLAY,   I know... I didn't want to... I   just couldn't help myself...,37A  INT. CORRIDOR - MOVING,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-316,GEORDI,"   You're gonna be able to write the   book on holodiction.       Look, I know how easy it is to   get caught up in it. I... fell   in love in there once.",37A  INT. CORRIDOR - MOVING,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-317,BARCLAY,   Really?,37A  INT. CORRIDOR - MOVING,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-318,GEORDI,       But I knew when it was time to   turn it off and say goodbye...   Wasn't easy. But I did it.,37A  INT. CORRIDOR - MOVING,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-319,BARCLAY,"   You know... the people I create   in there have started to become   more real to me... than anyone   out here.       Except maybe for you, Commander.",37A  INT. CORRIDOR - MOVING,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
-320,GEORDI,"   I need you out here, Reg... right   now, more than ever.",37A  INT. CORRIDOR - MOVING,CORRIDOR,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+313,BARCLAY,   I just couldn't keep my eyes   open... I'd worked twelve hours   on the power systems and then the   transporter went down and...,37A  INT. CORRIDOR - MOVING,CORRIDO,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+314,GEORDI,   Reg... you had a chance to get   some help from the real Counselor   Troi... but instead you went back   in there...,37A  INT. CORRIDOR - MOVING,CORRIDO,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+315,BARCLAY,   I know... I didn't want to... I   just couldn't help myself...,37A  INT. CORRIDOR - MOVING,CORRIDO,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+316,GEORDI,"   You're gonna be able to write the   book on holodiction.       Look, I know how easy it is to   get caught up in it. I... fell   in love in there once.",37A  INT. CORRIDOR - MOVING,CORRIDO,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+317,BARCLAY,   Really?,37A  INT. CORRIDOR - MOVING,CORRIDO,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+318,GEORDI,       But I knew when it was time to   turn it off and say goodbye...   Wasn't easy. But I did it.,37A  INT. CORRIDOR - MOVING,CORRIDO,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+319,BARCLAY,"   You know... the people I create   in there have started to become   more real to me... than anyone   out here.       Except maybe for you, Commander.",37A  INT. CORRIDOR - MOVING,CORRIDO,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
+320,GEORDI,"   I need you out here, Reg... right   now, more than ever.",37A  INT. CORRIDOR - MOVING,CORRIDO,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 321,GEORDI,   The injectors aren't responding   to the diagnostic commands.,38   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 322,BARCLAY,       I... think we should drop out of   warp.,38   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt
 323,GEORDI,       La Forge to bridge.,38   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Hollow Pursuits,1990-02-09,The Next Generation,169.txt

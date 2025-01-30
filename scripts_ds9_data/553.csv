@@ -1,8 +1,8 @@
 ,character,quote,scene,location,view,episode,date,series,file
-0,EZRI,"   It's funny... before yesterday,    I'd never set foot on this    station -- but it's as familiar    to me as the back of my hand.",2    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-1,EZRI,   Isn't that odd?,2    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-2,EZRI,"   You have no idea who I am, do    you?",2    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-3,EZRI,   I didn't think so.       Thanks for listening anyway..,2    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+0,EZRI,"   It's funny... before yesterday,    I'd never set foot on this    station -- but it's as familiar    to me as the back of my hand.",2    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+1,EZRI,   Isn't that odd?,2    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+2,EZRI,"   You have no idea who I am, do    you?",2    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+3,EZRI,   I didn't think so.       Thanks for listening anyway..,2    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 4,EZRI,   I was killed here.,5    INT. BAJORAN TEMPLE,BAJORAN TEMPLE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 5,EZRI,"   I mean, Jadzia was.",5    INT. BAJORAN TEMPLE,BAJORAN TEMPLE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 6,KIRA,"   I try not to think about that.    If I did, I'm not sure I could    come here.",5    INT. BAJORAN TEMPLE,BAJORAN TEMPLE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
@@ -110,22 +110,22 @@
 108,ODO,        Sewing?,15   INT. PROMENADE,PROMENADE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 109,SISKO,        We can't afford to lose Garak    right now. Is there anything you    can do for him?,15   INT. PROMENADE,PROMENADE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 110,BASHIR,"   To be blunt, our friend Garak    needs to have his head examined.",15   INT. PROMENADE,PROMENADE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-111,EZRI,   Me? You want me to work with    Garak?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-112,SISKO,"   You're a counselor, aren't you?",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-113,EZRI,   Assistant counselor. I'm still    in training.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-114,SISKO,"   Come on, Dax. What are you going    to learn in the next few months    that you haven't already learned    in the last three hundred years?",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-115,EZRI,   How to keep from breaking into    tears for no reason; how to    resist the urge to stand on my    head -- things like that.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-116,SISKO,   Why are you standing on your    head?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-117,EZRI,   Emony used to do it.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-118,SISKO,   The gymnast?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-119,EZRI,   She found it relaxing.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-120,SISKO,   Do you?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-121,EZRI,"   Actually, it's giving me a    headache.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-122,EZRI,"   What about Julian, can't he work    with Garak?",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-123,SISKO,"   Julian's a good physician, but    he's not a counselor --    (before she can     point it out)    -- or even an assistant   counselor. And besides, he    doesn't have eight lifetimes of    experience under his belt.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-124,EZRI,"   I bet he doesn't stand on his    head for no reason, either.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-125,SISKO,"   You can do this, old man. I know    you can.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-126,EZRI,        All right. I'll try. I just    wish I had as much confidence in    me as you do.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+111,EZRI,   Me? You want me to work with    Garak?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+112,SISKO,"   You're a counselor, aren't you?",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+113,EZRI,   Assistant counselor. I'm still    in training.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+114,SISKO,"   Come on, Dax. What are you going    to learn in the next few months    that you haven't already learned    in the last three hundred years?",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+115,EZRI,   How to keep from breaking into    tears for no reason; how to    resist the urge to stand on my    head -- things like that.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+116,SISKO,   Why are you standing on your    head?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+117,EZRI,   Emony used to do it.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+118,SISKO,   The gymnast?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+119,EZRI,   She found it relaxing.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+120,SISKO,   Do you?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+121,EZRI,"   Actually, it's giving me a    headache.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+122,EZRI,"   What about Julian, can't he work    with Garak?",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+123,SISKO,"   Julian's a good physician, but    he's not a counselor --    (before she can     point it out)    -- or even an assistant   counselor. And besides, he    doesn't have eight lifetimes of    experience under his belt.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+124,EZRI,"   I bet he doesn't stand on his    head for no reason, either.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+125,SISKO,"   You can do this, old man. I know    you can.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+126,EZRI,        All right. I'll try. I just    wish I had as much confidence in    me as you do.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 127,QUARK,   So what do you think?,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 128,BASHIR,   About what?,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 129,QUARK,   About her.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
@@ -309,16 +309,16 @@
 307,QUARK,   He's gone. He left about an hour    ago.,34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 308,EZRI,    (surprised and     concerned)    Where'd he go?,34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 309,QUARK,"   I don't know.        Well, don't just stand there. Go    find him.",34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-310,EZRI,   Garak... ?,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-311,EZRI,   I thought you were going to stay    in the holosuite for a while.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-312,GARAK,"   I got tired of looking at a fake    landscape and pretending I was    outside. Work is the answer.    My father always used to say that    a person should throw themselves    into their work.        Do your chores, Elim. I told you    to do your chores.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-313,EZRI,        And if you didn't? What would he    do to you?,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-314,GARAK,"   Oh, no. Don't start. Spare me    your insipid psychobabble. I'm    not some quivering neurotic who    feels sorry for himself because    his daddy wasn't nice to him.        You couldn't begin to understand    me.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-315,EZRI,   I'd like to try.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-316,GARAK,   I'm sure you would. You'd like    nothing more than to pry into my    personal affairs. ,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-317,GARAK ,"   Well, I'm not interested in   dissecting my childhood... all I   want is to free my people from   the Dominion. I don't need   someone to come in here and hold   my hand, I need someone who can   help me get back to work. And   you, my dear, aren't up to the   task.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-318,GARAK,   Look at you. You're pathetic.   A confused child trying to live   up to the legacy left by her   predecessors. You're not worthy   of the name Dax. I knew Jadzia --   she was vital -- alive. She   owned herself. But you -- you   don't even know who you are.       How dare you presume to help me?   You can't even help yourself.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-319,GARAK,"       Now, get out of here. Before I   say something unkind.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+310,EZRI,   Garak... ?,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+311,EZRI,   I thought you were going to stay    in the holosuite for a while.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+312,GARAK,"   I got tired of looking at a fake    landscape and pretending I was    outside. Work is the answer.    My father always used to say that    a person should throw themselves    into their work.        Do your chores, Elim. I told you    to do your chores.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+313,EZRI,        And if you didn't? What would he    do to you?,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+314,GARAK,"   Oh, no. Don't start. Spare me    your insipid psychobabble. I'm    not some quivering neurotic who    feels sorry for himself because    his daddy wasn't nice to him.        You couldn't begin to understand    me.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+315,EZRI,   I'd like to try.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+316,GARAK,   I'm sure you would. You'd like    nothing more than to pry into my    personal affairs. ,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+317,GARAK ,"   Well, I'm not interested in   dissecting my childhood... all I   want is to free my people from   the Dominion. I don't need   someone to come in here and hold   my hand, I need someone who can   help me get back to work. And   you, my dear, aren't up to the   task.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+318,GARAK,   Look at you. You're pathetic.   A confused child trying to live   up to the legacy left by her   predecessors. You're not worthy   of the name Dax. I knew Jadzia --   she was vital -- alive. She   owned herself. But you -- you   don't even know who you are.       How dare you presume to help me?   You can't even help yourself.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+319,GARAK,"       Now, get out of here. Before I   say something unkind.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 320,SISKO,   What's this all about?,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 321,EZRI,   What does it look like? I'm    resigning from Starfleet.,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 322,SISKO,   Why?,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
@@ -418,22 +418,22 @@
 416,EZRI,        Thank you.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 417,WORF,   It will be a long time before I    can accept that I have lost her.    Until then...,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
 418,EZRI,        You need some breathing room. I    understand.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-419,SISKO,"   Congratulations, lieutenant.",47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-420,SISKO,   I want you to take a good look    around.        Because you've just agreed to    take responsibility for the    mental health of everyone in this    room.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-421,SISKO ,       You've got your work cut out for   you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-422,BASHIR,   It's a good thing they made you a   lieutenant. I can't see taking   advice from an ensign.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-423,O'BRIEN,   Since when do you take advice   from anyone?,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-424,ODO,   Why don't you join us for dinner    tonight?,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-425,EZRI,   I don't want to put you out.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-426,KIRA,   Please come. It'll take the    pressure off me. He just sits    there and counts how many times I    chew.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-427,EZRI,        I'll be there.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-428,JAKE,        She is cute.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-429,SISKO,   She's also about three hundred    years too old for you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-430,QUARK,        I took the liberty of putting    together a plate for you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-431,EZRI,"        Thanks, Quark.        Worf's not here, is he?",47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-432,QUARK,        Good question.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-433,GARAK,"   Congratulations, quite a crowd.",47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-434,EZRI,   I hope it's not making you    uncomfortable.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-435,GARAK,        Not at all.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-436,SISKO,   I need you to explain something    to someone.,47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
-437,EZRI,"   Morn, it's me. Dax.",47   INT. WARDROOM - CLOSE - A HAND,WARDROOM,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+419,SISKO,"   Congratulations, lieutenant.",47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+420,SISKO,   I want you to take a good look    around.        Because you've just agreed to    take responsibility for the    mental health of everyone in this    room.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+421,SISKO ,       You've got your work cut out for   you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+422,BASHIR,   It's a good thing they made you a   lieutenant. I can't see taking   advice from an ensign.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+423,O'BRIEN,   Since when do you take advice   from anyone?,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+424,ODO,   Why don't you join us for dinner    tonight?,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+425,EZRI,   I don't want to put you out.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+426,KIRA,   Please come. It'll take the    pressure off me. He just sits    there and counts how many times I    chew.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+427,EZRI,        I'll be there.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+428,JAKE,        She is cute.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+429,SISKO,   She's also about three hundred    years too old for you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+430,QUARK,        I took the liberty of putting    together a plate for you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+431,EZRI,"        Thanks, Quark.        Worf's not here, is he?",47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+432,QUARK,        Good question.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+433,GARAK,"   Congratulations, quite a crowd.",47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+434,EZRI,   I hope it's not making you    uncomfortable.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+435,GARAK,        Not at all.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+436,SISKO,   I need you to explain something    to someone.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt
+437,EZRI,"   Morn, it's me. Dax.",47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt

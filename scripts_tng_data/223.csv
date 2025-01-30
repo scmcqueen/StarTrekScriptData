@@ -17,9 +17,9 @@
 15,RIKER,"   Helm, take us into transport   range.       Doctor Crusher, we need a medical   away team in transporter room two.",2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 16,BEVERLY,   Acknowledged.,2    INT. BRIDGE (OPTICAL),BRIDGE,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 17,BEVERLY,   I'm reading one life form... very   weak signs.,3    EXT. THE CRASH SITE - TWILIGHT (OPTICAL),THE CRASH SITE - TWILIGHT,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-18,RIKER,   Riker to Enterprise.,8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-19,PICARD,"   Go ahead, Number One.",8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-20,RIKER,   We've found the wreckage of a   small craft... and one survivor.,8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+18,RIKER,   Riker to Enterprise.,8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE -- MOMENTS LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+19,PICARD,"   Go ahead, Number One.",8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE -- MOMENTS LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+20,RIKER,   We've found the wreckage of a   small craft... and one survivor.,8    EXT. THE CRASH SITE -- MOMENTS LATER,THE CRASH SITE -- MOMENTS LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 21,RIKER,   It's a Borg.,9    INT. BRIDGE,BRIDGE,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 22,RIKER,"       Male, adolescent -- he's badly   hurt.",9    INT. BRIDGE,BRIDGE,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 23,DATA,   There is no indication of other   Borg activity within sensor range.,9    INT. BRIDGE,BRIDGE,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
@@ -34,7 +34,7 @@
 32,RIKER,   That transmission we intercepted   was probably a homing signal.   We have to assume they're on their   way.,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 33,BEVERLY,"       At least let me stabilize his   condition, give him a chance of   surviving until they get here.",10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 34,RIKER,   Captain?,10   EXT. THE CRASH SITE,THE CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-35,PICARD,"   Your concern is noted, Doctor.   But any intervention on your part   would only alert the Borg to our   having been here.",11   INT. BRIDGE - ON PICARD,BRIDGE,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+35,PICARD,"   Your concern is noted, Doctor.   But any intervention on your part   would only alert the Borg to our   having been here.",11   INT. BRIDGE - ON PICARD,BRIDG,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 36,BEVERLY,   I'm afraid we've already turned   that corner.,12   EXT. CRASH SITE (OPTICAL),CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 37,WORF,   Kill it. Now. We could make it   appear that it died in the crash   -- leave no evidence that we were   here.,12   EXT. CRASH SITE (OPTICAL),CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 38,PICARD,   Security measures must be taken   before we beam it on board.,13   INT. BRIDGE,BRIDGE,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
@@ -44,13 +44,13 @@
 42,PICARD,   We're bringing a Borg survivor   on board. We'll need to   neutralize the homing signal --,15   INT. BRIDGE,BRIDGE,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 43,PICARD,       -- prevent it from sending or   receiving transmissions of any   kind.,16   INT. ENGINEERING,ENGINEERING,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 44,GEORDI,   I'll set up a subspace damping   field around the detention cell.,16   INT. ENGINEERING,ENGINEERING,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-45,WORF,   There are four others. None   survived.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-46,PICARD,   Picard to Riker.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-47,RIKER,"   Go ahead, Enterprise.",17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-48,PICARD,   We're transporting you directly   to the detention cell.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-49,BEVERLY,   I need him in sickbay --,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-50,PICARD,"   The cell, Doctor. Whatever   equipment you need will be brought   to you there.",17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
-51,BEVERLY,   Very well.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+45,WORF,   There are four others. None   survived.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE -- A FEW MINUTES LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+46,PICARD,   Picard to Riker.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE -- A FEW MINUTES LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+47,RIKER,"   Go ahead, Enterprise.",17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE -- A FEW MINUTES LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+48,PICARD,   We're transporting you directly   to the detention cell.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE -- A FEW MINUTES LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+49,BEVERLY,   I need him in sickbay --,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE -- A FEW MINUTES LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+50,PICARD,"   The cell, Doctor. Whatever   equipment you need will be brought   to you there.",17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE -- A FEW MINUTES LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
+51,BEVERLY,   Very well.,17   EXT. CRASH SITE -- A FEW MINUTES LATER,CRASH SITE -- A FEW MINUTES LATER,EXT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 52,PICARD,   Come.,17B  INT. READY ROOM,READY ROOM,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 53,TROI,   Captain... I just wondered if   there's anything you wanted to   talk about.,17B  INT. READY ROOM,READY ROOM,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt
 54,PICARD,"   I don't think so, Counselor.",17B  INT. READY ROOM,READY ROOM,INT.,"I, Borg",1992-03-03,The Next Generation,223.txt

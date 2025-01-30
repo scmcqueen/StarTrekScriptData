@@ -40,15 +40,15 @@
 38,ALEXANDER,"   You mean, you can go?",4    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 39,WORF,   I can go.,4    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 40,ALEXANDER,"   Saddle up, Father!",4    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-41,WORF,       Where are we?,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-42,ALEXANDER,"   Deadwood, South Dakota...   nineteenth century Earth.       The Ancient West.",5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-43,WORF,   What is our function here?,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-44,ALEXANDER,   You're the Sheriff... and I'm your   deputy.,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-45,WORF,   We are in charge of law   enforcement?,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-46,ALEXANDER,   Right.,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-47,WORF,   You wrote this Holodeck program   yourself?,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-48,ALEXANDER,   Well... Mister Barclay helped a   little.,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-49,WORF,       I must talk with Mister Barclay...,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODECK,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+41,WORF,       Where are we?,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+42,ALEXANDER,"   Deadwood, South Dakota...   nineteenth century Earth.       The Ancient West.",5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+43,WORF,   What is our function here?,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+44,ALEXANDER,   You're the Sheriff... and I'm your   deputy.,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+45,WORF,   We are in charge of law   enforcement?,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+46,ALEXANDER,   Right.,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+47,WORF,   You wrote this Holodeck program   yourself?,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+48,ALEXANDER,   Well... Mister Barclay helped a   little.,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+49,WORF,       I must talk with Mister Barclay...,5    EXT. HOLODECK - WESTERN STREET - DAY,HOLODEC,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 50,DATA,   Geordi... I have noticed that you   have not shaved in several days.   Are you attempting to grow another   beard?,17   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 51,GEORDI,"   As a matter of fact, I am...       What do you think?",17   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 52,DATA,"   As is the case with many natural   growth processes, it is difficult   to envision the end product based   on an intermediate stage.",17   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
@@ -175,13 +175,13 @@
 173,DATA,   Puzzling. I find it extremely   difficult to predict what you will   find acceptable.       Perhaps hunger will compel you   to try it again.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 174,DATA,"   Spot, you are disrupting my   ability to work.",40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 175,DATA,       You lil' varmint.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-176,TROI,"   The most important thing about   the quick draw is, you've got to   hold your arm loose... like   this...",41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-177,TROI,   Now... you try it.,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-178,ELI,       Hell to blazes... I better warn   my pa. We got a regular sharp   shooter here!,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-179,WORF,   Silence.,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-180,TROI,   Worf... Alexander has been gone   for over half an hour. Shouldn't   he be back by now?,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-181,WORF,   Yes... I will go find him.       Watch the prisoner.,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-182,TROI,"   So, Mister Hollander... I   understand you've lived a life   of violent crime.       Would you like to discuss your   feelings about it?",41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+176,TROI,"   The most important thing about   the quick draw is, you've got to   hold your arm loose... like   this...",41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+177,TROI,   Now... you try it.,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+178,ELI,       Hell to blazes... I better warn   my pa. We got a regular sharp   shooter here!,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+179,WORF,   Silence.,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+180,TROI,   Worf... Alexander has been gone   for over half an hour. Shouldn't   he be back by now?,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+181,WORF,   Yes... I will go find him.       Watch the prisoner.,41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+182,TROI,"   So, Mister Hollander... I   understand you've lived a life   of violent crime.       Would you like to discuss your   feelings about it?",41   INT. HOLODECK - SHERIFF'S OFFICE - DAY,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 183,ANNIE ,       What'll it be?,42   INT. GOLD STRIKE SALOON,GOLD STRIKE SALOON,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 184,WORF,   I am looking for my deputy.   Perhaps you have seen him.,42   INT. GOLD STRIKE SALOON,GOLD STRIKE SALOON,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 185,ANNIE,   Nope.       What'll you have?,42   INT. GOLD STRIKE SALOON,GOLD STRIKE SALOON,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
@@ -217,15 +217,15 @@
 215,WORF,   But it is not Data... I cannot   explain.       I believe he has taken Alexander.,45   INT. SHERIFF'S OFFICE,SHERIFF'S OFFICE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 216,DATA/ELI ,   Now ain't that a shame... the poor   Sheriff's been injured...,45   INT. SHERIFF'S OFFICE,SHERIFF'S OFFICE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 217,DATA/ELI,   What's wrong... was my pa a little   too rough on you?,45   INT. SHERIFF'S OFFICE,SHERIFF'S OFFICE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-218,TROI,   Data... ?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-219,DATA/ELI,   What?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-220,TROI,       Why would the computer create   Holodeck characters that look like   Data?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-221,WORF,       Where have they taken my son?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-222,WORF,       Where is he?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-223,DATA/ELI,"   Temper, temper, Sheriff. Pa   wouldn't be too pleased if I came   back all bruised...",46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-224,TROI,"   Worf, wait...",46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-225,TROI,"   We've got to remember... the   Holodeck safeguards may be off,   but this is still a program...       If we can get to the end of this   story... the way it was designed   to play out... the program should   automatically terminate.",46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-226,WORF,   You are right...       I will begin by speaking to the   people of this town. Perhaps   someone witnessed Alexander's   abduction.,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+218,TROI,   Data... ?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+219,DATA/ELI,   What?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+220,TROI,       Why would the computer create   Holodeck characters that look like   Data?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+221,WORF,       Where have they taken my son?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+222,WORF,       Where is he?,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+223,DATA/ELI,"   Temper, temper, Sheriff. Pa   wouldn't be too pleased if I came   back all bruised...",46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+224,TROI,"   Worf, wait...",46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+225,TROI,"   We've got to remember... the   Holodeck safeguards may be off,   but this is still a program...       If we can get to the end of this   story... the way it was designed   to play out... the program should   automatically terminate.",46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+226,WORF,   You are right...       I will begin by speaking to the   people of this town. Perhaps   someone witnessed Alexander's   abduction.,46   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 227,GEORDI,   We think our interface experiment   may have caused one of the   computer's core subroutines to   be altered.,50   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 228,DATA,"   When the interface malfunction   occurred, subroutine C-forty-seven   was replaced by elements of my   personal programming.",50   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 229,RIKER,   What does C-forty-seven control?,50   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
@@ -245,29 +245,29 @@
 243,DATA,       Did whut?,50   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 244,PICARD,   Mister La Forge -- perhaps you   should take Mister Data to   Engineering. See if you can find   the problem.,50   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 245,GEORDI,   Aye sir.,50   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-246,DATA/ELI,   Can I help you with somethin?,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-247,WORF,   I spoke to several witnesses.   One saw Alexander being abducted   as he was leaving the bank... by   Hollander's men.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-248,WORF,   We will begin a systematic search   of the town...,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-249,TROI,"   Worf... we've got another   problem. I saw Eli shuffling his   cards. He was doing it the way   Data does when he plays poker...       He doesn't just look like Data...   he has Data's abilities. And   his father probably does, as   well...",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-250,DATA/FRANK,"   Howdy, Sheriff.       I came to see my boy.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-251,WORF,   Remove your weapon.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-252,DATA/FRANK,"       Take a good look at that gun,   Sheriff... you might see it again   real soon.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-253,DATA/FRANK,   Eli?,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-254,DATA/ELI,   Pa!,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-255,DATA/FRANK,"   How have they been treating you,   son?",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-256,DATA/ELI,"   Real bad, Pa. They ain't fed me   since I got here... and the   Sheriff's been roughin me up   somethin fierce.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-257,DATA/FRANK,   Don't you worry. The Sheriff will   pay for this.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-258,DATA/FRANK,       Who's the stranger?,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-259,DATA/ELI,   Don't know... she ain't said her   name. But she's in cahoots with   the Sheriff... and she's mighty   mean with a Winchester.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-260,DATA/FRANK,"   Sit tight, boy. I'll have you   home in time for supper.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-261,DATA/FRANK,"   I'll give you one more opportunity   to avoid an ugly situation,   Sheriff. Release my boy.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-262,WORF,   I have... reconsidered your offer.   I will release your son... in   exchange for my deputy.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-263,DATA/FRANK,   I thought you might have a change   of heart...       Meet me in two hours. You be   in front of the saloon... I'll   be in front of the livery station.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-264,WORF,   Agreed.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-265,DATA/FRANK,       Strangers ain't invited.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-266,TROI,"   In every Western I've ever read,   the villains break their word.   We can't trust him.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-267,WORF,   But we have made an honorable   agreement.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-268,TROI,"   They're not concerned with honor,   Worf. This is the Ancient West.   There's a gunfighter out there   who can shoot with the speed and   accuracy of an android...       And in two hours, he's going to   try to kill you.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+246,DATA/ELI,   Can I help you with somethin?,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+247,WORF,   I spoke to several witnesses.   One saw Alexander being abducted   as he was leaving the bank... by   Hollander's men.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+248,WORF,   We will begin a systematic search   of the town...,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+249,TROI,"   Worf... we've got another   problem. I saw Eli shuffling his   cards. He was doing it the way   Data does when he plays poker...       He doesn't just look like Data...   he has Data's abilities. And   his father probably does, as   well...",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+250,DATA/FRANK,"   Howdy, Sheriff.       I came to see my boy.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+251,WORF,   Remove your weapon.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+252,DATA/FRANK,"       Take a good look at that gun,   Sheriff... you might see it again   real soon.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+253,DATA/FRANK,   Eli?,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+254,DATA/ELI,   Pa!,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+255,DATA/FRANK,"   How have they been treating you,   son?",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+256,DATA/ELI,"   Real bad, Pa. They ain't fed me   since I got here... and the   Sheriff's been roughin me up   somethin fierce.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+257,DATA/FRANK,   Don't you worry. The Sheriff will   pay for this.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+258,DATA/FRANK,       Who's the stranger?,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+259,DATA/ELI,   Don't know... she ain't said her   name. But she's in cahoots with   the Sheriff... and she's mighty   mean with a Winchester.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+260,DATA/FRANK,"   Sit tight, boy. I'll have you   home in time for supper.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+261,DATA/FRANK,"   I'll give you one more opportunity   to avoid an ugly situation,   Sheriff. Release my boy.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+262,WORF,   I have... reconsidered your offer.   I will release your son... in   exchange for my deputy.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+263,DATA/FRANK,   I thought you might have a change   of heart...       Meet me in two hours. You be   in front of the saloon... I'll   be in front of the livery station.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+264,WORF,   Agreed.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+265,DATA/FRANK,       Strangers ain't invited.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+266,TROI,"   In every Western I've ever read,   the villains break their word.   We can't trust him.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+267,WORF,   But we have made an honorable   agreement.,51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+268,TROI,"   They're not concerned with honor,   Worf. This is the Ancient West.   There's a gunfighter out there   who can shoot with the speed and   accuracy of an android...       And in two hours, he's going to   try to kill you.",51   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 269,DATA,"       Howdy, Commander.",56   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 270,RIKER,   Mister La Forge... what have you   found?,56   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 271,DATA,       Well... we figure parts of my   memory structure...       ... have been replaced with   information from the computer's   recreational data-base.,56   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
@@ -280,24 +280,24 @@
 278,GEORDI,"   We've started a memory purge   there, as well. It'll take   another hour... maybe two.",56   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 279,DATA,"       You just sit tight, Commander.   We'll have it fixed up in time   for supper.",56   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 280,RIKER,   Good.,56   INT. ENGINEERING,ENGINEERING,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-281,WORF ,"   I will be positioned here, at the   Eastern end of the street...",57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-282,WORF ,   Frank Hollander says he will   approach from this end...,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-283,WORF,"       Once he gets to this point, he   will be within range.",57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-284,TROI,   Understood.       What about Alexander?,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-285,WORF,   There is a rain barrel in front   of the saloon. It should be   enough to stop the bullets.,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-286,ANNIE,       You wouldn't believe what I went   through to talk Old Man Newsome   out of his telegraph machine...,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-287,WORF,   Excellent.,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-288,ANNIE,"       Lord knows why I keep riskin my   life for you, Sheriff...",57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-289,WORF,"       Thank you, Ms. Annie. I am...   in your debt.",57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-290,TROI,   How long will the field last?,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-291,WORF,   It is highly unstable. No more   than fifteen seconds.,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-292,TROI,   Let's hope that's enough.,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODECK,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-293,DATA/FRANK,   Eli -- down!,63   EXT. WESTERN STREET - DAY,WESTERN STREET,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-294,WORF,       Alexander!,63   EXT. WESTERN STREET - DAY,WESTERN STREET,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-295,DATA/BANDITO ,   Senor Frank!,63   EXT. WESTERN STREET - DAY,WESTERN STREET,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-296,TROI,       Don't even think about it.,63   EXT. WESTERN STREET - DAY,WESTERN STREET,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-297,DATA/FRANK,   Go ahead and shoot me.,63   EXT. WESTERN STREET - DAY,WESTERN STREET,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
-298,WORF,       Do not show your face in this   town again.,63   EXT. WESTERN STREET - DAY,WESTERN STREET,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+281,WORF ,"   I will be positioned here, at the   Eastern end of the street...",57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+282,WORF ,   Frank Hollander says he will   approach from this end...,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+283,WORF,"       Once he gets to this point, he   will be within range.",57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+284,TROI,   Understood.       What about Alexander?,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+285,WORF,   There is a rain barrel in front   of the saloon. It should be   enough to stop the bullets.,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+286,ANNIE,       You wouldn't believe what I went   through to talk Old Man Newsome   out of his telegraph machine...,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+287,WORF,   Excellent.,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+288,ANNIE,"       Lord knows why I keep riskin my   life for you, Sheriff...",57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+289,WORF,"       Thank you, Ms. Annie. I am...   in your debt.",57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+290,TROI,   How long will the field last?,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+291,WORF,   It is highly unstable. No more   than fifteen seconds.,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+292,TROI,   Let's hope that's enough.,57   INT. HOLODECK - SHERIFF'S OFFICE,HOLODEC,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+293,DATA/FRANK,   Eli -- down!,63   EXT. WESTERN STREET - DAY,WESTERN STREE,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+294,WORF,       Alexander!,63   EXT. WESTERN STREET - DAY,WESTERN STREE,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+295,DATA/BANDITO ,   Senor Frank!,63   EXT. WESTERN STREET - DAY,WESTERN STREE,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+296,TROI,       Don't even think about it.,63   EXT. WESTERN STREET - DAY,WESTERN STREE,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+297,DATA/FRANK,   Go ahead and shoot me.,63   EXT. WESTERN STREET - DAY,WESTERN STREE,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
+298,WORF,       Do not show your face in this   town again.,63   EXT. WESTERN STREET - DAY,WESTERN STREE,EXT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 299,ALEXANDER,   Father!,87   INT. GOLD STRIKE SALOON,GOLD STRIKE SALOON,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 300,WORF,   Are you alright?,87   INT. GOLD STRIKE SALOON,GOLD STRIKE SALOON,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt
 301,ALEXANDER,   Yes.,87   INT. GOLD STRIKE SALOON,GOLD STRIKE SALOON,INT.,A Fistful of Datas,1992-09-17,The Next Generation,234.txt

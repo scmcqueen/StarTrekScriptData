@@ -75,15 +75,15 @@
 73,TROI,"   I have never felt anything quite   like this so it is difficult to   put into words.    (she pauses to gather     her thoughts)   That person is you. What I mean,   the person we are looking at is   as much Jean-Luc Picard as the   person I am standing next to;   beyond that there's very little   of which I am sure. I will have   to wait until he is conscious   before knowing more.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 74,PICARD,"   Data, we have to know what is on   the shuttle's logs.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 75,DATA,"   Yes, sir.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
-76,DATA,   Both primary and reserve power   has been drained from the shuttle.   I am going to have to connect   to the Enterprise in order to   activate the shuttle's systems.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
-77,RIKER,   Lieutenant La Forge -- report to   Shuttle Bay Two.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
-78,GEORDI,   I'm on my way.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
-79,PICARD,"   Number One, I'll be in Sickbay.   Keep me informed.",39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
-80,RIKER,"    (indicating an unusual     burn on the skin of     the shuttle)   Did you see this, Captain?",39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
-81,PICARD,   It looks like the kind of damage   caused by an antimatter explosion.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
-82,RIKER,"   Yes, the shuttle must have been   just out of range.",39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
-83,PICARD,"       Data, I need those logs.       Counselor.",39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
-84,RIKER,   We'll be on the bridge.,39   INT./EXT. SHUTTLE,SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+76,DATA,   Both primary and reserve power   has been drained from the shuttle.   I am going to have to connect   to the Enterprise in order to   activate the shuttle's systems.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+77,RIKER,   Lieutenant La Forge -- report to   Shuttle Bay Two.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+78,GEORDI,   I'm on my way.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+79,PICARD,"   Number One, I'll be in Sickbay.   Keep me informed.",39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+80,RIKER,"    (indicating an unusual     burn on the skin of     the shuttle)   Did you see this, Captain?",39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+81,PICARD,   It looks like the kind of damage   caused by an antimatter explosion.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+82,RIKER,"   Yes, the shuttle must have been   just out of range.",39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+83,PICARD,"       Data, I need those logs.       Counselor.",39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
+84,RIKER,   We'll be on the bridge.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt
 85,RIKER,   Resume course and speed.       Scanners at maximum range.,39A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 86,WORF,   Maximum range.,39A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 87,GEORDI,   You should have power now.,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
@@ -94,9 +94,9 @@
 92,GEORDI,"   Data, what do you think is going   on? I don't just mean about the   shuttle, I mean about all of this?",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 93,DATA,   I do not have enough information.,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 94,GEORDI,"   The captain here, the captain   there. This shuttle -- that   shuttle. Commander Riker is right -- this   is very strange.",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
-95,PICARD,   This smells like a set-up.,44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
-96,TROI,   A trap?,44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
-97,PICARD,"       If it is me, me from where? And   why in a shuttle? There is   nothing about this which is random   or happenstance. Look beneath   the boards, Counselor; I expect   something foul and familiar to   crawl out.",44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
+95,PICARD,   This smells like a set-up.,44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
+96,TROI,   A trap?,44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
+97,PICARD,"       If it is me, me from where? And   why in a shuttle? There is   nothing about this which is random   or happenstance. Look beneath   the boards, Counselor; I expect   something foul and familiar to   crawl out.",44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 98,PULASKI,"   We have just started doing a   complete work-up. The vital signs   are distorted. Some of the   indicators are totally depressed,   others are fluctuating wildly.   I can't explain any of it. But   he is alive, and I don't think   he's in any immediate danger.",45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 99,PULASKI,       The restraints are for his own   protection.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt
 100,PICARD,   Have you been able to determine   why he is still unconscious?,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt

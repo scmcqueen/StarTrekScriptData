@@ -55,18 +55,18 @@
 53,WORF,   I understand that you lived in   my old room.,6A   INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 54,ALEXANDER,   Uh-huh.,6A   INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 55,WORF,   Good.,6A   INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-56,KYLE,   Come in.,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-57,KYLE,"   Lieutenant Worf, it's good to see   you again.     ",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-58,KYLE ,       And you must be Alexander. I hear   you'll be coming to school with   us for a while?,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-59,KYLE,"       Well, we're very excited to have   you with us... I know the other   boys and girls will be happy to   have a new classmate.",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-60,KYLE,"   First, I need to get a little   information from you. Let's start   with...       ... your name.       Alexander Rozhenko... hmmmm...   that's a tough one... maybe you   can help me. Can you spell your   last name for me?",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-61,WORF,       Alexander...,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-62,WORF,       The teacher asked you a question.,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-63,KYLE,"   It doesn't matter. I think I can   figure it out.    (works terminal, then     to Worf)   Date of birth?",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-64,ALEXANDER,"       The forty-third day of Maktag,   stardate 43205.",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-65,WORF,   Yes... of course.,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-66,KYLE,       I'll get the rest of his personal   records from the school on Earth.   One last question... how long will   he be staying aboard ship?,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-67,WORF,   It has... not been decided.,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+56,KYLE,   Come in.,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+57,KYLE,"   Lieutenant Worf, it's good to see   you again.     ",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+58,KYLE ,       And you must be Alexander. I hear   you'll be coming to school with   us for a while?,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+59,KYLE,"       Well, we're very excited to have   you with us... I know the other   boys and girls will be happy to   have a new classmate.",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+60,KYLE,"   First, I need to get a little   information from you. Let's start   with...       ... your name.       Alexander Rozhenko... hmmmm...   that's a tough one... maybe you   can help me. Can you spell your   last name for me?",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+61,WORF,       Alexander...,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+62,WORF,       The teacher asked you a question.,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+63,KYLE,"   It doesn't matter. I think I can   figure it out.    (works terminal, then     to Worf)   Date of birth?",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+64,ALEXANDER,"       The forty-third day of Maktag,   stardate 43205.",6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+65,WORF,   Yes... of course.,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+66,KYLE,       I'll get the rest of his personal   records from the school on Earth.   One last question... how long will   he be staying aboard ship?,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+67,WORF,   It has... not been decided.,6B   INT. TEACHER'S OFFICE - CONTINUOUS,TEACHER'S OFFIC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 68,PICARD,   Come.,6C   INT. READY ROOM,READY ROOM,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 69,PICARD,"   I thought our meeting was at   eleven hundred hours, Mister Worf.",6C   INT. READY ROOM,READY ROOM,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 70,WORF,"   I apologize for being late,   Captain. I was detained in...   school.       I was enrolling my... son in   class.",6C   INT. READY ROOM,READY ROOM,INT.,New Ground,1991-10-04,The Next Generation,210.txt
@@ -94,17 +94,17 @@
 92,JA'DAR,"   The wave will be directed toward   Lemma Two, about three light years   distance. We have a sister   facility there which will   generate a scattering field to   dissipate the wave, and bring the   ship out of warp.",7A   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 93,JA'DAR,   I'll have more detailed   operational plans sent to you   within the hour.,7A   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 94,PICARD,"   Very well, Doctor. We'll contact   you again once we've finished   studying the mission specs.",7A   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-95,TROI,   Worf... I was just talking with   Ms. Kyle from the primary school.   She told me that you enrolled   Alexander in her class this   morning.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-96,WORF,   Yes.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-97,TROI,   I'm sure he'll do well. She's   a wonderful teacher.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-98,WORF,   Good.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-99,TROI,   Did she tell you about the   father/son field trip this   afternoon?,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-100,WORF,   Yes. We cannot attend.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-101,TROI,   Why not?,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-102,WORF,   I have a personnel review   scheduled at thirteen hundred   hours.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-103,TROI,   It might be a good opportunity   to meet some of the other students   and parents.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-104,WORF,   I might be able to... reschedule   the review.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-105,TROI,       Good. I'll let them know you're   coming.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+95,TROI,   Worf... I was just talking with   Ms. Kyle from the primary school.   She told me that you enrolled   Alexander in her class this   morning.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+96,WORF,   Yes.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+97,TROI,   I'm sure he'll do well. She's   a wonderful teacher.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+98,WORF,   Good.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+99,TROI,   Did she tell you about the   father/son field trip this   afternoon?,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+100,WORF,   Yes. We cannot attend.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+101,TROI,   Why not?,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+102,WORF,   I have a personnel review   scheduled at thirteen hundred   hours.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+103,TROI,   It might be a good opportunity   to meet some of the other students   and parents.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+104,WORF,   I might be able to... reschedule   the review.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+105,TROI,       Good. I'll let them know you're   coming.,10C  INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 106,KYLE,"   ... as the value of their horns   increased, the number of white   Rhinos in the wild kept falling   until they finally became extinct   about two centuries ago.",	INT. BIOLAB,BIOLAB,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 107,KYLE,"       Now I want to show you a pair of   animals we're trying to save from   extinction. They're from Corvan   Two, where their homes in the   rainforests are being threatened   by industrial pollutants.",	INT. BIOLAB,BIOLAB,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 108,KYLE,       They're called Corvan Gilvos.,	INT. BIOLAB,BIOLAB,INT.,New Ground,1991-10-04,The Next Generation,210.txt
@@ -138,28 +138,28 @@
 136,TROI,       I just wanted to know how the   field-trip went yesterday.,26   INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 137,WORF,   You have not heard?,26   INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 138,TROI,       No. Why?,26   INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-139,WORF,   Bridge.,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-140,WORF,   There was an... incident.   Alexander stole a small model and   then... told a falsehood. But   I have remedied the situation.,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-141,TROI,   May I ask how?,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-142,WORF,       I pointed out his error... told   him about Kahless and Morath...   and explained the value of honor.   The boy understood.,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-143,TROI,   I see.       Sometimes these things aren't over   as quickly as they seem to be.   I'd be happy to help if you have   any further problems.,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-144,WORF,"   Thank you, but that won't be   necessary. Alexander will not   repeat this mistake.",27   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-145,DATA,"       The prototype has been towed into   position, Captain.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-146,RIKER,       Initiate a radio link to the   ship.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-147,GEORDI,       Link established... receiving   prelaunch telemetry now.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-148,WORF,       Incoming message from Doctor   Ja'Dar.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-149,PICARD,   On screen.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-150,JA'DAR,"   Captain, we're ready to begin the   launch sequence.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-151,PICARD,   Mister Riker?,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-152,RIKER,   All science labs standing by.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-153,FELTON,"   Course laid in, sir.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-154,PICARD,"       The Enterprise is ready, Doctor.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-155,JA'DAR,    (presses button on     terminal)   This is Doctor Ja'Dar to all   stations. You may begin the   launch sequence.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-156,PICARD,   Doctor...,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-157,PICARD,       Good luck.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-158,JA'DAR,"   Thank you, Captain.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-159,DATA,"   Sensors show the field generators   on the planet surface are   charging, sir.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-160,GEORDI,   The soliton wave has been   initiated... it's heading for   the test ship.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+139,WORF,   Bridge.,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+140,WORF,   There was an... incident.   Alexander stole a small model and   then... told a falsehood. But   I have remedied the situation.,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+141,TROI,   May I ask how?,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+142,WORF,       I pointed out his error... told   him about Kahless and Morath...   and explained the value of honor.   The boy understood.,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+143,TROI,   I see.       Sometimes these things aren't over   as quickly as they seem to be.   I'd be happy to help if you have   any further problems.,27   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+144,WORF,"   Thank you, but that won't be   necessary. Alexander will not   repeat this mistake.",27   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+145,DATA,"       The prototype has been towed into   position, Captain.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+146,RIKER,       Initiate a radio link to the   ship.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+147,GEORDI,       Link established... receiving   prelaunch telemetry now.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+148,WORF,       Incoming message from Doctor   Ja'Dar.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+149,PICARD,   On screen.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+150,JA'DAR,"   Captain, we're ready to begin the   launch sequence.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+151,PICARD,   Mister Riker?,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+152,RIKER,   All science labs standing by.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+153,FELTON,"   Course laid in, sir.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+154,PICARD,"       The Enterprise is ready, Doctor.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+155,JA'DAR,    (presses button on     terminal)   This is Doctor Ja'Dar to all   stations. You may begin the   launch sequence.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+156,PICARD,   Doctor...,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+157,PICARD,       Good luck.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+158,JA'DAR,"   Thank you, Captain.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+159,DATA,"   Sensors show the field generators   on the planet surface are   charging, sir.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+160,GEORDI,   The soliton wave has been   initiated... it's heading for   the test ship.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 161,DATA,"   The test ship has successfully   entered warp, sir.",32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 162,PICARD,"       Engage, Ensign.",32   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 163,PICARD,"   Bring us to twenty kilometers from   the test ship, Ensign.",34   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
@@ -218,27 +218,27 @@
 216,WORF,   I will handle this.,44A  INT. TEACHER'S OFFICE,TEACHER'S OFFICE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 217,WORF,"       Computer, what program is being   run?",45A  INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 218,COMPUTER,   Calisthenics program of Lieutenant   Worf. Difficulty level: Novice.,45A  INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-219,WORF,       Freeze program.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-220,ALEXANDER,"       Did you see it, Father? I won.",47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-221,WORF,"       Yes, I saw.",47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-222,WORF,   Why are you here?,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-223,ALEXANDER,   I'm training.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-224,WORF,   But you did not ask permission   to take my bat'telh or permission   to use the holodeck.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-225,ALEXANDER,       You said you wanted me to be a   warrior.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-226,WORF,   I also said I wanted you to obey   your teachers and keep your   promise to me.       Ms. Kyle has told me about your   behavior... about your lies.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-227,ALEXANDER,   I have not lied!,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-228,WORF,"       Alexander, do not continue to---",47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-229,ALEXANDER,"   She's lying! She hates me, that's   why she makes up stories about   me!",47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-230,WORF,       I will not listen to further lies.   Return to our quarters.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-231,ALEXANDER,   But you said we could go see the   Gilvos again.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-232,WORF,   Not now. Not after you have   broken your word.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-233,ALEXANDER,       You promised. You said that we   could---,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-234,WORF,       Enough!,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-235,WORF,       It is now clear to me that I have   failed in my duties as your   father. You have no understanding   of what it means to be Klingon.       I will arrange for you to attend   a Klingon school. There you will   learn the lessons I have failed   to teach you.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-236,ALEXANDER,       No! I won't go!,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-237,WORF,   Would you dishonor our family   further with your disobedience?,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-238,ALEXANDER,"   No, sir.",47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-239,WORF,       You will go to our quarters and   remain there until I return.,47   INT. HOLODECK - BATTLEGROUND,HOLODECK,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+219,WORF,       Freeze program.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+220,ALEXANDER,"       Did you see it, Father? I won.",47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+221,WORF,"       Yes, I saw.",47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+222,WORF,   Why are you here?,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+223,ALEXANDER,   I'm training.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+224,WORF,   But you did not ask permission   to take my bat'telh or permission   to use the holodeck.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+225,ALEXANDER,       You said you wanted me to be a   warrior.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+226,WORF,   I also said I wanted you to obey   your teachers and keep your   promise to me.       Ms. Kyle has told me about your   behavior... about your lies.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+227,ALEXANDER,   I have not lied!,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+228,WORF,"       Alexander, do not continue to---",47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+229,ALEXANDER,"   She's lying! She hates me, that's   why she makes up stories about   me!",47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+230,WORF,       I will not listen to further lies.   Return to our quarters.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+231,ALEXANDER,   But you said we could go see the   Gilvos again.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+232,WORF,   Not now. Not after you have   broken your word.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+233,ALEXANDER,       You promised. You said that we   could---,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+234,WORF,       Enough!,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+235,WORF,       It is now clear to me that I have   failed in my duties as your   father. You have no understanding   of what it means to be Klingon.       I will arrange for you to attend   a Klingon school. There you will   learn the lessons I have failed   to teach you.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+236,ALEXANDER,       No! I won't go!,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+237,WORF,   Would you dishonor our family   further with your disobedience?,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+238,ALEXANDER,"   No, sir.",47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+239,WORF,       You will go to our quarters and   remain there until I return.,47   INT. HOLODECK - BATTLEGROUND,HOLODEC,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 240,RIKER,"       Bridge to engineering. What's   your estimate on the engines,   Geordi?",52   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 241,GEORDI,"   I need another hour, Commander.   I still have to replace three   power couplings.",52   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 242,RIKER,   Understood.,52   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
@@ -356,12 +356,12 @@
 354,DATA,"   Sir, readings also indicate the   presence of a humanoid.",65   INT. MAIN BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),MAIN BRIDGE - INCLUDE VIEWSCREEN,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 355,PICARD,"       Computer, identify the humanoid   life-form in biolab four.",65   INT. MAIN BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),MAIN BRIDGE - INCLUDE VIEWSCREEN,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 356,COMPUTER,   Life-form is identified as   Alexander Rozhenko.,65   INT. MAIN BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),MAIN BRIDGE - INCLUDE VIEWSCREEN,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-357,PICARD,"       Bridge to biolab four. Alexander,   can you hear us?",66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-358,WORF,       Sensors show he is alive... he   may be injured.,66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-359,RIKER,   Can we transport him out of there?,66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-360,WORF,       Transporters are still off-line.,66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-361,FELTON,"       Captain, warp power is dropping.   We're losing speed.",66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-362,RIKER,"       Bridge to engineering. What's   going on, Geordi?",66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+357,PICARD,"       Bridge to biolab four. Alexander,   can you hear us?",66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+358,WORF,       Sensors show he is alive... he   may be injured.,66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+359,RIKER,   Can we transport him out of there?,66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+360,WORF,       Transporters are still off-line.,66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+361,FELTON,"       Captain, warp power is dropping.   We're losing speed.",66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+362,RIKER,"       Bridge to engineering. What's   going on, Geordi?",66   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 363,GEORDI,"   We lost four warp transfer   conduits, Commander.",67   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 364,RIKER,"       The wave is gaining on us, we need   more speed.",67   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 365,GEORDI,"   I doubt I can keep this speed up   much longer, Commander. You   better fire those torpedoes while   we're still in front of the wave.",67   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,New Ground,1991-10-04,The Next Generation,210.txt
@@ -374,9 +374,9 @@
 372,PICARD,       I can't let the soliton wave hit   the colony. You have three   minutes... not one second more.,67   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 373,RIKER,   Primary control's shorted out.,68   INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 374,WORF,   Stand clear.,68   INT. CORRIDOR,CORRIDOR,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-375,WORF,   Alexander!,69   INT. BIOLAB - CONTINUOUS,BIOLAB,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-376,RIKER,   Alexander!,69   INT. BIOLAB - CONTINUOUS,BIOLAB,INT.,New Ground,1991-10-04,The Next Generation,210.txt
-377,RIKER ,"   Alexander, can you hear me?",69   INT. BIOLAB - CONTINUOUS,BIOLAB,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+375,WORF,   Alexander!,69   INT. BIOLAB - CONTINUOUS,BIOLA,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+376,RIKER,   Alexander!,69   INT. BIOLAB - CONTINUOUS,BIOLA,INT.,New Ground,1991-10-04,The Next Generation,210.txt
+377,RIKER ,"   Alexander, can you hear me?",69   INT. BIOLAB - CONTINUOUS,BIOLA,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 378,DATA,"       The soliton wave has closed to   ten kilometers, Captain.",71   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 379,PICARD,       Stand by to fire torpedoes on my   command.,71   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,New Ground,1991-10-04,The Next Generation,210.txt
 380,WORF,"   I've found him, Commander!",72   INT. BIOLAB,BIOLAB,INT.,New Ground,1991-10-04,The Next Generation,210.txt

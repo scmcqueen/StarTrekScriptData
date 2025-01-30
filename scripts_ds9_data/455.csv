@@ -27,13 +27,13 @@
 25,BASHIR,"   Oh, yes I can.  And not even Commander    Sisko can overrule my judgement as    chief medical officer.",3    INT. INFIRMARY,INFIRMARY,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 26,KIRA,"   Wait a minute, Julian... just because    I snapped at you isn't enough to--",3    INT. INFIRMARY,INFIRMARY,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 27,BASHIR,   My diagnosis is that you're overworked    and suffering from extreme stress    and borderline exhaustion.  As for    my prescription... come with me.,3    INT. INFIRMARY,INFIRMARY,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-28,QUARK,       Karvino juice... Lorvan crackers...    a holosuite program... a jumja    stick... and gambling tokens.,4    INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-29,BASHIR,"   Now, at least two of these items    must be used and fully enjoyed before    you can leave this facility.",4    INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-30,KIRA,   Julian...,4    INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-31,QUARK,"       I'll be giving you a full report on    her activities, Doctor.",4    INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-32,BASHIR,"       If I hear you didn't relax and have    a good time tonight, we'll do this    every night until you do.       Have fun.",4    INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-33,RIKER,   Looks like you've got your evening    all planned out.,4    INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-34,RIKER,   I hope you left room for... the    unexpected.,4    INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+28,QUARK,       Karvino juice... Lorvan crackers...    a holosuite program... a jumja    stick... and gambling tokens.,4    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+29,BASHIR,"   Now, at least two of these items    must be used and fully enjoyed before    you can leave this facility.",4    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+30,KIRA,   Julian...,4    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+31,QUARK,"       I'll be giving you a full report on    her activities, Doctor.",4    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+32,BASHIR,"       If I hear you didn't relax and have    a good time tonight, we'll do this    every night until you do.       Have fun.",4    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+33,RIKER,   Looks like you've got your evening    all planned out.,4    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+34,RIKER,   I hope you left room for... the    unexpected.,4    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 35,SISKO,"   Welcome aboard, Commander.",5    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 36,RIKER,   Thank you.  And call me Wil.,5    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 37,SISKO,   What brings you to Deep Space Nine?,5    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
@@ -69,36 +69,36 @@
 67,RIKER,   Major.,6    INT. OPS,OPS,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 68,KIRA,   Commander.,6    INT. OPS,OPS,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 69,RIKER,       Well.  I better get out of your way    and let you get back to work.       I hope I see you all again soon.,6    INT. OPS,OPS,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-70,RIKER,   Oops.  Sorry about that.,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-71,KIRA,   It's all right.,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-72,RIKER,   My mind was a million light years    away.  Should've been paying attention    to where I was going.,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-73,KIRA,   So... doing some shopping?,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-74,RIKER,"   I'm just exploring the Promenade    actually.  I thought about heading    over to Quark's, but... I wasn't    really in the mood.       Where're you off to?",8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-75,KIRA,   I'm just... coming off duty.  I was    about to call it a night.,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-76,RIKER,   I see.       Well... good night.,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-77,KIRA,   Would you... like a tour of the    station... ?,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-78,RIKER,       I'd love one.  Where should we begin?,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-79,KIRA,"   Well, we could walk along the    Promenade for a start.  There's quite    a bit to see here.",8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-80,RIKER,       You think we'll have a chance to    take a look at that new starship of    yours?  What's it called... ?,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-81,KIRA,   The Defiant.,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-82,RIKER,"   Yeah, the Defiant.  I hear it's quite    a vessel.",8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-83,KIRA,   I'm sure we could arrange that.,8    INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+70,RIKER,   Oops.  Sorry about that.,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+71,KIRA,   It's all right.,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+72,RIKER,   My mind was a million light years    away.  Should've been paying attention    to where I was going.,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+73,KIRA,   So... doing some shopping?,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+74,RIKER,"   I'm just exploring the Promenade    actually.  I thought about heading    over to Quark's, but... I wasn't    really in the mood.       Where're you off to?",8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+75,KIRA,   I'm just... coming off duty.  I was    about to call it a night.,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+76,RIKER,   I see.       Well... good night.,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+77,KIRA,   Would you... like a tour of the    station... ?,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+78,RIKER,       I'd love one.  Where should we begin?,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+79,KIRA,"   Well, we could walk along the    Promenade for a start.  There's quite    a bit to see here.",8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+80,RIKER,       You think we'll have a chance to    take a look at that new starship of    yours?  What's it called... ?,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+81,KIRA,   The Defiant.,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+82,RIKER,"   Yeah, the Defiant.  I hear it's quite    a vessel.",8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+83,KIRA,   I'm sure we could arrange that.,8    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 84,COMPUTER,   Please identify for access to USS    Defiant.,10   INT. AIRLOCK,AIRLOCK,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 85,KIRA,"   Major Kira Nerys, Bajoran militia.",10   INT. AIRLOCK,AIRLOCK,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 86,COMPUTER,   Identity confirmed.,10   INT. AIRLOCK,AIRLOCK,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 87,RIKER,"   Commander William Riker, Starfleet.",10   INT. AIRLOCK,AIRLOCK,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 88,COMPUTER,   Identity confirmed.,10   INT. AIRLOCK,AIRLOCK,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-89,KIRA,   Chief.  I didn't know there was anyone    aboard tonight.,11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-90,O'BRIEN,       I hadn't planned to... just putting    in a little extra work on the    deflector targeting arrays.,11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-91,O'BRIEN,"   Commander.  I heard you were aboard,    but I hadn't--",11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-92,RIKER,"       I have nothing to say to you, Chief.     And I think you know why.",11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-93,KIRA,       Maybe we should come back another    time.,11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-94,O'BRIEN,"   No... no, that's all right, Major.     I was just leaving.       Commander.",11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-95,KIRA,       What was that all about?,11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-96,RIKER,   It's a long story.  And I'd rather    not get into it right now.,11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-97,RIKER,"   Well, let's have a look at this ship    of yours.",11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-98,KIRA,   Okay.  I'll show you the tactical    systems first.,11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-99,KIRA,   I think you're going to be surprised    at how big a punch this little ship    has...,11   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+89,KIRA,   Chief.  I didn't know there was anyone    aboard tonight.,11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+90,O'BRIEN,       I hadn't planned to... just putting    in a little extra work on the    deflector targeting arrays.,11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+91,O'BRIEN,"   Commander.  I heard you were aboard,    but I hadn't--",11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+92,RIKER,"       I have nothing to say to you, Chief.     And I think you know why.",11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+93,KIRA,       Maybe we should come back another    time.,11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+94,O'BRIEN,"   No... no, that's all right, Major.     I was just leaving.       Commander.",11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+95,KIRA,       What was that all about?,11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+96,RIKER,   It's a long story.  And I'd rather    not get into it right now.,11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+97,RIKER,"   Well, let's have a look at this ship    of yours.",11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+98,KIRA,   Okay.  I'll show you the tactical    systems first.,11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+99,KIRA,   I think you're going to be surprised    at how big a punch this little ship    has...,11   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 100,RIKER,   Running the plasma conduit through    the primary phaser coupling has almost    doubled your phaser power.  But    doesn't that reduce warp drive    efficiency?,13   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 101,KIRA,"   Not at all.  In fact, it's thirty    percent more efficient.",13   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 102,RIKER,   That's ingenious.       I want to see how this is all routed    through the tactical display.,13   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
@@ -119,12 +119,12 @@
 117,O'BRIEN,   I can't get a lock.  The Defiant's    shields are up.,17   INT. OPS (OPTICAL),OPS,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 118,SISKO,   What?,17   INT. OPS (OPTICAL),OPS,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 119,DAX,   She's gone into warp.  I've lost    them.,19   INT. OPS,OPS,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-120,KALITA,       We're beyond their sensor range.,20   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-121,RIKER,   Set course for the Badlands.  Warp    seven.,20   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-122,RIKER,"   Tamal, secure that conduit.",20   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-123,KALITA,       Course laid in.  We'll be in the    Badlands in six hours.,20   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-124,KALITA,"   You did it, Tom.",20   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-125,RIKER,   Yeah... but it's not over yet.,20   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+120,KALITA,       We're beyond their sensor range.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+121,RIKER,   Set course for the Badlands.  Warp    seven.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+122,RIKER,"   Tamal, secure that conduit.",20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+123,KALITA,       Course laid in.  We'll be in the    Badlands in six hours.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+124,KALITA,"   You did it, Tom.",20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+125,RIKER,   Yeah... but it's not over yet.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 126,ODO,"   Nine years ago, a transporter accident    created two William T.  Rikers...    one of them returned to his ship,    the other was marooned on Nervala    Four.",22   INT. WARDROOM (OPTICAL),WARDROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 127,SISKO,   The second Riker was finally    discovered two years ago.  He chose    to use his middle name -- Thomas --    to distinguish himself from the other    Riker.,22   INT. WARDROOM (OPTICAL),WARDROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 128,ODO,"   The two men are physically identical    in every respect -- right down to    their DNA coding.  There was no way    for the security computer to know    that it was Thomas, not William who    boarded the Defiant.",22   INT. WARDROOM (OPTICAL),WARDROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
@@ -151,21 +151,21 @@
 149,SISKO,   I want to try and disable it first.,22   INT. WARDROOM (OPTICAL),WARDROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 150,GUL DUKAT,"       I'm sure you would, but you're in no    position to bargain.  You want to    prevent a war?  Then come back to    Cardassia with me and help me destroy    the Defiant.",22   INT. WARDROOM (OPTICAL),WARDROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 151,SISKO,   When do we leave?,22   INT. WARDROOM (OPTICAL),WARDROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-152,KIRA,       I don't care who you are or what    your name is.,24   INT. DEFIANT - QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-153,RIKER,"   Look, I'm sorry about lying to you,    and about... using you.  But it was    an operational necessity.",24   INT. DEFIANT - QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-154,RIKER,       You were a resistance fighter... you    know that sometimes you have to do    things that you're not proud of in    order to accomplish the mission.,24   INT. DEFIANT - QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-155,KIRA,"   Well, you've accomplished your    mission, so now what?  Everyone's    going to be looking for you -- the    Cardassians and Starfleet.  How far    do you think you can get with this    ship before they find you?",24   INT. DEFIANT - QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-156,RIKER,    (with a confident     smile)   A lot farther than anyone anticipates.,24   INT. DEFIANT - QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-157,KALITA,   Kalita to Riker.  We've reached the    rendezvous point.,24   INT. DEFIANT - QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-158,RIKER,       On my way.,24   INT. DEFIANT - QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-159,KALITA,   The other Maquis ships just arrived.,25   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-160,TAMAL,       The rest of the team's ready.,25   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-161,RIKER,   Lower the shields and beam them    aboard.,25   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-162,TAMAL,"   The Maquis ships are heading for the    border, Tom.",25   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-163,KALITA,   All defense systems on-line and    operational... warp power standing    by.,25   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-164,RIKER,       Lay in a course for the Cardassian    border.  Warp eight.,25   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-165,KALITA,       Course already laid in.,25   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-166,RIKER,       This ship was built to fight... I    think it's time she got her chance.       Engage.,25   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+152,KIRA,       I don't care who you are or what    your name is.,24   INT. DEFIANT - QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+153,RIKER,"   Look, I'm sorry about lying to you,    and about... using you.  But it was    an operational necessity.",24   INT. DEFIANT - QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+154,RIKER,       You were a resistance fighter... you    know that sometimes you have to do    things that you're not proud of in    order to accomplish the mission.,24   INT. DEFIANT - QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+155,KIRA,"   Well, you've accomplished your    mission, so now what?  Everyone's    going to be looking for you -- the    Cardassians and Starfleet.  How far    do you think you can get with this    ship before they find you?",24   INT. DEFIANT - QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+156,RIKER,    (with a confident     smile)   A lot farther than anyone anticipates.,24   INT. DEFIANT - QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+157,KALITA,   Kalita to Riker.  We've reached the    rendezvous point.,24   INT. DEFIANT - QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+158,RIKER,       On my way.,24   INT. DEFIANT - QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+159,KALITA,   The other Maquis ships just arrived.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+160,TAMAL,       The rest of the team's ready.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+161,RIKER,   Lower the shields and beam them    aboard.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+162,TAMAL,"   The Maquis ships are heading for the    border, Tom.",25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+163,KALITA,   All defense systems on-line and    operational... warp power standing    by.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+164,RIKER,       Lay in a course for the Cardassian    border.  Warp eight.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+165,KALITA,       Course already laid in.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+166,RIKER,       This ship was built to fight... I    think it's time she got her chance.       Engage.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 167,SISKO ,   Commander's Log:  Stardate 48467.3    Gul Dukat and I have arrived on    Cardassia Prime.  I am about to do    something which goes against twenty    years of Starfleet training:  help    an enemy hunt down one of our own    ships.,26   EXT. CARDASSIA PRIME (MATTE SHOT),CARDASSIA PRIME,EXT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 168,GUL DUKAT,"   This is where I will be conducting    the search for the Defiant.  From    this room, I can control every    Cardassian ship, outpost, and space    station anywhere in...",27   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 169,GUL DUKAT,"   Commander, allow me to introduce    Korinas -- our ""observer"" from the    Obsidian Order.       Commander Sisko.",27   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
@@ -189,11 +189,11 @@
 187,GUL DUKAT,   Can you give us the specifications    of that beam?,27   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 188,SISKO,"   Not precisely, but I can give you    what we learned from our sensor logs.     It'll at least give you a chance to    find the Defiant before she attacks.",27   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 189,GUL DUKAT,       Give him everything you know.  I'll    have the information transmitted to    all units.,27   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-190,KALITA,"       We're approaching the security    perimeter, Tom.",29   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-191,RIKER,       All right... this is it.  Cloak the    ship.  Stand by weapons.,29   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-192,TAMAL,   Squadron Baker has arrived at their    checkpoint.,31   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-193,RIKER,       Transmit the go-ahead signal.,31   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-194,KALITA,   We'll be in Cardassian sensor range    in... five minutes.,31   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+190,KALITA,"       We're approaching the security    perimeter, Tom.",29   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+191,RIKER,       All right... this is it.  Cloak the    ship.  Stand by weapons.,29   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+192,TAMAL,   Squadron Baker has arrived at their    checkpoint.,31   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+193,RIKER,       Transmit the go-ahead signal.,31   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+194,KALITA,   We'll be in Cardassian sensor range    in... five minutes.,31   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 195,SOLDIER,   There's a perimeter alert in the    Almatha sector.,32   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 196,GUL DUKAT,   Put it on the main viewer.,32   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 197,GUL DUKAT,       Who's commanding the outpost nearest    that ship?,32   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
@@ -214,33 +214,33 @@
 212,SOLDIER,"       The Defiant has recloaked... it's    last know heading was... one four    eight, mark two one five.",32   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 213,GUL DUKAT,   Directly into the heart of Cardassian    territory.,32   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 214,KORINAS,"       Commander Sisko, you should be    commended.  I only wish we had someone    with such keen tactical instincts    who could've prevented this...    invasion of our territory.",32   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-215,KALITA,   We're past the security perimeter...    out of their sensor range.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-216,RIKER,   They were using anti-proton beams to    scan for us... We'll have to adjust    the cloak's resonance frequency so    they can't detect us again.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-217,KALITA,   Right.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-218,RIKER,       Damage report.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-219,TAMAL,   We took six hits on the port    shields... there's been some minor    damage to the outer hull... but all    systems are operational.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-220,RIKER,   Tough little ship.       Set course for the shipyard at Omekla    Three.  We'll let that be --,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-221,RIKER,   Report.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-222,KALITA,   We've lost main power... and the    cloak is off-line.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-223,TAMAL,   It looks like two plasma conduits    blew out.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-224,RIKER,   Where?,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-225,TAMAL,       Deck three... section fifteen.       Crew quarters.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-226,RIKER,   It looks like Major Kira's been busy.,33   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-227,RIKER,"       You crossed the replicator power    converter with the plasma manifold,    I take it?",34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-228,KIRA,       That's right.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-229,RIKER,   Nice work.       You realize we'll have this bypassed    in thirty minutes.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-230,KIRA,   At least you'll be visible for thirty    minutes.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-231,RIKER,"   Fortunately, I was able to move us    into a nebula.  No one's going to    see us.",34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-232,KIRA,       Thanks.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-233,RIKER,   You're lucky you only got a little    singed.  That whole plasma relay    could've exploded.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-234,KIRA,   That was the idea.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-235,RIKER,   You spent most of your life fighting    the Cardassians.  I know you    sympathize with what we're trying to    do here.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-236,KIRA,   I fought the Cardassians because    they invaded my home.  You don't    live in the Demilitarized Zone...    you don't have any family there...    why are you in this fight?,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-237,RIKER,   People are dying in the Demilitarized    Zone and Starfleet isn't doing a    thing about it.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-238,KIRA,   Taking the Defiant just raises the    stakes.  The Cardassians are going    to send a fleet after you... and    they're going to kill more people    hunting you down than they did in    those border raids.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-239,RIKER,       You're assuming the Defiant will    stay in the Demilitarized Zone.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-240,RIKER,   Let's go to the bridge.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-241,RIKER,       I think we'd all feel better having    you someplace where we can keep an    eye on you.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+215,KALITA,   We're past the security perimeter...    out of their sensor range.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+216,RIKER,   They were using anti-proton beams to    scan for us... We'll have to adjust    the cloak's resonance frequency so    they can't detect us again.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+217,KALITA,   Right.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+218,RIKER,       Damage report.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+219,TAMAL,   We took six hits on the port    shields... there's been some minor    damage to the outer hull... but all    systems are operational.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+220,RIKER,   Tough little ship.       Set course for the shipyard at Omekla    Three.  We'll let that be --,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+221,RIKER,   Report.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+222,KALITA,   We've lost main power... and the    cloak is off-line.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+223,TAMAL,   It looks like two plasma conduits    blew out.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+224,RIKER,   Where?,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+225,TAMAL,       Deck three... section fifteen.       Crew quarters.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+226,RIKER,   It looks like Major Kira's been busy.,33   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+227,RIKER,"       You crossed the replicator power    converter with the plasma manifold,    I take it?",34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+228,KIRA,       That's right.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+229,RIKER,   Nice work.       You realize we'll have this bypassed    in thirty minutes.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+230,KIRA,   At least you'll be visible for thirty    minutes.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+231,RIKER,"   Fortunately, I was able to move us    into a nebula.  No one's going to    see us.",34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+232,KIRA,       Thanks.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+233,RIKER,   You're lucky you only got a little    singed.  That whole plasma relay    could've exploded.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+234,KIRA,   That was the idea.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+235,RIKER,   You spent most of your life fighting    the Cardassians.  I know you    sympathize with what we're trying to    do here.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+236,KIRA,   I fought the Cardassians because    they invaded my home.  You don't    live in the Demilitarized Zone...    you don't have any family there...    why are you in this fight?,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+237,RIKER,   People are dying in the Demilitarized    Zone and Starfleet isn't doing a    thing about it.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+238,KIRA,   Taking the Defiant just raises the    stakes.  The Cardassians are going    to send a fleet after you... and    they're going to kill more people    hunting you down than they did in    those border raids.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+239,RIKER,       You're assuming the Defiant will    stay in the Demilitarized Zone.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+240,RIKER,   Let's go to the bridge.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+241,RIKER,       I think we'd all feel better having    you someplace where we can keep an    eye on you.,34   INT. DEFIANT - KIRA'S QUARTERS,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 242,SISKO,       Fifteen outposts have checked in...    no sign of the Defiant.  Twenty-six    warships have scanned fourteen cubic    light years of space with anti-proton    beams... no Defiant.,35   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 243,SISKO,       What are the possibilities?  They're    still under cloak and heading deeper    into Cardassian territory.  They're    laying low and waiting for some    unknown reason.  Or they've    encountered some kind of problem...,35   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 244,SISKO,"   Dukat, are you listening to me?",35   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
@@ -309,9 +309,9 @@
 307,RIKER,   They can chase me all they want...    as long as they don't catch me.,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 308,SOLDIER,       Sir -- the Kraxon reports that the    neutrino signature has just phase-    shifted... it's now moving at warp    speed directly for the Orias system.,41   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 309,GUL DUKAT,   Order the Kraxon to pursue at maximum    warp and order all other ships in    the sector to follow.,41   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-310,KALITA,   The Kraxon is pursuing... but they    won't catch us before we reach Orias.,42   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-311,TAMAL,   The Orias system is within sensor    range.,42   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-312,RIKER,   Full scan... I want to see everything    that's in that system.,42   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+310,KALITA,   The Kraxon is pursuing... but they    won't catch us before we reach Orias.,42   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+311,TAMAL,   The Orias system is within sensor    range.,42   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+312,RIKER,   Full scan... I want to see everything    that's in that system.,42   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 313,GUL DUKAT,       When you make out your report for    the Obsidian Order... be sure to    mention the fact that I could've    prevented the Defiant from reaching    Orias... if you hadn't interfered.,43   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 314,KORINAS,   They'll never make it to Orias.  You    can count on that.,43   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 315,SOLDIER,       Three more ships have just appeared    in the Orias system!,43   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
@@ -345,15 +345,15 @@
 343,SISKO,   I might be able to get him to agree    to that... on one condition.  We    both know that Cardassian sentences    are determined well in advance of    the trial.  I'd like you to arrange    for a sentence other than death.,45   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 344,GUL DUKAT,   I'll have to clear it with the    Ministry of Justice.,45   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 345,SISKO,   You'd better make it quick.,45   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-346,TAMAL,    ,46   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-347,RIKER,"   Go to impulse, decloak the ship,    raise shields and stand by phasers.",46   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-348,RIKER,"   Come to heading one one eight, mark    three zero one, lock phasers, and    fire.",46B  INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-349,KALITA,   Direct hit on the cruiser's port    nacelle... their shields are down by    thirty percent.,46B  INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-350,TAMAL,   We've been hit on our starboard    shield...,46B  INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-351,TAMAL,   Shields holding.,46D  INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-352,RIKER,   Quantum torpedoes... full spread.,46D  INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-353,TAMAL,   Torpedoes locked.,46D  INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-354,RIKER,   Fire.,46D  INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+346,TAMAL,    ,46   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+347,RIKER,"   Go to impulse, decloak the ship,    raise shields and stand by phasers.",46   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+348,RIKER,"   Come to heading one one eight, mark    three zero one, lock phasers, and    fire.",46B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+349,KALITA,   Direct hit on the cruiser's port    nacelle... their shields are down by    thirty percent.,46B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+350,TAMAL,   We've been hit on our starboard    shield...,46B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+351,TAMAL,   Shields holding.,46D  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+352,RIKER,   Quantum torpedoes... full spread.,46D  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+353,TAMAL,   Torpedoes locked.,46D  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+354,RIKER,   Fire.,46D  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 355,KALITA,   Their defense systems are off-line    and they've lost main power.,46F  INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 356,TAMAL,   Tom... three more cruisers have just    appeared in the Orias system.  That    makes five ships ahead of us... and    ten behind.,46F  INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 357,RIKER,   Resume our original course to Orias...    stand by emergency power to the    shields and --,46F  INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
@@ -383,17 +383,17 @@
 381,RIKER,       Bring us about.  Lay in a course to    the Kraxon.,46F  INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 382,RIKER,       Do it.,46F  INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 383,GUL DUKAT,   Those are faster than any Keldon    class ships I've ever seen.       What's going on in that system?,48   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-384,KALITA,   We're one hundred million kilometers    from the Kraxon.,53   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-385,TAMAL,   Incoming message...,53   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-386,RIKER,   Let's hear it.,53   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-387,CARDASSIAN COM,"   This is Gul Ranor of the Kraxon.     Cut your engines in five seconds,    and we'll extend our shields around    you.",53   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-388,RIKER,   Acknowledged.       Kalita?,53   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-389,KALITA,   All stop...,53   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+384,KALITA,   We're one hundred million kilometers    from the Kraxon.,53   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+385,TAMAL,   Incoming message...,53   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+386,RIKER,   Let's hear it.,53   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+387,CARDASSIAN COM,"   This is Gul Ranor of the Kraxon.     Cut your engines in five seconds,    and we'll extend our shields around    you.",53   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+388,RIKER,   Acknowledged.       Kalita?,53   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+389,KALITA,   All stop...,53   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
 390,GUL DUKAT,   They won't fire on another Cardassian    ship.  They can't.,57   INT. CARDASSIAN WAR ROOM (OPTICAL),CARDASSIAN WAR ROOM,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-391,KALITA,       They're moving off... they've set    course back to the Orias System.,58   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-392,RIKER,       Transmit the Orias Three sensor logs    to the Kraxon.  And tell them... to    prepare to beam me aboard.,58   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-393,RIKER,       I'm turning command over to Major    Kira... she'll get you back to the    Federation.       I'm holding you personally responsible    to see to it that they all receive a    fair trial.,58   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-394,KIRA,   You have my word on it.,58   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-395,KIRA,"   We'll get you out of there somehow,    Tom.  I promise you that.",58   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-396,RIKER,       Riker to Kraxon.  One to beam    aboard.,58   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
-397,KIRA,       Set course for the Federation.  Warp    eight.,58   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+391,KALITA,       They're moving off... they've set    course back to the Orias System.,58   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+392,RIKER,       Transmit the Orias Three sensor logs    to the Kraxon.  And tell them... to    prepare to beam me aboard.,58   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+393,RIKER,       I'm turning command over to Major    Kira... she'll get you back to the    Federation.       I'm holding you personally responsible    to see to it that they all receive a    fair trial.,58   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+394,KIRA,   You have my word on it.,58   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+395,KIRA,"   We'll get you out of there somehow,    Tom.  I promise you that.",58   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+396,RIKER,       Riker to Kraxon.  One to beam    aboard.,58   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt
+397,KIRA,       Set course for the Federation.  Warp    eight.,58   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Defiant,1994-09-29,Deep Space Nine,455.txt

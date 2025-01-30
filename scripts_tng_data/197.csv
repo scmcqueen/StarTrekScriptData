@@ -1,15 +1,15 @@
 ,character,quote,scene,location,view,episode,date,series,file
 0,BEVERLY ,"   Doctor Beverly Crusher, Personal   Log, Stardate 44821.3. Began   an analysis today of the   respiratory problems being   experienced by the populations on   the two moons of Peliar Zel.       Finally got an actual letter from   Wesley... topped the class in   exo-biology, but he's still   struggling in Ancient   Philosophies.       And... there's... a new man in   my life.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Host,1991-03-01,The Next Generation,197.txt
-1,DATA,   Ambassador Odan... Doctor   Crusher... I was just on my way   to see you.,3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-2,BEVERLY,"   Hello, Data...",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-3,DATA,   I have completed my study of the   atmospheric variations which have   occurred on the moons since the   new technology was implemented.,3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-4,ODAN,"   Thank you, Commander. That will   be most helpful in my efforts to   mediate the quarrel.",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-5,DATA,   I could go over them with you now.   It would not require more than   two hours.,3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-6,BEVERLY,"   We do appreciate it, Data... but   the Ambassador and I have set   aside this time... to analyze   the incidence of lung disease   among the moons' inhabitants.",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-7,DATA,"   Then it is perfect timing, Doctor   -- what better occasion to   integrate my results into your   study?",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-8,ODAN,"   Now that I think about it,   Commander... you're absolutely   right. Unfortunately, I'm not   feeling well... perhaps Doctor   Crusher could get you started,   inputting your information... but   I must I return to my quarters.",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-9,BEVERLY,"       Ambassador, are you still having   those awful headaches?   I'll bring you a hypospray to take   care of it...",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-10,ODAN,       I would be most grateful...,3    INT. TURBOLIFT - WIDER SHOT,TURBOLIFT,INT.,The Host,1991-03-01,The Next Generation,197.txt
+1,DATA,   Ambassador Odan... Doctor   Crusher... I was just on my way   to see you.,3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+2,BEVERLY,"   Hello, Data...",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+3,DATA,   I have completed my study of the   atmospheric variations which have   occurred on the moons since the   new technology was implemented.,3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+4,ODAN,"   Thank you, Commander. That will   be most helpful in my efforts to   mediate the quarrel.",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+5,DATA,   I could go over them with you now.   It would not require more than   two hours.,3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+6,BEVERLY,"   We do appreciate it, Data... but   the Ambassador and I have set   aside this time... to analyze   the incidence of lung disease   among the moons' inhabitants.",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+7,DATA,"   Then it is perfect timing, Doctor   -- what better occasion to   integrate my results into your   study?",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+8,ODAN,"   Now that I think about it,   Commander... you're absolutely   right. Unfortunately, I'm not   feeling well... perhaps Doctor   Crusher could get you started,   inputting your information... but   I must I return to my quarters.",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+9,BEVERLY,"       Ambassador, are you still having   those awful headaches?   I'll bring you a hypospray to take   care of it...",3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
+10,ODAN,       I would be most grateful...,3    INT. TURBOLIFT - WIDER SHOT,TURBOLIF,INT.,The Host,1991-03-01,The Next Generation,197.txt
 11,BEVERLY,"   Put a cold cloth on your forehead   and lie down, Ambassador. I'll   be with you shortly.",4    INT. CORRIDOR (CONTINUOUS),CORRIDOR,INT.,The Host,1991-03-01,The Next Generation,197.txt
 12,BEVERLY,"   I'll set you up at the medical   monitor, Data... it'll take you   a while to input the figures,   won't it?",4    INT. CORRIDOR (CONTINUOUS),CORRIDOR,INT.,The Host,1991-03-01,The Next Generation,197.txt
 13,DATA,       At least an hour... but I do not   believe much time can be saved   from that estimate by exhibiting   such haste now...,4    INT. CORRIDOR (CONTINUOUS),CORRIDOR,INT.,The Host,1991-03-01,The Next Generation,197.txt
@@ -129,12 +129,12 @@
 127,PICARD,   Engage tractor beam. Number One   -- report.,18   INT. SHUTTLE,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
 128,RIKER,   We've lost the port thruster and   both back-up stabilizers... I'm   losing control...,18   INT. SHUTTLE,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
 129,PICARD,   We're bringing you in.,18   INT. SHUTTLE,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-130,RIKER,"   Captain, the shuttle hull has been   weakened. We're breaking up...   you can't tow us. Better beam   us directly on board...",19A  INT. SHUTTLE - INTERCUTTING,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-131,ODAN,       No... don't do it...,19A  INT. SHUTTLE - INTERCUTTING,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-132,RIKER,   I can't stabilize the shuttle...,19A  INT. SHUTTLE - INTERCUTTING,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-133,ODAN,"   If you transport me, it will kill   me... please...",19A  INT. SHUTTLE - INTERCUTTING,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-134,PICARD,   Number One... we're ready to beam   you aboard.,19A  INT. SHUTTLE - INTERCUTTING,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-135,RIKER,"   Belay that, Captain. I'm going   to bring her in manually.       Advise Doctor Crusher we have a   medical emergency.",19A  INT. SHUTTLE - INTERCUTTING,SHUTTLE,INT.,The Host,1991-03-01,The Next Generation,197.txt
+130,RIKER,"   Captain, the shuttle hull has been   weakened. We're breaking up...   you can't tow us. Better beam   us directly on board...",19A  INT. SHUTTLE - INTERCUTTING,SHUTTL,INT.,The Host,1991-03-01,The Next Generation,197.txt
+131,ODAN,       No... don't do it...,19A  INT. SHUTTLE - INTERCUTTING,SHUTTL,INT.,The Host,1991-03-01,The Next Generation,197.txt
+132,RIKER,   I can't stabilize the shuttle...,19A  INT. SHUTTLE - INTERCUTTING,SHUTTL,INT.,The Host,1991-03-01,The Next Generation,197.txt
+133,ODAN,"   If you transport me, it will kill   me... please...",19A  INT. SHUTTLE - INTERCUTTING,SHUTTL,INT.,The Host,1991-03-01,The Next Generation,197.txt
+134,PICARD,   Number One... we're ready to beam   you aboard.,19A  INT. SHUTTLE - INTERCUTTING,SHUTTL,INT.,The Host,1991-03-01,The Next Generation,197.txt
+135,RIKER,"   Belay that, Captain. I'm going   to bring her in manually.       Advise Doctor Crusher we have a   medical emergency.",19A  INT. SHUTTLE - INTERCUTTING,SHUTTL,INT.,The Host,1991-03-01,The Next Generation,197.txt
 136,BEVERLY,   He's in shock... he's lost a lot   of blood... but that doesn't   account for these readings...,20   INT. SICKBAY,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
 137,BEVERLY,   Eosinophilia in the cerebrospinal   fluid at forty-six percent.,20   INT. SICKBAY,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
 138,NURSE OGAWA,   Sedimentation rate is   twenty-nine... but his lymphocytes   are intact...,20   INT. SICKBAY,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
@@ -150,27 +150,27 @@
 148,BEVERLY,   You're dying... what can I do?,22   INT. SICKBAY,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
 149,ODAN,   The host body is dying... You must   contact the Trill quickly... tell   them I need another host. They   will send a replacement.,22   INT. SICKBAY,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
 150,ODAN,"   I know it is hard to accept...   but I beg you, Doctor Beverly...   help me... this mission must be   completed.",22   INT. SICKBAY,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-151,BEVERLY,   Odan's host body died of the   injuries just over an hour ago.   But the symbiont being...   Odan... is still alive.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-152,BEVERLY,   Odan is the one who negotiated   the last treaty. The man everyone   thought was his father was just   another host body.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-153,RIKER,   And the reason Odan refused the   transporter...,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-154,BEVERLY,       It would have damaged the   symbiont.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-155,PICARD,       We have contacted the Trill.   Another host will arrive within   forty hours.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-156,BEVERLY,   I've placed Odan in stasis.   He can survive for an hour...   maybe two... but not beyond that.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-157,DATA,   Is it possible I could serve as   a temporary carrier?,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-158,BEVERLY,"   No, Data. The relationship   requires a biological being.",23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-159,PICARD,   We are at a desperate impasse with   the situation in the Peliar   system. The attack on our   shuttlecraft has inflamed the   dispute.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-160,TROI,"   Who was responsible, Captain?",23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-161,PICARD,   No one will admit anything. Each   side accuses the other and threats   are mounting. We need Odan...,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-162,RIKER,   Doctor... could a human host carry   him?,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-163,BEVERLY,   I... believe so. From Odan's   description of the process... it   should be possible. But --,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-164,RIKER,       Then I volunteer.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-165,BEVERLY,   There's been no precedent for a   human host. I couldn't guarantee   what... what might happen.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-166,PICARD,   Would you be able to remove the   symbiont when the new host   arrives?,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-167,BEVERLY,"   In theory, yes. I just don't know   what might happen to a human body   in the process.",23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-168,PICARD,   Commander... the risk is too   great.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-169,RIKER,   Weigh it against the prospect   of war.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-170,PICARD,"   It is your choice, Will.",23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-171,RIKER,   Then let's get to it.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
+151,BEVERLY,   Odan's host body died of the   injuries just over an hour ago.   But the symbiont being...   Odan... is still alive.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+152,BEVERLY,   Odan is the one who negotiated   the last treaty. The man everyone   thought was his father was just   another host body.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+153,RIKER,   And the reason Odan refused the   transporter...,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+154,BEVERLY,       It would have damaged the   symbiont.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+155,PICARD,       We have contacted the Trill.   Another host will arrive within   forty hours.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+156,BEVERLY,   I've placed Odan in stasis.   He can survive for an hour...   maybe two... but not beyond that.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+157,DATA,   Is it possible I could serve as   a temporary carrier?,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+158,BEVERLY,"   No, Data. The relationship   requires a biological being.",23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+159,PICARD,   We are at a desperate impasse with   the situation in the Peliar   system. The attack on our   shuttlecraft has inflamed the   dispute.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+160,TROI,"   Who was responsible, Captain?",23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+161,PICARD,   No one will admit anything. Each   side accuses the other and threats   are mounting. We need Odan...,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+162,RIKER,   Doctor... could a human host carry   him?,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+163,BEVERLY,   I... believe so. From Odan's   description of the process... it   should be possible. But --,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+164,RIKER,       Then I volunteer.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+165,BEVERLY,   There's been no precedent for a   human host. I couldn't guarantee   what... what might happen.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+166,PICARD,   Would you be able to remove the   symbiont when the new host   arrives?,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+167,BEVERLY,"   In theory, yes. I just don't know   what might happen to a human body   in the process.",23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+168,PICARD,   Commander... the risk is too   great.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+169,RIKER,   Weigh it against the prospect   of war.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+170,PICARD,"   It is your choice, Will.",23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+171,RIKER,   Then let's get to it.,23   INT. OBSERVATION LOUNGE - LATER,OBSERVATION LOUNG,INT.,The Host,1991-03-01,The Next Generation,197.txt
 172,BEVERLY,   I've given you a local   anesthetic... but you must be   conscious while the implantation   takes place. Drugs might damage   the symbiont.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
 173,RIKER,   I understand.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
 174,BEVERLY,   Laser scalpel.,24   INT. SICKBAY (OPTICAL),SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
@@ -202,41 +202,41 @@
 200,PICARD,"   Mister Worf, take the Ambassador   to his quarters.",31   INT. BRIDGE (OPTICAL),BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
 201,RIKER,   I'll be all right... just need   to lie down a minute...,31   INT. BRIDGE (OPTICAL),BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
 202,PICARD,   Bridge to Crusher...,31   INT. BRIDGE (OPTICAL),BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-203,BEVERLY,"   Yes, Captain?",32   INT. SICKBAY - INTERCUTTING,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-204,PICARD,   The Ambassador is not well.   Please see to him in his quarters.,32   INT. SICKBAY - INTERCUTTING,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-205,BEVERLY,"   Right away, sir.",32   INT. SICKBAY - INTERCUTTING,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-206,BEVERLY,   I'm getting a slightly elevated   white cell count... six-tenths   of a degree of temperature...    (casts a glance toward     him)   ... nothing that indicates   rejection.,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-207,RIKER,   That's good...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-208,BEVERLY,   But you look awfully pale...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-209,RIKER,   Just a little weak...   light-headed...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-210,BEVERLY,   Cerebral blood flow looks   normal...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-211,BEVERLY,   I'll leave you a metabolic   booster... use it if the symptoms   get worse...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-212,RIKER,   Beverly...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-213,BEVERLY,"   Beyond that, I don't know what   to do.       This is... all new for me.",33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-214,RIKER,   For me as well.,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-215,RIKER,   Please don't go... we need to talk   about this...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-216,BEVERLY,   I... don't know what to say...   where to begin...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-217,RIKER,   Nor do I... but I know that   silence will injure us...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-218,BEVERLY,   Maybe you should have thought   about that sooner. Maybe you   should have told me what you were.   It didn't bother you to stay   silent yesterday...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-219,RIKER,   But... it never occurred to me.   This is what I am... did you tell   me you are only a single being?   Of course not... it is normal   for you...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-220,BEVERLY,   I don't know how to handle this...   I just... don't know who you   are...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-221,RIKER,       I understand... but whoever I seem   to be... I am Odan... the man who   loved you... and that has not   changed. I still love you. I   can't help that.,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-222,RIKER,"   But if that causes you pain...   I will suppress it. I will keep   my distance, Doctor Beverly. I   would never hurt you.",33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-223,DATA,   Five card draw. Ante up.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-224,GEORDI,   Commander -- come on in...,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-225,DATA,"   Geordi... I believe the correct   term now would be ""Ambassador.""",34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-226,RIKER,   You can call me anything you like.   I know this must be difficult for   you.       May I join you?,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-227,GEORDI,       Sure! Sit down... right here...,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-228,WORF,   We are pleased you're here.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-229,DATA,"   Are you familiar with this game,   Ambassador?",34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-230,RIKER,   No.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-231,RIKER,   But... I seem to have done this   before...,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-232,DATA,"   Ambassador, what is the precise   nature of the symbiotic joining?   Are you Odan? Or Commander Riker?   Or a combination of both?",34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-233,RIKER,"   I wish I could give you an answer   as simple as the question.   Ordinarily, the host body has no   personality. This time... is   different somehow.",34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-234,RIKER,   I've never done this... and yet   I know how.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-235,RIKER,   And something compelled me to come   here tonight... though I didn't   consciously know what would await   me. It is as though... Will Riker   is here with me... I have never   felt that with other hosts.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-236,GEORDI,       I guess the question is... will   the Commander be alright... when   he comes back?,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-237,RIKER,   Gentlemen... I am making you   uncomfortable. Please... continue   without me.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
+203,BEVERLY,"   Yes, Captain?",32   INT. SICKBAY - INTERCUTTING,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+204,PICARD,   The Ambassador is not well.   Please see to him in his quarters.,32   INT. SICKBAY - INTERCUTTING,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+205,BEVERLY,"   Right away, sir.",32   INT. SICKBAY - INTERCUTTING,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+206,BEVERLY,   I'm getting a slightly elevated   white cell count... six-tenths   of a degree of temperature...    (casts a glance toward     him)   ... nothing that indicates   rejection.,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+207,RIKER,   That's good...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+208,BEVERLY,   But you look awfully pale...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+209,RIKER,   Just a little weak...   light-headed...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+210,BEVERLY,   Cerebral blood flow looks   normal...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+211,BEVERLY,   I'll leave you a metabolic   booster... use it if the symptoms   get worse...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+212,RIKER,   Beverly...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+213,BEVERLY,"   Beyond that, I don't know what   to do.       This is... all new for me.",33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+214,RIKER,   For me as well.,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+215,RIKER,   Please don't go... we need to talk   about this...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+216,BEVERLY,   I... don't know what to say...   where to begin...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+217,RIKER,   Nor do I... but I know that   silence will injure us...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+218,BEVERLY,   Maybe you should have thought   about that sooner. Maybe you   should have told me what you were.   It didn't bother you to stay   silent yesterday...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+219,RIKER,   But... it never occurred to me.   This is what I am... did you tell   me you are only a single being?   Of course not... it is normal   for you...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+220,BEVERLY,   I don't know how to handle this...   I just... don't know who you   are...,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+221,RIKER,       I understand... but whoever I seem   to be... I am Odan... the man who   loved you... and that has not   changed. I still love you. I   can't help that.,33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+222,RIKER,"   But if that causes you pain...   I will suppress it. I will keep   my distance, Doctor Beverly. I   would never hurt you.",33   INT. ODAN'S QUARTERS - MINUTES LATER,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+223,DATA,   Five card draw. Ante up.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+224,GEORDI,   Commander -- come on in...,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+225,DATA,"   Geordi... I believe the correct   term now would be ""Ambassador.""",34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+226,RIKER,   You can call me anything you like.   I know this must be difficult for   you.       May I join you?,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+227,GEORDI,       Sure! Sit down... right here...,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+228,WORF,   We are pleased you're here.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+229,DATA,"   Are you familiar with this game,   Ambassador?",34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+230,RIKER,   No.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+231,RIKER,   But... I seem to have done this   before...,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+232,DATA,"   Ambassador, what is the precise   nature of the symbiotic joining?   Are you Odan? Or Commander Riker?   Or a combination of both?",34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+233,RIKER,"   I wish I could give you an answer   as simple as the question.   Ordinarily, the host body has no   personality. This time... is   different somehow.",34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+234,RIKER,   I've never done this... and yet   I know how.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+235,RIKER,   And something compelled me to come   here tonight... though I didn't   consciously know what would await   me. It is as though... Will Riker   is here with me... I have never   felt that with other hosts.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+236,GEORDI,       I guess the question is... will   the Commander be alright... when   he comes back?,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+237,RIKER,   Gentlemen... I am making you   uncomfortable. Please... continue   without me.,34   INT. DATA'S QUARTERS - LATER,DATA'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
 238,TROI,   May I join you?,35   INT. TEN FORWARD,TEN FORWARD,INT.,The Host,1991-03-01,The Next Generation,197.txt
 239,BEVERLY,       The first man I ever loved   unconditionally... was named   Stefan.,35   INT. TEN FORWARD,TEN FORWARD,INT.,The Host,1991-03-01,The Next Generation,197.txt
 240,BEVERLY,   He was a soccer player... I would   watch him race down the field and   I thought my heart would stop   because he was so beautiful...,35   INT. TEN FORWARD,TEN FORWARD,INT.,The Host,1991-03-01,The Next Generation,197.txt
@@ -286,33 +286,33 @@
 284,RIKER,"   Kalin Trose, you may confer with   your people. But we must have   your answer within eight hours.",41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
 285,KALIN TROSE,   You shall have it.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
 286,RIKER,   Beverly... help me...,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-287,BEVERLY,   All his vital functions are   overworked. His immune system   is under attack. I can only guess   that he's going through classic   rejection syndrome.,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-288,PICARD,   Is there any treatment you can   give him?,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-289,BEVERLY,   I can administer an   immunosuppressant. It would help   with the symptoms... but it   wouldn't correct the underlying   cause. He's carrying a foreign   organism in his body.,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-290,BEVERLY,   I don't know what to do... medical   school didn't exactly prepare me   for a situation like this...,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-291,PICARD,   You're doing all you can...,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-292,BEVERLY,   Thank you. I wish that were more   comforting.,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-293,BEVERLY,"   Don't worry about me, Captain.   I'm fine.",42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-294,PICARD,"   Ambassador... when you feel up   to it, please join me in my Ready   Room.",42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-295,BEVERLY,   I'm giving you something that   should help you feel better. At   least temporarily.,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-296,RIKER,   The pain is gone... thank you...,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-297,BEVERLY,   Please... don't...,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-298,RIKER,   Let me touch you... just for a   moment...,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-299,BEVERLY,   No... please...,42   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-300,PICARD,"   It was a fast decision, which we   must take as positive. The Alphan   representative has agreed...   somewhat dubiously... to let you   mediate the dispute.",43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-301,RIKER,   I was sure they would. They are   reasonable people... just trapped   in their own anger.,43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-302,PICARD,"   I have no doubt, however, that   they will bolt if anything goes   wrong in your discussions.",43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-303,RIKER,       Then it's up to me to make sure   nothing goes wrong.,43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-304,RIKER,   Have I said something wrong... ?,43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-305,PICARD,   No... it's just... for a   moment... you sounded more like   Will Riker.,43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-306,PICARD,   We have received word that your   new host will arrive in eighteen   hours. Will you be all right   until then?,43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-307,RIKER,   The medication which Doctor   Beverly gave me has helped. I   will find a way to keep going.,43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-308,RIKER,   It is an awkward situation for   her. As you can imagine.,43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-309,PICARD,"   Yes. Yes, I certainly can.       And for you as well.",43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-310,RIKER,   My life has been spent... trying   to help others find solutions to   insoluble problems. And now...   I am confronted with one of my   own for which there is truly no   answer.,43   INT. READY ROOM - A LITTLE LATER,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
+287,BEVERLY,   All his vital functions are   overworked. His immune system   is under attack. I can only guess   that he's going through classic   rejection syndrome.,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+288,PICARD,   Is there any treatment you can   give him?,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+289,BEVERLY,   I can administer an   immunosuppressant. It would help   with the symptoms... but it   wouldn't correct the underlying   cause. He's carrying a foreign   organism in his body.,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+290,BEVERLY,   I don't know what to do... medical   school didn't exactly prepare me   for a situation like this...,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+291,PICARD,   You're doing all you can...,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+292,BEVERLY,   Thank you. I wish that were more   comforting.,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+293,BEVERLY,"   Don't worry about me, Captain.   I'm fine.",42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+294,PICARD,"   Ambassador... when you feel up   to it, please join me in my Ready   Room.",42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+295,BEVERLY,   I'm giving you something that   should help you feel better. At   least temporarily.,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+296,RIKER,   The pain is gone... thank you...,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+297,BEVERLY,   Please... don't...,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+298,RIKER,   Let me touch you... just for a   moment...,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+299,BEVERLY,   No... please...,42   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+300,PICARD,"   It was a fast decision, which we   must take as positive. The Alphan   representative has agreed...   somewhat dubiously... to let you   mediate the dispute.",43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+301,RIKER,   I was sure they would. They are   reasonable people... just trapped   in their own anger.,43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+302,PICARD,"   I have no doubt, however, that   they will bolt if anything goes   wrong in your discussions.",43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+303,RIKER,       Then it's up to me to make sure   nothing goes wrong.,43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+304,RIKER,   Have I said something wrong... ?,43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+305,PICARD,   No... it's just... for a   moment... you sounded more like   Will Riker.,43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+306,PICARD,   We have received word that your   new host will arrive in eighteen   hours. Will you be all right   until then?,43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+307,RIKER,   The medication which Doctor   Beverly gave me has helped. I   will find a way to keep going.,43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+308,RIKER,   It is an awkward situation for   her. As you can imagine.,43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+309,PICARD,"   Yes. Yes, I certainly can.       And for you as well.",43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
+310,RIKER,   My life has been spent... trying   to help others find solutions to   insoluble problems. And now...   I am confronted with one of my   own for which there is truly no   answer.,43   INT. READY ROOM - A LITTLE LATER,READY ROO,INT.,The Host,1991-03-01,The Next Generation,197.txt
 311,BEVERLY,   Lemon tea...,44   INT. BEVERLY'S QUARTERS - THAT NIGHT (OPTICAL),BEVERLY'S QUARTERS - THAT NIGHT,INT.,The Host,1991-03-01,The Next Generation,197.txt
-312,RIKER,   Computer... location of Doctor   Beverly Crusher.,45   INT. ODAN'S QUARTERS - INTERCUTTING,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
-313,COMPUTER,   Doctor Crusher is in her   quarters.,45   INT. ODAN'S QUARTERS - INTERCUTTING,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
+312,RIKER,   Computer... location of Doctor   Beverly Crusher.,45   INT. ODAN'S QUARTERS - INTERCUTTING,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
+313,COMPUTER,   Doctor Crusher is in her   quarters.,45   INT. ODAN'S QUARTERS - INTERCUTTING,ODAN'S QUARTER,INT.,The Host,1991-03-01,The Next Generation,197.txt
 314,RIKER,   Can you make balso tonic?,47   INT. ODAN'S QUARTERS,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
 315,COMPUTER,   There is no formula on record.   Please supply a molecular   structure.,47   INT. ODAN'S QUARTERS,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
 316,RIKER,   Never mind.,47   INT. ODAN'S QUARTERS,ODAN'S QUARTERS,INT.,The Host,1991-03-01,The Next Generation,197.txt
@@ -357,47 +357,47 @@
 355,PICARD,   Beverly...,49   INT. READY ROOM,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
 356,PICARD,   Whatever else I have been to   you... I am your friend. I cannot   imagine what you are going   through... but it must be a kind   of hell. I want you to know...   I am here... to help you... in   any way I can.,49   INT. READY ROOM,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
 357,BEVERLY,   Jean-Luc...,49   INT. READY ROOM,READY ROOM,INT.,The Host,1991-03-01,The Next Generation,197.txt
-358,PICARD,"   Computer, what time is it?",51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-359,COMPUTER,   Fifteen thirty five hours.,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-360,BEVERLY,   They've been in there almost six   hours...,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-361,WORF,   Captain... a message from the ship   carrying the Trill host...,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-362,BEVERLY,   Are they here?,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-363,WORF,   No. They are experiencing   difficulty. They do not   anticipate their arrival for   another nine hours.,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-364,BEVERLY,   Nine hours...,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-365,PICARD,   Ambassador...,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-366,RIKER,   It was worth it...,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-367,RIKER,   They will not go to war...,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-368,PICARD,"   Mister Worf, make sure the   representatives are safely   transported off the ship.       Ensign, set a course to intercept   the Trill ship. Prepare to go   to warp nine.",51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-369,DATA,"   Sir, it could take more than two   hours to reach the vessel.",51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-370,BEVERLY,   I have no choice... I gave my   word. I have to remove him.   Let's hope we reach the new host   in time.,51   INT. BRIDGE - LATER,BRIDGE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-371,BEVERLY,   Will is all right. His vital   signs have stabilized... he's   sleeping now.,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-372,PICARD,   And... how is Odan?,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-373,BEVERLY,   I have placed him in stasis. He's   fine for the moment.,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-374,PICARD,"   You need some rest, Doctor.",52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-375,BEVERLY,"   No. If Odan is to survive, he   must be implanted in the host as   soon as he arrives. I'll wait   here.",52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-376,PICARD,   It will be some time yet.,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-377,BEVERLY,   I know.,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-378,WORF,   Doctor...,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-379,BEVERLY,   Is the Trill host here?,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-380,WORF,   Yes.,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-381,BEVERLY,   Thank goodness... bring him in.,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-382,WORF ,   Doctor...,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-383,KAREEL,   I am Kareel. I am to become host   to Odan.,52   INT. SICKBAY - LATER,SICKBAY,INT.,The Host,1991-03-01,The Next Generation,197.txt
-384,BEVERLY,   ... the operation to implant Odan   into the new host was completed   at nineteen hundred hours and   appears to have been successful.   There have been no difficulties   with assimilation...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-385,KAREEL,   Doctor Beverly...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-386,KAREEL,   Could we talk for a moment?,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-387,BEVERLY,   You should be sleeping. You need   rest.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-388,KAREEL,   I've never felt better.       Except once or twice...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-389,KAREEL,   My poor Beverly... this has been   so hard for you...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-390,KAREEL,   I want to thank you... for your   caring... for standing by me...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-391,BEVERLY,   I congratulate you. You averted   a war that would have cost many   lives...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-392,KAREEL,   Yes. It seems... everything has   turned out for the best.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-393,KAREEL,   And yes... I am still Odan... and   I still love you. I cannot   imagine that ever changing.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-394,BEVERLY,   I'm glad you're all right.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-395,KAREEL,   Is there to be nothing more?,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-396,BEVERLY,   Perhaps it is a human failing...   but we are not accustomed to   these kinds of changes. I   can't... keep up. How long will   you have this host? What   would the next one be? I   couldn't live with that kind of   uncertainty...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-397,BEVERLY,   Perhaps... someday... our ability   to love will not be so limited.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-398,KAREEL,   I understand.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-399,BEVERLY,   Odan...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-400,BEVERLY,   I do love you... please remember   that.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
-401,KAREEL,   I will never forget you.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFICE,INT.,The Host,1991-03-01,The Next Generation,197.txt
+358,PICARD,"   Computer, what time is it?",51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+359,COMPUTER,   Fifteen thirty five hours.,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+360,BEVERLY,   They've been in there almost six   hours...,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+361,WORF,   Captain... a message from the ship   carrying the Trill host...,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+362,BEVERLY,   Are they here?,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+363,WORF,   No. They are experiencing   difficulty. They do not   anticipate their arrival for   another nine hours.,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+364,BEVERLY,   Nine hours...,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+365,PICARD,   Ambassador...,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+366,RIKER,   It was worth it...,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+367,RIKER,   They will not go to war...,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+368,PICARD,"   Mister Worf, make sure the   representatives are safely   transported off the ship.       Ensign, set a course to intercept   the Trill ship. Prepare to go   to warp nine.",51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+369,DATA,"   Sir, it could take more than two   hours to reach the vessel.",51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+370,BEVERLY,   I have no choice... I gave my   word. I have to remove him.   Let's hope we reach the new host   in time.,51   INT. BRIDGE - LATER,BRIDG,INT.,The Host,1991-03-01,The Next Generation,197.txt
+371,BEVERLY,   Will is all right. His vital   signs have stabilized... he's   sleeping now.,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+372,PICARD,   And... how is Odan?,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+373,BEVERLY,   I have placed him in stasis. He's   fine for the moment.,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+374,PICARD,"   You need some rest, Doctor.",52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+375,BEVERLY,"   No. If Odan is to survive, he   must be implanted in the host as   soon as he arrives. I'll wait   here.",52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+376,PICARD,   It will be some time yet.,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+377,BEVERLY,   I know.,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+378,WORF,   Doctor...,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+379,BEVERLY,   Is the Trill host here?,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+380,WORF,   Yes.,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+381,BEVERLY,   Thank goodness... bring him in.,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+382,WORF ,   Doctor...,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+383,KAREEL,   I am Kareel. I am to become host   to Odan.,52   INT. SICKBAY - LATER,SICKBA,INT.,The Host,1991-03-01,The Next Generation,197.txt
+384,BEVERLY,   ... the operation to implant Odan   into the new host was completed   at nineteen hundred hours and   appears to have been successful.   There have been no difficulties   with assimilation...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+385,KAREEL,   Doctor Beverly...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+386,KAREEL,   Could we talk for a moment?,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+387,BEVERLY,   You should be sleeping. You need   rest.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+388,KAREEL,   I've never felt better.       Except once or twice...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+389,KAREEL,   My poor Beverly... this has been   so hard for you...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+390,KAREEL,   I want to thank you... for your   caring... for standing by me...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+391,BEVERLY,   I congratulate you. You averted   a war that would have cost many   lives...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+392,KAREEL,   Yes. It seems... everything has   turned out for the best.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+393,KAREEL,   And yes... I am still Odan... and   I still love you. I cannot   imagine that ever changing.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+394,BEVERLY,   I'm glad you're all right.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+395,KAREEL,   Is there to be nothing more?,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+396,BEVERLY,   Perhaps it is a human failing...   but we are not accustomed to   these kinds of changes. I   can't... keep up. How long will   you have this host? What   would the next one be? I   couldn't live with that kind of   uncertainty...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+397,BEVERLY,   Perhaps... someday... our ability   to love will not be so limited.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+398,KAREEL,   I understand.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+399,BEVERLY,   Odan...,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+400,BEVERLY,   I do love you... please remember   that.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt
+401,KAREEL,   I will never forget you.,55   INT. BEVERLY'S OFFICE - LATER,BEVERLY'S OFFIC,INT.,The Host,1991-03-01,The Next Generation,197.txt

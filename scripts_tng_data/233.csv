@@ -1,23 +1,23 @@
 ,character,quote,scene,location,view,episode,date,series,file
 0,PICARD ,"   Captain's Log, Stardate 46235.7   Ensign Ro, Keiko O'Brien, Guinan   and I are returning to the   Enterprise after a fascinating   visit to the planet Marlonia.",1    EXT. SPACE - SHUTTLECRAFT (OPTICAL),SPACE - SHUTTLECRAFT,EXT.,Rascals,1992-09-04,The Next Generation,233.txt
-1,PICARD,   ... and I found these pieces in   the tertiary level of the dig.   They're typical of second century   Marlonian cookware.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-2,GUINAN,   Mmmm-hmmmm.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-3,PICARD,"   Now, see these markings...   they're very similar to some early   Taguan designs... but the   patterns are more intricate...   closer to Buranian than Taguan.",2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-4,GUINAN,   So... you went to one of the most   beautiful planets in this quadrant   and spent your entire shore   leave... in a cave.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-5,PICARD,   It was a very rewarding   experience.       Look at these fragments... they're   in nearly perfect condition...   and they're over seven hundred   years old.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-6,GUINAN,   So's my father.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-7,RO,       Is that a Draebidium Froctus?,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-8,KEIKO,   Draebidium Calimus actually...   you can tell by the shape of the   leaves.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-9,KEIKO,   I didn't know you were interested   in plant biology.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-10,RO,       I... took a class at the   Academy... I just remember a few   things...,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-11,WORF,   Enterprise to Shuttlecraft   Fermi...,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-12,RO,       This is the Fermi. Go ahead   Enterprise.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-13,WORF,   We have just received a distress   signal from the Starfleet science   team on Ligos Seven.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-14,PICARD,   Any indication of the problem?,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-15,WORF,"   No, sir. The call was cut off   mid-transmission.",2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-16,PICARD,   Lay in a course and prepare to   engage at Warp eight once we're   aboard.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-17,WORF,"   Aye, sir.",2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-18,RO,"   We'll rendezvous with the ship   in three minutes, sir.",2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+1,PICARD,   ... and I found these pieces in   the tertiary level of the dig.   They're typical of second century   Marlonian cookware.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+2,GUINAN,   Mmmm-hmmmm.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+3,PICARD,"   Now, see these markings...   they're very similar to some early   Taguan designs... but the   patterns are more intricate...   closer to Buranian than Taguan.",2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+4,GUINAN,   So... you went to one of the most   beautiful planets in this quadrant   and spent your entire shore   leave... in a cave.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+5,PICARD,   It was a very rewarding   experience.       Look at these fragments... they're   in nearly perfect condition...   and they're over seven hundred   years old.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+6,GUINAN,   So's my father.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+7,RO,       Is that a Draebidium Froctus?,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+8,KEIKO,   Draebidium Calimus actually...   you can tell by the shape of the   leaves.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+9,KEIKO,   I didn't know you were interested   in plant biology.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+10,RO,       I... took a class at the   Academy... I just remember a few   things...,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+11,WORF,   Enterprise to Shuttlecraft   Fermi...,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+12,RO,       This is the Fermi. Go ahead   Enterprise.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+13,WORF,   We have just received a distress   signal from the Starfleet science   team on Ligos Seven.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+14,PICARD,   Any indication of the problem?,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+15,WORF,"   No, sir. The call was cut off   mid-transmission.",2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+16,PICARD,   Lay in a course and prepare to   engage at Warp eight once we're   aboard.,2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+17,WORF,"   Aye, sir.",2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+18,RO,"   We'll rendezvous with the ship   in three minutes, sir.",2    INT. SHUTTLECRAFT - IN FLIGHT,SHUTTLECRAF,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 19,RO,       We're caught in some kind of   energy field.,5    INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 20,PICARD,"   Hard about, full impulse.",5    INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 21,RO,"   Aye, sir.",5    INT. SHUTTLECRAFT (OPTICAL),SHUTTLECRAFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
@@ -51,29 +51,29 @@
 49,YOUNG GUINAN,   What about now? You're not in   that camp anymore.,15   INT. SICKBAY,SICKBAY,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 50,YOUNG RO,"   ""Fun"" is being back at work...   in my own uniform.",15   INT. SICKBAY,SICKBAY,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 51,YOUNG PICARD,   Bridge.,17   INT. TURBOLIFT,TURBOLIFT,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-52,YOUNG PICARD,   Mister Worf. Prepare to launch   a class four probe to study the   energy field.,18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-53,YOUNG PICARD,"       I realize how unusual this must   seem...       My appearance is the result of   an accident, involving myself and   three other crew members... the   effects of which Doctor Crusher   is currently working to remedy.       I assure you, I am Captain Picard.",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-54,WORF,"       The probe. Aye, sir.",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-55,YOUNG PICARD,"   Mister Data, have you secured all   of the shuttle debris?",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-56,DATA,"   Almost, sir. It is being stored   in Shuttlebay Two.",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-57,YOUNG PICARD,"   Very well.       Ensign, as soon as Mister Data   is finished take us to Ligos at   warp eight.",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-58,BEVERLY,"   Captain, may I see you privately   for a few moments?",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-59,YOUNG PICARD,   Of course.,18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-60,YOUNG PICARD,   Tea. Earl Grey. Hot.       Have you been able to determine   the cause of our transformation?,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-61,BEVERLY,   Not yet. I'm still waiting for   some test results.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-62,YOUNG PICARD,   I see.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-63,YOUNG PICARD,       There are one hundred and three   members of the science team on   Ligos Seven. We should prepare   shuttlebay three for a triage   center in case they have large   numbers of casualties.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-64,BEVERLY,   We'll be ready.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-65,YOUNG PICARD,   Ligos Seven is prone to periodic   volcanic activity... perhaps the   planet has entered an active   phase---,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-66,BEVERLY,   Jean-Luc.       I think we need to talk.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-67,YOUNG PICARD,   All right. Let's talk.       Are you here to relieve me of   duty?,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-68,BEVERLY,   I'd rather not have to take that   step.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-69,YOUNG PICARD,"   I am still Jean-Luc Picard. My   judgement, my experiences, my   mental capacities are all   intact.",19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-70,BEVERLY,   That's true... for now. This   could be the first stage of a   condition which may begin to   affect your mind as well.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-71,YOUNG PICARD,   But you've seen no evidence of   that?,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-72,BEVERLY,   Not yet.       What I do know is that the Captain   of this ship has just gone through   an extreme physical   transformation... the ultimate   effects of which I can't even   begin to guess.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-73,YOUNG PICARD,       You are asking me to step down.,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-74,BEVERLY,   You're still Jean-Luc Picard...   what do you think you should do?,19   INT. READY ROOM - CONTINUOUS,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+52,YOUNG PICARD,   Mister Worf. Prepare to launch   a class four probe to study the   energy field.,18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+53,YOUNG PICARD,"       I realize how unusual this must   seem...       My appearance is the result of   an accident, involving myself and   three other crew members... the   effects of which Doctor Crusher   is currently working to remedy.       I assure you, I am Captain Picard.",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+54,WORF,"       The probe. Aye, sir.",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+55,YOUNG PICARD,"   Mister Data, have you secured all   of the shuttle debris?",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+56,DATA,"   Almost, sir. It is being stored   in Shuttlebay Two.",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+57,YOUNG PICARD,"   Very well.       Ensign, as soon as Mister Data   is finished take us to Ligos at   warp eight.",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+58,BEVERLY,"   Captain, may I see you privately   for a few moments?",18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+59,YOUNG PICARD,   Of course.,18   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+60,YOUNG PICARD,   Tea. Earl Grey. Hot.       Have you been able to determine   the cause of our transformation?,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+61,BEVERLY,   Not yet. I'm still waiting for   some test results.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+62,YOUNG PICARD,   I see.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+63,YOUNG PICARD,       There are one hundred and three   members of the science team on   Ligos Seven. We should prepare   shuttlebay three for a triage   center in case they have large   numbers of casualties.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+64,BEVERLY,   We'll be ready.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+65,YOUNG PICARD,   Ligos Seven is prone to periodic   volcanic activity... perhaps the   planet has entered an active   phase---,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+66,BEVERLY,   Jean-Luc.       I think we need to talk.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+67,YOUNG PICARD,   All right. Let's talk.       Are you here to relieve me of   duty?,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+68,BEVERLY,   I'd rather not have to take that   step.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+69,YOUNG PICARD,"   I am still Jean-Luc Picard. My   judgement, my experiences, my   mental capacities are all   intact.",19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+70,BEVERLY,   That's true... for now. This   could be the first stage of a   condition which may begin to   affect your mind as well.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+71,YOUNG PICARD,   But you've seen no evidence of   that?,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+72,BEVERLY,   Not yet.       What I do know is that the Captain   of this ship has just gone through   an extreme physical   transformation... the ultimate   effects of which I can't even   begin to guess.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+73,YOUNG PICARD,       You are asking me to step down.,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+74,BEVERLY,   You're still Jean-Luc Picard...   what do you think you should do?,19   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 75,YOUNG PICARD,"       Commander Riker, please take   command of the ship until further   notice.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 76,RIKER,"   Understood, sir.",20   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 77,YOUNG RO,   So what the hell am I supposed   to do now?,21   INT. CORRIDOR,CORRIDOR,INT.,Rascals,1992-09-04,The Next Generation,233.txt
@@ -105,16 +105,16 @@
 103,O'BRIEN,   I didn't say that. But until they   find a way to reverse this... this   effect... it's going to be hard   for me to ignore the fact that   you're a little girl.,22   INT. O'BRIEN QUARTERS,O'BRIEN QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 104,YOUNG KEIKO,"   What if they can't find a way?   What if I'm like this the rest   of my life? What does that mean   for us, for our family?",22   INT. O'BRIEN QUARTERS,O'BRIEN QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 105,MOLLY,   Mommy?,22   INT. O'BRIEN QUARTERS,O'BRIEN QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-106,O'BRIEN,"       What's wrong, Sweetheart?",23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-107,MOLLY,   I want Mommy to read me a story.,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-108,YOUNG KEIKO,   All right. What story would you   like to hear?,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-109,MOLLY,   I want Mommy.,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-110,O'BRIEN,   What if Daddy reads you a story   tonight? Will that be okay?,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-111,O'BRIEN,   I'll be right back.,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-112,O'BRIEN,   Keiko...,24   INT. O'BRIEN QUARTERS - CONTINUOUS,O'BRIEN QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-113,O'BRIEN,   It's going to be all right... I   promise... we'll work this out...,24   INT. O'BRIEN QUARTERS - CONTINUOUS,O'BRIEN QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-114,YOUNG KEIKO,   How?,24   INT. O'BRIEN QUARTERS - CONTINUOUS,O'BRIEN QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-115,O'BRIEN,   I don't know.,24   INT. O'BRIEN QUARTERS - CONTINUOUS,O'BRIEN QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+106,O'BRIEN,"       What's wrong, Sweetheart?",23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+107,MOLLY,   I want Mommy to read me a story.,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+108,YOUNG KEIKO,   All right. What story would you   like to hear?,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+109,MOLLY,   I want Mommy.,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+110,O'BRIEN,   What if Daddy reads you a story   tonight? Will that be okay?,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+111,O'BRIEN,   I'll be right back.,23   INT. MOLLY'S BEDROOM - CONTINUOUS,MOLLY'S BEDROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+112,O'BRIEN,   Keiko...,24   INT. O'BRIEN QUARTERS - CONTINUOUS,O'BRIEN QUARTER,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+113,O'BRIEN,   It's going to be all right... I   promise... we'll work this out...,24   INT. O'BRIEN QUARTERS - CONTINUOUS,O'BRIEN QUARTER,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+114,YOUNG KEIKO,   How?,24   INT. O'BRIEN QUARTERS - CONTINUOUS,O'BRIEN QUARTER,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+115,O'BRIEN,   I don't know.,24   INT. O'BRIEN QUARTERS - CONTINUOUS,O'BRIEN QUARTER,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 116,RIKER ,"   First Officer's Log: Supplemental.   The Enterprise has reached the   Ligos system, and we have begun   to search for the missing   Federation science team. Doctor   Crusher reports no progress on   finding a cure for the members   of the shuttle crew.",25   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Rascals,1992-09-04,The Next Generation,233.txt
 117,YOUNG PICARD,   Come.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 118,TROI,   I came to see how you're doing.,26   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Rascals,1992-09-04,The Next Generation,233.txt
@@ -266,7 +266,7 @@
 264,YOUNG PICARD,"       Alexander, would you mind if I...   borrowed your toy for a little   while?",61   INT. SCHOOL ROOM,SCHOOL ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 265,ALEXANDER,   Go ahead.,61   INT. SCHOOL ROOM,SCHOOL ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 266,YOUNG PICARD,   Thank you.,61   INT. SCHOOL ROOM,SCHOOL ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-267,YOUNG PICARD,       He's picked up the toy.,70   INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+267,YOUNG PICARD,       He's picked up the toy.,70   INT. TRANSPORTER ROOM - CONTINUOUS,TRANSPORTER ROO,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 268,YOUNG RO,   This is the first time these   Jeffries tubes haven't seemed   cramped.,71   INT. JEFFRIES TUBE,JEFFRIES TUBE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 269,YOUNG GUINAN,   How much farther do we have to   go?,71   INT. JEFFRIES TUBE,JEFFRIES TUBE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 270,YOUNG RO,   About fifty meters... don't tell   me you're tired.,71   INT. JEFFRIES TUBE,JEFFRIES TUBE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
@@ -311,15 +311,15 @@
 309,LURIN,   It is cruel to put children in   danger by bringing them aboard   a starship in the first place.,80   INT. READY ROOM,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 310,RIKER,   All right... all right... just   don't harm my son.,80   INT. READY ROOM,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 311,LURIN,       You will release the computer and   show Morta exactly how to use it.,80   INT. READY ROOM,READY ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-312,RIKER,"       Computer, release command control   to this station. Authorization,   Riker-Omega-Three.",81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-313,COMPUTER,   Command functions restored.,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-314,RIKER,"       Okay, Morta. The Enterprise   computer system is controlled by   three primary main processing   cores cross linked with a   redundant melacortz ramistat and   fourteen kiloquad interface   modules. The core elements are   based on FTL nanoprocessor units   arranged into twenty-five   bilateral kelilactirals with   twenty of those units being slaved   to the central heisenfram   terminal.       You do know what a bilateral   kelilactiral is, don't you?",81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-315,MORTA,"   Of course I do, human. I am not   stupid.",81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-316,RIKER,"   No, of course not.    (points to something     on console)   Now this is the isopalavial   interface which controls the main   firomactal drive unit.    (slaps Morta's hand     away)   Don't touch that, you'll blow up   the entire firomactal drive.",81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-317,MORTA,   What? Wait.       What is... what is a firomactal?,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-318,MORTA,       Just explain it to me.,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-319,RIKER,   That is the firomactal drive   unit...,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
-320,RIKER,       ... it controls the central   ramistat core and also keeps the   ontarian manifold within forty   thousand KRG.,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+312,RIKER,"       Computer, release command control   to this station. Authorization,   Riker-Omega-Three.",81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+313,COMPUTER,   Command functions restored.,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+314,RIKER,"       Okay, Morta. The Enterprise   computer system is controlled by   three primary main processing   cores cross linked with a   redundant melacortz ramistat and   fourteen kiloquad interface   modules. The core elements are   based on FTL nanoprocessor units   arranged into twenty-five   bilateral kelilactirals with   twenty of those units being slaved   to the central heisenfram   terminal.       You do know what a bilateral   kelilactiral is, don't you?",81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+315,MORTA,"   Of course I do, human. I am not   stupid.",81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+316,RIKER,"   No, of course not.    (points to something     on console)   Now this is the isopalavial   interface which controls the main   firomactal drive unit.    (slaps Morta's hand     away)   Don't touch that, you'll blow up   the entire firomactal drive.",81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+317,MORTA,   What? Wait.       What is... what is a firomactal?,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+318,MORTA,       Just explain it to me.,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+319,RIKER,   That is the firomactal drive   unit...,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
+320,RIKER,       ... it controls the central   ramistat core and also keeps the   ontarian manifold within forty   thousand KRG.,81   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 321,YOUNG PICARD,   The command lockout has been   released... accessing the   transporter...       The weapon deactivation program   is in place... Transporter   security field standing by...   We're ready.,83   INT. SCHOOL ROOM (OPTICAL),SCHOOL ROOM,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 322,YOUNG RO,   Tag!,84A  INT. ENGINEERING (OPTICAL) (FORMERLY SCENE 87),ENGINEERING,INT.,Rascals,1992-09-04,The Next Generation,233.txt
 323,YOUNG GUINAN,   You're it!,84A  INT. ENGINEERING (OPTICAL) (FORMERLY SCENE 87),ENGINEERING,INT.,Rascals,1992-09-04,The Next Generation,233.txt

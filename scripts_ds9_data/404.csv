@@ -45,11 +45,11 @@
 43,O'BRIEN,"   Aye, Sir...",3    INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 44,BASHIR,       Medical assistance to Ops.,3    INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 45,TAHNA,       My name is Tahna... Request...    political... asylum...    (recognizes Kira;     stunned)   ...Kira?...,3    INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-46,KIRA,       His name is Tahna Los.  We fought    together in the underground.,7    INT. OPS - AT TRANSPORTER PADD,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-47,O'BRIEN,"   Commander, the Cardassians are hailing    us.",7    INT. OPS - AT TRANSPORTER PADD,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-48,KIRA,   Now they want to talk...,7    INT. OPS - AT TRANSPORTER PADD,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-49,O'BRIEN,   They're hopping mad.,7    INT. OPS - AT TRANSPORTER PADD,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-50,SISKO,"   Open the channel, Mister O'Brien.",7    INT. OPS - AT TRANSPORTER PADD,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+46,KIRA,       His name is Tahna Los.  We fought    together in the underground.,7    INT. OPS - AT TRANSPORTER PADD,OP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+47,O'BRIEN,"   Commander, the Cardassians are hailing    us.",7    INT. OPS - AT TRANSPORTER PADD,OP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+48,KIRA,   Now they want to talk...,7    INT. OPS - AT TRANSPORTER PADD,OP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+49,O'BRIEN,   They're hopping mad.,7    INT. OPS - AT TRANSPORTER PADD,OP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+50,SISKO,"   Open the channel, Mister O'Brien.",7    INT. OPS - AT TRANSPORTER PADD,OP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 51,GUL DANAR,"   Federation Commander, you've taken    aboard a known criminal.  You will    turn him over to us.",9    INCLUDING MAIN VIEWSCREEN - INT. CARDASSIAN BRIDGE,CARDASSIAN BRIDGE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 52,SISKO,   He has requested asylum.,9    INCLUDING MAIN VIEWSCREEN - INT. CARDASSIAN BRIDGE,CARDASSIAN BRIDGE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 53,GUL DANAR,       You have not granted it...    ,9    INCLUDING MAIN VIEWSCREEN - INT. CARDASSIAN BRIDGE,CARDASSIAN BRIDGE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
@@ -65,13 +65,13 @@
 63,SISKO,"   Were you part of this Kohn-Ma, Major?",9A   INT. TURBOLIFT,TURBOLIFT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 64,KIRA,"   If I had been, I wouldn't be working    with the provisional government now...",9A   INT. TURBOLIFT,TURBOLIFT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 65,SISKO,"   No, you'd still be out murdering    Cardassians... or even some Bajorans    that the Kohn-Ma hold in contempt...    didn't they claim responsibility for    the assassination of one of your    First Ministers last month... ?",9A   INT. TURBOLIFT,TURBOLIFT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-66,KIRA,"   Look, I know Tahna...",9B   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-67,SISKO,   Is he Kohn-Ma?,9B   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-68,KIRA,       Yes... but...,9B   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-69,SISKO,"   I suggest you get your priorities    straight, Major... because I have no    room for divided loyalties in this    command.  And I won't have a Kohn-Ma    terrorist using this station as a    protective shield for continuing    violence.",9B   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-70,KIRA,"   My priorities are straight, Commander;    let's not be confused here -- my    loyalties are to Bajor.  And Bajor    needs men like Tahna Los.",9B   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-71,SISKO,   His war with the Cardassians    apparently isn't over...,9B   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-72,KIRA,"   If Bajor is ever going to rebuild a    strong and independent society, it    will require the repatriation of    splinter groups like the Kohn-Ma...    you have, we have, an opportunity    here, Commander... I hope you don't    miss it.",9B   INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+66,KIRA,"   Look, I know Tahna...",9B   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+67,SISKO,   Is he Kohn-Ma?,9B   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+68,KIRA,       Yes... but...,9B   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+69,SISKO,"   I suggest you get your priorities    straight, Major... because I have no    room for divided loyalties in this    command.  And I won't have a Kohn-Ma    terrorist using this station as a    protective shield for continuing    violence.",9B   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+70,KIRA,"   My priorities are straight, Commander;    let's not be confused here -- my    loyalties are to Bajor.  And Bajor    needs men like Tahna Los.",9B   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+71,SISKO,   His war with the Cardassians    apparently isn't over...,9B   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+72,KIRA,"   If Bajor is ever going to rebuild a    strong and independent society, it    will require the repatriation of    splinter groups like the Kohn-Ma...    you have, we have, an opportunity    here, Commander... I hope you don't    miss it.",9B   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 73,KIRA,   How is he?,10   INT. INFIRMARY,INFIRMARY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 74,BASHIR,"   Second degree burns, lacerations, a    minor concussion... Not much compared    to what he's been through before.",10   INT. INFIRMARY,INFIRMARY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 75,SISKO,       Before?,10   INT. INFIRMARY,INFIRMARY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
@@ -155,14 +155,14 @@
 153,KIRA,   I've been talking with several of    the ministers in the provisional    government about amnesty.       For you and for any member of the    Kohn-Ma who follows you.,20   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 154,TAHNA,   There are some who might.  If there    were assurances...,20   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 155,KIRA,"       I'm working on it, Tahna.  I'll find    a way to make it happen.",20   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-156,ODO,       What.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-157,BAJORAN DEPUTY,"   Sir, these two...       ...women... are just arriving.     They...",21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-158,BAJORAN DEPUTY,    (indicates semi-    conscious Guard)   ... objected to giving up their    weapons.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-159,LURSA,   Klingons do not surrender their    weapons.  We are Lursa and B'Etor.     Of the house of Duras.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-160,ODO,   And we have specific regulations.     You can leave the weapons or leave    the station.  Your choice; please    make it now.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-161,B'ETOR,   Who are you?,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-162,ODO,   I'm the one giving you the choice.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-163,ODO,   Welcome to DS Nine.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENADE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+156,ODO,       What.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+157,BAJORAN DEPUTY,"   Sir, these two...       ...women... are just arriving.     They...",21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+158,BAJORAN DEPUTY,    (indicates semi-    conscious Guard)   ... objected to giving up their    weapons.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+159,LURSA,   Klingons do not surrender their    weapons.  We are Lursa and B'Etor.     Of the house of Duras.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+160,ODO,   And we have specific regulations.     You can leave the weapons or leave    the station.  Your choice; please    make it now.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+161,B'ETOR,   Who are you?,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+162,ODO,   I'm the one giving you the choice.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+163,ODO,   Welcome to DS Nine.,21   INT. PROMENADE - AIR LOCK AREA - ON N/D SECURITY,PROMENAD,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 164,SISKO,   Come in.,23   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 165,ODO,   We have some new guests you might be    interested in...       Couple of Klingon sisters from the    Duras Family...,23   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 166,SISKO,       Lursa and B'Etor...,23   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
@@ -190,15 +190,15 @@
 188,BASHIR,"   Yes, of course.  Clothes.  Medicine.     Trends.  You know.",24   INT. QUARK'S,QUARK'S,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 189,GARAK,"   Klingons have an odd sense of...    style, don't you think?",24   INT. QUARK'S,QUARK'S,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 190,GARAK,   But intriguing... I say those two...    outfits... are worth studying    closely... one never knows where the    next trend may come from...,24   INT. QUARK'S,QUARK'S,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-191,LURSA,   The payment.,34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-192,TAHNA,   It's on its way.,34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-193,B'ETOR,   That was not the arrangement.,34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-194,TAHNA,   I couldn't stop to get it.  I barely    got past the Cardassians.,34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-195,LURSA,   Your safety is not our concern.,34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-196,B'ETOR,   Your gold is.,34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-197,TAHNA,   It will be available tomorrow.,34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-198,B'ETOR,   Good.,34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-199,B'ETOR,"   ... Because if we've made this trip    for nothing, you'll have made a fatal    mistake.",34   INT. CARGO BAY - LOW ANGLE,CARGO BAY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+191,LURSA,   The payment.,34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+192,TAHNA,   It's on its way.,34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+193,B'ETOR,   That was not the arrangement.,34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+194,TAHNA,   I couldn't stop to get it.  I barely    got past the Cardassians.,34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+195,LURSA,   Your safety is not our concern.,34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+196,B'ETOR,   Your gold is.,34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+197,TAHNA,   It will be available tomorrow.,34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+198,B'ETOR,   Good.,34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+199,B'ETOR,"   ... Because if we've made this trip    for nothing, you'll have made a fatal    mistake.",34   INT. CARGO BAY - LOW ANGLE,CARGO BA,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 200,KIRA,   I've managed to arrange a hearing of    the Ministers' Court...,39   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 201,SISKO,   And predictions?,39   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 202,KIRA,"   I have two of the ministers, the    smart ones, ready to vote for    amnesty... I'm sure one of the others    will fall in line...",39   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
@@ -326,9 +326,9 @@
 324,KIRA,   It was so much easier when I knew    who the enemy was.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 325,SISKO,   Go ahead.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 326,ODO,"   There's someone down here in security    who wants to talk to you, Commander.",50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-327,GARAK,"   Doctor, it's Twenty-fifty-seven.     You're late.  Come in quickly, please.",55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-328,BASHIR,   I... I was...,55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-329,GARAK,"       You just try that on as many times    as you like, and be very, very quiet.",55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+327,GARAK,"   Doctor, it's Twenty-fifty-seven.     You're late.  Come in quickly, please.",55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHO,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+328,BASHIR,   I... I was...,55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHO,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+329,GARAK,"       You just try that on as many times    as you like, and be very, very quiet.",55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHO,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 330,GARAK  ,"        Ah, right on time.  Welcome.",56   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 331,,"   Ah, right on time.  Welcome.",56   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 332,B'ETOR,"   Save your ""welcomes,"" Cardassian.     Do your people want the Bajoran or    not?",56   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
@@ -358,7 +358,7 @@
 356,SISKO,"       Dax, stay in touch with us on a    secured channel... keep an eye on    the Cardassians; they'll be coming    to the party too...",60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 357,SISKO,"       You get him there, Major... we'll be    waiting...",60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 358,KIRA,   This'll be the first time a Bajoran    officer's taken out a Federation    Runabout alone...,62   INT. TURBOLIFT,TURBOLIFT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-359,KIRA,   It might get Sisko's attention.     We'd better initialize pre-launch    the minute we get on board...,63   INT. AIRLOCK - CONTINUOUS,AIRLOCK,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+359,KIRA,   It might get Sisko's attention.     We'd better initialize pre-launch    the minute we get on board...,63   INT. AIRLOCK - CONTINUOUS,AIRLOC,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 360,ODO,   They're moving into the Runabout...,64   INT. SECURITY,SECURITY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 361,DAX,   Acknowledged.  DS Nine to Ganges.,65   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 362,SISKO,"   Go ahead, Dax.",65   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
@@ -426,7 +426,7 @@
 424,TAHNA,"   No more wormhole.  No more Federation.     Or Cardassians.  Or anyone else.    (noticing the monitors,     reacts)   Drop out of warp.",81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 425,TAHNA,   Now!,81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 426,O'BRIEN,"   My God, they're going into the    wormhole.  At full impulse.",83   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
-427,KIANG ,   The wormhole opens again... as    Runabout Ganges arrives into this    quadrant.,89A	EXT. SPACE - REVERSE ANGLE - PAST THE YANGTZEE,SPACE,EXT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
+427,KIANG ,   The wormhole opens again... as    Runabout Ganges arrives into this    quadrant.,89A	EXT. SPACE - REVERSE ANGLE - PAST THE YANGTZEE,SPAC,EXT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 428,TAHNA,   No!    (turning the phaser     back on Kira)   Damn you!,90   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 429,SISKO,"   Sisko to Kira... are you all right,    Major...",90   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt
 430,TAHNA,"       No, she's not all right, Commander.     And if you want her alive... you'll    do exactly as I say...",90   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt

@@ -23,32 +23,32 @@
 21,VASH ,   Bring back any memories?,3    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 22,PICARD,   Vash? How did you get in here?,3    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 23,VASH,   I came in through the window.,3    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-24,PICARD,   I had no idea you were a member   of the Archaeology Council.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-25,PICARD,   You are a member?       Aren't you.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-26,VASH,       More or less.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-27,PICARD,   Why have you come to Tagus Three?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-28,VASH,"   To see you, of course.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-29,PICARD,   Is that the only reason?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-30,VASH,   Isn't it enough?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-31,PICARD,       I wish I could believe you?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-32,VASH,"       I'd be disappointed if you did.       I really have missed you,   Jean-Luc.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-33,PICARD,   Come.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-34,BEVERLY,"   I'm sorry I'm late...       Oh, excuse me. I didn't know you   had company.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-35,PICARD,"   That's quite all right, Doctor.   Beverly Crusher allow me to   introduce Vash. A friend of mine   with the Archeology Council.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-36,BEVERLY,       I didn't mean to interrupt. The   Captain and I often share morning   tea.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-37,VASH,"   Yes, Jean-Luc has told me all   about you.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-38,BEVERLY,   Really? When was that?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-39,VASH,   On Risa. Where we met.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-40,BEVERLY,   I see.       That must have been during your   vacation last year.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-41,PICARD,       So it was.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-42,BEVERLY,       I'm surprised he never mentioned   you.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-43,VASH,   So am I.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-44,VASH,"   Are you busy, Doctor?",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-45,BEVERLY,   Not at the moment.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-46,VASH,"   I was wondering, I would love to   see some more of this marvelous   ship...",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-47,BEVERLY,"   I'd be delighted to show it to   you. If that's alright with you,   Jean-Luc.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-48,PICARD,   Of course.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-49,VASH,"       Don't worry, I promise to behave   myself.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+24,PICARD,   I had no idea you were a member   of the Archaeology Council.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+25,PICARD,   You are a member?       Aren't you.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+26,VASH,       More or less.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+27,PICARD,   Why have you come to Tagus Three?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+28,VASH,"   To see you, of course.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+29,PICARD,   Is that the only reason?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+30,VASH,   Isn't it enough?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+31,PICARD,       I wish I could believe you?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+32,VASH,"       I'd be disappointed if you did.       I really have missed you,   Jean-Luc.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+33,PICARD,   Come.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+34,BEVERLY,"   I'm sorry I'm late...       Oh, excuse me. I didn't know you   had company.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+35,PICARD,"   That's quite all right, Doctor.   Beverly Crusher allow me to   introduce Vash. A friend of mine   with the Archeology Council.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+36,BEVERLY,       I didn't mean to interrupt. The   Captain and I often share morning   tea.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+37,VASH,"   Yes, Jean-Luc has told me all   about you.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+38,BEVERLY,   Really? When was that?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+39,VASH,   On Risa. Where we met.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+40,BEVERLY,   I see.       That must have been during your   vacation last year.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+41,PICARD,       So it was.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+42,BEVERLY,       I'm surprised he never mentioned   you.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+43,VASH,   So am I.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+44,VASH,"   Are you busy, Doctor?",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+45,BEVERLY,   Not at the moment.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+46,VASH,"   I was wondering, I would love to   see some more of this marvelous   ship...",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+47,BEVERLY,"   I'd be delighted to show it to   you. If that's alright with you,   Jean-Luc.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+48,PICARD,   Of course.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+49,VASH,"       Don't worry, I promise to behave   myself.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 50,BEVERLY,"   And this is Ten Forward, where   the Council's welcoming reception   is to be held this afternoon.",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 51,VASH,"       I couldn't think of a better   location.       Tell me, does Jean-Luc come here   often?",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 52,BEVERLY,"   No, not often.",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt
@@ -171,16 +171,16 @@
 169,RIKER,   Q?       Any idea what he's up to?,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 170,PICARD,   He wants to do something nice for   me.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 171,RIKER,   I'll alert the crew.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-172,VASH ,   Who's there?,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-173,PICARD,   It's me.,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-174,VASH ,   Who?,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-175,PICARD,   Jean-Luc.,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-176,VASH,   Yes.,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-177,PICARD,   May I come in?,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-178,VASH,   What for?,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-179,PICARD,   To talk.,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-180,VASH,   I'm listening.,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-181,PICARD,   If it's all the same to you I'd   rather this discussion not take   place in a public corridor.,17   INT. CORRIDOR - MINUTES LATER,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+172,VASH ,   Who's there?,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+173,PICARD,   It's me.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+174,VASH ,   Who?,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+175,PICARD,   Jean-Luc.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+176,VASH,   Yes.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+177,PICARD,   May I come in?,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+178,VASH,   What for?,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+179,PICARD,   To talk.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+180,VASH,   I'm listening.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+181,PICARD,   If it's all the same to you I'd   rather this discussion not take   place in a public corridor.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 182,VASH,"   I thought these were ""private""   quarters.",19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 183,PICARD,   And I thought I was the only   reason you came to Tagus.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 184,VASH,   I never fooled you for a second.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
@@ -230,68 +230,68 @@
 228,Q,   You would have me stand idly by   while she leads you to your   destruction?,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 229,PICARD,   Yes!,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 230,Q,   As you wish.,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-231,RIKER,"   Knock 'em dead, Captain.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-232,PICARD,"   Ladies and gentlemen, members of   the Archeology Council. Welcome.   It is the mystery of Tagus Three   that brings us together today...   a mystery that has invited more   argument and deduction than the   best Sherlock Holmes or Dixon Hill   tale. Well, if you'll excuse the   conceit, you're about to hear my   own detective story.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-233,PICARD ,"   For several years, I have been   trying to unravel the secrets of   Tagus Three. Needless to say,   I have not succeeded.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-234,PICARD,"   However, I have, I believe,   turned up some new information,   that if nothing else, raises a   whole new set of mysteries that   I hope we can discuss during our   time togther.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-235,PICARD ,   There have been nine hundred and   forty-seven known Archaeological   excavations conducted on the   planet's surface.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-236,PICARD ,   Out of that number some   seventy-four are generally   considered to have revealed   findings of major importance.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-237,PICARD ,   The earliest took place some   twenty-two thousand years ago.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-238,PICARD,   The last was completed within   the last four hundred years.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-239,PICARD,   What the hell... !,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+231,RIKER,"   Knock 'em dead, Captain.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+232,PICARD,"   Ladies and gentlemen, members of   the Archeology Council. Welcome.   It is the mystery of Tagus Three   that brings us together today...   a mystery that has invited more   argument and deduction than the   best Sherlock Holmes or Dixon Hill   tale. Well, if you'll excuse the   conceit, you're about to hear my   own detective story.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+233,PICARD ,"   For several years, I have been   trying to unravel the secrets of   Tagus Three. Needless to say,   I have not succeeded.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+234,PICARD,"   However, I have, I believe,   turned up some new information,   that if nothing else, raises a   whole new set of mysteries that   I hope we can discuss during our   time togther.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+235,PICARD ,   There have been nine hundred and   forty-seven known Archaeological   excavations conducted on the   planet's surface.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+236,PICARD ,   Out of that number some   seventy-four are generally   considered to have revealed   findings of major importance.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+237,PICARD ,   The earliest took place some   twenty-two thousand years ago.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+238,PICARD,   The last was completed within   the last four hundred years.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+239,PICARD,   What the hell... !,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 240,PICARD,       Q!,27   EXT. FOREST - DAY - (OPTICAL),FOREST - DAY -,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-241,TROI,   Is this Tagus Three?,28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-242,PICARD,"   I doubt there are many oak trees   on Tagus. No, my guess is this   is supposed to be Earth.       Sometime around the twelfth   century. And this is England,   Sherwood Forest to be precise.   Or at least Q's re-creation of   it.",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-243,RIKER,   That explains these costumes.,28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-244,PICARD,"   Exactly, Number One.       Or should I say, John Little.",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-245,BEVERLY,"   If he's Little John, that would   make you...",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-246,PICARD,   I know. Robin Hood.,28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-247,WORF,"   Sir, I protest. I am not a merry   man.",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-248,DATA,"   On the contrary, Lieutenant Worf,   your clothing identifies you with   the character of Will Scarlett.   Just as Geordi's Mandolin suggests   he is Alan-A-Dale.",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-249,RIKER,"   And you, Mister Data, bear a   striking resemblance to one Friar   Tuck.",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-250,WORF,   I will not play the fool for Q's   amusement.,28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-251,PICARD,"   You're quite right, Worf.       Do you hear that Q? You may as   well return us to our ship   immediately.",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-252,SIR GUY,"   I have you at last, Robin Hood.",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-253,PICARD,   Quick. Into the forest.,28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-254,PICARD,   Mister Worf. That's an order.,28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-255,SIR GUY,"   Enough, you fools. We'll never   find them in the greenwood.",28   EXT. FOREST - DAY,FOREST,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-256,BEVERLY,    (applying a makeshift     bandage)   I've managed to stop the   bleeding.,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-257,PICARD,"   It's about time you showed up,   Q.",32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-258,Q,   I'd prefer it if you addressed   me as His Honor the High Sheriff   of Nottingham.,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-259,PICARD,   We will not share in this   pointless fantasy of yours.,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-260,Q,"   Fine. Wait here and do nothing.   By mid-day tomorrow, you'll all   be safely back aboard your ship.   But you will have to accept the   consequences of your inaction.",32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-261,PICARD,   What consequences?,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-262,Q,   What's the one thing Robin Hood   is famous for?,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-263,GEORDI,   Robbing from the rich to give to   the poor?,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-264,Q,   Besides that.,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-265,DATA,   Are you referring to his rescue   of Maid Marian from Nottingham   Castle?,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-266,Q,"   Right you are, Data.",32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-267,Q,   And it just so happens that Sir   Guy of Gisbourne has decreed that   Marian's head comes off tomorrow   at noon.,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-268,PICARD,       Vash.,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-269,Q,"   The choice is yours my dear,   Robin. You can either take your   ease here within the sylvan glade   or risk your life to save a woman   you care nothing about.",32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-270,PICARD,"   My feelings toward Vash are   irrelevant. I'd attempt to save   any innocent life, as you well   know.",32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-271,Q,   But what of your merry men? Are   you willing to put them in   jeopardy as well? Is Vash's life   worth losing hers or his or even   his... ?       Though I admit he would make a   perfect throw rug at Nottingham   Castle.,32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-272,PICARD,"   Q, I ask you to end this now,   before anyone else gets hurt.",32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-273,Q,"   Impossible. You see, I've given   this fantasy as you call it, a   life of its own. I don't know   how things will turn out anymore   than you do.       But of one thing I am certain.   If you dare set foot in Nottingham   Castle, blood will be spilled.",32   INT. FOREST - A GLADE - DAY,FOREST,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-274,SERVANT,"   You'll wear yourself out with   all that pacing, M'lady.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-275,VASH,   I told you to stop calling me   that. My name's Vash.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-276,SERVANT,"   My poor lamb, it's a brain   sickness you've got for sure.   Can't I get you something to ease   your suffering?",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-277,VASH,   I could use a drink.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-278,SERVANT,   It wasn't spirits I was thinking   of M'lady.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-279,SERVANT,   I have here some nice fresh   leeches to drain the fever.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-280,VASH,   Out. Get out.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-281,SERVANT,"   Oh, her mind's in an awful   turmoil, Sir Guy.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-282,VASH,   Who the hell are you?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-283,SERVANT,"   M'Lady, everyone in Nottingham   knows, Sir Guy of Gisbourne.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-284,VASH,   Sir Guy of what?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-285,SIR GUY,"   Do not mock me, Lady Marian. I'm   prepared to offer you one final   chance to change your mind.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-286,SIR GUY,   Will you marry me?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-287,SIR GUY,       I see. Then the execution will   proceed as scheduled.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-288,VASH,   What execution?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-289,SIR GUY,"       I warn you Marian, this pathetic   attempt at feigning madness will   not save your life.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-290,VASH,       You mean I'm the one getting   executed?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-291,VASH,"   Sir Guy, wait? Can't we talk this   over?       I admit, I haven't been myself   lately.    (flashing her best     smile)   Perhaps we've both been acting   a bit hasty.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-292,VASH,   Please.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+241,TROI,   Is this Tagus Three?,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+242,PICARD,"   I doubt there are many oak trees   on Tagus. No, my guess is this   is supposed to be Earth.       Sometime around the twelfth   century. And this is England,   Sherwood Forest to be precise.   Or at least Q's re-creation of   it.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+243,RIKER,   That explains these costumes.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+244,PICARD,"   Exactly, Number One.       Or should I say, John Little.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+245,BEVERLY,"   If he's Little John, that would   make you...",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+246,PICARD,   I know. Robin Hood.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+247,WORF,"   Sir, I protest. I am not a merry   man.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+248,DATA,"   On the contrary, Lieutenant Worf,   your clothing identifies you with   the character of Will Scarlett.   Just as Geordi's Mandolin suggests   he is Alan-A-Dale.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+249,RIKER,"   And you, Mister Data, bear a   striking resemblance to one Friar   Tuck.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+250,WORF,   I will not play the fool for Q's   amusement.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+251,PICARD,"   You're quite right, Worf.       Do you hear that Q? You may as   well return us to our ship   immediately.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+252,SIR GUY,"   I have you at last, Robin Hood.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+253,PICARD,   Quick. Into the forest.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+254,PICARD,   Mister Worf. That's an order.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+255,SIR GUY,"   Enough, you fools. We'll never   find them in the greenwood.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+256,BEVERLY,    (applying a makeshift     bandage)   I've managed to stop the   bleeding.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+257,PICARD,"   It's about time you showed up,   Q.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+258,Q,   I'd prefer it if you addressed   me as His Honor the High Sheriff   of Nottingham.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+259,PICARD,   We will not share in this   pointless fantasy of yours.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+260,Q,"   Fine. Wait here and do nothing.   By mid-day tomorrow, you'll all   be safely back aboard your ship.   But you will have to accept the   consequences of your inaction.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+261,PICARD,   What consequences?,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+262,Q,   What's the one thing Robin Hood   is famous for?,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+263,GEORDI,   Robbing from the rich to give to   the poor?,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+264,Q,   Besides that.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+265,DATA,   Are you referring to his rescue   of Maid Marian from Nottingham   Castle?,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+266,Q,"   Right you are, Data.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+267,Q,   And it just so happens that Sir   Guy of Gisbourne has decreed that   Marian's head comes off tomorrow   at noon.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+268,PICARD,       Vash.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+269,Q,"   The choice is yours my dear,   Robin. You can either take your   ease here within the sylvan glade   or risk your life to save a woman   you care nothing about.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+270,PICARD,"   My feelings toward Vash are   irrelevant. I'd attempt to save   any innocent life, as you well   know.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+271,Q,   But what of your merry men? Are   you willing to put them in   jeopardy as well? Is Vash's life   worth losing hers or his or even   his... ?       Though I admit he would make a   perfect throw rug at Nottingham   Castle.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+272,PICARD,"   Q, I ask you to end this now,   before anyone else gets hurt.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+273,Q,"   Impossible. You see, I've given   this fantasy as you call it, a   life of its own. I don't know   how things will turn out anymore   than you do.       But of one thing I am certain.   If you dare set foot in Nottingham   Castle, blood will be spilled.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+274,SERVANT,"   You'll wear yourself out with   all that pacing, M'lady.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+275,VASH,   I told you to stop calling me   that. My name's Vash.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+276,SERVANT,"   My poor lamb, it's a brain   sickness you've got for sure.   Can't I get you something to ease   your suffering?",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+277,VASH,   I could use a drink.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+278,SERVANT,   It wasn't spirits I was thinking   of M'lady.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+279,SERVANT,   I have here some nice fresh   leeches to drain the fever.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+280,VASH,   Out. Get out.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+281,SERVANT,"   Oh, her mind's in an awful   turmoil, Sir Guy.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+282,VASH,   Who the hell are you?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+283,SERVANT,"   M'Lady, everyone in Nottingham   knows, Sir Guy of Gisbourne.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+284,VASH,   Sir Guy of what?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+285,SIR GUY,"   Do not mock me, Lady Marian. I'm   prepared to offer you one final   chance to change your mind.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+286,SIR GUY,   Will you marry me?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+287,SIR GUY,       I see. Then the execution will   proceed as scheduled.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+288,VASH,   What execution?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+289,SIR GUY,"       I warn you Marian, this pathetic   attempt at feigning madness will   not save your life.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+290,VASH,       You mean I'm the one getting   executed?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+291,VASH,"   Sir Guy, wait? Can't we talk this   over?       I admit, I haven't been myself   lately.    (flashing her best     smile)   Perhaps we've both been acting   a bit hasty.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+292,VASH,   Please.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 293,TROI,"   Data, are you alright?",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
 294,DATA,"   The arrow impacted just above   my sixth intercostal support,   penetrating my secondary   subprocessor.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
 295,DATA,"       Fortunately, none of my   biofunctions seem impaired.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
@@ -303,118 +303,118 @@
 301,PICARD,"   This is not a mission. It's   personal, between Q and myself.   I don't want any of you involved.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
 302,RIKER,   But Captain...,36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
 303,PICARD,"   You have your orders, Commander.   I expect you to follow them.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-304,Q,"   A touch sharper, shall we?",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-305,Q,"   Such benevolence, Sir Guy,   allowing the condemned prisoner   fresh air.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-306,SIR GUY,"   You're mistaken, Sheriff. Maid   Marian has consented to be my   wife.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-307,Q,   But that's impossible?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-308,VASH,       Not at all. Though I admit a   maiden seldom has the opportunity   to win herself such a noble   husband.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-309,SIR GUY,   A toast to the most beautiful   bride-to-be in all of England.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-310,Q,"   Hold there, Sir Guy.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-311,SIR GUY,   Have you taken leave of your   senses?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-312,Q,"   It could be poisoned. Some foul   scheme of Robin Hood. She's in   league with him still, I'll   warrant.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-313,VASH,   Robin Hood?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-314,VASH,"   Oh, Robin Hood... that was over   long ago.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-315,Q,"   Why, all of Nottingham knows you're   in love with him.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-316,VASH,   That's a lie.       He... bewitched me. Put me under   some evil spell.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-317,SIR GUY,   Just as I suspected.       You can add sorcery to the list   of charges against that rogue.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-318,Q,"   But Sir Guy, if anyone has been   bewitched it's you.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-319,SIR GUY,"   Silence. Any further impudence   and it'll be your head on the   chopping block.       Guards, escort the Lady Marian   to her chamber.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-320,VASH,       But I'd much rather stay with you.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-321,SIR GUY,"   Of course you would, my child.   But I have important business to   discuss with the Sheriff.    (a beat; then dripping     with implication)   And you must prepare for your   wedding.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-322,VASH,   I count the hours.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-323,SIR GUY,   Lovely creature.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-324,Q,    (with grudging     admiration)   She is intriguing.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-325,Q,"   Sir Guy, perhaps it would be wise   to keep this wedding a secret for   now.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-326,SIR GUY,   What are you babbling about?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-327,Q,"   You still hope to capture Robin   Hood, don't you?",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-328,SIR GUY,   I live for the moment.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-329,Q,"       Well, if he were to hear that   Marian's life was no longer in   danger, there would be no need   for him to come to Nottingham to   rescue her.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-330,SIR GUY,"   By heavens, you're right. No word   of my wedding shall leave these   walls.     ",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-331,SIR GUY ,       What better way to celebrate a   marriage than with an execution.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-332,Q,       This could be fun.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTLE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-333,VASH,   Jean-Luc. Am I glad to see you.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-334,VASH,"   You would not believe what I've   been through. One minute I'm on   the Enterprise... the next thing   I know I'm here in Nottingham.   First, they're going to chop my   head off... and now I'm supposed   to marry someone named Sir Guy...   and everyone insists on calling   me Marian...",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-335,PICARD,"   Yes, I know.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-336,VASH,   You do? But how...,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-337,VASH,   You're Robin Hood?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-338,PICARD,   My staff and I were brought here   by an old adversary of mine named   Q. I'll tell you the rest once   we're safe.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-339,PICARD,"   Come, we don't have much time.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-340,VASH,   Are the others outside?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-341,PICARD,   They're waiting for us back in   Sherwood.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-342,VASH,   You mean you came alone?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-343,PICARD,"   Yes, now let's...",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-344,VASH,   What kind of plan is that?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-345,PICARD,   An excellent one if you'd only   hurry up.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-346,VASH,   You do realize our lives are at   stake here.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-347,PICARD,   Only too well.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-348,VASH,   And this is the best strategy   you could come up with? One man   against an entire castle.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-349,PICARD,   I suppose you know of a better   one.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-350,VASH,   How about this? You go. I'll   stay here.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-351,PICARD,   And do what?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-352,VASH,   Marry Sir Guy if I have to.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-353,PICARD,       That is brilliant.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-354,VASH,"   If there's a way to escape, I'll   find it, eventually. With my head   still attached.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-355,PICARD,   You don't really expect me to   leave you here?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-356,VASH,   I can take care of myself.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-357,PICARD,   Must you be so stubborn?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-358,SIR GUY,"   There'll be no escape for you this   time, Robin Hood.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-359,PICARD,       Behind me.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-360,VASH,   You should have left while you   had the chance.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-361,SIR GUY,"   Well done, my dear.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-362,VASH,       Consider it my wedding present   to you.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-363,Q,"   Congratulations, Gisbourne. I   see you've snared the jackal.",42   EXT. COURTYARD - NIGHT,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-364,SIR GUY,   It's Marian who deserves the   credit. Took him with his own   sword.,42   EXT. COURTYARD - NIGHT,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-365,SERVANT,"   You sent for me, M'Lady?",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-366,VASH,   You must take this letter to   Robin's men.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-367,SERVANT,   You want me to go to Sherwood   Forest? At this time of night?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-368,VASH,   You'll leave immediately.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-369,SERVANT,    (glancing out the     window)   But it's dark. I'll get lost.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-370,SERVANT,"   Besides, it's not safe. What with   all them hedge robbers and worse   lurking about.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-371,VASH,"   Please, this is urgent.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-372,SERVANT,"   You ask me, you'd be better off   staying with Sir Guy. He's got   a future. Why you'll be living   in London before you know it.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-373,VASH,"   But you must go. Otherwise,   they're going to kill him.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-374,VASH,   How dare you come barging in here   this way!,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-375,Q,   I come to offer apologies for my   harsh words earlier. I had no   idea you were so ruthless. The   cold blooded way you betrayed   Robin was most impressive.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-376,VASH,   That's most gracious of you.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-377,Q,   I admit I was surprised...       Though perhaps not as surprised   as Jean-Luc.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-378,VASH,   You're Q.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-379,Q,       And you are a very interesting   woman.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-380,Q,   What's this?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-381,VASH,   Give me that.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-382,Q,   A letter to Riker?       Quick... Come to Castle... Must save   Captain...       Why this is wonderful. Such   marvelous duplicity. You   certainly fooled Sir Guy. And   me as well.    (a shrewd glance at     Vash)   I do believe you're worth further   study.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-383,VASH,       Am I?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-384,Q,"   Unfortunately, we won't have the   time.       Guards!",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-385,Q,   Take this traitor away.       It appears there's going to be   a double execution.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
-386,PICARD ,   My fault?,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-387,VASH ,"   Yes, your fault.",44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-388,PICARD ,   We'd have been safe in Sherwood   if you hadn't grabbed my sword.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-389,VASH,   I grabbed it to prevent you from   being killed.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-390,PICARD,   You should have never interfered.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-391,VASH,   You were the one interfering.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-392,PICARD,   I was trying to rescue you.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-393,VASH,   Next time don't bother.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-394,PICARD,   I won't.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-395,Q,   Don't you two ever stop arguing?,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-396,Q,"   Tell me Picard, as you stand here   facing the termination of your   insect existence, do you see what   has led you to this end?       Was she worth it?",44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-397,PICARD,   Can we just get this over with.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-398,VASH,       Are you implying I'm not worth   it?,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-399,PICARD,"   Your game was for my benefit,   Q. She is innocent in all this.",44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-400,Q,"   She is many things, none of them   innocent.",44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-401,PICARD,   Let her go.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-402,VASH,"   Jean-Luc, you do care.",44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-403,Q,   A gallant gesture Picard. But   a futile one.       Farewell. I hope you'll both be   happy together.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-404,SIR GUY,       You have been found guilty of   outlawry and high treason. Do   you have anything to say before   sentencing is carried out?,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-405,SIR GUY,   Ready them for the block.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-406,GEORDI,   Too many of them. We'd never   get to the Captain...,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-407,RIKER,"   Data, we need a diversion. Now.",44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-408,DATA,"       Please stand back, Commander.   Microfusion cells can be somewhat   dangerous under high   temperatures...",44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-409,S,   It's the outlaws. Robin's band.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-410,SIR GUY,   Guards. Take Marian to the   tower.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-411,SIR GUY,   I'll have you know I'm the   greatest swordsman in all of   Nottingham.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-412,PICARD,   That's very impressive.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-413,PICARD,   But there's something you should   know.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-414,SIR GUY,   And what would that be?,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
-415,PICARD,   I'm not from Nottingham.,44   EXT. COURTYARD - THE NEXT DAY,COURTYARD,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+304,Q,"   A touch sharper, shall we?",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+305,Q,"   Such benevolence, Sir Guy,   allowing the condemned prisoner   fresh air.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+306,SIR GUY,"   You're mistaken, Sheriff. Maid   Marian has consented to be my   wife.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+307,Q,   But that's impossible?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+308,VASH,       Not at all. Though I admit a   maiden seldom has the opportunity   to win herself such a noble   husband.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+309,SIR GUY,   A toast to the most beautiful   bride-to-be in all of England.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+310,Q,"   Hold there, Sir Guy.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+311,SIR GUY,   Have you taken leave of your   senses?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+312,Q,"   It could be poisoned. Some foul   scheme of Robin Hood. She's in   league with him still, I'll   warrant.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+313,VASH,   Robin Hood?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+314,VASH,"   Oh, Robin Hood... that was over   long ago.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+315,Q,"   Why, all of Nottingham knows you're   in love with him.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+316,VASH,   That's a lie.       He... bewitched me. Put me under   some evil spell.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+317,SIR GUY,   Just as I suspected.       You can add sorcery to the list   of charges against that rogue.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+318,Q,"   But Sir Guy, if anyone has been   bewitched it's you.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+319,SIR GUY,"   Silence. Any further impudence   and it'll be your head on the   chopping block.       Guards, escort the Lady Marian   to her chamber.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+320,VASH,       But I'd much rather stay with you.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+321,SIR GUY,"   Of course you would, my child.   But I have important business to   discuss with the Sheriff.    (a beat; then dripping     with implication)   And you must prepare for your   wedding.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+322,VASH,   I count the hours.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+323,SIR GUY,   Lovely creature.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+324,Q,    (with grudging     admiration)   She is intriguing.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+325,Q,"   Sir Guy, perhaps it would be wise   to keep this wedding a secret for   now.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+326,SIR GUY,   What are you babbling about?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+327,Q,"   You still hope to capture Robin   Hood, don't you?",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+328,SIR GUY,   I live for the moment.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+329,Q,"       Well, if he were to hear that   Marian's life was no longer in   danger, there would be no need   for him to come to Nottingham to   rescue her.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+330,SIR GUY,"   By heavens, you're right. No word   of my wedding shall leave these   walls.     ",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+331,SIR GUY ,       What better way to celebrate a   marriage than with an execution.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+332,Q,       This could be fun.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+333,VASH,   Jean-Luc. Am I glad to see you.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+334,VASH,"   You would not believe what I've   been through. One minute I'm on   the Enterprise... the next thing   I know I'm here in Nottingham.   First, they're going to chop my   head off... and now I'm supposed   to marry someone named Sir Guy...   and everyone insists on calling   me Marian...",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+335,PICARD,"   Yes, I know.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+336,VASH,   You do? But how...,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+337,VASH,   You're Robin Hood?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+338,PICARD,   My staff and I were brought here   by an old adversary of mine named   Q. I'll tell you the rest once   we're safe.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+339,PICARD,"   Come, we don't have much time.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+340,VASH,   Are the others outside?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+341,PICARD,   They're waiting for us back in   Sherwood.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+342,VASH,   You mean you came alone?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+343,PICARD,"   Yes, now let's...",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+344,VASH,   What kind of plan is that?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+345,PICARD,   An excellent one if you'd only   hurry up.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+346,VASH,   You do realize our lives are at   stake here.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+347,PICARD,   Only too well.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+348,VASH,   And this is the best strategy   you could come up with? One man   against an entire castle.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+349,PICARD,   I suppose you know of a better   one.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+350,VASH,   How about this? You go. I'll   stay here.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+351,PICARD,   And do what?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+352,VASH,   Marry Sir Guy if I have to.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+353,PICARD,       That is brilliant.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+354,VASH,"   If there's a way to escape, I'll   find it, eventually. With my head   still attached.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+355,PICARD,   You don't really expect me to   leave you here?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+356,VASH,   I can take care of myself.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+357,PICARD,   Must you be so stubborn?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+358,SIR GUY,"   There'll be no escape for you this   time, Robin Hood.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+359,PICARD,       Behind me.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+360,VASH,   You should have left while you   had the chance.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+361,SIR GUY,"   Well done, my dear.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+362,VASH,       Consider it my wedding present   to you.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+363,Q,"   Congratulations, Gisbourne. I   see you've snared the jackal.",42   EXT. COURTYARD - NIGHT,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+364,SIR GUY,   It's Marian who deserves the   credit. Took him with his own   sword.,42   EXT. COURTYARD - NIGHT,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+365,SERVANT,"   You sent for me, M'Lady?",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+366,VASH,   You must take this letter to   Robin's men.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+367,SERVANT,   You want me to go to Sherwood   Forest? At this time of night?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+368,VASH,   You'll leave immediately.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+369,SERVANT,    (glancing out the     window)   But it's dark. I'll get lost.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+370,SERVANT,"   Besides, it's not safe. What with   all them hedge robbers and worse   lurking about.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+371,VASH,"   Please, this is urgent.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+372,SERVANT,"   You ask me, you'd be better off   staying with Sir Guy. He's got   a future. Why you'll be living   in London before you know it.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+373,VASH,"   But you must go. Otherwise,   they're going to kill him.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+374,VASH,   How dare you come barging in here   this way!,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+375,Q,   I come to offer apologies for my   harsh words earlier. I had no   idea you were so ruthless. The   cold blooded way you betrayed   Robin was most impressive.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+376,VASH,   That's most gracious of you.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+377,Q,   I admit I was surprised...       Though perhaps not as surprised   as Jean-Luc.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+378,VASH,   You're Q.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+379,Q,       And you are a very interesting   woman.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+380,Q,   What's this?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+381,VASH,   Give me that.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+382,Q,   A letter to Riker?       Quick... Come to Castle... Must save   Captain...       Why this is wonderful. Such   marvelous duplicity. You   certainly fooled Sir Guy. And   me as well.    (a shrewd glance at     Vash)   I do believe you're worth further   study.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+383,VASH,       Am I?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+384,Q,"   Unfortunately, we won't have the   time.       Guards!",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+385,Q,   Take this traitor away.       It appears there's going to be   a double execution.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt
+386,PICARD ,   My fault?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+387,VASH ,"   Yes, your fault.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+388,PICARD ,   We'd have been safe in Sherwood   if you hadn't grabbed my sword.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+389,VASH,   I grabbed it to prevent you from   being killed.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+390,PICARD,   You should have never interfered.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+391,VASH,   You were the one interfering.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+392,PICARD,   I was trying to rescue you.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+393,VASH,   Next time don't bother.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+394,PICARD,   I won't.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+395,Q,   Don't you two ever stop arguing?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+396,Q,"   Tell me Picard, as you stand here   facing the termination of your   insect existence, do you see what   has led you to this end?       Was she worth it?",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+397,PICARD,   Can we just get this over with.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+398,VASH,       Are you implying I'm not worth   it?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+399,PICARD,"   Your game was for my benefit,   Q. She is innocent in all this.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+400,Q,"   She is many things, none of them   innocent.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+401,PICARD,   Let her go.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+402,VASH,"   Jean-Luc, you do care.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+403,Q,   A gallant gesture Picard. But   a futile one.       Farewell. I hope you'll both be   happy together.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+404,SIR GUY,       You have been found guilty of   outlawry and high treason. Do   you have anything to say before   sentencing is carried out?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+405,SIR GUY,   Ready them for the block.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+406,GEORDI,   Too many of them. We'd never   get to the Captain...,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+407,RIKER,"   Data, we need a diversion. Now.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+408,DATA,"       Please stand back, Commander.   Microfusion cells can be somewhat   dangerous under high   temperatures...",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+409,S,   It's the outlaws. Robin's band.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+410,SIR GUY,   Guards. Take Marian to the   tower.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+411,SIR GUY,   I'll have you know I'm the   greatest swordsman in all of   Nottingham.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+412,PICARD,   That's very impressive.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+413,PICARD,   But there's something you should   know.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+414,SIR GUY,   And what would that be?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
+415,PICARD,   I'm not from Nottingham.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt
 416,VASH,   Jean-Luc.,50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 417,PICARD,"       It's over, Q. Now get us out of   here.",50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt
 418,Q,"       My compliments, Captain. I doubt   Robin Hood himself could have done   better.",50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt

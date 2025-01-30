@@ -72,11 +72,12 @@ def clean_location(loc:str):
     for v in views:
         if v in output:
             output = output[output.index(v)+5:]
+            break
     if '(' in output:
         output = output[:output.index('(')-1]
-    elif '-' in output:
+    elif ' - ' in output:
         # why elif? we want space - deep space nine
-        output = output[:output.index('-')-1]
+        output = output[:output.index(' - ')-1]
     return(output)
 
 

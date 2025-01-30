@@ -5,10 +5,10 @@
 3,CAPTAIN,"   Move us to position alpha, Ensign...",3    REVERSE ANGLE - INT. BRIDGE - THE SARATOGA (OPTICAL),BRIDGE - THE SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 4,CON OFFICER,"   Aye, sir...",3    REVERSE ANGLE - INT. BRIDGE - THE SARATOGA (OPTICAL),BRIDGE - THE SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 5,CAPTAIN,   Load all torpedo bays... ready    phasers...,3    REVERSE ANGLE - INT. BRIDGE - THE SARATOGA (OPTICAL),BRIDGE - THE SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-6,TACTICAL OFFICER,   The Borg are attempting to lock on    to us...,5    INT. SARATOGA - BRIDGE,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-7,CAPTAIN,   Evasive maneuvers... delta pattern...,5    INT. SARATOGA - BRIDGE,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-8,CON OFFICER,   Delta pattern initiated...,5B   INT. SARATOGA - BRIDGE,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-9,OPS OFFICER,       They've locked on...,5B   INT. SARATOGA - BRIDGE,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+6,TACTICAL OFFICER,   The Borg are attempting to lock on    to us...,5    INT. SARATOGA - BRIDGE,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+7,CAPTAIN,   Evasive maneuvers... delta pattern...,5    INT. SARATOGA - BRIDGE,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+8,CON OFFICER,   Delta pattern initiated...,5B   INT. SARATOGA - BRIDGE,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+9,OPS OFFICER,       They've locked on...,5B   INT. SARATOGA - BRIDGE,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 10,OPS OFFICER,   Our shields are being drained...     sixty-four percent... forty-two...,8    INT. SARATOGA BRIDGE,SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 11,CAPTAIN,   Recalibrate shield nutation...,8    INT. SARATOGA BRIDGE,SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 12,TACTICAL,   Modulation is having no effect...,8    INT. SARATOGA BRIDGE,SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -54,10 +54,10 @@
 52,SISKO,"   Computer, end program.",20   EXT. FISHING POND - DAY (OPTICAL),FISHING POND - DAY,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 53,JAKE,   Is that it?,21   INT. CORRIDOR (NOT THE ENTERPRISE) (OPTICAL),CORRIDOR,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 54,SISKO ,"   Commence station log, Deep Space    Nine, Commander Benjamin Sisko,    Stardate xxxxx.x.  At the request of    the Bajoran provisional government,    Starfleet has agreed to establish a    Federation presence in this system    following the withdrawal of Cardassian    occupational forces.",22   EXT. SPACE - DS9 (OPTICAL),SPACE - DS9,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-55,O'BRIEN,"   Sorry about that, Commander...  all    the interlock servos in this airlock    were stripped by the Cardassians...",23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN,AIRLOCK,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-56,O'BRIEN,"   Miles O'Brien, your chief operations    officer...",23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN,AIRLOCK,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-57,SISKO,"   We would've transported aboard if    we'd known you were having problems,    Chief...",23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN,AIRLOCK,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-58,O'BRIEN,"   That wouldn't have been possible    either, sir.  We've got some stray    nucleonic emissions that have to be    tracked down before we can safely    reinstate transporter operations.     It's a junkyard the bloody Cardies    left us with, if you ask me...",23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN,AIRLOCK,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+55,O'BRIEN,"   Sorry about that, Commander...  all    the interlock servos in this airlock    were stripped by the Cardassians...",23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN,AIRLOC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+56,O'BRIEN,"   Miles O'Brien, your chief operations    officer...",23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN,AIRLOC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+57,SISKO,"   We would've transported aboard if    we'd known you were having problems,    Chief...",23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN,AIRLOC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+58,O'BRIEN,"   That wouldn't have been possible    either, sir.  We've got some stray    nucleonic emissions that have to be    tracked down before we can safely    reinstate transporter operations.     It's a junkyard the bloody Cardies    left us with, if you ask me...",23   INT. AIRLOCK - CLOSE ON MILES O'BRIEN,AIRLOC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 59,O'BRIEN,   I'm told the Cardassians decided to    have some fun the day they left...    four Bajorans were killed trying to    protect their shops...,24   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 60,SISKO,       Why hasn't anybody cleaned this up...,24   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 61,O'BRIEN,"   We've got all available personnel    assigned to repairing primary systems,    sir... the Cardassians took every    component of value, we have virtually    no defenses...",24   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -152,25 +152,25 @@
 150,PICARD,   I'll look into it.  In the meantime...,42   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 151,SISKO,"   In the meantime, I'll do the job    I've been ordered to do to the best    of my ability, sir... thank you for    the briefing.",42   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 152,PICARD,   Dismissed.,42   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-153,SISKO ,"   It's really quite simple, Quark,    you're not going to leave.",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-154,QUARK,       Not going to leave... But we're all    packed and ready to...,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-155,SISKO,   Unpack.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-156,QUARK,   Why would you want me to stay?,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-157,ODO,       I'm curious myself.  The man is a    gambler and a thief.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-158,QUARK,   I am not a thief.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-159,ODO,   You are a thief.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-160,QUARK,"   If I am, you haven't been able to    prove it for four years...",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-161,SISKO,"   My officers, the Bajoran engineers,    all their families depend on the ",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-162,QUARK,   Me?  A Community Leader?,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-163,ODO,       You have all the character references    of a politician.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-164,QUARK,   How could I possibly operate my    establishment under Starfleet rules    of conduct?,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-165,SISKO,"   This is still a Bajoran station.   We're just here to administrate.   You run honest games, you won't    have any problems from me.",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-166,ODO,"       'Honest' games, hmph...",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-167,QUARK,"   Commander, I've made a career out of    knowing when to leave.  This Bajoran    provisional government is far too    provisional for my taste.  And when    governments fall, people like me are    lined up and shot...",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-168,SISKO,"   Well, there is that risk... but then    you are a gambler, Quark...",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-169,ODO,   ... and a thief...,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-170,SISKO,"    (preparing to leave,     overly ""sincere"")   That poor kid is about to spend the    best years of his life in a Bajoran    prison.  I'm a father myself.  I    know what your brother must be going    through.  The boy should be with his    family... not in a cold jail cell...       Think about it.",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-171,ODO,"   You know, at first I didn't think I    was gonna like him.",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFICE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+153,SISKO ,"   It's really quite simple, Quark,    you're not going to leave.",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+154,QUARK,       Not going to leave... But we're all    packed and ready to...,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+155,SISKO,   Unpack.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+156,QUARK,   Why would you want me to stay?,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+157,ODO,       I'm curious myself.  The man is a    gambler and a thief.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+158,QUARK,   I am not a thief.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+159,ODO,   You are a thief.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+160,QUARK,"   If I am, you haven't been able to    prove it for four years...",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+161,SISKO,"   My officers, the Bajoran engineers,    all their families depend on the ",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+162,QUARK,   Me?  A Community Leader?,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+163,ODO,       You have all the character references    of a politician.,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+164,QUARK,   How could I possibly operate my    establishment under Starfleet rules    of conduct?,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+165,SISKO,"   This is still a Bajoran station.   We're just here to administrate.   You run honest games, you won't    have any problems from me.",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+166,ODO,"       'Honest' games, hmph...",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+167,QUARK,"   Commander, I've made a career out of    knowing when to leave.  This Bajoran    provisional government is far too    provisional for my taste.  And when    governments fall, people like me are    lined up and shot...",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+168,SISKO,"   Well, there is that risk... but then    you are a gambler, Quark...",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+169,ODO,   ... and a thief...,44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+170,SISKO,"    (preparing to leave,     overly ""sincere"")   That poor kid is about to spend the    best years of his life in a Bajoran    prison.  I'm a father myself.  I    know what your brother must be going    through.  The boy should be with his    family... not in a cold jail cell...       Think about it.",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+171,ODO,"   You know, at first I didn't think I    was gonna like him.",44   INT. SECURITY OFFICE - STARTING ON QUARK,SECURITY OFFIC,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 172,SISKO,   Major... ?,45   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 173,KIRA,       Everyone else is busy repairing the    primary systems...,45   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 174,KIRA,       I suppose Starfleet officers aren't    used to getting their hands dirty...,45   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -185,21 +185,21 @@
 183,KIRA,"   Our spiritual leader.  She's known    as the Kai.  Our religion is the    only thing that holds my people    together.  If she would call for    unity, they would listen.",45   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 184,KIRA,       Leaders of all the factions have    been trying to get to her... but she    lives in seclusion and rarely sees    anyone...,45   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 185,MONK #1,   Commander.  It is time.,45   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-186,KAI OPAKA ,   Commander Sisko...,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-187,KAI OPAKA,   I apologize for the conditions in    which we greet you...,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-188,SISKO,       The Cardassians... ?,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-189,KAI OPAKA,       Your arrival has been greatly    anticipated.,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-190,SISKO,   I'm glad to hear that.  If Bajor can    join the Federation it will bring    stability...,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-191,KAI OPAKA,       I do not speak of the Federation.   I speak of your arrival...,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-192,SISKO,   Mine?,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-193,KAI OPAKA,"   Have you ever explored your pagh,    Commander?",51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-194,SISKO,   Pagh?,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-195,KAI OPAKA,"   A Bajoran draws courage from his    spiritual life... our lifeforce, our    pagh, is replenished by the    prophets...",51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-196,KAI OPAKA,"    (knowingly, with     sympathy)   Breathe.",51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-197,SISKO,"       Kai Opaka, if we could discuss your    role in the post-Cardassian    transition...",51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-198,KAI OPAKA,   Breathe.,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-199,KAI OPAKA,   Ironic.  One who does not wish to be    among us is to be the emissary.,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-200,KAI OPAKA,   Please come with me...,51   INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+186,KAI OPAKA ,   Commander Sisko...,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+187,KAI OPAKA,   I apologize for the conditions in    which we greet you...,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+188,SISKO,       The Cardassians... ?,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+189,KAI OPAKA,       Your arrival has been greatly    anticipated.,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+190,SISKO,   I'm glad to hear that.  If Bajor can    join the Federation it will bring    stability...,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+191,KAI OPAKA,       I do not speak of the Federation.   I speak of your arrival...,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+192,SISKO,   Mine?,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+193,KAI OPAKA,"   Have you ever explored your pagh,    Commander?",51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+194,SISKO,   Pagh?,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+195,KAI OPAKA,"   A Bajoran draws courage from his    spiritual life... our lifeforce, our    pagh, is replenished by the    prophets...",51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+196,KAI OPAKA,"    (knowingly, with     sympathy)   Breathe.",51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+197,SISKO,"       Kai Opaka, if we could discuss your    role in the post-Cardassian    transition...",51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+198,KAI OPAKA,   Breathe.,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+199,KAI OPAKA,   Ironic.  One who does not wish to be    among us is to be the emissary.,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+200,KAI OPAKA,   Please come with me...,51   INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 201,KAI OPAKA,   You are correct that Bajor is in    grave jeopardy... but it is the threat    to our spiritual life that far    outweighs any other...,54   INT. A SECRET CAVERN DEEP BELOW THE MONASTERY,A SECRET CAVERN DEEP BELOW THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 202,SISKO,"   Perhaps, but I'm powerless until I    have a unified...",54   INT. A SECRET CAVERN DEEP BELOW THE MONASTERY,A SECRET CAVERN DEEP BELOW THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 203,KAI OPAKA,   I cannot give you what you deny    yourself...,54   INT. A SECRET CAVERN DEEP BELOW THE MONASTERY,A SECRET CAVERN DEEP BELOW THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -207,39 +207,39 @@
 205,KAI OPAKA,"   Look for solutions from within,    Commander...",54   INT. A SECRET CAVERN DEEP BELOW THE MONASTERY,A SECRET CAVERN DEEP BELOW THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 206,SISKO,   What is it?,54   INT. A SECRET CAVERN DEEP BELOW THE MONASTERY,A SECRET CAVERN DEEP BELOW THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 207,KAI OPAKA,   The tear of the prophet.,54   INT. A SECRET CAVERN DEEP BELOW THE MONASTERY,A SECRET CAVERN DEEP BELOW THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-208,SISKO,   What... the hell... Opaka?,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-209,SISKO,       Ahh...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-210,JENNIFER,   Hey!,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-211,SISKO,   I'm sorry... it's just that the sand    was burning my...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-212,SISKO,   Jen... Jennifer... ?,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-213,JENNIFER,       Yes... ?  I'm sorry... did we meet    last night at George's party... ?,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-214,SISKO,"   George?  Jennifer... wait a minute,    this is impossible.",59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-215,JENNIFER,   Are you okay?,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-216,SISKO,"    (looking around,     stunned, to himself)   I know this place... This is Gilgo    Beach.  Where we met.",59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-217,JENNIFER,   We've met here... before?,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-218,SISKO,   I was carrying...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-219,SISKO,   ... three lemonades...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-220,SISKO,       My feet were burning... I stopped    here... do you understand how    incredible this is?  No of course    you don't.  Jennifer.,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-221,SISKO,   Have a lemonade.,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-222,JENNIFER,"   Sorry, I don't accept drinks from    strange men on the beach...",59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-223,JENNIFER,   Tell me the truth.  Did we really    meet before?,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-224,SISKO,   No.,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-225,JENNIFER,"    (smiles, shakes her     head)   So how did you know my name?",59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-226,SISKO,   I...       George told me... at the party...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-227,JENNIFER,   Are you going to tell me your name?,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-228,SISKO,   Oh.  Sorry.  Ben Sisko.  I...   I just graduated from Starfleet    Academy... I'm waiting for my    first posting...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-229,JENNIFER,   A junior officer.  My mother warned    me to watch out for junior officers...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-230,SISKO,   Your mother's going to adore me.,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-231,JENNIFER,   You're awfully sure of yourself.,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-232,SISKO,   It's not every day you meet the girl    you're going to marry.,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-233,JENNIFER,   Do you use this routine a lot with    women... ?,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-234,SISKO,   No.  Never before.  And never again.,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-235,JENNIFER,   Sure...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-236,SISKO,   How about letting me cook dinner for    you tonight... my father was a gourmet    chef... I'll make his famous aubergine    stew.,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-237,JENNIFER,   I don't know...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-238,SISKO,   You're supposed to say yes...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-239,JENNIFER,   I'll probably be sorry...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-240,SISKO,       Jennifer...,59   EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+208,SISKO,   What... the hell... Opaka?,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+209,SISKO,       Ahh...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+210,JENNIFER,   Hey!,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+211,SISKO,   I'm sorry... it's just that the sand    was burning my...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+212,SISKO,   Jen... Jennifer... ?,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+213,JENNIFER,       Yes... ?  I'm sorry... did we meet    last night at George's party... ?,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+214,SISKO,"   George?  Jennifer... wait a minute,    this is impossible.",59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+215,JENNIFER,   Are you okay?,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+216,SISKO,"    (looking around,     stunned, to himself)   I know this place... This is Gilgo    Beach.  Where we met.",59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+217,JENNIFER,   We've met here... before?,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+218,SISKO,   I was carrying...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+219,SISKO,   ... three lemonades...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+220,SISKO,       My feet were burning... I stopped    here... do you understand how    incredible this is?  No of course    you don't.  Jennifer.,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+221,SISKO,   Have a lemonade.,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+222,JENNIFER,"   Sorry, I don't accept drinks from    strange men on the beach...",59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+223,JENNIFER,   Tell me the truth.  Did we really    meet before?,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+224,SISKO,   No.,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+225,JENNIFER,"    (smiles, shakes her     head)   So how did you know my name?",59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+226,SISKO,   I...       George told me... at the party...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+227,JENNIFER,   Are you going to tell me your name?,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+228,SISKO,   Oh.  Sorry.  Ben Sisko.  I...   I just graduated from Starfleet    Academy... I'm waiting for my    first posting...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+229,JENNIFER,   A junior officer.  My mother warned    me to watch out for junior officers...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+230,SISKO,   Your mother's going to adore me.,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+231,JENNIFER,   You're awfully sure of yourself.,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+232,SISKO,   It's not every day you meet the girl    you're going to marry.,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+233,JENNIFER,   Do you use this routine a lot with    women... ?,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+234,SISKO,   No.  Never before.  And never again.,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+235,JENNIFER,   Sure...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+236,SISKO,   How about letting me cook dinner for    you tonight... my father was a gourmet    chef... I'll make his famous aubergine    stew.,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+237,JENNIFER,   I don't know...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+238,SISKO,   You're supposed to say yes...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+239,JENNIFER,   I'll probably be sorry...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+240,SISKO,       Jennifer...,59   EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 241,SISKO,       Is it some kind of holographic device?,64   INT. CHAMBER UNDER THE MONASTERY (OPTICAL),CHAMBER UNDER THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 242,KAI OPAKA,   No.  What you experienced barely    begins to reveal its powers...   This orb appeared in the skies    over ten thousand years ago.   Eight others have been discovered    since. Tradition says they    were sent from the Celestial Temple.   What they have taught us has    shaped our theology.,64   INT. CHAMBER UNDER THE MONASTERY (OPTICAL),CHAMBER UNDER THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 243,KAI OPAKA,   It will lead you to the Temple.,64   INT. CHAMBER UNDER THE MONASTERY (OPTICAL),CHAMBER UNDER THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -255,14 +255,14 @@
 253,KIRA,   Kira to Sisko...,66   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 254,SISKO,"   Go ahead, Major.",66   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 255,KIRA,"   Sorry to disturb you, Commander.   But there's something on the    Promenade you might want to see.",66   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-256,PIT BOSS,"   Fortune's fates are with you today,    friends... prompt wagers, please...    I'm sorry, Madame, Quark's does not    accept travelers' vouchers... gold    or hard currency, please... final    wagers...",69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-257,FEMALE,   Dabo!,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-258,QUARK,"   What'll you have, Commander?",69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-259,SISKO,   How's the local synthale?,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-260,QUARK,   You won't like it.       I love the Bajorans... such a deeply    spiritual culture... but they make a    dreadful ale.,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-261,QUARK,   Don't ever trust an ale from a god    fearing people...,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-262,QUARK,       ... or a Starfleet Commander who has    one of your relatives in jail.,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-263,PIT BOSS  ,   Dabo!,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+256,PIT BOSS,"   Fortune's fates are with you today,    friends... prompt wagers, please...    I'm sorry, Madame, Quark's does not    accept travelers' vouchers... gold    or hard currency, please... final    wagers...",69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK',INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+257,FEMALE,   Dabo!,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK',INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+258,QUARK,"   What'll you have, Commander?",69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK',INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+259,SISKO,   How's the local synthale?,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK',INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+260,QUARK,   You won't like it.       I love the Bajorans... such a deeply    spiritual culture... but they make a    dreadful ale.,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK',INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+261,QUARK,   Don't ever trust an ale from a god    fearing people...,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK',INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+262,QUARK,       ... or a Starfleet Commander who has    one of your relatives in jail.,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK',INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+263,PIT BOSS  ,   Dabo!,69   INT. QUARK'S - CLOSE ON A SPINNING VERTICAL WHEEL,QUARK',INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 264,SISKO ,"   Station log.  Stardate xxxxx.x.   The Enterprise has been ordered    to the Lapolis system. They're    scheduled to depart at zero-five    hundred hours after offloading    three runabout class vessels.   Meanwhile, our medical and science    officers are arriving... and I'm    looking forward to a reunion with    a... very old... friend.",71   EXT. SPACE - DEEP SPACE NINE (OPTICAL)  (DAY #3),SPACE - DEEP SPACE NINE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 265,KIRA,"   Commander, if you'd like me to give    them a tour of the station...",72   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 266,SISKO,   You and Doctor Bashir go ahead...,72   INT. PROMENADE,PROMENADE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -295,7 +295,7 @@
 293,COMPUTER,   Time parameters?,74   INT. LABORATORY - CLOSE ON THE ORB (OPTICAL),LABORATORY - CLOSE ON THE ORB,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 294,DAX,   Ten millenia.,74   INT. LABORATORY - CLOSE ON THE ORB (OPTICAL),LABORATORY - CLOSE ON THE ORB,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 295,COMPUTER,   Initializing data base.  Requested    function will require two hours to    complete.,74   INT. LABORATORY - CLOSE ON THE ORB (OPTICAL),LABORATORY - CLOSE ON THE ORB,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-296,DAX,"    (recognizes him,     surprised)   Curzon... ?",77   INT. OPERATING ROOM - DAY,OPERATING ROOM,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+296,DAX,"    (recognizes him,     surprised)   Curzon... ?",77   INT. OPERATING ROOM - DAY,OPERATING ROO,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 297,LIEUTENANT,"   The Captain's in the ready room,    Chief... Should I tell him you're    here?",85   INT.  MAIN BRIDGE, MAIN BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 298,O'BRIEN,"    (a beat, shakes his     head)   That's okay.  Thanks.",85   INT.  MAIN BRIDGE, MAIN BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 299,O'BRIEN,"   Transport me to the Ops pad, Maggie...",86   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -349,8 +349,8 @@
 347,O'BRIEN,"   If you have a problem, sir, you'll    have to take it up with Commander    Sisko...",99   INT. QUARK'S,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 348,QUARK,   I intend to.  This is outrageous...    my apologies friends... a minor    misunderstanding that will be    rectified shortly...,99   INT. QUARK'S,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 349,QUARK,   Give them something to put their    winnings in...,99   INT. QUARK'S,QUARK'S,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-350,CARDASSIAN OFFICER #1 ,"   ... because we were winning too much,    of course...",102  INT. CARDASSIAN WARSHIP - CLOSE ON THE KNAPSACK,CARDASSIAN WARSHIP,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-351,CARDASSIAN OFFICER #2 ,   Leave it to Starfleet to ruin a fine    day...,102  INT. CARDASSIAN WARSHIP - CLOSE ON THE KNAPSACK,CARDASSIAN WARSHIP,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+350,CARDASSIAN OFFICER #1 ,"   ... because we were winning too much,    of course...",102  INT. CARDASSIAN WARSHIP - CLOSE ON THE KNAPSACK,CARDASSIAN WARSHI,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+351,CARDASSIAN OFFICER #2 ,   Leave it to Starfleet to ruin a fine    day...,102  INT. CARDASSIAN WARSHIP - CLOSE ON THE KNAPSACK,CARDASSIAN WARSHI,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 352,SISKO,       Rio Grande to Ops.  Initializing pre-   launch systems...,106  INT. RUNABOUT,RUNABOUT,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 353,KIRA,   Confirmed.,106  INT. RUNABOUT,RUNABOUT,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 354,O'BRIEN,"   Major, scanners are picking up    fluctuations in the Cardassian's    energy distribution net...",108  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -407,19 +407,19 @@
 405,DAX,   Capable of supporting life...,136  INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 406,DAX,   We've just landed...,136  INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 407,SISKO,   On what?,136  INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-408,DAX,   It's beautiful.,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-409,SISKO,   You have a strange eye for beauty...,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-410,DAX,   You don't think this is one of the    most idyllic settings you've ever    seen... ?,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-411,SISKO,       It can't beat the sulfuric mine pits    of Hadas Four...,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-412,DAX,   How can you say that?  The colors...    all the flora...,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-413,SISKO,"   I don't see any flora, Dax...",141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-414,DAX,   We're standing in a garden...,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-415,SISKO,   We're standing on a rockface...       Do you see the storms?,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-416,DAX,   Clear as a summer's day.,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-417,SISKO,   You see it too...,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-418,DAX,"   Low level ionic pattern, it's probing    us...",141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-419,SISKO,"   Someone's idea of shaking hands,    maybe...",141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-420,SISKO,   I am Commander Benjamin Sisko of the    United Federation of Planets...,141  EXT. GARDEN - DAY,GARDEN,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+408,DAX,   It's beautiful.,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+409,SISKO,   You have a strange eye for beauty...,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+410,DAX,   You don't think this is one of the    most idyllic settings you've ever    seen... ?,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+411,SISKO,       It can't beat the sulfuric mine pits    of Hadas Four...,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+412,DAX,   How can you say that?  The colors...    all the flora...,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+413,SISKO,"   I don't see any flora, Dax...",141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+414,DAX,   We're standing in a garden...,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+415,SISKO,   We're standing on a rockface...       Do you see the storms?,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+416,DAX,   Clear as a summer's day.,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+417,SISKO,   You see it too...,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+418,DAX,"   Low level ionic pattern, it's probing    us...",141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+419,SISKO,"   Someone's idea of shaking hands,    maybe...",141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+420,SISKO,   I am Commander Benjamin Sisko of the    United Federation of Planets...,141  EXT. GARDEN - DAY,GARDE,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 421,O'BRIEN,       Another neutrino disruption...,156  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 422,KIRA,   Scanners are picking up an object    near their last known coordinates...    it isn't a ship...,156  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 423,O'BRIEN,"       Major, there's something inside it...    some kind of lifeform...",156  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -429,16 +429,16 @@
 427,O'BRIEN,"   Aye, sir... locking on...",156  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 428,SISKO,   Who are you?,156  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 429,SISKO,   Who are you?,156  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-430,JENNIFER ALIEN,       It is corporeal... a physical    entity...,163  EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-431,SISKO,   What... what did you say...,163  EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-432,PICARD ALIEN,   It is responding to visual and    auditory stimuli... linguistic    communication...,165  INT. ENTERPRISE OBSERVATION LOUNGE - PICARD,ENTERPRISE OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-433,SISKO,"   Yes, linguistic communication...     are you capable of communicating    with me?",165  INT. ENTERPRISE OBSERVATION LOUNGE - PICARD,ENTERPRISE OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-434,KAI OPAKA ALIEN,   What are you?,166  INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-435,SISKO,   My species is known as human.,166  INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-436,JAKE ALIEN,   Earth?,166  INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-437,SISKO,   This... this is what my planet looks    like...,166  INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-438,SISKO,   You and I are very different species.     It will take time for us to understand    one another.,166  INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-439,JAKE ALIEN,   Time.  What is this?  Time...,166  INT. MONASTERY - DAY,MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+430,JENNIFER ALIEN,       It is corporeal... a physical    entity...,163  EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+431,SISKO,   What... what did you say...,163  EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+432,PICARD ALIEN,   It is responding to visual and    auditory stimuli... linguistic    communication...,165  INT. ENTERPRISE OBSERVATION LOUNGE - PICARD,ENTERPRISE OBSERVATION LOUNG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+433,SISKO,"   Yes, linguistic communication...     are you capable of communicating    with me?",165  INT. ENTERPRISE OBSERVATION LOUNGE - PICARD,ENTERPRISE OBSERVATION LOUNG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+434,KAI OPAKA ALIEN,   What are you?,166  INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+435,SISKO,   My species is known as human.,166  INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+436,JAKE ALIEN,   Earth?,166  INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+437,SISKO,   This... this is what my planet looks    like...,166  INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+438,SISKO,   You and I are very different species.     It will take time for us to understand    one another.,166  INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+439,JAKE ALIEN,   Time.  What is this?  Time...,166  INT. MONASTERY - DAY,MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 440,DAX,   It's not an ordinary wormhole.   My analysis suggests it isn't even    a natural phenomenon...,173  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 441,BASHIR,   Not natural... you mean it was ,173  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 442,DAX,       It's very possible that whoever made    the orbs also created this wormhole.,173  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -465,11 +465,11 @@
 463,ODO,"   Major, I was found in the Denorios    Belt.  I don't know where I came    from... no idea if there are any others    like me.",174  INT. CORRIDOR,CORRIDOR,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 464,ODO,"   All my life, I've been forced to    pass myself off as one of you...     always wondering who I really am.   The answers to a lot of my    questions may be somewhere on the    other side of that wormhole.",174  INT. CORRIDOR,CORRIDOR,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 465,ODO,   You coming?,174  INT. CORRIDOR,CORRIDOR,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-466,ECU OF PICARD,   as we saw him in Act Two... but it    is an alien Picard...,177  INT. ENTERPRISE OBSERVATION LOUNGE - SUBJECTIVE POV -,ENTERPRISE OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-467,PICARD ALIEN,   The creature must be destroyed before    it destroys us.,177  INT. ENTERPRISE OBSERVATION LOUNGE - SUBJECTIVE POV -,ENTERPRISE OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-468,LOCUTUS ALIEN,   It is malevolent.,178  INT. SARATOGA BRIDGE - VIEWSCREEN - SUBJECTIVE POV -,SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-469,BASEBALL PLAYER,"   in a batter's box, dressed in a    Chicago Cubs uniform of the early    1920s...",179  EXT. BASEBALL FIELD - SUBJECTIVE POV - DAY -,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-470,BATTER ALIEN,   Aggressive.  Adversarial.,179  EXT. BASEBALL FIELD - SUBJECTIVE POV - DAY -,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+466,ECU OF PICARD,   as we saw him in Act Two... but it    is an alien Picard...,177  INT. ENTERPRISE OBSERVATION LOUNGE - SUBJECTIVE POV -,ENTERPRISE OBSERVATION LOUNG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+467,PICARD ALIEN,   The creature must be destroyed before    it destroys us.,177  INT. ENTERPRISE OBSERVATION LOUNGE - SUBJECTIVE POV -,ENTERPRISE OBSERVATION LOUNG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+468,LOCUTUS ALIEN,   It is malevolent.,178  INT. SARATOGA BRIDGE - VIEWSCREEN - SUBJECTIVE POV -,SARATOGA BRIDG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+469,BASEBALL PLAYER,"   in a batter's box, dressed in a    Chicago Cubs uniform of the early    1920s...",179  EXT. BASEBALL FIELD - SUBJECTIVE POV - DAY -,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+470,BATTER ALIEN,   Aggressive.  Adversarial.,179  EXT. BASEBALL FIELD - SUBJECTIVE POV - DAY -,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 471,PICARD ALIEN,   It must be destroyed.,180  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 472,SISKO,   I'm not your enemy... I've been sent    here by the people you contacted.,180  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 473,PICARD ALIEN,   Contacted?,180  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -479,22 +479,22 @@
 477,LOCUTUS ALIEN,   Destroy it now...,184  INT. SARATOGA BRIDGE (OPTICAL),SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 478,SISKO,   My species respects life above all    else.  Can you say the same?,184  INT. SARATOGA BRIDGE (OPTICAL),SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 479,SISKO,   I do not understand the threat I    bring to you.  But I am not your    enemy.  Allow me to prove it.,184  INT. SARATOGA BRIDGE (OPTICAL),SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-480,KAI OPAKA ALIEN,   Prove it?,184A INT. CHAMBER BENEATH THE MONASTERY - OPAKA ALIEN,CHAMBER BENEATH THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-481,SISKO,       It can be argued that a human is    ultimately the sum of his experiences.     You obviously have access to mine.,184A INT. CHAMBER BENEATH THE MONASTERY - OPAKA ALIEN,CHAMBER BENEATH THE MONASTERY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-482,JAKE ALIEN,"   ""Experiences"" - what is this?",185  EXT. FISHING POND - DAY,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-483,SISKO,   Memories... events from my past...     like this one...,185  EXT. FISHING POND - DAY,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-484,JAKE ALIEN,   Past?,185  EXT. FISHING POND - DAY,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-485,SISKO,   Things that happened before now...,185  EXT. FISHING POND - DAY,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-486,SISKO,       You have absolutely no idea what I'm    talking about.,185  EXT. FISHING POND - DAY,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-487,JAKE ALIEN,   What comes before now is no different    than what is now...  or what is to    come.  It is one's existence.,185  EXT. FISHING POND - DAY,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-488,SISKO,"    (beginning to     understand)   Then, for you, there is no linear    time...",185  EXT. FISHING POND - DAY,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-489,JENNIFER ALIEN,"   ""Linear time"" - what is this?",186  EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-490,SISKO,"   My species lives in one point in    time.  And once we move beyond that    point, it becomes the past.",186  EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-491,JENNIFER ALIEN,       Does not exist yet?,186  EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-492,SISKO,"   That is the nature of a linear    existence.  And if you examine it    more closely, you will see that you    do not need to fear me.",186  EXT. BEACH - DAY,BEACH,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-493,O'BRIEN,   Dammit!  Computer... analyze subspace    field integrity...,189  INT. OPS - MOVING WITH O'BRIEN,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-494,COMPUTER,   Power frequency imbalance is    preventing field closure...,189  INT. OPS - MOVING WITH O'BRIEN,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-495,O'BRIEN,   Add reactor three to the power grid...,189  INT. OPS - MOVING WITH O'BRIEN,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+480,KAI OPAKA ALIEN,   Prove it?,184A INT. CHAMBER BENEATH THE MONASTERY - OPAKA ALIEN,CHAMBER BENEATH THE MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+481,SISKO,       It can be argued that a human is    ultimately the sum of his experiences.     You obviously have access to mine.,184A INT. CHAMBER BENEATH THE MONASTERY - OPAKA ALIEN,CHAMBER BENEATH THE MONASTER,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+482,JAKE ALIEN,"   ""Experiences"" - what is this?",185  EXT. FISHING POND - DAY,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+483,SISKO,   Memories... events from my past...     like this one...,185  EXT. FISHING POND - DAY,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+484,JAKE ALIEN,   Past?,185  EXT. FISHING POND - DAY,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+485,SISKO,   Things that happened before now...,185  EXT. FISHING POND - DAY,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+486,SISKO,       You have absolutely no idea what I'm    talking about.,185  EXT. FISHING POND - DAY,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+487,JAKE ALIEN,   What comes before now is no different    than what is now...  or what is to    come.  It is one's existence.,185  EXT. FISHING POND - DAY,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+488,SISKO,"    (beginning to     understand)   Then, for you, there is no linear    time...",185  EXT. FISHING POND - DAY,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+489,JENNIFER ALIEN,"   ""Linear time"" - what is this?",186  EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+490,SISKO,"   My species lives in one point in    time.  And once we move beyond that    point, it becomes the past.",186  EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+491,JENNIFER ALIEN,       Does not exist yet?,186  EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+492,SISKO,"   That is the nature of a linear    existence.  And if you examine it    more closely, you will see that you    do not need to fear me.",186  EXT. BEACH - DAY,BEAC,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+493,O'BRIEN,   Dammit!  Computer... analyze subspace    field integrity...,189  INT. OPS - MOVING WITH O'BRIEN,OP,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+494,COMPUTER,   Power frequency imbalance is    preventing field closure...,189  INT. OPS - MOVING WITH O'BRIEN,OP,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+495,O'BRIEN,   Add reactor three to the power grid...,189  INT. OPS - MOVING WITH O'BRIEN,OP,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 496,COMPUTER,   Partial field established.,191  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 497,O'BRIEN,       Partial field.       Is the station's inertial mass low    enough to break orbit?,191  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 498,COMPUTER,   Procedure is not recommended.,191  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -531,27 +531,27 @@
 529,ODO,"       Dukat, you know I won't lie to you...    and I know you probably won't listen    to me... but these people are trying    to save you from a lot of trouble.",199  INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 530,DUKAT,       Really... I suppose you'd also tell    me these are not the lifeforms that    sent the orbs...  or that your    Commander Sisko is not negotiating    for their technology...       Thank you for your concern.  But I    think we'll see for ourselves.,199  INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 531,ODO,   So much for reason...,199  INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-532,JENNIFER ALIEN,       Jennifer.,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-533,SISKO,"   Yes, that was her name.",201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-534,JENNIFER ALIEN,   She is part of your existence.,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-535,SISKO,   She is part of my past.  She's no    longer alive.,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-536,JENNIFER ALIEN,   But she is part of your existence.,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-537,SISKO,"   Yes, she was a most important part    of my existence.  But I lost her    some time ago.",201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-538,JENNIFER ALIEN,"   ""Lost"" - what is this?",201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-539,SISKO,"   In a linear existence, we can't go    back to the past to get something we    left behind... so it's lost...",201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-540,JENNIFER ALIEN,"    (come on, you've got     to be kidding)   It is inconceivable that any species    could exist in such a manner... you    are deceiving us...",201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-541,SISKO,"   No, this is the truth...",201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-542,SISKO,   This day... this park... it was    almost... fifteen years ago.  Far in    the past.  It was a very important    day to me... a day that shaped every    day that followed.,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-543,SISKO #2,       Listen to it...,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-544,JENNIFER,   To what?,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-545,SISKO #2,   The sound of children playing.   What could be more beautiful...,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-546,JENNIFER,   So you like children... ?,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-547,SISKO #2,       That almost sounds like a domestic    inquiry...,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-548,JENNIFER,   I've heard Starfleet officers don't    want families because they complicate    their lives.,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-549,SISKO #2,   Starfleet officers don't often find    mates who want to raise families on    a starship...,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-550,JENNIFER,   That almost sounds like a domestic    inquiry...,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-551,SISKO #2,"    (smiles, the question     in his eyes)   I think it was...",201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-552,SISKO,   Good feelings... happiness...,201  EXT. PARK - DAY,PARK,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+532,JENNIFER ALIEN,       Jennifer.,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+533,SISKO,"   Yes, that was her name.",201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+534,JENNIFER ALIEN,   She is part of your existence.,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+535,SISKO,   She is part of my past.  She's no    longer alive.,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+536,JENNIFER ALIEN,   But she is part of your existence.,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+537,SISKO,"   Yes, she was a most important part    of my existence.  But I lost her    some time ago.",201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+538,JENNIFER ALIEN,"   ""Lost"" - what is this?",201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+539,SISKO,"   In a linear existence, we can't go    back to the past to get something we    left behind... so it's lost...",201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+540,JENNIFER ALIEN,"    (come on, you've got     to be kidding)   It is inconceivable that any species    could exist in such a manner... you    are deceiving us...",201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+541,SISKO,"   No, this is the truth...",201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+542,SISKO,   This day... this park... it was    almost... fifteen years ago.  Far in    the past.  It was a very important    day to me... a day that shaped every    day that followed.,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+543,SISKO #2,       Listen to it...,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+544,JENNIFER,   To what?,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+545,SISKO #2,   The sound of children playing.   What could be more beautiful...,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+546,JENNIFER,   So you like children... ?,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+547,SISKO #2,       That almost sounds like a domestic    inquiry...,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+548,JENNIFER,   I've heard Starfleet officers don't    want families because they complicate    their lives.,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+549,SISKO #2,   Starfleet officers don't often find    mates who want to raise families on    a starship...,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+550,JENNIFER,   That almost sounds like a domestic    inquiry...,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+551,SISKO #2,"    (smiles, the question     in his eyes)   I think it was...",201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+552,SISKO,   Good feelings... happiness...,201  EXT. PARK - DAY,PAR,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 553,DORAN ALIEN,       This is your existence...,206  REVERSE ANGLE - INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 554,SISKO,   Yes.  But... it is difficult to return    here... more difficult than any other    memory...,206  REVERSE ANGLE - INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 555,TACTICAL OFFICER ALIEN,   Why?,206  REVERSE ANGLE - INT. CORRIDOR (OPTICAL),CORRIDOR,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -584,27 +584,27 @@
 582,SISKO,   That's not true.  We're aware that    every choice we make has a    consequence...,226  INT. SARATOGA BRIDGE,SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 583,CAPTAIN OFFICER ALIEN,   But you claim you do not know what    it will be...,226  INT. SARATOGA BRIDGE,SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 584,SISKO,   We don't...,226  INT. SARATOGA BRIDGE,SARATOGA BRIDGE,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-585,JAKE ALIEN,       Then how can you take responsibility    for your actions...,227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-586,SISKO,   We use past experience to help guide    us.,227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-587,SISKO,"       For Jennifer and me, all the    experiences in our lives prepared us    for the day we met on the beach...    helped us recognize that we had a    future together.  When we married,    we accepted all the consequences of    that act, whatever they might be...    including the consequence of you.",227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-588,JAKE ALIEN,   Me?,227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-589,SISKO,"   My son, Jake...",227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING POND,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-590,BOY,"   and Sisko finds himself holding his    child in his hands for the first    time... as a Starfleet doctor and    nurses, all aliens, tend to Jennifer    in bed... who looks up in her post    labor flush...",228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBAY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-591,JENNIFER ALIEN,   The child with Jennifer.,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBAY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-592,SISKO,   Yes.,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBAY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-593,JENNIFER ALIEN,    (beginning to     understand)   Linear... procreation... ?,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBAY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-594,SISKO,       Yes.  Jake is the continuation of    our family...,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBAY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-595,JENNIFER ALIEN,"       ""The sound of children playing.""",228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBAY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-596,BATTER ALIEN,       Aggressive.  Adversarial.,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBAY,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-597,SISKO,       Competition.  For fun.  It's    a game... that Jake and I play...     on the Holodeck... it's called    baseball.,230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-598,JAKE ALIEN,"   ""Baseball"" - what is this?",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-599,SISKO,   I was afraid you'd ask that...,230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-600,SISKO,"   I throw the ball to you... and this    other player stands between us with    a bat, a stick... and he... he tries    to hit the ball in between these two    white lines...",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-601,SISKO,"   The rules aren't important...  what's    important is -- it's linear.     Every time you throw this ball a    hundred different things can happen    in the game... he might swing and    miss, he might hit it...  the point    is you never know...  you try to    anticipate, set a strategy for all    the possibilities as best you can...    but in the end it all comes down to    throwing one pitch after another...    and seeing what happens.  With each    new consequence, the game begins to    take shape...",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-602,BATTER ALIEN,       And you have no idea what that shape    is until it is completed...,230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-603,SISKO,"       That's right.  In fact, the game    wouldn't be worth playing if we knew    what was going to happen.",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-604,JAKE ALIEN,       You value your ignorance of what is    to come?,230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-605,SISKO,"    (acknowledges, driving     home his point)   That may be the most important thing    to understand about humans.   It is the unknown that defines    our existence.  We are constantly    searching... not just for answers    to our questions... but for new    questions.  We are explorers...    we explore our lives day by day...   and we explore the galaxy, trying    to expand the boundaries of our    knowledge.  And that is why I'm    here.  Not to conquer you either    with weapons or with ideas.  But    to co-exist and learn.",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIELD,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+585,JAKE ALIEN,       Then how can you take responsibility    for your actions...,227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+586,SISKO,   We use past experience to help guide    us.,227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+587,SISKO,"       For Jennifer and me, all the    experiences in our lives prepared us    for the day we met on the beach...    helped us recognize that we had a    future together.  When we married,    we accepted all the consequences of    that act, whatever they might be...    including the consequence of you.",227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+588,JAKE ALIEN,   Me?,227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+589,SISKO,"   My son, Jake...",227  EXT. FISHING POND - DAY - JAKE ALIEN,FISHING PON,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+590,BOY,"   and Sisko finds himself holding his    child in his hands for the first    time... as a Starfleet doctor and    nurses, all aliens, tend to Jennifer    in bed... who looks up in her post    labor flush...",228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+591,JENNIFER ALIEN,   The child with Jennifer.,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+592,SISKO,   Yes.,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+593,JENNIFER ALIEN,    (beginning to     understand)   Linear... procreation... ?,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+594,SISKO,       Yes.  Jake is the continuation of    our family...,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+595,JENNIFER ALIEN,"       ""The sound of children playing.""",228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+596,BATTER ALIEN,       Aggressive.  Adversarial.,228  INT. STARSHIP SICKBAY - CLOSEUP ON A NEWBORN BABY,STARSHIP SICKBA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+597,SISKO,       Competition.  For fun.  It's    a game... that Jake and I play...     on the Holodeck... it's called    baseball.,230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+598,JAKE ALIEN,"   ""Baseball"" - what is this?",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+599,SISKO,   I was afraid you'd ask that...,230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+600,SISKO,"   I throw the ball to you... and this    other player stands between us with    a bat, a stick... and he... he tries    to hit the ball in between these two    white lines...",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+601,SISKO,"   The rules aren't important...  what's    important is -- it's linear.     Every time you throw this ball a    hundred different things can happen    in the game... he might swing and    miss, he might hit it...  the point    is you never know...  you try to    anticipate, set a strategy for all    the possibilities as best you can...    but in the end it all comes down to    throwing one pitch after another...    and seeing what happens.  With each    new consequence, the game begins to    take shape...",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+602,BATTER ALIEN,       And you have no idea what that shape    is until it is completed...,230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+603,SISKO,"       That's right.  In fact, the game    wouldn't be worth playing if we knew    what was going to happen.",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+604,JAKE ALIEN,       You value your ignorance of what is    to come?,230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+605,SISKO,"    (acknowledges, driving     home his point)   That may be the most important thing    to understand about humans.   It is the unknown that defines    our existence.  We are constantly    searching... not just for answers    to our questions... but for new    questions.  We are explorers...    we explore our lives day by day...   and we explore the galaxy, trying    to expand the boundaries of our    knowledge.  And that is why I'm    here.  Not to conquer you either    with weapons or with ideas.  But    to co-exist and learn.",230  REVERSE ANGLE - EXT. BASEBALL FIELD - DAY,BASEBALL FIEL,EXT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 606,TACTICAL OFFICER ALIEN,   If all you say is true... why do you    exist here?,234  INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 607,KIRA,"   Mister O'Brien, can you establish a    high energy Thoron field before they    get into sensor range... I don't    want them to be able to scan our    defense systems...",235  INT. OPS - VIEWSCREEN (OPTICAL),OPS - VIEWSCREEN,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 608,O'BRIEN,"   Aye, sir...",235  INT. OPS - VIEWSCREEN (OPTICAL),OPS - VIEWSCREEN,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
@@ -642,26 +642,26 @@
 640,KIRA,"   I assume, Mister O'Brien you would    agree that surrender is not a    preferable option...",B240   INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 641,O'BRIEN,"   You know what they do to their    prisoners, sir...",B240   INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 642,KIRA,"   Did I mention, Doctor, that heroes    often die young?",B240   INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-643,SISKO,   What is the point of bringing me    back again to this?,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-644,JAKE ALIEN,   We do not bring you here.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-645,JENNIFER ALIEN,   You bring us here.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-646,TACTICAL OFFICER ALIEN,   You exist here.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-647,SISKO,   Then give me the power to lead you    somewhere else.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-648,KAI OPAKA ALIEN,   We cannot give you what you deny    yourself...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-649,KAI OPAKA ALIEN,"   Look for solutions from within,    Commander...",240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-650,SISKO #2 ,   Just help me get her free...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-651,TACTICAL OFFICER,   She's gone... there's nothing we can    do...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-652,COMPUTER,   Warning.  Damage to warp core.   Containment failure in two    minutes...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-653,SISKO #2,"   You go ahead, Lieutenant.  Take the    boy.",240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-654,JENNIFER ALIEN,   The termination of their linear   existence.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-655,TACTICAL OFFICER,"   Now, sir...",240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-656,SISKO #2,   Dammit... we can't leave her here...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-657,SISKO,"       I don't know if you can understand.     I see her like this every time I    close my eyes... in the darkness in    the blink of an eye, she's there...    like this...",240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-658,JENNIFER ALIEN,   None of your past experiences helped    prepare you for this consequence...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-659,SISKO,       And I've never figured out how to    live without her.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-660,JENNIFER ALIEN,   So you choose to exist here.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-661,JENNIFER ALIEN,   It is not linear.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
-662,SISKO,   No.  It's not... linear.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOGA,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+643,SISKO,   What is the point of bringing me    back again to this?,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+644,JAKE ALIEN,   We do not bring you here.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+645,JENNIFER ALIEN,   You bring us here.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+646,TACTICAL OFFICER ALIEN,   You exist here.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+647,SISKO,   Then give me the power to lead you    somewhere else.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+648,KAI OPAKA ALIEN,   We cannot give you what you deny    yourself...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+649,KAI OPAKA ALIEN,"   Look for solutions from within,    Commander...",240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+650,SISKO #2 ,   Just help me get her free...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+651,TACTICAL OFFICER,   She's gone... there's nothing we can    do...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+652,COMPUTER,   Warning.  Damage to warp core.   Containment failure in two    minutes...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+653,SISKO #2,"   You go ahead, Lieutenant.  Take the    boy.",240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+654,JENNIFER ALIEN,   The termination of their linear   existence.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+655,TACTICAL OFFICER,"   Now, sir...",240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+656,SISKO #2,   Dammit... we can't leave her here...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+657,SISKO,"       I don't know if you can understand.     I see her like this every time I    close my eyes... in the darkness in    the blink of an eye, she's there...    like this...",240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+658,JENNIFER ALIEN,   None of your past experiences helped    prepare you for this consequence...,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+659,SISKO,       And I've never figured out how to    live without her.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+660,JENNIFER ALIEN,   So you choose to exist here.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+661,JENNIFER ALIEN,   It is not linear.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
+662,SISKO,   No.  It's not... linear.,240  INT. SARATOGA - SISKO'S QUARTERS,SARATOG,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 663,DAX,   Their lead ship is hailing us...,247  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 664,KIRA,"       Are you ready, Mister O'Brien... ?",247  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt
 665,O'BRIEN,"   Yessir... when they penetrate our    Thoron field, it should raise a few    eyebrows over there...",247  INT. OPS,OPS,INT.,#40511-721,1992-08-10,Deep Space Nine,402.txt

@@ -79,66 +79,66 @@
 77,PICARD,   It's a jumble. How can you make   heads or tails of it?,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 78,GEORDI,   I select what I want to see and   disregard the rest.,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 79,PICARD,   How is that possible?,15   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-80,GEORDI,"   How, in a noisy room, can you pick   out one specific voice or sound?",19   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-81,PICARD,   It's something you learn.,19   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-82,GEORDI,   Exactly. It's something I have   learned. Does that make it   clearer?,19   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+80,GEORDI,"   How, in a noisy room, can you pick   out one specific voice or sound?",19   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+81,PICARD,   It's something you learn.,19   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+82,GEORDI,   Exactly. It's something I have   learned. Does that make it   clearer?,19   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 83,PICARD,   Yes. Look over at Data.,20   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 84,PICARD,       There's an aura around Data.,20   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 85,GEORDI,"   Yes, of course. He's an android.",20   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-86,PICARD,"   From the way you say that, you   must think we all see it.",21   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-87,GEORDI,   Don't you?,21   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-88,RIKER,"   Captain - I don't mean to break   this up, but...",21   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-89,PICARD,"   Yes, of course, Number One.   Proceed.",21   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-90,DATA,   I am detecting high levels of   Deuterium gas. Probably coming   from the leakage in the drive   system.,21   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-91,RIKER,   Toxic?,21   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-92,DATA,   Not as yet.,21   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-93,DATA,   The life signs are emanating from   the far side of Engineering.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-94,RIKER,   What's the safest way around?,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-95,DATA,   All routes are equally dangerous.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-96,GEORDI,   Which one is the least dangerous?,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-97,DATA,   There is no significant   difference.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-98,RIKER,   Then steady on.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-99,GEORDI,"   Commander, a fissure is developing   in the bulkhead. The skin of the   ship is losing its integrity.",23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-100,RIKER,   Where? I don't see it.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-101,GEORDI,   There.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+86,PICARD,"   From the way you say that, you   must think we all see it.",21   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+87,GEORDI,   Don't you?,21   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+88,RIKER,"   Captain - I don't mean to break   this up, but...",21   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+89,PICARD,"   Yes, of course, Number One.   Proceed.",21   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+90,DATA,   I am detecting high levels of   Deuterium gas. Probably coming   from the leakage in the drive   system.,21   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+91,RIKER,   Toxic?,21   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+92,DATA,   Not as yet.,21   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+93,DATA,   The life signs are emanating from   the far side of Engineering.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+94,RIKER,   What's the safest way around?,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+95,DATA,   All routes are equally dangerous.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+96,GEORDI,   Which one is the least dangerous?,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+97,DATA,   There is no significant   difference.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+98,RIKER,   Then steady on.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+99,GEORDI,"   Commander, a fissure is developing   in the bulkhead. The skin of the   ship is losing its integrity.",23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+100,RIKER,   Where? I don't see it.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+101,GEORDI,   There.,23   INT. BATRIS - ANOTHER ANGLE - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 102,PICARD,   Step closer.,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 103,PICARD,       It looks to me like a spectrograph   indicating metal fatigue. Is that   how you interpret it?,24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 104,GEORDI,"   Correct, Captain.",24   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-105,RIKER,   How long before the hull ruptures?,25   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-106,GEORDI,   Impossible to be exact. Five   minutes -- probably less.,25   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-107,RIKER,   Come on.,25   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+105,RIKER,   How long before the hull ruptures?,25   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+106,GEORDI,   Impossible to be exact. Five   minutes -- probably less.,25   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+107,RIKER,   Come on.,25   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 108,PICARD,   I've lost the transmission.,25B  INT. MAIN BRIDGE (OPTICAL) (FORMERLY SCENE 35),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 109,GEORDI,   Signal overload. I'm surprised   it lasted this long.,25B  INT. MAIN BRIDGE (OPTICAL) (FORMERLY SCENE 35),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-110,DATA,   The life signs are very strong   now. They are coming from over   there.,28   INT. BATRIS - MAIN ENGINEERING,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-111,RIKER,   Is there any other way around?,28   INT. BATRIS - MAIN ENGINEERING,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-112,DATA,   Negative. This is the only way.   I think the safest way to proceed   is for me to cross alone. The   heat and toxic gases have less   effect on me.,28   INT. BATRIS - MAIN ENGINEERING,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-113,RIKER,   Agreed.,28   INT. BATRIS - MAIN ENGINEERING,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-114,DATA,   I found them. The door to their   compartment is jammed.,34   INT. BATRIS - MAIN ENGINEERING,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-115,DATA,   The control mechanism. It is   inoperative.,36   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-116,RIKER,   This is Commander Riker of the   USS Enterprise. Can you hear me?,36   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-117,DATA,"   I advise against the use of   phasers. The gas buildup is too   great, Commander.",36   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-118,GEORDI,   Yes. A phaser discharge now could   blow us all out of here.,36   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+110,DATA,   The life signs are very strong   now. They are coming from over   there.,28   INT. BATRIS - MAIN ENGINEERING,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+111,RIKER,   Is there any other way around?,28   INT. BATRIS - MAIN ENGINEERING,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+112,DATA,   Negative. This is the only way.   I think the safest way to proceed   is for me to cross alone. The   heat and toxic gases have less   effect on me.,28   INT. BATRIS - MAIN ENGINEERING,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+113,RIKER,   Agreed.,28   INT. BATRIS - MAIN ENGINEERING,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+114,DATA,   I found them. The door to their   compartment is jammed.,34   INT. BATRIS - MAIN ENGINEERING,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+115,DATA,   The control mechanism. It is   inoperative.,36   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+116,RIKER,   This is Commander Riker of the   USS Enterprise. Can you hear me?,36   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+117,DATA,"   I advise against the use of   phasers. The gas buildup is too   great, Commander.",36   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+118,GEORDI,   Yes. A phaser discharge now could   blow us all out of here.,36   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 119,PICARD,   What's going on?,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 120,RIKER,   We are about to force the door.,39   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-121,PICARD,   What is it? What are you seeing?,44   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-122,RIKER,   Klingons.,44   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+121,PICARD,   What is it? What are you seeing?,44   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+122,RIKER,   Klingons.,44   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 123,PICARD,   Klingons.,45   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 124,PICARD,"   Tasha, go to Transporter Room   Three. I want you there when the   away team returns.",46A  INT. MAIN BRIDGE (FORMERLY SCENE 47A),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-125,KORRIS,   I am Korris.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-126,RIKER,   We'll handle the formalities later -   right now we have to get off   this ship. Are there any others   still alive?,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-127,KORRIS,   No.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-128,DATA,   I believe there is a quicker way   out of here.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-129,GEORDI,   Let's go.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-130,RIKER,"   Check him, Data.",47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-131,DATA,   He is alive -- but just barely.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-132,RIKER,   Pick him up and let's get out of   here.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-133,KORRIS,   No. I will carry him.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-134,DATA,   As you wish.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-135,GEORDI,"   We're out of time, Commander -- the   ship's going to blow.",48   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-136,RIKER,"   Transporter Room, have you got   a lock on us?",48   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-137,TASHA,   Not yet. Too much interference.   You have to get farther away from   the Engineering section.,48   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+125,KORRIS,   I am Korris.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+126,RIKER,   We'll handle the formalities later -   right now we have to get off   this ship. Are there any others   still alive?,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+127,KORRIS,   No.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+128,DATA,   I believe there is a quicker way   out of here.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+129,GEORDI,   Let's go.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+130,RIKER,"   Check him, Data.",47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+131,DATA,   He is alive -- but just barely.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+132,RIKER,   Pick him up and let's get out of   here.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+133,KORRIS,   No. I will carry him.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+134,DATA,   As you wish.,47   INT. BATRIS - ENGINEERING COMPARTMENT,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+135,GEORDI,"   We're out of time, Commander -- the   ship's going to blow.",48   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+136,RIKER,"   Transporter Room, have you got   a lock on us?",48   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+137,TASHA,   Not yet. Too much interference.   You have to get farther away from   the Engineering section.,48   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 138,WORF,"   Sir, the Engineering section is   at critical. Destruction of the   Batris is imminent.",49   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-139,RIKER,"   End of the line. Transporter   Room, we've gone as far as we can.   Get us off -- now!",50   INT. BATRIS - CORRIDOR,BATRIS,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+139,RIKER,"   End of the line. Transporter   Room, we've gone as far as we can.   Get us off -- now!",50   INT. BATRIS - CORRIDOR,BATRI,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 140,TASHA,   It's not good. I can't get   locked on.,52   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 141,PICARD,   They're out of options. Do it.,52   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 142,RIKER,"   Bridge, this is Commander Riker.   We are taking the survivors to   Sickbay.",57   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
@@ -280,7 +280,7 @@
 278,TASHA,   The captain wants those two taken   into custody.,81   INT. CORRIDOR,CORRIDOR,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 279,KORRIS,"   Do not let them take us, Worf.   Help us.",81   INT. CORRIDOR,CORRIDOR,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 280,KONMEL,"   Listen to the voice of your blood.   You are not ""of"" these people.",81   INT. CORRIDOR,CORRIDOR,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-281,KORRIS,   Yes. Join us.,81B  INT. CORRIDOR - WORF'S POV,CORRIDOR,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+281,KORRIS,   Yes. Join us.,81B  INT. CORRIDOR - WORF'S POV,CORRIDO,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 282,TASHA,       GO BACK!,82   INT. CORRIDOR,CORRIDOR,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 283,TASHA,   Bridge -- we have a hostage   situation on Deck Seventeen.,82   INT. CORRIDOR,CORRIDOR,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 284,TASHA,"       Bridge, this is Lieutenant Yar   -- disregard. The situation is   under control.",82   INT. CORRIDOR,CORRIDOR,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
@@ -333,9 +333,9 @@
 331,PICARD,"   There will be a slight delay,   Captain. Korris has escaped.",93   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 332,K'NERA,"   He is a trained Klingon warrior,   perhaps more than you can handle.   It is no disgrace to request our   assistance.",93   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 333,PICARD,   I think we can handle the   situation.,93   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-334,TASHA,   Captain. Korris is in Main   Engineering.,94A  INT. MAIN ENGINEERING - ANOTHER ANGLE,MAIN ENGINEERING,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-335,PICARD,   Commander Korris. This is a   futile effort. You cannot win.,95   INT. MAIN ENGINEERING - ANOTHER SECTION,MAIN ENGINEERING,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-336,KORRIS,   I will speak only to my countryman   -- only to Worf.,95   INT. MAIN ENGINEERING - ANOTHER SECTION,MAIN ENGINEERING,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+334,TASHA,   Captain. Korris is in Main   Engineering.,94A  INT. MAIN ENGINEERING - ANOTHER ANGLE,MAIN ENGINEERIN,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+335,PICARD,   Commander Korris. This is a   futile effort. You cannot win.,95   INT. MAIN ENGINEERING - ANOTHER SECTION,MAIN ENGINEERIN,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+336,KORRIS,   I will speak only to my countryman   -- only to Worf.,95   INT. MAIN ENGINEERING - ANOTHER SECTION,MAIN ENGINEERIN,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 337,TASHA,"   Captain, he has a phaser aimed   directly at the Dilithium Crystal   Chamber. At that range, one blast   and...",95A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 338,PICARD,"   I understand, Lieutenant.",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 339,WORF,"   Permission to leave the bridge,   Captain.",97   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
@@ -371,7 +371,7 @@
 369,WORF,   Put down the phaser.,99   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 370,KORRIS,   Living among these humans has   sucked the Klingon heart out of   you. You are a sham. My words   were dust upon the ground. Your   blood has no fire -- you are weak   -- like them. I don't care what   you look like -- you are no   Klingon.,99   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 371,WORF,   Perhaps not.,99   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
-372,PICARD,   Wait.,"102  INT. MAIN ENGINEERING - PICARD, TASHA, SECURITY",MAIN ENGINEERING,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
+372,PICARD,   Wait.,"102  INT. MAIN ENGINEERING - PICARD, TASHA, SECURITY",MAIN ENGINEERIN,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 373,PICARD,   Open hailing frequencies.,108  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 374,GEORDI,   Hailing frequencies open.,108  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt
 375,PICARD,"   Commander K'Nera, this is Captain   Picard.",108  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Heart Of Glory,1988-01-13,The Next Generation,120.txt

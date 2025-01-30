@@ -1,5 +1,5 @@
 ,character,quote,scene,location,view,episode,date,series,file
-0,PICARD ,"   Captain's log, stardate 41463.9.   We are mapping the Pleiades   Cluster which has many young   planets and we've been asked by   the Federation to visit a group   terraforming Velara III, which   we would very much like to see.   Communications have been erratic   and there is some concern about   their welfare.",1    EXT. SPACE - THE ENTERPRISE - VELARA III IN B.G.,SPACE,EXT.,Home Soil,1987-12-02,The Next Generation,117.txt
+0,PICARD ,"   Captain's log, stardate 41463.9.   We are mapping the Pleiades   Cluster which has many young   planets and we've been asked by   the Federation to visit a group   terraforming Velara III, which   we would very much like to see.   Communications have been erratic   and there is some concern about   their welfare.",1    EXT. SPACE - THE ENTERPRISE - VELARA III IN B.G.,SPAC,EXT.,Home Soil,1987-12-02,The Next Generation,117.txt
 1,GEORDI,   Entering standard orbit -- now.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 2,PICARD,   It takes special people to live   in such desolation.,2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 3,TROI,"   Visionaries, who don't see this   planet as it is, but as it will   be.",2    INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
@@ -79,16 +79,16 @@
 77,TROI,       Commander... !,9    INT. TERRAFORMING BASE (OPTICAL),TERRAFORMING BASE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 78,RIKER,"   What is it, Deanna?",9    INT. TERRAFORMING BASE (OPTICAL),TERRAFORMING BASE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 79,TROI,       Malencon. He's in trouble.,9    INT. TERRAFORMING BASE (OPTICAL),TERRAFORMING BASE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-80,RIKER,   Can you open it?,20   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-81,MANDL,   It's jammed.,20   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-82,TASHA,   Let me try.,20   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-83,TROI,   We're too late.,20   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+80,RIKER,   Can you open it?,20   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+81,MANDL,   It's jammed.,20   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+82,TASHA,   Let me try.,20   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+83,TROI,   We're too late.,20   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 84,PICARD ,"   Captain's log, supplemental. What   began as a routine visit to the   Federation group terraforming   Velara III has become a serious   situation. Arthur Malencon, the   hydraulics engineer, has been   killed in an extraordinary   accident.",23   EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,Home Soil,1987-12-02,The Next Generation,117.txt
-85,PICARD,"   Situation report, Number One.",24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BASE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-86,RIKER,"    (tense, trying to save     a life)   For safety reasons, we're shutting   off all power to the hydraulics   room before entering to recover   the body. Then we'll beam him   up to Sickbay, but from the look   of his wounds, it's probably   hopeless.",24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BASE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-87,PICARD,   Keep me informed.,24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BASE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-88,GEORDI,   Data... ?,24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BASE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-89,DATA,"   Go ahead, Geordi.",24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BASE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+85,PICARD,"   Situation report, Number One.",24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BAS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+86,RIKER,"    (tense, trying to save     a life)   For safety reasons, we're shutting   off all power to the hydraulics   room before entering to recover   the body. Then we'll beam him   up to Sickbay, but from the look   of his wounds, it's probably   hopeless.",24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BAS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+87,PICARD,   Keep me informed.,24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BAS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+88,GEORDI,   Data... ?,24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BAS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+89,DATA,"   Go ahead, Geordi.",24   INT. TERRAFORMING BASE - HYDRAULICS ROOM,TERRAFORMING BAS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 90,BENSEN,   All set.,25   INT. MAIN CONTROL ROOM/HYDRAULICS ROOM,MAIN CONTROL ROOM/HYDRAULICS ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 91,GEORDI,   We have your section powered down   now. Bensen has locked the master   servomotor drive system. It   should be safe in there now.,25   INT. MAIN CONTROL ROOM/HYDRAULICS ROOM,MAIN CONTROL ROOM/HYDRAULICS ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 92,TASHA,   I'm going in.,25   INT. MAIN CONTROL ROOM/HYDRAULICS ROOM,MAIN CONTROL ROOM/HYDRAULICS ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
@@ -109,44 +109,44 @@
 107,GEORDI,"   Data, what's happening?",30   INT. MAIN CONTROL ROOM,MAIN CONTROL ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 108,DATA,   Too much to explain.,30   INT. MAIN CONTROL ROOM,MAIN CONTROL ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 109,GEORDI,   La Forge to Enterprise. We have   a problem!,32   INT. CORRIDOR,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-110,GEORDI,   Open the door!,33   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-111,DATA,   STAY OUT! It is under control.,33   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-112,GEORDI,   Data --,33   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-113,GEORDI,   Are you injured?,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-114,DATA,   No.,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-115,BENSEN,   A year's work destroyed!,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-116,DATA,   I had no choice.,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-117,PICARD,   Away team report now! What is   happening?,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-118,DATA,       ... We were attempting to trace   the source of the malfunction when   it attacked me.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-119,MANDL,   How much more of this fantasy must   I listen to?,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-120,PICARD,"   None at all, Mr. Mandl. Until   this is sorted out, I've provided   temporary quarters for you and   your crew. I suggest you use   them.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-121,MANDL,"   You're overstepping your   authority, Picard! You have no   right to interfere.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-122,PICARD,"   An attack on one of my crew gives   me the right, Mr. Mandl.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-123,MANDL,   I have a schedule to meet!,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-124,PICARD,"   Your schedule is on hold, until   I have a satisfactory explanation   of what happened.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-125,PICARD,       Director Mandl. Wait.       Escort the director to his   quarters.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-126,TASHA,"   Aye, sir.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-127,PICARD,   Proceed with your report.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-128,DATA,"   It would appear that the laser   drilling systems had been   reprogrammed.       As soon as its memory bank   received power, it turned itself   on and went after me.   Fortunately, I was able to cope   with it.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-129,GEORDI,"       Not by much, from what I saw.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-130,DATA,   I believe it was programmed to   destroy any person moving in that   room.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-131,PICARD,   Speculation or certainty?,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-132,DATA,   Certainty.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-133,GEORDI,   It would have required the talents   of a master programmer.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-134,DATA,   But it was done.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-135,PICARD,"   Then the question is not who,   because obviously it was one of   the three remaining terraformers.   The question is why. What are   they hiding? What is so important   it could make one of them, or all   of them desperate enough to take   a life?",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-136,GEORDI,"   Shall I have them brought in, sir?",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-137,PICARD,   Not yet.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-138,PICARD,   Doctor Crusher?,36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-139,BEVERLY,"   Malencon never had a chance.   The injuries were too severe, the   damage too extensive.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-140,RIKER,"   The entire Velara III facility   has been powered down, Captain.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-141,WORF,   We've just completed a remote   power feed to the life support   systems.,36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-142,PICARD,"   Good. Data, I want you and Geordi   to return for a more careful   inspection.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-143,DATA,"   What are we to look for, sir?",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-144,PICARD,"   Evidence of tampering, negligence,   sabotage... whatever. I don't   know, but the answer's there, on   the planet.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-145,PICARD,"       Tasha, I'd like you to provide   Counselor Troi and me with   complete personnel files on our   three guests. Psych profiles,   training, everything. I'm looking   for motive, intent... the   psychological capacity to commit   one murder and attempt another.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-146,TASHA,"   Aye, sir.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-147,PICARD,"       It seems we've become policemen,   Number One.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+110,GEORDI,   Open the door!,33   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+111,DATA,   STAY OUT! It is under control.,33   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+112,GEORDI,   Data --,33   INT. CORRIDOR - OUTSIDE HYDRAULICS ROOM,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+113,GEORDI,   Are you injured?,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+114,DATA,   No.,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+115,BENSEN,   A year's work destroyed!,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+116,DATA,   I had no choice.,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+117,PICARD,   Away team report now! What is   happening?,34   INT. CORRIDOR - HYDRAULICS ROOM DOOR,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+118,DATA,       ... We were attempting to trace   the source of the malfunction when   it attacked me.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+119,MANDL,   How much more of this fantasy must   I listen to?,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+120,PICARD,"   None at all, Mr. Mandl. Until   this is sorted out, I've provided   temporary quarters for you and   your crew. I suggest you use   them.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+121,MANDL,"   You're overstepping your   authority, Picard! You have no   right to interfere.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+122,PICARD,"   An attack on one of my crew gives   me the right, Mr. Mandl.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+123,MANDL,   I have a schedule to meet!,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+124,PICARD,"   Your schedule is on hold, until   I have a satisfactory explanation   of what happened.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+125,PICARD,       Director Mandl. Wait.       Escort the director to his   quarters.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+126,TASHA,"   Aye, sir.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+127,PICARD,   Proceed with your report.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+128,DATA,"   It would appear that the laser   drilling systems had been   reprogrammed.       As soon as its memory bank   received power, it turned itself   on and went after me.   Fortunately, I was able to cope   with it.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+129,GEORDI,"       Not by much, from what I saw.",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+130,DATA,   I believe it was programmed to   destroy any person moving in that   room.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+131,PICARD,   Speculation or certainty?,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+132,DATA,   Certainty.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+133,GEORDI,   It would have required the talents   of a master programmer.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+134,DATA,   But it was done.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+135,PICARD,"   Then the question is not who,   because obviously it was one of   the three remaining terraformers.   The question is why. What are   they hiding? What is so important   it could make one of them, or all   of them desperate enough to take   a life?",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+136,GEORDI,"   Shall I have them brought in, sir?",35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+137,PICARD,   Not yet.,35   INT. ENTERPRISE - CAPTAIN'S READY ROOM,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+138,PICARD,   Doctor Crusher?,36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+139,BEVERLY,"   Malencon never had a chance.   The injuries were too severe, the   damage too extensive.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+140,RIKER,"   The entire Velara III facility   has been powered down, Captain.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+141,WORF,   We've just completed a remote   power feed to the life support   systems.,36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+142,PICARD,"   Good. Data, I want you and Geordi   to return for a more careful   inspection.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+143,DATA,"   What are we to look for, sir?",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+144,PICARD,"   Evidence of tampering, negligence,   sabotage... whatever. I don't   know, but the answer's there, on   the planet.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+145,PICARD,"       Tasha, I'd like you to provide   Counselor Troi and me with   complete personnel files on our   three guests. Psych profiles,   training, everything. I'm looking   for motive, intent... the   psychological capacity to commit   one murder and attempt another.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+146,TASHA,"   Aye, sir.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+147,PICARD,"       It seems we've become policemen,   Number One.",36   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 148,DATA,   Geordi. I need some visual   assistance.,37   INT. HYDRAULICS ROOM (OPTICAL),HYDRAULICS ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 149,GEORDI,   What is it?,37   INT. HYDRAULICS ROOM (OPTICAL),HYDRAULICS ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 150,GEORDI,       Inorganic. Nothing but basic   elements. No carbon... sandy   texture... But the flashes are   almost... musical. I see color   variations and rhythms which are   like a melody.,37   INT. HYDRAULICS ROOM (OPTICAL),HYDRAULICS ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
@@ -154,25 +154,25 @@
 152,GEORDI,   How could it be alive? It's   inorganic.,37   INT. HYDRAULICS ROOM (OPTICAL),HYDRAULICS ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 153,DATA,"   Whatever this is, it could be   what they are covering up -- and   the reason someone killed   Malencon.",37   INT. HYDRAULICS ROOM (OPTICAL),HYDRAULICS ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 154,PICARD ,"   Captain's log, supplemental. On   my order, Data's startling   discovery of a possible indigenous   and inorganic life-form --   something hitherto thought   impossible...",43   EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,Home Soil,1987-12-02,The Next Generation,117.txt
-155,PICARD ,       ... has been beamed aboard so that   its true nature might be   uncovered.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-156,BEVERLY,       Activate.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-157,BEVERLY,       Let's be sure of what we have   here.       Is the sample organic?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-158,COMPUTER,   Negative carbon. Negative known   life components. Substance   inorganic.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-159,DATA,   Recheck analysis.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-160,COMPUTER,   Rechecking... Analysis verified.   Not organic.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-161,BEVERLY,   Magnify to screen.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-162,BEVERLY,       Magnify -- factor rate five.       Hold surface. Rate ten.       Hold.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-163,PICARD ,   What are we looking at?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-164,WESLEY ,   It's really beautiful. Whatever   it is...,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-165,PICARD,       What's causing that hum?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-166,BEVERLY,"   Computer, what is the magnification?",44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-167,COMPUTER,   Twenty five thousand diameters   and holding.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-168,BEVERLY,   Analysis. The pattern of the   flashes.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-169,COMPUTER,   Not random or repetitive or   sequential. Pattern not   recognized.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-170,BEVERLY,   What is the source of the flashes?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-171,COMPUTER,   Unable to specify. Theoretically   not possible from this substance.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-172,BEVERLY,   Disregard incongruity and theorize   as to source?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-173,COMPUTER,   Life.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+155,PICARD ,       ... has been beamed aboard so that   its true nature might be   uncovered.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+156,BEVERLY,       Activate.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+157,BEVERLY,       Let's be sure of what we have   here.       Is the sample organic?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+158,COMPUTER,   Negative carbon. Negative known   life components. Substance   inorganic.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+159,DATA,   Recheck analysis.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+160,COMPUTER,   Rechecking... Analysis verified.   Not organic.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+161,BEVERLY,   Magnify to screen.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+162,BEVERLY,       Magnify -- factor rate five.       Hold surface. Rate ten.       Hold.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+163,PICARD ,   What are we looking at?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+164,WESLEY ,   It's really beautiful. Whatever   it is...,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+165,PICARD,       What's causing that hum?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+166,BEVERLY,"   Computer, what is the magnification?",44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+167,COMPUTER,   Twenty five thousand diameters   and holding.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+168,BEVERLY,   Analysis. The pattern of the   flashes.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+169,COMPUTER,   Not random or repetitive or   sequential. Pattern not   recognized.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+170,BEVERLY,   What is the source of the flashes?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+171,COMPUTER,   Unable to specify. Theoretically   not possible from this substance.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+172,BEVERLY,   Disregard incongruity and theorize   as to source?,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+173,COMPUTER,   Life.,44   INT. ENTERPRISE - MEDICAL LAB,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 174,MANDL,   What do you mean a life-form?!   What life-form?! A Federation   recon expedition certified Velara   III lifeless.,49   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 175,PICARD,"   Understandable, given this   particular life-form's novel   nature.",49   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 176,MANDL,   And just what is that nature?,49   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
@@ -223,21 +223,21 @@
 221,BEVERLY,   Evacuating lab.,52   INT. MEDICAL LAB,MEDICAL LAB,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 222,COMPUTER,   Full shield backup in place but   weakening... translation grhjkj   wljkdh...,52   INT. MEDICAL LAB,MEDICAL LAB,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 223,WESLEY,   What's going on with the   translator circuit?,52   INT. MEDICAL LAB,MEDICAL LAB,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-224,PICARD,"       bridge, this is the captain.   Request emergency power to   increase lab quarantine seal...",61   INT. CORRIDOR - MEDICAL LAB DOOR,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-225,RIKER,"   Do it, Mister Worf.       What's the nature of the problem,   Captain? We've lost visual.",62   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-226,PICARD,"   We have confirmed Data's discovery   is life, but more than that - it   is intelligent.",62   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-227,RIKER,   How do you know?,62   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-228,PICARD,       It has just taken possession of   the Medical Lab.,62   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-229,PICARD,   Because it's trying to communicate   with us!,62A  INT. CORRIDOR - MEDICAL LAB DOOR,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+224,PICARD,"       bridge, this is the captain.   Request emergency power to   increase lab quarantine seal...",61   INT. CORRIDOR - MEDICAL LAB DOOR,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+225,RIKER,"   Do it, Mister Worf.       What's the nature of the problem,   Captain? We've lost visual.",62   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+226,PICARD,"   We have confirmed Data's discovery   is life, but more than that - it   is intelligent.",62   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+227,RIKER,   How do you know?,62   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+228,PICARD,       It has just taken possession of   the Medical Lab.,62   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+229,PICARD,   Because it's trying to communicate   with us!,62A  INT. CORRIDOR - MEDICAL LAB DOOR,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 230,PICARD ,"   Captain's log, supplemental. We   are attempting to deal with the   aggressive inorganic life-form   which Data brought up from the   planet. It has taken over the   Medical Lab, and is apparently   attempting to communicate with   us.",63   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Home Soil,1987-12-02,The Next Generation,117.txt
-231,WORF,   It generates enough energy to   interfere with surrounding   systems.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-232,PICARD,   Mr. La Forge -- can we see into   the lab yet?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-233,GEORDI,"   Negative, Captain. But, reducing   backup to the quarantine seal   might help.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-234,PICARD,       Doctor?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-235,BEVERLY,   I wouldn't.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-236,PICARD,"   Continue backup to shield,   Lieutenant.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-237,TASHA,   Director Mandl and the others are   in the Observation Lounge as you   requested.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-238,PICARD,"   Counselor, I'll need you.       You have the bridge, Number One.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+231,WORF,   It generates enough energy to   interfere with surrounding   systems.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+232,PICARD,   Mr. La Forge -- can we see into   the lab yet?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+233,GEORDI,"   Negative, Captain. But, reducing   backup to the quarantine seal   might help.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+234,PICARD,       Doctor?,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+235,BEVERLY,   I wouldn't.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+236,PICARD,"   Continue backup to shield,   Lieutenant.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+237,TASHA,   Director Mandl and the others are   in the Observation Lounge as you   requested.,64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+238,PICARD,"   Counselor, I'll need you.       You have the bridge, Number One.",64   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 239,PICARD,       What do you know of this   life-form?,65   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 240,MANDL,   Nothing.,65   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 241,PICARD,   You knew of its existence.,65   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
@@ -254,43 +254,43 @@
 252,BENSEN,"   ... There were patterns, in the   sand, appearing and disappearing --",65   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 253,RIKER,"   Captain, we've regained a visual   on the lab.",65   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 254,PICARD,       Patch visual to Observation   Lounge...,65   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-255,WORF,   I cannot understand the patterns.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-256,GEORDI,   Neither can I.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-257,DATA,   Please show me the spectral analysis.   Magnification twelve K.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-258,WORF,   But is it alive?!,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-259,COMPUTER,   Probability positive...,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-260,WORF,       I wasn't asking you.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-261,FEMALE COM,   Engineering to bridge.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-262,RIKER,"   This is Commander Riker, go ahead.",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-263,FEMALE COM,"   The backup on the lab seal is   fluctuating, sir. I think you   should come down here.",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-264,RIKER,"   On my way.       Data, you have the bridge. Inform   the captain.",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-265,RIKER,"   Status, Ensign?",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-266,ENGINEER,   The quarantine seal is getting   weaker. Every time I try to   redirect backup... it goes   somewhere else.       I think I've... it's... locked   three people in a turbolift and   two more in the programmers' rest   room.,69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-267,RIKER,"       If that's reading right, there is   no seal.       Give me a lab interior image.",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-268,RIKER ,   Magnify.,69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-269,RIKER,"   Captain, this is Riker.",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-270,PICARD,"   We see it too, Number One.",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-271,PICARD,       Get that seal back up!,69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-272,ENGINEER,"       No matter what I do, the energy   goes somewhere else. What if it   hits the Nursery... Or Sickbay... ?",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-273,RIKER,"       Hold off.       Impossible, Captain. We haven't   got the power.",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERING,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-274,DATA,   The Universal Translator is   coming on line.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-275,TRANSLATOR,   Ugly... Ugly... Giants... Bags   of Mostly Water...,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-276,PICARD,   Bags of mostly water?,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-277,DATA,"   An accurate description, sir, of   humans. You are, after all, over   ninety per cent water, surrounded   by a flexible container.",75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-278,PICARD,       Do you understand me?,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-279,TRANSLATOR,   We understand. We ask you be gone...   We call... We talk... You not listen.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-280,PICARD,   We didn't hear you. We come in   peace.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-281,TRANSLATOR,   Ugly Bag of Mostly Water... we try   at peace... you still not listen.       Bag in Dome on Sand of Home...   we killed.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-282,RIKER,   It killed Malencon.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-283,TROI,       We see and hear you now. We   didn't know you were there. You   are beautiful to us. All life is   beautiful.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-284,TRANSLATOR,   Bag in dome did know. Made some   of us die. Made us kill. War is   now with you.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-285,PICARD,   Can you hear me?,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-286,PICARD,       Duty stations! Report!,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-287,GEORDI,"       Restabilizing, sir.",75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-288,DATA,   Sir...,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-289,PICARD,"   What is it, Data?",75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-290,DATA,"   That chaos in the lab, when we   were studying it... must have   been the energy surge of a   reproductive cycle.       It is now a colony of single cells   which organize as a computer.",75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-291,PICARD,       More is stronger.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRISE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+255,WORF,   I cannot understand the patterns.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+256,GEORDI,   Neither can I.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+257,DATA,   Please show me the spectral analysis.   Magnification twelve K.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+258,WORF,   But is it alive?!,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+259,COMPUTER,   Probability positive...,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+260,WORF,       I wasn't asking you.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+261,FEMALE COM,   Engineering to bridge.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+262,RIKER,"   This is Commander Riker, go ahead.",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+263,FEMALE COM,"   The backup on the lab seal is   fluctuating, sir. I think you   should come down here.",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+264,RIKER,"   On my way.       Data, you have the bridge. Inform   the captain.",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+265,RIKER,"   Status, Ensign?",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+266,ENGINEER,   The quarantine seal is getting   weaker. Every time I try to   redirect backup... it goes   somewhere else.       I think I've... it's... locked   three people in a turbolift and   two more in the programmers' rest   room.,69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+267,RIKER,"       If that's reading right, there is   no seal.       Give me a lab interior image.",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+268,RIKER ,   Magnify.,69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+269,RIKER,"   Captain, this is Riker.",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+270,PICARD,"   We see it too, Number One.",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+271,PICARD,       Get that seal back up!,69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+272,ENGINEER,"       No matter what I do, the energy   goes somewhere else. What if it   hits the Nursery... Or Sickbay... ?",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+273,RIKER,"       Hold off.       Impossible, Captain. We haven't   got the power.",69   INT. ENGINEERING - COMPUTER CONSOLE,ENGINEERIN,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+274,DATA,   The Universal Translator is   coming on line.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+275,TRANSLATOR,   Ugly... Ugly... Giants... Bags   of Mostly Water...,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+276,PICARD,   Bags of mostly water?,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+277,DATA,"   An accurate description, sir, of   humans. You are, after all, over   ninety per cent water, surrounded   by a flexible container.",75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+278,PICARD,       Do you understand me?,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+279,TRANSLATOR,   We understand. We ask you be gone...   We call... We talk... You not listen.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+280,PICARD,   We didn't hear you. We come in   peace.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+281,TRANSLATOR,   Ugly Bag of Mostly Water... we try   at peace... you still not listen.       Bag in Dome on Sand of Home...   we killed.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+282,RIKER,   It killed Malencon.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+283,TROI,       We see and hear you now. We   didn't know you were there. You   are beautiful to us. All life is   beautiful.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+284,TRANSLATOR,   Bag in dome did know. Made some   of us die. Made us kill. War is   now with you.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+285,PICARD,   Can you hear me?,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+286,PICARD,       Duty stations! Report!,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+287,GEORDI,"       Restabilizing, sir.",75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+288,DATA,   Sir...,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+289,PICARD,"   What is it, Data?",75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+290,DATA,"   That chaos in the lab, when we   were studying it... must have   been the energy surge of a   reproductive cycle.       It is now a colony of single cells   which organize as a computer.",75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+291,PICARD,       More is stronger.,75   INT. ENTERPRISE - MAIN BRIDGE - ANGLES,ENTERPRIS,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 292,PICARD ,"   Captain's log, supplemental.   We've stumbled on a life-form...",79   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Home Soil,1987-12-02,The Next Generation,117.txt
 293,PICARD ,"       ... biologically and   psychologically difficult for   us to fully understand.       The only thing totally clear is   that this microbrain, as we've   come to call it, has declared war   on us.",80   INT. MEDICAL LAB,MEDICAL LAB,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 294,RIKER,"   Their range of influence appears   to be concentrated in the Medical   Lab, Captain.",81   INT. MAIN BRIDGE - ANGLES (FORMERLY SCENE 83),MAIN BRIDGE - ANGLES,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
@@ -313,29 +313,29 @@
 311,PICARD,   Life-form or not... intelligent   or not -- the safety of this ship   and all on her are my primary   responsibility.       Data -- evacuate the air from the   Medical Lab. I want a vacuum in   there.,81   INT. MAIN BRIDGE - ANGLES (FORMERLY SCENE 83),MAIN BRIDGE - ANGLES,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 312,DATA,"   Environmental systems fail to   respond to commands, Captain.   It appears the microbrain has   successfully interfaced with our   computer.",81   INT. MAIN BRIDGE - ANGLES (FORMERLY SCENE 83),MAIN BRIDGE - ANGLES,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 313,PICARD,   Suggestions?       Anyone?,81   INT. MAIN BRIDGE - ANGLES (FORMERLY SCENE 83),MAIN BRIDGE - ANGLES,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-314,PICARD,   I need your help. We have   communicated with the life-form   discovered on Velara III.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-315,MANDL,   You have what?!,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-316,PICARD,"   It has told us that it attempted   to communicate with you, and you   ignored it.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-317,MANDL,"   If it was trying to communicate   with us, we didn't understand   that.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-318,BENSEN,   We didn't try.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-319,PICARD,   What you were doing was so   threatening to them that they   killed your hydraulics engineer   to stop it. They have declared   a state of war.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-320,MANDL,   A state of war?!,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-321,PICARD,"   Yes, and we're on the defensive.   I need your help. I have to find   some way to fight them. We no   longer have control of the Medical   Lab, or the computer. At this   moment they have the power to   destroy this ship and everyone   on it.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-322,MANDL,   Unbelievable. What can we do   to help?,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-323,PICARD,   They said you killed some of them.   I need to know how.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-324,MANDL,   I -- I don't know.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-325,PICARD,   Exactly what was Malencon doing   when he was killed?,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-326,LUISA,   There is a very thin layer of   highly saline water under the   sandy topsoil. He was siphoning   that off.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-327,PICARD,   Why would that kill some of them?,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-328,BEVERLY,"   Liquid supports life. Perhaps   somehow, that saline water   sustained them.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-329,DATA,   It connected them.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-330,LUISA,   I don't understand.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-331,BEVERLY,   The microbrains are like our brain   cells. Individually a cell has   life -- but not intelligence -- yet   when interconnected their combined   intelligence is formidable.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-332,LUISA,   So that saline fluid is their   circuitry.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-333,PICARD,"   And to prevent its loss, they   killed Malencon.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-334,LUISA,       If we had continued to remove the   water... we would have destroyed   them all.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-335,PICARD,   Reason enough for anyone to go   to war.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-336,RIKER,   Captain -- it's happening again!,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+314,PICARD,   I need your help. We have   communicated with the life-form   discovered on Velara III.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+315,MANDL,   You have what?!,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+316,PICARD,"   It has told us that it attempted   to communicate with you, and you   ignored it.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+317,MANDL,"   If it was trying to communicate   with us, we didn't understand   that.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+318,BENSEN,   We didn't try.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+319,PICARD,   What you were doing was so   threatening to them that they   killed your hydraulics engineer   to stop it. They have declared   a state of war.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+320,MANDL,   A state of war?!,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+321,PICARD,"   Yes, and we're on the defensive.   I need your help. I have to find   some way to fight them. We no   longer have control of the Medical   Lab, or the computer. At this   moment they have the power to   destroy this ship and everyone   on it.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+322,MANDL,   Unbelievable. What can we do   to help?,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+323,PICARD,   They said you killed some of them.   I need to know how.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+324,MANDL,   I -- I don't know.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+325,PICARD,   Exactly what was Malencon doing   when he was killed?,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+326,LUISA,   There is a very thin layer of   highly saline water under the   sandy topsoil. He was siphoning   that off.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+327,PICARD,   Why would that kill some of them?,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+328,BEVERLY,"   Liquid supports life. Perhaps   somehow, that saline water   sustained them.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+329,DATA,   It connected them.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+330,LUISA,   I don't understand.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+331,BEVERLY,   The microbrains are like our brain   cells. Individually a cell has   life -- but not intelligence -- yet   when interconnected their combined   intelligence is formidable.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+332,LUISA,   So that saline fluid is their   circuitry.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+333,PICARD,"   And to prevent its loss, they   killed Malencon.",88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+334,LUISA,       If we had continued to remove the   water... we would have destroyed   them all.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+335,PICARD,   Reason enough for anyone to go   to war.,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+336,RIKER,   Captain -- it's happening again!,88A  INT. OBSERVATION LOUNGE - ESTABLISHING,OBSERVATION LOUNG,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 337,RIKER,"   If this keeps up, that thing will   tear the Enterprise apart!",89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 338,DATA,"   Captain -- sensors indicate the   microbrain expends a tremendous   amount of energy during its   reproduction cycle. Yet, there   is no discernible power drain from   our own systems.",89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 339,PICARD,   Then what's feeding the damn   thing!?,89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
@@ -347,7 +347,7 @@
 345,PICARD,   Number One...,89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 346,RIKER,   On my way.,89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 347,LUISA,       The creatures must have evolved   at that narrow layer where the   light got through the sand to the   water... Drop the water a   centimeter below the light   penetration level and they starve.,89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
-348,RIKER,       Kill lab lights -- now!,90   INT. CORRIDOR - OUTSIDE MEDICAL LAB,CORRIDOR,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
+348,RIKER,       Kill lab lights -- now!,90   INT. CORRIDOR - OUTSIDE MEDICAL LAB,CORRIDO,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 349,TASHA,   It's slowing down.,92   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 350,GEORDI ,"   Getting dimmer, too.",92   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt
 351,TRANSLATOR,   We copy fine now... more light   please...,92   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Home Soil,1987-12-02,The Next Generation,117.txt

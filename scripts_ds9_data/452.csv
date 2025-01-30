@@ -62,12 +62,12 @@
 60,DAX,   I was talking about an orphanage...,4    INT. INFIRMARY,INFIRMARY,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 61,SISKO,   Oh.  Right.       Have Major Kira make the appropriate    arrangements.       And keep me informed about... him.,4    INT. INFIRMARY,INFIRMARY,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 62,BASHIR,"   Yes, sir.",4    INT. INFIRMARY,INFIRMARY,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-63,SISKO,   What?,7    INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-64,DAX,   I haven't seen that look on your    face since...,7    INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-65,SISKO,   ... since Jake stopped wearing diapers.,7    INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-66,SISKO,       I never thought I'd hear myself saying    this... but I miss taking care of    Jake when he was a baby.  I miss    holding him... singing to him at    night... feeding him...,7    INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-67,DAX,   Listening to him cry... changing his    diapers... worrying when he was    sick...,7    INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-68,SISKO,   I haven't forgotten...       But there are times when I would    give almost anything for the days    when I could make Jake happy... just    by lifting him over my head.,7    INT. PROMENADE - CONTINUOUS,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+63,SISKO,   What?,7    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+64,DAX,   I haven't seen that look on your    face since...,7    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+65,SISKO,   ... since Jake stopped wearing diapers.,7    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+66,SISKO,       I never thought I'd hear myself saying    this... but I miss taking care of    Jake when he was a baby.  I miss    holding him... singing to him at    night... feeding him...,7    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+67,DAX,   Listening to him cry... changing his    diapers... worrying when he was    sick...,7    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+68,SISKO,   I haven't forgotten...       But there are times when I would    give almost anything for the days    when I could make Jake happy... just    by lifting him over my head.,7    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 69,SISKO,   Jake... how about a hug for your old    man?,8    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 70,JAKE,   Why didn't you tell me you were going    to invite Mardah to dinner?,8    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 71,SISKO,"   I did.  Weeks ago.  I told you if    you didn't invite her soon, I'd do    it myself.",8    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
@@ -145,8 +145,8 @@
 143,BASHIR,   I've been trying and I think I've    found a temporary substitute... but    what I can't understand is why anyone    would genetically engineer someone    to have a such an obvious flaw.,18   INT. REPLIMAT,REPLIMAT,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 144,NURSE,"       Nurse Hortak to Doctor Bashir.  You're    needed in the Infirmary immediately,    Doctor.",18   INT. REPLIMAT,REPLIMAT,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 145,BASHIR,       On my way.,18   INT. REPLIMAT,REPLIMAT,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-146,BASHIR,   It's all right... no one's going to    hurt you... let's just go back inside    and--,19   INT. PROMENADE - OUTSIDE INFIRMARY,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-147,DAX,       Security to the Promenade.,19   INT. PROMENADE - OUTSIDE INFIRMARY,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+146,BASHIR,   It's all right... no one's going to    hurt you... let's just go back inside    and--,19   INT. PROMENADE - OUTSIDE INFIRMARY,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+147,DAX,       Security to the Promenade.,19   INT. PROMENADE - OUTSIDE INFIRMARY,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 148,ODO,   Stop!  Stay where you are!,20   INT. PROMENADE - OUTSIDE SECURITY OFFICE (OPTICAL),PROMENADE - OUTSIDE SECURITY OFFICE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 149,DAX,       Dax to Sisko.,20   INT. PROMENADE - OUTSIDE SECURITY OFFICE (OPTICAL),PROMENADE - OUTSIDE SECURITY OFFICE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 150,SISKO,   Go ahead.,20   INT. PROMENADE - OUTSIDE SECURITY OFFICE (OPTICAL),PROMENADE - OUTSIDE SECURITY OFFICE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
@@ -304,17 +304,17 @@
 302,ODO,"   I'm well aware of the risk, Major.",33   INT. CORRIDOR OUTSIDE HOLOSUITE,CORRIDOR OUTSIDE HOLOSUITE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 303,KIRA,   I hope so.,33   INT. CORRIDOR OUTSIDE HOLOSUITE,CORRIDOR OUTSIDE HOLOSUITE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 304,ODO,   End program.,34   INT. HOLOSUITE - CONTINUOUS (OPTICAL),HOLOSUITE - CONTINUOUS,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-305,TEENAGER,   Everyone keeps looking at me...    they're afraid of me.,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-306,ODO,   They're mostly curious... but they're    also afraid.,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-307,TEENAGER,       They should be... I could kill any    of them.,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-308,ODO,       Is that all you can think about?     Killing?  Isn't there anything else    that you care about?,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-309,TEENAGER,   I... I don't think so.,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-310,ODO,       But there's so much more to life    than that... there's so much for you    to discover... to experience...,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-311,TEENAGER,   Maybe there is for you... and maybe    there is for all these other people...    but for me...,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-312,SISKO,   Sisko to Odo.,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-313,ODO,"       Go ahead, Commander.",36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-314,SISKO,"   I need to see you in my office,    Constable.",36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-315,ODO,       On my way.       Wait for me in our quarters.,36   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+305,TEENAGER,   Everyone keeps looking at me...    they're afraid of me.,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+306,ODO,   They're mostly curious... but they're    also afraid.,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+307,TEENAGER,       They should be... I could kill any    of them.,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+308,ODO,       Is that all you can think about?     Killing?  Isn't there anything else    that you care about?,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+309,TEENAGER,   I... I don't think so.,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+310,ODO,       But there's so much more to life    than that... there's so much for you    to discover... to experience...,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+311,TEENAGER,   Maybe there is for you... and maybe    there is for all these other people...    but for me...,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+312,SISKO,   Sisko to Odo.,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+313,ODO,"       Go ahead, Commander.",36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+314,SISKO,"   I need to see you in my office,    Constable.",36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+315,ODO,       On my way.       Wait for me in our quarters.,36   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 316,ODO,   Something's wrong...,37   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 317,SISKO,   Starfleet is sending the USS    Constellation to pick up the boy and    take him to Starbase Two-Oh-One.     They'll be here in five hours.,37   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 318,ODO,   I thought we had an agreement.,37   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
@@ -354,12 +354,12 @@
 352,ODO,   Commander Sisko was trying to do    what was best for you... he was trying    to help.,40   INT. CORRIDOR - NEAR AIRLOCK (OPTICAL),CORRIDOR - NEAR AIRLOCK,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 353,TEENAGER,   He's not my friend.  He's my enemy.     I know now anyone who is not a    Jem'Hadar is my enemy.,40   INT. CORRIDOR - NEAR AIRLOCK (OPTICAL),CORRIDOR - NEAR AIRLOCK,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
 354,ODO,   Does that include me?,40   INT. CORRIDOR - NEAR AIRLOCK (OPTICAL),CORRIDOR - NEAR AIRLOCK,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-355,O'BRIEN,   ... so I think we can have the upper    sensor grid back on-line before    morning.,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-356,SISKO,   Good.  We're going to need it in the    next few days.,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-357,O'BRIEN,   I thought you were going to lower    the boom on the two of them.,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-358,SISKO,   I was but... dinner turned up some    things I didn't expect...,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-359,O'BRIEN,       Got to know her a little better...    decided that you liked her after    all...,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-360,SISKO,   I actually got to know Jake a little    better.       Have you ever played dom-jot with    him?,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-361,O'BRIEN,   No.,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-362,SISKO,   Don't.,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
-363,ODO,       Major... about the boy... You were    right.,42   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+355,O'BRIEN,   ... so I think we can have the upper    sensor grid back on-line before    morning.,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+356,SISKO,   Good.  We're going to need it in the    next few days.,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+357,O'BRIEN,   I thought you were going to lower    the boom on the two of them.,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+358,SISKO,   I was but... dinner turned up some    things I didn't expect...,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+359,O'BRIEN,       Got to know her a little better...    decided that you liked her after    all...,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+360,SISKO,   I actually got to know Jake a little    better.       Have you ever played dom-jot with    him?,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+361,O'BRIEN,   No.,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+362,SISKO,   Don't.,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt
+363,ODO,       Major... about the boy... You were    right.,42   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Abandoned,1994-08-30,Deep Space Nine,452.txt

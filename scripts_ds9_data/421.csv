@@ -186,18 +186,18 @@
 184,DAX,       Yes?,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 185,SISKO,   You're sure Curzon didn't love    baseball.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 186,DAX,       Positive.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-187,SISKO,"   Chief, Major Kira needs a runabout...",15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-188,O'BRIEN,"       Then she will be going to Cardassia    Four, after all.",15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-189,SISKO,       How do you know about Cardassia Four?,15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-190,O'BRIEN,   She told me all about it.,15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-191,SISKO,   Is there anyone on this station she    didn't tell?,15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-192,O'BRIEN,   I doubt she mentioned it to Quark.,15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-193,SISKO,"   Well then, as far as Quark's    concerned, she's going to Lamenda    Prime to bring back mineral samples.",15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-194,O'BRIEN,"   Very good, sir.",15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-195,SISKO,"   Now, is there any way we can prevent    the Cardassian sensors from picking    up the runabout's signature?",15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-196,O'BRIEN,"   I could modulate the engine's power    emissions, reconfigure the deflector    shield grid, and install field buffers    around the subspace emitter coil.     By the time I'm done, the Cardies    will think they're reading a Lissepian    transport.",15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-197,SISKO,   I see you've already given this a    bit of thought.,15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-198,O'BRIEN,       I suppose I have at that.,15   INT. OPS - CONTINUOUS,OPS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+187,SISKO,"   Chief, Major Kira needs a runabout...",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+188,O'BRIEN,"       Then she will be going to Cardassia    Four, after all.",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+189,SISKO,       How do you know about Cardassia Four?,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+190,O'BRIEN,   She told me all about it.,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+191,SISKO,   Is there anyone on this station she    didn't tell?,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+192,O'BRIEN,   I doubt she mentioned it to Quark.,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+193,SISKO,"   Well then, as far as Quark's    concerned, she's going to Lamenda    Prime to bring back mineral samples.",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+194,O'BRIEN,"   Very good, sir.",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+195,SISKO,"   Now, is there any way we can prevent    the Cardassian sensors from picking    up the runabout's signature?",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+196,O'BRIEN,"   I could modulate the engine's power    emissions, reconfigure the deflector    shield grid, and install field buffers    around the subspace emitter coil.     By the time I'm done, the Cardies    will think they're reading a Lissepian    transport.",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+197,SISKO,   I see you've already given this a    bit of thought.,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+198,O'BRIEN,       I suppose I have at that.,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 199,KIRA,   Come in.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 200,KIRA,   Commander... Chief... I was just    getting ready to leave.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 201,SISKO,   I just stopped by to wish you luck.       And to let you know that Chief O'Brien    will be accompanying you on your    mission.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
@@ -209,49 +209,49 @@
 207,KIRA,"   If the Cardassians get their hands    on us, we'll be the ones suffering.",18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 208,O'BRIEN,   They'll have to catch us first.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 209,KIRA,       I suppose I could use the company.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-210,KIRA,"   You have the controls, Chief.",19   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-211,O'BRIEN,   Right.,19   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-212,KIRA,"   Before we go, there's just one thing    we need to clear up between us.",19   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-213,O'BRIEN,   And what would that be?,19   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-214,KIRA,   This mission can end only one of two    ways.  Either we bring back Li    Nalas... or we don't come back at    all.,19   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-215,O'BRIEN,       Understood.,19   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-216,KIRA,"   Then take us out of here, Mister    O'Brien.",19   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-217,O'BRIEN,       Initializing launch sequence.,19   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-218,KIRA,   How long until we reach Cardassia    Four?,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-219,O'BRIEN,   I'd estimate another thirty minutes.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-220,KIRA,       Hold on... We're being scanned.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-221,O'BRIEN,   Can you get a fix on the source?,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-222,KIRA,       It's position is holding steady at    bearing two-one-nine mark two-three.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-223,O'BRIEN,   It must be a navigational control    post.  It's probably just a routine    scan.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-224,KIRA,   We're being hailed.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-225,O'BRIEN,   On the other hand we could be in    serious trouble.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-226,KIRA,   They're repeating the hail.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-227,O'BRIEN,   We're on the edge of their scanner    range.  That puts us out of visual    contact.  I say we try and bluff    'em.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-228,KIRA,    ,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-229,CARDASSIAN ,   This is Cardassian Navigational    Control Post Twenty-Four.  Identify    yourself.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-230,KIRA,   This is the Lissepian transport    Martuk.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-231,CARDASSIAN ,   According to our scan your subspace    field emitters appear to be    malfunctioning.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-232,O'BRIEN,   The field buffers must be distorting    our power signature.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-233,KIRA,       We've been having trouble with our    phase modulators.  We're attempting    to correct the problem.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-234,CARDASSIAN ,   Do you require assistance?  We can    dispatch a repair ship.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-235,O'BRIEN,   Bloody hell.  They want to help us.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-236,KIRA,"       Your offer is most appreciated, Post    Twenty-Four.  But unnecessary.",21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-237,CARDASSIAN ,   Are you certain?  Your power signature    is still fluctuating.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-238,O'BRIEN,       He's getting suspicious.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-239,KIRA,"       I believe we can correct the problem    on our own.  Besides, Gul Marayn is    waiting on Cardassia Four to receive    my shipment of Rulot seeds.  Any    delay could ruin the entire crop...    and the Gul's mood.",21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-240,CARDASSIAN ,   Understood.  You can put in for    repairs after you deliver your cargo.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-241,KIRA,   My plan exactly.       They've broken off their transmission.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-242,O'BRIEN,"   Tell me, Major, who's this Gul Marayn.",21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-243,KIRA,   Don't ask me.  I just made him up.,21   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-244,O'BRIEN,   We're in synchronous orbit above the    Hutet Labor camp.,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-245,O'BRIEN,   I've limited the bio-scan to detect    only Bajoran lifeforms.,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-246,O'BRIEN,       Hold on.  I'm getting multiple    readings.  There must be about a    dozen Bajoran prisoners down there.,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-247,KIRA,   Is there any way to beam up more    than two at a time?,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-248,O'BRIEN,   I'm afraid not.  And as soon as we    beam up the first two all hell's    gonna break loose in that camp.,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-249,KIRA,   And there's no guarantee that Li    will be one of the first two.       What's security like down there?,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-250,O'BRIEN,   The compound's surrounded by a    standard Cardassian forcefield.,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-251,KIRA,   We'll have to land.  It's our only    chance of getting them all out of    there.,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-252,O'BRIEN,   I'll find us a secluded spot to put    down.,23   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+210,KIRA,"   You have the controls, Chief.",19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+211,O'BRIEN,   Right.,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+212,KIRA,"   Before we go, there's just one thing    we need to clear up between us.",19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+213,O'BRIEN,   And what would that be?,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+214,KIRA,   This mission can end only one of two    ways.  Either we bring back Li    Nalas... or we don't come back at    all.,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+215,O'BRIEN,       Understood.,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+216,KIRA,"   Then take us out of here, Mister    O'Brien.",19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+217,O'BRIEN,       Initializing launch sequence.,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+218,KIRA,   How long until we reach Cardassia    Four?,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+219,O'BRIEN,   I'd estimate another thirty minutes.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+220,KIRA,       Hold on... We're being scanned.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+221,O'BRIEN,   Can you get a fix on the source?,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+222,KIRA,       It's position is holding steady at    bearing two-one-nine mark two-three.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+223,O'BRIEN,   It must be a navigational control    post.  It's probably just a routine    scan.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+224,KIRA,   We're being hailed.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+225,O'BRIEN,   On the other hand we could be in    serious trouble.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+226,KIRA,   They're repeating the hail.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+227,O'BRIEN,   We're on the edge of their scanner    range.  That puts us out of visual    contact.  I say we try and bluff    'em.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+228,KIRA,    ,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+229,CARDASSIAN ,   This is Cardassian Navigational    Control Post Twenty-Four.  Identify    yourself.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+230,KIRA,   This is the Lissepian transport    Martuk.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+231,CARDASSIAN ,   According to our scan your subspace    field emitters appear to be    malfunctioning.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+232,O'BRIEN,   The field buffers must be distorting    our power signature.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+233,KIRA,       We've been having trouble with our    phase modulators.  We're attempting    to correct the problem.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+234,CARDASSIAN ,   Do you require assistance?  We can    dispatch a repair ship.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+235,O'BRIEN,   Bloody hell.  They want to help us.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+236,KIRA,"       Your offer is most appreciated, Post    Twenty-Four.  But unnecessary.",21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+237,CARDASSIAN ,   Are you certain?  Your power signature    is still fluctuating.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+238,O'BRIEN,       He's getting suspicious.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+239,KIRA,"       I believe we can correct the problem    on our own.  Besides, Gul Marayn is    waiting on Cardassia Four to receive    my shipment of Rulot seeds.  Any    delay could ruin the entire crop...    and the Gul's mood.",21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+240,CARDASSIAN ,   Understood.  You can put in for    repairs after you deliver your cargo.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+241,KIRA,   My plan exactly.       They've broken off their transmission.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+242,O'BRIEN,"   Tell me, Major, who's this Gul Marayn.",21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+243,KIRA,   Don't ask me.  I just made him up.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+244,O'BRIEN,   We're in synchronous orbit above the    Hutet Labor camp.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+245,O'BRIEN,   I've limited the bio-scan to detect    only Bajoran lifeforms.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+246,O'BRIEN,       Hold on.  I'm getting multiple    readings.  There must be about a    dozen Bajoran prisoners down there.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+247,KIRA,   Is there any way to beam up more    than two at a time?,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+248,O'BRIEN,   I'm afraid not.  And as soon as we    beam up the first two all hell's    gonna break loose in that camp.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+249,KIRA,   And there's no guarantee that Li    will be one of the first two.       What's security like down there?,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+250,O'BRIEN,   The compound's surrounded by a    standard Cardassian forcefield.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+251,KIRA,   We'll have to land.  It's our only    chance of getting them all out of    there.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+252,O'BRIEN,   I'll find us a secluded spot to put    down.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 253,KIRA,       How do I look?,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 254,O'BRIEN,   I doubt there's a Cardassian alive    who could resist you.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 255,KIRA,   I hope you're right.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
@@ -290,14 +290,14 @@
 288,BORUM,"       Don't you see, we did this for you.       Get him back safely.  That's all    that matters.",24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 289,KIRA,   You have my word.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 290,BORUM,   Then go.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-291,O'BRIEN,"   Ready to launch, Major.",42   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-292,KIRA,   Not yet.  Some of the others still    might make it.,42   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-293,O'BRIEN,   Standing by.,42   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-294,O'BRIEN,"   I'm picking up two Galor class     warships entering orbit.  They    should be overhead in one minute,    forty-five seconds.",42   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-295,LI,"   Major, you can't leave those men    behind.",42   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-296,O'BRIEN,"   One minute, thirty seconds.  If we    don't leave now, Major, we never    will.",42   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-297,KIRA,"   Take us home, Chief.",42   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-298,O'BRIEN,"   Yes, sir.",42   INT. RUNABOUT - RIO GRANDE,RUNABOUT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+291,O'BRIEN,"   Ready to launch, Major.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+292,KIRA,   Not yet.  Some of the others still    might make it.,42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+293,O'BRIEN,   Standing by.,42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+294,O'BRIEN,"   I'm picking up two Galor class     warships entering orbit.  They    should be overhead in one minute,    forty-five seconds.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+295,LI,"   Major, you can't leave those men    behind.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+296,O'BRIEN,"   One minute, thirty seconds.  If we    don't leave now, Major, we never    will.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+297,KIRA,"   Take us home, Chief.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+298,O'BRIEN,"   Yes, sir.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 299,KIRA,"   Careful, watch your step.",44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 300,BASHIR,"   Easy now, I have you.",44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 301,KIRA,   He took a phaser hit.,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
@@ -360,21 +360,21 @@
 358,JARO,       I'm sure you would.  And though    officially I have to warn you that    the next time you disobey orders    will mean the end of your military    service... as a private citizen... I    want to thank you for what you've    done this day.,54   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 359,KIRA,       That's nice to hear.,54   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 360,JARO,"   Now, take me to see Li Nalas.",54   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-361,ODO,"   Let's move back, please.  No more    pushing.",55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-362,LI,"   I'm sorry about this, Commander.",55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-363,SISKO,       I don't think they're going to leave    until you say a few words.,55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-364,ODO,   I agree.,55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-365,LI,    (wishing there was     some other way)   If that's what it takes...,55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-366,LI,   It's good to be free.,55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-367,LI,       It's good to know that Bajor is    free.,55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-368,JARO,"   Yes, it is good to be free.",55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-369,JARO,"   It really is you, isn't it.",55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-370,LI,       I'm Li Nalas.,55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-371,JARO,   I'm Minister Jaro Essa and it's a    great pleasure to welcome you home.,55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-372,LI,"   Believe me, it's a pleasure to be    here.",55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-373,JARO,"       I hope you won't mind if I address    the crowd.  After all, you can't    expect a politician to pass up an    opportunity like this...",55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-374,LI,   Go right ahead...,55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
-375,JARO,"   Fellow Bajorans, I have only one    thing to say to you today... To ask    of you, really... Never forget this    moment.  Because I promise you that    years from now your children and    your grandchildren will want to know    what it was like the day Li Nalas    returned to Bajor.",55   INT. PROMENADE - THE REPLIMAT,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+361,ODO,"   Let's move back, please.  No more    pushing.",55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+362,LI,"   I'm sorry about this, Commander.",55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+363,SISKO,       I don't think they're going to leave    until you say a few words.,55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+364,ODO,   I agree.,55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+365,LI,    (wishing there was     some other way)   If that's what it takes...,55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+366,LI,   It's good to be free.,55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+367,LI,       It's good to know that Bajor is    free.,55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+368,JARO,"   Yes, it is good to be free.",55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+369,JARO,"   It really is you, isn't it.",55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+370,LI,       I'm Li Nalas.,55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+371,JARO,   I'm Minister Jaro Essa and it's a    great pleasure to welcome you home.,55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+372,LI,"   Believe me, it's a pleasure to be    here.",55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+373,JARO,"       I hope you won't mind if I address    the crowd.  After all, you can't    expect a politician to pass up an    opportunity like this...",55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+374,LI,   Go right ahead...,55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
+375,JARO,"   Fellow Bajorans, I have only one    thing to say to you today... To ask    of you, really... Never forget this    moment.  Because I promise you that    years from now your children and    your grandchildren will want to know    what it was like the day Li Nalas    returned to Bajor.",55   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 376,SISKO,   I hope you'll find these quarters    satisfactory.,58   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 377,LI,"   Commander, I just spent ten years in    a Cardassian labor camp.  I'm just    happy to have a moment's privacy.",58   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt
 378,SISKO,"   Enjoy it while you can.  Judging    from the crowd on the Promenade, a    moment is all you're going to get.",58   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt

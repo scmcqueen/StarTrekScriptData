@@ -1,19 +1,19 @@
 ,character,quote,scene,location,view,episode,date,series,file
-0,GEORDI,   Commander?,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-1,RIKER ,"   I'm over here, Geordi.",2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-2,GEORDI,   What's wrong?,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-3,RIKER,   Something jabbed me in the   calf...,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-4,GEORDI,    (touches his     communicator)   O'Brien -- Commander Riker's been   injured -- lock on and bring him   up.,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-5,O'BRIEN,   Stand by.,2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-6,RIKER,"   Geordi, it's just --",2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-7,GEORDI,"       A scratch. Right. Sorry,   Commander, but we can't take any   chances. We're the first survey   team to set foot on this planet...   we don't know what the risks are.",2    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-8,GEORDI,"   What's the hold up, O'Brien?",5    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+0,GEORDI,   Commander?,2    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+1,RIKER ,"   I'm over here, Geordi.",2    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+2,GEORDI,   What's wrong?,2    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+3,RIKER,   Something jabbed me in the   calf...,2    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+4,GEORDI,    (touches his     communicator)   O'Brien -- Commander Riker's been   injured -- lock on and bring him   up.,2    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+5,O'BRIEN,   Stand by.,2    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+6,RIKER,"   Geordi, it's just --",2    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+7,GEORDI,"       A scratch. Right. Sorry,   Commander, but we can't take any   chances. We're the first survey   team to set foot on this planet...   we don't know what the risks are.",2    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+8,GEORDI,"   What's the hold up, O'Brien?",5    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 9,O'BRIEN,   The transporter has detected   unidentified microbes in   Commander Riker's body.,6    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 10,GEORDI,   Can't the biofilters screen them   out?,6    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 11,O'BRIEN,   Apparently not.,6    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-12,O'BRIEN,   Doctor Pulaski has been notified.,7    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-13,GEORDI,   Acknowledged.,7    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-14,RIKER,"   I didn't want to leave just yet,   anyway.",7    EXT. PLANET SURFACE - DAY,PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+12,O'BRIEN,   Doctor Pulaski has been notified.,7    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+13,GEORDI,   Acknowledged.,7    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+14,RIKER,"   I didn't want to leave just yet,   anyway.",7    EXT. PLANET SURFACE - DAY,PLANET SURFAC,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 15,O'BRIEN,   Here's the biofilter's analysis   of the microbes.,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 16,PULASKI,   Not much to go on...,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 17,O'BRIEN,   I can override and beam Commander   Riker aboard...,8    INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
@@ -454,10 +454,10 @@
 452,PICARD,   Is he alive?,111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 453,DATA,   Unknown.,111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 454,RIKER ,   Who are you?,111J EXT. PLANET SURFACE (OPTICAL),PLANET SURFACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-455,PULASKI,   The growth rate's down to seven   percent.,115  INT. SICKBAY - ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-456,PULASKI ,"   But the organisms are still   impairing his neural functions.   Respiration is erratic, pulse   grossly irregular, blood pressure   almost nil.",115  INT. SICKBAY - ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-457,PULASKI ,   Tricordrazine.,115  INT. SICKBAY - ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-458,TROI,   Can we tighten the pattern   further?,115  INT. SICKBAY - ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+455,PULASKI,   The growth rate's down to seven   percent.,115  INT. SICKBAY - ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+456,PULASKI ,"   But the organisms are still   impairing his neural functions.   Respiration is erratic, pulse   grossly irregular, blood pressure   almost nil.",115  INT. SICKBAY - ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+457,PULASKI ,   Tricordrazine.,115  INT. SICKBAY - ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+458,TROI,   Can we tighten the pattern   further?,115  INT. SICKBAY - ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 459,COMPUTER,"   Recognize Picard, Jean-Luc,   Captain...       Recognize Riker, William T.,   Commander.",117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 460,PICARD,   Set auto-destruct sequence.,117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 461,COMPUTER,   Does the first officer concur?,117A INT. ENGINEERING (STOCK FROM #116 SCENE 70),ENGINEERING,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
@@ -485,46 +485,46 @@
 483,RIKER,   Pick him up and let's get out of   here.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 484,KORRIS,   No. I will carry him.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 485,DATA,   As you wish.,"117F INT. BATRIS - ENGINEERING (STOCK, #120 SC. 47-56)",BATRIS - ENGINEERING,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-486,GEORDI,"   We're out of time, Commander --   the ship's going to blow.",	INT. BATRIS - CORRIDOR,BATRIS,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-487,RIKER,"   Transporter Room, have you got   a lock on us?",	INT. BATRIS - CORRIDOR,BATRIS,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-488,TASHA,   Not yet. Too much interference.   You have to get farther away from   the Engineering section.,	INT. BATRIS - CORRIDOR,BATRIS,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-489,RIKER,"   End of the line. Transporter   Room, we've gone as far as we can.   Get us off -- now!",	INT. BATRIS - CORRIDOR,BATRIS,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+486,GEORDI,"   We're out of time, Commander --   the ship's going to blow.",	INT. BATRIS - CORRIDOR,BATRI,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+487,RIKER,"   Transporter Room, have you got   a lock on us?",	INT. BATRIS - CORRIDOR,BATRI,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+488,TASHA,   Not yet. Too much interference.   You have to get farther away from   the Engineering section.,	INT. BATRIS - CORRIDOR,BATRI,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+489,RIKER,"   End of the line. Transporter   Room, we've gone as far as we can.   Get us off -- now!",	INT. BATRIS - CORRIDOR,BATRI,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 490,RIKER,"   Ship's log, First Officer Riker.   The star has begun disintegrating.   Enterprise will be destroyed   unless it can be moved out of the   path of the star material   hurtling...","117G EXT. SPACE (STOCK, #103 SC. 108-130)",SPACE,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 491,RIKER,"       ... toward us. Our only hope is   for Lieutenant Commander Data in   the time we have left, to regain   his senses and reconnect engine   power to the bridge.",	EXT. SPACE - EXPLODED MASS OF MATERIAL (OPTICAL),SPACE - EXPLODED MASS OF MATERIAL,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-492,WESLEY,"   Hi, Mister Data.",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-493,DATA,"   Nice to see you, Wesley. What... ?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-494,RIKER,"    (overlapping; urgently     indicating)   Data! We need the engines on-line   in a hurry, remember?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-495,WESLEY,"   Oh yes, I remember too.       So, Data, if you don't mind...",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-496,RIKER,"       We've no time for courtesy!       Get those damned control chips   back in place, Data! In the   correct order!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-497,RIKER,       NOW!,	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-498,WESLEY,"       It's like a game of ""how fast can   you do it?""",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-499,DATA,"   Ah, a game!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-500,WESLEY,"   I think I can switch this to the   Main Viewer, sir...",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-501,RIKER,"   We've got eight or nine minutes,   at most, Data. Can you finish   by then?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-502,DATA,"   No. This will take slightly more   time than we have, sir.",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-503,RIKER,"   Dammit, NO! I can't afford to   get it!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+492,WESLEY,"   Hi, Mister Data.",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+493,DATA,"   Nice to see you, Wesley. What... ?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+494,RIKER,"    (overlapping; urgently     indicating)   Data! We need the engines on-line   in a hurry, remember?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+495,WESLEY,"   Oh yes, I remember too.       So, Data, if you don't mind...",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+496,RIKER,"       We've no time for courtesy!       Get those damned control chips   back in place, Data! In the   correct order!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+497,RIKER,       NOW!,	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+498,WESLEY,"       It's like a game of ""how fast can   you do it?""",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+499,DATA,"   Ah, a game!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+500,WESLEY,"   I think I can switch this to the   Main Viewer, sir...",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+501,RIKER,"   We've got eight or nine minutes,   at most, Data. Can you finish   by then?",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+502,DATA,"   No. This will take slightly more   time than we have, sir.",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+503,RIKER,"   Dammit, NO! I can't afford to   get it!",	INT. ENGINEER'S OFFICE - ON MACDOUGAL,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 504,DATA,"   If we had just a minute more,   sir...",	EXT. SPACE - MASS OF MATERIAL FROM STAR (OPTICAL),SPACE - MASS OF MATERIAL FROM STAR,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 505,RIKER,"   We didn't make it, Captain. If   we had just a minute or so more...",	EXT. SPACE - MASS OF MATERIAL FROM STAR (OPTICAL),SPACE - MASS OF MATERIAL FROM STAR,EXT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-506,WESLEY,"   Yes, then reversing power leads,   back through the force   activator... repulser beam hard   against the Tsiolkovsky...",	INT. ENGINEER'S OFFICE - ON WESLEY,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-507,RIKER,   We're pushing away!,	INT. ENGINEER'S OFFICE - WIDE ANGLE,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-508,RIKER,"    (continuing; into     communicator)   Bridge, engage engines!",	INT. ENGINEER'S OFFICE - WIDE ANGLE,ENGINEER'S OFFICE,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+506,WESLEY,"   Yes, then reversing power leads,   back through the force   activator... repulser beam hard   against the Tsiolkovsky...",	INT. ENGINEER'S OFFICE - ON WESLEY,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+507,RIKER,   We're pushing away!,	INT. ENGINEER'S OFFICE - WIDE ANGLE,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+508,RIKER,"    (continuing; into     communicator)   Bridge, engage engines!",	INT. ENGINEER'S OFFICE - WIDE ANGLE,ENGINEER'S OFFIC,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 509,TROI,       The growth rate's almost zero.,121  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
 510,PULASKI,   That's not good enough.,121  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-511,PULASKI,   Sickbay to bridge.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-512,PICARD,"   Go ahead, Doctor.",124  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-513,PULASKI,   We've eradicated the infection.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-514,PICARD,   I'm on my way.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-515,RIKER,   You still here?,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-516,TROI,       I could ask you the same question.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-517,PULASKI,   How do you feel?,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-518,RIKER,   Beat. You wouldn't believe the   dreams I've been having...,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-519,TROI,"   Yes, we would.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-520,PULASKI,   You'll be pleased to know that   we've terminated the infection.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-521,RIKER,"   Great work, Doctor.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-522,RIKER ,"   Now, if you'll let me get out of   here and back to work...",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-523,PULASKI,   Lie still. I have a few dozen   tests to run first.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-524,RIKER,   Why? I feel fine.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-525,PULASKI,   There may be some residual memory   loss. I just want to make sure   you still know who you are.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-526,RIKER,   Of course I know who I am. I'm   Captain Jean-Luc Picard of the   USS Enterprise.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-527,PICARD,"   Delighted you're feeling better,   Captain.       The admiral and I were worried   about you.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
-528,DATA,"   Sir, I do not believe you have   the authority to promote me to   the rank of admiral.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBAY,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+511,PULASKI,   Sickbay to bridge.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+512,PICARD,"   Go ahead, Doctor.",124  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+513,PULASKI,   We've eradicated the infection.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+514,PICARD,   I'm on my way.,124  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+515,RIKER,   You still here?,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+516,TROI,       I could ask you the same question.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+517,PULASKI,   How do you feel?,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+518,RIKER,   Beat. You wouldn't believe the   dreams I've been having...,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+519,TROI,"   Yes, we would.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+520,PULASKI,   You'll be pleased to know that   we've terminated the infection.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+521,RIKER,"   Great work, Doctor.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+522,RIKER ,"   Now, if you'll let me get out of   here and back to work...",128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+523,PULASKI,   Lie still. I have a few dozen   tests to run first.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+524,RIKER,   Why? I feel fine.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+525,PULASKI,   There may be some residual memory   loss. I just want to make sure   you still know who you are.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+526,RIKER,   Of course I know who I am. I'm   Captain Jean-Luc Picard of the   USS Enterprise.,128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+527,PICARD,"   Delighted you're feeling better,   Captain.       The admiral and I were worried   about you.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt
+528,DATA,"   Sir, I do not believe you have   the authority to promote me to   the rank of admiral.",128  INT. SICKBAY - CLOSE ON RIKER,SICKBA,INT.,Shades of Gray,1989-05-01,The Next Generation,148.txt

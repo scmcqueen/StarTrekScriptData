@@ -91,12 +91,12 @@
 89,DATA,   The Borg aspire to the perfection   my Brother and I represent: fully   artificial life forms. We are   their future.,14   INT. BORG HALL (OPTICAL),BORG HALL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 90,LORE,"   The reign of biological life forms   is coming to an end. You and   those like you are obsolete,   Picard.",14   INT. BORG HALL (OPTICAL),BORG HALL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 91,LORE,"   Take them, Brother.",14   INT. BORG HALL (OPTICAL),BORG HALL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-92,WORF,       Still no sign of the structure.,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFACE,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-93,RIKER,   With all this interference it   could be a hundred meters away and   we wouldn't know it.       This could take hours.,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFACE,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-94,WORF,   I am detecting a faint energy   reading.,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFACE,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-95,RIKER,   Residual thermal traces... someone   stopped here...,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFACE,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-96,WORF,       The decay rate indicates they were   human...,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFACE,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-97,RIKER,   They followed this path...,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFACE,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+92,WORF,       Still no sign of the structure.,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFAC,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+93,RIKER,   With all this interference it   could be a hundred meters away and   we wouldn't know it.       This could take hours.,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFAC,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+94,WORF,   I am detecting a faint energy   reading.,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFAC,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+95,RIKER,   Residual thermal traces... someone   stopped here...,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFAC,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+96,WORF,       The decay rate indicates they were   human...,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFAC,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+97,RIKER,   They followed this path...,15   EXT. PLANET'S SURFACE - DAY,PLANET'S SURFAC,EXT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 98,PICARD,   You must realize that something   has happened to you. The Data I   know would not be a willing party   to Lore's plan.,16   INT. BORG CELL (OPTICAL),BORG CELL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 99,DATA,"   I now realize that my life aboard   the Enterprise was a waste. My   quest to become human was   misguided, an evolutionary step in   the wrong direction.",16   INT. BORG CELL (OPTICAL),BORG CELL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 100,TROI,"   Data, all I'm sensing from you is   anger... hatred -- have you felt   any other emotions?",16   INT. BORG CELL (OPTICAL),BORG CELL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
@@ -128,14 +128,14 @@
 126,BEVERLY,   How long will we have before they   can detect us and intercept?,18   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 127,TAITT,   If their sensors function as well   as ours -- it could be as little   as thirty seconds.,18   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 128,BEVERLY,       Crusher to Salazar... how long   will it take to get the rest of   the crew off the surface?,18   INT. BRIDGE (OPTICAL),BRIDGE,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-129,SALAZAR,   One minute should do it.,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROOM,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-130,BEVERLY,   We don't have one minute. How   much can you shave off that?,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROOM,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-131,SALAZAR,   If I can get a good lock on them   quickly... I might be able to do   it in forty-five or fifty seconds.,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROOM,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-132,BEVERLY,       We need to buy ourselves fifteen   seconds.       Is there any way we can use the   planet as a barrier... to keep the   Borg from realizing we're in   orbit?,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROOM,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-133,BARNABY,   We can enter orbit while they're   on the far side of the planet.       And if we delayed dropping out of   warp until the last possible   instant -- we could gain a few   more seconds.,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROOM,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-134,TAITT,       If your calculations are even   slightly off... we'd hit the   atmosphere...,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROOM,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-135,BARNABY,   Then I'll have to be sure my   calculations are accurate.,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROOM,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
-136,BEVERLY,"   Let's go for it. Helm, hard   about.",20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROOM,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+129,SALAZAR,   One minute should do it.,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROO,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+130,BEVERLY,   We don't have one minute. How   much can you shave off that?,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROO,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+131,SALAZAR,   If I can get a good lock on them   quickly... I might be able to do   it in forty-five or fifty seconds.,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROO,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+132,BEVERLY,       We need to buy ourselves fifteen   seconds.       Is there any way we can use the   planet as a barrier... to keep the   Borg from realizing we're in   orbit?,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROO,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+133,BARNABY,   We can enter orbit while they're   on the far side of the planet.       And if we delayed dropping out of   warp until the last possible   instant -- we could gain a few   more seconds.,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROO,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+134,TAITT,       If your calculations are even   slightly off... we'd hit the   atmosphere...,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROO,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+135,BARNABY,   Then I'll have to be sure my   calculations are accurate.,20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROO,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
+136,BEVERLY,"   Let's go for it. Helm, hard   about.",20A  INT. TRANSPORTER ROOM - INTERCUT,TRANSPORTER ROO,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 137,LORE,       Brother!,21   INT. BORG HALL (OPTICAL),BORG HALL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 138,DATA,   Here is the VISOR. May I ask why   you wanted it?,21   INT. BORG HALL (OPTICAL),BORG HALL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt
 139,LORE,   I thought it might look good on   me.,21   INT. BORG HALL (OPTICAL),BORG HALL,INT.,"Descent, Part II",1993-06-24,The Next Generation,253.txt

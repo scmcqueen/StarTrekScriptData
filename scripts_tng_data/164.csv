@@ -7,21 +7,21 @@
 5,TROI,   It is very unlike Data to be   secretive.,2    INT. CORRIDOR,CORRIDOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 6,WESLEY,   And cautious. He kept the lab   locked.,2    INT. CORRIDOR,CORRIDOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 7,GEORDI,   Now how would you know that?,2    INT. CORRIDOR,CORRIDOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-8,DATA,"   Oh, you are early. Just a moment   please.",3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-9,DATA,   You may enter now.,3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-10,GEORDI,"   C'mon, Data, what is this...",3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-11,WESLEY,"   Yeah, what's going on?",3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-12,DATA,   I have invited you here to meet   someone.,3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-13,DATA,"   This is Lal. Lal, say hello to   Counselor Deanna Troi...",3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-14,LAL,   Hello... Counselor Deanna Troi...,3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-15,TROI,"   How do you do, Lal.",3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-16,LAL,   I am functioning... within normal   parameters.,3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-17,DATA,   And this is Geordi La Forge and   Wesley Crusher.,3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-18,LAL,"   Purpose for... exterior drapings,   Father?",3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-19,WESLEY,       Father?,3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-20,DATA,   It is the custom that we wear   clothing.,3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-21,WESLEY,"   It called you ""Father"", Data.",3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-22,DATA,"   Yes, Wesley. Lal is my child.",3    INT. LABORATORY - REVERSE ANGLE,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+8,DATA,"   Oh, you are early. Just a moment   please.",3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+9,DATA,   You may enter now.,3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+10,GEORDI,"   C'mon, Data, what is this...",3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+11,WESLEY,"   Yeah, what's going on?",3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+12,DATA,   I have invited you here to meet   someone.,3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+13,DATA,"   This is Lal. Lal, say hello to   Counselor Deanna Troi...",3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+14,LAL,   Hello... Counselor Deanna Troi...,3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+15,TROI,"   How do you do, Lal.",3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+16,LAL,   I am functioning... within normal   parameters.,3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+17,DATA,   And this is Geordi La Forge and   Wesley Crusher.,3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+18,LAL,"   Purpose for... exterior drapings,   Father?",3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+19,WESLEY,       Father?,3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+20,DATA,   It is the custom that we wear   clothing.,3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+21,WESLEY,"   It called you ""Father"", Data.",3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+22,DATA,"   Yes, Wesley. Lal is my child.",3    INT. LABORATORY - REVERSE ANGLE,LABORATOR,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 23,DATA,   It has a positronic brain... one   very similar to my own... I began   to program it at the cybernetics   conference...,4    INT. LABORATORY,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 24,GEORDI,   But nobody's ever been able to   do that... at least not since you   were programmed Data...,4    INT. LABORATORY,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 25,DATA,   There was a new submicron matrix-transfer   technology introduced   at the conference which I   discovered could be used to lay   down complex neural net   pathways...,4    INT. LABORATORY,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
@@ -108,8 +108,8 @@
 106,LAL,       Smell.,13   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 107,DATA,   Yes.,13   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 108,LAL,"   Show me more, Father.",13   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-109,DATA ,"   Second officer, science log   supplemental, copy: Starfleet   research, Daystrom Institute,   Galor Four annex. Reference:   development, android designate   Lal.",18   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-110,DATA ,   Training in social skills at the   most elementary level has begun.   Lal is progressing very slowly   but is not deterred by early   setbacks.,18   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+109,DATA ,"   Second officer, science log   supplemental, copy: Starfleet   research, Daystrom Institute,   Galor Four annex. Reference:   development, android designate   Lal.",18   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+110,DATA ,   Training in social skills at the   most elementary level has begun.   Lal is progressing very slowly   but is not deterred by early   setbacks.,18   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 111,DATA ,   Motor coordination has improved   by twelve-point-four percent...   this reflects the adaptation of   second level neural transfers...,18A  INT. HOLODECK (OR ANY GENERAL AREA),HOLODECK,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 112,DATA ,   Reflexes still need to develop.   The integration of hand/eye   coordination seems to be   proceeding at a slower   developmental rate.,18A  INT. HOLODECK (OR ANY GENERAL AREA),HOLODECK,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 113,DATA ,   Visual comprehension is especially   difficult for Lal. Translating   her vast data banks into   recognizable applications may   improve with additional transfers.,19   INT. DATA'S QUARTERS (OPTICAL),DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
@@ -198,29 +198,29 @@
 196,ADMIRAL HAFTEL,"   Good. I should advise you,   Captain, that if I am not   satisfied with what I see... I   am empowered to take the android   back with me. Haftel out.",30A  INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 197,PICARD ,"   Captain's log, supplemental: We   are holding position pending the   arrival of Admiral Haftel from   Starfleet Research.",31   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,The Offspring,1989-12-19,The Next Generation,164.txt
 198,PICARD ,"   Commander Data is completing his   final neural transfers to the   android he has named Lal... Which   I have learned, in the language   of Hindi, means ""beloved"".",31A  INT. LABORATORY,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-199,GUINAN,"   Hello, Commander. Lal, how are   you?",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-200,LAL,"   I am functioning within normal   --       I am fine, thank you...",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-201,DATA,"   Guinan, Lal needs to observe human   behavior.",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-202,GUINAN,"   You've come to the right place,   Lal. There are all sorts of human   behavior in here.",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-203,DATA,"   In return for this opportunity,   Lal is willing to provide services   to assist you.",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-204,GUINAN,   Sort of a work-study program...,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-205,LAL,   Father says I would learn a great   deal from working with someone   as old as you.,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-206,DATA,"   I believe what I said was that   Guinan had much life experience,   Lal...",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-207,LAL,"   No, the exact words you used   were...",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-208,GUINAN,"       You're hired. The most important   part of this job is listening...   People need a friendly ear to talk   to... Happens to be my   specialty... There's an art to it   and I'll teach it to you, Lal.",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-209,DATA,   That would be very beneficial.,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-210,GUINAN,   How much do you know about food   and beverages?,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-211,LAL,   I've been programmed with a   listing of fourteen hundred and   twelve known beverages as well   as recipes for...,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-212,GUINAN,   What'd did you just say...,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-213,LAL,   I've been programmed with...,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-214,GUINAN,"   ""I've""... ?",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-215,DATA,"   Lal, you used a verbal   contraction.",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-216,GUINAN,   You said I've instead of I have.,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-217,DATA,   It is a skill my program has never   mastered.,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-218,LAL,   Then I will desist.,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-219,DATA,   No. You have exceeded my   abilities. I do not object. I   just do not understand why it has   happened.,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-220,PICARD,   Picard to Data. Please report   to my Ready Room.,31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-221,DATA,"       Yes, Captain.",31B  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+199,GUINAN,"   Hello, Commander. Lal, how are   you?",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+200,LAL,"   I am functioning within normal   --       I am fine, thank you...",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+201,DATA,"   Guinan, Lal needs to observe human   behavior.",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+202,GUINAN,"   You've come to the right place,   Lal. There are all sorts of human   behavior in here.",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+203,DATA,"   In return for this opportunity,   Lal is willing to provide services   to assist you.",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+204,GUINAN,   Sort of a work-study program...,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+205,LAL,   Father says I would learn a great   deal from working with someone   as old as you.,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+206,DATA,"   I believe what I said was that   Guinan had much life experience,   Lal...",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+207,LAL,"   No, the exact words you used   were...",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+208,GUINAN,"       You're hired. The most important   part of this job is listening...   People need a friendly ear to talk   to... Happens to be my   specialty... There's an art to it   and I'll teach it to you, Lal.",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+209,DATA,   That would be very beneficial.,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+210,GUINAN,   How much do you know about food   and beverages?,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+211,LAL,   I've been programmed with a   listing of fourteen hundred and   twelve known beverages as well   as recipes for...,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+212,GUINAN,   What'd did you just say...,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+213,LAL,   I've been programmed with...,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+214,GUINAN,"   ""I've""... ?",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+215,DATA,"   Lal, you used a verbal   contraction.",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+216,GUINAN,   You said I've instead of I have.,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+217,DATA,   It is a skill my program has never   mastered.,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+218,LAL,   Then I will desist.,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+219,DATA,   No. You have exceeded my   abilities. I do not object. I   just do not understand why it has   happened.,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+220,PICARD,   Picard to Data. Please report   to my Ready Room.,31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+221,DATA,"       Yes, Captain.",31B  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 222,DATA,   I am sure the admiral is anxious   to meet Lal... I have been sending   him regular status reports on her   development...,32   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 223,PICARD,"   His visit, Data, is not just an   inspection of Lal's progress.   He has expressed a concern for   her environment.",32   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 224,DATA,"   Her environment, sir?",32   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
@@ -236,23 +236,23 @@
 234,DATA,"   Does the admiral have children,   sir?",32   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 235,PICARD,   I believe he does... why?,32   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 236,DATA,   I am forced to wonder how much   experience he had as a parent when   his first child was born.,32   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-237,GUINAN ,"   There, you see?",35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-238,LAL,   Visual reconnaissance.,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-239,GUINAN,   It's called flirting.,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-240,LAL,   They seem to be communicating   telepathically.,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-241,GUINAN,"   Well, they're both thinking the   same thing if that's what you   mean.",35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-242,LAL,"   Guinan, is the joining of hands   a symbolic act for humans?",35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-243,GUINAN,   It shows affection. Humans like   to touch each other. They start   with the hands and move on from   there.,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-244,LAL,       He's biting that female.,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-245,GUINAN,"   No, they're touching lips.   Kissing.",35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-246,LAL,   Why are they leaving?,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-247,GUINAN,"   Lal, there are some things your   dad'll have to tell you... when   he thinks you're ready.",35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-248,RIKER,"   You're new around here, aren't   you?",35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-249,LAL,   Yes.,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-250,GUINAN,"   Lal, put him down...",35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-251,DATA,"   Commander, what are your   intentions toward my daughter?",35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-252,RIKER,   I'm not... what... who... your   daughter?,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-253,RIKER,   Nice to meet'cha...,35   INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+237,GUINAN ,"   There, you see?",35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+238,LAL,   Visual reconnaissance.,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+239,GUINAN,   It's called flirting.,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+240,LAL,   They seem to be communicating   telepathically.,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+241,GUINAN,"   Well, they're both thinking the   same thing if that's what you   mean.",35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+242,LAL,"   Guinan, is the joining of hands   a symbolic act for humans?",35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+243,GUINAN,   It shows affection. Humans like   to touch each other. They start   with the hands and move on from   there.,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+244,LAL,       He's biting that female.,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+245,GUINAN,"   No, they're touching lips.   Kissing.",35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+246,LAL,   Why are they leaving?,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+247,GUINAN,"   Lal, there are some things your   dad'll have to tell you... when   he thinks you're ready.",35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+248,RIKER,"   You're new around here, aren't   you?",35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+249,LAL,   Yes.,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+250,GUINAN,"   Lal, put him down...",35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+251,DATA,"   Commander, what are your   intentions toward my daughter?",35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+252,RIKER,   I'm not... what... who... your   daughter?,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+253,RIKER,   Nice to meet'cha...,35   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 254,LAL,   I watch them and I can do the   things they do... but I'll never   feel the emotions. I'll never   know love.,37   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 255,DATA,"   That is a limitation we must   learn to accept, Lal.",37   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 256,LAL,   Then why do you still try to   emulate humans? What purpose   does it serve except to remind   you that you are incomplete?,37   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
@@ -260,7 +260,7 @@
 258,LAL,"   You are wise, Father.",37   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 259,DATA,   It is only the difference between   knowledge and experience.,37   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 260,LAL,   I learned today that humans like   to hold hands. It is a symbolic   gesture of affection.,37   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-261,ADMIRAL HAFTEL,"   Prepare to beam me aboard,   Captain.",33A  INT. MAIN BRIDGE - CLOSE ON THE MAIN VIEWER,MAIN BRIDGE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+261,ADMIRAL HAFTEL,"   Prepare to beam me aboard,   Captain.",33A  INT. MAIN BRIDGE - CLOSE ON THE MAIN VIEWER,MAIN BRIDG,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 262,ADMIRAL HAFTEL,   No objective viewpoint could see   it any other way...,43   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 263,PICARD,"   I beg your pardon, Admiral, but   I thought you were sent here to   form an opinion... not to justify   one.",43   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 264,ADMIRAL HAFTEL,"   Captain, do not make this more   difficult than it needs to be.",43   INT. READY ROOM,READY ROOM,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
@@ -294,18 +294,18 @@
 292,ADMIRAL HAFTEL,"   Then, if the object of Lal's   existence is for her to understand   human behavior, wouldn't you admit   that you are an imperfect   teacher... in fact, she may choose   to emulate you rather than   humans... even if you instruct   her otherwise.",43A  INT. LABORATORY,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 293,PICARD,"    (cutting off a chance     for Data to reply)   On the other hand, Admiral, how   many of your researchers are   androids? None. And I would   suggest that many aspects of Lal's   existence and development may be   so alien to human experience that   your people simply could not be   made to comprehend them.",43A  INT. LABORATORY,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 294,ADMIRAL HAFTEL,   Where is Lal now?,43A  INT. LABORATORY,LABORATORY,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-295,ADMIRAL HAFTEL,   This is your idea of appropriate   guidance...,44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-296,DATA,   It is an opportunity for her to   observe human behavior and more   importantly to interact with her   crewmates.,44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-297,ADMIRAL HAFTEL,   She's capable of running over   sixty trillion calculations per   second and you have her working as   a cocktail waitress.,44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-298,PICARD,"   Admiral, she is working under the   strict guidance of a woman in   whom I have absolute trust.   Ten-Forward is the center of the   ship's social activity. Everyone   on board comes here...",44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-299,ADMIRAL HAFTEL,   I'm not convinced the sort of   behavior she observes here will   be a positive influence.,44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-300,GUINAN ,"   My customers usually behave   themselves... if not, they're   asked to leave. There's something   to learn from that as well,   wouldn't you say?",44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-301,PICARD,"   Admiral Haftel, Guinan. She runs   Ten-Forward.",44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-302,PICARD,"   How is Lal doing, Guinan?",44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-303,GUINAN,   She spills a few drinks like the   rest of us. But she's learning   a lot.,44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-304,ADMIRAL HAFTEL,"       I'm sorry, this is just   outrageous.",44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-305,GUINAN,"   Come now, Admiral, I'm sure you've   been in a few bars in your day...",44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
-306,ADMIRAL HAFTEL,   I want the android out of here...   have her report to me immediately   for an interview.,44A  INT. TEN-FORWARD,TE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+295,ADMIRAL HAFTEL,   This is your idea of appropriate   guidance...,44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+296,DATA,   It is an opportunity for her to   observe human behavior and more   importantly to interact with her   crewmates.,44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+297,ADMIRAL HAFTEL,   She's capable of running over   sixty trillion calculations per   second and you have her working as   a cocktail waitress.,44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+298,PICARD,"   Admiral, she is working under the   strict guidance of a woman in   whom I have absolute trust.   Ten-Forward is the center of the   ship's social activity. Everyone   on board comes here...",44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+299,ADMIRAL HAFTEL,   I'm not convinced the sort of   behavior she observes here will   be a positive influence.,44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+300,GUINAN ,"   My customers usually behave   themselves... if not, they're   asked to leave. There's something   to learn from that as well,   wouldn't you say?",44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+301,PICARD,"   Admiral Haftel, Guinan. She runs   Ten-Forward.",44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+302,PICARD,"   How is Lal doing, Guinan?",44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+303,GUINAN,   She spills a few drinks like the   rest of us. But she's learning   a lot.,44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+304,ADMIRAL HAFTEL,"       I'm sorry, this is just   outrageous.",44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+305,GUINAN,"   Come now, Admiral, I'm sure you've   been in a few bars in your day...",44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
+306,ADMIRAL HAFTEL,   I want the android out of here...   have her report to me immediately   for an interview.,44A  INT. TEN-FORWARD,TEN-FORWARD,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 307,ADMIRAL HAFTEL,"   Well, I've been looking forward   to meeting you, Lal.",45A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 308,LAL,   Why?,45A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt
 309,ADMIRAL HAFTEL,   You're very important to us at   Starfleet Research. We've got   quite a facility at Galor Four.   I'd like to show it to you.,45A  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Offspring,1989-12-19,The Next Generation,164.txt

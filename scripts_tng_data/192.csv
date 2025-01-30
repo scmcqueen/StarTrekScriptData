@@ -67,10 +67,10 @@
 65,DATA,   Sixteen seconds to impact.,12   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 66,PICARD,"       Lieutenant Hickman, you must do   as I tell you. Reduce your   velocity and bring your craft to   a positive pitch of twenty   degrees... now.",12   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 67,DATA,   The shuttle is entering the lower   ionosphere...,12   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-68,WORF,"   Sir, sensors detect two more   Federation shuttlecraft on the   planet's surface... no life signs.",14   INT. BRIDGE - CLOSE UPS - VARIOUS,BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-69,PICARD,"   Ready an away team, Number One.",14   INT. BRIDGE - CLOSE UPS - VARIOUS,BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-70,RIKER,"   Geordi, Data, Worf...",14   INT. BRIDGE - CLOSE UPS - VARIOUS,BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-71,RIKER,       And Commander Leijten.,14   INT. BRIDGE - CLOSE UPS - VARIOUS,BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+68,WORF,"   Sir, sensors detect two more   Federation shuttlecraft on the   planet's surface... no life signs.",14   INT. BRIDGE - CLOSE UPS - VARIOUS,BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+69,PICARD,"   Ready an away team, Number One.",14   INT. BRIDGE - CLOSE UPS - VARIOUS,BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+70,RIKER,"   Geordi, Data, Worf...",14   INT. BRIDGE - CLOSE UPS - VARIOUS,BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+71,RIKER,       And Commander Leijten.,14   INT. BRIDGE - CLOSE UPS - VARIOUS,BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 72,RIKER,"   Commander Leijten, La Forge, check   the shuttle... Worf, Data, you've   got the perimeter.",16   EXT. TARCHANNEN SURFACE - NEARBY (OPTICAL),TARCHANNEN SURFACE - NEARBY,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 73,SUSANNA,   It's the shuttle pod Mendez stole   from the Aries...,16   EXT. TARCHANNEN SURFACE - NEARBY (OPTICAL),TARCHANNEN SURFACE - NEARBY,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 74,DATA,"   No life signs, sir.",19   EXT. TARCHANNEN SURFACE,TARCHANNEN SURFACE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
@@ -129,27 +129,27 @@
 127,GEORDI,   We can go back to the mission   record... construct a log of   everyone's movements...,29   INT. TURBOLIFT,TURBOLIFT,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 128,SUSANNA,   And look for a commonalty.   Something we all touched... maybe   a plant... the sand...,29   INT. TURBOLIFT,TURBOLIFT,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 129,GEORDI,   Or something we ingested... could   be in the air itself...,29   INT. TURBOLIFT,TURBOLIFT,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-130,BEVERLY,"       The parameters are pretty broad,   Data... any match we make is going   to be inconclusive at best.",31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-131,DATA,"   I am aware of that. However, I   see no other reasonable course   of investigation available to us.       And we may not have much time.",31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-132,BEVERLY,"   You're worried about Geordi,   aren't you?",31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-133,DATA,       I am an android. It is not   possible for me to feel anxiety.   Starfleet personnel have   vanished... others may be at risk.   We must do the best we can to find   out why.,31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-134,DATA,   However...,31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-135,DATA,   I am strongly motivated to solve   this mystery.,31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-136,GEORDI ,   Freeze visual.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-137,SUSANNA,   We're wasting our time.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-138,GEORDI,       You didn't feel that way before...   it was your idea to look for some   sort of commonality.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-139,SUSANNA,   Well... I was wrong.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-140,SUSANNA,   We're not going to find anything   this way. We should go back to   the planet... it's all down   there... everything we need to   know.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-141,GEORDI,   That's not an option... not until   the Captain says it is...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-142,GEORDI,   Computer resume.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-143,SUSANNA,   I can't look at this anymore.   It hurts my eyes... I can't think.   My brain feels like it's wrapped   in a blanket.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-144,GEORDI,   Take a break. I'll work for a...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-145,SUSANNA,   I don't need a break... I...       ... I need to get off this ship.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-146,GEORDI,       I think... we should go see Doctor   Crusher...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-147,SUSANNA,"   Forget Crusher... forget your   logs. Tarchannen's down there,   Geordi. It's waiting for us.   That's where we should go.",32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-148,GEORDI,   Susanna... you can't leave...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-149,GEORDI,   Susanna...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-150,GEORDI,   SUSANNA!,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+130,BEVERLY,"       The parameters are pretty broad,   Data... any match we make is going   to be inconclusive at best.",31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFIC,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+131,DATA,"   I am aware of that. However, I   see no other reasonable course   of investigation available to us.       And we may not have much time.",31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFIC,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+132,BEVERLY,"   You're worried about Geordi,   aren't you?",31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFIC,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+133,DATA,       I am an android. It is not   possible for me to feel anxiety.   Starfleet personnel have   vanished... others may be at risk.   We must do the best we can to find   out why.,31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFIC,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+134,DATA,   However...,31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFIC,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+135,DATA,   I am strongly motivated to solve   this mystery.,31   INT. BEVERLY'S OFFICE - TO INCLUDE WALL MONITOR,BEVERLY'S OFFIC,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+136,GEORDI ,   Freeze visual.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+137,SUSANNA,   We're wasting our time.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+138,GEORDI,       You didn't feel that way before...   it was your idea to look for some   sort of commonality.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+139,SUSANNA,   Well... I was wrong.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+140,SUSANNA,   We're not going to find anything   this way. We should go back to   the planet... it's all down   there... everything we need to   know.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+141,GEORDI,   That's not an option... not until   the Captain says it is...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+142,GEORDI,   Computer resume.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+143,SUSANNA,   I can't look at this anymore.   It hurts my eyes... I can't think.   My brain feels like it's wrapped   in a blanket.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+144,GEORDI,   Take a break. I'll work for a...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+145,SUSANNA,   I don't need a break... I...       ... I need to get off this ship.,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+146,GEORDI,       I think... we should go see Doctor   Crusher...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+147,SUSANNA,"   Forget Crusher... forget your   logs. Tarchannen's down there,   Geordi. It's waiting for us.   That's where we should go.",32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+148,GEORDI,   Susanna... you can't leave...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+149,GEORDI,   Susanna...,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+150,GEORDI,   SUSANNA!,32   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 151,BEVERLY,       Her blood pressure's still   falling...       Apply the T-cell stimulator.   We've got to stabilize her immune   system.,39   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 152,BEVERLY,   She's developed an extreme   sensitivity to light... we're   trying to make her more   comfortable.,39   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 153,GEORDI,   My God...,39   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
@@ -181,24 +181,24 @@
 179,PICARD,"   All right, Mister La Forge...   proceed with your investigation.   But report to Doctor Crusher for   another bioscan at the start of   day watch.",41   INT. BEVERLY'S OFFICE (OPTICAL),BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 180,BEVERLY,"   In the meantime, if you have   symptoms of any kind -- I want   to know. Immediately.",41   INT. BEVERLY'S OFFICE (OPTICAL),BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 181,GEORDI,   Understood.,41   INT. BEVERLY'S OFFICE (OPTICAL),BEVERLY'S OFFICE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-182,HICKMAN,       One to transport.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-183,SUSANNA,"   I want to make another sweep of   the perimeter. Mendez, Brevelle,   start at Building Two. La Forge,   you and I will begin at Four.",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-184,GEORDI ,"   Okay, computer...",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-185,GEORDI,       Analyze audio elements from time   index fourteen four seven to   fifteen five eight. List all   anomalies.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-186,COMPUTER,   No audio anomalies present.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-187,GEORDI,   Any subspace projections... z   particle emissions... or   interferometric frequencies?,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-188,COMPUTER,   No subspace projections present.   No z particle emissions present.     ,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-189,COMPUTER  ,   No interferometric patterns   present.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-190,DATA,   Geordi... may I inquire how your   investigation is proceeding?,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-191,GEORDI,   It's not.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-192,DATA,   Have you done an audio analysis...,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-193,GEORDI,   And a spectrographic analysis and   a screen for ionizing radiation...   and I even ran an enhancement for   micro-seismic disturbances. I've   tried it all.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-194,GEORDI,"   I'm sorry, Data.",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-195,DATA,   There is no need for an apology.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-196,DATA,"   Perhaps if you indulged in a short   rest period, you could approach   this problem with what humans   commonly refer to as a fresh point   of view...",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-197,GEORDI,"   You're probably right, Data. But   I've got to finish scanning these   records... while I can.",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-198,DATA,   Is there some way I can assist   you?,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-199,GEORDI,"       If I knew what I was looking   for...       I think it's just down to going   over it, Data... maybe find   something I forgot... I'll let   you know if I come up with   anything... anything at all.",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERING,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+182,HICKMAN,       One to transport.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+183,SUSANNA,"   I want to make another sweep of   the perimeter. Mendez, Brevelle,   start at Building Two. La Forge,   you and I will begin at Four.",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+184,GEORDI ,"   Okay, computer...",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+185,GEORDI,       Analyze audio elements from time   index fourteen four seven to   fifteen five eight. List all   anomalies.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+186,COMPUTER,   No audio anomalies present.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+187,GEORDI,   Any subspace projections... z   particle emissions... or   interferometric frequencies?,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+188,COMPUTER,   No subspace projections present.   No z particle emissions present.     ,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+189,COMPUTER  ,   No interferometric patterns   present.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+190,DATA,   Geordi... may I inquire how your   investigation is proceeding?,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+191,GEORDI,   It's not.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+192,DATA,   Have you done an audio analysis...,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+193,GEORDI,   And a spectrographic analysis and   a screen for ionizing radiation...   and I even ran an enhancement for   micro-seismic disturbances. I've   tried it all.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+194,GEORDI,"   I'm sorry, Data.",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+195,DATA,   There is no need for an apology.,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+196,DATA,"   Perhaps if you indulged in a short   rest period, you could approach   this problem with what humans   commonly refer to as a fresh point   of view...",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+197,GEORDI,"   You're probably right, Data. But   I've got to finish scanning these   records... while I can.",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+198,DATA,   Is there some way I can assist   you?,42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+199,GEORDI,"       If I knew what I was looking   for...       I think it's just down to going   over it, Data... maybe find   something I forgot... I'll let   you know if I come up with   anything... anything at all.",42   INT. ENGINEERING - GEORDI'S OFFICE - ON WALL MONITOR,ENGINEERIN,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 200,OGAWA,"   Sorry to disturb you, Doctor...",44   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 201,BEVERLY,   It's alright. What's happened?,44   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 202,OGAWA,   I thought you should see this.,44   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
@@ -224,8 +224,8 @@
 222,GEORDI,"       Computer, do you have sufficient   data to compile a Holographic   simulation of this Visual Record?",46   INT. ENGINEERING - GEORDI'S OFFICE - MONITOR (OPTICAL),ENGINEERING - GEORDI'S OFFICE - MONITOR,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 223,COMPUTER,   A simulation would be limited to   areas scanned by the visual   recording device.,46   INT. ENGINEERING - GEORDI'S OFFICE - MONITOR (OPTICAL),ENGINEERING - GEORDI'S OFFICE - MONITOR,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 224,GEORDI,   Good. Fine. Scan the entire   record... then recreate it in   Holodeck Three.,46   INT. ENGINEERING - GEORDI'S OFFICE - MONITOR (OPTICAL),ENGINEERING - GEORDI'S OFFICE - MONITOR,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-225,GEORDI,"   Computer, is the Tarchannen   simulation ready?",55   INT. CORRIDOR - OUTSIDE HOLODECK THREE,CORRIDOR,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-226,COMPUTER,   Affirmative. Program complete.   Enter when ready.,55   INT. CORRIDOR - OUTSIDE HOLODECK THREE,CORRIDOR,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+225,GEORDI,"   Computer, is the Tarchannen   simulation ready?",55   INT. CORRIDOR - OUTSIDE HOLODECK THREE,CORRIDO,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+226,COMPUTER,   Affirmative. Program complete.   Enter when ready.,55   INT. CORRIDOR - OUTSIDE HOLODECK THREE,CORRIDO,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 227,GEORDI,"   Computer, scan Starfleet records   and create a simulation of   Brevelle... place him where he   stood while recording this...",58   INT. HOLODECK,HOLODECK,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 228,GEORDI,"   Good. Computer, based on their   speed and direction, can you   extrapolate each officer's   movements as they walk out of   the recording device's field of   view?",58   INT. HOLODECK,HOLODECK,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 229,COMPUTER,"   Affirmative. With an increasing   probability of error, reaching   ninety-five percent after ten   seconds.",58   INT. HOLODECK,HOLODECK,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
@@ -252,11 +252,11 @@
 250,BEVERLY,       But it certainly isn't acting like   a typical parasite... it's not   feeding off her -- it's actually   transforming her DNA to match its   own...,73   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 251,OGAWA,   There's not much of her original   DNA left.,73   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 252,BEVERLY,       And we're going to need unaltered   genes... or we'll never get her   back. We've got to get that thing   out of her. Now.,73   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-253,RIKER,   Any luck?,75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-254,DATA,"   Negative, Commander. Nothing in   our survey suggests the source of   a parasitic infection...",75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-255,BEVERLY,   Crusher to Bridge.,75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-256,PICARD,"   Go ahead, Doctor.",75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-257,BEVERLY,   The surgery was successful...,75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDGE,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+253,RIKER,   Any luck?,75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+254,DATA,"   Negative, Commander. Nothing in   our survey suggests the source of   a parasitic infection...",75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+255,BEVERLY,   Crusher to Bridge.,75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+256,PICARD,"   Go ahead, Doctor.",75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+257,BEVERLY,   The surgery was successful...,75   INT. MAIN BRIDGE - SCIENCE STATION,MAIN BRIDG,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 258,BEVERLY,"       ... but it will be a few hours   before we know how her   regenerative systems are   responding... In the meantime,   I'd better get Geordi in here.",76   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 259,PICARD,"   Very good, Doctor. Keep us   advised.",76   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 260,BEVERLY,       Crusher to La Forge...,76   INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
@@ -312,22 +312,22 @@
 310,SUSANNA,   We have to find him...,90E  INT. SICKBAY (FORMERLY 90A),SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 311,BEVERLY,   An away team is about to start   a search.,90E  INT. SICKBAY (FORMERLY 90A),SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 312,SUSANNA,   You'll never be able to find   him...       I'm the only one who can.,90E  INT. SICKBAY (FORMERLY 90A),SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-313,SUSANNA,   No... you must turn them off...   the light frightens them...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-314,RIKER,    (to Susanna; re: the     emergency beacon)   What about the ultraviolet?,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-315,SUSANNA,   That is beyond their visual   spectrum... they will not run from   it.,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-316,WORF,   He could be several kilometers   away by now.,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-317,SUSANNA,   No... he's here... they're all   here...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-318,SUSANNA,   There.,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-319,BEVERLY,   Geordi...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-320,SUSANNA,   Geordi... stop...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-321,SUSANNA,   Wait here...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-322,SUSANNA,"       Geordi, my voice is familiar...   listen to it... you can feel that   we share this... you know I am   not a threat...",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-323,SUSANNA,"   The others... Mendez, Brevelle,   they no longer exist as humans...   but a part of you still does.   You are not one of them... not   yet. I can help you... if you'll   just trust me...",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-324,SUSANNA,"   I know what's going on inside   you... the war you're fighting   with yourself... the humanity   slipping away... the instinct to   run... It's overpowering, but   they know how to beat it now...",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-325,SUSANNA,"   Look at me... I've come back...   Let me take you back, too.",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-326,SUSANNA,   Just take my hand... please...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-327,BEVERLY,       Crusher to Enterprise. Lock on   to Commander Leitjen's signal...   prepare to transport two directly   to Sickbay.,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
-328,SUSANNA,"   We're going home, Geordi.",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THREE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+313,SUSANNA,   No... you must turn them off...   the light frightens them...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+314,RIKER,    (to Susanna; re: the     emergency beacon)   What about the ultraviolet?,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+315,SUSANNA,   That is beyond their visual   spectrum... they will not run from   it.,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+316,WORF,   He could be several kilometers   away by now.,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+317,SUSANNA,   No... he's here... they're all   here...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+318,SUSANNA,   There.,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+319,BEVERLY,   Geordi...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+320,SUSANNA,   Geordi... stop...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+321,SUSANNA,   Wait here...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+322,SUSANNA,"       Geordi, my voice is familiar...   listen to it... you can feel that   we share this... you know I am   not a threat...",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+323,SUSANNA,"   The others... Mendez, Brevelle,   they no longer exist as humans...   but a part of you still does.   You are not one of them... not   yet. I can help you... if you'll   just trust me...",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+324,SUSANNA,"   I know what's going on inside   you... the war you're fighting   with yourself... the humanity   slipping away... the instinct to   run... It's overpowering, but   they know how to beat it now...",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+325,SUSANNA,"   Look at me... I've come back...   Let me take you back, too.",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+326,SUSANNA,   Just take my hand... please...,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+327,BEVERLY,       Crusher to Enterprise. Lock on   to Commander Leitjen's signal...   prepare to transport two directly   to Sickbay.,92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
+328,SUSANNA,"   We're going home, Geordi.",92   EXT. TARCHANNEN THREE - THE OUTPOST,TARCHANNEN THRE,EXT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 329,PICARD,"   Is there no hope for the others?   Brevelle, Mendez...",108A INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 330,SUSANNA,       None.,108A INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt
 331,GEORDI,       Susanna...,108A INT. SICKBAY,SICKBAY,INT.,Identity Crisis,1991-01-11,The Next Generation,192.txt

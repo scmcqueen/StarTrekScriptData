@@ -1,16 +1,16 @@
 ,character,quote,scene,location,view,episode,date,series,file
 0,PICARD ,"   Captain's Log, Stardate 46578.4.   The Enterprise has arrived at   Station Deep Space Nine, where we   will assist in the reconstruction   of the Bajoran aqueduct systems   damaged during the Cardassian   occupation.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-1,BEVERLY,   I should be finished with the   water contaminant analysis in a   few hours. Then I'm going to try   one of the Holosuites.       I hear they've got a relaxation   program here from Alture Seven.   First you get bathed in a protein   bath... and then a cloud of   chromal vapor carries you into a   meditation chamber... You should   try it.,2    INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-2,PICARD,   I'm afraid I won't have the time.   I'll be too busy discussing the   finer points of water management   with ten Bajoran bureaucrats.       And they won't be carrying me on   chromal vapor...,2    INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+1,BEVERLY,   I should be finished with the   water contaminant analysis in a   few hours. Then I'm going to try   one of the Holosuites.       I hear they've got a relaxation   program here from Alture Seven.   First you get bathed in a protein   bath... and then a cloud of   chromal vapor carries you into a   meditation chamber... You should   try it.,2    INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+2,PICARD,   I'm afraid I won't have the time.   I'll be too busy discussing the   finer points of water management   with ten Bajoran bureaucrats.       And they won't be carrying me on   chromal vapor...,2    INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 3,WORF,       What is this?,3    INT. REPLIMAT,REPLIMAT,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 4,GEORDI,   Pasta al fiorella -- you'll love   it.,3    INT. REPLIMAT,REPLIMAT,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 5,GEORDI,   I'd like to take a look at those   Ktarian antiques... I hear there's   a twenty-first century plasma coil --   in perfect condition.,3    INT. REPLIMAT,REPLIMAT,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 6,WORF,   First we eat... then we shop.,3    INT. REPLIMAT,REPLIMAT,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-7,DATA,       Commander -- I am reading a minor   power drain in the Starboard EPS   conduits.,5    INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-8,RIKER,   What's causing it?,5    INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-9,DATA,       The problem is originating in   Sickbay. There has been an   unauthorized access into the   computer's bio-imaging systems.,5    INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-10,RIKER,   You'd better check it out.,5    INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-11,DATA,   Aye sir.,5    INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+7,DATA,       Commander -- I am reading a minor   power drain in the Starboard EPS   conduits.,5    INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+8,RIKER,   What's causing it?,5    INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+9,DATA,       The problem is originating in   Sickbay. There has been an   unauthorized access into the   computer's bio-imaging systems.,5    INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+10,RIKER,   You'd better check it out.,5    INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+11,DATA,   Aye sir.,5    INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 12,DATA,       Excuse me. Do you have   authorization to work in this   area?,6    INT. SICKBAY,SICKBAY,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 13,BASHIR,   Come here... come here... I need   a hand with this field   generator...,6    INT. SICKBAY,SICKBAY,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 14,BASHIR,   See if you can boost the power   output to sixty-five percent.,6    INT. SICKBAY,SICKBAY,INT.,Birthright,1992-12-10,The Next Generation,242.txt
@@ -31,36 +31,36 @@
 29,DATA,   I suggest we go to Engineering and   begin with a full circuit pathway   diagnostic.,6    INT. SICKBAY,SICKBAY,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 30,BASHIR,   Splendid.,6    INT. SICKBAY,SICKBAY,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 31,BASHIR,"   I must admit, Commander... I   didn't think you'd be so...   personable.",6    INT. SICKBAY,SICKBAY,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-32,GEORDI,   I'll have to talk to Chief O'Brien   about the replicators.     ,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-33,GEORDI ,   I don't know how you can keep   eating it...       It tastes like... liquid polymer.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-34,WORF,   Delicious.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-35,GEORDI,   I think I'll try the kiosk on the   other side of the Promenade. It   looked like they've got real food.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-36,SHREK ,   Klingon... you are the Starfleet   Klingon.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-37,WORF,   Yes... I am Lieutenant Worf.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-38,SHREK,   Worf... son of Mogh?,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-39,WORF,   What of it?,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-40,SHREK,   I am Jaglom Shrek. A man with   information to sell.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-41,WORF,   You have no information I could   want.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-42,SHREK,   I wouldn't be so sure...,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-43,SHREK,       It is about your father... Mogh.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-44,WORF,   My father died twenty-five years   ago at Khitomer.,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-45,SHREK,   That is what you believe...       What if I told you... he is still   alive?,7    INT. DS9 - PROMENADE - REPLIMAT,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-46,WORF,   My father is dead.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-47,SHREK,   He's not. I know where he is.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-48,WORF,   How is that possible?,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-49,SHREK,"   I expect to be paid for my   information. Perhaps we can   negotiate an exchange. The   location of your father, for fifty   bars of --",8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-50,WORF,       Tell me what you know.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-51,SHREK,   Not all of the Klingons at   Khitomer were killed during the   massacre. Many were captured by   the Romulans... and placed in a   prison camp on a remote planet...       Your father was among them.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-52,WORF,   Where is this planet?,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-53,SHREK,   Not far from here... I can give   you the location... for a price.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-54,WORF,   A Klingon would rather die than be   taken prisoner. I should kill you   for spreading lies about my   family.       My father was killed defending   Khitomer.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NINE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-55,WORF,       Ensign Lopez.,10   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-56,WORF,       This duty roster is unacceptable.   The assignments must be listed in   order of priority. Prepare it   again.,10   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-57,WORF,   I will expect it no later than oh   nine hundred hours. Understood?,10   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-58,RIKER,"   Worf, I'll need that rendezvous   schedule sent over to Commander   Rudman on the Merrimac as soon as   you --",10   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-59,WORF,"       I am aware of your request,   Commander.",10   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-60,RIKER,   Lieutenant... are you alright?,10   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-61,WORF,"   I am... fine, sir.       I will send the schedule... Excuse   me, sir...",10   INT. ENTERPRISE - BRIDGE,ENTERPRISE,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+32,GEORDI,   I'll have to talk to Chief O'Brien   about the replicators.     ,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+33,GEORDI ,   I don't know how you can keep   eating it...       It tastes like... liquid polymer.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+34,WORF,   Delicious.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+35,GEORDI,   I think I'll try the kiosk on the   other side of the Promenade. It   looked like they've got real food.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+36,SHREK ,   Klingon... you are the Starfleet   Klingon.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+37,WORF,   Yes... I am Lieutenant Worf.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+38,SHREK,   Worf... son of Mogh?,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+39,WORF,   What of it?,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+40,SHREK,   I am Jaglom Shrek. A man with   information to sell.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+41,WORF,   You have no information I could   want.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+42,SHREK,   I wouldn't be so sure...,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+43,SHREK,       It is about your father... Mogh.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+44,WORF,   My father died twenty-five years   ago at Khitomer.,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+45,SHREK,   That is what you believe...       What if I told you... he is still   alive?,7    INT. DS9 - PROMENADE - REPLIMAT,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+46,WORF,   My father is dead.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+47,SHREK,   He's not. I know where he is.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+48,WORF,   How is that possible?,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+49,SHREK,"   I expect to be paid for my   information. Perhaps we can   negotiate an exchange. The   location of your father, for fifty   bars of --",8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+50,WORF,       Tell me what you know.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+51,SHREK,   Not all of the Klingons at   Khitomer were killed during the   massacre. Many were captured by   the Romulans... and placed in a   prison camp on a remote planet...       Your father was among them.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+52,WORF,   Where is this planet?,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+53,SHREK,   Not far from here... I can give   you the location... for a price.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+54,WORF,   A Klingon would rather die than be   taken prisoner. I should kill you   for spreading lies about my   family.       My father was killed defending   Khitomer.,8    INT. DEEP SPACE NINE - REPLIMAT,DEEP SPACE NIN,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+55,WORF,       Ensign Lopez.,10   INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+56,WORF,       This duty roster is unacceptable.   The assignments must be listed in   order of priority. Prepare it   again.,10   INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+57,WORF,   I will expect it no later than oh   nine hundred hours. Understood?,10   INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+58,RIKER,"   Worf, I'll need that rendezvous   schedule sent over to Commander   Rudman on the Merrimac as soon as   you --",10   INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+59,WORF,"       I am aware of your request,   Commander.",10   INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+60,RIKER,   Lieutenant... are you alright?,10   INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+61,WORF,"   I am... fine, sir.       I will send the schedule... Excuse   me, sir...",10   INT. ENTERPRISE - BRIDGE,ENTERPRIS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 62,WORF,   Enter.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 63,TROI,   Did the table do something wrong?,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 64,WORF,   No...,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
@@ -151,21 +151,21 @@
 149,WORF,"   Yes, of course...",23   INT. TEN FORWARD,TEN FORWARD,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 150,WORF,       Do not stop until you have the   answer.,23   INT. TEN FORWARD,TEN FORWARD,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 151,DATA,"   Thank you, Worf.",23   INT. TEN FORWARD,TEN FORWARD,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-152,SHREK,   Lieutenant Worf... you have   reconsidered...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-153,WORF,   Yes. I wish to go to the Romulan   prison camp.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-154,SHREK,   Excellent. I can provide you with   the coordinates...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-155,WORF,   No. You will take me there.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-156,SHREK,   That is impossible. I have no   means of transportation --,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-157,WORF,   I checked the station records.   You have a vessel capable of warp   speed.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-158,SHREK,       I do not... have the time... I   have other business...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-159,WORF,   What is the real reason you do not   want to take me? Is it because   what you have said is not true?,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-160,SHREK,   The camp is located on the edge of   Romulan space. It is a dangerous   journey...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-161,WORF,   Dangerous...       It would be more dangerous for you   to refuse.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-162,SHREK,   Very well... But I will require   full payment in advance...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-163,WORF,   I will pay you after.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-164,SHREK,   But --,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-165,SHREK,"       Yes... yes, of course. After.",26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-166,WORF,   And if you are lying... if there   is no prison camp...       I will kill you.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS9,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+152,SHREK,   Lieutenant Worf... you have   reconsidered...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+153,WORF,   Yes. I wish to go to the Romulan   prison camp.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+154,SHREK,   Excellent. I can provide you with   the coordinates...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+155,WORF,   No. You will take me there.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+156,SHREK,   That is impossible. I have no   means of transportation --,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+157,WORF,   I checked the station records.   You have a vessel capable of warp   speed.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+158,SHREK,       I do not... have the time... I   have other business...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+159,WORF,   What is the real reason you do not   want to take me? Is it because   what you have said is not true?,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+160,SHREK,   The camp is located on the edge of   Romulan space. It is a dangerous   journey...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+161,WORF,   Dangerous...       It would be more dangerous for you   to refuse.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+162,SHREK,   Very well... But I will require   full payment in advance...,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+163,WORF,   I will pay you after.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+164,SHREK,   But --,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+165,SHREK,"       Yes... yes, of course. After.",26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
+166,WORF,   And if you are lying... if there   is no prison camp...       I will kill you.,26   INT. DS9 - PROMENADE - LOWER LEVEL,DS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 167,SHREK,       The Romulan guards have a   detection perimeter. It will be   necessary to transport you to the   surface thirty kilometers from the   prison camp.,29   INT. SHREK'S SHUTTLECRAFT (OPTICAL),SHREK'S SHUTTLECRAFT,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 168,WORF,   The foliage is very dense. It   will take me approximately twelve   hours to reach the camp.       I will have to travel during the   night.,29   INT. SHREK'S SHUTTLECRAFT (OPTICAL),SHREK'S SHUTTLECRAFT,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 169,SHREK,   That would be unwise. This is not   an empty jungle. There are many   predators.,29   INT. SHREK'S SHUTTLECRAFT (OPTICAL),SHREK'S SHUTTLECRAFT,INT.,Birthright,1992-12-10,The Next Generation,242.txt
@@ -196,25 +196,25 @@
 194,PICARD,"       Explore the image, Data. Let it   capture your imagination. Focus   on it... spend some time with   it... and see where it takes you.   Let it inspire you.",31   INT. READY ROOM,READY ROOM,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 195,DATA,"   I believe I understand, sir.   Thank you.",31   INT. READY ROOM,READY ROOM,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 196,PICARD,"   Good luck, Data.",31   INT. READY ROOM,READY ROOM,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-197,SHREK,"   The camp is in a Southeasterly   direction. After approximately   ten kilometers, you will reach the   edge of the sulfur canyons. Look   for a riverbank -- follow it   until you reach the camp.",33   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-198,SHREK,       This is a homing device. It will   allow you to find my ship when I   return. I will not be landing in   the same location.,33   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-199,WORF,   When will you be back?,33   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-200,SHREK,   Fifty hours.       Do not be late.,33   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-201,BA'EL,   Who's there?,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-202,BA'EL,   Toq... is that you?,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-203,BA'EL,   I can see you...       I hope you're enjoying yourself.,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-204,BA'EL,"   Toq, I swear I will hang you by   your...",34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-205,WORF,"   Stop, please...",34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-206,BA'EL,   Who are you?,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-207,WORF,   I have come to help you...,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-208,BA'EL,   Help me... ?,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-209,WORF,   Yes...       How did you get out of the camp?   Does anyone know you are gone?,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-210,BA'EL,   Yes... I come here often...,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-211,WORF,   You must lead me to the camp.,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-212,BA'EL,   You are Klingon... Where have you   come from?,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-213,WORF,   That does not matter. I am here   to take you home.,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-214,BA'EL,       Home... this is my home...,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
-215,WORF,       It is important that you tell no   one you saw me.,34   EXT. JUNGLE - NIGHT,JUNGLE,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+197,SHREK,"   The camp is in a Southeasterly   direction. After approximately   ten kilometers, you will reach the   edge of the sulfur canyons. Look   for a riverbank -- follow it   until you reach the camp.",33   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+198,SHREK,       This is a homing device. It will   allow you to find my ship when I   return. I will not be landing in   the same location.,33   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+199,WORF,   When will you be back?,33   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+200,SHREK,   Fifty hours.       Do not be late.,33   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+201,BA'EL,   Who's there?,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+202,BA'EL,   Toq... is that you?,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+203,BA'EL,   I can see you...       I hope you're enjoying yourself.,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+204,BA'EL,"   Toq, I swear I will hang you by   your...",34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+205,WORF,"   Stop, please...",34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+206,BA'EL,   Who are you?,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+207,WORF,   I have come to help you...,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+208,BA'EL,   Help me... ?,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+209,WORF,   Yes...       How did you get out of the camp?   Does anyone know you are gone?,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+210,BA'EL,   Yes... I come here often...,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+211,WORF,   You must lead me to the camp.,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+212,BA'EL,   You are Klingon... Where have you   come from?,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+213,WORF,   That does not matter. I am here   to take you home.,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+214,BA'EL,       Home... this is my home...,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+215,WORF,       It is important that you tell no   one you saw me.,34   EXT. JUNGLE - NIGHT,JUNGL,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
 216,DATA ,   Enter.,44   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 217,GEORDI,"   Data, where have you been? We   were supposed to...",44   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 218,GEORDI,   Data... what are you doing?,44   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Birthright,1992-12-10,The Next Generation,242.txt
@@ -273,7 +273,7 @@
 271,BASHIR,   Remarkable... This is just the   kind of thing that could get me   published in the Starfleet   Cybernetics Journal...       Would you mind if I authored a   paper about all this?,63   INT. CORRIDOR,CORRIDOR,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 272,DATA,   Of course not.,63   INT. CORRIDOR,CORRIDOR,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 273,BASHIR,"   Thank you, Data.       And... sweet dreams.",63   INT. CORRIDOR,CORRIDOR,INT.,Birthright,1992-12-10,The Next Generation,242.txt
-274,L'KOR,"       ""van'aj javDIch Qong DIr Sa'VIch   ghIH yot quelI'Pa qevas HoH Qa... ""       ""teblaw'nghu mughato'Du ylja'Qo'   ylja'Qo' ylja'Qo'... """,64   EXT. PRISON COMPOUND - NIGHT - ANGLE - A CONCRETE,PRISON COMPOUND,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
+274,L'KOR,"       ""van'aj javDIch Qong DIr Sa'VIch   ghIH yot quelI'Pa qevas HoH Qa... ""       ""teblaw'nghu mughato'Du ylja'Qo'   ylja'Qo' ylja'Qo'... """,64   EXT. PRISON COMPOUND - NIGHT - ANGLE - A CONCRETE,PRISON COMPOUN,EXT.,Birthright,1992-12-10,The Next Generation,242.txt
 275,WORF,       Quiet! I am a friend.,69   INT. MEETING HALL,MEETING HALL,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 276,L'KOR,   Who... who are you?,69   INT. MEETING HALL,MEETING HALL,INT.,Birthright,1992-12-10,The Next Generation,242.txt
 277,WORF,   I am Worf... son of Mogh.,69   INT. MEETING HALL,MEETING HALL,INT.,Birthright,1992-12-10,The Next Generation,242.txt

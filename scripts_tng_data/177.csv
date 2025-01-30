@@ -123,8 +123,8 @@
 121,PICARD,"   Is your quarantine intact, Doctor?",16   INT. ENGINEERING,ENGINEERING,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 122,BEVERLY,   Sickbay force fields don't seem   to have been affected.,16   INT. ENGINEERING,ENGINEERING,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 123,PICARD,   The boy?,16   INT. ENGINEERING,ENGINEERING,INT.,Brothers,1990-07-13,The Next Generation,177.txt
-124,BEVERLY,"   He's alright. But he's not going   to stay alright. Sir, we need   to get this ship to a starbase   medical facility...",17   INT. SICKBAY - QUARANTINE AREA,SICKBAY,INT.,Brothers,1990-07-13,The Next Generation,177.txt
-125,PICARD,"   It seems, Doctor, that Mister Data   has other plans for the Enterprise   right now.",18   INT. ENGINEERING - CONTINUOUS,ENGINEERING,INT.,Brothers,1990-07-13,The Next Generation,177.txt
+124,BEVERLY,"   He's alright. But he's not going   to stay alright. Sir, we need   to get this ship to a starbase   medical facility...",17   INT. SICKBAY - QUARANTINE AREA,SICKBA,INT.,Brothers,1990-07-13,The Next Generation,177.txt
+125,PICARD,"   It seems, Doctor, that Mister Data   has other plans for the Enterprise   right now.",18   INT. ENGINEERING - CONTINUOUS,ENGINEERIN,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 126,BEVERLY,"   C'mon, I can't believe that!   Everybody's played a practical   joke at one time or another.",20   INT. SICKBAY - QUARANTINE AREA (OPTICAL),SICKBAY - QUARANTINE AREA,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 127,WILLIE,   Not me.,20   INT. SICKBAY - QUARANTINE AREA (OPTICAL),SICKBAY - QUARANTINE AREA,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 128,BEVERLY,       Not even a little one? How about   April Fools'? Are you telling me   you've never tried to pull   something on April Fools' Day?,20   INT. SICKBAY - QUARANTINE AREA (OPTICAL),SICKBAY - QUARANTINE AREA,INT.,Brothers,1990-07-13,The Next Generation,177.txt
@@ -157,9 +157,9 @@
 155,O'BRIEN,   He discovered the site-to-site   lockout. I wouldn't be surprised   if he tries to make it to a   transporter room now.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 156,PICARD,"   How much further can you safely   disable the ransporters, Mister   O'Brien?",26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 157,O'BRIEN,"   I'm afraid I've done all I can,   sir. As soon as he realized we   had knocked out the primary power   bus he put up force fields around   the secondaries. I don't   recommend anyone going near those   circuits now.",26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Brothers,1990-07-13,The Next Generation,177.txt
-158,PICARD,"       I want security teams along the   main passageways and in every   transporter oom, Lieutenant.   See if the computer would be good   enough to give you the specific   stun setting to disable Mister   Data.",27   INT. ENGINEERING - CONTINUOUS,ENGINEERING,INT.,Brothers,1990-07-13,The Next Generation,177.txt
-159,PICARD,"   Computer, estimate time from this   location to Starbase Four-One-Six   at warp nine.",27   INT. ENGINEERING - CONTINUOUS,ENGINEERING,INT.,Brothers,1990-07-13,The Next Generation,177.txt
-160,COMPUTER,   Inquiries regarding command   functions are no longer accepted   from your present location.,27   INT. ENGINEERING - CONTINUOUS,ENGINEERING,INT.,Brothers,1990-07-13,The Next Generation,177.txt
+158,PICARD,"       I want security teams along the   main passageways and in every   transporter oom, Lieutenant.   See if the computer would be good   enough to give you the specific   stun setting to disable Mister   Data.",27   INT. ENGINEERING - CONTINUOUS,ENGINEERIN,INT.,Brothers,1990-07-13,The Next Generation,177.txt
+159,PICARD,"   Computer, estimate time from this   location to Starbase Four-One-Six   at warp nine.",27   INT. ENGINEERING - CONTINUOUS,ENGINEERIN,INT.,Brothers,1990-07-13,The Next Generation,177.txt
+160,COMPUTER,   Inquiries regarding command   functions are no longer accepted   from your present location.,27   INT. ENGINEERING - CONTINUOUS,ENGINEERIN,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 161,DATA,"       Computer, establish a security   code for access to all functions   previously transferred to Bridge.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 162,COMPUTER,   Enter code.,28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 163,DATA,"    (in Picard's voice     speaking at a breakneck     speed)   Four, one, three, three, six,   eight, Tango, one, eight, one,   one, seven, one, Charlie, four,   Victor, three... eight, eight,   eight, zero, Foxtrot, six, one,   five, three, three, five, nine,   five, seven, lock.",28   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Brothers,1990-07-13,The Next Generation,177.txt
@@ -386,10 +386,10 @@
 384,LORE,   I'm not quite sure what it's   doing. But its doing something.,52   INT. SOONG'S LAB (OPTICAL),SOONG'S LAB,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 385,SOONG,   I didn't know you were alive.   If I had...,52   INT. SOONG'S LAB (OPTICAL),SOONG'S LAB,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 386,LORE,       There were brave men a plenty   All well known to fame   Who served in the ranks of the Czar...,52   INT. SOONG'S LAB (OPTICAL),SOONG'S LAB,INT.,Brothers,1990-07-13,The Next Generation,177.txt
-387,WORF,   The human is there.,53   EXT. SOONG'S PLANET - NIGHT,SOONG'S PLANET,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
-388,RIKER,   And Data?,53   EXT. SOONG'S PLANET - NIGHT,SOONG'S PLANET,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
-389,WORF,   No way of knowing.,53   EXT. SOONG'S PLANET - NIGHT,SOONG'S PLANET,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
-390,RIKER,   On stun.,53   EXT. SOONG'S PLANET - NIGHT,SOONG'S PLANET,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
+387,WORF,   The human is there.,53   EXT. SOONG'S PLANET - NIGHT,SOONG'S PLANE,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
+388,RIKER,   And Data?,53   EXT. SOONG'S PLANET - NIGHT,SOONG'S PLANE,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
+389,WORF,   No way of knowing.,53   EXT. SOONG'S PLANET - NIGHT,SOONG'S PLANE,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
+390,RIKER,   On stun.,53   EXT. SOONG'S PLANET - NIGHT,SOONG'S PLANE,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
 391,RIKER,   Worf.,54   INT. SOONG'S LAB (OPTICAL),SOONG'S LAB,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 392,RIKER,"       It's all right, take it easy.",54   INT. SOONG'S LAB (OPTICAL),SOONG'S LAB,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 393,GEORDI,    (stares at Soong and     recognizes him)   It's Noonian Soong.,54   INT. SOONG'S LAB (OPTICAL),SOONG'S LAB,INT.,Brothers,1990-07-13,The Next Generation,177.txt
@@ -427,5 +427,5 @@
 425,PICARD ,"   Captain's Log, Stardate 44149.1.   We have been at Starbase Four-One-Six   for three days. Young Willie   Potts is responding well to   treatment and has been returned   to the Enterprise.",55   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Brothers,1990-07-13,The Next Generation,177.txt
 426,PICARD,   The transfer went well?,55A  INT. CORRIDOR,CORRIDOR,INT.,Brothers,1990-07-13,The Next Generation,177.txt
 427,BEVERLY,"       He'll remain in quarantine for   another week or two, but he's out   of the woods.",55A  INT. CORRIDOR,CORRIDOR,INT.,Brothers,1990-07-13,The Next Generation,177.txt
-428,DATA,"   Yes, Captain. The boys appear   to have reconciled their   differences.",56   INT. SICKBAY - QUARANTINE AREA,SICKBAY,INT.,Brothers,1990-07-13,The Next Generation,177.txt
-429,BEVERLY,"   They're brothers, Data. Brothers   forgive.",56   INT. SICKBAY - QUARANTINE AREA,SICKBAY,INT.,Brothers,1990-07-13,The Next Generation,177.txt
+428,DATA,"   Yes, Captain. The boys appear   to have reconciled their   differences.",56   INT. SICKBAY - QUARANTINE AREA,SICKBA,INT.,Brothers,1990-07-13,The Next Generation,177.txt
+429,BEVERLY,"   They're brothers, Data. Brothers   forgive.",56   INT. SICKBAY - QUARANTINE AREA,SICKBA,INT.,Brothers,1990-07-13,The Next Generation,177.txt

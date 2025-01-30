@@ -41,15 +41,15 @@
 39,RIKER,"       Thank you, sir. So am I.",8    INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 40,JELLICO,   I'm sure this change in command   has taken everyone a little by   surprise.,8    INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 41,RIKER,"   Well... yes, sir.",8    INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-42,JELLICO,"   It caught me by surprise too. I   must admit, I miss the Cairo   already. But a Galaxy-class   ship... that's something special.   I can understand why you've turned   down a ship of your own to remain   aboard.",9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-43,RIKER,"   Yes, sir.",9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-44,JELLICO,   How many duty watches does the   crew stand?,9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-45,RIKER,   We're on a standard three shift   rotation.,9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-46,JELLICO,   I'd like to change that to four   starting tonight. I'd also like   to examine your duty roster and   crew evaluations as soon as   possible. I want readiness   reports from each department head   by fourteen hundred hours and a   meeting of the senior staff at   fifteen hundred. Do you prefer   Wil or William?,9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-47,RIKER,"   Uh... Wil, sir.",9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-48,JELLICO,"   Where are my quarters, Wil?",9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-49,RIKER,   We've assigned you to cabin seven   three five. That's up on deck --,9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-50,JELLICO,       Deck seven.       I'll see you at thirteen hundred   hours.,9    INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+42,JELLICO,"   It caught me by surprise too. I   must admit, I miss the Cairo   already. But a Galaxy-class   ship... that's something special.   I can understand why you've turned   down a ship of your own to remain   aboard.",9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+43,RIKER,"   Yes, sir.",9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+44,JELLICO,   How many duty watches does the   crew stand?,9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+45,RIKER,   We're on a standard three shift   rotation.,9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+46,JELLICO,   I'd like to change that to four   starting tonight. I'd also like   to examine your duty roster and   crew evaluations as soon as   possible. I want readiness   reports from each department head   by fourteen hundred hours and a   meeting of the senior staff at   fifteen hundred. Do you prefer   Wil or William?,9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+47,RIKER,"   Uh... Wil, sir.",9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+48,JELLICO,"   Where are my quarters, Wil?",9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+49,RIKER,   We've assigned you to cabin seven   three five. That's up on deck --,9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+50,JELLICO,       Deck seven.       I'll see you at thirteen hundred   hours.,9    INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 51,RIKER,       Attention to orders.,11   INT. TEN FORWARD,TEN FORWARD,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 52,PICARD,"       To Captain Jean-Luc Picard,   Commanding Officer, USS   Enterprise. Stardate 46358. You   are hereby requested and required   to relinquish command of your   vessel to Captain Edward Jellico,   Commanding Officer, USS Cairo as   of this date. Signed, Vice-Admiral   Alynna Nechayev, Starfleet   Command.",11   INT. TEN FORWARD,TEN FORWARD,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 53,PICARD,"       Computer, transfer all command   codes to Captain Edward Jellico.   Voice authorization: Picard-delta-five.",11   INT. TEN FORWARD,TEN FORWARD,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
@@ -207,7 +207,7 @@
 205,SOLOK,       Yes?,27A  INT. TORMAN BAR (FORMERLY SCENE 32 & 33),TORMAN BAR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 206,BEVERLY,       Grateful.,27A  INT. TORMAN BAR (FORMERLY SCENE 32 & 33),TORMAN BAR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 207,SOLOK,       When do you want to leave?,27A  INT. TORMAN BAR (FORMERLY SCENE 32 & 33),TORMAN BAR,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-208,RIKER ,   First Officer's Log: Supplemental.   We have rendezvoused with the   Cardassian ship Reklar to begin   diplomatic talks designed to ease   tensions along the border.,28   EXT. SPACE - THE ENTERPRISE & CARDASSIAN SHIP,SPACE,EXT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+208,RIKER ,   First Officer's Log: Supplemental.   We have rendezvoused with the   Cardassian ship Reklar to begin   diplomatic talks designed to ease   tensions along the border.,28   EXT. SPACE - THE ENTERPRISE & CARDASSIAN SHIP,SPAC,EXT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 209,RIKER,   Gul Lemec has arrived. He's   waiting for you in the Observation   Lounge.,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 210,JELLICO,   Very good.       I'll be in my Ready Room.,29   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 211,JELLICO,   Yes?,30   INT. READY ROOM,READY ROOM,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
@@ -227,16 +227,16 @@
 225,WORF,       Bats...,35   INT. CAVERNS - ENTRANCE (NIGHT),CAVERNS - ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 226,BEVERLY,"   You're not afraid of bats, are   you, Worf?",35   INT. CAVERNS - ENTRANCE (NIGHT),CAVERNS - ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 227,WORF,   Of course not.,35   INT. CAVERNS - ENTRANCE (NIGHT),CAVERNS - ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-228,BEVERLY,   The bottom's a little over five   hundred meters.,36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-229,PICARD,   There doesn't appear to be any   other way down.,36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-230,PICARD,   This is sheer granite. We'll have   to use fusing pitons.,36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-231,BEVERLY,   We could try to find another way   down.,36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-232,PICARD,"   Unfortunately, that could take   several hours.",36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-233,WORF,"       You're not afraid of heights, are   you, Doctor?",36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-234,BEVERLY,       Of course not.,36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-235,PICARD,"       Now, remember to control your   descent... and don't tangle the   lines.",36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-236,BEVERLY,   Don't tangle the lines... I'll   remember.,36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-237,PICARD,   Ready?,36   INT. CAVERNS - PRECIPICE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+228,BEVERLY,   The bottom's a little over five   hundred meters.,36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+229,PICARD,   There doesn't appear to be any   other way down.,36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+230,PICARD,   This is sheer granite. We'll have   to use fusing pitons.,36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+231,BEVERLY,   We could try to find another way   down.,36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+232,PICARD,"   Unfortunately, that could take   several hours.",36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+233,WORF,"       You're not afraid of heights, are   you, Doctor?",36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+234,BEVERLY,       Of course not.,36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+235,PICARD,"       Now, remember to control your   descent... and don't tangle the   lines.",36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+236,BEVERLY,   Don't tangle the lines... I'll   remember.,36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+237,PICARD,   Ready?,36   INT. CAVERNS - PRECIPICE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 238,LEMEC,       What is going on? I have been   waiting here for --,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 239,JELLICO,"       I'm Captain Jellico. I believe   you know Commander Riker, and this   is Lieutenant Commander Troi.   Let's get to it, shall we?",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 240,LEMEC,   This treatment is a deliberate   insult to the Cardassian Union.   I have been kept waiting here for   over an hour.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
@@ -247,20 +247,20 @@
 245,JELLICO,"   A great many people are depending   on our efforts here, Gul Lemec.   We don't need to quibble over   minutiae.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 246,LEMEC,"       I have come to negotiate terms for   a Federation withdrawal from the   border, not to be dictated to by   some mere captain.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 247,JELLICO,       I can see you're not serious about   these talks. If the Cardassian   Union truly wishes to discuss   peace they can send someone who   can negotiate in a civilized   manner.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-248,DATA,   Captain on the Bridge.,44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-249,JELLICO,"       Let him stew for a few minutes.   Then go in and tell him you've   convinced me to meet with him one   more time. Tell him I'm a loose   cannon... that he needs to be more   reasonable because I'm such an   unreasonable man.       Lemec will want to bring his own   aides on board. Pretend to be   worried that I'll object, but then   give grudging permission for two   aides, no more.       Understood?",44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-250,TROI,"   Yes, sir.",44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-251,RIKER,"   Aye, sir.",44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-252,RIKER,"   Well, I'll say this for him...   he's very sure of himself.",44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-253,TROI,       No... he's not.,44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-254,PICARD,   The installation should be   about... three hundred meters...    (points down one of the     tunnels)   This way.,45   INT. CAVERNS - CAVE BOTTOM,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-255,BEVERLY,   I don't suppose we're going to   find another way to get back up   there...,45   INT. CAVERNS - CAVE BOTTOM,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-256,WORF,   Doubtful.,45   INT. CAVERNS - CAVE BOTTOM,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-257,BEVERLY,   That's what I thought.,45   INT. CAVERNS - CAVE BOTTOM,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-258,PICARD,"   We need to get through here. This   lava tube runs southwest for   seventy meters before running into   another chamber.       The tube opens up a little more   beyond this entrance. If we can   widen the opening, we should be   able to crawl through.",46   INT. CAVERNS - ANOTHER SECTION,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-259,WORF,   A phaser set to level sixteen   should suffice.,46   INT. CAVERNS - ANOTHER SECTION,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-260,PICARD,   Make it so.,46   INT. CAVERNS - ANOTHER SECTION,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-261,PICARD,"   Very good, Mister Worf.",46   INT. CAVERNS - ANOTHER SECTION,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+248,DATA,   Captain on the Bridge.,44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+249,JELLICO,"       Let him stew for a few minutes.   Then go in and tell him you've   convinced me to meet with him one   more time. Tell him I'm a loose   cannon... that he needs to be more   reasonable because I'm such an   unreasonable man.       Lemec will want to bring his own   aides on board. Pretend to be   worried that I'll object, but then   give grudging permission for two   aides, no more.       Understood?",44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+250,TROI,"   Yes, sir.",44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+251,RIKER,"   Aye, sir.",44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+252,RIKER,"   Well, I'll say this for him...   he's very sure of himself.",44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+253,TROI,       No... he's not.,44   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+254,PICARD,   The installation should be   about... three hundred meters...    (points down one of the     tunnels)   This way.,45   INT. CAVERNS - CAVE BOTTOM,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+255,BEVERLY,   I don't suppose we're going to   find another way to get back up   there...,45   INT. CAVERNS - CAVE BOTTOM,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+256,WORF,   Doubtful.,45   INT. CAVERNS - CAVE BOTTOM,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+257,BEVERLY,   That's what I thought.,45   INT. CAVERNS - CAVE BOTTOM,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+258,PICARD,"   We need to get through here. This   lava tube runs southwest for   seventy meters before running into   another chamber.       The tube opens up a little more   beyond this entrance. If we can   widen the opening, we should be   able to crawl through.",46   INT. CAVERNS - ANOTHER SECTION,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+259,WORF,   A phaser set to level sixteen   should suffice.,46   INT. CAVERNS - ANOTHER SECTION,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+260,PICARD,   Make it so.,46   INT. CAVERNS - ANOTHER SECTION,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+261,PICARD,"   Very good, Mister Worf.",46   INT. CAVERNS - ANOTHER SECTION,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 262,JELLICO,"       Gul Lemec, a pleasure.",49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 263,LEMEC,"   May I present my aides, Glin Corak   and Glin Tajor.",49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 264,JELLICO,   Welcome aboard.,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
@@ -285,15 +285,15 @@
 283,JELLICO,   Reassigned.,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 284,LEMEC,"   Ah.       Well, I hope his new assignment is   not too dangerous... it would be   a shame if something happened to   such a... noted officer.",49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 285,JELLICO,   Yes... it would.,49   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-286,PICARD,       Just a few more meters...,51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-287,PICARD,"       Beverly, get out of there!",51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-288,PICARD,   Beverly!,51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-289,WORF,   Doctor Crusher!,51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-290,WORF,"   No, sir.",51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-291,WORF,       I have her.,51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-292,PICARD,   Are you all right?,51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-293,BEVERLY,"       I think so.       Next time, you bring up the rear.",51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-294,PICARD,   We're nearly there. Do you feel   like you can continue?,51   INT. CAVERNS - LAVA TUBE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+286,PICARD,       Just a few more meters...,51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+287,PICARD,"       Beverly, get out of there!",51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+288,PICARD,   Beverly!,51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+289,WORF,   Doctor Crusher!,51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+290,WORF,"   No, sir.",51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+291,WORF,       I have her.,51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+292,PICARD,   Are you all right?,51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+293,BEVERLY,"       I think so.       Next time, you bring up the rear.",51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+294,PICARD,   We're nearly there. Do you feel   like you can continue?,51   INT. CAVERNS - LAVA TUBE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 295,PICARD,       This looks like a maintenance   hatch to the installation.       I'm picking up three proximity   sensors around it.,59   INT. CAVERNS - INSTALLATION ENTRANCE (OPTICAL),CAVERNS - INSTALLATION ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 296,WORF,   The sensor echo has been   established. The false image will   only last a few minutes.,59   INT. CAVERNS - INSTALLATION ENTRANCE (OPTICAL),CAVERNS - INSTALLATION ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 297,WORF,   The hatch is magnetically sealed.   But I believe I can bypass it.,59   INT. CAVERNS - INSTALLATION ENTRANCE (OPTICAL),CAVERNS - INSTALLATION ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
@@ -301,10 +301,10 @@
 299,PICARD,"   We have no choice.    (beat, then quiet, to     Beverly)   Remember: aim low and fire in   short, controlled bursts.",59   INT. CAVERNS - INSTALLATION ENTRANCE (OPTICAL),CAVERNS - INSTALLATION ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 300,WORF,   Ready.,59   INT. CAVERNS - INSTALLATION ENTRANCE (OPTICAL),CAVERNS - INSTALLATION ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 301,PICARD,       Now.,59   INT. CAVERNS - INSTALLATION ENTRANCE (OPTICAL),CAVERNS - INSTALLATION ENTRANCE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-302,PICARD,       It's a trap. Come on.,62   INT. CAVERNS - LARGE CHAMBER,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-303,WORF,   Captain!,62   INT. CAVERNS - LARGE CHAMBER,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-304,WORF,   The Captain...,65   INT. CAVERNS - INSTALLATION ENTRANCE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
-305,BEVERLY,       There are five more heading this   way from another tunnel. Come on.,65   INT. CAVERNS - INSTALLATION ENTRANCE,CAVERNS,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+302,PICARD,       It's a trap. Come on.,62   INT. CAVERNS - LARGE CHAMBER,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+303,WORF,   Captain!,62   INT. CAVERNS - LARGE CHAMBER,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+304,WORF,   The Captain...,65   INT. CAVERNS - INSTALLATION ENTRANCE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
+305,BEVERLY,       There are five more heading this   way from another tunnel. Come on.,65   INT. CAVERNS - INSTALLATION ENTRANCE,CAVERN,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 306,DATA,   Captain on the Bridge.,70   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 307,JELLICO,"       What do you have, Wil?",70   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt
 308,RIKER,       I'm not sure. We're picking up a   lot of coded messages from a   Cardassian planet near the border.,70   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,"Chain of Command, Part I",1992-10-06,The Next Generation,236.txt

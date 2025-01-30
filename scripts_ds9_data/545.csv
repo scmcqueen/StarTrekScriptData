@@ -64,17 +64,17 @@
 62,JAKE ALIEN,   Or the beginning.,4    INT. CHAMBER,CHAMBER,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 63,SISKO,   I don't understand.,4    INT. CHAMBER,CHAMBER,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 64,KIRA ALIEN,   The Sisko will know.,4    INT. CHAMBER,CHAMBER,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-65,JAKE,"   Dad, are you okay?",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-66,SISKO,   The Prophets... they were here.   They spoke to me.,8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-67,KORAL,"   You had a vision, Emissary. We   saw nothing.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-68,KIRA,       What did they say to you?,8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-69,SISKO,"   They mentioned a ""Reckoning.""       Is that part of some prophecy?",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-70,KORAL,       Not one that I know of.,8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-71,JAKE,"   Dad, I think we should go now.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-72,SISKO,"   It's all right, Jake. We'll be   leaving soon.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-73,SISKO,   I need to know what these    inscriptions say...,8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-74,KORAL,"   I wish we could translate them    more quickly, but we don't have    the resources.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-75,SISKO,"   Fortunately, we do.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SITE,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+65,JAKE,"   Dad, are you okay?",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+66,SISKO,   The Prophets... they were here.   They spoke to me.,8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+67,KORAL,"   You had a vision, Emissary. We   saw nothing.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+68,KIRA,       What did they say to you?,8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+69,SISKO,"   They mentioned a ""Reckoning.""       Is that part of some prophecy?",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+70,KORAL,       Not one that I know of.,8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+71,JAKE,"   Dad, I think we should go now.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+72,SISKO,"   It's all right, Jake. We'll be   leaving soon.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+73,SISKO,   I need to know what these    inscriptions say...,8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+74,KORAL,"   I wish we could translate them    more quickly, but we don't have    the resources.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+75,SISKO,"   Fortunately, we do.",8    INT. EXCAVATION SITE - CHAMBER,EXCAVATION SIT,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 76,DAX,   I had a pretty good idea what this    was the minute I laid eyes on it.        This confirms it.,10   INT. SCIENCE LAB,SCIENCE LAB,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 77,DAX,   It's a slab of stone with some    writing on it.,10   INT. SCIENCE LAB,SCIENCE LAB,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 78,SISKO,        Dax.,10   INT. SCIENCE LAB,SCIENCE LAB,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
@@ -126,23 +126,23 @@
 124,DAX,   The computer just translated part    of the inscription. Here it is in    modern Bajoran.,14   INT. SCIENCE LAB (VPB) ,SCIENCE LAB,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 125,SISKO,"   ""The time of Reckoning is at hand.    The Prophets will weep, and their    sorrow will consume... ""    (the rest stops him in     his tracks)   ""... the Gateway to the Temple.""",14   INT. SCIENCE LAB (VPB) ,SCIENCE LAB,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 126,DAX,"   Tell me I'm wrong, but isn't the    Gateway to the Temple... Deep    Space Nine?",14   INT. SCIENCE LAB (VPB) ,SCIENCE LAB,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-127,WORF,   -- I'm only telling you what the    translation said. I did not say    I believed it.,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-128,BASHIR,"   Well, I'm not worried. If you    look hard enough, you can find a    Bajoran Prophecy for just about    anything. The Ancient Texts are    a tangle of vague contradictions.",15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-129,ODO,   This one is anything but vague.    And Bajoran Prophecies have an odd    way of coming true.,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-130,BASHIR,"   Don't tell me you believe in this    stuff, too?",15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-131,QUARK,   Odo believes in preparing for the    worst.,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-132,ODO,   True.,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-133,QUARK,   He's as bad as the Bajorans.    (looking around the     quiet bar with dismay)    Business hasn't been this slow    since the Dominion was here. ,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-134,QUARK ,"   You know, I feel it's my civic    duty to do something about all    this doom and gloom. That's why    I want you all to know that I've    extended Happy Hour.",15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-135,BASHIR,   Extended it?,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-136,QUARK,"   From now on, every hour is Happy    Hour.        At least, until business picks up.",15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-137,QUARK,"   Eat, drink and be merry.",15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-138,BASHIR,        For tomorrow we die.,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-139,ODO,        What does the captain say about    all this?,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-140,WORF,   He's reserving judgement until the    computer's finished the    translation.,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-141,BASHIR,"        Who knows, maybe the rest of the    tablet says go to Quark's for    Happy Hour.",15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-142,QUARK,"   I like the way you think, doctor.",15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
-143,BASHIR,   This is ridiculous. Nothing's    going to happen. Someday we're    going to look back at this and    laugh.,15   INT. QUARK'S - SECOND LEVEL,QUARK'S,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+127,WORF,   -- I'm only telling you what the    translation said. I did not say    I believed it.,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+128,BASHIR,"   Well, I'm not worried. If you    look hard enough, you can find a    Bajoran Prophecy for just about    anything. The Ancient Texts are    a tangle of vague contradictions.",15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+129,ODO,   This one is anything but vague.    And Bajoran Prophecies have an odd    way of coming true.,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+130,BASHIR,"   Don't tell me you believe in this    stuff, too?",15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+131,QUARK,   Odo believes in preparing for the    worst.,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+132,ODO,   True.,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+133,QUARK,   He's as bad as the Bajorans.    (looking around the     quiet bar with dismay)    Business hasn't been this slow    since the Dominion was here. ,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+134,QUARK ,"   You know, I feel it's my civic    duty to do something about all    this doom and gloom. That's why    I want you all to know that I've    extended Happy Hour.",15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+135,BASHIR,   Extended it?,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+136,QUARK,"   From now on, every hour is Happy    Hour.        At least, until business picks up.",15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+137,QUARK,"   Eat, drink and be merry.",15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+138,BASHIR,        For tomorrow we die.,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+139,ODO,        What does the captain say about    all this?,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+140,WORF,   He's reserving judgement until the    computer's finished the    translation.,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+141,BASHIR,"        Who knows, maybe the rest of the    tablet says go to Quark's for    Happy Hour.",15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+142,QUARK,"   I like the way you think, doctor.",15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
+143,BASHIR,   This is ridiculous. Nothing's    going to happen. Someday we're    going to look back at this and    laugh.,15   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 144,QUARK,   That's the third time in the last    ten minutes.,16   INT. PROMENADE - SECOND LEVEL (OPTICAL),PROMENADE - SECOND LEVEL,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 145,WORF,        Still no incoming ships.,16   INT. PROMENADE - SECOND LEVEL (OPTICAL),PROMENADE - SECOND LEVEL,INT.,CAST,1998-02-13,Deep Space Nine,545.txt
 146,ODO,   Well something's making the    wormhole do that.,16   INT. PROMENADE - SECOND LEVEL (OPTICAL),PROMENADE - SECOND LEVEL,INT.,CAST,1998-02-13,Deep Space Nine,545.txt

@@ -16,13 +16,13 @@
 14,O'BRIEN,   On my way.,2    INT. CLOSE ON AIRLOCK GATE,CLOSE ON AIRLOCK GATE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 15,DAX,"   Thanks for coming, Chief.",3    INT. CORRIDOR OUTSIDE LABORATORY,CORRIDOR OUTSIDE LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 16,O'BRIEN,   What are you doing out here?,3    INT. CORRIDOR OUTSIDE LABORATORY,CORRIDOR OUTSIDE LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-17,O'BRIEN,   Have you checked the EPS convertor?,4    INT. LABORATORY - CONTINUOUS,LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-18,DAX,   Yes.  First thing.,4    INT. LABORATORY - CONTINUOUS,LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-19,O'BRIEN,   How about the intensity grid?,4    INT. LABORATORY - CONTINUOUS,LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-20,DAX,       It's fine.,4    INT. LABORATORY - CONTINUOUS,LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-21,O'BRIEN,   Then it's probably the secondary    phase modulator.  We had trouble    with them last week in the main power    core.,4    INT. LABORATORY - CONTINUOUS,LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-22,O'BRIEN,   This should do it.,4    INT. LABORATORY - CONTINUOUS,LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-23,O'BRIEN ,   Anything else I can do for you?,4    INT. LABORATORY - CONTINUOUS,LABORATORY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+17,O'BRIEN,   Have you checked the EPS convertor?,4    INT. LABORATORY - CONTINUOUS,LABORATOR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+18,DAX,   Yes.  First thing.,4    INT. LABORATORY - CONTINUOUS,LABORATOR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+19,O'BRIEN,   How about the intensity grid?,4    INT. LABORATORY - CONTINUOUS,LABORATOR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+20,DAX,       It's fine.,4    INT. LABORATORY - CONTINUOUS,LABORATOR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+21,O'BRIEN,   Then it's probably the secondary    phase modulator.  We had trouble    with them last week in the main power    core.,4    INT. LABORATORY - CONTINUOUS,LABORATOR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+22,O'BRIEN,   This should do it.,4    INT. LABORATORY - CONTINUOUS,LABORATOR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+23,O'BRIEN ,   Anything else I can do for you?,4    INT. LABORATORY - CONTINUOUS,LABORATOR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 24,KIRA,   The navigational computer hasn't    been working reliably for three days.     I ask for the star charts of the    Argosian sector and the Glessene    sector comes up instead.,5    INT. OPS,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 25,O'BRIEN,   Uh-huh.,5    INT. OPS,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 26,KIRA,   That's when I can even coax the system    on line.,5    INT. OPS,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
@@ -86,24 +86,24 @@
 84,QUARK,   Who says Bajorans have no sense of    humor?    (pointing to the     activity taking place     behind him)   Actually we're celebrating the repair    of the bar's replicator system.       Perhaps I could interest you in a    nice double-whipped I'danian spice    pudding.,13   INT. PROMENADE,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 85,DAX,       What do you think?,13   INT. PROMENADE,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 86,KIRA,"   I think I'm due back at Ops.  But go    on, enjoy yourself.",13   INT. PROMENADE,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-87,QUARK,"       Please, make yourself comfortable,    Lieutenant.  I did say a double    whipped spice pudding, didn't I?",15   INT. QUARK'S - CONTINUOUS,QUARK'S,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-88,DAX,   It's lovely.  I almost hate to eat    it.,15   INT. QUARK'S - CONTINUOUS,QUARK'S,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-89,QUARK,"   By all means, take the time to admire    its beauty... While I admire yours.",15   INT. QUARK'S - CONTINUOUS,QUARK'S,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-90,KIRA,   Chief... ?,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-91,O'BRIEN,"    (trying to cover, but     failing)   How can I help you, Major?",15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-92,KIRA,   You're the one who could use a little    help.,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-93,O'BRIEN,"   I'm fine, really.",15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-94,KIRA,   I guess this isn't a good time to    tell you the number three Turbolift    has broken down again.,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-95,KIRA,"   I'm joking, Chief.    (Note: From here on     dialogue spoken by     characters with     aphasia will appear     as gibberish in the     script.  A translation     will be provided     upon request, but it     would probably be     more effective if     the actors really     were unable to     communicate.)",15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-96,O'BRIEN,   Major.  Cat's lark pepper.,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-97,KIRA,   What?,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-98,O'BRIEN,       Let birds go further loose maybe.     Shout easy play.,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-99,KIRA,"   Chief, you're not making any sense.",15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-100,O'BRIEN,   Round the turbulent quick.,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-101,O'BRIEN,   Close the reverse harbor.,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-102,O'BRIEN,       Ankle try sound reset gleaming?,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-103,O'BRIEN,   Dinner to bug.  When.,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-104,KIRA,   Chief... wait...,15A  INT. OPS - CLOSE ON O'BRIEN,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+87,QUARK,"       Please, make yourself comfortable,    Lieutenant.  I did say a double    whipped spice pudding, didn't I?",15   INT. QUARK'S - CONTINUOUS,QUARK',INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+88,DAX,   It's lovely.  I almost hate to eat    it.,15   INT. QUARK'S - CONTINUOUS,QUARK',INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+89,QUARK,"   By all means, take the time to admire    its beauty... While I admire yours.",15   INT. QUARK'S - CONTINUOUS,QUARK',INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+90,KIRA,   Chief... ?,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+91,O'BRIEN,"    (trying to cover, but     failing)   How can I help you, Major?",15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+92,KIRA,   You're the one who could use a little    help.,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+93,O'BRIEN,"   I'm fine, really.",15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+94,KIRA,   I guess this isn't a good time to    tell you the number three Turbolift    has broken down again.,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+95,KIRA,"   I'm joking, Chief.    (Note: From here on     dialogue spoken by     characters with     aphasia will appear     as gibberish in the     script.  A translation     will be provided     upon request, but it     would probably be     more effective if     the actors really     were unable to     communicate.)",15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+96,O'BRIEN,   Major.  Cat's lark pepper.,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+97,KIRA,   What?,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+98,O'BRIEN,       Let birds go further loose maybe.     Shout easy play.,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+99,KIRA,"   Chief, you're not making any sense.",15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+100,O'BRIEN,   Round the turbulent quick.,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+101,O'BRIEN,   Close the reverse harbor.,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+102,O'BRIEN,       Ankle try sound reset gleaming?,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+103,O'BRIEN,   Dinner to bug.  When.,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+104,KIRA,   Chief... wait...,15A  INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 105,BASHIR,   Computer continue neural imaging    scan.  Stimulate visual cortex.,17   INT. INFIRMARY,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 106,COMPUTER,   All visual responses normal.,17   INT. INFIRMARY,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 107,BASHIR,   Computer begin auditory stimuli.,17   INT. INFIRMARY,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
@@ -132,13 +132,13 @@
 130,SISKO,"   Is there a problem, Lieutenant?",21   INT. OPS,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 131,SISKO,   Lieutenant.,21   INT. OPS,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 132,DAX,"   I'm sorry, Benjamin, but... I'm unable    to... foolish assembled regal...    control weather.",21   INT. OPS,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-133,BASHIR,"   Commander, spontaneous development    of aphasia is virtually impossible.     But we saw Lieutenant Dax become    aphasic before our eyes.  That told    me we were dealing with a disease    that only mimics aphasia.  So I ran    a full neuro-synaptic comparison of    Dax and O'Brien.       And found this in the temporal lobes    of both patients.",23   INT. INFIRMARY - DAY TWO,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-134,SISKO,   A virus?,23   INT. INFIRMARY - DAY TWO,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-135,BASHIR,"       It imposes itself within established    synaptic pathways and then randomly    reroutes them.  For example, when I    look at this...       ... a process occurs in my brain which    connects this stimulus to the word    ""tricorder.""  The virus disrupts    that process.",23   INT. INFIRMARY - DAY TWO,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-136,SISKO,   I'd see the tricorder but I would    say something ridiculous like...    window.,23   INT. INFIRMARY - DAY TWO,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-137,BASHIR,   Exactly.,23   INT. INFIRMARY - DAY TWO,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-138,NURSE JABARA,"   Doctor, I think you better get over    here.",23   INT. INFIRMARY - DAY TWO,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-139,SISKO,"   Doctor, I want this station put under    emergency quarantine immediately.",23   INT. INFIRMARY - DAY TWO,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+133,BASHIR,"   Commander, spontaneous development    of aphasia is virtually impossible.     But we saw Lieutenant Dax become    aphasic before our eyes.  That told    me we were dealing with a disease    that only mimics aphasia.  So I ran    a full neuro-synaptic comparison of    Dax and O'Brien.       And found this in the temporal lobes    of both patients.",23   INT. INFIRMARY - DAY TWO,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+134,SISKO,   A virus?,23   INT. INFIRMARY - DAY TWO,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+135,BASHIR,"       It imposes itself within established    synaptic pathways and then randomly    reroutes them.  For example, when I    look at this...       ... a process occurs in my brain which    connects this stimulus to the word    ""tricorder.""  The virus disrupts    that process.",23   INT. INFIRMARY - DAY TWO,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+136,SISKO,   I'd see the tricorder but I would    say something ridiculous like...    window.,23   INT. INFIRMARY - DAY TWO,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+137,BASHIR,   Exactly.,23   INT. INFIRMARY - DAY TWO,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+138,NURSE JABARA,"   Doctor, I think you better get over    here.",23   INT. INFIRMARY - DAY TWO,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+139,SISKO,"   Doctor, I want this station put under    emergency quarantine immediately.",23   INT. INFIRMARY - DAY TWO,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 140,ODO,"   Quark, what is going on here?",26   INT. QUARKS,QUARKS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 141,QUARK,   What's it look like?,26   INT. QUARKS,QUARKS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 142,ODO,"   It looks like business as usual.     But that's impossible, because all    shops and business have been closed    until further notice.",26   INT. QUARKS,QUARKS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
@@ -154,17 +154,17 @@
 152,JAKE,   Sorry.  I was over at Nog's.,27   INT. PROMENADE SECOND LEVEL,PROMENADE SECOND LEVEL,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 153,JAKE,"   Dad, about this quarantine, it's    going to be okay, isn't it?",27   INT. PROMENADE SECOND LEVEL,PROMENADE SECOND LEVEL,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 154,SISKO,       It's just a precaution.  Nothing    more.,27   INT. PROMENADE SECOND LEVEL,PROMENADE SECOND LEVEL,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-155,JAHEEL,   I wish I shared your confidence    Commander.,28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-156,SISKO,"   Go on home, son.  I'll see you at    dinner.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-157,SISKO,"   Captain Jaheel, all visitors have    been confined to their ships.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-158,JAHEEL,"   Believe me, there is no place I'd    rather be.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-159,SISKO,   Then what are you doing here?,28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-160,JAHEEL,"   Searching for you.  Commander, I    officially request permission to    leave this station.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-161,SISKO,   Request denied.,28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-162,JAHEEL,"   But none of my crew has been affected    by this virus of yours, and unless I    depart at once my entire cargo will    be ruined...",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-163,SISKO,"       Captain, I suggest you return to    your ship.  Now.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-164,JAHEEL,       Please... I don't want to get sick.,28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-165,SISKO,"   I'm sorry, but until we find a cure    for this thing no one's going    anywhere.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENADE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+155,JAHEEL,   I wish I shared your confidence    Commander.,28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+156,SISKO,"   Go on home, son.  I'll see you at    dinner.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+157,SISKO,"   Captain Jaheel, all visitors have    been confined to their ships.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+158,JAHEEL,"   Believe me, there is no place I'd    rather be.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+159,SISKO,   Then what are you doing here?,28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+160,JAHEEL,"   Searching for you.  Commander, I    officially request permission to    leave this station.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+161,SISKO,   Request denied.,28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+162,JAHEEL,"   But none of my crew has been affected    by this virus of yours, and unless I    depart at once my entire cargo will    be ruined...",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+163,SISKO,"       Captain, I suggest you return to    your ship.  Now.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+164,JAHEEL,       Please... I don't want to get sick.,28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+165,SISKO,"   I'm sorry, but until we find a cure    for this thing no one's going    anywhere.",28   INT. PROMENADE - FIRST LEVEL - CONTINUOUS,PROMENAD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 166,QUARK,"   Let's start with one Ferengi    Stardrifter, please.  Extra strong.",30   INT. EMPTY CREW QUARTERS (OPTICAL),EMPTY CREW QUARTERS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 167,QUARK,   I thought the front wheels were    sticking a bit.,30   INT. EMPTY CREW QUARTERS (OPTICAL),EMPTY CREW QUARTERS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 168,ODO,"   Unauthorized access to crew quarters    is a crime, Quark.       You could have just asked to use the    replicators.",30   INT. EMPTY CREW QUARTERS (OPTICAL),EMPTY CREW QUARTERS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
@@ -240,14 +240,14 @@
 238,ODO,"   Besides, even if she finds this    person... that's no guarantee he can    help us.",45   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 239,SISKO,   We just have to hope he remembers    the antidote.,45   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 240,ODO,   That's assuming he ever bothered to    create one.,45   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-241,KIRA,   ... Had to be someone in the    underground familiar with genetic    engineering.,46   INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-242,GALIS,       Eighteen years ago... sounds like    something Dekon Elig might have    thought up.,46   INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-243,KIRA,   How can I find him?,46   INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-244,GALIS,       Last I heard he was in a Cardassian    prison.,46   INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-245,KIRA,   Where was he being held?,46   INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-246,GALIS,   The Velos Seven Internment Camp.     But that was nine years ago.,46   INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-247,KIRA,"   And you have no idea where he is    now?       Think, Galis.  This is important.",46   INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-248,GALIS,"       I'm sorry Kira, but it was all so    long ago.",46   INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+241,KIRA,   ... Had to be someone in the    underground familiar with genetic    engineering.,46   INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+242,GALIS,       Eighteen years ago... sounds like    something Dekon Elig might have    thought up.,46   INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+243,KIRA,   How can I find him?,46   INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+244,GALIS,       Last I heard he was in a Cardassian    prison.,46   INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+245,KIRA,   Where was he being held?,46   INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+246,GALIS,   The Velos Seven Internment Camp.     But that was nine years ago.,46   INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+247,KIRA,"   And you have no idea where he is    now?       Think, Galis.  This is important.",46   INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+248,GALIS,"       I'm sorry Kira, but it was all so    long ago.",46   INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 249,JAKE,   Roll linger when life.  Roll linger    when.,48   INT. CREW QUARTERS/HOSPITAL WARD,CREW QUARTERS/HOSPITAL WARD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 250,NURSE JABARA,"   What is it, Jake?",48   INT. CREW QUARTERS/HOSPITAL WARD,CREW QUARTERS/HOSPITAL WARD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 251,DAX,       Other support strong courage.,48   INT. CREW QUARTERS/HOSPITAL WARD,CREW QUARTERS/HOSPITAL WARD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
@@ -255,35 +255,35 @@
 253,JAKE,   Open way long.  Openway.,48   INT. CREW QUARTERS/HOSPITAL WARD,CREW QUARTERS/HOSPITAL WARD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 254,NURSE JABARA,"   Doctor, we have an emergency here in    the crew quarters.",48   INT. CREW QUARTERS/HOSPITAL WARD,CREW QUARTERS/HOSPITAL WARD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 255,BASHIR ,   I'll be right there.,48   INT. CREW QUARTERS/HOSPITAL WARD,CREW QUARTERS/HOSPITAL WARD,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-256,SISKO,"   How is he, Doctor?",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-257,BASHIR,"   Not good, I'm afraid.  It seems the    virus has attacked his autonomic    nervous system.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-258,SISKO,   Can he be stabilized?,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-259,BASHIR,"   He hasn't responded to neural    stimulation.  I've given him thirty    c.c.'s of corophizine to avoid    secondary infection, but so far I've    been unable to lower his fever.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-260,SISKO,   What are his chances?,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-261,BASHIR,"   Unless I find some way to counteract    the virus, he'll be dead in twelve    hours.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-262,SISKO,    (gently; knows Bashir     is doing his best)   Have you made any progress?,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-263,BASHIR,"       No... I've tried base pair de-   stabilizers, sequential disruption,    nothing seems to affect it.       Sir, I have seven other aphasic    patients displaying the same symptoms    as O'Brien here.  And I'm afraid    it's only the beginning.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-264,SISKO,"   Keep searching, Doctor.  And let's    hope Major Kira can find whoever's    responsible for creating this virus.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-265,BASHIR,   I'd like to meet that person myself.     This virus is a work of genius.,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-266,SISKO,       I'll try and arrange it for you.,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-267,COMPUTER,   Link established with the Bajoran    Archival Records.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-268,KIRA,   Locate files on Velos Seven Internment    camp.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-269,COMPUTER,   Ready.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-270,KIRA,   Do you show a record of an inmate    named Dekon Elig?,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-271,OMPUTER,   Affirmative.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-272,KIRA,   Biographical data...,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-273,COMPUTER,   Dekon Elig.  Geneticist...,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-274,COMPUTER,   Former member of the Higa Metar Sect    of the Bajoran underground.  Killed    while attempting escape Stardate    39355.  Certificate of Death on file.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-275,SISKO ,   No need to ask how you're doing.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-276,KIRA,   I'm chasing after ghosts.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-277,SISKO,   You have twelve hours to catch one.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-278,KIRA,   And then?,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-279,SISKO,   People start dying.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-280,KIRA,"       Computer, display Dekon Elig's    Certificate of Death.",54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-281,KIRA,       Identify signature of witness.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-282,COMPUTER,"   Certificate of Death was witnessed    by Surmak Ren, Bajoran Medical    Assistant.",54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-283,KIRA,   Show me biographical data on Surmak    Ren.,54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-284,COMPUTER,"   Doctor Surmak Ren.  Former member of    the Higa Metar sect of the Bajoran    underground.  Repatriated to Bajor    upon closing of the Velos Seven    Internment Camp, Stardate 46302.     Current status... unknown.",54A  INT. OPS - CLOSE ON KIRA,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+256,SISKO,"   How is he, Doctor?",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+257,BASHIR,"   Not good, I'm afraid.  It seems the    virus has attacked his autonomic    nervous system.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+258,SISKO,   Can he be stabilized?,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+259,BASHIR,"   He hasn't responded to neural    stimulation.  I've given him thirty    c.c.'s of corophizine to avoid    secondary infection, but so far I've    been unable to lower his fever.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+260,SISKO,   What are his chances?,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+261,BASHIR,"   Unless I find some way to counteract    the virus, he'll be dead in twelve    hours.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+262,SISKO,    (gently; knows Bashir     is doing his best)   Have you made any progress?,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+263,BASHIR,"       No... I've tried base pair de-   stabilizers, sequential disruption,    nothing seems to affect it.       Sir, I have seven other aphasic    patients displaying the same symptoms    as O'Brien here.  And I'm afraid    it's only the beginning.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+264,SISKO,"   Keep searching, Doctor.  And let's    hope Major Kira can find whoever's    responsible for creating this virus.",51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+265,BASHIR,   I'd like to meet that person myself.     This virus is a work of genius.,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+266,SISKO,       I'll try and arrange it for you.,51   INT. INFIRMARY - CLOSE ON O'BRIEN,INFIRMAR,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+267,COMPUTER,   Link established with the Bajoran    Archival Records.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+268,KIRA,   Locate files on Velos Seven Internment    camp.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+269,COMPUTER,   Ready.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+270,KIRA,   Do you show a record of an inmate    named Dekon Elig?,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+271,OMPUTER,   Affirmative.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+272,KIRA,   Biographical data...,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+273,COMPUTER,   Dekon Elig.  Geneticist...,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+274,COMPUTER,   Former member of the Higa Metar Sect    of the Bajoran underground.  Killed    while attempting escape Stardate    39355.  Certificate of Death on file.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+275,SISKO ,   No need to ask how you're doing.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+276,KIRA,   I'm chasing after ghosts.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+277,SISKO,   You have twelve hours to catch one.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+278,KIRA,   And then?,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+279,SISKO,   People start dying.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+280,KIRA,"       Computer, display Dekon Elig's    Certificate of Death.",54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+281,KIRA,       Identify signature of witness.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+282,COMPUTER,"   Certificate of Death was witnessed    by Surmak Ren, Bajoran Medical    Assistant.",54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+283,KIRA,   Show me biographical data on Surmak    Ren.,54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+284,COMPUTER,"   Doctor Surmak Ren.  Former member of    the Higa Metar sect of the Bajoran    underground.  Repatriated to Bajor    upon closing of the Velos Seven    Internment Camp, Stardate 46302.     Current status... unknown.",54A  INT. OPS - CLOSE ON KIRA,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 285,QUARK,       Dabo!,56   INT. QUARK'S,QUARK'S,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 286,ODO,   Having any luck?,56   INT. QUARK'S,QUARK'S,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 287,QUARK,   I haven't won a spin in hours.       Care to place a friendly wager?       If it's your reputation you're    thinking about... no one need ever    know.,56   INT. QUARK'S,QUARK'S,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
@@ -410,11 +410,11 @@
 408,SURMAK,"   I think you'd better sit down, Major.",88B  INT. INFIRMARY,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 409,JAHEEL,       Dog fellow distance.,88C  INT. DOCKING PORT FIVE,DOCKING PORT FIVE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 410,ODO,   Tell me about it.,88C  INT. DOCKING PORT FIVE,DOCKING PORT FIVE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-411,QUARK,"   Odo, that ship's going to explode in    one minute.",91   INT. OPS - TIGHT ON QUARK AT OPERATIONS TABLE,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+411,QUARK,"   Odo, that ship's going to explode in    one minute.",91   INT. OPS - TIGHT ON QUARK AT OPERATIONS TABLE,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 412,SURMAK,"       Virum protein sheath... uh-huh...    Nucleotide sequence... yes...       That's right, it's an adaptive    synaptic inhibitor... Dekon was    brilliant, there's no doubt of that.",92A  INT. INFIRMARY,INFIRMARY,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 413,QUARK,   Forty seconds.,92B  INT. DOCKING PORT FIVE,DOCKING PORT FIVE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 414,QUARK,   Thirty seconds.  Hurry.,93   INT. OPS,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
-415,QUARK,   Twenty seconds.,95   INT. OPS - QUARK,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
+415,QUARK,   Twenty seconds.,95   INT. OPS - QUARK,OP,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 416,ODO,       I know.  I know.,96   INT. DOCKING PORT FIVE,DOCKING PORT FIVE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 417,QUARK,   Quark to Odo.  You still with us?,100  INT. OPS,OPS,INT.,Babel,1992-10-07,Deep Space Nine,405.txt
 418,ODO,   Try not to sound too disappointed.,101  INT. DOCKING PORT FIVE,DOCKING PORT FIVE,INT.,Babel,1992-10-07,Deep Space Nine,405.txt

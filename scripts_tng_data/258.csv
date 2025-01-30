@@ -1,10 +1,10 @@
 ,character,quote,scene,location,view,episode,date,series,file
-0,GEORDI,"   Data, there you are... we need to   install that plasma conduit right   away. We're bringing the new warp   core on-line in less than three   hours.",1    INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-1,DATA,   I will go to deck twenty and begin   modifications.,1    INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-2,GEORDI,   Great. Meet me in Engineering as   soon as you're finished.       This should be a lot of fun.,1    INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-3,DATA,   Excuse me. Do you have   authorization to work in this   area?,3    INT. ANOTHER CORRIDOR - CONTINUOUS,ANOTHER CORRIDOR,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-4,DATA,       You are dismantling a warp plasma   conduit. I must ask you to stop.,3    INT. ANOTHER CORRIDOR - CONTINUOUS,ANOTHER CORRIDOR,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-5,WORKMAN,   Be quiet!,3    INT. ANOTHER CORRIDOR - CONTINUOUS,ANOTHER CORRIDOR,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+0,GEORDI,"   Data, there you are... we need to   install that plasma conduit right   away. We're bringing the new warp   core on-line in less than three   hours.",1    INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+1,DATA,   I will go to deck twenty and begin   modifications.,1    INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+2,GEORDI,   Great. Meet me in Engineering as   soon as you're finished.       This should be a lot of fun.,1    INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+3,DATA,   Excuse me. Do you have   authorization to work in this   area?,3    INT. ANOTHER CORRIDOR - CONTINUOUS,ANOTHER CORRIDO,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+4,DATA,       You are dismantling a warp plasma   conduit. I must ask you to stop.,3    INT. ANOTHER CORRIDOR - CONTINUOUS,ANOTHER CORRIDO,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+5,WORKMAN,   Be quiet!,3    INT. ANOTHER CORRIDOR - CONTINUOUS,ANOTHER CORRIDO,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 6,PICARD ,"   Captain's Log, Stardate 47225.7.   Commander La Forge has completed   the installation of our new warp   core. We are preparing to test   its capabilities.",6    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Phantasms,1993-08-17,The Next Generation,258.txt
 7,RIKER,"   Something wrong, sir?",7    INT. BRIDGE,BRIDGE,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 8,PICARD,   I just got a message from   Starfleet command.,7    INT. BRIDGE,BRIDGE,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
@@ -88,13 +88,13 @@
 86,DATA,"   I am sorry, Counselor.",16   INT. TEN FORWARD,TEN FORWARD,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 87,TROI,   No...,16   INT. TEN FORWARD,TEN FORWARD,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 88,TROI,"   Data, no! DATA!",16   INT. TEN FORWARD,TEN FORWARD,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-89,TROI,   Data!,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTERS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-90,DATA,   What is wrong?,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTERS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-91,TROI,   We've been trying to wake you up   for the past five minutes.,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTERS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-92,GEORDI,"   When you didn't show up in   Engineering on time, I got   worried... I called security...",21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTERS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-93,DATA,   My internal chronometer was   supposed to wake me thirty-five   minutes ago.,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTERS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-94,WORF,   You must have... overslept.,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTERS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-95,DATA,   That is not possible...       Something is wrong.,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTERS,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+89,TROI,   Data!,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTER,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+90,DATA,   What is wrong?,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTER,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+91,TROI,   We've been trying to wake you up   for the past five minutes.,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTER,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+92,GEORDI,"   When you didn't show up in   Engineering on time, I got   worried... I called security...",21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTER,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+93,DATA,   My internal chronometer was   supposed to wake me thirty-five   minutes ago.,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTER,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+94,WORF,   You must have... overslept.,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTER,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+95,DATA,   That is not possible...       Something is wrong.,21   INT. DATA'S QUARTERS - CONTINUOUS,DATA'S QUARTER,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 96,GEORDI,"   I can't find anything wrong with   your internal time-base... and as   far as I can tell, your primary   systems check out fine.",22   INT. ENGINEERING,ENGINEERING,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 97,DATA,"   My chronometer is functioning   normally, as well.       I will compare my autonomic logs   to the ship's chronometer.   Perhaps we overlooked something.",22   INT. ENGINEERING,ENGINEERING,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 98,GEORDI,"   You know, Data... there's a lot we   don't know about your dream   program. Maybe it was designed to   cause some side-effects...       For all we know, Doctor Soong   intended for you to oversleep now   and then... as part of the human   experience.",22   INT. ENGINEERING,ENGINEERING,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
@@ -211,12 +211,12 @@
 209,GEORDI,"       Good work, Ensign. I thought he'd   never leave...       Data, would you help me lock down   this plasma conduit... ?",45   INT. ENGINEERING,ENGINEERING,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 210,GEORDI,   Data?,45   INT. ENGINEERING,ENGINEERING,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 211,GEORDI,   Data... ?,45   INT. ENGINEERING,ENGINEERING,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-212,TROI,       Deck Thirty-six.,57   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-213,TROI,"   Hello, Data.",57   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-214,TROI,       Data... are you all right?,57   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-215,TROI,       What are you doing?,57   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-216,DATA,"   I am sorry, Counselor.",57   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
-217,TROI,   NO!,57   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+212,TROI,       Deck Thirty-six.,57   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+213,TROI,"   Hello, Data.",57   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+214,TROI,       Data... are you all right?,57   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+215,TROI,       What are you doing?,57   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+216,DATA,"   I am sorry, Counselor.",57   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
+217,TROI,   NO!,57   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 218,WORF,   Ever since you gave Alexander that   music program... he has been   playing it all night... every   night.,58   INT. CORRIDOR,CORRIDOR,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 219,RIKER,"   I was just trying to broaden his   horizons. Besides, he likes it.",58   INT. CORRIDOR,CORRIDOR,INT.,Phantasms,1993-08-17,The Next Generation,258.txt
 220,WORF,   It is screeching... pounding...   dissonant. It is not music.,58   INT. CORRIDOR,CORRIDOR,INT.,Phantasms,1993-08-17,The Next Generation,258.txt

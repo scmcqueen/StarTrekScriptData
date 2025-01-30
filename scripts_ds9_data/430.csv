@@ -62,24 +62,24 @@
 60,SISKO,"   Get them out of there, Chief.",4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 61,O'BRIEN,"   Aye, sir.",4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 62,SISKO,   I'm Commander Sisko of the United    Federation of Planets.  You've just    been beamed onto a Bajoran space    station.  We don't mean you any    harm...,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-63,SISKO,"       We're going to bring your ship in.    Once it's docked, we'll be able to    diagnose its problems and hopefully    fix them.  After that, you can be on    your way.",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-64,SISKO,"    (to Tumak, points to     Tumak's hand)   I can offer you medical assistance    for that wound...",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-65,TUMAK,   Oo-mata!  Oo-mata!  Dongo patar meeoto    fenta.  Fenta!,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-66,HANEEK,   Naga dentana... oobay a-tal.  Oobay    a-tal!  Keetama sootay.  Shalanta    Skrreea.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-67,KIRA,       Does anyone understand what she's    saying...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-68,SISKO,   There must be something wrong with    the Universal Translator.  Chief?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-69,O'BRIEN,"   It's working, Commander... but for    some reason it's having a hard    analyzing their language patterns...    their syntax and grammatical structure    must be completely unlike anything    we have in our database...",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-70,SISKO,   We'll have to keep them talking until    the computer can establish a    translation matrix.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-71,HANEEK,       Ketoh maseeca.  Skrreea.  Tolak    mayfessaka.  Koo masek.  Gadoux    besoolin fenta.  Fenta?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-72,KIRA,       Keeping them talking doesn't seem to    be a problem...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-73,HANEEK,   Oobay-a-tal?  Fidask setoma meeka?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-74,SISKO,"   Major, we need to get these people    to the Infirmary.  They seem to be    most comfortable with you.  Why don't    you lead the way?",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-75,KIRA,   All right... we're going to go for a    little ride in the turbolift...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-76,HANEEK,   Toma.  Bessa!,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-77,SISKO,       Sisko to Odo.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-78,ODO,"   Yes, Commander.",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-79,SISKO,   We're bringing some new arrivals    from the Gamma Quadrant down to the    Promenade.  Meet us at Turbolift    Nine.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-80,ODO,   I'm on my way.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+63,SISKO,"       We're going to bring your ship in.    Once it's docked, we'll be able to    diagnose its problems and hopefully    fix them.  After that, you can be on    your way.",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+64,SISKO,"    (to Tumak, points to     Tumak's hand)   I can offer you medical assistance    for that wound...",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+65,TUMAK,   Oo-mata!  Oo-mata!  Dongo patar meeoto    fenta.  Fenta!,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+66,HANEEK,   Naga dentana... oobay a-tal.  Oobay    a-tal!  Keetama sootay.  Shalanta    Skrreea.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+67,KIRA,       Does anyone understand what she's    saying...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+68,SISKO,   There must be something wrong with    the Universal Translator.  Chief?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+69,O'BRIEN,"   It's working, Commander... but for    some reason it's having a hard    analyzing their language patterns...    their syntax and grammatical structure    must be completely unlike anything    we have in our database...",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+70,SISKO,   We'll have to keep them talking until    the computer can establish a    translation matrix.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+71,HANEEK,       Ketoh maseeca.  Skrreea.  Tolak    mayfessaka.  Koo masek.  Gadoux    besoolin fenta.  Fenta?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+72,KIRA,       Keeping them talking doesn't seem to    be a problem...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+73,HANEEK,   Oobay-a-tal?  Fidask setoma meeka?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+74,SISKO,"   Major, we need to get these people    to the Infirmary.  They seem to be    most comfortable with you.  Why don't    you lead the way?",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+75,KIRA,   All right... we're going to go for a    little ride in the turbolift...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+76,HANEEK,   Toma.  Bessa!,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+77,SISKO,       Sisko to Odo.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+78,ODO,"   Yes, Commander.",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+79,SISKO,   We're bringing some new arrivals    from the Gamma Quadrant down to the    Promenade.  Meet us at Turbolift    Nine.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+80,ODO,   I'm on my way.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 81,KIRA,       We're here... you can come out now...    (a friendly beckoning     wave)   There's no need to be afraid...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 82,ODO,"   What seems to be the trouble,    Commander?",12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 83,SISKO,   The computer's having a hard time    translating their language...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
@@ -103,17 +103,17 @@
 101,KIRA,"   All right, let's put those back...    both of you...",12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 102,KIRA,       They really need to put those back...    (a smile that takes     in the dress and the     display case)   We can go shopping later.       But right now it's important we go    to the Infirmary... so all of you...    follow me...       We'll all go together...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 103,HANEEK,   Fazeek.  Cromay fazeek!,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-104,GAI,   Kootana...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-105,COWL,   Kootana batoo lakar asheem... !,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-106,GAI,    (escalating; taking     offense)   Dokka?!       Pestani voe lakar asheem!,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-107,HANEEK,    (sharply; to Gai and     Cowl)   Kolat!  Kolat kee!,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-108,ODO,       There's no doubt who the boss is...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-109,SISKO,"       How bad is it, Doctor?",16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-110,BASHIR,   Looks like a second degree plasma    burn.  The dermal regenerator should    take care of it...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-111,KIRA,   I'm sorry... I'm not the doctor...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-112,HANEEK,   Kolat?  Kolat Gadoux?,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-113,BASHIR,"       I assure, I won't hurt him...",16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-114,KIRA,       He'll be all right...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMARY,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+104,GAI,   Kootana...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+105,COWL,   Kootana batoo lakar asheem... !,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+106,GAI,    (escalating; taking     offense)   Dokka?!       Pestani voe lakar asheem!,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+107,HANEEK,    (sharply; to Gai and     Cowl)   Kolat!  Kolat kee!,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+108,ODO,       There's no doubt who the boss is...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+109,SISKO,"       How bad is it, Doctor?",16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+110,BASHIR,   Looks like a second degree plasma    burn.  The dermal regenerator should    take care of it...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+111,KIRA,   I'm sorry... I'm not the doctor...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+112,HANEEK,   Kolat?  Kolat Gadoux?,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+113,BASHIR,"       I assure, I won't hurt him...",16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+114,KIRA,       He'll be all right...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 115,KIRA,"   This will be your quarters while    you're here on the station.  I'm    sure you'd like to rest and clean up    and...    (catches herself as     she sees their blank     looks)   ... you still don't understand a word    I'm saying, do you...",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 116,SISKO,   I know something they might    understand...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 117,SISKO,       Seven maaza stalks...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
@@ -142,35 +142,35 @@
 140,KIRA,   Three hundred?  Three thousand?,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 141,ODO,       Three million?,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 142,HANEEK,"    (eyes Odo, then to     Kira)   Yes... three million... three million    of my people are on the other side...    we must bring them through the Eye...    we must bring them here.",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-143,KIRA,   Is there anything wrong?,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-144,HANEEK,   I'm just not used to the men being    here... Skrreean men don't involve    themselves in situations like this...,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-145,DAX,   Are all your leaders women?,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-146,HANEEK,   Yes.,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-147,BASHIR,   All of them... ?,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-148,DAX,"       You heard her, Julian.",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-149,HANEEK,   Men are much too emotional to be    leaders.  They're always fighting    among themselves... it's their    favorite thing to do.       I'm sorry.  I hope I haven't offended    anyone...,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-150,SISKO,   Sorry to keep you waiting.,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-151,DAX,"       That's all right, Benjamin.  Haneek    was just telling us how the Skrreea    are a female dominant society...",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-152,O'BRIEN,       It seems the men are a bit too    emotional to become leaders...,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-153,HANEEK,   Please don't misunderstand... we    love our men...    (glancing around at     the males)   Really!,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-154,SISKO,"   Are you one of the leaders of your    people, Haneek?",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-155,HANEEK,   Me?  Oh no... I'm little more than a    farmer... I was just lucky...,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-156,BASHIR,   How so?,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-157,HANEEK,   I was the first one to find the Eye    of the Universe...,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-158,HANEEK,   We had heard about a great tunnel    being discovered... we knew it must    be the Eye of the Universe that would    lead us to Kentanna...,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-159,O'BRIEN,   Kentanna?,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-160,HANEEK,"   Kentanna is the legendary home of    the Skrreeans... it has always been    portrayed in our sacred texts as    being just beyond the Eye of the    Universe... a ""planet of sorrow where    the Skrreea will sew seeds of joy.""",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-161,SISKO,"   I can't guarantee you'll find    Kentanna, but I can promise you we'll    help you find a home.       I've sent our runabouts to the Gamma    Quadrant to make contact with your    ships.",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-162,HANEEK,"   That will be difficult... they're    spread out, looking for the Eye...",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-163,ODO,"   When we do find them, what then?     This station only holds seven thousand    people... and you're talking about    three million Skrreeans...",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-164,KIRA,   I'm afraid most of your people will    have to stay confined to their    ships...,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-165,HANEEK,   I understand.,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-166,SISKO,"   In the meantime, is there any one    person we should be looking for?  A    leader... or leaders... ?",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-167,HANEEK,   Most of our leaders were killed by    the T-Rogorans.,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-168,BASHIR,   The T-Rogorans?  Who are they?,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-169,HANEEK,   For eight centuries my people have    lived under their rule... we were    forced to work as laborers and    servants... we were able to escape    when the T-Rogorans were invaded and    conquered...,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-170,ODO,   Who conquered them?,21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-171,HANEEK,"   I don't know their name.  All I know    is they were members of something    called ""The Dominion""...",21   INT. OPS - ANGLE ON HANEEK,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+143,KIRA,   Is there anything wrong?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+144,HANEEK,   I'm just not used to the men being    here... Skrreean men don't involve    themselves in situations like this...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+145,DAX,   Are all your leaders women?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+146,HANEEK,   Yes.,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+147,BASHIR,   All of them... ?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+148,DAX,"       You heard her, Julian.",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+149,HANEEK,   Men are much too emotional to be    leaders.  They're always fighting    among themselves... it's their    favorite thing to do.       I'm sorry.  I hope I haven't offended    anyone...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+150,SISKO,   Sorry to keep you waiting.,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+151,DAX,"       That's all right, Benjamin.  Haneek    was just telling us how the Skrreea    are a female dominant society...",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+152,O'BRIEN,       It seems the men are a bit too    emotional to become leaders...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+153,HANEEK,   Please don't misunderstand... we    love our men...    (glancing around at     the males)   Really!,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+154,SISKO,"   Are you one of the leaders of your    people, Haneek?",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+155,HANEEK,   Me?  Oh no... I'm little more than a    farmer... I was just lucky...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+156,BASHIR,   How so?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+157,HANEEK,   I was the first one to find the Eye    of the Universe...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+158,HANEEK,   We had heard about a great tunnel    being discovered... we knew it must    be the Eye of the Universe that would    lead us to Kentanna...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+159,O'BRIEN,   Kentanna?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+160,HANEEK,"   Kentanna is the legendary home of    the Skrreeans... it has always been    portrayed in our sacred texts as    being just beyond the Eye of the    Universe... a ""planet of sorrow where    the Skrreea will sew seeds of joy.""",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+161,SISKO,"   I can't guarantee you'll find    Kentanna, but I can promise you we'll    help you find a home.       I've sent our runabouts to the Gamma    Quadrant to make contact with your    ships.",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+162,HANEEK,"   That will be difficult... they're    spread out, looking for the Eye...",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+163,ODO,"   When we do find them, what then?     This station only holds seven thousand    people... and you're talking about    three million Skrreeans...",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+164,KIRA,   I'm afraid most of your people will    have to stay confined to their    ships...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+165,HANEEK,   I understand.,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+166,SISKO,"   In the meantime, is there any one    person we should be looking for?  A    leader... or leaders... ?",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+167,HANEEK,   Most of our leaders were killed by    the T-Rogorans.,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+168,BASHIR,   The T-Rogorans?  Who are they?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+169,HANEEK,   For eight centuries my people have    lived under their rule... we were    forced to work as laborers and    servants... we were able to escape    when the T-Rogorans were invaded and    conquered...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+170,ODO,   Who conquered them?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+171,HANEEK,"   I don't know their name.  All I know    is they were members of something    called ""The Dominion""...",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 172,KIRA,   Did I wake you?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 173,HANEEK,"   It's all right.  Please, come in...",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 174,HANEEK,"   Computer, lights on full.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
@@ -197,79 +197,79 @@
 195,KIRA,"       Well, that makes two of us.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 196,HANEEK,       It's awful!,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 197,KIRA,   Horrible!  Who would wear it?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-198,JAKE,   Look -- it was no big deal --,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-199,NOG,   You go out with a dabo girl for the    first time and you stand there and    tell me it was no big deal?,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-200,JAKE,"   It's wasn't really a ""date"" --",24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-201,NOG,   Does your father know you went out    with her?,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-202,JAKE,   Not exactly...,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-203,NOG,       He doesn't?,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-204,JAKE,   I told him I had to go help someone    with their homework...,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-205,NOG,   Good thinking.  Too bad I won't ever    be able to use that lie.  My dad    knows I never do homework...,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-206,JAKE,"   It's not a lie, Nog.  Mardah's    studying entomology.  She asked me    to help her out...",24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-207,NOG,   A dabo girl who studies entomology...       ...sure.,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-208,JAKE,   It's true!,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-209,NOG,       What is entomology?,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-210,JAKE,   The study of bugs.,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-211,NOG,   You mean she wants to be a chef?,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-212,JAKE,   Hey -- who's that?,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-213,NOG,       I don't know.  What's he doing?,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-214,NOG,   That's disgusting --,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-215,JAKE,   He must be one of the Skrreeans.  My    dad says there's a lot more of them    on the way...,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-216,JAKE,       Hi!,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-217,NOG,       Doesn't he know what a replicator's    for?  Idiot...       So -- does Mardah have any sisters?,24   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+198,JAKE,   Look -- it was no big deal --,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+199,NOG,   You go out with a dabo girl for the    first time and you stand there and    tell me it was no big deal?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+200,JAKE,"   It's wasn't really a ""date"" --",24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+201,NOG,   Does your father know you went out    with her?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+202,JAKE,   Not exactly...,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+203,NOG,       He doesn't?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+204,JAKE,   I told him I had to go help someone    with their homework...,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+205,NOG,   Good thinking.  Too bad I won't ever    be able to use that lie.  My dad    knows I never do homework...,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+206,JAKE,"   It's not a lie, Nog.  Mardah's    studying entomology.  She asked me    to help her out...",24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+207,NOG,   A dabo girl who studies entomology...       ...sure.,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+208,JAKE,   It's true!,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+209,NOG,       What is entomology?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+210,JAKE,   The study of bugs.,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+211,NOG,   You mean she wants to be a chef?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+212,JAKE,   Hey -- who's that?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+213,NOG,       I don't know.  What's he doing?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+214,NOG,   That's disgusting --,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+215,JAKE,   He must be one of the Skrreeans.  My    dad says there's a lot more of them    on the way...,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+216,JAKE,       Hi!,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+217,NOG,       Doesn't he know what a replicator's    for?  Idiot...       So -- does Mardah have any sisters?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 218,O'BRIEN,       I've cleared the Skrreean ship to    dock at upper pylon two.,28   INT. OPS (OPTICAL),OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 219,SISKO,"       Time to welcome your people to the    Alpha Quadrant, Haneek...",28   INT. OPS (OPTICAL),OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-220,HANEEK,   Come on... don't be afraid... we're    among friends...,29   INT. DOCKING RING CORRIDOR - OUTSIDE AIRLOCK,DOCKING RING CORRIDOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-221,ODO,   Slow down!,30   INT. PROMENADE - SEVERAL SHOTS,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-222,ODO,       There's no running on the    Promenade!,30   INT. PROMENADE - SEVERAL SHOTS,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-223,ODO,"   It's going to get awfully crowded    around here, Commander...",30   INT. PROMENADE - SEVERAL SHOTS,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-224,SISKO,"   I know, Constable, but it's worth    it.  Just look at them... they're    experiencing their first taste of    freedom...",30   INT. PROMENADE - SEVERAL SHOTS,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-225,JAKE,   Nog!  Where are you going?,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-226,NOG,   Can't talk now!  Gotta run!,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-227,ODO,"   Nog, you know there's no running on    the Promenade...",32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-228,NOG,       Who's running?,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-229,ODO,       What seems to be the problem?,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-230,JAKE,    (sniffing something     sour)   What's that smell... ?,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-231,TUMAK,"    (incensed, points at     Nog)   Ask him!",32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-232,NOG,   Me?!  You're the one who stinks!,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-233,TUMAK,   That's because you sprayed that vapor    on us... !,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-234,ODO,"   Is that true, Nog?",32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-235,NOG,   No!,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-236,ODO,       Nog... ?,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-237,NOG,       It was a joke... !,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-238,ODO,       Very amusing.    (addressing the     Skrreeans)   Thank you for bringing this to my    attention.  I'll take care of it    from here.,32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-239,TUMAK,"       This isn't over yet, Big Ears!",32   INT. PROMENADE - SECOND LEVEL,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-240,NOG,"   Hey... here's a new one!       What kind of name is ""Plix Tixiplik?""",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-241,ODO,   I believe he's a Reegrunion.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-242,NOG,"       ""Wanted in seven star systems for    illegal weapon sales.""       Weapon sales, huh?  Very profitable.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-243,ODO,   How would you know?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-244,NOG,       My Uncle Quark told me.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-245,ODO,   What does your Uncle Quark know about    illegal weapon sales?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-246,NOG,"       He, uh... he, uh...",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-247,QUARK ,    (finishing Nog's     statement)   ... knows better than to ever get    involved in anything so    disreputable...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-248,ODO,    (to Quark; dryly     cynical)   I'm sure.  I asked the boy's father    come see me...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-249,QUARK,   Rom is doing the weekly stock    inventory.  I don't want to interrupt    him.  You know how easy he loses    count... so I came in his place.       Nog... have you been causing mischief    again?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-250,NOG,"   No, Uncle.  It's all a    misunderstanding.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-251,ODO,   He sprayed some Skrreean boys with a    foul-smelling vapor.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-252,QUARK,       Did he...    (catching himself; to     Nog; mock sternly)   What do you have to say for yourself?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-253,NOG,       I'm sorry... ?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-254,QUARK,       You see?  The boy's beside himself    with guilt.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-255,ODO,   That still doesn't excuse his actions.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-256,QUARK,   And he will be punished.  Severely.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-257,NOG,       I will?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-258,QUARK,       I want you to tell the Constable    here that you'll never do it again.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-259,NOG,"   I won't?       I mean, I won't.  I promise.  Never    again.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-260,ODO,    ,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-261,NOG,   Can I leave now?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-262,ODO,   Go on.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-263,QUARK,"   You know, you really can't blame the    boy...",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-264,ODO,   And why's that?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-265,QUARK,"   Come on, Odo... you know these    Skrreeans are nothing but trouble.     They're all over the station, looking    and touching but never spending any    money.  And they flake.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-266,ODO,   I didn't notice.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-267,QUARK,   Come to my place... you'll see little    pieces of Skrreean skin all over the    bar and the floor... it's disgusting.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-268,ODO,   They won't be here long.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-269,QUARK,   I hope not.  They're driving my paying    customers away.  They stay here too    long and I'll be out of business...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-270,ODO,"   In that case, I hope they never leave.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+220,HANEEK,   Come on... don't be afraid... we're    among friends...,29   INT. DOCKING RING CORRIDOR - OUTSIDE AIRLOCK,DOCKING RING CORRIDO,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+221,ODO,   Slow down!,30   INT. PROMENADE - SEVERAL SHOTS,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+222,ODO,       There's no running on the    Promenade!,30   INT. PROMENADE - SEVERAL SHOTS,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+223,ODO,"   It's going to get awfully crowded    around here, Commander...",30   INT. PROMENADE - SEVERAL SHOTS,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+224,SISKO,"   I know, Constable, but it's worth    it.  Just look at them... they're    experiencing their first taste of    freedom...",30   INT. PROMENADE - SEVERAL SHOTS,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+225,JAKE,   Nog!  Where are you going?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+226,NOG,   Can't talk now!  Gotta run!,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+227,ODO,"   Nog, you know there's no running on    the Promenade...",32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+228,NOG,       Who's running?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+229,ODO,       What seems to be the problem?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+230,JAKE,    (sniffing something     sour)   What's that smell... ?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+231,TUMAK,"    (incensed, points at     Nog)   Ask him!",32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+232,NOG,   Me?!  You're the one who stinks!,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+233,TUMAK,   That's because you sprayed that vapor    on us... !,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+234,ODO,"   Is that true, Nog?",32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+235,NOG,   No!,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+236,ODO,       Nog... ?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+237,NOG,       It was a joke... !,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+238,ODO,       Very amusing.    (addressing the     Skrreeans)   Thank you for bringing this to my    attention.  I'll take care of it    from here.,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+239,TUMAK,"       This isn't over yet, Big Ears!",32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+240,NOG,"   Hey... here's a new one!       What kind of name is ""Plix Tixiplik?""",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+241,ODO,   I believe he's a Reegrunion.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+242,NOG,"       ""Wanted in seven star systems for    illegal weapon sales.""       Weapon sales, huh?  Very profitable.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+243,ODO,   How would you know?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+244,NOG,       My Uncle Quark told me.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+245,ODO,   What does your Uncle Quark know about    illegal weapon sales?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+246,NOG,"       He, uh... he, uh...",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+247,QUARK ,    (finishing Nog's     statement)   ... knows better than to ever get    involved in anything so    disreputable...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+248,ODO,    (to Quark; dryly     cynical)   I'm sure.  I asked the boy's father    come see me...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+249,QUARK,   Rom is doing the weekly stock    inventory.  I don't want to interrupt    him.  You know how easy he loses    count... so I came in his place.       Nog... have you been causing mischief    again?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+250,NOG,"   No, Uncle.  It's all a    misunderstanding.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+251,ODO,   He sprayed some Skrreean boys with a    foul-smelling vapor.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+252,QUARK,       Did he...    (catching himself; to     Nog; mock sternly)   What do you have to say for yourself?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+253,NOG,       I'm sorry... ?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+254,QUARK,       You see?  The boy's beside himself    with guilt.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+255,ODO,   That still doesn't excuse his actions.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+256,QUARK,   And he will be punished.  Severely.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+257,NOG,       I will?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+258,QUARK,       I want you to tell the Constable    here that you'll never do it again.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+259,NOG,"   I won't?       I mean, I won't.  I promise.  Never    again.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+260,ODO,    ,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+261,NOG,   Can I leave now?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+262,ODO,   Go on.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+263,QUARK,"   You know, you really can't blame the    boy...",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+264,ODO,   And why's that?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+265,QUARK,"   Come on, Odo... you know these    Skrreeans are nothing but trouble.     They're all over the station, looking    and touching but never spending any    money.  And they flake.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+266,ODO,   I didn't notice.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+267,QUARK,   Come to my place... you'll see little    pieces of Skrreean skin all over the    bar and the floor... it's disgusting.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+268,ODO,   They won't be here long.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+269,QUARK,   I hope not.  They're driving my paying    customers away.  They stay here too    long and I'll be out of business...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+270,ODO,"   In that case, I hope they never leave.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 271,VAYNA,   We've talked it over among    ourselves... our feelings were    unanimous... you discovered the Eye    of the Universe... you must lead us    the rest of the way...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 272,HANEEK,       I'll do the best I can...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 273,KIRA,   That looked pretty serious.  Is    everything all right?,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
@@ -284,11 +284,11 @@
 282,KIRA,"   Not at all... Haneek, this is    Varani... a great musician... maybe    the greatest Bajor has ever known...",34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 283,VARANI,"       She exaggerates...       ... but that's why I'm so fond of    her...       Being a Bajoran, I know what it's    like to be... displaced.  As a token    of friendship, I'd like to give you...    this...",34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 284,VARANI,   It's from a concert I gave many years    ago... at the Jalanda Forum...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-285,HANEEK,   Tumak -- where've you been?,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-286,TUMAK,       Nowhere...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-287,HANEEK,   Where are you going?,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-288,TUMAK,   To wash...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-289,HANEEK,   Computer -- please show me a chart    of this star system...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+285,HANEEK,   Tumak -- where've you been?,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+286,TUMAK,       Nowhere...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+287,HANEEK,   Where are you going?,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+288,TUMAK,   To wash...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+289,HANEEK,   Computer -- please show me a chart    of this star system...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 290,JAKE,   So what did your Dad say?,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 291,NOG,   About what?,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 292,JAKE,   About your getting in trouble with    Odo.,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
@@ -316,15 +316,15 @@
 314,KIRA,"    (reading planet's     name)   ""Draylon Two""... never heard of it...",43   INT. OPS - ON DAX'S MONITOR (OPTICAL),OPS - ON DAX'S MONITOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 315,DAX,   It's near Sefalla Prime... it's got    definite possibilities... stable    orbit... a temperate climate... very    low surface radiation...,43   INT. OPS - ON DAX'S MONITOR (OPTICAL),OPS - ON DAX'S MONITOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 316,SISKO,   Add to that good soil and a long    growing season... I think it's our    best bet.,43   INT. OPS - ON DAX'S MONITOR (OPTICAL),OPS - ON DAX'S MONITOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-317,SISKO,   May we come in?,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-318,HANEEK,   Of course...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-319,SISKO,       Ladies...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-320,HANEEK,"   Forgive them, Commander Sisko...    they don't mean to be disrespectful...",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-321,SISKO,       I understand.       We have some encouraging news...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-322,KIRA,       We think we've found a planet for    you and your people... one with    excellent potential for resettlement.,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-323,HANEEK,"       We appreciate all your hard work...    but I'm afraid it was unnecessary...    you see, we've found Kentanna.",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-324,KIRA,       You have?,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-325,HANEEK,"       A ""planet of sorrow,"" Kira... don't    you see?       Kentanna is your planet...       Kentanna is Bajor.",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+317,SISKO,   May we come in?,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+318,HANEEK,   Of course...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+319,SISKO,       Ladies...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+320,HANEEK,"   Forgive them, Commander Sisko...    they don't mean to be disrespectful...",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+321,SISKO,       I understand.       We have some encouraging news...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+322,KIRA,       We think we've found a planet for    you and your people... one with    excellent potential for resettlement.,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+323,HANEEK,"       We appreciate all your hard work...    but I'm afraid it was unnecessary...    you see, we've found Kentanna.",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+324,KIRA,       You have?,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+325,HANEEK,"       A ""planet of sorrow,"" Kira... don't    you see?       Kentanna is your planet...       Kentanna is Bajor.",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 326,SISKO ,"   Station log, Stardate 47391.2.  Chief    O'Brien is continuing to oversee    repairs to the Skrreean ships docked    at the station...",46   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 327,SISKO ,"   Meanwhile, Minister Rozahn and Vedek    Sorad have arrived from Bajor with    an official response to the Skrreeans'    request to immigrate...",47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 328,VARANI,"   Major, if I may have a moment...",47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
@@ -377,24 +377,24 @@
 375,TUMAK,   Do you want to move there?,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 376,JAKE,   No...,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 377,TUMAK,   Neither do I.,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-378,HANEEK,       Come in...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-379,KIRA,   Haneek...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-380,HANEEK,   The thing I don't understand is why    you pretended to be my friend.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-381,KIRA,   I wasn't pretending.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-382,HANEEK,   Ahhh.  So you are my friend...       ... until I need you.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-383,KIRA,"   I know it's hard for you to see right    now, but I am trying to help...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-384,HANEEK,   I think I've had quite enough of    your help...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-385,KIRA,"   You have to believe me, Commander    Sisko has found you a wonderful    home...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-386,HANEEK,"   You betrayed me, Kira.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-387,KIRA,"   No, I didn't.  I honestly believe    the provisional government made the    right decision, for both Bajor and    the Skrreeans...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-388,HANEEK,"   If that's true, then we have nothing    to discuss.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-389,KIRA,   I was hoping we could still be    friends...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-390,HANEEK,"   In other words, you came looking for    forgiveness...       Well I don't forgive you.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-391,SISKO,   Sisko to Kira.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-392,KIRA,"       Go ahead, Commander.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-393,SISKO,   Is Haneek with you?,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-394,KIRA,   Yes.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
-395,SISKO,   I need both of you in Ops immediately.     Tumak has taken a ship.  He's headed    for Bajor...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+378,HANEEK,       Come in...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+379,KIRA,   Haneek...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+380,HANEEK,   The thing I don't understand is why    you pretended to be my friend.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+381,KIRA,   I wasn't pretending.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+382,HANEEK,   Ahhh.  So you are my friend...       ... until I need you.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+383,KIRA,"   I know it's hard for you to see right    now, but I am trying to help...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+384,HANEEK,   I think I've had quite enough of    your help...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+385,KIRA,"   You have to believe me, Commander    Sisko has found you a wonderful    home...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+386,HANEEK,"   You betrayed me, Kira.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+387,KIRA,"   No, I didn't.  I honestly believe    the provisional government made the    right decision, for both Bajor and    the Skrreeans...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+388,HANEEK,"   If that's true, then we have nothing    to discuss.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+389,KIRA,   I was hoping we could still be    friends...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+390,HANEEK,"   In other words, you came looking for    forgiveness...       Well I don't forgive you.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+391,SISKO,   Sisko to Kira.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+392,KIRA,"       Go ahead, Commander.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+393,SISKO,   Is Haneek with you?,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+394,KIRA,   Yes.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
+395,SISKO,   I need both of you in Ops immediately.     Tumak has taken a ship.  He's headed    for Bajor...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 396,O'BRIEN,"   They're not responding, sir...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 397,SISKO,"   Keep trying, Mister O'Brien...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt
 398,KIRA,   How did it happen?,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt

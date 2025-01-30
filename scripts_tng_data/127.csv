@@ -58,13 +58,13 @@
 56,PICARD,"       It's always difficult leaving any   ship, as it was for your mother   when she left to become head of   Starfleet Medical. But going   from one assignment to another   is part of the life which you are   choosing.",22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
 57,WESLEY,"   Yes, but this isn't ""any"" ship.",22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
 58,PICARD,   Truly.,22   INT. CORRIDOR,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-59,PICARD,       Guinan.,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
-60,GUINAN,   Captain.,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
-61,PICARD,   Where's Doctor Pulaski?,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
-62,PICARD,   Doctor Katherine Pulaski?,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
-63,PULASKI,   Ah... you must be Captain   Picard...,23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
-64,PICARD,"   Doctor -- protocol on your last   assignment might have been lax,   but here on the Enterprise...",23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
-65,PULASKI,"    (she abruptly cuts him     off)   Sit down, Captain. You better   listen to this.",23   INT. TEN-FORWARD,TE,INT.,The Child,1988-09-20,The Next Generation,127.txt
+59,PICARD,       Guinan.,23   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+60,GUINAN,   Captain.,23   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+61,PICARD,   Where's Doctor Pulaski?,23   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+62,PICARD,   Doctor Katherine Pulaski?,23   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+63,PULASKI,   Ah... you must be Captain   Picard...,23   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+64,PICARD,"   Doctor -- protocol on your last   assignment might have been lax,   but here on the Enterprise...",23   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
+65,PULASKI,"    (she abruptly cuts him     off)   Sit down, Captain. You better   listen to this.",23   INT. TEN-FORWARD,TEN-FORWARD,INT.,The Child,1988-09-20,The Next Generation,127.txt
 66,PICARD,"    (he touches his     communicator)   Lieutenant La Forge, status   report.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
 67,GEORDI,"   The containment area is completed,   the last of the modules are being   inserted.",27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
 68,PICARD,   Take us to warp six as soon as   possible.,27   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
@@ -145,44 +145,44 @@
 143,TROI,"   Yes, and strange to think my child   is the cause.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
 144,PULASKI,"   Before you referred to it as ""the   child,"" now it's become your   child.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
 145,TROI,"   Yes, whatever his beginnings,   that's what he's become.",37   INT. DOCTOR PULASKI'S OFFICE,DOCTOR PULASKI'S OFFICE,INT.,The Child,1988-09-20,The Next Generation,127.txt
-146,PULASKI,   How frequent are your   contractions?,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-147,TROI,   Very close together.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-148,PULASKI,   In all my other deliveries -- with   a couple of exceptions -- the   father was present.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-149,TROI,   Difficult under the circumstances.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-150,PULASKI,   It's unfortunate you have to go   through this alone. It helps to   have someone with you.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-151,DATA,   Perhaps I could serve in that   capacity. I can quickly review   the procedures I will be required   to execute.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-152,PULASKI,"   Troi is going to need the comfort   of a ""human"" touch... Not the cold   hand of technology.",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-153,TROI,   Doctor. I think Commander Data   will do nicely.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-154,PULASKI,   Your choice.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-155,TROI,"   There is nothing specific you have   to do, Data, you just have to be   with me.",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-156,PULASKI,   There is nothing to be nervous   about.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-157,DATA,"   This is very interesting to me.   Although I understand in technical   terms how life is formed, there   is still a part of the process   which eludes my understanding.   I began my existence as an adult.   I have no memory -- no cognizance   of conception, birth, childhood,   so to be allowed to witness this   event is...",39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-158,TROI,   It's happening.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-159,DATA,       Doctor!,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-160,PULASKI,   This is an impatient baby. He's   eager to make his appearance.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-161,PULASKI,       I'll give you something for the   pain. It won't in any way   diminish the experience.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-162,TROI,   I have felt no pain.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-163,PULASKI,   None?,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-164,TROI,   No... none at all.,39   INT. SICKBAY - MATERNITY,SICKBAY,INT.,The Child,1988-09-20,The Next Generation,127.txt
-165,PULASKI,"   Have your security team stand over   there. I understand the need to   have you here, but keep out from   under foot.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-166,PULASKI,   Are easy births the norm for   Betazoids?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-167,TROI,   Not according to my mother.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-168,PULASKI,"    (as she hands it to     Troi)   It's a boy. A normal, healthy,   six pound, three ounce baby boy.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-169,PULASKI,    (continuing; without     any edge)   You can come the rest of the way   in now.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-170,PULASKI,"   No threat here, Lieutenant, you   and your men can relax... it's   just a baby.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-171,DATA,   It was remarkable. Thank you for   allowing me to participate.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-172,PULASKI,   Do you have a name?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-173,TROI,"   Ian Andrew, after my father.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-174,PULASKI,    (she touches her     communicator)   Captain.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-175,PICARD,   Picard here.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-176,PULASKI,   Counselor Troi is the mother of   a very healthy baby boy. Mother   and child are both doing well.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-177,PICARD,"   Counselor, my best wishes to you   and your son.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-178,TROI,"   Thank you, sir.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-179,TROI,       Have you been here all along?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-180,RIKER,"   Yes.       He's beautiful, Deanna... just   like his mother.       I don't think you are going to   be needed here, Lieutenant.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-181,PULASKI,   How do you feel?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-182,TROI,"   Fine. Absolutely wonderful and   thank you, Doctor... for   everything.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
-183,PULASKI,"    (as she does a scan of     Troi and the baby, her     face registers     surprise)   Amazing.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+146,PULASKI,   How frequent are your   contractions?,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+147,TROI,   Very close together.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+148,PULASKI,   In all my other deliveries -- with   a couple of exceptions -- the   father was present.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+149,TROI,   Difficult under the circumstances.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+150,PULASKI,   It's unfortunate you have to go   through this alone. It helps to   have someone with you.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+151,DATA,   Perhaps I could serve in that   capacity. I can quickly review   the procedures I will be required   to execute.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+152,PULASKI,"   Troi is going to need the comfort   of a ""human"" touch... Not the cold   hand of technology.",39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+153,TROI,   Doctor. I think Commander Data   will do nicely.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+154,PULASKI,   Your choice.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+155,TROI,"   There is nothing specific you have   to do, Data, you just have to be   with me.",39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+156,PULASKI,   There is nothing to be nervous   about.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+157,DATA,"   This is very interesting to me.   Although I understand in technical   terms how life is formed, there   is still a part of the process   which eludes my understanding.   I began my existence as an adult.   I have no memory -- no cognizance   of conception, birth, childhood,   so to be allowed to witness this   event is...",39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+158,TROI,   It's happening.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+159,DATA,       Doctor!,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+160,PULASKI,   This is an impatient baby. He's   eager to make his appearance.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+161,PULASKI,       I'll give you something for the   pain. It won't in any way   diminish the experience.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+162,TROI,   I have felt no pain.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+163,PULASKI,   None?,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+164,TROI,   No... none at all.,39   INT. SICKBAY - MATERNITY,SICKBA,INT.,The Child,1988-09-20,The Next Generation,127.txt
+165,PULASKI,"   Have your security team stand over   there. I understand the need to   have you here, but keep out from   under foot.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+166,PULASKI,   Are easy births the norm for   Betazoids?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+167,TROI,   Not according to my mother.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+168,PULASKI,"    (as she hands it to     Troi)   It's a boy. A normal, healthy,   six pound, three ounce baby boy.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+169,PULASKI,    (continuing; without     any edge)   You can come the rest of the way   in now.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+170,PULASKI,"   No threat here, Lieutenant, you   and your men can relax... it's   just a baby.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+171,DATA,   It was remarkable. Thank you for   allowing me to participate.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+172,PULASKI,   Do you have a name?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+173,TROI,"   Ian Andrew, after my father.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+174,PULASKI,    (she touches her     communicator)   Captain.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+175,PICARD,   Picard here.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+176,PULASKI,   Counselor Troi is the mother of   a very healthy baby boy. Mother   and child are both doing well.,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+177,PICARD,"   Counselor, my best wishes to you   and your son.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+178,TROI,"   Thank you, sir.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+179,TROI,       Have you been here all along?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+180,RIKER,"   Yes.       He's beautiful, Deanna... just   like his mother.       I don't think you are going to   be needed here, Lieutenant.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+181,PULASKI,   How do you feel?,40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+182,TROI,"   Fine. Absolutely wonderful and   thank you, Doctor... for   everything.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
+183,PULASKI,"    (as she does a scan of     Troi and the baby, her     face registers     surprise)   Amazing.",40A  INT. CORRIDOR - ENTRANCE TO SICKBAY,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
 184,PICARD,"   Welcome to the bridge, Doctor.   How's Counselor Troi? Did she   have a good night?",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
 185,PULASKI,"   I have delivered dozens of babies.   But none like this. There was   no pain, no trauma. It was   effortless for both of them.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
 186,PICARD,   I'm not sure of your point.,46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
@@ -192,7 +192,7 @@
 190,PICARD,"       You have the Conn, Number One.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
 191,RIKER,"   Aye, sir.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
 192,PICARD,"   Doctor, you would accompany me,   please. I think it's time I paid   my respects.",46   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Child,1988-09-20,The Next Generation,127.txt
-193,TROI,   Come in.,47   INT. CORRIDOR - ENTRANCE TO TROI'S QUARTERS,CORRIDOR,INT.,The Child,1988-09-20,The Next Generation,127.txt
+193,TROI,   Come in.,47   INT. CORRIDOR - ENTRANCE TO TROI'S QUARTERS,CORRIDO,INT.,The Child,1988-09-20,The Next Generation,127.txt
 194,PICARD,   I wanted to come by and see how   you were and have a look at   your...,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
 195,PICARD,       ... baby! My goodness.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt
 196,PICARD,       How old is he?,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,The Child,1988-09-20,The Next Generation,127.txt

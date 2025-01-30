@@ -135,10 +135,10 @@
 133,WORF,   Captain. Transmission from   Turkana Four. Coming in on a   secure channel.,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 134,PICARD,       On screen.,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 135,HAYNE,"   Hello, Enterprise. Commander   Riker, would you introduce me to   your Captain?",14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-136,PICARD,       I'm Captain Jean-Luc Picard.,16   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-137,HAYNE,   I have someone here you might like   to meet.,16   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-138,HAYNE,       This is Ishara... Ishara Yar.,16   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-139,ISHARA,   Tasha was my sister.,16   INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+136,PICARD,       I'm Captain Jean-Luc Picard.,16   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+137,HAYNE,   I have someone here you might like   to meet.,16   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+138,HAYNE,       This is Ishara... Ishara Yar.,16   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+139,ISHARA,   Tasha was my sister.,16   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 140,HAYNE,"   There's an old saying, Captain.   ""The enemy of my enemy is my   friend."" I've decided it's in   my best interest to help you get   your men back.",18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 141,PICARD,   With nothing from us in return?,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 142,HAYNE,   You could be forced into paying   my adversary a ransom in weapons.   I'll do anything I can to avoid   that possibility.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
@@ -195,29 +195,29 @@
 193,PICARD,   On screen.,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 194,TAN TSU,"       Enterprise, I'm being held by the   Turkana Four Alliance. I've been   instructed to say that you have   twenty hours to make reparations   for Federation intrusion into this   colony.       Or my pilot and I will be killed.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 195,BEVERLY,       Ask them if we can at least send   a medical --,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-196,ISHARA,"   Take that threat seriously,   Captain. They'll torture them   and then they'll kill them. My   cadre has never recovered a   hostage alive from the Alliance.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-197,ISHARA,       Your crewmen could be held in any   number of places. The Alliance   has two main headquarters and   thirteen ancillary bases of   operation. All underground. All   heavily guarded.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-198,GEORDI,   If I could get to the myographic   scanner...,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-199,ISHARA,   What's that?,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-200,DATA,   A sensing device on the escape   pod. It monitors the bio-electric   signatures of the crew. In the   event they get separated from the   pod.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-201,GEORDI,   I could install a booster on the   device that would relay its   signals to the Enterprise. Then   we could track the men from up   here.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-202,PICARD,"   Unfortunately, we don't know where   the escape pod is.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-203,ISHARA,"   Level Three-C, Section   five-four-seven.    (a smile off their     surprise)   We have our sources.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-204,ISHARA ,   Access tunnels are here...,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-205,ISHARA,   ... and here.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-206,RIKER,       We could transport an away team   right into this intersection...,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-207,ISHARA,"   Don't underestimate them,   Commander. They'll be ready for   that... I've seen them use this   kind of strategy before.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-208,ISHARA,       I know it looks isolated and   easily accessible... But my guess   is they have hundreds of men on   the levels above and below   waiting for you to make your   move.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-209,WORF,   We'll need a diversion.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-210,GEORDI,"   Transport a couple of photon   grenades into the adjoining   chambers. At minimum intensity   it wouldn't kill anybody, just   shake them up a lot.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-211,RIKER,   That won't give us enough time.   We need something that'll occupy   them long enough for you to   install the relay.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-212,ISHARA,   Transport me into this corridor.   My magnetic implant will set off   the defense alarms. They'll   think it's a raid by the   Coalition.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-213,RIKER,"   Too dangerous. We've seen what   those tunnels look like. You   could easily be cut off from the   rest of us.       Worf, if we --",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-214,ISHARA,"   -- Commander Riker.       I was ordered to assist you in   any way possible. That doesn't   mean ""as long as it's safe, or   convenient.""",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-215,ISHARA,"       If you had the time, we could come   up with another plan.     ",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-216,ISHARA ,"   But you don't. Right now, I'm   your best option.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-217,DATA,"   She would have to be armed,   Commander.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-218,RIKER,"   I want to discuss this with the   Captain.       Mister Data, take Ishara to see   Doctor Crusher.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+196,ISHARA,"   Take that threat seriously,   Captain. They'll torture them   and then they'll kill them. My   cadre has never recovered a   hostage alive from the Alliance.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+197,ISHARA,       Your crewmen could be held in any   number of places. The Alliance   has two main headquarters and   thirteen ancillary bases of   operation. All underground. All   heavily guarded.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+198,GEORDI,   If I could get to the myographic   scanner...,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+199,ISHARA,   What's that?,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+200,DATA,   A sensing device on the escape   pod. It monitors the bio-electric   signatures of the crew. In the   event they get separated from the   pod.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+201,GEORDI,   I could install a booster on the   device that would relay its   signals to the Enterprise. Then   we could track the men from up   here.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+202,PICARD,"   Unfortunately, we don't know where   the escape pod is.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+203,ISHARA,"   Level Three-C, Section   five-four-seven.    (a smile off their     surprise)   We have our sources.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+204,ISHARA ,   Access tunnels are here...,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+205,ISHARA,   ... and here.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+206,RIKER,       We could transport an away team   right into this intersection...,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+207,ISHARA,"   Don't underestimate them,   Commander. They'll be ready for   that... I've seen them use this   kind of strategy before.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+208,ISHARA,       I know it looks isolated and   easily accessible... But my guess   is they have hundreds of men on   the levels above and below   waiting for you to make your   move.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+209,WORF,   We'll need a diversion.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+210,GEORDI,"   Transport a couple of photon   grenades into the adjoining   chambers. At minimum intensity   it wouldn't kill anybody, just   shake them up a lot.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+211,RIKER,   That won't give us enough time.   We need something that'll occupy   them long enough for you to   install the relay.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+212,ISHARA,   Transport me into this corridor.   My magnetic implant will set off   the defense alarms. They'll   think it's a raid by the   Coalition.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+213,RIKER,"   Too dangerous. We've seen what   those tunnels look like. You   could easily be cut off from the   rest of us.       Worf, if we --",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+214,ISHARA,"   -- Commander Riker.       I was ordered to assist you in   any way possible. That doesn't   mean ""as long as it's safe, or   convenient.""",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+215,ISHARA,"       If you had the time, we could come   up with another plan.     ",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+216,ISHARA ,"   But you don't. Right now, I'm   your best option.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+217,DATA,"   She would have to be armed,   Commander.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+218,RIKER,"   I want to discuss this with the   Captain.       Mister Data, take Ishara to see   Doctor Crusher.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 219,ISHARA,   You have Tasha's DNA on file?,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 220,BEVERLY,   The ship's computer does.       There's always some   differentiation in the somatic   chromosomes -- but it's not enough   to affect the results.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 221,BEVERLY,       It'll take me a few hours to run   the isomorphic comparison.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
@@ -230,20 +230,20 @@
 228,DATA,   No... she was killed as a   demonstration of the creature's   power. Without provocation.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 229,ISHARA,       That's not how I intend to die.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 230,RIKER,   The Captain approves. You're   with us.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-231,RIKER,"    (touches insignia,     quietly)   Enterprise, we're in position.",29   INT. CHAMBER - ESCAPE POD,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-232,GEORDI,   Damn!,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-233,RIKER ,   Geordi -- what's taking so long?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-234,GEORDI,"   There's a lot of damage here...   The myographic scanner is   operational, but the power source   is fluctuating.",31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-235,RIKER,   Can you fix it?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-236,GEORDI,   I can try to run a shunt from the   convertor.,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-237,RIKER,   How long will that take?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-238,GEORDI,       Ten minutes?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-239,RIKER,   Do it.,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-240,RIKER,       O'Brien! Lock onto Ishara and   get her out of here!,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+231,RIKER,"    (touches insignia,     quietly)   Enterprise, we're in position.",29   INT. CHAMBER - ESCAPE POD,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+232,GEORDI,   Damn!,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+233,RIKER ,   Geordi -- what's taking so long?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+234,GEORDI,"   There's a lot of damage here...   The myographic scanner is   operational, but the power source   is fluctuating.",31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+235,RIKER,   Can you fix it?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+236,GEORDI,   I can try to run a shunt from the   convertor.,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+237,RIKER,   How long will that take?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+238,GEORDI,       Ten minutes?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+239,RIKER,   Do it.,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+240,RIKER,       O'Brien! Lock onto Ishara and   get her out of here!,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 241,O'BRIEN,       There's a transformer substation   directly above the chamber she   just entered. It's masking her   signal.,33   INT. TRANSPORTER,TRANSPORTER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-242,RIKER,       Standby!       Stay here and cover La Forge.,34   INT. CHAMBER - ESCAPE POD,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-243,WORF,       Commander --,34   INT. CHAMBER - ESCAPE POD,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-244,RIKER,   That's an order. Return to the   ship when you're finished here.   I'll signal for transport as soon   as I can.,34   INT. CHAMBER - ESCAPE POD,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+242,RIKER,       Standby!       Stay here and cover La Forge.,34   INT. CHAMBER - ESCAPE POD,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+243,WORF,       Commander --,34   INT. CHAMBER - ESCAPE POD,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+244,RIKER,   That's an order. Return to the   ship when you're finished here.   I'll signal for transport as soon   as I can.,34   INT. CHAMBER - ESCAPE POD,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 245,RIKER,   Energize!,35   INT. ADJOINING CORRIDOR (OPTICAL),ADJOINING CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 246,PICARD,   Come.,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 247,PICARD,       How is she?,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt
@@ -265,21 +265,21 @@
 263,PICARD,"       In the months that followed, Tasha   never once failed to put the   safety of the crew before her own.       She died doing the same.",39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 264,PICARD,   I'm sorry you never knew the woman   Tasha became. I think you might   have been proud of her.     ,39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 265,PICARD ,       And she of you.,39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-266,DATA,   What is this structure?,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-267,ISHARA,   A main fusion source -- there's   one next to each of the Alliance   headquarters. It powers all their   defensive systems.,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-268,ISHARA,   This chamber is accessed from the   level below. Entry points are   evenly spaced along this wall   every twenty-five meters.,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-269,ISHARA,   Data... Where was Tasha's post?,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-270,DATA,   The Tactical Station -- where   Lieutenant Worf is now.,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-271,ISHARA,   Did Tasha have many friends here?,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-272,DATA,   Yes. She was especially close   to Commander Riker and Lieutenant   Worf. And to myself.,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-273,ISHARA,       Are you able to have friends?,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-274,DATA,   Yes.,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-275,ISHARA,"   But you don't have feelings, do   you?",40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-276,DATA,"   Not as such. However, perhaps   even among humans, friendship is   sometimes less an emotional   response, and more a sense of   familiarity.",40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-277,ISHARA,       You can become used to someone.,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-278,DATA,"   Exactly. As I experience certain   sensory input patterns, my mental   pathways become accustomed to   them. The inputs eventually are   anticipated. And even ""missed""   when absent. When something once   expected is no longer there.",40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-279,ISHARA,       Like my sister.,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-280,DATA,   Yes. Like your sister.,40   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+266,DATA,   What is this structure?,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+267,ISHARA,   A main fusion source -- there's   one next to each of the Alliance   headquarters. It powers all their   defensive systems.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+268,ISHARA,   This chamber is accessed from the   level below. Entry points are   evenly spaced along this wall   every twenty-five meters.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+269,ISHARA,   Data... Where was Tasha's post?,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+270,DATA,   The Tactical Station -- where   Lieutenant Worf is now.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+271,ISHARA,   Did Tasha have many friends here?,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+272,DATA,   Yes. She was especially close   to Commander Riker and Lieutenant   Worf. And to myself.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+273,ISHARA,       Are you able to have friends?,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+274,DATA,   Yes.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+275,ISHARA,"   But you don't have feelings, do   you?",40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+276,DATA,"   Not as such. However, perhaps   even among humans, friendship is   sometimes less an emotional   response, and more a sense of   familiarity.",40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+277,ISHARA,       You can become used to someone.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+278,DATA,"   Exactly. As I experience certain   sensory input patterns, my mental   pathways become accustomed to   them. The inputs eventually are   anticipated. And even ""missed""   when absent. When something once   expected is no longer there.",40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+279,ISHARA,       Like my sister.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+280,DATA,   Yes. Like your sister.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 281,GEORDI,   They've been moved so far   underground that it took awhile   to pinpoint their signatures.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 282,GEORDI,       The men are here. Next to one   of the Alliance headquarters.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 283,GEORDI ,       And that's about two kilometers   of solid granite above them.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
@@ -296,17 +296,17 @@
 294,DATA,   A small force field containing   xenon or another inert gas could   be placed over the incision site.   The explosive could thereby be   safely disarmed at the same time   it is removed.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 295,RIKER,"   It's more than just a tactical   device to you, isn't it? It's   part of your identity.",45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 296,RIKER,"       This is something you'll have to   decide for yourself, Ishara.   Think about it while we're waiting   for Geordi.",45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-297,ISHARA,"   Our parents were killed in some   crossfire just after I was born.   Some people took care of us for   a few months... Then one day we   came home and they were gone.   So Tasha took care of me. And   when I got old enough, I joined   the Coalition.",50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-298,DATA,   And Tasha did not?,50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-299,ISHARA,   My sister hated the cadres.   Blamed them for our parents death.   For everything. She refused to   join. And she left as soon as   she had the chance.,50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-300,ISHARA,       I always thought she was weak for   doing that...,50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-301,ISHARA,       But maybe I was wrong. Maybe   she made the right choice.,50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-302,ISHARA,       To work together for something   besides killing... to be close   to someone without having to   protect your back.,50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-303,DATA,   You find that appealing?,50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-304,ISHARA,"   Very appealing. You're a perfect   example. I hardly even know you   Data, but already I completely   trust you. I even consider you   my friend.",50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-305,DATA,"   Thank you. I would like to   consider you my friend, Ishara.",50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-306,ISHARA,"   If I had known about this place   fifteen years ago, things might've   been different.",50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-307,ISHARA,       Maybe it's not too late.,50   INT. TEN-FORWARD,TE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+297,ISHARA,"   Our parents were killed in some   crossfire just after I was born.   Some people took care of us for   a few months... Then one day we   came home and they were gone.   So Tasha took care of me. And   when I got old enough, I joined   the Coalition.",50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+298,DATA,   And Tasha did not?,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+299,ISHARA,   My sister hated the cadres.   Blamed them for our parents death.   For everything. She refused to   join. And she left as soon as   she had the chance.,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+300,ISHARA,       I always thought she was weak for   doing that...,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+301,ISHARA,       But maybe I was wrong. Maybe   she made the right choice.,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+302,ISHARA,       To work together for something   besides killing... to be close   to someone without having to   protect your back.,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+303,DATA,   You find that appealing?,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+304,ISHARA,"   Very appealing. You're a perfect   example. I hardly even know you   Data, but already I completely   trust you. I even consider you   my friend.",50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+305,DATA,"   Thank you. I would like to   consider you my friend, Ishara.",50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+306,ISHARA,"   If I had known about this place   fifteen years ago, things might've   been different.",50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+307,ISHARA,       Maybe it's not too late.,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 308,DATA,   Ishara is willing to have the   implant removed.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 309,PICARD,   Very good. You may inform Doctor   Crusher.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 310,DATA,   She also expressed a desire to   leave the colony. She hopes   to apply to the Academy and   eventually join Starfleet.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt
@@ -326,16 +326,16 @@
 324,DATA,"   We must free the crewmen. She   appears to be our best hope of   doing so. Also, individuals   worthy of Starfleet training are   somewhat rare.",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 325,DATA,       In addition...,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 326,DATA,       I have become used to her.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-327,ISHARA,"   Thank you, Data.",52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-328,DATA,   You are welcome. Doctor Crusher   is expecting you in Sickbay.,52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-329,ISHARA,   It's all so different...,52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-330,DATA,   To what are you referring?,52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-331,ISHARA,"   On the colony, nobody does   anything for anyone else unless   they have something to gain from   it.",52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-332,DATA,   But I do have something to gain.   Your continued presence on this   ship.,52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-333,DATA,       Is something wrong?,52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-334,ISHARA,   I have to tell Hayne and the   others. I owe it to them.       Guess I ought to get it over with.,52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-335,DATA,"   If you desire privacy, you may   use the observation lounge.",52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
-336,ISHARA,   That would probably make things   a little easier.,52   INT. BRIDGE - SCIENCE STATION,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+327,ISHARA,"   Thank you, Data.",52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+328,DATA,   You are welcome. Doctor Crusher   is expecting you in Sickbay.,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+329,ISHARA,   It's all so different...,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+330,DATA,   To what are you referring?,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+331,ISHARA,"   On the colony, nobody does   anything for anyone else unless   they have something to gain from   it.",52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+332,DATA,   But I do have something to gain.   Your continued presence on this   ship.,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+333,DATA,       Is something wrong?,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+334,ISHARA,   I have to tell Hayne and the   others. I owe it to them.       Guess I ought to get it over with.,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+335,DATA,"   If you desire privacy, you may   use the observation lounge.",52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
+336,ISHARA,   That would probably make things   a little easier.,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 337,HAYNE,   Report?,53   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 338,ISHARA,   It's working.,53   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt
 339,PICARD ,"   Captain's log, stardate 44225.3.   Doctor Crusher has removed   Ishara's magnetic implant,   enabling the young woman to guide   our rescue attempt.",54   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Legacy,1990-08-20,The Next Generation,180.txt

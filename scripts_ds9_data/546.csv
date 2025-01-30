@@ -86,7 +86,7 @@
 84,COLLINS ,   The captain asked me to escort you    both to the bridge. If you'll    follow me... ?,18   INT. VALIANT - TRANSPORTER ROOM (OPTICAL),VALIANT - TRANSPORTER ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 85,FARRIS,   Shields holding at eighty-four    percent.,20   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 86,WATTERS,"   Helm, bring us about to course two-   one-five mark three one zero.",20   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-87,WATTERS,   Fire!,22   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+87,WATTERS,   Fire!,22   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 88,WATTERS,        As you were.        This is the captain. Stand down    from Red Alert. All stations    submit damage and casualty reports    to the first officer.,24   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 89,WATTERS,"        Glad to see you made it in one    piece. I'm Tim Watters,    Commanding Officer. Welcome    aboard.",24   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 90,NOG,   Thank you... sir?,24   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
@@ -110,67 +110,67 @@
 108,FARRIS,        No. What does that have to do    with the injectors?,24   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 109,NOG,"   Well, the impulse system shares    some of the same power relays used    in the injector startup routine.",24   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 110,WATTERS,"   We'll try it. Mister Nog, why    don't you wait in my ready room.    I'll be with you shortly.",24   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-111,COLLINS,   The training cruise was supposed    to last three months. We had    seven regular officers and a crew    of thirty-five cadets. The plan    was for the cadets to run the ship    while the officers observed and    critiqued our performance.,25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-112,JAKE,"   So this was a training ship. Like    that other one... the, uh...    uh -- the Republic.",25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-113,COLLINS,   Not quite. The Republic's an old    ship -- I don't think she's left    the Terran System in fifty years.    The Valiant's a state of the art    warship. Our mission was to    circumnavigate the entire    Federation before returning home.,25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-114,JAKE,   The entire Federation? With a    ship of cadets?,25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-115,COLLINS,   Not just cadets. Red Squad    cadets.,25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-116,JAKE,"   Look, I'm not trying to insult    anyone. Really. I'm actually    very impressed by what you've    done. I mean, you're my age and    I can barely work a food    replicator. You're operating a    warship in enemy territory. And    you've been doing it for eight    months.",25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-117,COLLINS,"   Well... the real credit should go    to Captain Watters. He's the one    that's kept us going.         He's never doubted us. Not once.    When things get tough -- and    things get tough a lot around    here -- he always finds a way to    push us through. He just looks    you in the eye and says, ""You can    do this... "" And somehow... you find    a way to do it.",25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-118,JAKE,   He sounds like... quite a leader.,25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-119,COLLINS,"   We're all supposed to be    leaders -- that's what the Academy    trains us to be. No, Tim Watters    is more than that, he's...        ... he's the captain.",25   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-120,WATTERS,"   We were transiting the Kepla    Sector when the war broke out.    As you probably know, a Dominion    invasion force swept through that    sector on the first day.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-121,NOG,   So you were caught behind enemy    lines?,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-122,WATTERS,"   Correct. We were trying to make    our way back to Federation-held    space when we encountered a    Cardassian battle cruiser near    El-Gatark. It was our first taste    of combat.        In the first fifteen minutes, four    regular officers were killed and    three others were critically    wounded... including Captain    Ramirez.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-123,NOG,   Is that when you took command?,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-124,WATTERS,"   No. When I got to the bridge, the    captain was in pretty bad shape    but he was lucid and refused to    go to Sickbay. We'd lost main    power and were adrift, but the    Cardassian cruiser was no better    off. So it was a race against the    clock -- the ship that got main    power back on-line first would    have a decisive advantage.        The captain was... amazing. He    directed the entire damage control    effort with a punctured lung and    massive internal injuries.       He was a great man.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-125,NOG,   And he won the race.,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-126,WATTERS,"   We got weapons and impulse engines    back on-line within three hours.    And we destroyed that Cardie ship.         The next day, just before he died,    the captain ordered me to take    command of the Valiant.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-127,NOG,   It's... unbelievable. You've    spent eight months behind enemy    lines.,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-128,WATTERS,   I didn't do it alone. The crew    deserves the real credit. We have    cadets here as young as seventeen    who're doing the jobs of officers    twice their age.,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-129,WATTERS,   But we're also seriously    undermanned. I could use another    officer.,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-130,NOG,"   I'd be happy to do whatever I can,    sir.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-131,WATTERS,   I see you're familiar with the    operations of a class-seven warp    drive.,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-132,NOG,"        Very familiar, sir. The Defiant    has an identical engine.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-133,WATTERS,"   Excellent. As of this moment,    you're chief engineer.    Congratulations.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-134,NOG,   Chief Engineer?,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-135,WATTERS,   With the rank of lieutenant    commander. Your first assignment    is to figure out why we can't go    above warp three point two.    Mister Parton believes that it's    something in the--,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-136,NOG,"   Excuse me, sir. I... I don't know    if I'm ready for this...",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-137,WATTERS,"   None of us were ready for the    responsibilities that were thrust    on us, Commander. But each of us    found a way to rise to the    occasion and do the job that had    to be done. Ready or not, you are    the chief engineer.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-138,WATTERS,"        You can do this, Mister Nog. Just    have faith in yourself and faith    in your shipmates, and everything    will be fine.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-139,NOG,"   Yes, sir... I will, sir.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-140,WATTERS,"   Good man. That's what I want to    hear. Now if you can just fix our    warp drive problems, we can get    on with our mission.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-141,NOG,"   Our... ""mission?""",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-142,WATTERS,"   My orders are to collect technical   data on a new Dominion battleship   operating in this sector. We keep   picking up their com traffic, so   we know they're still in the area,   but since we can't go faster than   warp three point two, we're unable   to get within sensor range.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-143,NOG,        And Starfleet knows that you're    in command of the Valiant?,26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-144,WATTERS,"   No. We've had to maintain strict    radio silence ever since the war    began. The orders were addressed    to Captain Ramirez, but since he's    dead, the mission is now mine.    And make no mistake, I will carry    out that mission...       ... or die trying.",26   INT. VALIANT - READY ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-145,COLLINS,   Coffee?,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-146,JAKE,"   Uh... raktajino, please.",29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-147,COLLINS,   Here you go.,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-148,JAKE,   Thanks.,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-149,JAKE,   So... uh... where are you from?,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-150,COLLINS,   Me? Tycho City.,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-151,JAKE,   Oh... a Lunar Schooner.,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-152,COLLINS,        I haven't heard that in a long    time.,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-153,JAKE,"   I picked it up from my grandpa.    Of course, he still calls Luna The   Moon -- like it's the only one or    something.",29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-154,COLLINS,"   Well, nobody who's ever lived on    the Moon calls it ""Luna,"" either.    That's just something they say on    Earth.",29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-155,JAKE,   So what's it like?,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-156,COLLINS,   You're from Earth aren't you?        And you've never been to the Moon?,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-157,JAKE,   Just... never got around to it.    Tell me about it.,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-158,COLLINS,   Well... people say it's so barren    and harsh. But it's not...    it's... beautiful.,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-159,COLLINS,"   I mean... Tycho City is just a    city. But outside... where the    gravity is still low and there's    no air...        You know, the sun only comes up    once a month on the Moon. Every    lunar morning, my father and I    would put on suits and... hike out    across the Sea of Clouds. We'd    stop at this collection of    boulders on the western rim and    wait for the sun to come up.       Dawn is so... shocking on the Moon.",29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-160,COLLINS ,"   One minute you're in the darkest    night you can imagine, and then    in the next instant, the sun lifts    up and this glorious, pure light    just explodes across the surface.         I felt like I met God every    morning.",29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-161,COLLINS,        I'm on duty. Excuse me.,29   INT. VALIANT - MESS HALL.,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-162,COLLINS,"   Can I help you, sir?",30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-163,WATTERS,   No. I've got it.,30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-164,WATTERS,   Any problems with Sisko's arm?,30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-165,COLLINS,"   No, sir.",30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-166,WATTERS,"   Do you have a problem, chief?",30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-167,COLLINS,"   No, sir.",30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-168,WATTERS,       Have you been crying?,30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-169,COLLINS,   A... a little.,30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-170,WATTERS,       About what?,30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-171,COLLINS,   I was just... thinking about...   home.,30   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+111,COLLINS,   The training cruise was supposed    to last three months. We had    seven regular officers and a crew    of thirty-five cadets. The plan    was for the cadets to run the ship    while the officers observed and    critiqued our performance.,25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+112,JAKE,"   So this was a training ship. Like    that other one... the, uh...    uh -- the Republic.",25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+113,COLLINS,   Not quite. The Republic's an old    ship -- I don't think she's left    the Terran System in fifty years.    The Valiant's a state of the art    warship. Our mission was to    circumnavigate the entire    Federation before returning home.,25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+114,JAKE,   The entire Federation? With a    ship of cadets?,25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+115,COLLINS,   Not just cadets. Red Squad    cadets.,25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+116,JAKE,"   Look, I'm not trying to insult    anyone. Really. I'm actually    very impressed by what you've    done. I mean, you're my age and    I can barely work a food    replicator. You're operating a    warship in enemy territory. And    you've been doing it for eight    months.",25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+117,COLLINS,"   Well... the real credit should go    to Captain Watters. He's the one    that's kept us going.         He's never doubted us. Not once.    When things get tough -- and    things get tough a lot around    here -- he always finds a way to    push us through. He just looks    you in the eye and says, ""You can    do this... "" And somehow... you find    a way to do it.",25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+118,JAKE,   He sounds like... quite a leader.,25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+119,COLLINS,"   We're all supposed to be    leaders -- that's what the Academy    trains us to be. No, Tim Watters    is more than that, he's...        ... he's the captain.",25   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+120,WATTERS,"   We were transiting the Kepla    Sector when the war broke out.    As you probably know, a Dominion    invasion force swept through that    sector on the first day.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+121,NOG,   So you were caught behind enemy    lines?,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+122,WATTERS,"   Correct. We were trying to make    our way back to Federation-held    space when we encountered a    Cardassian battle cruiser near    El-Gatark. It was our first taste    of combat.        In the first fifteen minutes, four    regular officers were killed and    three others were critically    wounded... including Captain    Ramirez.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+123,NOG,   Is that when you took command?,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+124,WATTERS,"   No. When I got to the bridge, the    captain was in pretty bad shape    but he was lucid and refused to    go to Sickbay. We'd lost main    power and were adrift, but the    Cardassian cruiser was no better    off. So it was a race against the    clock -- the ship that got main    power back on-line first would    have a decisive advantage.        The captain was... amazing. He    directed the entire damage control    effort with a punctured lung and    massive internal injuries.       He was a great man.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+125,NOG,   And he won the race.,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+126,WATTERS,"   We got weapons and impulse engines    back on-line within three hours.    And we destroyed that Cardie ship.         The next day, just before he died,    the captain ordered me to take    command of the Valiant.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+127,NOG,   It's... unbelievable. You've    spent eight months behind enemy    lines.,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+128,WATTERS,   I didn't do it alone. The crew    deserves the real credit. We have    cadets here as young as seventeen    who're doing the jobs of officers    twice their age.,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+129,WATTERS,   But we're also seriously    undermanned. I could use another    officer.,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+130,NOG,"   I'd be happy to do whatever I can,    sir.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+131,WATTERS,   I see you're familiar with the    operations of a class-seven warp    drive.,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+132,NOG,"        Very familiar, sir. The Defiant    has an identical engine.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+133,WATTERS,"   Excellent. As of this moment,    you're chief engineer.    Congratulations.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+134,NOG,   Chief Engineer?,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+135,WATTERS,   With the rank of lieutenant    commander. Your first assignment    is to figure out why we can't go    above warp three point two.    Mister Parton believes that it's    something in the--,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+136,NOG,"   Excuse me, sir. I... I don't know    if I'm ready for this...",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+137,WATTERS,"   None of us were ready for the    responsibilities that were thrust    on us, Commander. But each of us    found a way to rise to the    occasion and do the job that had    to be done. Ready or not, you are    the chief engineer.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+138,WATTERS,"        You can do this, Mister Nog. Just    have faith in yourself and faith    in your shipmates, and everything    will be fine.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+139,NOG,"   Yes, sir... I will, sir.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+140,WATTERS,"   Good man. That's what I want to    hear. Now if you can just fix our    warp drive problems, we can get    on with our mission.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+141,NOG,"   Our... ""mission?""",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+142,WATTERS,"   My orders are to collect technical   data on a new Dominion battleship   operating in this sector. We keep   picking up their com traffic, so   we know they're still in the area,   but since we can't go faster than   warp three point two, we're unable   to get within sensor range.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+143,NOG,        And Starfleet knows that you're    in command of the Valiant?,26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+144,WATTERS,"   No. We've had to maintain strict    radio silence ever since the war    began. The orders were addressed    to Captain Ramirez, but since he's    dead, the mission is now mine.    And make no mistake, I will carry    out that mission...       ... or die trying.",26   INT. VALIANT - READY ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+145,COLLINS,   Coffee?,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+146,JAKE,"   Uh... raktajino, please.",29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+147,COLLINS,   Here you go.,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+148,JAKE,   Thanks.,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+149,JAKE,   So... uh... where are you from?,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+150,COLLINS,   Me? Tycho City.,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+151,JAKE,   Oh... a Lunar Schooner.,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+152,COLLINS,        I haven't heard that in a long    time.,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+153,JAKE,"   I picked it up from my grandpa.    Of course, he still calls Luna The   Moon -- like it's the only one or    something.",29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+154,COLLINS,"   Well, nobody who's ever lived on    the Moon calls it ""Luna,"" either.    That's just something they say on    Earth.",29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+155,JAKE,   So what's it like?,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+156,COLLINS,   You're from Earth aren't you?        And you've never been to the Moon?,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+157,JAKE,   Just... never got around to it.    Tell me about it.,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+158,COLLINS,   Well... people say it's so barren    and harsh. But it's not...    it's... beautiful.,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+159,COLLINS,"   I mean... Tycho City is just a    city. But outside... where the    gravity is still low and there's    no air...        You know, the sun only comes up    once a month on the Moon. Every    lunar morning, my father and I    would put on suits and... hike out    across the Sea of Clouds. We'd    stop at this collection of    boulders on the western rim and    wait for the sun to come up.       Dawn is so... shocking on the Moon.",29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+160,COLLINS ,"   One minute you're in the darkest    night you can imagine, and then    in the next instant, the sun lifts    up and this glorious, pure light    just explodes across the surface.         I felt like I met God every    morning.",29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+161,COLLINS,        I'm on duty. Excuse me.,29   INT. VALIANT - MESS HALL.,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+162,COLLINS,"   Can I help you, sir?",30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+163,WATTERS,   No. I've got it.,30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+164,WATTERS,   Any problems with Sisko's arm?,30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+165,COLLINS,"   No, sir.",30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+166,WATTERS,"   Do you have a problem, chief?",30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+167,COLLINS,"   No, sir.",30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+168,WATTERS,       Have you been crying?,30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+169,COLLINS,   A... a little.,30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+170,WATTERS,       About what?,30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+171,COLLINS,   I was just... thinking about...   home.,30   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 172,WATTERS,   Come in.,31A  INT. VALIANT - READY ROOM (FORMERLY SCENE 32),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 173,WATTERS,"       Chief, I think you can go now.",31A  INT. VALIANT - READY ROOM (FORMERLY SCENE 32),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 174,COLLINS,"   Thank you, sir.",31A  INT. VALIANT - READY ROOM (FORMERLY SCENE 32),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
@@ -199,91 +199,91 @@
 197,WATTERS,"   Thank you for your concern, Karen.    But I'm fine. Really.",31A  INT. VALIANT - READY ROOM (FORMERLY SCENE 32),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 198,FARRIS,"   Yes, sir. I'm sorry I brought it    up.",31A  INT. VALIANT - READY ROOM (FORMERLY SCENE 32),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 199,WATTERS,   It's all right.,31A  INT. VALIANT - READY ROOM (FORMERLY SCENE 32),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-200,WATTERS,"   What's your solution, commander?",33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-201,NOG,"   I've taken the safeties off the    plasma intercooler, the flux    moderator and the pressurant    control system. That should solve    the problem.",33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-202,FARRIS,   You do realize you're violating    about fifty safety regulations?,33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-203,NOG,"   Yes sir, I do. But I also know    that Chief O'Brien made the same    changes to the Defiant and she    never had a problem.",33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-204,FARRIS,"        I don't know, captain. Seems    risky to me.",33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-205,WATTERS,   Mister Parton?,33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-206,PARTON,"   After spending seven months    plodding along at warp three point    two, I'm willing to try anything,    sir.",33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-207,WATTERS,        Watters to Bridge. Prepare for    warp speed.,33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-208,SHEPARD,"   Aye, sir.",33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-209,WATTERS,"   All right, Mister Nog. Take us    to warp four.",33   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-210,JAKE,   Where've you been?,37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-211,NOG,   Engine Room.        I solved their warp problem.,37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-212,JAKE,        What's that?,37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-213,NOG,"   My Red Squad insignia. Oh, and    in case you haven't noticed, this    would be my new rank: Lieutenant    Commander Nog, chief engineer.    Has a nice ring to it, don't you    think?",37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-214,JAKE,   You joined the crew?,37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-215,NOG,   Something wrong with that?,37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-216,JAKE,   It's a little fast. We just got    here and Watters puts you in    charge of the Engine Room?,37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-217,NOG,"   Captain Watters is used to making    quick decisions. He felt I was    the right man for the job, so he    promoted me.",37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-218,FARRIS,"   Red Alert. All hands to    battle stations. Repeat, all hands    to battle stations.",37   INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-219,SHEPARD,"   ... range, one point three two   light years. Speed, warp four   point seven.",39   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-220,NOG,       What's going on?,39   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-221,FARRIS,   We've found our battleship. ,39   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-222,WATTERS,       Any sign they've detected us?,40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-223,FARRIS,   Negative. I think we're still outside   their sensor range.,40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-224,WATTERS,"   Maintain our distance, helm.   Match their course and speed.",40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-225,SHEPARD,"   Aye, sir.",40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-226,WATTERS,       Prepare a class three probe for launch.,40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-227,FARRIS,"   Aye, sir.",40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-228,JAKE,       So what happens now?,40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-229,NOG,"       We're going to launch a sensor   probe to scan the battleship.   That way, the Valiant won't be   picked up on their scanners.",40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-230,JAKE,       Won't they detect the probe?,40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-231,NOG,    (don't you know    anything?)   Class three probes are designed   to be virtually undetectable.   There's almost no chance of it   being spotted.,40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-232,JAKE,"   ""Almost""...",40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-233,FARRIS,        I don't remember anyone inviting    you to the bridge.,40   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+200,WATTERS,"   What's your solution, commander?",33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+201,NOG,"   I've taken the safeties off the    plasma intercooler, the flux    moderator and the pressurant    control system. That should solve    the problem.",33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+202,FARRIS,   You do realize you're violating    about fifty safety regulations?,33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+203,NOG,"   Yes sir, I do. But I also know    that Chief O'Brien made the same    changes to the Defiant and she    never had a problem.",33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+204,FARRIS,"        I don't know, captain. Seems    risky to me.",33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+205,WATTERS,   Mister Parton?,33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+206,PARTON,"   After spending seven months    plodding along at warp three point    two, I'm willing to try anything,    sir.",33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+207,WATTERS,        Watters to Bridge. Prepare for    warp speed.,33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+208,SHEPARD,"   Aye, sir.",33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+209,WATTERS,"   All right, Mister Nog. Take us    to warp four.",33   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+210,JAKE,   Where've you been?,37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+211,NOG,   Engine Room.        I solved their warp problem.,37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+212,JAKE,        What's that?,37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+213,NOG,"   My Red Squad insignia. Oh, and    in case you haven't noticed, this    would be my new rank: Lieutenant    Commander Nog, chief engineer.    Has a nice ring to it, don't you    think?",37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+214,JAKE,   You joined the crew?,37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+215,NOG,   Something wrong with that?,37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+216,JAKE,   It's a little fast. We just got    here and Watters puts you in    charge of the Engine Room?,37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+217,NOG,"   Captain Watters is used to making    quick decisions. He felt I was    the right man for the job, so he    promoted me.",37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+218,FARRIS,"   Red Alert. All hands to    battle stations. Repeat, all hands    to battle stations.",37   INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+219,SHEPARD,"   ... range, one point three two   light years. Speed, warp four   point seven.",39   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+220,NOG,       What's going on?,39   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+221,FARRIS,   We've found our battleship. ,39   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+222,WATTERS,       Any sign they've detected us?,40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+223,FARRIS,   Negative. I think we're still outside   their sensor range.,40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+224,WATTERS,"   Maintain our distance, helm.   Match their course and speed.",40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+225,SHEPARD,"   Aye, sir.",40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+226,WATTERS,       Prepare a class three probe for launch.,40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+227,FARRIS,"   Aye, sir.",40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+228,JAKE,       So what happens now?,40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+229,NOG,"       We're going to launch a sensor   probe to scan the battleship.   That way, the Valiant won't be   picked up on their scanners.",40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+230,JAKE,       Won't they detect the probe?,40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+231,NOG,    (don't you know    anything?)   Class three probes are designed   to be virtually undetectable.   There's almost no chance of it   being spotted.,40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+232,JAKE,"   ""Almost""...",40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+233,FARRIS,        I don't remember anyone inviting    you to the bridge.,40   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 234,WATTERS ,   Captain's Log: Stardate 51825.4.    We've been shadowing the Dominion    battleship for three hours. The    data our probe gathered so far has    not only been interesting...,41   EXT. SPACE - THE VALIANT (OPTICAL),SPACE - THE VALIANT,EXT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-235,WATTERS ,       ... but it may have given us a    golden opportunity to strike a    blow for the Federation.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-236,SHEPARD,   Attention on deck!,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-237,WATTERS,   Stand at ease.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-238,WATTERS,"   It's been a long eight months.    A lot of hard work. A lot of    sacrifice. And now we've    accomplished our mission. We    found the battleship, obtained a    complete scan without being    detected and we're free to go    home.        But that ship out there is a    direct threat to every Federation    outpost and colony within fifty    light years.        That ship... must be destroyed.",42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-239,WATTERS,   And it can be destroyed.    Commander... ?,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-240,FARRIS,   We've found a flaw in the design    of their antimatter storage    system. The primary support    braces are made of viterium.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-241,WATTERS,"   A very strong, very resilient    metal alloy that just happens to    become extremely unstable when    it's exposed to delta radiation.",42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-242,FARRIS,   A single torpedo rigged with a    radiogenic warhead could reduce    those braces to the consistency    of wet pasta.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-243,WATTERS,"   And as a result, the entire    antimatter storage system would    tear itself apart.",42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-244,WATTERS,"   Commander Nog, you don't seem    convinced.",42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-245,NOG,"   Well, sir... In order to rig a    torpedo to yield a delta-radiation    burst I'll have to remove most of    the guidance systems. We'll have    to target it manually.",42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-246,FARRIS,   We've trained for that    possibility. It shouldn't be a    problem.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-247,NOG,   We'll also have to get very close    to the target.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-248,WATTERS,   How close?,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-249,NOG,        Within three hundred meters.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-250,WATTERS,"   It's dangerous. There's no    disputing that. And no one will    think any less of us if we just    turn around and go home.        But that means that some other    ship, with some other crew will    be asked to finish the job that    we started.        I think we can do it. And I think    we should do it.",42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-251,JAKE,   Can I say something?,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-252,FARRIS,        You're not a member of this crew.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-253,WATTERS,   Let him speak.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-254,JAKE,   You probably all know who my    father is -- Benjamin Sisko. So    you know I'm not exaggerating when    I say that he's considered to be    one of the best combat officers    in the fleet.        And I'm telling you right now that    even with the entire crew of the    Defiant with him... my father    would never try to pull off    something like this. And if he    can't do it... it can't be done.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-255,WATTERS,   We're Red Squad. We can do    anything.,42A  INT. VALIANT - MESS HALL,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-256,JAKE,   This is suicide!,43   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-257,NOG,"   No, it's not.",43   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-258,JAKE,"   Nog, listen to me. We're in way    over our heads here. Someone told    me that ship out there is twice    the size of a Galaxy-class    starship and three times as strong.",43   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-259,NOG,   That's accurate.,43   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-260,JAKE,   And you really think we can go up    against a ship like that?,43   INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+235,WATTERS ,       ... but it may have given us a    golden opportunity to strike a    blow for the Federation.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+236,SHEPARD,   Attention on deck!,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+237,WATTERS,   Stand at ease.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+238,WATTERS,"   It's been a long eight months.    A lot of hard work. A lot of    sacrifice. And now we've    accomplished our mission. We    found the battleship, obtained a    complete scan without being    detected and we're free to go    home.        But that ship out there is a    direct threat to every Federation    outpost and colony within fifty    light years.        That ship... must be destroyed.",42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+239,WATTERS,   And it can be destroyed.    Commander... ?,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+240,FARRIS,   We've found a flaw in the design    of their antimatter storage    system. The primary support    braces are made of viterium.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+241,WATTERS,"   A very strong, very resilient    metal alloy that just happens to    become extremely unstable when    it's exposed to delta radiation.",42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+242,FARRIS,   A single torpedo rigged with a    radiogenic warhead could reduce    those braces to the consistency    of wet pasta.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+243,WATTERS,"   And as a result, the entire    antimatter storage system would    tear itself apart.",42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+244,WATTERS,"   Commander Nog, you don't seem    convinced.",42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+245,NOG,"   Well, sir... In order to rig a    torpedo to yield a delta-radiation    burst I'll have to remove most of    the guidance systems. We'll have    to target it manually.",42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+246,FARRIS,   We've trained for that    possibility. It shouldn't be a    problem.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+247,NOG,   We'll also have to get very close    to the target.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+248,WATTERS,   How close?,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+249,NOG,        Within three hundred meters.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+250,WATTERS,"   It's dangerous. There's no    disputing that. And no one will    think any less of us if we just    turn around and go home.        But that means that some other    ship, with some other crew will    be asked to finish the job that    we started.        I think we can do it. And I think    we should do it.",42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+251,JAKE,   Can I say something?,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+252,FARRIS,        You're not a member of this crew.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+253,WATTERS,   Let him speak.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+254,JAKE,   You probably all know who my    father is -- Benjamin Sisko. So    you know I'm not exaggerating when    I say that he's considered to be    one of the best combat officers    in the fleet.        And I'm telling you right now that    even with the entire crew of the    Defiant with him... my father    would never try to pull off    something like this. And if he    can't do it... it can't be done.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+255,WATTERS,   We're Red Squad. We can do    anything.,42A  INT. VALIANT - MESS HALL,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+256,JAKE,   This is suicide!,43   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+257,NOG,"   No, it's not.",43   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+258,JAKE,"   Nog, listen to me. We're in way    over our heads here. Someone told    me that ship out there is twice    the size of a Galaxy-class    starship and three times as strong.",43   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+259,NOG,   That's accurate.,43   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+260,JAKE,   And you really think we can go up    against a ship like that?,43   INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 261,NOG,        I think Captain Watters knows what    he's doing.,43A  INT. VALIANT - READY ROOM (OPTICAL),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 262,JAKE,"        Oh, really? Well, did you know    that Watters has been taking    cordafin stimulants for the last    two months?",43A  INT. VALIANT - READY ROOM (OPTICAL),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 263,NOG,       Where did you hear that?,43A  INT. VALIANT - READY ROOM (OPTICAL),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 264,JAKE,        Dorian told me.,43A  INT. VALIANT - READY ROOM (OPTICAL),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 265,NOG,        You were ordered to stay away from    her!,43A  INT. VALIANT - READY ROOM (OPTICAL),VALIANT - READY ROOM,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-266,JAKE,   I can't believe you're buying    everything that Watters is selling.,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-267,NOG,   He's not selling anything. He's    reminding us of our duty.,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-268,JAKE,   I feel like I'm having a    conversation with one of the    bulkheads.,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-269,NOG,   You don't understand because    you've never put on one of these    uniforms. You don't know anything    about sacrifice or duty or honor    or any of the things that make up    a soldier's life. I'm part of    something larger than myself. All    you care about is you.,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-270,JAKE,   That's right! I care about Jake    Sisko and whether or not he's    going to be killed by a bunch of    delusional fanatics looking for    martyrdom!,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-271,NOG,   Get out!,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-272,JAKE,   I don't even know who you are    anymore.,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-273,NOG,   I'm the chief engineer of the    starship Valiant.,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-274,JAKE,   I'll have them put that on your    tombstone.,43B  INT. VALIANT - ENGINE ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-275,SHEPARD,"   I'm afraid you'll have to miss all    the fun, Mister Sisko. You're    going to spend the rest of this    mission in the brig.",43C  INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-276,FARRIS,"   All decks report ready, sir.",46   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-277,WATTERS,"        This is the captain. We are about    to engage the enemy.         For eight months, I've told you    to stay focused on one thing --    your duty.",46   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-278,WATTERS,"   But now, I want you to step back    from your duty... and take a look    around.", 47   INT. VALIANT - SICKBAY,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-279,WATTERS,   And I don't mean look at the    walls. I want you to look at this    moment in your life. Take it in.,47A  INT. VALIANT - CORRIDOR,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-280,WATTERS,"   Appreciate the fact that you're    on this ship, with this group of    people, at this point in history.",47B  INT. VALIANT - BRIG,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-281,WATTERS,   But understand one thing above all    else -- that this moment will    never come again. Hold on to it    and savor it far as long as you    can.,49A  INT. VALIANT - TRANSPORTER ROOM,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-282,WATTERS,   You're Starfleet. You're Red    Squad. And you're the best.         Now... let's get that    battleship... and then we'll all    go home. Captain out.,51   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-283,WATTERS,"   Take us to warp six, Mister Nog.",57A  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-284,NOG,"   Warp six, aye.",57A  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+266,JAKE,   I can't believe you're buying    everything that Watters is selling.,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+267,NOG,   He's not selling anything. He's    reminding us of our duty.,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+268,JAKE,   I feel like I'm having a    conversation with one of the    bulkheads.,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+269,NOG,   You don't understand because    you've never put on one of these    uniforms. You don't know anything    about sacrifice or duty or honor    or any of the things that make up    a soldier's life. I'm part of    something larger than myself. All    you care about is you.,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+270,JAKE,   That's right! I care about Jake    Sisko and whether or not he's    going to be killed by a bunch of    delusional fanatics looking for    martyrdom!,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+271,NOG,   Get out!,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+272,JAKE,   I don't even know who you are    anymore.,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+273,NOG,   I'm the chief engineer of the    starship Valiant.,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+274,JAKE,   I'll have them put that on your    tombstone.,43B  INT. VALIANT - ENGINE ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+275,SHEPARD,"   I'm afraid you'll have to miss all    the fun, Mister Sisko. You're    going to spend the rest of this    mission in the brig.",43C  INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+276,FARRIS,"   All decks report ready, sir.",46   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+277,WATTERS,"        This is the captain. We are about    to engage the enemy.         For eight months, I've told you    to stay focused on one thing --    your duty.",46   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+278,WATTERS,"   But now, I want you to step back    from your duty... and take a look    around.", 47   INT. VALIANT - SICKBAY,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+279,WATTERS,   And I don't mean look at the    walls. I want you to look at this    moment in your life. Take it in.,47A  INT. VALIANT - CORRIDOR,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+280,WATTERS,"   Appreciate the fact that you're    on this ship, with this group of    people, at this point in history.",47B  INT. VALIANT - BRIG,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+281,WATTERS,   But understand one thing above all    else -- that this moment will    never come again. Hold on to it    and savor it far as long as you    can.,49A  INT. VALIANT - TRANSPORTER ROOM,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+282,WATTERS,   You're Starfleet. You're Red    Squad. And you're the best.         Now... let's get that    battleship... and then we'll all    go home. Captain out.,51   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+283,WATTERS,"   Take us to warp six, Mister Nog.",57A  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+284,NOG,"   Warp six, aye.",57A  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 285,FARRIS,        They've spotted us.        They're dropping out of warp.,59   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 286,WATTERS,"   Helm, go to impulse.",59   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 287,SHEPARD,"   Aye, sir.",59   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
@@ -301,18 +301,18 @@
 299,FARRIS,   Shields holding.,62   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 300,WATTERS,   Fire at will!,62   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 301,WATTERS,"   Helm, hard about! Tactical, get    a target lock on those braces!",64   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-302,FARRIS,   They're trying to jam our sensors.,64B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-303,WATTERS,"   Mister Nog, initiate    countermeasure!",64B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-304,NOG,       I'm on it!,64B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-305,FARRIS,   I've acquired the target.,64B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-306,FARRIS,   Torpedo... locked.,64B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-307,WATTERS,"   Full power to the forward shields.    Helm, plot an escape course down    the z-axis.",64B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-308,SHEPARD,        Ready!,64B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-309,WATTERS,   Engage!,64B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-310,SHEPARD,   They're turning to port.,66   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-311,WATTERS,"   Match them, Helm. Keep us on    track.",66   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-312,COLLINS,   Hull breach on Deck Two!         Emergency forcefields are in place.,66   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-313,FARRIS,"   Steady our course, helm. I can't    maintain targeting lock.",66   INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+302,FARRIS,   They're trying to jam our sensors.,64B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+303,WATTERS,"   Mister Nog, initiate    countermeasure!",64B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+304,NOG,       I'm on it!,64B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+305,FARRIS,   I've acquired the target.,64B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+306,FARRIS,   Torpedo... locked.,64B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+307,WATTERS,"   Full power to the forward shields.    Helm, plot an escape course down    the z-axis.",64B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+308,SHEPARD,        Ready!,64B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+309,WATTERS,   Engage!,64B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+310,SHEPARD,   They're turning to port.,66   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+311,WATTERS,"   Match them, Helm. Keep us on    track.",66   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+312,COLLINS,   Hull breach on Deck Two!         Emergency forcefields are in place.,66   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+313,FARRIS,"   Steady our course, helm. I can't    maintain targeting lock.",66   INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 314,WATTERS,"       It's all yours, Karen. Fire when   ready.",75   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 315,FARRIS,   Understood.       Just a little closer...,75   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 316,SHEPARD,   We're losing our port shields!,75   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
@@ -323,10 +323,10 @@
 321,FARRIS,"       No, sir. It was a direct hit.   It just... didn't work...",78   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 322,SHEPARD,"   Orders, captain?",78   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 323,WATTERS,   Lay in a new course... one-two    seven... mark... three-two---,78   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-324,COLLINS,   Additional hull breach on Deck    Two! Deck Three! Deck Four!,78B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-325,FARRIS,        Evasive maneuvers! Bring us about    to course one-two-seven mark three-   two-oh!,78B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-326,SHEPARD,   I've lost helm control!,78B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-327,NOG,   Main power's off-line! I'm    rerouting the--,78B  INT. VALIANT - BRIDGE,VALIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+324,COLLINS,   Additional hull breach on Deck    Two! Deck Three! Deck Four!,78B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+325,FARRIS,        Evasive maneuvers! Bring us about    to course one-two-seven mark three-   two-oh!,78B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+326,SHEPARD,   I've lost helm control!,78B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+327,NOG,   Main power's off-line! I'm    rerouting the--,78B  INT. VALIANT - BRIDGE,VALIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 328,COLLINS,        Auxiliary power is off-line!,82   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 329,COLLINS,"   But I still have phaser control...    shall I return fire, sir!?",82   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 330,NOG,   No. It's over.,82   INT. VALIANT - BRIDGE (OPTICAL),VALIANT - BRIDGE,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
@@ -337,31 +337,31 @@
 335,JAKE,   HELP!! Somebody let me out of    here!! HELP!!,82A  INT. VALIANT - BRIG (OPTICAL),VALIANT - BRIG,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 336,JAKE,   What happened?,82A  INT. VALIANT - BRIG (OPTICAL),VALIANT - BRIG,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
 337,NOG,   We failed.,82A  INT. VALIANT - BRIG (OPTICAL),VALIANT - BRIG,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-338,KIRA,"   Captain... I'm picking up a    Starfleet distress signal, bearing    three-one-eight mark zero-zero-   five. Range... ten light years.",88   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-339,WORF,   That location is inside    Dominion-held space.,88   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-340,SISKO,   Can you identify the ship sending    out the distress call?,88   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-341,KIRA,        It looks like it's from an escape    pod...       USS... Valiant.,88   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-342,WORF,"   The Valiant was reported lost over    eight months ago, Captain. It may    be a Dominion ruse to lure us into    their territory.",88   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-343,SISKO,   Maybe.        Then again it may be genuine. We    have to find out. Cloak the ship    and lay in a course.,88   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-344,KIRA,"   Aye, sir.",88   INT. DEFIANT - BRIDGE,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-345,SISKO,"   We've scanned the area for any    other escape pods, but it doesn't    look like anyone else made it.",89   INT. DEFIANT - CORRIDOR,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-346,JAKE,   It was a long shot. I just    thought that maybe...,89   INT. DEFIANT - CORRIDOR,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-347,SISKO,"        How is she, doctor?",90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-348,BASHIR,   I've repaired her skull fracture    and with a little rest she should    make a full recovery.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-349,SISKO,   And Nog?,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-350,BASHIR,"   A few bumps and bruises, but    otherwise he's fine.",90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-351,JAKE,   Can I talk to him?,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-352,BASHIR,   I don't see why not.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-353,JAKE,   You okay?,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-354,NOG,   Yeah.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-355,NOG,   You going to write a story about    all this?,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-356,JAKE,   Probably.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-357,NOG,   What are you going to say?,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-358,JAKE,   What do you think I should say?,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-359,NOG,   That it was a good ship... with    a good crew... that made a    mistake. We... let ourselves    blindly follow Captain Watters...    and he led us over a cliff.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-360,COLLINS,   That's not true.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-361,COLLINS,   Captain Watters was a great man.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-362,JAKE,"   Dorian, he got everyone killed.",90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-363,COLLINS,        If he failed... it's because we   failed him.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-364,NOG,   Put that in the story too. Let    people read it... and decide for    themselves.,90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
-365,NOG,"        He may have been a hero... he may    even have been a great man... but    in the end, he was a bad captain.",90   INT. DEFIANT - SICKBAY,DEFIANT,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+338,KIRA,"   Captain... I'm picking up a    Starfleet distress signal, bearing    three-one-eight mark zero-zero-   five. Range... ten light years.",88   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+339,WORF,   That location is inside    Dominion-held space.,88   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+340,SISKO,   Can you identify the ship sending    out the distress call?,88   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+341,KIRA,        It looks like it's from an escape    pod...       USS... Valiant.,88   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+342,WORF,"   The Valiant was reported lost over    eight months ago, Captain. It may    be a Dominion ruse to lure us into    their territory.",88   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+343,SISKO,   Maybe.        Then again it may be genuine. We    have to find out. Cloak the ship    and lay in a course.,88   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+344,KIRA,"   Aye, sir.",88   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+345,SISKO,"   We've scanned the area for any    other escape pods, but it doesn't    look like anyone else made it.",89   INT. DEFIANT - CORRIDOR,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+346,JAKE,   It was a long shot. I just    thought that maybe...,89   INT. DEFIANT - CORRIDOR,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+347,SISKO,"        How is she, doctor?",90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+348,BASHIR,   I've repaired her skull fracture    and with a little rest she should    make a full recovery.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+349,SISKO,   And Nog?,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+350,BASHIR,"   A few bumps and bruises, but    otherwise he's fine.",90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+351,JAKE,   Can I talk to him?,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+352,BASHIR,   I don't see why not.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+353,JAKE,   You okay?,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+354,NOG,   Yeah.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+355,NOG,   You going to write a story about    all this?,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+356,JAKE,   Probably.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+357,NOG,   What are you going to say?,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+358,JAKE,   What do you think I should say?,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+359,NOG,   That it was a good ship... with    a good crew... that made a    mistake. We... let ourselves    blindly follow Captain Watters...    and he led us over a cliff.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+360,COLLINS,   That's not true.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+361,COLLINS,   Captain Watters was a great man.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+362,JAKE,"   Dorian, he got everyone killed.",90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+363,COLLINS,        If he failed... it's because we   failed him.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+364,NOG,   Put that in the story too. Let    people read it... and decide for    themselves.,90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt
+365,NOG,"        He may have been a hero... he may    even have been a great man... but    in the end, he was a bad captain.",90   INT. DEFIANT - SICKBAY,DEFIAN,INT.,Valiant,1998-02-25,Deep Space Nine,546.txt

@@ -53,8 +53,8 @@
 51,GEORDI,   I agree that potentially it's very   exciting...,2    INT. STATION CORE (OPTICAL),STATION CORE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 52,FARALLON,   I want to show you something I've   been working on... something that   might help us complete this   project more quickly.,2    INT. STATION CORE (OPTICAL),STATION CORE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 53,FARALLON,   I've used these on a limited   basis... I think they've earned   a try...,2    INT. STATION CORE (OPTICAL),STATION CORE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-54,DATA,   Enterprise to Commander La Forge.   I am reading significant power   fluctuations from the station   core. Please report.,3    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-55,GEORDI,   La Forge here... there's been a   malfunction in one of the power   grids...,3    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+54,DATA,   Enterprise to Commander La Forge.   I am reading significant power   fluctuations from the station   core. Please report.,3    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+55,GEORDI,   La Forge here... there's been a   malfunction in one of the power   grids...,3    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 56,GEORDI,       ... we're losing particle stream   confinement.,4    INT. STATION CORE,STATION CORE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 57,DATA,   Do you require assistance?,4    INT. STATION CORE,STATION CORE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 58,GEORDI,   Stand by.,4    INT. STATION CORE,STATION CORE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
@@ -248,16 +248,16 @@
 246,GEORDI,"   Data, you're claiming that this   exocomp may be alive because it   demonstrated a survival instinct,   right?",29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 247,DATA,   Yes.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 248,GEORDI,   So why don't we just threaten its   survival again and see what   happens?,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-249,GEORDI,"   We're almost ready, Doctor. You   can start programming it.",30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-250,GEORDI,   What we've done is to recreate   a situation similar to the one   the exocomp encountered in the   plasma conduit.,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-251,DATA,"   We have created a small conduit   breach in this tube. The exocomp   would normally require several   minutes to complete this type of   repair. However, once it enters   the tube, it will find that a   plasma cascade failure is in   progress.",30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-252,PICARD,   I assume that is only a   simulation...,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-253,GEORDI,"   Yes, sir. We're running a   transient overload signal that   will simulate a failure in exactly   one minute.",30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-254,FARALLON,"   If the exocomp does possess a   survival instinct, as Mister Data   claims... it should exit the tube   before the minute is up in order   to save itself.",30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-255,PICARD,   Very well. Proceed.,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-256,GEORDI,   I'm beginning the test sequence   now.,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-257,GEORDI,   One minute.,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
-258,GEORDI,   Fifty seconds...,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERING,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+249,GEORDI,"   We're almost ready, Doctor. You   can start programming it.",30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+250,GEORDI,   What we've done is to recreate   a situation similar to the one   the exocomp encountered in the   plasma conduit.,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+251,DATA,"   We have created a small conduit   breach in this tube. The exocomp   would normally require several   minutes to complete this type of   repair. However, once it enters   the tube, it will find that a   plasma cascade failure is in   progress.",30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+252,PICARD,   I assume that is only a   simulation...,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+253,GEORDI,"   Yes, sir. We're running a   transient overload signal that   will simulate a failure in exactly   one minute.",30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+254,FARALLON,"   If the exocomp does possess a   survival instinct, as Mister Data   claims... it should exit the tube   before the minute is up in order   to save itself.",30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+255,PICARD,   Very well. Proceed.,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+256,GEORDI,   I'm beginning the test sequence   now.,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+257,GEORDI,   One minute.,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
+258,GEORDI,   Fifty seconds...,30   INT. ENGINEERING - ANGLE ON JEFFRIES TUBE,ENGINEERIN,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 259,GEORDI,   ... thirty seconds...,33   INT. JEFFRIES TUBE (OPTICAL),JEFFRIES TUBE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 260,GEORDI,   ... ten seconds...,33   INT. JEFFRIES TUBE (OPTICAL),JEFFRIES TUBE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt
 261,GEORDI,"   ...five... four... three... two...   one...       That's it. If this had been for   real, the tube would've   exploded... with the exocomp   inside.",33   INT. JEFFRIES TUBE (OPTICAL),JEFFRIES TUBE,INT.,The Quality of Life,1992-09-28,The Next Generation,235.txt

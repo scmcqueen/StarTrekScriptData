@@ -1,18 +1,18 @@
 ,character,quote,scene,location,view,episode,date,series,file
-0,WESLEY,"   Hey, Jake! Wait a second!",B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-1,WESLEY,       How're you doing?,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-2,JAKE,       I'm fine. Really.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-3,WESLEY,   I'm real sorry...,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-4,BEVERLY,"   Acting Ensign Crusher, report to   Deck Twenty-one Forward Lounge.",B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-5,JAKE,   It's not your fault.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-6,WESLEY,"   Yes, I know, but I wish we were   both going.",B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-7,JAKE,       Only thirty-two points...,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-8,BEVERLY,"   Acting Ensign Crusher, respond.",B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-9,WESLEY,   I'm on my way.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-10,WESLEY,       Gotta go.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-11,JAKE,   Do well for both of us.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-12,WESLEY,"   Mom, I can't be late.",C1	INT. CORRIDOR - OUTSIDE DECK 21 FORWARD LOUNGE,CORRIDOR,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-13,BEVERLY,   Don't worry. You have time.,C1	INT. CORRIDOR - OUTSIDE DECK 21 FORWARD LOUNGE,CORRIDOR,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+0,WESLEY,"   Hey, Jake! Wait a second!",B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+1,WESLEY,       How're you doing?,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+2,JAKE,       I'm fine. Really.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+3,WESLEY,   I'm real sorry...,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+4,BEVERLY,"   Acting Ensign Crusher, report to   Deck Twenty-one Forward Lounge.",B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+5,JAKE,   It's not your fault.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+6,WESLEY,"   Yes, I know, but I wish we were   both going.",B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+7,JAKE,       Only thirty-two points...,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+8,BEVERLY,"   Acting Ensign Crusher, respond.",B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+9,WESLEY,   I'm on my way.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+10,WESLEY,       Gotta go.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+11,JAKE,   Do well for both of us.,B1	INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+12,WESLEY,"   Mom, I can't be late.",C1	INT. CORRIDOR - OUTSIDE DECK 21 FORWARD LOUNGE,CORRIDO,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+13,BEVERLY,   Don't worry. You have time.,C1	INT. CORRIDOR - OUTSIDE DECK 21 FORWARD LOUNGE,CORRIDO,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 14,RIKER,"   Happy Birthday, Wesley!",1    INT. DECK 21 FORWARD LOUNGE,DECK 21 FORWARD LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 15,WESLEY,   Thanks everybody. But it's not   until next month.,1    INT. DECK 21 FORWARD LOUNGE,DECK 21 FORWARD LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 16,RIKER,   Close enough.,1    INT. DECK 21 FORWARD LOUNGE,DECK 21 FORWARD LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
@@ -74,27 +74,27 @@
 72,PICARD,"   Greg, we've known each other for   years. If you weren't just   motivating young Mister Remmick, tell   me what you believe is wrong.",5A   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 73,QUINN,"   Captain, it is vitally important   that my orders are followed   exactly. I'll be staying on the   ship.",5A   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 74,PICARD,"   As you wish, Admiral.",5A   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-75,OLIANA,   What is it?,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-76,WESLEY,   What?,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-77,OLIANA,   The unit you just put down. Don't   worry. I won't tell anybody.,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-78,WESLEY,   Oh. It's a flux coordinating   sensor.,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-79,OLIANA,"   I'm Oliana Mirren, one of the   other finalists. You must be   Wesley Crusher.",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-80,WESLEY,   Yeah! You know me?,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-81,OLIANA,"   I heard there was a very smart,   very young man who'd be tough   competition.",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-82,WESLEY,"       Well, you wouldn't be here if...",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-83,OLIANA,   ... I weren't smart? I know. But   there's a lot more to it than   that. You're lucky - you've had   practical experience on the   Enterprise.,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-84,THANIK,   Oliana.       T'Shanik of Vulcana Regar.,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-85,WESLEY,"   Wesley Crusher, from the   Enterprise.",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-86,THANIK,   You don't look as if you meet the   age requirements.,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-87,WESLEY,"   Uh, I'll be sixteen next month.",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-88,OLIANA,"    (pats him on the     shoulder)   Happy birthday. When this is all   over, we'll celebrate.",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-89,WESLEY,   Hi. I'm Wesley Crusher.,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-90,MORDOCK,   Mordock.,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-91,WESLEY,   Mordock? The Mordock? The   Benzite who constructed the   Mordock Strategy? I thought you   already were in the Academy.,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-92,MORDOCK,"   No. Only a hopeful, like you.",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-93,WESLEY,   You're a legend in the Galactic   Computer Network...,7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-94,CHANG,"   Finalists, please take your   seats...",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-95,CHANG,"       I'm TAC Officer Chang. Welcome.   You are here because you are all   top candidates. Although only   one student will be chosen for   the Academy, you have shown from   the preliminary testing that any   of you could easily qualify.    (makes eye contact with     each)   We are looking for the person who   combines all the important   qualities necessary to be part   of Starfleet's future. Integrity,   intelligence, courage,   imagination... and that   indefinable quality of leadership.   This may be the most difficult,   exhausting experience of your   life. And the most exciting   challenge. Expect the   unexpected... May you all do your   best... Now, we'll begin.",7    INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+75,OLIANA,   What is it?,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+76,WESLEY,   What?,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+77,OLIANA,   The unit you just put down. Don't   worry. I won't tell anybody.,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+78,WESLEY,   Oh. It's a flux coordinating   sensor.,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+79,OLIANA,"   I'm Oliana Mirren, one of the   other finalists. You must be   Wesley Crusher.",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+80,WESLEY,   Yeah! You know me?,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+81,OLIANA,"   I heard there was a very smart,   very young man who'd be tough   competition.",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+82,WESLEY,"       Well, you wouldn't be here if...",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+83,OLIANA,   ... I weren't smart? I know. But   there's a lot more to it than   that. You're lucky - you've had   practical experience on the   Enterprise.,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+84,THANIK,   Oliana.       T'Shanik of Vulcana Regar.,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+85,WESLEY,"   Wesley Crusher, from the   Enterprise.",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+86,THANIK,   You don't look as if you meet the   age requirements.,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+87,WESLEY,"   Uh, I'll be sixteen next month.",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+88,OLIANA,"    (pats him on the     shoulder)   Happy birthday. When this is all   over, we'll celebrate.",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+89,WESLEY,   Hi. I'm Wesley Crusher.,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+90,MORDOCK,   Mordock.,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+91,WESLEY,   Mordock? The Mordock? The   Benzite who constructed the   Mordock Strategy? I thought you   already were in the Academy.,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+92,MORDOCK,"   No. Only a hopeful, like you.",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+93,WESLEY,   You're a legend in the Galactic   Computer Network...,7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+94,CHANG,"   Finalists, please take your   seats...",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+95,CHANG,"       I'm TAC Officer Chang. Welcome.   You are here because you are all   top candidates. Although only   one student will be chosen for   the Academy, you have shown from   the preliminary testing that any   of you could easily qualify.    (makes eye contact with     each)   We are looking for the person who   combines all the important   qualities necessary to be part   of Starfleet's future. Integrity,   intelligence, courage,   imagination... and that   indefinable quality of leadership.   This may be the most difficult,   exhausting experience of your   life. And the most exciting   challenge. Expect the   unexpected... May you all do your   best... Now, we'll begin.",7    INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 96,DATA,"   May I help you, Mister Remmick?",8A   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 97,REMMICK,"   Just keep on doing whatever it   is you're doing, Commander Data.",8A   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 98,DATA,"   Yes, sir.",8A   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
@@ -123,19 +123,19 @@
 121,RIKER,   Later.,12   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 122,REMMICK,   You were ordered to cooperate...,12   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 123,RIKER,"   When it doesn't interfere with   my duty. Not now, Remmick!",12   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-124,COMPUTER,"   Last question on the Hyper Space   Physics test: If the matter and   antimatter tanks on a Galaxy Class   starship are nine-tenths depleted,   calculate the intermix ratio   necessary to reach a starbase a   hundred light years away at warp   factor eight...",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-125,COMPUTER,"       Thank you, students. You now have   one hour free before the next   test.",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-126,MORDOCK,"   I admit, Wesley, you have a very   fast mind.",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-127,WESLEY,"   As soon as I realized it was a   trick question, there was only   one answer.",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-128,MORDOCK,"   Yes. There is only one ""ratio""   with matter-antimatter. One to   one.",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-129,OLIANA,   You're both very lucky. I can't   imagine what it feels like to have   things come so easily. I have   to push every step of the way.,14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-130,WESLEY,"   Oh, no, Oliana, it doesn't come   easily. I have to study all the   time. Mordock's the one who's   brilliant.",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-131,OLIANA,"   You really don't know, do you?   It's a good thing you're cute,   Wesley, or you could really be   obnoxious.",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-132,OLIANA,       See you later.,14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-133,WESLEY,   Did you hear that Mordock? She   said I was cute!,14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-134,MORDOCK,"   Is that good, Wesley?",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-135,WESLEY,   I don't know. I think so. Maybe.   I don't know.,14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-136,MORDOCK,"   Perhaps I was incorrect about the   speed of your thought processes,   Wesley.",14   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+124,COMPUTER,"   Last question on the Hyper Space   Physics test: If the matter and   antimatter tanks on a Galaxy Class   starship are nine-tenths depleted,   calculate the intermix ratio   necessary to reach a starbase a   hundred light years away at warp   factor eight...",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+125,COMPUTER,"       Thank you, students. You now have   one hour free before the next   test.",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+126,MORDOCK,"   I admit, Wesley, you have a very   fast mind.",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+127,WESLEY,"   As soon as I realized it was a   trick question, there was only   one answer.",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+128,MORDOCK,"   Yes. There is only one ""ratio""   with matter-antimatter. One to   one.",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+129,OLIANA,   You're both very lucky. I can't   imagine what it feels like to have   things come so easily. I have   to push every step of the way.,14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+130,WESLEY,"   Oh, no, Oliana, it doesn't come   easily. I have to study all the   time. Mordock's the one who's   brilliant.",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+131,OLIANA,"   You really don't know, do you?   It's a good thing you're cute,   Wesley, or you could really be   obnoxious.",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+132,OLIANA,       See you later.,14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+133,WESLEY,   Did you hear that Mordock? She   said I was cute!,14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+134,MORDOCK,"   Is that good, Wesley?",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+135,WESLEY,   I don't know. I think so. Maybe.   I don't know.,14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+136,MORDOCK,"   Perhaps I was incorrect about the   speed of your thought processes,   Wesley.",14   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 137,RIKER,"   Captain, I think I should   apologize.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 138,PICARD,"   No need, Number One. Mister   Remmick's presence is unnerving,   to say the least.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 139,RIKER,"   Regardless, sir, I should realize   that whatever your reasons are,   they're valid. Whether or not   I understand them.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
@@ -202,10 +202,10 @@
 200,GEORDI,   Smart kid.,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 201,TASHA,   ... He's launching!,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 202,PICARD,   Enterprise to shuttlecraft.   Mister Kurland.,23   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-203,JAKE,   Captain Picard. I'm going to   Beltane Nine to sign onto a   freighter. Tell my father I'm   sorry.,24   INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAFT,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-204,PICARD ,   Tell him in person. Bring the   ship back. Now.,24   INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAFT,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-205,JAKE,   No. I can't face him. I'm   leaving.,24   INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAFT,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-206,JAKE,       I've lost power!,24   INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAFT,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+203,JAKE,   Captain Picard. I'm going to   Beltane Nine to sign onto a   freighter. Tell my father I'm   sorry.,24   INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAF,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+204,PICARD ,   Tell him in person. Bring the   ship back. Now.,24   INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAF,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+205,JAKE,   No. I can't face him. I'm   leaving.,24   INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAF,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+206,JAKE,       I've lost power!,24   INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAF,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 207,RIKER,   All he's got left are his   maneuvering jets.,25   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 208,GEORDI,"   At that trajectory, he'll hit the   atmosphere and melt at two hundred   kilometers.",25   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 209,PICARD,   Probable impact?,25   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
@@ -228,9 +228,9 @@
 226,PICARD,"   Jake, listen carefully. I'm the   captain and I'm giving you an   order. Aim the shuttle at Relva.   Now.",31   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 227,JAKE,   Okay. It's done.,32   INT. SHUTTLECRAFT - COCKPIT (OPTICAL),SHUTTLECRAFT - COCKPIT,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 228,PICARD,"   Good. Monitor your speed   exactly. When it hits point zero-two-zero,   I want you to restart   the engine and pull up, hard!",33   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-229,JAKE,"   Point zero-two-zero speed...   Captain, I sure hope you're right.",33A  INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAFT,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-230,PICARD ,   You'll just have to trust me.,33A  INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAFT,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-231,JAKE,       Point zero-zero-three; zero-zero-nine;   zero-one-two...,33A  INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAFT,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+229,JAKE,"   Point zero-two-zero speed...   Captain, I sure hope you're right.",33A  INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAF,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+230,PICARD ,   You'll just have to trust me.,33A  INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAF,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+231,JAKE,       Point zero-zero-three; zero-zero-nine;   zero-one-two...,33A  INT. SHUTTLECRAFT - COCKPIT,SHUTTLECRAF,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 232,PICARD,   Hang on tight. It's going to be   bumpy.,33B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 233,JAKE ,"   Zero-one-five, zero-one-nine.",33B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 234,PICARD,   Now! Start the engine!,33B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
@@ -247,154 +247,154 @@
 245,PICARD,"   Young men sometimes make rash   choices, Mister Remmick. Which is   why Mister Kurland will receive a   strong refresher specifically in   discipline...",35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 246,REMMICK,   I'll note that in my report.,35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 247,PICARD,"   Full cooperation, Number One.",35   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-248,WESLEY,   Oliana!,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-249,OLIANA,"   Oh. Hi, Wes.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-250,WESLEY,"   I, um, thought you might want to   have lunch... together.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-251,OLIANA,"   Thanks, but I'm not very hungry.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-252,WESLEY,   Oh... okay.,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-253,OLIANA,"   It's not you... it's just that   Mordock and you are so far ahead   in points, I'll never catch up.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-254,WESLEY,"   Oh. Sorry.       You're not leaving., are you?",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-255,OLIANA,"   And give up? Never. Besides,   it'll be good practice for next   year. See you later.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-256,MORDOCK,"   Ah, Wesley. Distracted by the   female human again. No matter.   It does not seem to diminish your   mental faculties. You do good   work.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-257,WESLEY,"   Me? No, you're the one. I've   studied the Mordock Strategy...",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-258,MORDOCK,   Are you a player of Benzite chess?,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-259,WESLEY,   Sure!,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-260,MORDOCK,"   If you like, we can discuss this   at lunch... I am hungry.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-261,WESLEY,   Me too!,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-262,RONDON,       You. I have a package for   Operations. Where is it?,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-263,WESLEY,   End of the corridor on your right.   Room 406...,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-264,RONDON,   You blocked my path... you   Bulgallian sludge rat!,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-265,WESLEY,"   I apologize. An honest mistake,   okay? I'm sorry.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-266,CHANG,"   Is there a problem here,   gentlemen?",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-267,WESLEY,"   No, sir... I, he...",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-268,RONDON,"       How dare you! I am Rondon, you   despicable Melanoid slimeworm!       Liar!",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-269,WESLEY,   Who do you think you're bullying?   You bumped into me. It was your   mistake. You were rude.    (assuming defense     posture)   Do you want this to become   violent?,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-270,RONDON,   Friend. I like you.,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-271,MORDOCK,   A very strange reaction.,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-272,WESLEY,"   Not really. When he held up his   hand, I could see it was   webbed... the sign of a Zaldan.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-273,CHANG,   But you became hostile.,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-274,WESLEY,"   Zaldans are infuriated by   courtesy. They see it as a form   of phony social behavior, designed   to hide real feelings.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-275,CHANG,"   Congratulations, Mister Crusher.   You handled that particular   incident very well.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-276,MORDOCK,"   Was that ""incident"" deliberate?",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-277,CHANG,"   It's important to know how you   candidates deal with other   cultures, other species.",37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-278,MORDOCK,   Then it was a test.,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-279,CHANG,   Yes. Not all tests are   announced. Or what they appear   to be.,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-280,MORDOCK,   Zaldans have webbed fingers?   I wouldn't have passed.,37   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-281,REMMICK,"   Commander Data, I'm getting very   little cooperation from the bridge   crew. You're an android, correct?",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-282,DATA,"   Yes, sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-283,REMMICK,"   And as an android, you are   programmed to tell the entire   truth?",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-284,DATA,"   Yes, sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-285,REMMICK,"   There is a problem with this ship,   Mister Data. It's in the records,   somewhere. I need your help to   find it.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-286,DATA,"   All the ship's records are   available to you, sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-287,REMMICK,   This information is very cleverly   hidden. Your captain is not what   he appears to be. Do not forget   you have loyalty to Starfleet   above all else.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-288,DATA,"   Loyalty is not the issue,   Commander. There is nothing wrong   with Captain Picard -- or the   ship's logs. Therefore there must   be something wrong with your   original assumption.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-289,REMMICK,"   That is not acceptable, Mister Data.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-290,DATA,"   Acceptable or not, sir, it is the   truth.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-291,REMMICK,       Just how did this contaminant come   on board?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-292,WORF,"   By accident, sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-293,REMMICK,   Meaning Captain Picard has no   standing procedure for this type   of situation?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-294,WORF,"   No. Meaning ""by accident"" sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-295,REMMICK,"   You don't like me very much, do   you?",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-296,WORF,"   Is it required, sir?",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-297,REMMICK,   How would you characterize your   relationship with Captain Picard?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-298,BEVERLY,   We're officers of Starfleet who   have known each other for many   years.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-299,REMMICK,"   Everything said here is   confidential, Doctor. You can   be completely open with me.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-300,BEVERLY,   About what?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-301,REMMICK,   About how you feel serving with   a man who was responsible for the   death of your husband.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-302,BEVERLY,   My personal feelings about   Captain Picard are irrelevant   to this investigation. And none   of your business.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-303,REMMICK,   Then you confirm the logs are   accurate: you violated the Prime   Directive with the Edo? You   deliberately interfered with their   laws?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-304,PICARD,   Yes. It's exactly as I explained   it in the log records.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-305,REMMICK,   All to save Doctor Crusher's son?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-306,PICARD,   One of my crew was held unjustly.   I stand by my decision.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-307,PICARD,"       Mister Remmick, you have talked to   everyone on this ship. I think   you've had enough time to find   out whatever it is you need to   know.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-308,REMMICK,   Are you worried that if I keep   looking I'll find what you're   guilty of?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-309,PICARD,   The only thing I'm guilty of is   allowing this charade to go on   too long.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNGE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-310,PICARD,"   If it's me you're after, Admiral,   ask me directly what you want to   know. Then tell me exactly what's   going on.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-311,QUINN,"   I need a little more time,   Jean-Luc.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-312,PICARD,   How much time? I won't tolerate   my crew being harassed any longer.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-313,QUINN,   Remmick's full report is almost   ready.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-314,PICARD,   I want to be here when he presents   it.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-315,QUINN,   That has always been my intention.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-316,QUINN,"       Commander Remmick, report to   Admiral Quinn.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-317,REMMICK,"   On my way, sir.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-318,PICARD,   This has been a strain on our   friendship.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-319,QUINN,"   I know. Believe me, Jean-Luc,   I regret that, but it has been   necessary.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-320,CHANG,   This test will be graded as to   the number of problems you   complete within the allotted time.,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-321,COMPUTER,   The Carlundrum I.Q. Test will now   appear. The task is to predict   the variable patterns of Platonic   Solids. Your responses will be   timed. Begin.,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-322,MORDOCK,   I... I can't get... it.,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-323,WESLEY,   Don't fight it. Relax into it   and just do it automatically.,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-324,MORDOCK,   No... it's going too fast!,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-325,WESLEY,   You're doing all right...,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-326,MORDOCK,"   No... no. Wesley, I can't do it.",44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-327,WESLEY,   ,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-328,COMPUTER,   Test completed.,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-329,MORDOCK,   Mister Chang...,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-330,CHANG,"   Congratulations, Mordock. That   was the second fastest time   recorded on this test. You all   did well.",44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-331,MORDOCK,   It should not have been that way.   Mister Crusher helped me.,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-332,CHANG,"   Yes. I know. An interesting   choice, Mister Crusher. Especially   considering how close you and Mister   Mordock are in overall score.",44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-333,WESLEY,"   Yes, sir.",44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-334,CHANG,   You all have an hour to prepare   for your last test.,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-335,WESLEY,"   The Psych Test, sir?",44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-336,CHANG,   We prefer to think of it as a   psychological evaluation based   on reactions to various individual   problems.       But the Psych Test will do.,44   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-337,REMMICK,   Sir.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-338,QUINN,"   Please sit down, Mister Remmick.   Proceed with your report.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-339,REMMICK,"   Admiral, I've done my best to be   objective during this   investigation. And yet, I feel   a sense of failure.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-340,QUINN,   Continue.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-341,REMMICK,"   I couldn't find what you asked,   sir. I spoke with officer after   officer, at length. I probed the   log reports. And I have found   nothing wrong. Except, perhaps,   a casual familiarity among the   bridge crew, but... mostly that   comes from a sense of teamwork.       I'm sorry, sir. I did my best.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-342,QUINN,"   Quite. You're dismissed,   Commander.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-343,REMMICK,"   Yes, sir.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-344,REMMICK,"       Captain Picard, my tour in the   Inspector General's office will   be up in six months. When I'm   finished, this is where I'd like   to serve, sir.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-345,QUINN,   Don't judge the young man too   harshly. He's a good officer.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-346,PICARD,   It's not him I'm judging.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-347,QUINN,"   Don't judge me too harshly,   either. Not until I'm finished.   We had to be very sure about you.       Some time ago, a few of us in   Starfleet Command became   suspicious of problems within   the Federation.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-348,PICARD,   What kind of problems?,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-349,QUINN,   Something or someone is trying   to destroy the fabric of all we've   built over the last two hundred   years.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-350,PICARD,   What's your evidence?,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-351,QUINN,"   I can't go into that. Too many   other people are involved. But   if we're right, this is the most   critical time in the history of   the Federation.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-352,PICARD,   What do you want from me?,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-353,QUINN,   I don't know if the threat is   coming from within or from the   outside. I need people I can trust   in strong positions throughout   the Federation.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-354,PICARD,   You have my complete support.   You know that.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-355,QUINN,"   Not enough. I want to promote   you to admiral, Jean-Luc. I want   you to take over as Commandant   of Starfleet Academy.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-356,PICARD,   The Academy?,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-357,QUINN,   Yes. I need you close.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-358,PICARD,   Then there was never a problem   with the Enterprise.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-359,QUINN,   No. I had to be sure you hadn't   been co-opted.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-360,PICARD,"   Greg, the real issue is politics.   I'm no good at politics. Surely   there are others more suited.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-361,QUINN,"   I sense you're doubtful about   this. All right. Suppose it's   the rambling paranoia of an old   man. Even if I am wrong, and I   hope I am, you're still the best   man for the job.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-362,PICARD,   I appreciate the value of what   you're offering. It's not   something I can decide quickly.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-363,QUINN,"   I need your answer soon, Captain.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-364,PICARD,"   All right. You'll have it   tonight, Admiral.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRISE,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-365,CHANG,   Mister Mordock will be finished with   his Psych Test momentarily.,51   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-366,WESLEY,   Mordock? Are you... all right?,51   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-367,MORDOCK,   I will be...,51   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-368,CHANG,   Mister Crusher... you're next. Good   luck.,51   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-369,WESLEY,   Hello?,53   INT. RELVA 7 - TESTING ROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-370,WESLEY,"       I'm here. I'm, uh, ready.",53   INT. RELVA 7 - TESTING ROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-371,WESLEY,       Maybe they forgot.,53   INT. RELVA 7 - TESTING ROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-372,WESLEY,       Breathe. Gotta remember to   breathe.,53   INT. RELVA 7 - TESTING ROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-373,WESLEY,   Somebody help! Something's wrong   in the lab!,54   INT. RELVA 7 - LONG CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-374,TECHNICIAN #1 ,   Help! We're trapped. Help!   We're gonna die.,54   INT. RELVA 7 - LONG CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-375,COMPUTER  ,   Evacuate immediately. Sixty-five   seconds to life-support seal-off.,54   INT. RELVA 7 - LONG CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-376,COMPUTER,   Evacuate immediately. Forty-five   seconds to life-support seal-off.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-377,WESLEY,       Help me move this!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-378,WESLEY,       You have to help me!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-379,TECHNICIAN #1,   I can't! It's too late. We're   going to die! The liquid   hydrogen's gonna blow!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-380,TECHNICIAN #2,"   Please don't leave me! The   shut-off valve ruptured. If we   don't get out of here fast,   they'll seal us off to contain   the explosion!",55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-381,COMPUTER,   Evacuate immediately. Twenty-five   seconds to seal-off.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-382,WESLEY,   Come on!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-383,TECHNICIAN #1,   There's no way out! I can't move   through that!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-384,WESLEY,   You have to. I can't carry you   both! You can walk. Come on.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-385,COMPUTER,   Evacuate immediately. Five   seconds to seal-off.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-386,WESLEY,   I'm sorry.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-387,WESLEY,   Officer Chang! There's been an...,56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-388,CHANG,"   It's all right, Wesley.",56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-389,TECHNICIAN #2,   Thanks.,56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-390,CHANG.,"   Excellent performance, Mister   Crusher.",56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-391,WESLEY,   Performance?!... That was the test.,56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-392,CHANG,   Yes.,56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-393,WESLEY,   But a man died!,56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-394,CHANG,"   Theoretically, yes. You had to   make a choice. And you did.   There's no right or wrong about   it. Your greatest fear has been   that you couldn't make that   decision.",56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-395,WESLEY,   Because of my father? Because   Cap... someone made that choice   and my father died.,56   INT. RELVA 7 - CORRIDOR,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+248,WESLEY,   Oliana!,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+249,OLIANA,"   Oh. Hi, Wes.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+250,WESLEY,"   I, um, thought you might want to   have lunch... together.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+251,OLIANA,"   Thanks, but I'm not very hungry.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+252,WESLEY,   Oh... okay.,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+253,OLIANA,"   It's not you... it's just that   Mordock and you are so far ahead   in points, I'll never catch up.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+254,WESLEY,"   Oh. Sorry.       You're not leaving., are you?",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+255,OLIANA,"   And give up? Never. Besides,   it'll be good practice for next   year. See you later.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+256,MORDOCK,"   Ah, Wesley. Distracted by the   female human again. No matter.   It does not seem to diminish your   mental faculties. You do good   work.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+257,WESLEY,"   Me? No, you're the one. I've   studied the Mordock Strategy...",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+258,MORDOCK,   Are you a player of Benzite chess?,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+259,WESLEY,   Sure!,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+260,MORDOCK,"   If you like, we can discuss this   at lunch... I am hungry.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+261,WESLEY,   Me too!,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+262,RONDON,       You. I have a package for   Operations. Where is it?,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+263,WESLEY,   End of the corridor on your right.   Room 406...,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+264,RONDON,   You blocked my path... you   Bulgallian sludge rat!,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+265,WESLEY,"   I apologize. An honest mistake,   okay? I'm sorry.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+266,CHANG,"   Is there a problem here,   gentlemen?",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+267,WESLEY,"   No, sir... I, he...",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+268,RONDON,"       How dare you! I am Rondon, you   despicable Melanoid slimeworm!       Liar!",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+269,WESLEY,   Who do you think you're bullying?   You bumped into me. It was your   mistake. You were rude.    (assuming defense     posture)   Do you want this to become   violent?,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+270,RONDON,   Friend. I like you.,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+271,MORDOCK,   A very strange reaction.,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+272,WESLEY,"   Not really. When he held up his   hand, I could see it was   webbed... the sign of a Zaldan.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+273,CHANG,   But you became hostile.,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+274,WESLEY,"   Zaldans are infuriated by   courtesy. They see it as a form   of phony social behavior, designed   to hide real feelings.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+275,CHANG,"   Congratulations, Mister Crusher.   You handled that particular   incident very well.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+276,MORDOCK,"   Was that ""incident"" deliberate?",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+277,CHANG,"   It's important to know how you   candidates deal with other   cultures, other species.",37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+278,MORDOCK,   Then it was a test.,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+279,CHANG,   Yes. Not all tests are   announced. Or what they appear   to be.,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+280,MORDOCK,   Zaldans have webbed fingers?   I wouldn't have passed.,37   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+281,REMMICK,"   Commander Data, I'm getting very   little cooperation from the bridge   crew. You're an android, correct?",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+282,DATA,"   Yes, sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+283,REMMICK,"   And as an android, you are   programmed to tell the entire   truth?",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+284,DATA,"   Yes, sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+285,REMMICK,"   There is a problem with this ship,   Mister Data. It's in the records,   somewhere. I need your help to   find it.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+286,DATA,"   All the ship's records are   available to you, sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+287,REMMICK,   This information is very cleverly   hidden. Your captain is not what   he appears to be. Do not forget   you have loyalty to Starfleet   above all else.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+288,DATA,"   Loyalty is not the issue,   Commander. There is nothing wrong   with Captain Picard -- or the   ship's logs. Therefore there must   be something wrong with your   original assumption.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+289,REMMICK,"   That is not acceptable, Mister Data.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+290,DATA,"   Acceptable or not, sir, it is the   truth.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+291,REMMICK,       Just how did this contaminant come   on board?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+292,WORF,"   By accident, sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+293,REMMICK,   Meaning Captain Picard has no   standing procedure for this type   of situation?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+294,WORF,"   No. Meaning ""by accident"" sir.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+295,REMMICK,"   You don't like me very much, do   you?",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+296,WORF,"   Is it required, sir?",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+297,REMMICK,   How would you characterize your   relationship with Captain Picard?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+298,BEVERLY,   We're officers of Starfleet who   have known each other for many   years.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+299,REMMICK,"   Everything said here is   confidential, Doctor. You can   be completely open with me.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+300,BEVERLY,   About what?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+301,REMMICK,   About how you feel serving with   a man who was responsible for the   death of your husband.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+302,BEVERLY,   My personal feelings about   Captain Picard are irrelevant   to this investigation. And none   of your business.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+303,REMMICK,   Then you confirm the logs are   accurate: you violated the Prime   Directive with the Edo? You   deliberately interfered with their   laws?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+304,PICARD,   Yes. It's exactly as I explained   it in the log records.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+305,REMMICK,   All to save Doctor Crusher's son?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+306,PICARD,   One of my crew was held unjustly.   I stand by my decision.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+307,PICARD,"       Mister Remmick, you have talked to   everyone on this ship. I think   you've had enough time to find   out whatever it is you need to   know.",39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+308,REMMICK,   Are you worried that if I keep   looking I'll find what you're   guilty of?,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+309,PICARD,   The only thing I'm guilty of is   allowing this charade to go on   too long.,39   INT. OBSERVATION LOUNGE - MONTAGE,OBSERVATION LOUNG,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+310,PICARD,"   If it's me you're after, Admiral,   ask me directly what you want to   know. Then tell me exactly what's   going on.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+311,QUINN,"   I need a little more time,   Jean-Luc.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+312,PICARD,   How much time? I won't tolerate   my crew being harassed any longer.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+313,QUINN,   Remmick's full report is almost   ready.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+314,PICARD,   I want to be here when he presents   it.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+315,QUINN,   That has always been my intention.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+316,QUINN,"       Commander Remmick, report to   Admiral Quinn.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+317,REMMICK,"   On my way, sir.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+318,PICARD,   This has been a strain on our   friendship.,42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+319,QUINN,"   I know. Believe me, Jean-Luc,   I regret that, but it has been   necessary.",42   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+320,CHANG,   This test will be graded as to   the number of problems you   complete within the allotted time.,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+321,COMPUTER,   The Carlundrum I.Q. Test will now   appear. The task is to predict   the variable patterns of Platonic   Solids. Your responses will be   timed. Begin.,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+322,MORDOCK,   I... I can't get... it.,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+323,WESLEY,   Don't fight it. Relax into it   and just do it automatically.,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+324,MORDOCK,   No... it's going too fast!,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+325,WESLEY,   You're doing all right...,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+326,MORDOCK,"   No... no. Wesley, I can't do it.",44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+327,WESLEY,   ,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+328,COMPUTER,   Test completed.,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+329,MORDOCK,   Mister Chang...,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+330,CHANG,"   Congratulations, Mordock. That   was the second fastest time   recorded on this test. You all   did well.",44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+331,MORDOCK,   It should not have been that way.   Mister Crusher helped me.,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+332,CHANG,"   Yes. I know. An interesting   choice, Mister Crusher. Especially   considering how close you and Mister   Mordock are in overall score.",44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+333,WESLEY,"   Yes, sir.",44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+334,CHANG,   You all have an hour to prepare   for your last test.,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+335,WESLEY,"   The Psych Test, sir?",44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+336,CHANG,   We prefer to think of it as a   psychological evaluation based   on reactions to various individual   problems.       But the Psych Test will do.,44   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+337,REMMICK,   Sir.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+338,QUINN,"   Please sit down, Mister Remmick.   Proceed with your report.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+339,REMMICK,"   Admiral, I've done my best to be   objective during this   investigation. And yet, I feel   a sense of failure.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+340,QUINN,   Continue.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+341,REMMICK,"   I couldn't find what you asked,   sir. I spoke with officer after   officer, at length. I probed the   log reports. And I have found   nothing wrong. Except, perhaps,   a casual familiarity among the   bridge crew, but... mostly that   comes from a sense of teamwork.       I'm sorry, sir. I did my best.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+342,QUINN,"   Quite. You're dismissed,   Commander.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+343,REMMICK,"   Yes, sir.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+344,REMMICK,"       Captain Picard, my tour in the   Inspector General's office will   be up in six months. When I'm   finished, this is where I'd like   to serve, sir.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+345,QUINN,   Don't judge the young man too   harshly. He's a good officer.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+346,PICARD,   It's not him I'm judging.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+347,QUINN,"   Don't judge me too harshly,   either. Not until I'm finished.   We had to be very sure about you.       Some time ago, a few of us in   Starfleet Command became   suspicious of problems within   the Federation.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+348,PICARD,   What kind of problems?,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+349,QUINN,   Something or someone is trying   to destroy the fabric of all we've   built over the last two hundred   years.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+350,PICARD,   What's your evidence?,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+351,QUINN,"   I can't go into that. Too many   other people are involved. But   if we're right, this is the most   critical time in the history of   the Federation.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+352,PICARD,   What do you want from me?,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+353,QUINN,   I don't know if the threat is   coming from within or from the   outside. I need people I can trust   in strong positions throughout   the Federation.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+354,PICARD,   You have my complete support.   You know that.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+355,QUINN,"   Not enough. I want to promote   you to admiral, Jean-Luc. I want   you to take over as Commandant   of Starfleet Academy.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+356,PICARD,   The Academy?,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+357,QUINN,   Yes. I need you close.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+358,PICARD,   Then there was never a problem   with the Enterprise.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+359,QUINN,   No. I had to be sure you hadn't   been co-opted.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+360,PICARD,"   Greg, the real issue is politics.   I'm no good at politics. Surely   there are others more suited.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+361,QUINN,"   I sense you're doubtful about   this. All right. Suppose it's   the rambling paranoia of an old   man. Even if I am wrong, and I   hope I am, you're still the best   man for the job.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+362,PICARD,   I appreciate the value of what   you're offering. It's not   something I can decide quickly.,49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+363,QUINN,"   I need your answer soon, Captain.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+364,PICARD,"   All right. You'll have it   tonight, Admiral.",49   INT. ENTERPRISE - ADMIRAL'S QUARTERS,ENTERPRIS,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+365,CHANG,   Mister Mordock will be finished with   his Psych Test momentarily.,51   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+366,WESLEY,   Mordock? Are you... all right?,51   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+367,MORDOCK,   I will be...,51   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+368,CHANG,   Mister Crusher... you're next. Good   luck.,51   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+369,WESLEY,   Hello?,53   INT. RELVA 7 - TESTING ROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+370,WESLEY,"       I'm here. I'm, uh, ready.",53   INT. RELVA 7 - TESTING ROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+371,WESLEY,       Maybe they forgot.,53   INT. RELVA 7 - TESTING ROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+372,WESLEY,       Breathe. Gotta remember to   breathe.,53   INT. RELVA 7 - TESTING ROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+373,WESLEY,   Somebody help! Something's wrong   in the lab!,54   INT. RELVA 7 - LONG CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+374,TECHNICIAN #1 ,   Help! We're trapped. Help!   We're gonna die.,54   INT. RELVA 7 - LONG CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+375,COMPUTER  ,   Evacuate immediately. Sixty-five   seconds to life-support seal-off.,54   INT. RELVA 7 - LONG CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+376,COMPUTER,   Evacuate immediately. Forty-five   seconds to life-support seal-off.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+377,WESLEY,       Help me move this!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+378,WESLEY,       You have to help me!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+379,TECHNICIAN #1,   I can't! It's too late. We're   going to die! The liquid   hydrogen's gonna blow!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+380,TECHNICIAN #2,"   Please don't leave me! The   shut-off valve ruptured. If we   don't get out of here fast,   they'll seal us off to contain   the explosion!",55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+381,COMPUTER,   Evacuate immediately. Twenty-five   seconds to seal-off.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+382,WESLEY,   Come on!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+383,TECHNICIAN #1,   There's no way out! I can't move   through that!,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+384,WESLEY,   You have to. I can't carry you   both! You can walk. Come on.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+385,COMPUTER,   Evacuate immediately. Five   seconds to seal-off.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+386,WESLEY,   I'm sorry.,55   INT. RELVA 7 - ENVIRONMENTAL LAB,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+387,WESLEY,   Officer Chang! There's been an...,56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+388,CHANG,"   It's all right, Wesley.",56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+389,TECHNICIAN #2,   Thanks.,56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+390,CHANG.,"   Excellent performance, Mister   Crusher.",56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+391,WESLEY,   Performance?!... That was the test.,56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+392,CHANG,   Yes.,56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+393,WESLEY,   But a man died!,56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+394,CHANG,"   Theoretically, yes. You had to   make a choice. And you did.   There's no right or wrong about   it. Your greatest fear has been   that you couldn't make that   decision.",56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+395,WESLEY,   Because of my father? Because   Cap... someone made that choice   and my father died.,56   INT. RELVA 7 - CORRIDOR,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 396,RIKER,   Sir?,58   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 397,PICARD,"   Yes, Number One?",58   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 398,RIKER,   Mister Remmick has left the ship.,58   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
@@ -404,14 +404,14 @@
 402,RIKER,"   Congratulations! What a wonderful   choice, sir! You'll be able to   shape the minds of the future   leaders of Starfleet.",58   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 403,RIKER,       You haven't decided what you're   going to do.,58   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 404,PICARD,"   Yes I have, Number One. I'm   going for a walk.",58   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-405,CHANG,"   I'm proud of all of you. You've   done a superb job. Each of you   would make a fine Starfleet   officer. It's unfair that only   one candidate from Relva will   attend the Academy this year --   and a loss to the Federation if   the rest of you do not return to   test again... Mister Mordock will   be the candidate. His results   were slightly higher than Mister   Crusher's. Congratulations, Mister   Mordock. You are the first   Benzite in Starfleet.",60   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-406,MORDOCK,"   Thank you, sir, but it's not   right. It shouldn't be me.   Wesley lost points because he   helped me. He shouldn't be   punished for his generosity.",60   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-407,CHANG,"   He wasn't. He lost time, but   it wasn't only that...   Candidates, thank you and good   luck.",60   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-408,MORDOCK,"   I am sorry, Wesley.",60   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-409,WESLEY,"   It's okay. You deserved to win.   Besides, you would've done the   same thing for me.",60   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-410,MORDOCK,   Yes. I believe I would.,60   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-411,THANIK,   Congratulations.,60   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
-412,OLIANA,"   Well, personally, I hate losing.   So you'd better be ready next   year, Wesley. I won't be easy   to beat.",60   INT. RELVA 7 - CLASSROOM,RELVA 7,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+405,CHANG,"   I'm proud of all of you. You've   done a superb job. Each of you   would make a fine Starfleet   officer. It's unfair that only   one candidate from Relva will   attend the Academy this year --   and a loss to the Federation if   the rest of you do not return to   test again... Mister Mordock will   be the candidate. His results   were slightly higher than Mister   Crusher's. Congratulations, Mister   Mordock. You are the first   Benzite in Starfleet.",60   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+406,MORDOCK,"   Thank you, sir, but it's not   right. It shouldn't be me.   Wesley lost points because he   helped me. He shouldn't be   punished for his generosity.",60   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+407,CHANG,"   He wasn't. He lost time, but   it wasn't only that...   Candidates, thank you and good   luck.",60   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+408,MORDOCK,"   I am sorry, Wesley.",60   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+409,WESLEY,"   It's okay. You deserved to win.   Besides, you would've done the   same thing for me.",60   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+410,MORDOCK,   Yes. I believe I would.,60   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+411,THANIK,   Congratulations.,60   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
+412,OLIANA,"   Well, personally, I hate losing.   So you'd better be ready next   year, Wesley. I won't be easy   to beat.",60   INT. RELVA 7 - CLASSROOM,RELVA ,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 413,PICARD,   Mister Kurland!,64   INT. CORRIDOR,CORRIDOR,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 414,JAKE,"   Yes, sir.",64   INT. CORRIDOR,CORRIDOR,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt
 415,PICARD,   Are you... feeling better?,64   INT. CORRIDOR,CORRIDOR,INT.,Coming Of Age,1987-12-30,The Next Generation,119.txt

@@ -281,31 +281,31 @@
 279,SISKO,   The day I hit one of the guests.,29   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
 280,BASHIR,   Hit one.,29   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
 281,SISKO,   A minor misunderstanding over his    attempt to coax a young Ensign to    his quarters against her will.,29   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-282,SISKO,"       Don't hit one of them, Doctor.  I'm    not nearly as understanding as Curzon    was.",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-283,BASHIR,   Yessir.,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-284,O'BRIEN,"   Commander, can I talk to you...",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-285,O'BRIEN,"   It's the computer, sir.",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-286,SISKO,   Still giving you problems...,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-287,O'BRIEN,"   Nossir, that's just the thing.  It's    not.  It rerouted the E-P-S power    flow in less than an hour.",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-288,SISKO,   That's good news.  How soon can we    get Odo and the Ambassador out?,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-289,O'BRIEN,   We can't.  It didn't activate the    Turbolift circuits.  Don't ask me    why.,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-290,SISKO,   You must have some idea what's    wrong...,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-291,O'BRIEN,"    (sighs, shrugs, doesn't     know)   I want you to listen to something --    computer, analyze Ops O-2 sensor    readings...",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-292,COMPUTER,   All sensors read between fourteen-   point-three and fourteen-point-four    K-S-C...,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-293,O'BRIEN,"    (Okay, I'll try it     again)   Computer, restart all shield generator    subsystems...",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-294,COMPUTER,"   Shield generator subsystems set to    active status, reading ninety-eight    point three percent efficiency...",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-295,O'BRIEN,   Do you hear it?,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-296,SISKO,   Hear what?,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-297,O'BRIEN,   The voice.  It's not the same    attitude.,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-298,SISKO,   It sounds like the computer.,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-299,O'BRIEN,"   Sir, when you work with a computer ",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-300,SISKO,       You think some kind of program from    the probe is influencing our    computer... ?,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-301,O'BRIEN,"   Well, it's got to be more than just    a program.  The computer's whole...    personality has changed.  She's    obedient, almost submissive... and    then there's this one other crazy    thing I'm almost afraid to mention...",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-302,SISKO,   What's that?,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-303,O'BRIEN,"   Every time I leave, something happens    to bring me back...",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-304,SISKO,   Bring you back?,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-305,O'BRIEN,"   To the computer.  Like the failures    of the Turbolifts and the    transporters... or a few minutes    ago, when I was working over at the    transporter pad, the com lines went    down... and when I broke for a quick    bite to eat, we had a replicator    failure... it's like the computer    doesn't want me to leave it alone.",30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
-306,SISKO,   You almost make it sound like... a    child.,30   INT. OPS - CONTINUOUS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+282,SISKO,"       Don't hit one of them, Doctor.  I'm    not nearly as understanding as Curzon    was.",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+283,BASHIR,   Yessir.,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+284,O'BRIEN,"   Commander, can I talk to you...",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+285,O'BRIEN,"   It's the computer, sir.",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+286,SISKO,   Still giving you problems...,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+287,O'BRIEN,"   Nossir, that's just the thing.  It's    not.  It rerouted the E-P-S power    flow in less than an hour.",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+288,SISKO,   That's good news.  How soon can we    get Odo and the Ambassador out?,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+289,O'BRIEN,   We can't.  It didn't activate the    Turbolift circuits.  Don't ask me    why.,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+290,SISKO,   You must have some idea what's    wrong...,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+291,O'BRIEN,"    (sighs, shrugs, doesn't     know)   I want you to listen to something --    computer, analyze Ops O-2 sensor    readings...",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+292,COMPUTER,   All sensors read between fourteen-   point-three and fourteen-point-four    K-S-C...,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+293,O'BRIEN,"    (Okay, I'll try it     again)   Computer, restart all shield generator    subsystems...",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+294,COMPUTER,"   Shield generator subsystems set to    active status, reading ninety-eight    point three percent efficiency...",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+295,O'BRIEN,   Do you hear it?,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+296,SISKO,   Hear what?,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+297,O'BRIEN,   The voice.  It's not the same    attitude.,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+298,SISKO,   It sounds like the computer.,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+299,O'BRIEN,"   Sir, when you work with a computer ",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+300,SISKO,       You think some kind of program from    the probe is influencing our    computer... ?,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+301,O'BRIEN,"   Well, it's got to be more than just    a program.  The computer's whole...    personality has changed.  She's    obedient, almost submissive... and    then there's this one other crazy    thing I'm almost afraid to mention...",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+302,SISKO,   What's that?,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+303,O'BRIEN,"   Every time I leave, something happens    to bring me back...",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+304,SISKO,   Bring you back?,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+305,O'BRIEN,"   To the computer.  Like the failures    of the Turbolifts and the    transporters... or a few minutes    ago, when I was working over at the    transporter pad, the com lines went    down... and when I broke for a quick    bite to eat, we had a replicator    failure... it's like the computer    doesn't want me to leave it alone.",30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
+306,SISKO,   You almost make it sound like... a    child.,30   INT. OPS - CONTINUOUS,OP,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
 307,DAX,   What if it's some kind of non-   biological lifeform we've never seen    before... ?,32   INT. OPS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
 308,KIRA,   Non-biological... ?,32   INT. OPS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt
 309,DAX,"   Well, it comes down to how we define    ""lifeform""... but just as biological    organisms have evolved in our    cultures, mechanical life could have    done the same in others...",32   INT. OPS,OPS,INT.,The Forsaken,1993-03-04,Deep Space Nine,417.txt

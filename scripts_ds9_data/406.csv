@@ -136,18 +136,18 @@
 134,O'BRIEN ,   Uh-uh... and where's that...,22   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 135,TOSK ,   The Arva Nodes... here...,22   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 136,O'BRIEN ,   These coils... ?,22   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-137,O'BRIEN,   What are they... some kind of high-   energy magnetic coils?,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-138,TOSK,   Ah... for fuel replenishment...    fuel... ?    ,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-139,O'BRIEN,   Like a ramscoop...,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-140,TOSK,   Ramscoop... ?,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-141,O'BRIEN,   To capture stellar gases and convert    them into usable fuel...,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-142,TOSK,       Yes!  The Arva Nodes convert space    matter into fuel!,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-143,O'BRIEN,   Gotcha.  Piece of cake.,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-144,TOSK,    (with misplaced     confidence)   Pieceofcake.  Ramscoop.  Arva Nodes.,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-145,O'BRIEN,"   Ah, ""piece of cake"" - it's just an    old human expression.  Means they'll    be easy to fix.",23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-146,TOSK,   They will be easy to fix?,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-147,O'BRIEN,"   Sure, we'll just get my crew to remove    your Arva Nodes, then we'll take    them over to the replicator center    and make new ones...",23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-148,TOSK,       Piece of cake.,23   INT. HULL - DARK TIGHT TWO SHOT,HULL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+137,O'BRIEN,   What are they... some kind of high-   energy magnetic coils?,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+138,TOSK,   Ah... for fuel replenishment...    fuel... ?    ,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+139,O'BRIEN,   Like a ramscoop...,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+140,TOSK,   Ramscoop... ?,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+141,O'BRIEN,   To capture stellar gases and convert    them into usable fuel...,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+142,TOSK,       Yes!  The Arva Nodes convert space    matter into fuel!,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+143,O'BRIEN,   Gotcha.  Piece of cake.,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+144,TOSK,    (with misplaced     confidence)   Pieceofcake.  Ramscoop.  Arva Nodes.,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+145,O'BRIEN,"   Ah, ""piece of cake"" - it's just an    old human expression.  Means they'll    be easy to fix.",23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+146,TOSK,   They will be easy to fix?,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+147,O'BRIEN,"   Sure, we'll just get my crew to remove    your Arva Nodes, then we'll take    them over to the replicator center    and make new ones...",23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+148,TOSK,       Piece of cake.,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 149,TOSK,   How long?,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 150,O'BRIEN,   Maybe a day or two.  We'll want to    run some tests after we have the    replacement unit in...,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 151,TOSK,   No.  No time for that.,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
@@ -288,11 +288,11 @@
 286,SISKO,   I can't judge what is right and wrong    for your world.  But on this    station...,73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 287,THE HUNTER,"   In the future, passage through the    anomaly will be considered out of    bounds for the hunt... will that    satisfy you?",73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 288,THE HUNTER,"   Now, you will arrange for the release    of the Tosk.",73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-289,SISKO,   I've agreed to release him.,74   INT. OPS - CONTINUOUS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-290,O'BRIEN,"       But sir, Tosk is a living, intelligent    being...",74   INT. OPS - CONTINUOUS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-291,SISKO,"   This is their custom, Chief... under    the prime directive, we have no right    to interfere...",74   INT. OPS - CONTINUOUS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-292,KIRA,   What if Tosk were to request asylum?,74   INT. OPS - CONTINUOUS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-293,SISKO,   If he asks for it...,74   INT. OPS - CONTINUOUS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+289,SISKO,   I've agreed to release him.,74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+290,O'BRIEN,"       But sir, Tosk is a living, intelligent    being...",74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+291,SISKO,"   This is their custom, Chief... under    the prime directive, we have no right    to interfere...",74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+292,KIRA,   What if Tosk were to request asylum?,74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+293,SISKO,   If he asks for it...,74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 294,O'BRIEN,"   All right, I have a way out for you...",75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 295,TOSK,   A way... out.  Of here?    ,75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 296,O'BRIEN,   Request asylum.,75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
@@ -344,7 +344,7 @@
 342,ODO,   I'm talking about your ordering    O'Brien to escort Tosk off the    station...,84   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 343,SISKO,       I didn't give him any orders at all...,84   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 344,SISKO,       Sisko to O'Brien...,84   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
-345,SISKO,"   Mister O'Brien,    report to Ops immediately.",85   INT. SECURITY - CLOSE ON THE COMBADGE,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
+345,SISKO,"   Mister O'Brien,    report to Ops immediately.",85   INT. SECURITY - CLOSE ON THE COMBADGE,SECURIT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 346,O'BRIEN,   This way...,86   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 347,O'BRIEN,"   Glass jaw.  Now, I know why you wear    a helmet.",86   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt
 348,O'BRIEN,   Up there!,86   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt

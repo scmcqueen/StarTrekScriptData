@@ -3,17 +3,17 @@
 1,PICARD,   With reason.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 2,TROI,"   About Worf, or about Commander   Riker?",2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 3,PICARD,   Both.       I think perhaps it is best to   be ignorant of certain elements   of the Klingon psyche.,2    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-4,RIKER,"   Above, look out!",3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-5,RIKER,   It's over.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-6,RIKER,   The exercise is over.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-7,RIKER,"   At ease, Lieutenant!",3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-8,RIKER,   Exit Holodeck.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-9,RIKER,       You do this every day?,3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-10,WORF,"   No -- usually my calisthenics are   more...    (he searches for the     right word, then     settles for)   ... intense, but those sessions   are too personal to be shared.",3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-11,RIKER,       I'll bet they are.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-12,WORF ,   Computer. Program complete --   save.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-13,WORF,       Coming Commander?,3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-14,RIKER,   Right behind you.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODECK,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+4,RIKER,"   Above, look out!",3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+5,RIKER,   It's over.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+6,RIKER,   The exercise is over.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+7,RIKER,"   At ease, Lieutenant!",3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+8,RIKER,   Exit Holodeck.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+9,RIKER,       You do this every day?,3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+10,WORF,"   No -- usually my calisthenics are   more...    (he searches for the     right word, then     settles for)   ... intense, but those sessions   are too personal to be shared.",3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+11,RIKER,       I'll bet they are.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+12,WORF ,   Computer. Program complete --   save.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+13,WORF,       Coming Commander?,3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+14,RIKER,   Right behind you.,3    INT. HOLODECK - DEMOLISHED AREA,HOLODEC,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 15,PICARD ,"   Captain's log, Stardate 42193.6.   We are on a long reach toward the   Morgana Quadrant, a section of   the galaxy which has yet to be   visited by a manned Federation   vessel. We are using the time   to further detail the charts of   this region.",29   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 16,DATA,"   There it is again. An area of   ""blackness.""",30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 17,RIKER,"   It appears, then disappears, then   reappears. There is no   predictable pattern -- no sequence.",30   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
@@ -157,35 +157,35 @@
 155,RIKER,"   Arm your photon torpedoes, Mister   Worf.",53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 156,PICARD,   Hold for my orders.,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 157,WESLEY,   There!,53   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-158,WORF,"   Direct hits, sir. Our shields   are weakening.",58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-159,PICARD,   Warn them we'll return fire.,58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-160,WORF,   Transmitting.,58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-161,WORF,"       They've armed another full spread,   sir.",58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-162,PICARD,   Fire torpedoes.,58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-163,PICARD,   That was too easy.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-164,RIKER,   Yes.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-165,DATA,"   Captain, sensors can locate no   debris from the Romulan ship.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-166,WORF,"   Captain, there is another vessel   approaching -- sector zero-nine-   one, mark, two-six.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-167,PICARD,   Specifics.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-168,WORF,   On screen.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-169,PICARD,   Magnify.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-170,RIKER,"   It's a Federation ship.       N-C-C... one-three-oh-five dash   E. It is the USS Yamato, our   sister ship.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-171,WESLEY,   The Yamato is nowhere near this   quadrant.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-172,PICARD,"   Open a hailing frequency, Data....",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-173,DATA,"   This is the USS Enterprise to...   USS Yamato. Respond, please...",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-174,DATA,       This is the USS Enterprise calling   USS Yamato. Please respond on   this frequency.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-175,DATA,"       No response, Captain.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-176,PICARD,   Make a full scan.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-177,DATA,"   Life support system -- engineering   and propulsion all seem   functional.    (turns; reacts at a     reading)   But there are no life signs over   there, sir.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-178,PICARD,"   Can we be getting a false   reading, Data?",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-179,DATA,"   Since we know nothing at all about   these circumstances, that is...   at least, conceivable, sir.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-180,RIKER,"       You look doubtful, sir.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-181,PICARD,"   I'm not anything right now, Number   One. I'm just a man looking for   answers.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-182,GEORDI,"       Like the rat said -- ""Keep the   cheese, I just want out of the   trap.""",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-183,RIKER,"   Captain, request permission to   board the Yamato with an away   team. There might be something   onboard -- in the logs -- which will   at least tell us what happened.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-184,PICARD,   Granted. Minimum complement.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-185,RIKER,   Worf. You're with me.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-186,PICARD ,"   Captain's log, supplemental. We   remain like a fly in amber trapped   in the void. We have encountered   a vessel which appears to be the   USS Yamato. All its systems are   shown as functioning, yet it seems   devoid of life. Commander Riker   is leading an away team --   hopefully the answer lies over   there.",64   EXT. SPACE - THE ENTERPRISE AND THE USS YAMATO,SPACE,EXT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+158,WORF,"   Direct hits, sir. Our shields   are weakening.",58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+159,PICARD,   Warn them we'll return fire.,58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+160,WORF,   Transmitting.,58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+161,WORF,"       They've armed another full spread,   sir.",58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+162,PICARD,   Fire torpedoes.,58   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+163,PICARD,   That was too easy.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+164,RIKER,   Yes.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+165,DATA,"   Captain, sensors can locate no   debris from the Romulan ship.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+166,WORF,"   Captain, there is another vessel   approaching -- sector zero-nine-   one, mark, two-six.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+167,PICARD,   Specifics.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+168,WORF,   On screen.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+169,PICARD,   Magnify.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+170,RIKER,"   It's a Federation ship.       N-C-C... one-three-oh-five dash   E. It is the USS Yamato, our   sister ship.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+171,WESLEY,   The Yamato is nowhere near this   quadrant.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+172,PICARD,"   Open a hailing frequency, Data....",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+173,DATA,"   This is the USS Enterprise to...   USS Yamato. Respond, please...",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+174,DATA,       This is the USS Enterprise calling   USS Yamato. Please respond on   this frequency.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+175,DATA,"       No response, Captain.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+176,PICARD,   Make a full scan.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+177,DATA,"   Life support system -- engineering   and propulsion all seem   functional.    (turns; reacts at a     reading)   But there are no life signs over   there, sir.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+178,PICARD,"   Can we be getting a false   reading, Data?",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+179,DATA,"   Since we know nothing at all about   these circumstances, that is...   at least, conceivable, sir.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+180,RIKER,"       You look doubtful, sir.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+181,PICARD,"   I'm not anything right now, Number   One. I'm just a man looking for   answers.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+182,GEORDI,"       Like the rat said -- ""Keep the   cheese, I just want out of the   trap.""",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+183,RIKER,"   Captain, request permission to   board the Yamato with an away   team. There might be something   onboard -- in the logs -- which will   at least tell us what happened.",62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+184,PICARD,   Granted. Minimum complement.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+185,RIKER,   Worf. You're with me.,62   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+186,PICARD ,"   Captain's log, supplemental. We   remain like a fly in amber trapped   in the void. We have encountered   a vessel which appears to be the   USS Yamato. All its systems are   shown as functioning, yet it seems   devoid of life. Commander Riker   is leading an away team --   hopefully the answer lies over   there.",64   EXT. SPACE - THE ENTERPRISE AND THE USS YAMATO,SPAC,EXT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 187,RIKER,   Do you have a lock on that other   ship?,65   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 188,TRANSPORTER CHIEF,"   Aye, sir. No problems at all.",65   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 189,RIKER,   Can you put us on the bridge?,65   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
@@ -206,24 +206,24 @@
 204,RIKER,"    (touches his     communicator)   Transporter Chief, where do you   show us over here?",66   INT. USS YAMATO - CORRIDOR (OPTICAL),USS YAMATO - CORRIDOR,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 205,TRANSPORTER CHIEF,   We show... as approximately...,66   INT. USS YAMATO - CORRIDOR (OPTICAL),USS YAMATO - CORRIDOR,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 206,RIKER,"   Captain, do you read me?...",66   INT. USS YAMATO - CORRIDOR (OPTICAL),USS YAMATO - CORRIDOR,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-207,RIKER,   ... having difficulties...,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-208,PICARD,"   Number One, come in!",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-209,PICARD,"       Transporter Room, this is the   captain. We are out of contact   with the away team. Beam them   back, immediately.",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-210,TRANSPORTER CHIEF,   I have lost the lock on them.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-211,WORF,"   Nothing on my communicator, sir.",68   INT. USS YAMATO - CORRIDOR,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-212,WORF,"       Computer, on.",68   INT. USS YAMATO - CORRIDOR,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-213,RIKER,       Let's find a turbolift to the   bridge.,68   INT. USS YAMATO - CORRIDOR,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-214,PICARD,   Transporter Room -- have you been   able to establish a lock?,70   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-215,PICARD,   Initiate full check -- all   systems.,70   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-216,GEORDI,"   Engineering section, report. What   is our situation?",70   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-217,RIKER,"   This isn't a Federation ship.   The walls are not tritanium...   close, but it's a material beyond   our technology.    (he then leads the way     to the turbolift)   Let's get to the bridge.   Somewhere there must be an answer   to all of this.",A84	INT. USS YAMATO - CORRIDOR,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-218,RIKER,   Wait -- if you go through there...   where will you be?,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-219,WORF,   On the bridge.,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-220,RIKER,   But we are on the bridge.,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-221,WORF,   Should I continue?,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-222,RIKER,   Yes -- move out. Let's see what   happens.,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-223,WORF,   Is it the same bridge?,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-224,RIKER,   ... Or did we just step from one   bridge to another bridge?,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+207,RIKER,   ... having difficulties...,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+208,PICARD,"   Number One, come in!",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+209,PICARD,"       Transporter Room, this is the   captain. We are out of contact   with the away team. Beam them   back, immediately.",67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+210,TRANSPORTER CHIEF,   I have lost the lock on them.,67   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+211,WORF,"   Nothing on my communicator, sir.",68   INT. USS YAMATO - CORRIDOR,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+212,WORF,"       Computer, on.",68   INT. USS YAMATO - CORRIDOR,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+213,RIKER,       Let's find a turbolift to the   bridge.,68   INT. USS YAMATO - CORRIDOR,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+214,PICARD,   Transporter Room -- have you been   able to establish a lock?,70   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+215,PICARD,   Initiate full check -- all   systems.,70   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+216,GEORDI,"   Engineering section, report. What   is our situation?",70   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+217,RIKER,"   This isn't a Federation ship.   The walls are not tritanium...   close, but it's a material beyond   our technology.    (he then leads the way     to the turbolift)   Let's get to the bridge.   Somewhere there must be an answer   to all of this.",A84	INT. USS YAMATO - CORRIDOR,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+218,RIKER,   Wait -- if you go through there...   where will you be?,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+219,WORF,   On the bridge.,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+220,RIKER,   But we are on the bridge.,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+221,WORF,   Should I continue?,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+222,RIKER,   Yes -- move out. Let's see what   happens.,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+223,WORF,   Is it the same bridge?,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+224,RIKER,   ... Or did we just step from one   bridge to another bridge?,B84	INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 225,DATA,   Captain! I have a star fix.,C84A	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 226,PICARD,   On screen.,C84A	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 227,WESLEY,"   It's an opening, sir.",C84A	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
@@ -231,91 +231,91 @@
 229,WESLEY,   Should I set a course?,C84A	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 230,PICARD,   Transporter Room. Do you have   a fix on the away team?,C84A	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 231,TRANSPORTER CHIEF,   Negative.,C84A	INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-232,WORF ,   Commander.,D84	INT. USS YAMATO BRIDGE - WORF,USS YAMATO BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-233,WORF,"       At ease, Lieutenant! At EASE!",D84	INT. USS YAMATO BRIDGE - WORF,USS YAMATO BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-234,DATA,   The star fix is fading.,G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-235,PICARD,"   Haskell, lock on to the Yamato   with the tractor beam. We leave   together.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-236,HASKELL,   I can't make the lock.,G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-237,DATA,   Captain. The star fix is fading.,G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-238,PICARD,"   Let it go, Data.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-239,HASKELL,"   But, sir, we can get out.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-240,PICARD,   Let it go.,G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-241,TRANSPORTER CHIEF,"   Bridge, I've re-established   contact with the away team.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-242,WESLEY,"       The Yamato's beginning to fade   out, Captain.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-243,RIKER,"   Come in, come in Enterprise.",85   INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-244,TRANSPORTER CHIEF,"   Hold position, away team. I've   got you. We are bringing you   home!",85   INT. USS YAMATO - MAIN BRIDGE,USS YAMATO,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+232,WORF ,   Commander.,D84	INT. USS YAMATO BRIDGE - WORF,USS YAMATO BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+233,WORF,"       At ease, Lieutenant! At EASE!",D84	INT. USS YAMATO BRIDGE - WORF,USS YAMATO BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+234,DATA,   The star fix is fading.,G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+235,PICARD,"   Haskell, lock on to the Yamato   with the tractor beam. We leave   together.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+236,HASKELL,   I can't make the lock.,G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+237,DATA,   Captain. The star fix is fading.,G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+238,PICARD,"   Let it go, Data.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+239,HASKELL,"   But, sir, we can get out.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+240,PICARD,   Let it go.,G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+241,TRANSPORTER CHIEF,"   Bridge, I've re-established   contact with the away team.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+242,WESLEY,"       The Yamato's beginning to fade   out, Captain.",G84	INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+243,RIKER,"   Come in, come in Enterprise.",85   INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+244,TRANSPORTER CHIEF,"   Hold position, away team. I've   got you. We are bringing you   home!",85   INT. USS YAMATO - MAIN BRIDGE,USS YAMAT,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 245,PICARD,"   Transporter Room, hurry!",86   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 246,WESLEY,"   Captain, it's almost gone.",86   INT. ENTERPRISE - MAIN BRIDGE (OPTICAL),ENTERPRISE - MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-247,RIKER,   What the hell's going on?,87B  INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-248,PICARD,"   Are you all right, Number One?",87B  INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-249,RIKER,"   Yes, but I've had it. Let's put   all this technology and computers   to work -- figure out what's going   on -- and get the hell out of   here.",87B  INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-250,RIKER,"       A ship that was almost the Yamato,   existing in a ""hole in space,""   no crew aboard -- what's the   purpose?",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-251,DATA,"   Add to it an attack by a   nonexistent Romulan vessel, it   does suggest an interesting   question: ""Was our away team even   over there?""",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-252,RIKER,"   If we weren't over there, where   the hell were we?",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-253,HASKELL,"   Captain, I have re-established   the star fix.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-254,RIKER,   Great.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-255,RIKER,       Set course -- velocity -- warp two.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-256,WESLEY,   Course and speed set.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-257,PICARD,   Engage.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-258,DATA,   I have lost contact.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-259,PICARD,   What?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-260,HASKELL,   The star fix is gone.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-261,DATA,"   Sir, it is not in the same sector.   But another opening has appeared.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-262,PICARD,   On screen.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-263,PICARD,   Set a course for those stars.   Warp six.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-264,WESLEY,"   Yes, sir -- warp six.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-265,DATA,   I have lost the signal.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-266,RIKER,   Damn it.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-267,PICARD,   All stop.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-268,DATA,   Captain...,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-269,PICARD,"   I know Data, I can see it.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-270,RIKER,   This game is now wearing very   thin.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-271,PICARD,"   Hold this position.       Counselor, you have said you   sensed no intelligence behind all   of this. You haven't changed in   that belief?",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-272,TROI,"   I'm not so certain of that now,   Captain. I do sense something   unusual about all this...",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-273,PICARD,   Perhaps a different level of   consciousness?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-274,TROI,"   An intelligence so vast it eluded   me? Yes, perhaps.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-275,PULASKI,       Rats in a maze.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-276,TROI,       Exactly!,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-277,PICARD,   Explain.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-278,PULASKI,   Everything we've been through   reminds me of a laboratory   experiment. As though something   were testing our responses to   stimuli.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-279,PICARD,   Are you suggesting we're in some   kind of laboratory?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-280,PULASKI,   Yes.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-281,WESLEY,"   The opening seems closer,   Captain.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-282,PICARD,   We're finished with being led   about this way.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-283,RIKER,"   Agreed, Captain. Hold present   position.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-284,TROI,   Good. Don't satisfy its   curiosity.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-285,NAGILUM,   Why are you so alarmed when I've   gone to such trouble to look just   like you?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-286,RIKER,"   Return to your position,   Lieutenant.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-287,WORF,   Sir... ?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-288,DATA,"   Captain, sensors show nothing out   there. Absolutely nothing.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-289,GEORDI,       It's a damned ugly nothing.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-290,PICARD,   I am Captain Jean-Luc Picard of   the USS Enterprise.       ... representing a Federation of   planets in this part of the   galaxy.       Can you identify whoever or   whatever you are?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-291,NAGILUM,   NAGILUM!,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-292,GEORDI,"       Speaks right out for something   your sensors say isn't there,   Data.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-293,PICARD,   We've still no idea of what you   represent.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-294,NAGILUM,"   ""Data.""",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-295,DATA,   Nagilum?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-296,NAGILUM,   You are of different construction   than the others. Interesting.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-297,NAGILUM,       Picard... Riker... Geordi...   Wesley...,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-298,NAGILUM,       What are you? Your construction   also differs.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-299,PULASKI,"   My ""construction""... ?",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-300,DATA,   Perhaps referring to your gender.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-301,PULASKI,"   Yes, I see...       There are minor differences. I   am what we call a ""female.""",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-302,NAGILUM,   I understand. The masculine and   the feminine.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-303,PICARD,   It is the way in which we   propagate our species.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-304,NAGILUM,   Please demonstrate how this is   accomplished.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-305,PULASKI,   Not likely.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-306,PICARD,"   Whatever you are, your actions   are not welcome.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-307,WORF,"   Let me put up the shields, sir.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-308,DATA,"   Our sensors do not show anything   there, Worf.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-309,NAGILUM,   Your life-form surprises me more   and more. Is it also true that   you have only a limited existence?       Answer!,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-310,PICARD,   What information do you want?   I don't understand the question.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-311,NAGILUM,"   You exist -- and then you cease   to exist. Your minds call it   ""death.""",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-312,NAGILUM,       How interesting.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-313,WORF,   Sickbay?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-314,PULASKI,   It won't help. The body is   already cold.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-315,PICARD,   We cannot allow you to do that!   We'll fight you...,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
-316,NAGILUM,"    (interrupting; VOICE     BOOMING)   To understand death, I must amass   information on every aspect of   it, every kind of dying. The   experiments shouldn't take more   than a third of your crew, maybe   half.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+247,RIKER,   What the hell's going on?,87B  INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+248,PICARD,"   Are you all right, Number One?",87B  INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+249,RIKER,"   Yes, but I've had it. Let's put   all this technology and computers   to work -- figure out what's going   on -- and get the hell out of   here.",87B  INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+250,RIKER,"       A ship that was almost the Yamato,   existing in a ""hole in space,""   no crew aboard -- what's the   purpose?",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+251,DATA,"   Add to it an attack by a   nonexistent Romulan vessel, it   does suggest an interesting   question: ""Was our away team even   over there?""",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+252,RIKER,"   If we weren't over there, where   the hell were we?",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+253,HASKELL,"   Captain, I have re-established   the star fix.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+254,RIKER,   Great.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+255,RIKER,       Set course -- velocity -- warp two.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+256,WESLEY,   Course and speed set.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+257,PICARD,   Engage.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+258,DATA,   I have lost contact.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+259,PICARD,   What?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+260,HASKELL,   The star fix is gone.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+261,DATA,"   Sir, it is not in the same sector.   But another opening has appeared.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+262,PICARD,   On screen.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+263,PICARD,   Set a course for those stars.   Warp six.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+264,WESLEY,"   Yes, sir -- warp six.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+265,DATA,   I have lost the signal.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+266,RIKER,   Damn it.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+267,PICARD,   All stop.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+268,DATA,   Captain...,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+269,PICARD,"   I know Data, I can see it.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+270,RIKER,   This game is now wearing very   thin.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+271,PICARD,"   Hold this position.       Counselor, you have said you   sensed no intelligence behind all   of this. You haven't changed in   that belief?",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+272,TROI,"   I'm not so certain of that now,   Captain. I do sense something   unusual about all this...",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+273,PICARD,   Perhaps a different level of   consciousness?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+274,TROI,"   An intelligence so vast it eluded   me? Yes, perhaps.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+275,PULASKI,       Rats in a maze.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+276,TROI,       Exactly!,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+277,PICARD,   Explain.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+278,PULASKI,   Everything we've been through   reminds me of a laboratory   experiment. As though something   were testing our responses to   stimuli.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+279,PICARD,   Are you suggesting we're in some   kind of laboratory?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+280,PULASKI,   Yes.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+281,WESLEY,"   The opening seems closer,   Captain.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+282,PICARD,   We're finished with being led   about this way.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+283,RIKER,"   Agreed, Captain. Hold present   position.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+284,TROI,   Good. Don't satisfy its   curiosity.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+285,NAGILUM,   Why are you so alarmed when I've   gone to such trouble to look just   like you?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+286,RIKER,"   Return to your position,   Lieutenant.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+287,WORF,   Sir... ?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+288,DATA,"   Captain, sensors show nothing out   there. Absolutely nothing.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+289,GEORDI,       It's a damned ugly nothing.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+290,PICARD,   I am Captain Jean-Luc Picard of   the USS Enterprise.       ... representing a Federation of   planets in this part of the   galaxy.       Can you identify whoever or   whatever you are?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+291,NAGILUM,   NAGILUM!,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+292,GEORDI,"       Speaks right out for something   your sensors say isn't there,   Data.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+293,PICARD,   We've still no idea of what you   represent.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+294,NAGILUM,"   ""Data.""",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+295,DATA,   Nagilum?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+296,NAGILUM,   You are of different construction   than the others. Interesting.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+297,NAGILUM,       Picard... Riker... Geordi...   Wesley...,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+298,NAGILUM,       What are you? Your construction   also differs.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+299,PULASKI,"   My ""construction""... ?",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+300,DATA,   Perhaps referring to your gender.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+301,PULASKI,"   Yes, I see...       There are minor differences. I   am what we call a ""female.""",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+302,NAGILUM,   I understand. The masculine and   the feminine.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+303,PICARD,   It is the way in which we   propagate our species.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+304,NAGILUM,   Please demonstrate how this is   accomplished.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+305,PULASKI,   Not likely.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+306,PICARD,"   Whatever you are, your actions   are not welcome.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+307,WORF,"   Let me put up the shields, sir.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+308,DATA,"   Our sensors do not show anything   there, Worf.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+309,NAGILUM,   Your life-form surprises me more   and more. Is it also true that   you have only a limited existence?       Answer!,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+310,PICARD,   What information do you want?   I don't understand the question.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+311,NAGILUM,"   You exist -- and then you cease   to exist. Your minds call it   ""death.""",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+312,NAGILUM,       How interesting.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+313,WORF,   Sickbay?,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+314,PULASKI,   It won't help. The body is   already cold.,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+315,PICARD,   We cannot allow you to do that!   We'll fight you...,88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
+316,NAGILUM,"    (interrupting; VOICE     BOOMING)   To understand death, I must amass   information on every aspect of   it, every kind of dying. The   experiments shouldn't take more   than a third of your crew, maybe   half.",88   INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 317,PICARD ,"   Captain's log, Stardate 42194.7.   It is obvious that whatever we   have met sees no value in our kind   of life-form. How do we fight   something that both is...",107  EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 318,PICARD ,       ... and is not there?,108  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt
 319,TROI,   I can sense this much. We are   unimportant to it.,108  INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Where Silence Has Lease,1988-09-27,The Next Generation,128.txt

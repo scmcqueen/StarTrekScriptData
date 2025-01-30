@@ -64,19 +64,19 @@
 62,GEORDI,   Uh... be careful there. That's   an EPS power tap.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
 63,SCOTT,   Ah.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
 64,GEORDI,       You were saying earlier that you   were on your way to the Norpin   Colony when you had a warp engine   failure...,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
-65,SCOTT,"       That's right. We had an overload   in one of the plasma transfer   conduits. The Captain brought   us out of warp... we hit some   gravimetric interference and then   there it was, as big as life...    (points at something     on the wall)   Is that a conduit interface?",11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-66,GEORDI,"   Yeah. Uh, big as life... the   Dyson Sphere, right?",11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-67,SCOTT,       Aye. An actual Dyson Sphere.   Can you imagine the engineering   skills needed to even design such   a structure...,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-68,GEORDI,   I know... it's pretty amazing.   What happened when you first   approached it?,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-69,SCOTT,   We began a standard survey of the   surface. We were just completing   the initial orbital scan when our   aft power coils suddenly exploded.   The ship got caught in the   sphere's gravity well... and down   we went.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-70,SCOTT,   Franklin and I were the only ones   to survive the crash...,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-71,GEORDI,   What made you think of using the   Transporter pattern buffer to stay   alive?,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-72,SCOTT,   We didna have enough supplies to   wait for a rescue... so I had to   think of something.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-73,GEORDI,   But locking it into a diagnostic   cycle to keep the signal from   degrading... and cross connecting   the phase inducers to provide   a regenerative power source...   it's brilliant.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-74,SCOTT,       I'm afraid it was only fifty   percent brilliant... Ensign   Franklin deserved better.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-75,GEORDI,"   I think you're going to like the   twenty-fourth century, Mister   Scott. We've made some pretty   incredible advances in the last   eighty years.",11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-76,SCOTT,"       Aye... from what I can see you've   got a fine ship here, Mister La   Forge... a real beauty. In fact,   I must admit to being a little   overwhelmed.",11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-77,GEORDI,   Wait until you see the Holodeck.,11   INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
+65,SCOTT,"       That's right. We had an overload   in one of the plasma transfer   conduits. The Captain brought   us out of warp... we hit some   gravimetric interference and then   there it was, as big as life...    (points at something     on the wall)   Is that a conduit interface?",11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+66,GEORDI,"   Yeah. Uh, big as life... the   Dyson Sphere, right?",11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+67,SCOTT,       Aye. An actual Dyson Sphere.   Can you imagine the engineering   skills needed to even design such   a structure...,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+68,GEORDI,   I know... it's pretty amazing.   What happened when you first   approached it?,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+69,SCOTT,   We began a standard survey of the   surface. We were just completing   the initial orbital scan when our   aft power coils suddenly exploded.   The ship got caught in the   sphere's gravity well... and down   we went.,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+70,SCOTT,   Franklin and I were the only ones   to survive the crash...,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+71,GEORDI,   What made you think of using the   Transporter pattern buffer to stay   alive?,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+72,SCOTT,   We didna have enough supplies to   wait for a rescue... so I had to   think of something.,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+73,GEORDI,   But locking it into a diagnostic   cycle to keep the signal from   degrading... and cross connecting   the phase inducers to provide   a regenerative power source...   it's brilliant.,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+74,SCOTT,       I'm afraid it was only fifty   percent brilliant... Ensign   Franklin deserved better.,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+75,GEORDI,"   I think you're going to like the   twenty-fourth century, Mister   Scott. We've made some pretty   incredible advances in the last   eighty years.",11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+76,SCOTT,"       Aye... from what I can see you've   got a fine ship here, Mister La   Forge... a real beauty. In fact,   I must admit to being a little   overwhelmed.",11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
+77,GEORDI,   Wait until you see the Holodeck.,11   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Relics,1992-08-04,The Next Generation,230.txt
 78,BEVERLY,"   You've had a hairline fracture   of the humerus.       It'll ache for a few days, but   it should be fine.",12   INT. SICKBAY,SICKBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
 79,SCOTT,"   Thank you.    (with a smile, to     Geordi)   Well, I'll say this for your   Enterprise... the doctors are a   fair sight prettier.",12   INT. SICKBAY,SICKBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
 80,PICARD,"   I'm Captain Jean-Luc Picard.   Welcome aboard the Enterprise,   Captain Scott.",12   INT. SICKBAY,SICKBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
@@ -219,11 +219,11 @@
 217,PICARD,"   This is not an order, Geordi, it   is a request... one which you are   free to decline.       One of the most important things   in a man's life is the need to   feel useful. Mister Scott is a   Starfleet officer... I would like   him to feel useful again.",27   INT. READY ROOM,READY ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
 218,GEORDI,"   I'll go with him, Captain.",27   INT. READY ROOM,READY ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
 219,PICARD,   Thank you.,27   INT. READY ROOM,READY ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
-220,DATA,"   Commander, I believe I have found   something on the sphere which   could be a communications device.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Relics,1992-08-04,The Next Generation,230.txt
-221,DATA,   There is an antenna array   approximately four hundred   thousand kilometers south of our   present position. It is emitting   low-intensity subspace signals.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Relics,1992-08-04,The Next Generation,230.txt
-222,RIKER,   Can we open a channel?,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Relics,1992-08-04,The Next Generation,230.txt
-223,DATA,"   Not from our present orbit,   Commander. The array is currently   directed away from us.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Relics,1992-08-04,The Next Generation,230.txt
-224,RIKER,"    (to Rager, indicating     Data's console)   Prepare to take us to an orbit   above those coordinates.       Captain Picard to the Bridge,   please.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,Relics,1992-08-04,The Next Generation,230.txt
+220,DATA,"   Commander, I believe I have found   something on the sphere which   could be a communications device.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Relics,1992-08-04,The Next Generation,230.txt
+221,DATA,   There is an antenna array   approximately four hundred   thousand kilometers south of our   present position. It is emitting   low-intensity subspace signals.,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Relics,1992-08-04,The Next Generation,230.txt
+222,RIKER,   Can we open a channel?,28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Relics,1992-08-04,The Next Generation,230.txt
+223,DATA,"   Not from our present orbit,   Commander. The array is currently   directed away from us.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Relics,1992-08-04,The Next Generation,230.txt
+224,RIKER,"    (to Rager, indicating     Data's console)   Prepare to take us to an orbit   above those coordinates.       Captain Picard to the Bridge,   please.",28   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,Relics,1992-08-04,The Next Generation,230.txt
 225,GEORDI,   Are you feeling all right?,29   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
 226,SCOTT,       Never get drunk unless you're   willing to pay for it the next   day. I'll manage.,29   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
 227,GEORDI,   Okay.,29   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Relics,1992-08-04,The Next Generation,230.txt
@@ -366,14 +366,14 @@
 364,SCOTT,"   Enjoy these times, Geordi. You're   the chief engineer of a   starship... it's a time of your   life that'll never come again...   and once it's gone... it's gone.",63   INT. CORRIDOR,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
 365,SCOTT,   I thought you were going to buy   me a drink in Ten Forward.,63   INT. CORRIDOR,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
 366,GEORDI,       I have a better idea.,63   INT. CORRIDOR,CORRIDOR,INT.,Relics,1992-08-04,The Next Generation,230.txt
-367,SCOTT,       You're giving me one of your   shuttles?,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-368,PICARD,"   Call it... an extended loan.   Since you lost your ship while   saving ours, it seemed only fair.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-369,RIKER,       It's not much to look at...,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-370,SCOTT,"   Lad, every woman has her own   charms... ye just have to know   where to look.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-371,GEORDI,"   It's a little slow, but it'll get   you to the Norpin colony... if   that's really where you want to   go.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-372,SCOTT,   The Norpin Colony is where old   men go to retire... maybe I'll   end up there someday... but not   just yet.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-373,PICARD,"       Bon voyage, Mister Scott.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-374,SCOTT,"   Thank you, sir. For everything.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-375,SCOTT,   They're a good crew.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-376,GEORDI,   Yeah.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
-377,SCOTT,   And she's a fine ship... a credit   to her name.       But I've always found that a ship   is only as good as the Engineer   who takes care of her... and from   what I can see... the Enterprise   is in good hands.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBAY,INT.,Relics,1992-08-04,The Next Generation,230.txt
+367,SCOTT,       You're giving me one of your   shuttles?,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+368,PICARD,"   Call it... an extended loan.   Since you lost your ship while   saving ours, it seemed only fair.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+369,RIKER,       It's not much to look at...,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+370,SCOTT,"   Lad, every woman has her own   charms... ye just have to know   where to look.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+371,GEORDI,"   It's a little slow, but it'll get   you to the Norpin colony... if   that's really where you want to   go.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+372,SCOTT,   The Norpin Colony is where old   men go to retire... maybe I'll   end up there someday... but not   just yet.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+373,PICARD,"       Bon voyage, Mister Scott.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+374,SCOTT,"   Thank you, sir. For everything.",64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+375,SCOTT,   They're a good crew.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+376,GEORDI,   Yeah.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt
+377,SCOTT,   And she's a fine ship... a credit   to her name.       But I've always found that a ship   is only as good as the Engineer   who takes care of her... and from   what I can see... the Enterprise   is in good hands.,64   INT. SHUTTLEBAY - CONTINUOUS,SHUTTLEBA,INT.,Relics,1992-08-04,The Next Generation,230.txt

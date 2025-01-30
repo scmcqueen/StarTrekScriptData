@@ -8,15 +8,15 @@
 6,GEORDI ,   Aye sir.,4    INT. STARBASE (OPTICAL),STARBASE,INT.,11001001,1987-11-19,The Next Generation,116.txt
 7,GEORDI,   Docking complete.,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
 8,PICARD,"   Thank you, Number One. Well   done, and well done all.",6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-9,QUINTEROS,   Commander Quinteros; request   permission to come aboard.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
-10,PICARD,   Granted -- and welcome.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
-11,PICARD,       This is Commander Riker.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
-12,QUINTEROS,   You're late. We expected you a   week ago.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
-13,RIKER,   We were unexpectedly delayed at   Omicron Pascal.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
-14,QUINTEROS,"   Is there anything specific you   wish to report, or that we should   be aware of?",8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
-15,PICARD,   No. We are very pleased with the   operation of the Enterprise.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
-16,QUINTEROS,   I knew you would be - I was in   charge of the team which put her   together.,8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
-17,RIKER,   And are these gentlemen the   Bynars?,8    INT. AIR-LOCK CORRIDOR,AI,INT.,11001001,1987-11-19,The Next Generation,116.txt
+9,QUINTEROS,   Commander Quinteros; request   permission to come aboard.,8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
+10,PICARD,   Granted -- and welcome.,8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
+11,PICARD,       This is Commander Riker.,8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
+12,QUINTEROS,   You're late. We expected you a   week ago.,8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
+13,RIKER,   We were unexpectedly delayed at   Omicron Pascal.,8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
+14,QUINTEROS,"   Is there anything specific you   wish to report, or that we should   be aware of?",8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
+15,PICARD,   No. We are very pleased with the   operation of the Enterprise.,8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
+16,QUINTEROS,   I knew you would be - I was in   charge of the team which put her   together.,8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
+17,RIKER,   And are these gentlemen the   Bynars?,8    INT. AIR-LOCK CORRIDOR,AIR-LOCK CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
 18,QUINTEROS,"   They're not gentlemen or ladies,   Commander.       They are a unified pair. Always   together. This is One Zero.",8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,11001001,1987-11-19,The Next Generation,116.txt
 19,QUINTEROS,       And this is Zero One.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,11001001,1987-11-19,The Next Generation,116.txt
 20,QUINTEROS,       They just finished upgrading the   computers on the Wellington -- did   a great job.,8A   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,11001001,1987-11-19,The Next Generation,116.txt
@@ -74,16 +74,16 @@
 72,RIKER,   Let's hope so for their sake.,12   INT. CORRIDOR,CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
 73,RIKER,   Computer -- There's a power   reduction in section L-Ninety   Four. Explain.,12   INT. CORRIDOR,CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
 74,COMPUTER,   Unoccupied sections are being   closed down in order to clear   space in the main computer banks.   It's necessary to facilitate the   system upgrade. Full power can   be restored if needed.,12   INT. CORRIDOR,CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
-75,GEORDI ,   What do you think?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-76,RIKER ,"   First tell me what it's supposed   to be, then I'll give you an   opinion.",15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-77,DATA,   It is an attempt at pure   creativity.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-78,GEORDI,"   What we're investigating is, ""Can   Data be creative?""",15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-79,DATA,   This is my attempt... with   guidance from Geordi.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-80,GEORDI,   I suggested the Zylo eggs.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-81,RIKER,   Is that what those are?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-82,RIKER,       Keep notes. This project might   turn out to be of interest to   future scholars.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-83,GEORDI,   Really?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-84,RIKER,   Think about it. A blind man   teaching an android to paint?   That's got to be worth a couple   of pages in someone's book.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+75,GEORDI ,   What do you think?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+76,RIKER ,"   First tell me what it's supposed   to be, then I'll give you an   opinion.",15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+77,DATA,   It is an attempt at pure   creativity.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+78,GEORDI,"   What we're investigating is, ""Can   Data be creative?""",15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+79,DATA,   This is my attempt... with   guidance from Geordi.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+80,GEORDI,   I suggested the Zylo eggs.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+81,RIKER,   Is that what those are?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+82,RIKER,       Keep notes. This project might   turn out to be of interest to   future scholars.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+83,GEORDI,   Really?,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
+84,RIKER,   Think about it. A blind man   teaching an android to paint?   That's got to be worth a couple   of pages in someone's book.,15   INT. OBSERVATION LOUNGE - CLOSE ON PAINTING,OBSERVATION LOUNG,INT.,11001001,1987-11-19,The Next Generation,116.txt
 85,RIKER,   You look like you're packing up   and leaving forever.,15A  INT. SICKBAY AND CORRIDOR,SICKBAY AND CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
 86,BEVERLY,       Oh -- Commander Riker. No -- I'm   just getting my notes together.   It's so exciting. Doctor Terence   Epstein is at this Starbase.,15A  INT. SICKBAY AND CORRIDOR,SICKBAY AND CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
 87,RIKER,   Is he someone I should know about?,15A  INT. SICKBAY AND CORRIDOR,SICKBAY AND CORRIDOR,INT.,11001001,1987-11-19,The Next Generation,116.txt
@@ -236,19 +236,19 @@
 234,DATA,"   Alert starbase. Inform them we   are abandoning the ship. Tell   them why. Initiate the automated   sequence for departure, lay in   a course and speed to put maximum   distance between the Enterprise   and any inhabited planet.",44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,11001001,1987-11-19,The Next Generation,116.txt
 235,WESLEY,   Shouldn't we wait for the   captain's approval?,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,11001001,1987-11-19,The Next Generation,116.txt
 236,DATA,   There is no time. Based on all   the information presently   available the decision is correct.       This is Lieutenant Commander Data   speaking for the captain -- abandon   ship -- this is not a drill.,44   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,11001001,1987-11-19,The Next Generation,116.txt
-237,DATA,   I say again. All personnel   abandon ship. Abandon ship -- this   is not a drill -- this is not a   drill.,45   INT. ENTERPRISE - VARIOUS SHOTS,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+237,DATA,   I say again. All personnel   abandon ship. Abandon ship -- this   is not a drill -- this is not a   drill.,45   INT. ENTERPRISE - VARIOUS SHOTS,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
 238,COMPUTER,"       Decks One through Four to Cargo   Transporters. Decks Five through   Ten: Transporters: One-Two,   Three-Four. Decks Six through   Sixteen: Transporters: Five-Six,   Seven-Eight, Nine-Ten. Decks   Seventeen through Twenty-eight to   Transporters: Eleven-Twelve,   Thirteen-Fourteen. Decks Twenty-nine   through Forty-two:   Transporters: Fifteen-Sixteen,   Seventeen-Eighteen, Nineteen-Twenty.   This is not a drill.",48   INT. ENTERPRISE CORRIDORS (CONTINUE SERIES OF SHOTS),ENTERPRISE CORRIDORS,INT.,11001001,1987-11-19,The Next Generation,116.txt
 239,BEVERLY,"   When I reviewed your fifth paper   on molecular biology, I knew I   was on the right track. You   defined the problem as   conductivity -- and that's exactly   what...",49A  INT. STARBASE - CONFERENCE ROOM (NO WINDOWS),STARBASE - CONFERENCE ROOM,INT.,11001001,1987-11-19,The Next Generation,116.txt
 240,STARBASE COMPUTER ,   Attention all personnel.   Emergency evacuation of USS   Enterprise in progress. Report   to your stations.,49A  INT. STARBASE - CONFERENCE ROOM (NO WINDOWS),STARBASE - CONFERENCE ROOM,INT.,11001001,1987-11-19,The Next Generation,116.txt
 241,BEVERLY,"   Oh, no! Something's happened   to the Enterprise. That's my   ship!",49A  INT. STARBASE - CONFERENCE ROOM (NO WINDOWS),STARBASE - CONFERENCE ROOM,INT.,11001001,1987-11-19,The Next Generation,116.txt
-242,AD LIBBED S,   Hurry up! We don't have much   time! The ship'll be leaving in   a minute!,50   INT. ENTERPRISE - TRANSPORTER ROOM,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-243,WORF,   What's going on?,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,11001001,1987-11-19,The Next Generation,116.txt
-244,QUINTEROS,   Please stand out of the way.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,11001001,1987-11-19,The Next Generation,116.txt
-245,BEVERLY,   The Enterprise is being evacuated.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,11001001,1987-11-19,The Next Generation,116.txt
-246,WORF,   Why?,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,11001001,1987-11-19,The Next Generation,116.txt
-247,BEVERLY,   Some problem in Engineering.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,11001001,1987-11-19,The Next Generation,116.txt
-248,TASHA,   Get the security team together.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,11001001,1987-11-19,The Next Generation,116.txt
-249,WORF,"   Aye, Lieutenant.",51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTER,INT.,11001001,1987-11-19,The Next Generation,116.txt
+242,AD LIBBED S,   Hurry up! We don't have much   time! The ship'll be leaving in   a minute!,50   INT. ENTERPRISE - TRANSPORTER ROOM,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+243,WORF,   What's going on?,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+244,QUINTEROS,   Please stand out of the way.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+245,BEVERLY,   The Enterprise is being evacuated.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+246,WORF,   Why?,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+247,BEVERLY,   Some problem in Engineering.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+248,TASHA,   Get the security team together.,51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+249,WORF,"   Aye, Lieutenant.",51   INT. STARBASE COMMAND CENTER - NEW ANGLE,STARBASE COMMAND CENTE,INT.,11001001,1987-11-19,The Next Generation,116.txt
 250,DATA ,   Ship's log. Supplemental. This   is Lieutenant Commander Data.   I have put the ship on automated   departure and ordered the complete   evacuation of the Enterprise.   Everyone remaining is leaving on   foot or beaming off.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
 251,DATA,"   Computer, where are the captain   and Commander Riker?",52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
 252,COMPUTER,   All decks empty.,52   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,11001001,1987-11-19,The Next Generation,116.txt
@@ -389,22 +389,22 @@
 387,COMPUTER,   Does the first officer agree?,80   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,11001001,1987-11-19,The Next Generation,116.txt
 388,RIKER,   Affirmative.,80   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,11001001,1987-11-19,The Next Generation,116.txt
 389,COMPUTER,   Auto-destruct cancelled.,80   EXT. SPACE - THE ENTERPRISE (STOCK OPTICAL),SPACE - THE ENTERPRISE,EXT.,11001001,1987-11-19,The Next Generation,116.txt
-390,RIKER,   We're in orbit around Bynaus.       How are they?,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-391,PICARD,   They appear dead.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-392,PICARD,       Let's see if we can get some   answers from Bynaus.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-393,RIKER,   Their main computer is off.   Sensors reveal all of the   equipment on the planet is inert.   They can neither receive nor send   any messages.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-394,PICARD,   What about all the people in that   world who are totally dependant   on their computer? Are they still   functioning?,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-395,RIKER,   No. They are probably just like   these Bynars here. Dying.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-396,RIKER,"   So, what's this all about? Why   did they steal the ship and bring   it here? What was their purpose?",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-397,PICARD,   They went to a lot of trouble to   clear computer space. See what   they've stored.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-398,RIKER,"   Captain, it's enormous. Every   byte of free space in the computer   has been filled. They must have   made a core-dump from their world   to our computer.",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-399,RIKER,       I can't get in.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-400,RIKER,    (continuing; reading     the Screen)   I need a code -- a password -- to   access the file.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-401,PICARD,"   They were desperate to steal this   ship, bring it here to store all   this information. Why?",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-402,RIKER,   I don't know. I wish they had   left a note.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-403,PICARD,   Perhaps they did.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-404,RIKER,   Minuet.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
-405,PICARD,   Maybe.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRISE,INT.,11001001,1987-11-19,The Next Generation,116.txt
+390,RIKER,   We're in orbit around Bynaus.       How are they?,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+391,PICARD,   They appear dead.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+392,PICARD,       Let's see if we can get some   answers from Bynaus.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+393,RIKER,   Their main computer is off.   Sensors reveal all of the   equipment on the planet is inert.   They can neither receive nor send   any messages.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+394,PICARD,   What about all the people in that   world who are totally dependant   on their computer? Are they still   functioning?,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+395,RIKER,   No. They are probably just like   these Bynars here. Dying.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+396,RIKER,"   So, what's this all about? Why   did they steal the ship and bring   it here? What was their purpose?",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+397,PICARD,   They went to a lot of trouble to   clear computer space. See what   they've stored.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+398,RIKER,"   Captain, it's enormous. Every   byte of free space in the computer   has been filled. They must have   made a core-dump from their world   to our computer.",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+399,RIKER,       I can't get in.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+400,RIKER,    (continuing; reading     the Screen)   I need a code -- a password -- to   access the file.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+401,PICARD,"   They were desperate to steal this   ship, bring it here to store all   this information. Why?",81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+402,RIKER,   I don't know. I wish they had   left a note.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+403,PICARD,   Perhaps they did.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+404,RIKER,   Minuet.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
+405,PICARD,   Maybe.,81   INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,11001001,1987-11-19,The Next Generation,116.txt
 406,RIKER,   Tell me what this is all about.,84   INT. HOLODECK,HOLODECK,INT.,11001001,1987-11-19,The Next Generation,116.txt
 407,MINUET,   A star in the Bynar system went   super nova and they miscalculated.   The electromagnetic pulse from   the explosion was going to knock   out their main computer.,84   INT. HOLODECK,HOLODECK,INT.,11001001,1987-11-19,The Next Generation,116.txt
 408,PICARD,"   Their only chance was to transfer   all the stored information and   shut down until after it passed.   Then, reactivate their system and   transfer the information back to   this main computer.",84   INT. HOLODECK,HOLODECK,INT.,11001001,1987-11-19,The Next Generation,116.txt

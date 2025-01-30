@@ -33,11 +33,11 @@
 31,RIKER,       Then beam some of the ghosts up   here... one of them may be La   Forge.       Request permission to lead another   away team...,17   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 32,PICARD,   Denied.       When we get another window in the   storms.,17   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 33,PICARD,   The crash site?,17   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-34,RIKER,   The Romulan craft's a total loss.   There's nothing there to salvage   -- unless we do it with tweezers.,18.	INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-35,PICARD,   No sign of others...,18.	INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-36,RIKER,       We could barely see two meters   in front of us down there...,18.	INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-37,PICARD,"   It certainly is the last place   one would expect a Romulan   encroachment.       On the other hand, Galorndon Core   would provide ideal cover for an   opening move of a new offensive.",18.	INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-38,RIKER,       I doubt they were there for the   climate.,18.	INT. CORRIDOR - CONTINUOUS,CORRIDOR,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+34,RIKER,   The Romulan craft's a total loss.   There's nothing there to salvage   -- unless we do it with tweezers.,18.	INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+35,PICARD,   No sign of others...,18.	INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+36,RIKER,       We could barely see two meters   in front of us down there...,18.	INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+37,PICARD,"   It certainly is the last place   one would expect a Romulan   encroachment.       On the other hand, Galorndon Core   would provide ideal cover for an   opening move of a new offensive.",18.	INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+38,RIKER,       I doubt they were there for the   climate.,18.	INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 39,BEVERLY,"   We thought it would be like   working on a Vulcan, but there   are subtle differences... too many   of them...",25   INT. SICKBAY,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 40,PICARD,   Can you treat him?,25   INT. SICKBAY,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 41,BEVERLY,   He has cell damage in vital   areas... He's going to need a   transfusion of compatible   ribosomes in order to recover.   I'm setting up a schedule to   test every member of the crew.,25   INT. SICKBAY,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
@@ -139,19 +139,19 @@
 137,GEORDI,   You gotta be kidding.,54   INT. GALORNDON CAVE,GALORNDON CAVE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 138,BOCHRA,   Sit.,54   INT. GALORNDON CAVE,GALORNDON CAVE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 139,GEORDI,"       Welcome to Galorndon Core, where   no good deed goes unpunished...",54   INT. GALORNDON CAVE,GALORNDON CAVE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-140,WORF,"   Yes, Doctor...",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-141,BEVERLY,"   Lieutenant. Good. Come in.   Please, sit down...",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-142,BEVERLY,   We've finally found a compatible   ribosome match for the Romulan.   But only one. You.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-143,WORF,   That is impossible. I am a   Klingon.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-144,BEVERLY,"   Different species, yes. But   Humans, Romulans, Vulcans,   Klingons, Betazoids -- we're all   genetically similar. We have   comparable cell structures. And   you have what this Romulan   needs. There's absolutely no   risk to you...",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-145,BEVERLY,   You did understand that was the   purpose of all the testing...,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-146,WORF,   I have no objection to tests.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-147,BEVELRY,       You have an objection to being   a donor.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-148,WORF,   Yes.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-149,BEVERLY,"   Lieutenant, I understand your   feelings about the Romulans.   But this is not the time or   place...",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-150,WORF,"   If you had seen them kill your   parents, you would understand,   Doctor. It is always the time   and place for those feelings.",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-151,BEVERLY,   This Romulan did not kill your   parents. And you are the only   one who can save his life.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-152,WORF,       Then he will die.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+140,WORF,"   Yes, Doctor...",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+141,BEVERLY,"   Lieutenant. Good. Come in.   Please, sit down...",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+142,BEVERLY,   We've finally found a compatible   ribosome match for the Romulan.   But only one. You.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+143,WORF,   That is impossible. I am a   Klingon.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+144,BEVERLY,"   Different species, yes. But   Humans, Romulans, Vulcans,   Klingons, Betazoids -- we're all   genetically similar. We have   comparable cell structures. And   you have what this Romulan   needs. There's absolutely no   risk to you...",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+145,BEVERLY,   You did understand that was the   purpose of all the testing...,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+146,WORF,   I have no objection to tests.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+147,BEVELRY,       You have an objection to being   a donor.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+148,WORF,   Yes.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+149,BEVERLY,"   Lieutenant, I understand your   feelings about the Romulans.   But this is not the time or   place...",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+150,WORF,"   If you had seen them kill your   parents, you would understand,   Doctor. It is always the time   and place for those feelings.",55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+151,BEVERLY,   This Romulan did not kill your   parents. And you are the only   one who can save his life.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+152,WORF,       Then he will die.,55   INT. SICKBAY - BEVERLY'S OFFICE,SICKBA,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 153,BEVERLY,"   I don't need him to like the idea,   Captain... just to do it.",56   INT. READY ROOM,READY ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 154,PICARD,   There is no alternative?,56   INT. READY ROOM,READY ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 155,BEVERLY,   The alternative is the Romulan   will die. Worf is quite correct   on that point.,56   INT. READY ROOM,READY ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
@@ -243,20 +243,20 @@
 241,BOCHRA,   What is it?,61   INT. GALORNDON CAVE,GALORNDON CAVE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 242,GEORDI,   Everything's gone blank.       I'm blind.,61   INT. GALORNDON CAVE,GALORNDON CAVE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 243,RIKER,   Come.,62A  INT. CORRIDOR,CORRIDOR,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-244,WORF,   You are busy. Forgive my   intrusion.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-245,RIKER,"   For what it's worth, I understand   your bitterness.",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-246,WORF,"   With respect, sir... you cannot.       I am asked to give up the very   lifeblood of my mother, of my   father, to those who murdered   them.",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-247,RIKER,   Must you blame all Romulans for   that?,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-248,WORF,   Yes.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-249,RIKER,"   Forever, Worf?       What if the Federation should make   peace with the Romulans someday...",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-250,WORF,   Impossible.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-251,RIKER,"   Not long ago, your people said   the same thing about humans.",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-252,RIKER,"   And so many on both sides died   in that war. How could you and   I be here now... like this...   if we were unable to let go of   the anger, the blame.       When does it end, Worf? If the   Romulan dies, does his family   carry the bitterness forward   another generation?",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-253,WORF,   Then you believe I should.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-254,RIKER,   What I believe doesn't matter.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-255,WORF,   My Starfleet training tells me   one thing. Everything I am tells   me another.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-256,BEVERLY,"   Lieutenant Worf, report to   Sickbay.",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-257,WORF,   Acknowledged.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTERS,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+244,WORF,   You are busy. Forgive my   intrusion.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+245,RIKER,"   For what it's worth, I understand   your bitterness.",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+246,WORF,"   With respect, sir... you cannot.       I am asked to give up the very   lifeblood of my mother, of my   father, to those who murdered   them.",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+247,RIKER,   Must you blame all Romulans for   that?,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+248,WORF,   Yes.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+249,RIKER,"   Forever, Worf?       What if the Federation should make   peace with the Romulans someday...",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+250,WORF,   Impossible.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+251,RIKER,"   Not long ago, your people said   the same thing about humans.",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+252,RIKER,"   And so many on both sides died   in that war. How could you and   I be here now... like this...   if we were unable to let go of   the anger, the blame.       When does it end, Worf? If the   Romulan dies, does his family   carry the bitterness forward   another generation?",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+253,WORF,   Then you believe I should.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+254,RIKER,   What I believe doesn't matter.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+255,WORF,   My Starfleet training tells me   one thing. Everything I am tells   me another.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+256,BEVERLY,"   Lieutenant Worf, report to   Sickbay.",63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+257,WORF,   Acknowledged.,63   INT. RIKER'S QUARTERS - CONTINUOUS,RIKER'S QUARTER,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 258,BEVERLY,"   Lieutenant, his life is coming   to an end. I thought it important   for you to see him again.",64   INT. SICKBAY,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 259,BEVERLY,   It is not too late to change your   mind.,64   INT. SICKBAY,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 260,PATAHK,"   Come close to me, Klingon. Let   me die with my hands at your   throat.",64   INT. SICKBAY,SICKBAY,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
@@ -344,51 +344,51 @@
 342,WORF,"   Aye, sir.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 343,PICARD,   Lock phasers on target.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 344,WORF,   Phasers locked and ready.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-345,WESLEY,   Captain -- the signal pattern from   the neutrino beacon is modulating.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-346,TROI,   Geordi!,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-347,RIKER,   We can't transport him with our   shields up.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-348,WORF,"   If we lower our shields, the   Romulan will strike.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-349,DATA,   The electromagnetic window on the   planet is closing. Three minutes   remain.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-350,PICARD,   Transporter Room. Lock onto the   coordinates of the neutrino beacon   and stand by.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-351,O'BRIEN,"   Standing by, Captain.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-352,DATA,"   Captain, the window is allowing   intermittant sensor readings...   There are still numerous ghost   images, but I believe we are   picking up two life forms near   the beacon...",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-353,RIKER,   Another Romulan?,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-354,DATA,   I cannot say. The electromagnetic   interference prevents an accurate   reading.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-355,PICARD,"       But it is a likely hypothesis,   Number One. If Mister La Forge   located a second survivor...       Hail the Romulan ship, Lieutenant.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-356,WORF,"   Aye, sir.       They're ignoring our hail, sir.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-357,PICARD,"   Repeat the hail -- all channels.       He has no way of knowing how   accurate our sensors are... put   on your poker face, Number One...       Open frequency.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-358,PICARD,   Commander Tomalak. It would   appear our away team has rescued   a second man from your one man   ship.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-359,PICARD,"   They are on the surface, ready   to beam up. We are preparing   to do so.       After which we will return the   survivor to you.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-360,WORF,"   No acknowledgement, Captain.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-361,PICARD,"   Commander, both our ships are   ready to fight. We have two   supremely powerful, destructive   arsenals at our command. Our next   actions will have serious   repercussions for both sides.       We have good reason to mistrust   one another, Commander, but we   have better reasons to set our   differences aside. The question,   of course, is who will show   vulnerability first.       The answer is -- I will. I must   lower my shields to transport   these men off the planet surface.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-362,PICARD,"   Once the shields are down, you   will have an opportunity to open   fire. If you do, you will not   only destroy the Enterprise and   its crew -- but also the   cease-fire that the Romulans and   the Federation now enjoy.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-363,PICARD,"   Lieutenant, lower the shields.   Leave hailing frequencies open.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-364,WORF,"   Yes, sir.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-365,PICARD,   Mister O'Brien. Transport Mister   La Forge and the Romulan directly   to the bridge.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-366,O'BRIEN,"   Aye, sir. Energizing.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-367,WORF,   Security team to bridge.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-368,PICARD,"   Belay that order, Lieutenant.   Shields up.       No one is going to harm you.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-369,GEORDI,       You have my word.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-370,PICARD,"   Well, Commander?",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-371,TOMALAK,   If he has been in any way   mistreated...,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-372,BOCHRA,"   I have given them no information,   Commander -- but I have not been   mistreated.       In fact, this human saved my life.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-373,PICARD,"   Commander, how is it possible you   didn't know of this second   Romulan on Galorndon Core?",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-374,TOMALAK,"   A simple misunderstanding, Captain   Picard. I was obviously   misinformed as to the size of the   craft. I assure you, I intended   no deception.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-375,PICARD,   Of course not.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-376,TOMALAK,   You doubt my good faith?,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-377,PICARD,   Let's just say my faith would be   strengthened with a gesture --   such as powering down your   disruptors.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-378,WORF,"   Disruptors powering down, Captain.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-379,PICARD,"   Thank you. Cancel Red Alert,   Lieutenant.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-380,PICARD,"       We will return your officer and   escort your ship back to the   Neutral Zone, Commander.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-381,TOMALAK,   That is acceptable.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-382,PICARD,"   Mister La Forge, it's good to have   you back.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-383,GEORDI,"       I have Centurion Bochra to thank,   sir.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-384,BOCHRA,   Your vision is returning...,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-385,GEORDI,"   Yeah, gradually. Your heart   rate's slowing down.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-386,PICARD,"   Mister La Forge, Mister Worf --   escort our guest to Transporter   Room One.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-387,GEORDI,"   Aye, sir.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-388,RIKER,   Close call.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
-389,PICARD,"   Too close, Number One.   Brinksmanship is a dangerous   game...",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDGE,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+345,WESLEY,   Captain -- the signal pattern from   the neutrino beacon is modulating.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+346,TROI,   Geordi!,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+347,RIKER,   We can't transport him with our   shields up.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+348,WORF,"   If we lower our shields, the   Romulan will strike.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+349,DATA,   The electromagnetic window on the   planet is closing. Three minutes   remain.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+350,PICARD,   Transporter Room. Lock onto the   coordinates of the neutrino beacon   and stand by.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+351,O'BRIEN,"   Standing by, Captain.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+352,DATA,"   Captain, the window is allowing   intermittant sensor readings...   There are still numerous ghost   images, but I believe we are   picking up two life forms near   the beacon...",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+353,RIKER,   Another Romulan?,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+354,DATA,   I cannot say. The electromagnetic   interference prevents an accurate   reading.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+355,PICARD,"       But it is a likely hypothesis,   Number One. If Mister La Forge   located a second survivor...       Hail the Romulan ship, Lieutenant.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+356,WORF,"   Aye, sir.       They're ignoring our hail, sir.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+357,PICARD,"   Repeat the hail -- all channels.       He has no way of knowing how   accurate our sensors are... put   on your poker face, Number One...       Open frequency.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+358,PICARD,   Commander Tomalak. It would   appear our away team has rescued   a second man from your one man   ship.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+359,PICARD,"   They are on the surface, ready   to beam up. We are preparing   to do so.       After which we will return the   survivor to you.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+360,WORF,"   No acknowledgement, Captain.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+361,PICARD,"   Commander, both our ships are   ready to fight. We have two   supremely powerful, destructive   arsenals at our command. Our next   actions will have serious   repercussions for both sides.       We have good reason to mistrust   one another, Commander, but we   have better reasons to set our   differences aside. The question,   of course, is who will show   vulnerability first.       The answer is -- I will. I must   lower my shields to transport   these men off the planet surface.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+362,PICARD,"   Once the shields are down, you   will have an opportunity to open   fire. If you do, you will not   only destroy the Enterprise and   its crew -- but also the   cease-fire that the Romulans and   the Federation now enjoy.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+363,PICARD,"   Lieutenant, lower the shields.   Leave hailing frequencies open.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+364,WORF,"   Yes, sir.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+365,PICARD,   Mister O'Brien. Transport Mister   La Forge and the Romulan directly   to the bridge.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+366,O'BRIEN,"   Aye, sir. Energizing.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+367,WORF,   Security team to bridge.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+368,PICARD,"   Belay that order, Lieutenant.   Shields up.       No one is going to harm you.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+369,GEORDI,       You have my word.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+370,PICARD,"   Well, Commander?",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+371,TOMALAK,   If he has been in any way   mistreated...,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+372,BOCHRA,"   I have given them no information,   Commander -- but I have not been   mistreated.       In fact, this human saved my life.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+373,PICARD,"   Commander, how is it possible you   didn't know of this second   Romulan on Galorndon Core?",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+374,TOMALAK,"   A simple misunderstanding, Captain   Picard. I was obviously   misinformed as to the size of the   craft. I assure you, I intended   no deception.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+375,PICARD,   Of course not.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+376,TOMALAK,   You doubt my good faith?,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+377,PICARD,   Let's just say my faith would be   strengthened with a gesture --   such as powering down your   disruptors.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+378,WORF,"   Disruptors powering down, Captain.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+379,PICARD,"   Thank you. Cancel Red Alert,   Lieutenant.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+380,PICARD,"       We will return your officer and   escort your ship back to the   Neutral Zone, Commander.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+381,TOMALAK,   That is acceptable.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+382,PICARD,"   Mister La Forge, it's good to have   you back.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+383,GEORDI,"       I have Centurion Bochra to thank,   sir.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+384,BOCHRA,   Your vision is returning...,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+385,GEORDI,"   Yeah, gradually. Your heart   rate's slowing down.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+386,PICARD,"   Mister La Forge, Mister Worf --   escort our guest to Transporter   Room One.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+387,GEORDI,"   Aye, sir.",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+388,RIKER,   Close call.,80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
+389,PICARD,"   Too close, Number One.   Brinksmanship is a dangerous   game...",80   INT. MAIN BRIDGE - CONTINUOUS,MAIN BRIDG,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 390,BEVERLY,   It was not in my power to save   him.,86   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 391,BOCHRA,   He was a loyal officer.,86   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt
 392,BOCHRA,       Lieutenant Commander La Forge.,86   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,The Enemy,1989-09-11,The Next Generation,155.txt

@@ -17,10 +17,10 @@
 15,PICARD,   Would a delay of an hour affect   your plans?,3    INT. BRIDGE,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
 16,GEORDI,"   Not unless another asteroid   decides to pay a call on Penthara,   sir.",4    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
 17,DATA,"   The odds of that occurring,   Captain, are extremely unlikely,   given the time frame.",4    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
-18,PICARD,"   Thank you, Mister Data.       Prepare to come about, Ensign.   Let's take a look at Mister Worf's   distortion.",5    INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
-19,ENSIGN,"   Aye, sir.",5    INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
-20,RIKER,   Mister Worf's what?,5    INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
-21,PICARD,"   The Lieutenant's sensors detected   a temporal distortion, Number One,   almost directly on our current   course. There seems to be a small   object back there that wasn't   there a few moments ago.",5    INT. BRIDGE - CONTINUOUS,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
+18,PICARD,"   Thank you, Mister Data.       Prepare to come about, Ensign.   Let's take a look at Mister Worf's   distortion.",5    INT. BRIDGE - CONTINUOUS,BRIDG,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
+19,ENSIGN,"   Aye, sir.",5    INT. BRIDGE - CONTINUOUS,BRIDG,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
+20,RIKER,   Mister Worf's what?,5    INT. BRIDGE - CONTINUOUS,BRIDG,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
+21,PICARD,"   The Lieutenant's sensors detected   a temporal distortion, Number One,   almost directly on our current   course. There seems to be a small   object back there that wasn't   there a few moments ago.",5    INT. BRIDGE - CONTINUOUS,BRIDG,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
 22,WORF,"   The object is fifty kilometers   ahead, sir.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
 23,PICARD,"   Full stop, Ensign.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt
 24,ENSIGN,"   Aye, sir.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt

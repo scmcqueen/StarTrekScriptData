@@ -1,14 +1,14 @@
 ,character,quote,scene,location,view,episode,date,series,file
 0,PICARD ,"   Captain's log, Stardate 41294.5.   Our destination, the Class M Beta   Cassius planet known simply as   Haven. It is a world...",1    EXT. SPACE - STARSHIP (OPTICAL),SPACE - STARSHIP,EXT.,Haven,1987-07-13,The Next Generation,105.txt
-1,PICARD ,       ... so renowned for its peaceful   beauty that some believe it to   have mystical healing powers.,2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-2,PICARD,   Such a beautiful world. Legends   say it has been known to mend   souls and heal broken hearts.,2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-3,DATA,"   Legends which are totally   unsupported by fact, Captain.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-4,PICARD,"   Legends like that are the spice   of the universe, Mister Data,   because they have a way of   sometimes coming true.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-5,DATA,"   They have intrinsic value   regardless of the facts, sir?",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-6,PICARD,"   Facts are not everything, Mister   Data.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-7,DATA,"    (startled by the     thought)   Indeed, sir.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-8,PICARD,"   Standard orbit, Mister La Forge.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-9,GEORDI,"   Standard orbit, sir.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
+1,PICARD ,       ... so renowned for its peaceful   beauty that some believe it to   have mystical healing powers.,2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+2,PICARD,   Such a beautiful world. Legends   say it has been known to mend   souls and heal broken hearts.,2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+3,DATA,"   Legends which are totally   unsupported by fact, Captain.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+4,PICARD,"   Legends like that are the spice   of the universe, Mister Data,   because they have a way of   sometimes coming true.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+5,DATA,"   They have intrinsic value   regardless of the facts, sir?",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+6,PICARD,"   Facts are not everything, Mister   Data.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+7,DATA,"    (startled by the     thought)   Indeed, sir.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+8,PICARD,"   Standard orbit, Mister La Forge.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+9,GEORDI,"   Standard orbit, sir.",2    INT. MAIN BRIDGE - WIDE ANGLE,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
 10,TASHA,   Lieutenant Yar to Commander Riker.   Your presence is requested in   Transporter Room One.,7    INT. RIKER'S CABIN (OPTICAL),RIKER'S CABIN,INT.,Haven,1987-07-13,The Next Generation,105.txt
 11,RIKER,   Sorry ladies. Duty calls.,7    INT. RIKER'S CABIN (OPTICAL),RIKER'S CABIN,INT.,Haven,1987-07-13,The Next Generation,105.txt
 12,RIKER,"   Lieutenant, you needed me?",12   INT. TRANSPORTER ROOM ONE,TRANSPORTER ROOM ONE,INT.,Haven,1987-07-13,The Next Generation,105.txt
@@ -83,13 +83,13 @@
 81,MRS. TROI,"   That wasn't telepathy, it was   common sense. Who else would they   send to greet me but the Captain?       You may carry my luggage.",19   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Haven,1987-07-13,The Next Generation,105.txt
 82,TROI,   Mother!,19   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Haven,1987-07-13,The Next Generation,105.txt
 83,PICARD,"   No, no, quite all right. I'm   indebted to your mother for   the... the fine counselor she...",19   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Haven,1987-07-13,The Next Generation,105.txt
-84,TROI,"   Mother, it's quite inappropriate   to ask the captain to...",24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDOR,INT.,Haven,1987-07-13,The Next Generation,105.txt
-85,MRS. TROI,"       Yes, you do seem to be having   difficulty. A man your age must   work to keep himself in shape.",24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDOR,INT.,Haven,1987-07-13,The Next Generation,105.txt
-86,TROI,"   I'm not going another step this   way!       A starship has its customs just   as we do. Please set that down,   Captain.       If you're my mother's valet, then   please valet!",24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDOR,INT.,Haven,1987-07-13,The Next Generation,105.txt
-87,PICARD,"   Well, so long as you insist...",24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDOR,INT.,Haven,1987-07-13,The Next Generation,105.txt
-88,MRS. TROI,   I apologize for her behavior.       Do you realize you've embarrassed   your captain?       Do as she says. Anything to avoid   a quarrel on this occasion.,24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDOR,INT.,Haven,1987-07-13,The Next Generation,105.txt
-89,TROI,   Mother -- what happened to Xelo?,24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDOR,INT.,Haven,1987-07-13,The Next Generation,105.txt
-90,MRS. TROI,   I was forced to terminate his   employment.       Xelo was strongly attracted to   me -- his thoughts became truly   pornographic.,24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDOR,INT.,Haven,1987-07-13,The Next Generation,105.txt
+84,TROI,"   Mother, it's quite inappropriate   to ask the captain to...",24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDO,INT.,Haven,1987-07-13,The Next Generation,105.txt
+85,MRS. TROI,"       Yes, you do seem to be having   difficulty. A man your age must   work to keep himself in shape.",24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDO,INT.,Haven,1987-07-13,The Next Generation,105.txt
+86,TROI,"   I'm not going another step this   way!       A starship has its customs just   as we do. Please set that down,   Captain.       If you're my mother's valet, then   please valet!",24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDO,INT.,Haven,1987-07-13,The Next Generation,105.txt
+87,PICARD,"   Well, so long as you insist...",24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDO,INT.,Haven,1987-07-13,The Next Generation,105.txt
+88,MRS. TROI,   I apologize for her behavior.       Do you realize you've embarrassed   your captain?       Do as she says. Anything to avoid   a quarrel on this occasion.,24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDO,INT.,Haven,1987-07-13,The Next Generation,105.txt
+89,TROI,   Mother -- what happened to Xelo?,24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDO,INT.,Haven,1987-07-13,The Next Generation,105.txt
+90,MRS. TROI,   I was forced to terminate his   employment.       Xelo was strongly attracted to   me -- his thoughts became truly   pornographic.,24   INT. CORRIDOR - OUTSIDE TRANPORTER ROOM,CORRIDO,INT.,Haven,1987-07-13,The Next Generation,105.txt
 91,PICARD,       Passenger accommodations.,25   INT. TURBOLIFT,TURBOLIFT,INT.,Haven,1987-07-13,The Next Generation,105.txt
 92,MRS. TROI,       Of course the thoughts of Wyatt's   father toward me were almost as   vulgar...,25   INT. TURBOLIFT,TURBOLIFT,INT.,Haven,1987-07-13,The Next Generation,105.txt
 93,TROI,       Mother...,25   INT. TURBOLIFT,TURBOLIFT,INT.,Haven,1987-07-13,The Next Generation,105.txt
@@ -152,15 +152,15 @@
 150,TROI,   You have no idea who she is?,30   INT. WYATT'S QUARTERS,WYATT'S QUARTERS,INT.,Haven,1987-07-13,The Next Generation,105.txt
 151,WYATT,   No. And it really doesn't matter   now.,30   INT. WYATT'S QUARTERS,WYATT'S QUARTERS,INT.,Haven,1987-07-13,The Next Generation,105.txt
 152,PICARD ,   Captain's personal log. I trust   my concern over the problems of   ship's Counselor Troi are not   based merely on the fact of losing   a highly valuable crew member.   Actually...,33   EXT. SPACE (OPTICAL),SPACE,EXT.,Haven,1987-07-13,The Next Generation,105.txt
-153,PICARD ,       ... it seems to me that she has   become trapped by a custom of her   home world which the facts of the   twenty-fourth century have made   unwise and unworkable. I wish   I could intervene.,33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-154,DATA ,"   On the viewer, Captain...",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-155,DATA,"   Unidentified vessel. Traveling   sub-warp speed, bearing two-three-   five, mark seven.",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-156,PICARD,   Sub-warp? It's several hours   away then?       Let's take a look at it. Enlarge   to maximum.,33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-157,WORF,"   Increasing magnification, sir.",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-158,PICARD,   Mister Data! Am I seeing the   trouble I believe is there?,33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-159,DATA,"   If you mean a Tarellian vessel,   you are, sir.",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-160,RIKER,   I thought the Tarellians were   finished! What are the poor   devils doing here?,33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-161,PICARD,"   Doctor Crusher to the Bridge,   urgent!       There's no way I'll permit them   to destroy us. And the treaty   here forces us to protect this   world too.",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
+153,PICARD ,       ... it seems to me that she has   become trapped by a custom of her   home world which the facts of the   twenty-fourth century have made   unwise and unworkable. I wish   I could intervene.,33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+154,DATA ,"   On the viewer, Captain...",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+155,DATA,"   Unidentified vessel. Traveling   sub-warp speed, bearing two-three-   five, mark seven.",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+156,PICARD,   Sub-warp? It's several hours   away then?       Let's take a look at it. Enlarge   to maximum.,33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+157,WORF,"   Increasing magnification, sir.",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+158,PICARD,   Mister Data! Am I seeing the   trouble I believe is there?,33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+159,DATA,"   If you mean a Tarellian vessel,   you are, sir.",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+160,RIKER,   I thought the Tarellians were   finished! What are the poor   devils doing here?,33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+161,PICARD,"   Doctor Crusher to the Bridge,   urgent!       There's no way I'll permit them   to destroy us. And the treaty   here forces us to protect this   world too.",33A  INT. MAIN BRIDGE - CLOSE ON PICARD,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
 162,PICARD ,"   Captain's log, supplemental. It   has been believed the Tarellian   race was extinct, an assumption   contradicted now by the sight of   one of their vessels...",37   EXT. SPACE (OPTICAL),SPACE,EXT.,Haven,1987-07-13,The Next Generation,105.txt
 163,PICARD ,       ... approaching Haven.,38   INT. CONFERENCE ROOM (OPTICAL),CONFERENCE ROOM,INT.,Haven,1987-07-13,The Next Generation,105.txt
 164,RIKER,   The fact it is traveling at its   present velocity suggests an   answer.,38   INT. CONFERENCE ROOM (OPTICAL),CONFERENCE ROOM,INT.,Haven,1987-07-13,The Next Generation,105.txt
@@ -289,26 +289,26 @@
 287,RIKER,       Captain! The viewer... !,73B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
 288,TROI,   It's the woman in Wyatt's   painting!,73B  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
 289,PICARD ,"   Captain's log, Stardate 41294.7   orbiting Haven with the Tarellian   vessel locked in our tractor beam.   Question: What strange   combination...",76   EXT. SPACE - ENTERPRISE AND TARELLIAN VESSEL (OPTICAL),SPACE - ENTERPRISE AND TARELLIAN VESSEL,EXT.,Haven,1987-07-13,The Next Generation,105.txt
-290,PICARD ,       ... of circumstances has caused   a woman out of someone's   imagination to appear on the   plague ship?,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-291,GEORDI,"   Enterprise to Tarellian vessel,   are you receiving us?",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-292,WRENN,"   My name is Wrenn... and before   I inquire why you've trapped us   here, is there one aboard your   vessel named Wyatt?",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-293,PICARD,"   Your business is with me, sir.   I am Captain Picard, commanding   this starship.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-294,WYATT,"   Captain, I don't understand...",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-295,WRENN,"   I can't believe this! Ariana was   right!       He is there, daughter!",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-296,ARIANA,"   Wyatt, you've come to us. Just   as you promised.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-297,WYATT,"   What's happening? Except for   dream images, I've never seen her.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-298,TROI,   I'm not sure but perhaps mother   would...,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-299,PICARD,"       Our first order of business,   sir, is with the threat your   vessel poses to the planet below.   If you still carry the infection   which destroyed your world...",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-300,WRENN,"   Oh, we still carry it, Captain.   My daughter, I, all eight of us.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-301,PICARD,   Eight?,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-302,WRENN,"       All of us that are left, Captain.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-303,WRENN,       Most of the rest passed on during   the years it took to reach Haven.,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-304,PICARD,   Sir... if you've come here because   of the legend about planet Haven   miraculously healing the sick...,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-305,WRENN,"   No, no. We've learned to face   the truth about such things. But   Haven is a remarkably lovely and   pleasant place, is it not? All   we want is a resting place until   the last of us are gone.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-306,PICARD,"   I'm... sorry, but circumstances   make it impossible for us to allow   you to beam down to Haven.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-307,WRENN,"   We do not ask to make contact with   those living below. All we ask   is to be on the edge of some sea,   some unpopulated island or faraway   peninsula...",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-308,PICARD,"   This is not our planet, sir. I'll   be happy to present your needs   to those who govern this world...",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
-309,WRENN,"   Present the fact we intend to die   here, Captain. And if we die   while caged by your tractor beam,   so be it.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDGE,INT.,Haven,1987-07-13,The Next Generation,105.txt
+290,PICARD ,       ... of circumstances has caused   a woman out of someone's   imagination to appear on the   plague ship?,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+291,GEORDI,"   Enterprise to Tarellian vessel,   are you receiving us?",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+292,WRENN,"   My name is Wrenn... and before   I inquire why you've trapped us   here, is there one aboard your   vessel named Wyatt?",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+293,PICARD,"   Your business is with me, sir.   I am Captain Picard, commanding   this starship.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+294,WYATT,"   Captain, I don't understand...",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+295,WRENN,"   I can't believe this! Ariana was   right!       He is there, daughter!",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+296,ARIANA,"   Wyatt, you've come to us. Just   as you promised.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+297,WYATT,"   What's happening? Except for   dream images, I've never seen her.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+298,TROI,   I'm not sure but perhaps mother   would...,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+299,PICARD,"       Our first order of business,   sir, is with the threat your   vessel poses to the planet below.   If you still carry the infection   which destroyed your world...",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+300,WRENN,"   Oh, we still carry it, Captain.   My daughter, I, all eight of us.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+301,PICARD,   Eight?,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+302,WRENN,"       All of us that are left, Captain.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+303,WRENN,       Most of the rest passed on during   the years it took to reach Haven.,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+304,PICARD,   Sir... if you've come here because   of the legend about planet Haven   miraculously healing the sick...,77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+305,WRENN,"   No, no. We've learned to face   the truth about such things. But   Haven is a remarkably lovely and   pleasant place, is it not? All   we want is a resting place until   the last of us are gone.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+306,PICARD,"   I'm... sorry, but circumstances   make it impossible for us to allow   you to beam down to Haven.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+307,WRENN,"   We do not ask to make contact with   those living below. All we ask   is to be on the edge of some sea,   some unpopulated island or faraway   peninsula...",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+308,PICARD,"   This is not our planet, sir. I'll   be happy to present your needs   to those who govern this world...",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
+309,WRENN,"   Present the fact we intend to die   here, Captain. And if we die   while caged by your tractor beam,   so be it.",77   INT. MAIN BRIDGE - PRINCIPALS AND MAIN VIEWER,MAIN BRIDG,INT.,Haven,1987-07-13,The Next Generation,105.txt
 310,MRS. TROI,"   Isn't this combination exciting?   But I can't wear it, of course,   since your father would be   devastated if I weren't naked.",77A  INT. MRS. TROI'S QUARTERS,MRS. TROI'S QUARTERS,INT.,Haven,1987-07-13,The Next Generation,105.txt
 311,WYATT,"   Mrs. Troi, may I talk to you about   something serious?",77A  INT. MRS. TROI'S QUARTERS,MRS. TROI'S QUARTERS,INT.,Haven,1987-07-13,The Next Generation,105.txt
 312,MRS. TROI,"   I am always serious, dear boy.   Only my pleasant nature makes it   appear otherwise.",77A  INT. MRS. TROI'S QUARTERS,MRS. TROI'S QUARTERS,INT.,Haven,1987-07-13,The Next Generation,105.txt

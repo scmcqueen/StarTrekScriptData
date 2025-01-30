@@ -109,28 +109,28 @@
 107,DATA,"   Unknown, sir... it is difficult to   localize.",13   INT. BRIDGE,BRIDGE,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 108,WORF,"   The power drain has registered on   my security grid as well, sir...   it appears to be coming from deck   ten.",13   INT. BRIDGE,BRIDGE,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 109,RIKER,"       All right, Worf. Get a security   team on it.",13   INT. BRIDGE,BRIDGE,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-110,WORF,       Concentrate your scans on the EPS   transfer links...,18   INT. CORRIDOR - JUNCTION,CORRIDOR,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-111,WORF,   Computer. Open Holodeck Five.,18   INT. CORRIDOR - JUNCTION,CORRIDOR,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-112,COMPUTER,   Unable to comply. Holodeck Five   is in use.,18   INT. CORRIDOR - JUNCTION,CORRIDOR,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-113,WORF,"   Override. Authorization, Worf   Theta-six-one-nine.",18   INT. CORRIDOR - JUNCTION,CORRIDOR,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-114,COMPUTER,   Unable to comply. Holodeck   control systems have been   bypassed.,18   INT. CORRIDOR - JUNCTION,CORRIDOR,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-115,NIKOLAI ,   Worf... Come in...,18   INT. CORRIDOR - JUNCTION,CORRIDOR,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+110,WORF,       Concentrate your scans on the EPS   transfer links...,18   INT. CORRIDOR - JUNCTION,CORRIDO,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+111,WORF,   Computer. Open Holodeck Five.,18   INT. CORRIDOR - JUNCTION,CORRIDO,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+112,COMPUTER,   Unable to comply. Holodeck Five   is in use.,18   INT. CORRIDOR - JUNCTION,CORRIDO,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+113,WORF,"   Override. Authorization, Worf   Theta-six-one-nine.",18   INT. CORRIDOR - JUNCTION,CORRIDO,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+114,COMPUTER,   Unable to comply. Holodeck   control systems have been   bypassed.,18   INT. CORRIDOR - JUNCTION,CORRIDO,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+115,NIKOLAI ,   Worf... Come in...,18   INT. CORRIDOR - JUNCTION,CORRIDO,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 116,WORF,   What are you doing here?,20   INT. HOLODECK/CAVERN (OPTICAL),HOLODECK/CAVERN,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 117,NIKOLAI,   I have to show you something.   Follow me...,20   INT. HOLODECK/CAVERN (OPTICAL),HOLODECK/CAVERN,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 118,NIKOLAI,"       Whatever you do, stay quiet.",20   INT. HOLODECK/CAVERN (OPTICAL),HOLODECK/CAVERN,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 119,NIKOLAI,   Look.,20   INT. HOLODECK/CAVERN (OPTICAL),HOLODECK/CAVERN,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 120,NIKOLAI,   I've done what you refused to do.   I've saved them.,20   INT. HOLODECK/CAVERN (OPTICAL),HOLODECK/CAVERN,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-121,NIKOLAI,"   I started thinking about this days   ago... when it became clear the   planet was doomed. I knew if I   could get access to your ship's   computer, I'd be able to generate   a replica of the caves...",23   INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-122,NIKOLAI,   The hard part was transporting the   Boraalans into the Holodeck   without anyone on the Enterprise   noticing. But I was able to blank   out the sensors and make it look   like interference from the   plasmonic .,23   INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-123,NIKOLAI,   And it worked. Perfectly. The   Boraalans were transported while   they were sleeping -- they didn't   even know anything had happened.,23   INT. ENTERPRISE - CORRIDOR,ENTERPRISE,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-124,WORF,   Bridge.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-125,NIKOLAI,"   It's a simple plan, really...   that's the beauty of it.       Trust me, Worf -- this is going to   work.",24   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-126,WORF,       Trust you? You never had any   intention of obeying the Captain!,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-127,NIKOLAI,   I wasn't going to let those people   die just because your Captain   started quoting Federation dogma   to me.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-128,WORF,   Your duty was to respect the   Captain's orders and uphold the   Prime Directive.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-129,NIKOLAI,"   Duty. That's all that really   matters to you, isn't it?       Well, I refuse to be bound by an   abstraction. The lives of the   people of Boraal are far more   important to me.",24   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-130,NIKOLAI,   Worf... you worry too much. You   always did. Everything will work   out.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-131,WORF,   You have disgraced yourself... and   you have disgraced me. I want   nothing more to do with you.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIFT,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+121,NIKOLAI,"   I started thinking about this days   ago... when it became clear the   planet was doomed. I knew if I   could get access to your ship's   computer, I'd be able to generate   a replica of the caves...",23   INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+122,NIKOLAI,   The hard part was transporting the   Boraalans into the Holodeck   without anyone on the Enterprise   noticing. But I was able to blank   out the sensors and make it look   like interference from the   plasmonic .,23   INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+123,NIKOLAI,   And it worked. Perfectly. The   Boraalans were transported while   they were sleeping -- they didn't   even know anything had happened.,23   INT. ENTERPRISE - CORRIDOR,ENTERPRIS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+124,WORF,   Bridge.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+125,NIKOLAI,"   It's a simple plan, really...   that's the beauty of it.       Trust me, Worf -- this is going to   work.",24   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+126,WORF,       Trust you? You never had any   intention of obeying the Captain!,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+127,NIKOLAI,   I wasn't going to let those people   die just because your Captain   started quoting Federation dogma   to me.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+128,WORF,   Your duty was to respect the   Captain's orders and uphold the   Prime Directive.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+129,NIKOLAI,"   Duty. That's all that really   matters to you, isn't it?       Well, I refuse to be bound by an   abstraction. The lives of the   people of Boraal are far more   important to me.",24   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+130,NIKOLAI,   Worf... you worry too much. You   always did. Everything will work   out.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Homeward,1993-10-27,The Next Generation,265.txt
+131,WORF,   You have disgraced yourself... and   you have disgraced me. I want   nothing more to do with you.,24   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 132,PICARD,   You realize your career is   finished.,25   INT. READY ROOM,READY ROOM,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 133,NIKOLAI,"   I know that, Captain. And I would   do it all again.",25   INT. READY ROOM,READY ROOM,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 134,PICARD,   What do you expect us to do now?   You've left us with a colony of   Boraalans who think they're still   on their planet.,25   INT. READY ROOM,READY ROOM,INT.,Homeward,1993-10-27,The Next Generation,265.txt
@@ -254,28 +254,28 @@
 252,VORIN,   A new life... ?,47   INT. SICKBAY,SICKBAY,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 253,PICARD,   A chance... for your people...   your culture... to survive and   grow.,47   INT. SICKBAY,SICKBAY,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 254,VORIN,   How can we grow when everything   that made us who we are... is   gone?,47   INT. SICKBAY,SICKBAY,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-255,WORF,   I will carry this. Go join the   others...,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-256,KATERAS,"   Thank you, Seer...",48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-257,NIKOLAI,   It'll be dark in a few hours...   Can you tell Mister La Forge to   create a suitable campsite for us   a few kilometers from here?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-258,NIKOLAI,       What's the matter?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-259,WORF,   Vorin has left the Holodeck.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-260,NIKOLAI,       How did he get out?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-261,WORF,   I don't know. But Doctor Crusher   cannot erase his memory.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-262,NIKOLAI,   What will they do with him?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-263,WORF,   They have explained the situation   to him... he must make his own   decision.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-264,NIKOLAI,   Are you saying that if Vorin wants   to come back in here... they'll   let him?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-265,WORF,   That is his right. He's not a   prisoner.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-266,NIKOLAI,"   If he comes back and tells the   others what he's seen on the   Enterprise, everything we've done   will be for nothing...",48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-267,WORF,   You should've considered that   before you beamed them aboard!,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-268,WORF,   But you never think about the   consequences of your acts.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-269,NIKOLAI,   If you mean I'm willing to do   something -- while others hesitate --   that's true.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-270,WORF,"   Wherever you go, you create chaos.   How many times did our parents lie   awake at night, wondering what   kind of trouble you were in?",48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-271,NIKOLAI,"   If only I could have been more   like you -- Worf, the perfect son.",48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-272,WORF,   I was not perfect -- but I was not   wild and disobedient.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-273,NIKOLAI,   Of course not. You were too busy   doing your duty.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-274,WORF,   I would rather be accused of that --   than of making our mother weep.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-275,WORF,       But it is clear you have no   intention of changing. I see no   reason to discuss it further.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-276,WORF,"   Commander, the Holodeck   malfunctions are increasing...",50   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+255,WORF,   I will carry this. Go join the   others...,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+256,KATERAS,"   Thank you, Seer...",48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+257,NIKOLAI,   It'll be dark in a few hours...   Can you tell Mister La Forge to   create a suitable campsite for us   a few kilometers from here?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+258,NIKOLAI,       What's the matter?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+259,WORF,   Vorin has left the Holodeck.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+260,NIKOLAI,       How did he get out?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+261,WORF,   I don't know. But Doctor Crusher   cannot erase his memory.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+262,NIKOLAI,   What will they do with him?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+263,WORF,   They have explained the situation   to him... he must make his own   decision.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+264,NIKOLAI,   Are you saying that if Vorin wants   to come back in here... they'll   let him?,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+265,WORF,   That is his right. He's not a   prisoner.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+266,NIKOLAI,"   If he comes back and tells the   others what he's seen on the   Enterprise, everything we've done   will be for nothing...",48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+267,WORF,   You should've considered that   before you beamed them aboard!,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+268,WORF,   But you never think about the   consequences of your acts.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+269,NIKOLAI,   If you mean I'm willing to do   something -- while others hesitate --   that's true.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+270,WORF,"   Wherever you go, you create chaos.   How many times did our parents lie   awake at night, wondering what   kind of trouble you were in?",48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+271,NIKOLAI,"   If only I could have been more   like you -- Worf, the perfect son.",48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+272,WORF,   I was not perfect -- but I was not   wild and disobedient.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+273,NIKOLAI,   Of course not. You were too busy   doing your duty.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+274,WORF,   I would rather be accused of that --   than of making our mother weep.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+275,WORF,       But it is clear you have no   intention of changing. I see no   reason to discuss it further.,48   EXT. HOLODECK/SURFACE - RUGGED TERRAIN - DAY,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+276,WORF,"   Commander, the Holodeck   malfunctions are increasing...",50   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
 277,GEORDI,   I'm running every stabilization   routine I know...,52   INT. ENGINEERING,ENGINEERING,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 278,WORF,   How much longer until we reach the   new planet?,52   INT. ENGINEERING,ENGINEERING,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 279,GEORDI,   We'll be there in less than eight   hours... You just have to hold   things together a little while   longer...,52   INT. ENGINEERING,ENGINEERING,INT.,Homeward,1993-10-27,The Next Generation,265.txt
@@ -313,28 +313,28 @@
 311,VORIN,   I can't tell them the truth... but   I don't think I can live with a   secret.,56   INT. VORIN'S QUARTERS,VORIN'S QUARTERS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 312,PICARD,   You can stay here. Make a future   for yourself... with us.,56   INT. VORIN'S QUARTERS,VORIN'S QUARTERS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 313,VORIN,   I need some time... please...,56   INT. VORIN'S QUARTERS,VORIN'S QUARTERS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-314,WORF,   How could you have mated with a   Boraalan? What were you thinking?,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-315,NIKOLAI,   I don't owe you an explanation.   It's a matter between Dobara and   me.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-316,WORF,"   As usual, you are thinking only of   yourself.",57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-317,NIKOLAI,"   And as usual, you're here to point   out the error of my ways.",57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-318,WORF,   You have treated Dobara with   dishonor.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-319,NIKOLAI,   No -- I love her and I intend to   raise our child together.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-320,WORF,   That is impossible -- I cannot   allow you to stay here.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-321,NIKOLAI,   You will have to kill me first --,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-322,DOBARA,       What does it mean... ?,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-323,NIKOLAI,       The storms have returned.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-324,KATERAS,   We will be killed...,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-325,NIKOLAI,   No! Worf has the power to end the   storms once and for all...,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-326,WORF,   Yes. But everyone must take   shelter in the tents.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-327,KATERAS,   The tents won't protect us...,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-328,NIKOLAI,   Worf will protect you. You must   trust him.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-329,WORF,   Commander... it might help if you   could produce a storm...,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+314,WORF,   How could you have mated with a   Boraalan? What were you thinking?,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+315,NIKOLAI,   I don't owe you an explanation.   It's a matter between Dobara and   me.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+316,WORF,"   As usual, you are thinking only of   yourself.",57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+317,NIKOLAI,"   And as usual, you're here to point   out the error of my ways.",57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+318,WORF,   You have treated Dobara with   dishonor.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+319,NIKOLAI,   No -- I love her and I intend to   raise our child together.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+320,WORF,   That is impossible -- I cannot   allow you to stay here.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+321,NIKOLAI,   You will have to kill me first --,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+322,DOBARA,       What does it mean... ?,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+323,NIKOLAI,       The storms have returned.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+324,KATERAS,   We will be killed...,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+325,NIKOLAI,   No! Worf has the power to end the   storms once and for all...,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+326,WORF,   Yes. But everyone must take   shelter in the tents.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+327,KATERAS,   The tents won't protect us...,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+328,NIKOLAI,   Worf will protect you. You must   trust him.,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+329,WORF,   Commander... it might help if you   could produce a storm...,57   EXT. HOLODECK/SURFACE - CAMP - NIGHT,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
 330,WORF,"   ... wind, lightning and thunder.",60   INT. ENGINEERING,ENGINEERING,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 331,GEORDI,   I'll see what I can do...,60   INT. ENGINEERING,ENGINEERING,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-332,NIKOLAI,   The storm is getting worse! You   must go to your tents -- now!,61   EXT. HOLODECK/SURFACE - CAMP,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-333,WORF,       Commander... Energize...,61   EXT. HOLODECK/SURFACE - CAMP,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-334,WORF,   The storms will not return.,61   EXT. HOLODECK/SURFACE - CAMP,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-335,NIKOLAI,   What did I tell you? My brother   has saved us.,61   EXT. HOLODECK/SURFACE - CAMP,HOLODECK/SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+332,NIKOLAI,   The storm is getting worse! You   must go to your tents -- now!,61   EXT. HOLODECK/SURFACE - CAMP,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+333,WORF,       Commander... Energize...,61   EXT. HOLODECK/SURFACE - CAMP,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+334,WORF,   The storms will not return.,61   EXT. HOLODECK/SURFACE - CAMP,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+335,NIKOLAI,   What did I tell you? My brother   has saved us.,61   EXT. HOLODECK/SURFACE - CAMP,HOLODECK/SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
 336,PICARD ,"   Captain's Log, Stardate 47427.2.   The Boraalans have safely reached   the site of what will eventually   become their new village. None of   them suspects they ever left their   planet. However, our success has   come at a high price...",64   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
 337,BEVERLY,   I think it was some form of ritual   suicide...,65   INT. VORIN'S QUARTERS,VORIN'S QUARTERS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 338,PICARD,   He said he had nowhere to go...,65   INT. VORIN'S QUARTERS,VORIN'S QUARTERS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
@@ -343,21 +343,21 @@
 341,BEVERLY,   Are you saying you're sorry we   saved the Boraalans?,65   INT. VORIN'S QUARTERS,VORIN'S QUARTERS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 342,PICARD,"   No, of course not. Our plan   worked out well for them...",65   INT. VORIN'S QUARTERS,VORIN'S QUARTERS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
 343,PICARD,       But I wish Vorin could have   bridged the gap between our   cultures. I would have liked the   chance to know him better.,65   INT. VORIN'S QUARTERS,VORIN'S QUARTERS,INT.,Homeward,1993-10-27,The Next Generation,265.txt
-344,NIKOLAI,   Dobara... go inside.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-345,DOBARA,   Nikolai -- don't...,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-346,NIKOLAI,   Please.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-347,NIKOLAI,   I told you -- you'll have to kill   me to get me away from here.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-348,WORF,"   I don't want to fight you,   Nikolai.",67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-349,NIKOLAI,"   Nothing was ever easy between us,   was it?",67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-350,WORF,   No.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-351,NIKOLAI,"   It's my fault. If I'd been more   like you, we wouldn't have had so   many problems.",67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-352,WORF,   If you'd been more like me --   those people would not be here   now. You gave them a chance at a   new life.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-353,NIKOLAI,   Worf... I intend to share that   life with them. The village will   need someone to begin a new   chronicle... and my child will   need a father. My place is here.       Don't you see? I'm finally taking   responsibility.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-354,WORF,   You were never good at drawing...   how will you keep a chronicle?,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-355,NIKOLAI,   I learn quickly.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-356,WORF,   Then perhaps there is hope...,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-357,WORF,       May I take this with me?,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-358,NIKOLAI,   It's yours.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-359,WORF,   I will attempt to explain all this   to mother and father.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-360,NIKOLAI,   They won't understand.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
-361,WORF,   They may. I will tell them... you   are happy.,67   EXT. SURFACE - DAY,SURFACE,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+344,NIKOLAI,   Dobara... go inside.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+345,DOBARA,   Nikolai -- don't...,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+346,NIKOLAI,   Please.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+347,NIKOLAI,   I told you -- you'll have to kill   me to get me away from here.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+348,WORF,"   I don't want to fight you,   Nikolai.",67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+349,NIKOLAI,"   Nothing was ever easy between us,   was it?",67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+350,WORF,   No.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+351,NIKOLAI,"   It's my fault. If I'd been more   like you, we wouldn't have had so   many problems.",67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+352,WORF,   If you'd been more like me --   those people would not be here   now. You gave them a chance at a   new life.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+353,NIKOLAI,   Worf... I intend to share that   life with them. The village will   need someone to begin a new   chronicle... and my child will   need a father. My place is here.       Don't you see? I'm finally taking   responsibility.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+354,WORF,   You were never good at drawing...   how will you keep a chronicle?,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+355,NIKOLAI,   I learn quickly.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+356,WORF,   Then perhaps there is hope...,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+357,WORF,       May I take this with me?,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+358,NIKOLAI,   It's yours.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+359,WORF,   I will attempt to explain all this   to mother and father.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+360,NIKOLAI,   They won't understand.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
+361,WORF,   They may. I will tell them... you   are happy.,67   EXT. SURFACE - DAY,SURFAC,EXT.,Homeward,1993-10-27,The Next Generation,265.txt
