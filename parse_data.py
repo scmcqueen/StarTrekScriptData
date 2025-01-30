@@ -90,27 +90,32 @@ def get_title(lines):
 
 
 def get_date(lines):
-    draft_ind = 0
     for i in range(len(lines)):
         if "FINAL DRAFT" in lines[i]:
             series_ind = i
             break
-    try:
-        date = str(lines[series_ind+2])
-        date = date.strip()
-        spaces = len(date.split())
-        if ',' not in date:
-            final = datetime.strptime(date, '%B %d %Y')
-        elif spaces ==3:
-            final = datetime.strptime(date, '%B %d, %Y')
-        elif spaces==2:
-            final = datetime.strptime(date, '%B %d,%Y')
-        else:
-            print(lines[series_ind+2])
-            final = "AHHH"
-    except:
-        print(lines[series_ind+2])
-        final = "AHHH"
+    date = str(lines[series_ind+2])
+    date = date.strip()
+    final=date
+    spaces = len(date.split())
+    continue_b = False
+    if ''==date:
+        continue_b=True
+    elif ',' not in date:
+        final = datetime.strptime(date, '%B %d %Y')
+    elif spaces ==3:
+        final = datetime.strptime(date, '%B %d, %Y')
+    elif spaces==2:
+        final = datetime.strptime(date, '%B %d,%Y')
+    else:
+        print('Unknown date format')
+
+    if continue_b:
+        pattern = re.compile(r'^STAR TREK:.* CAST*')
+        filtered_strings = [s for s in lines if pattern.match(s.strip())]
+        date_info = filtered_strings[0]
+        date_info=re.search(r'\d{2}/\d{2}/\d{2}', date_info).group()
+        final = datetime.strptime(date_info, '%m/%d/%y')
     return final
 
 
