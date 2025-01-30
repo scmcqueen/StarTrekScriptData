@@ -114,7 +114,7 @@ def get_date(lines):
         pattern = re.compile(r'^STAR TREK:.* CAST*')
         filtered_strings = [s for s in lines if pattern.match(s.strip())]
         date_info = filtered_strings[0]
-        date_info=re.search(r'\d{2}/\d{2}/\d{2}', date_info).group()
+        date_info=re.search(r'\d{1,2}/\d{1,2}/\d{2}', date_info).group()
         final = datetime.strptime(date_info, '%m/%d/%y')
     return final
 
