@@ -6,3 +6,5 @@
 The folders scripts_ds9_data and scripts_tng_data have 349 data frames, one per episode.
 
 Complete_data.csv has the data for all of the episodes in both series combined: 144211 total lines.
+
+Scripts sourced from [Star Trek Minutiae](https://www.st-minutiae.com/resources/scripts/), where the scripts are intended for personal use only, under “fair use” principles of United States copyright law.
